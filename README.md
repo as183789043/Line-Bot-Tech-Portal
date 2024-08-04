@@ -1,4 +1,4 @@
-# Line-Bot-Tech-Protal
+# Line-Bot-Tech-Portal
 Line-Bot Protal that integrates technical blogs and personal resumes
 
 ## Architecture Diagram 
