@@ -11,7 +11,7 @@ def udn_topic(url,encoding):
         soup = BeautifulSoup(r.text,'html.parser')
         topics = soup.findAll(class_='navigation-list')
         for topic in topics:
-            href_list.append(topic.get('href') if topic.get('href').startswith("https") else f"https://udn.com/{topic.get('href')}" )
+            href_list.append(topic.get('href') if topic.get('href').startswith("https") else f"https://udn.com{topic.get('href')}" )
             topic_list.append(topic.text)
         href_list,topic_list=href_list[1:-1],topic_list[1:-1]
         if len(href_list) == len(topic_list):
