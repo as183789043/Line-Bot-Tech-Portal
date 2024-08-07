@@ -14,12 +14,38 @@ jobs:
       - name: cat app.py
         run: cat app.py
 
-  Echo-text:
+
+  Create-File-to-Deploy:
     needs: [Check-Repo-Code]
+    runs-on: 'ubuntu-latest'
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+
+      - name: Echo text to file
+        run: echo 'hello' >> file.txt
+
+      - name: git user and email
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+
+
+      - name: Commit changes
+        run: |
+          git add file.txt
+          git commit -m "Add file.txt from GitHub Actions"
+
+      - name: Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   ##自動生成不需額外配置
+        run: |
+          git push
+
+  Echo-Result:
+    needs: [Check-Repo-Code,Create-File-to-Deploy]
     runs-on: 'ubuntu-latest'
     steps:
       - name: Echo Finish
         run: echo "🍏 This job's status is ${{ job.status }}."
-
-
     
