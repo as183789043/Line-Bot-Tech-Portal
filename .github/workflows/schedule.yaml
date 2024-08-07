@@ -1,0 +1,24 @@
+name: Schedule Test
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule: ## Schedule the job to run at 12.am daily.
+    - cron: '5 * * * *'
+
+jobs:
+  Check-Repo-Code-and-Echo-text:
+    runs-on: 'ubuntu-latest'
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+        
+      - name: List File
+        run: ls -la
+
+      - name: Echo Finish
+        run: echo "🍏 This job's status is ${{ job.status }}."
+
+    
