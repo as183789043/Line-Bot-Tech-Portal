@@ -2,7 +2,7 @@ name: Schedule Test
 
 on:
   schedule: ## Schedule the job to run at 12.am daily.
-    - cron: '* * * * *'
+    - cron: '5 * * * *'
 
 jobs:
   Check-Repo-Code:
