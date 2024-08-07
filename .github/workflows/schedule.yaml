@@ -11,13 +11,15 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v4
         
-      - name: List File
+      - name: cat app.py
         run: cat app.py
-        
+
   Echo-text:
+    needs: [Check-Repo-Code]
     runs-on: 'ubuntu-latest'
     steps:
       - name: Echo Finish
         run: echo "🍏 This job's status is ${{ job.status }}."
+
 
     
