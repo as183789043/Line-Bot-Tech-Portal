@@ -25,7 +25,7 @@ jobs:
         run: python3 udn_crawler.py
 
       - name: Save output as artifact
-        uses: actions/upload-artifact@v@v4.1.8
+        uses: actions/upload-artifact@v4.3.6
         with:
           name: crawler-output
           path: .
@@ -37,7 +37,7 @@ jobs:
 
     steps:
       - name: Download output artifact
-        uses: actions/download-artifact@v@v4.1.8
+        uses: actions/download-artifact@v4.1.8
         with:
           name: crawler-output
 
