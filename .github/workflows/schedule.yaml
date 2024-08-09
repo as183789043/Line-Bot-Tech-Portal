@@ -2,7 +2,7 @@ name: Schedule Test
 
 on:
   schedule: # Schedule the job to run at the 5th minute of every hour
-    - cron: '5 * * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   # Job 1: Run the Crawler Script
@@ -25,7 +25,7 @@ jobs:
         run: python3 udn_crawler.py
       
       - name: Save output as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4.1.8
         with:
           name: crawler-output
           path: .
@@ -40,7 +40,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Download output artifact
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4.1.8
         with:
           name: crawler-output
 
