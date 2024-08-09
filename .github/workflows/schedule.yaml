@@ -11,19 +11,14 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v4
         
-      - name: cat app.py
-        run: cat app.py
+      - name: Setup Python
+        uses: actions/setup-python@v5.1.1
 
-
-  Create-File-to-Deploy:
-    needs: [Check-Repo-Code]
-    runs-on: 'ubuntu-latest'
-    steps:
-      - name: Check out repository code
-        uses: actions/checkout@v4
-
-      - name: Echo text to file
-        run: echo 'hello' >> file.txt
+      - name: Install Reqirement
+        run: pip install -r requirements.txt
+        
+      - name: Crawler Udn news 
+        run: python3  udn_crawler.py
 
       - name: git user and email
         run: |
@@ -42,10 +37,6 @@ jobs:
         run: |
           git push
 
-  Echo-Result:
-    needs: [Check-Repo-Code,Create-File-to-Deploy]
-    runs-on: 'ubuntu-latest'
-    steps:
       - name: Echo Finish
         run: echo "🍏 This job's status is ${{ job.status }}."
     
