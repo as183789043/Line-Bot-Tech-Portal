@@ -38,7 +38,7 @@ jobs:
 
       - name: Push changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   ##自動生成不需額外配置
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
         run: |
           git push
 
