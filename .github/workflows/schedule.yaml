@@ -28,8 +28,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git add file.txt
-          git commit -m "Add file.txt from GitHub Actions"
+          git add .
+          git commit -m "Submmit Crawler File from GitHub Actions"
 
       - name: Push changes
         env:
