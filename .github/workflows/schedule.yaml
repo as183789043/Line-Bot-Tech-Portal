@@ -2,45 +2,46 @@ name: Schedule Test
 
 on:
   schedule: # Schedule the job to run at the 5th minute of every hour
-    - cron: '*/10 * * * *'
+    - cron: "*/10 * * * *"
 
 jobs:
   # Job 1: Run the Crawler Script
   run-crawler:
-    runs-on: 'ubuntu-latest'
-    
+    runs-on: "ubuntu-latest"
+
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4
-        
+
       - name: Setup Python
         uses: actions/setup-python@v5.1.1
         with:
-          python-version: '3.12' 
+          python-version: "3.12"
+          allow-prereleases: true
 
       - name: Install Requirements
         run: pip install -r requirements.txt
-        
-      - name: Crawler Udn news 
+
+      - name: Crawler Udn news
         run: python3 udn_crawler.py
-      
+
       - name: Save output as artifact
-        uses: actions/upload-artifact@v4.1.8
+        uses: actions/upload-artifact@v4.3.6
         with:
           name: crawler-output
           path: .
 
   # Job 2: Git Commit and Push Changes
   git-commit:
-    runs-on: 'ubuntu-latest'
-    needs: run-crawler  # This job depends on the completion of 'run-crawler'
-    
+    runs-on: "ubuntu-latest"
+    needs: run-crawler # This job depends on the completion of 'run-crawler'
+
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4
 
       - name: Download output artifact
-        uses: actions/download-artifact@v4.1.8
+        uses: actions/download-artifact@v4.3.6
         with:
           name: crawler-output
 
@@ -56,14 +57,14 @@ jobs:
 
       - name: Push changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: git push
 
   # Job 3: Generate Result and Output Status
   generate-result:
-    runs-on: 'ubuntu-latest'
-    needs: git-commit  # This job depends on the completion of 'git-commit'
-    
+    runs-on: "ubuntu-latest"
+    needs: git-commit # This job depends on the completion of 'git-commit'
+
     steps:
       - name: Echo Finish
         run: echo "🍏 This job's status is ${{ job.status }}."
