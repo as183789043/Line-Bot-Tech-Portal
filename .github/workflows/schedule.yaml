@@ -63,11 +63,5 @@ jobs:
     needs: git-commit  # This job depends on the completion of 'git-commit'
     
     steps:
-      - name: Download output artifact
-        uses: actions/download-artifact@v3
-        with:
-          name: crawler-output
-
-
       - name: Echo Finish
         run: echo "🍏 This job's status is ${{ job.status }}."
