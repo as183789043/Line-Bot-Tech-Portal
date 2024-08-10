@@ -1,11 +1,6 @@
 {
     "生活": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/10/realtime/30242898.jpg&s=Y&x=80&y=0&sw=4776&sh=3184&exp=3600&w=300",
-            "title": "閉幕8分鐘焰火吸12萬人次 蔣萬安：攤商業績增4成",
-            "link": "https://udn.com//news/story/7270/8153706?from=udn-catebreaknews_ch2"
-        },
-        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/10/realtime/30242750.jpg&s=Y&x=0&y=22&sw=3179&sh=2118&exp=3600&w=300",
             "title": "公視爆弊案！員工侵吞社群營收3年「18萬全進口袋」 文化部發聲了",
             "link": "https://udn.com//news/story/7266/8153626?from=udn-catebreaknews_ch2"
@@ -24,6 +19,11 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/10/realtime/30242593.jpg&s=Y&x=0&y=0&sw=1565&sh=1044&exp=3600&w=300",
             "title": "健康處方幸福永續 林欣榮院長分享花蓮慈院永續經驗",
             "link": "https://udn.com//news/story/7266/8153567?from=udn-catebreaknews_ch2"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/10/realtime/30242591.jpeg&s=Y&x=0&y=0&sw=3806&sh=2537&exp=3600&w=300",
+            "title": "急症在宅照護 診所估服務蜂窩性組織炎、尿路感染多",
+            "link": "https://udn.com//news/story/7266/8153565?from=udn-catebreaknews_ch2"
         }
     ]
 }
