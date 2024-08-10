@@ -21,8 +21,11 @@ jobs:
       - name: Install Requirements
         run: pip install -r requirements.txt
 
-      - name: Crawler Udn news
+      - name: Crawler Udn metadata
         run: python3 udn_crawler.py
+        
+      - name: Crawler Udn news
+        run: python3 udn_article.py
 
 
       - name: git user and email
