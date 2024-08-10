@@ -36,6 +36,10 @@ jobs:
     needs: run-crawler # This job depends on the completion of 'run-crawler'
 
     steps:
+    
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      
       - name: Download output artifact
         uses: actions/download-artifact@v4.1.8
         with:
