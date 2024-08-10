@@ -1,6 +1,11 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/08/draft/30227084.jpg&s=Y&x=0&y=0&sw=720&sh=480&exp=3600&w=300",
+            "title": "「放假囉！來慈湖」七夕中秋主題夜 賞燈光秀看水舞",
+            "link": "https://udn.com//news/story/7206/8148317?from=udn-catebreaknews_ch2"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/03/0/30199129.jpg&s=Y&x=0&y=0&sw=800&sh=427&exp=3600&w=300",
             "title": "超人氣甜蜜「冰淇淋可頌」開賣啦！  台中第一家圓可頌推薦 香甜冰淇淋搭配酥脆可頌體超邪惡",
             "link": "https://udn.com//news/story/7207/8138378?from=udn-catebreaknews_ch2"
@@ -19,11 +24,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/10/draft/30239240.jpg&s=Y&x=0&y=0&sw=720&sh=480&exp=3600&w=300",
             "title": "「2024驚艷泰國旅遊展」8/10-11台北車站登場 超多旅遊優惠、住宿房型全面升等",
             "link": "https://udn.com//news/story/7160/8152705?from=udn-catebreaknews_ch2"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/10/98/30241270.jpg&s=Y&x=4&y=16&sw=1255&sh=837&exp=3600&w=300",
-            "title": "蛋商：颱風過菜價漲 吃蛋需求增批發價擬漲2元",
-            "link": "https://udn.com//news/story/7193/8153230?from=udn-catebreaknews_ch2"
         }
     ]
 }
