@@ -1,6 +1,11 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/11/realtime/30243372.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "900萬元不清不楚 在柯文哲眼裡只是瑕疵？",
+            "link": "https://udn.com//news/story/6656/8153945?from=udn-catebreaknews_ch2"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/10/realtime/30243076.jpg&s=Y&x=0&y=0&sw=1699&sh=1133&exp=3600&w=300",
             "title": "名人思生活／周錫瑋種花減碳 作畫廢寢忘食",
             "link": "https://udn.com//news/story/6656/8153771?from=udn-catebreaknews_ch2"
@@ -19,11 +24,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/10/realtime/30243236.jpg&s=Y&x=0&y=17&sw=2053&sh=1368&exp=3600&w=300",
             "title": "柯文哲假帳疑雲 議員質疑木可寄生柯競總",
             "link": "https://udn.com//news/story/124178/8153891?from=udn-catebreaknews_ch2"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/10/realtime/30243070.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "廣角鏡／空軍嘉義基地開放 逾萬人參觀",
-            "link": "https://udn.com//news/story/10930/8153763?from=udn-catebreaknews_ch2"
         }
     ]
 }

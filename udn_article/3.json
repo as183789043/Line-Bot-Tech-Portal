@@ -1,12 +1,17 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/10/realtime/30243115.jpg&s=Y&x=0&y=46&sw=6667&sh=4444&exp=3600&w=300",
+            "title": "圖解巴西61死空難 同型機9年摔4次",
+            "link": "https://udn.com//news/story/6809/8153863?from=udn-catebreaknews_ch2"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/08/10/30240858.jpg&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
             "title": "共和黨主攻移民 賀錦麗強硬喊改革",
             "link": "https://udn.com//news/story/121777/8153890?from=udn-catebreaknews_ch2"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
             "title": "嚇阻伊朗 美解禁對沙國武器出售",
             "link": "https://udn.com//news/story/123777/8153884?from=udn-catebreaknews_ch2"
         },
@@ -16,14 +21,9 @@
             "link": "https://udn.com//news/story/6809/8153880?from=udn-catebreaknews_ch2"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
             "title": "美股震盪 恐持續到月底",
             "link": "https://udn.com//news/story/6811/8153876?from=udn-catebreaknews_ch2"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/10/realtime/30243200.jpg&s=Y&x=167&y=0&sw=1770&sh=1181&exp=3600&w=300",
-            "title": "以哈戰事傷亡最慘 以空襲加薩學校釀百死",
-            "link": "https://udn.com//news/story/123777/8153866?from=udn-catebreaknews_ch2"
         }
     ]
 }
