@@ -1,6 +1,11 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/08/2/30230000.jpg&s=Y&x=0&y=0&sw=1242&sh=828&exp=3600&w=300",
+            "title": "00922買20張…「下殺1807點上漲670點」分兩天投資！ 達人：報酬率6.6％",
+            "link": "https://udn.com//news/story/123006/8153825?from=udn-catebreaknews_ch2"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/09/0/30234221.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "Fed利率連8凍9月恐降息 股市早已提前反應！經濟學家怎認為對美政治、股市影響不一？",
             "link": "https://udn.com//news/story/12806/8150926?from=udn-catebreaknews_ch2"
@@ -16,14 +21,9 @@
             "link": "https://udn.com//news/story/12806/8150911?from=udn-catebreaknews_ch2"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
             "title": "台股線型撐腰 反彈還沒結束",
             "link": "https://udn.com//news/story/7251/8152411?from=udn-catebreaknews_ch2"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
-            "title": "瑞銀：台股年底上看25,420點",
-            "link": "https://udn.com//news/story/7251/8152412?from=udn-catebreaknews_ch2"
         }
     ]
 }
