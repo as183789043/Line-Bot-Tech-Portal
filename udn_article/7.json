@@ -1,6 +1,16 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/07/2/30223157.jpg&s=Y&x=0&y=0&sw=1274&sh=849&exp=3600&w=300",
+            "title": "幾天內見證最大跌、漲點…單日跌500點好像已是日常！ 存股哥：買進00929降均價累積張數",
+            "link": "https://udn.com//news/story/123006/8154084?from=udn-catebreaknews_ch2"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/07/2/30222188.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "00919於「川普之亂」中大買102張！ 小師傅：股息突破180萬",
+            "link": "https://udn.com//news/story/123006/8154075?from=udn-catebreaknews_ch2"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/07/28/2/30153791.jpg&s=Y&x=0&y=0&sw=1238&sh=825&exp=3600&w=300",
             "title": "上半年賺逾一股本 強棒出列…大立光EPS暫居第一",
             "link": "https://udn.com//news/story/7251/8153859?from=udn-catebreaknews_ch2"
@@ -14,16 +24,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/07/19/2/30045460.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "股海自由行／AI趨勢不變 台股有驚無險",
             "link": "https://udn.com//news/story/7251/8153833?from=udn-catebreaknews_ch2"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/11/2/30243182.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "臻鼎、樺漢、元太 將談景氣",
-            "link": "https://udn.com//news/story/7251/8153811?from=udn-catebreaknews_ch2"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/11/2/30243181.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "傳產、生技業 說明營運前景",
-            "link": "https://udn.com//news/story/7251/8153815?from=udn-catebreaknews_ch2"
         }
     ]
 }
