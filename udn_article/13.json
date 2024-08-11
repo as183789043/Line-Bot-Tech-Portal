@@ -1,6 +1,16 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/11/0/30245454.jpg&s=Y&x=0&y=0&sw=1280&sh=712&exp=3600&w=300",
+            "title": "奪金優惠再一波！拿坡里炸雞、星巴克、迷客夏都來了 精選「消費者最愛的餐飲品牌」買1送1",
+            "link": "https://udn.com//news/story/7193/8154270?from=udn-catebreaknews_ch2"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/11/realtime/30245412.jpg&s=Y&x=0&y=0&sw=5740&sh=3891&exp=3600&w=300",
+            "title": "奪金！Mr.Wish「芒果冰沙1元」、「八色小籠包」買1送1",
+            "link": "https://udn.com//news/story/7193/8154340?from=udn-catebreaknews_ch2"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/05/draft/30209209.jpg&s=Y&x=0&y=8&sw=1170&sh=780&exp=3600&w=300",
             "title": "香港經典美食之旅，老字號餐廳大推薦！就連韓國廚神也必吃的好味道",
             "link": "https://udn.com//news/story/120672/8141419?from=udn-catebreaknews_ch2"
@@ -14,16 +24,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/11/realtime/30244868.jpeg&s=Y&x=0&y=0&sw=2016&sh=1345&exp=3600&w=300",
             "title": "狂賀林郁婷奪金！7-ELEVEN、全家搶推限時優惠 咖啡、思樂冰買1送1",
             "link": "https://udn.com//news/story/7186/8154161?from=udn-catebreaknews_ch2"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/11/0/30244785.jpeg&s=Y&x=0&y=32&sw=344&sh=229&exp=3600&w=300",
-            "title": "賀！林郁婷奪下奧運金牌 Mr.Wish大放送「愛文芒果冰沙」第2杯只要1元",
-            "link": "https://udn.com//news/story/7186/8154127?from=udn-catebreaknews_ch2"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/06/draft/30214336.jpg&s=Y&x=0&y=0&sw=768&sh=512&exp=3600&w=300",
-            "title": "用藝術翻轉城市　西班牙鋼鐵城「畢爾包」的華麗轉身",
-            "link": "https://udn.com//news/story/7171/8143417?from=udn-catebreaknews_ch2"
         }
     ]
 }
