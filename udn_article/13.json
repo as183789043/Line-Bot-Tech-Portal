@@ -1,6 +1,16 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/11/realtime/30246341.jpg&s=Y&x=0&y=7&sw=1024&sh=682&exp=3600&w=300",
+            "title": "獨／撐不住！花蓮人氣老屋飯店「葉宿文旅」預告熄燈",
+            "link": "https://udn.com//news/story/7934/8154605?from=udn-catebreaknews_ch2"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/11/realtime/30246296.jpg&s=Y&x=0&y=29&sw=4308&sh=2872&exp=3600&w=300",
+            "title": "3分之2台灣濕答答！15縣市大雨特報下到晚上",
+            "link": "https://udn.com//news/story/7193/8154594?from=udn-catebreaknews_ch2"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/09/draft/30234059.jpg&s=Y&x=0&y=0&sw=720&sh=480&exp=3600&w=300",
             "title": "新竹香山旅遊新亮點！感受新竹海岸之美 「鹽水公園」正式啟用",
             "link": "https://udn.com//news/story/7206/8150898?from=udn-catebreaknews_ch2"
@@ -14,16 +24,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/11/0/30245454.jpg&s=Y&x=0&y=0&sw=1280&sh=712&exp=3600&w=300",
             "title": "奪金優惠再一波！拿坡里炸雞、星巴克、迷客夏都來了 精選「消費者最愛的餐飲品牌」買1送1",
             "link": "https://udn.com//news/story/7193/8154270?from=udn-catebreaknews_ch2"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/11/realtime/30245412.jpg&s=Y&x=0&y=0&sw=5740&sh=3891&exp=3600&w=300",
-            "title": "奪金！Mr.Wish「芒果冰沙1元」、「八色小籠包」買1送1",
-            "link": "https://udn.com//news/story/7193/8154340?from=udn-catebreaknews_ch2"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/05/draft/30209209.jpg&s=Y&x=0&y=8&sw=1170&sh=780&exp=3600&w=300",
-            "title": "香港經典美食之旅，老字號餐廳大推薦！就連韓國廚神也必吃的好味道",
-            "link": "https://udn.com//news/story/120672/8141419?from=udn-catebreaknews_ch2"
         }
     ]
 }
