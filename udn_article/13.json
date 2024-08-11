@@ -1,6 +1,11 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/09/draft/30234059.jpg&s=Y&x=0&y=0&sw=720&sh=480&exp=3600&w=300",
+            "title": "新竹香山旅遊新亮點！感受新竹海岸之美 「鹽水公園」正式啟用",
+            "link": "https://udn.com//news/story/7206/8150898?from=udn-catebreaknews_ch2"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/10/0/30242749.jpeg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "「短尾矮袋鼠QUOKKA」首度來台快閃！限時9天 滿額送造型氣球",
             "link": "https://udn.com//news/story/7160/8153625?from=udn-catebreaknews_ch2"
@@ -19,11 +24,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/05/draft/30209209.jpg&s=Y&x=0&y=8&sw=1170&sh=780&exp=3600&w=300",
             "title": "香港經典美食之旅，老字號餐廳大推薦！就連韓國廚神也必吃的好味道",
             "link": "https://udn.com//news/story/120672/8141419?from=udn-catebreaknews_ch2"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/08/0/30238022.jpg&s=Y&x=0&y=0&sw=950&sh=526&exp=3600&w=300",
-            "title": "秒殺級難預約！ 岩手縣高級機械錶品牌Grand Seiko雫石工坊 超感動免費體驗",
-            "link": "https://udn.com//news/story/9654/8147790?from=udn-catebreaknews_ch2"
         }
     ]
 }
