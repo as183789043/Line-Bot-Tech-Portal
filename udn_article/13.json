@@ -1,6 +1,11 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/05/draft/30209209.jpg&s=Y&x=0&y=8&sw=1170&sh=780&exp=3600&w=300",
+            "title": "香港經典美食之旅，老字號餐廳大推薦！就連韓國廚神也必吃的好味道",
+            "link": "https://udn.com//news/story/120672/8141419?from=udn-catebreaknews_ch2"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/08/0/30238022.jpg&s=Y&x=0&y=0&sw=950&sh=526&exp=3600&w=300",
             "title": "秒殺級難預約！ 岩手縣高級機械錶品牌Grand Seiko雫石工坊 超感動免費體驗",
             "link": "https://udn.com//news/story/9654/8147790?from=udn-catebreaknews_ch2"
@@ -19,11 +24,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/06/draft/30214336.jpg&s=Y&x=0&y=0&sw=768&sh=512&exp=3600&w=300",
             "title": "用藝術翻轉城市　西班牙鋼鐵城「畢爾包」的華麗轉身",
             "link": "https://udn.com//news/story/7171/8143417?from=udn-catebreaknews_ch2"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/07/0/30238076.jpg&s=Y&x=0&y=0&sw=950&sh=526&exp=3600&w=300",
-            "title": "高雄熊分享追星攻略！跟著Super Junior等巨星步伐吃喝玩樂一次滿足",
-            "link": "https://udn.com//news/story/7209/8145724?from=udn-catebreaknews_ch2"
         }
     ]
 }
