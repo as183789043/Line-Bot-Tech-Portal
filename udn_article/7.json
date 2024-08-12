@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/07/22/98/30082736.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "今年來最佳…上市櫃營收 寫最強7月",
+            "link": "https://udn.com//news/story/7251/8157396?from=udn-catebreaknews_ch2",
+            "time": "2024-08-13 06:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/12/realtime/30254494.jpg&s=Y&x=0&y=0&sw=944&sh=639&exp=3600&w=300",
             "title": "證交稅7月增41%…連15紅 前七月衝1,746億元",
             "link": "https://udn.com//news/story/7251/8157399?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2024-08-13 05:50"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
             "title": "欣興衝刺 凱基43鍍金",
             "link": "https://udn.com//news/story/7253/8157049?from=udn-catebreaknews_ch2",
             "time": "2024-08-13 05:33"
@@ -23,12 +29,6 @@
             "title": "緯創三率三升 上半年超賺",
             "link": "https://udn.com//news/story/7253/8157381?from=udn-catebreaknews_ch2",
             "time": "2024-08-13 05:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
-            "title": "台股7月登高峰 證交稅連15紅",
-            "link": "https://udn.com//news/story/7251/8157462?from=udn-catebreaknews_ch2",
-            "time": "2024-08-13 05:01"
         }
     ]
 }
