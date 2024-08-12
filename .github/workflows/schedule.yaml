@@ -1,8 +1,8 @@
-name: Schedule Test
+name: Crawler Udn News per Hour
 
 on:
   schedule: # Schedule the job to run at the 5th minute of every hour
-    - cron: "5 * * * *"
+    - cron: "0 * * * *"
 
 jobs:
   # Job 1: Run the Crawler Script
