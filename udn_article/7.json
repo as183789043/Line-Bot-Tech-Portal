@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/07/30/2/30172299.jpg&s=Y&x=16&y=16&sw=1221&sh=814&exp=3600&w=300",
+            "title": "遠傳前7月EPS 1.96元 合併縱效、5G、新經濟齊發威",
+            "link": "https://udn.com//news/story/7253/8156899?from=udn-catebreaknews_ch2",
+            "time": "2024-08-12 18:05"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/07/2/30222188.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "外資買超191億元 最高的竟是這檔ETF、其次是聯電",
+            "link": "https://udn.com//news/story/7251/8156792?from=udn-catebreaknews_ch2",
+            "time": "2024-08-12 17:25"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/07/26/2/30131802.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "美債殖利率反彈 掌握長債ETF布局甜蜜點",
             "link": "https://udn.com//news/story/123006/8156699?from=udn-catebreaknews_ch2",
@@ -8,7 +20,7 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/05/14/realtime/29657271.jpg&s=Y&x=0&y=29&sw=3854&sh=2568&exp=3600&w=300",
-            "title": "瓦城財報／上半年EPS 5.14元 下半年展店迎新高峰",
+            "title": "瓦城財報／上半年EPS 4.67元 下半年展店迎新高峰",
             "link": "https://udn.com//news/story/7254/8156690?from=udn-catebreaknews_ch2",
             "time": "2024-08-12 16:39"
         },
@@ -17,18 +29,6 @@
             "title": "股市寫新高！7月證交稅連15個月雙位數正成長",
             "link": "https://udn.com//news/story/7251/8156675?from=udn-catebreaknews_ch2",
             "time": "2024-08-12 16:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/05/24/2/29704415.jpg&s=Y&x=0&y=0&sw=797&sh=531&exp=3600&w=300",
-            "title": "萬海財報／第2季獲利季增約153% EPS 4.12元",
-            "link": "https://udn.com//news/story/7252/8156607?from=udn-catebreaknews_ch2",
-            "time": "2024-08-12 16:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
-            "title": "元大金貼權收31.8元 法人看好金融股後市展望",
-            "link": "https://udn.com//news/story/7252/8156357?from=udn-catebreaknews_ch2",
-            "time": "2024-08-12 15:39"
         }
     ]
 }
