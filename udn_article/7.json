@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/12/2/30250968.jpg&s=Y&x=0&y=256&sw=1280&sh=853&exp=3600&w=300",
+            "title": "櫃買中心舉行新舊任董事長交接典禮 簡立忠提五大方向",
+            "link": "https://udn.com//news/story/7254/8155931?from=udn-catebreaknews_ch2",
+            "time": "2024-08-12 11:40"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/12/98/30250823.jpg&s=Y&x=0&y=0&sw=1242&sh=828&exp=3600&w=300",
+            "title": "AI概念股反攻 台股漲逾400點逼近21900點",
+            "link": "https://udn.com//news/story/7251/8155872?from=udn-catebreaknews_ch2",
+            "time": "2024-08-12 11:27"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/12/98/30250778.jpg&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
             "title": "前10大日圓計價日股基金 連兩季申購破百億",
             "link": "https://udn.com//news/story/7251/8155839?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "嘉威上半年獲利年增75％、EPS 4.62元 越南廠明年第1季投產",
             "link": "https://udn.com//news/story/7252/8155824?from=udn-catebreaknews_ch2",
             "time": "2024-08-12 11:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/04/27/2/29545768.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "新光金增資股上市 中籤戶若賣盤中高點可賺2.5萬",
-            "link": "https://udn.com//news/story/7252/8155812?from=udn-catebreaknews_ch2",
-            "time": "2024-08-12 11:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/06/2/30216713.jpg&s=Y&x=32&y=24&sw=1197&sh=798&exp=3600&w=300",
-            "title": "長榮航第2季獲利創新高 法人估全年獲利逐季走高",
-            "link": "https://udn.com//news/story/7252/8155775?from=udn-catebreaknews_ch2",
-            "time": "2024-08-12 10:49"
         }
     ]
 }
