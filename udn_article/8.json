@@ -1,7 +1,19 @@
 {
     "生活": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/14/realtime/30262016.png&s=Y&x=0&y=8&sw=1114&sh=742&exp=3600&w=300",
+            "title": "凌晨2時21分台東外海規模4.3地震 最大震度2級",
+            "link": "https://udn.com//news/story/7266/8160098?from=udn-catebreaknews_ch2",
+            "time": "2024-08-14 05:47"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/14/realtime/30262013.jpg&s=Y&x=0&y=22&sw=3013&sh=2008&exp=3600&w=300",
+            "title": "安比將轉中颱 吳德榮：季風環流多颱風 1周慎防大雷雨",
+            "link": "https://udn.com//news/story/7266/8160097?from=udn-catebreaknews_ch2",
+            "time": "2024-08-14 05:42"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_8.jpg&w=300",
             "title": "金玉涼言",
             "link": "https://udn.com//news/story/7272/8141042?from=udn-catebreaknews_ch2",
             "time": "2024-08-14 04:04"
@@ -17,18 +29,6 @@
             "title": "類鼻疽爆3死 高雄患者上周增最多",
             "link": "https://udn.com//news/story/7266/8159839?from=udn-catebreaknews_ch2",
             "time": "2024-08-14 01:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/13/realtime/30261105.jpg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
-            "title": "偏鄉醫療 賴清德：任內投入63億",
-            "link": "https://udn.com//news/story/7266/8159927?from=udn-catebreaknews_ch2",
-            "time": "2024-08-14 01:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/13/realtime/30261150.jpg&s=Y&x=22&y=0&sw=474&sh=316&exp=3600&w=300",
-            "title": "秋燥宜涼補、平補 3藥材泡茶養氣",
-            "link": "https://udn.com//news/story/7266/8159946?from=udn-catebreaknews_ch2",
-            "time": "2024-08-14 01:18"
         }
     ]
 }
