@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/09/2/30232893.jpg&s=Y&x=36&y=12&sw=1245&sh=830&exp=3600&w=300",
+            "title": "外資買超248億元 買超這檔逾6.9萬張最多、第二名是反向ETF",
+            "link": "https://udn.com//news/story/7251/8161634?from=udn-catebreaknews_ch2",
+            "time": "2024-08-14 16:56"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/14/2/30265842.jpg&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
+            "title": "鴻海法說會／iPhone 16需求？公司：消費智能產品下半年優於去年同期",
+            "link": "https://udn.com//news/story/7253/8161569?from=udn-catebreaknews_ch2",
+            "time": "2024-08-14 16:35"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/14/realtime/30265789.jpg&s=Y&x=0&y=484&sw=3024&sh=2016&exp=3600&w=300",
+            "title": "永豐餘法說會／總座：2月拿到售電業執照 工紙價格觸底反彈跡象已現",
+            "link": "https://udn.com//news/story/7252/8161561?from=udn-catebreaknews_ch2",
+            "time": "2024-08-14 16:32"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/14/2/30265562.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "鴻海法說會／GB200延遲出貨？ 鴻海：如期在第4季小量出貨",
             "link": "https://udn.com//news/story/7253/8161446?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "債券型跟高股息ETF怎麼挑？辣媽：想要配息相對穩定的選它",
             "link": "https://udn.com//news/story/123006/8161386?from=udn-catebreaknews_ch2",
             "time": "2024-08-14 15:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/14/realtime/30265381.jpg&s=Y&x=0&y=100&sw=1590&sh=1060&exp=3600&w=300",
-            "title": "華紙法說會／總座：7月價格下壓出現買氣 第4季展望樂觀",
-            "link": "https://udn.com//news/story/7252/8161344?from=udn-catebreaknews_ch2",
-            "time": "2024-08-14 15:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/14/1/30265385.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "鴻海法說會／雲端網路產品大幅成長、AI伺服器能見度大增 今年優於去年",
-            "link": "https://udn.com//news/story/7253/8161341?from=udn-catebreaknews_ch2",
-            "time": "2024-08-14 15:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/14/2/30265363.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "台股上漲230點 三大法人買超219億元",
-            "link": "https://udn.com//news/story/7251/8161334?from=udn-catebreaknews_ch2",
-            "time": "2024-08-14 15:15"
         }
     ]
 }
