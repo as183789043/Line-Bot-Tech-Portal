@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/07/03/2/29933764.jpg&s=Y&x=0&y=0&sw=1206&sh=804&exp=3600&w=300",
+            "title": "138萬股民看過來！00878確定配0.55元 8月15日為最後買進日",
+            "link": "https://udn.com//news/story/123006/8162235?from=udn-catebreaknews_ch2",
+            "time": "2024-08-14 21:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/14/2/30267280.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "估晶圓代工產業未來18個月進入復甦循環 小摩按讚兩大台廠",
             "link": "https://udn.com//news/story/7251/8162206?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2024-08-14 20:18"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/14/98/30267057.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "13日雷擊釀停電 南亞科：損失3至5億元 拚2天內復機",
             "link": "https://udn.com//news/story/7253/8161921?from=udn-catebreaknews_ch2",
             "time": "2024-08-14 20:05"
@@ -23,12 +29,6 @@
             "title": "金寶財報／上半年每股賺0.6元、賺贏去年全年 加碼公布1利多",
             "link": "https://udn.com//news/story/7253/8162070?from=udn-catebreaknews_ch2",
             "time": "2024-08-14 19:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/14/2/30266990.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "估第3季iPhone出貨將季增33% 大摩按讚3台廠",
-            "link": "https://udn.com//news/story/7251/8162011?from=udn-catebreaknews_ch2",
-            "time": "2024-08-14 19:32"
         }
     ]
 }
