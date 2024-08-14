@@ -1,13 +1,25 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/15/realtime/30268011.jpg&s=Y&x=0&y=8&sw=1170&sh=780&exp=3600&w=300",
+            "title": "英特爾衝AI PC！攜全台首家合作軟體商訊連 搶兆元大單",
+            "link": "https://udn.com//news/story/7240/8162648?from=udn-catebreaknews_ch2",
+            "time": "2024-08-15 01:37"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/14/realtime/30267597.jpg&s=Y&x=0&y=0&sw=1039&sh=685&exp=3600&w=300",
+            "title": "政院4年目標 人均GDP逾4萬美元",
+            "link": "https://udn.com//news/story/7238/8162402?from=udn-catebreaknews_ch2",
+            "time": "2024-08-15 01:08"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/14/realtime/30267598.jpg&s=Y&x=302&y=0&sw=4350&sh=2900&exp=3600&w=300",
-            "title": "富邦率鷹眼聯盟 成功阻詐3.6億",
+            "title": "富邦率「鷹眼聯盟」 成功阻詐3.6億",
             "link": "https://udn.com//news/story/7239/8162414?from=udn-catebreaknews_ch2",
             "time": "2024-08-15 00:45"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_9.jpg&w=300",
             "title": "累計罰960萬 仍在用超額頻寬 NCC三罰台灣大",
             "link": "https://udn.com//news/story/7240/8162409?from=udn-catebreaknews_ch2",
             "time": "2024-08-15 00:35"
@@ -17,18 +29,6 @@
             "title": "AI手機大戰 Google搶先蘋果推新機",
             "link": "https://udn.com//news/story/7240/8162403?from=udn-catebreaknews_ch2",
             "time": "2024-08-15 00:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_3.jpg&w=300",
-            "title": "北部資料中心不供電 北北桃痛批",
-            "link": "https://udn.com//news/story/7238/8162463?from=udn-catebreaknews_ch2",
-            "time": "2024-08-15 00:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/14/realtime/30267662.jpg&s=Y&x=0&y=0&sw=4061&sh=2707&exp=3600&w=300",
-            "title": "土銀新董座何英明 稅前獲利目標要衝破200億元",
-            "link": "https://udn.com//news/story/7239/8162520?from=udn-catebreaknews_ch2",
-            "time": "2024-08-14 23:30"
         }
     ]
 }
