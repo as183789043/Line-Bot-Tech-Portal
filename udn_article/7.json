@@ -1,21 +1,9 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/15/2/30267929.jpg&s=Y&x=0&y=0&sw=880&sh=587&exp=3600&w=300",
-            "title": "就市論勢／AI伺服器鏈 需求熱",
-            "link": "https://udn.com//news/story/7251/8162073?from=udn-catebreaknews_ch2",
-            "time": "2024-08-15 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
-            "title": "貶值受惠股 盤面焦點",
-            "link": "https://udn.com//news/story/7251/8162077?from=udn-catebreaknews_ch2",
-            "time": "2024-08-15 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/12/realtime/30250497.jpg&s=Y&x=0&y=8&sw=1170&sh=780&exp=3600&w=300",
-            "title": "期貨商論壇／廣達期 長線有戲",
-            "link": "https://udn.com//news/story/7255/8162097?from=udn-catebreaknews_ch2",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/15/2/30267731.png&s=Y&x=81&y=0&sw=545&sh=363&exp=3600&w=300",
+            "title": "大立光、台達電 四檔夯",
+            "link": "https://udn.com//news/story/7255/8162477?from=udn-catebreaknews_ch2",
             "time": "2024-08-15 03:00"
         },
         {
@@ -25,9 +13,21 @@
             "time": "2024-08-15 03:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
-            "title": "6檔Q2轉虧為盈股 吸睛",
-            "link": "https://udn.com//news/story/7251/8162078?from=udn-catebreaknews_ch2",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/12/realtime/30250497.jpg&s=Y&x=0&y=8&sw=1170&sh=780&exp=3600&w=300",
+            "title": "期貨商論壇／廣達期 長線有戲",
+            "link": "https://udn.com//news/story/7255/8162097?from=udn-catebreaknews_ch2",
+            "time": "2024-08-15 03:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/15/2/30267929.jpg&s=Y&x=0&y=0&sw=880&sh=587&exp=3600&w=300",
+            "title": "就市論勢／AI伺服器鏈 需求熱",
+            "link": "https://udn.com//news/story/7251/8162073?from=udn-catebreaknews_ch2",
+            "time": "2024-08-15 03:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
+            "title": "貶值受惠股 盤面焦點",
+            "link": "https://udn.com//news/story/7251/8162077?from=udn-catebreaknews_ch2",
             "time": "2024-08-15 03:00"
         }
     ]
