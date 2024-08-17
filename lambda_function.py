@@ -1,6 +1,5 @@
 # ENV Parameter
 import os
-from dotenv import load_dotenv
 from linebot_fn import reply,read_metedata
 import ujson
 
@@ -26,13 +25,8 @@ from linebot.v3.webhooks import (
     TextMessageContent
 )
 
-
-load_dotenv()
-
-
-
-configuration = Configuration(access_token=os.getenv('CHANNEL_ACCESS_TOKEN'))
-handler = WebhookHandler(os.getenv('CHANNEL_SECRET'))
+configuration = Configuration(access_token=os.environ['CHANNEL_ACCESS_TOKEN'])
+handler = WebhookHandler(os.environ['CHANNEL_SECRET'])
 
 
 ##讀入爬蟲內容
