@@ -8,14 +8,10 @@ jobs:
   setup-aws-cli:
     runs-on: ubuntu-latest
     steps:
-      - name: Install Package
-        run: |
-          sudo  snap install aws-cli --classic 
-
       - name: Setup AWS CLI
         uses: aws-actions/configure-aws-credentials@v4
         with:
-          region: 'ap-northeast-1'
+          aws-region: 'ap-northeast-1'
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
 
