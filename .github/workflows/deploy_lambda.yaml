@@ -45,8 +45,13 @@ jobs:
           #zip  lambda function
           mkdir function_file
           rsync -av --exclude='function_file' . function_file/
-          ls function_file
+          zip -r function_file.zip function_file/  
 
+          #update lambda function code
+          aws lambda update-function-code \
+          --function-name arn:aws:lambda:ap-northeast-1:614916122187:function:LineBot-News \
+          --zip-file fileb://function_file.zip \
+          --region ap-northeast-1 \
 
       - name: AWS CLI Setting Finish
-        run: echo 'ok'
+        run: echo ' Deploy to AWS Lambda ok'
