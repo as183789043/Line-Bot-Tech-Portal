@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import ujson
-from .app_fn import read_metedata,reply
+from app_fn import reply,read_metedata
 
 
 #Read json file
