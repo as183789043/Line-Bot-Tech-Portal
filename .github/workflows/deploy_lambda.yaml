@@ -3,6 +3,10 @@ on:
   push:
     branches:
       - main
+  workflow_run:
+    workflows: ["Crawler Udn News per Hour"]
+    types:
+      - completed
 
 jobs:
   setup-aws-cli:
