@@ -39,6 +39,14 @@ jobs:
           --compatible-runtimes python3.12 \
           --region ap-northeast-1
 
+          #Remove layer file
+          sudo rm -rf layer.zip python/
+
+          #zip  lambda function
+          mkdir function_file
+          cp -r * function_file
+          ls function_file
+
 
       - name: AWS CLI Setting Finish
         run: echo 'ok'
