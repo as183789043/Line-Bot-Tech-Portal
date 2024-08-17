@@ -1,6 +1,6 @@
 # ENV Parameter
 import os
-from linebot_fn import reply,read_metedata
+from .lambda_fn import reply,read_metedata
 import ujson
 
 from linebot.v3 import (
@@ -30,7 +30,7 @@ handler = WebhookHandler(os.environ['CHANNEL_SECRET'])
 
 
 ##讀入爬蟲內容
-topic_index,topic_url=read_metedata('./udn_metadata/topic_index.json','utf-8'),read_metedata('./udn_metadata/topic_mapping_url.json','utf-8')
+topic_index,topic_url=read_metedata('./function_file/udn_metadata/topic_index.json','utf-8'),read_metedata('./function_file/udn_metadata/topic_mapping_url.json','utf-8')
 topic_index_check = list(topic_index.values())
 topic_index_check = list(topic_index.values())
 
@@ -46,7 +46,7 @@ def handle_message(event):
         # 處理文字消息
         if isinstance(event.message, TextMessageContent):
             if event.message.text in topic_index_check:
-                with open(f'./udn_article/{topic_index_check.index(event.message.text)}.json','r',encoding='utf-8') as f:
+                with open(f'./function_file/udn_article/{topic_index_check.index(event.message.text)}.json','r',encoding='utf-8') as f:
                     news=ujson.load(f)
 
                     #輪播模板
@@ -126,7 +126,7 @@ def handle_message(event):
 
 
             elif event.message.text in ['新聞','news','主題','topic']:
-                with open(f'./udn_metadata/topic_index.json','r',encoding='utf-8') as f:
+                with open(f'./function_file/udn_metadata/topic_index.json','r',encoding='utf-8') as f:
                     news=ujson.load(f)
                     news_list=list(news.values())
                     news_topic='輸入以下主題文字查看新聞\n'+('\n。'.join(news_list))
@@ -162,6 +162,7 @@ def lambda_handler(event, context):
         body = event['body']
         signature = event['headers']['x-line-signature']
         handler.handle(body, signature)
+        print(body)
         return {
             'statusCode': 200,
             'body': ujson.dumps('Hello from Lambda!')

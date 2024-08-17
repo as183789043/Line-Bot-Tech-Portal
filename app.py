@@ -3,7 +3,7 @@ import os
 from dotenv import load_dotenv
 
 from flask import Flask, request, abort
-from linebot_fn import reply,read_metedata
+from app_fn import reply,read_metedata
 import ujson
 from linebot.v3 import (
     WebhookHandler

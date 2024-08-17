@@ -1,11 +1,12 @@
 import ujson
-from udn_article import  read_metedata
-
-#Read json file
-topic_index,topic_url=read_metedata('./udn_metadata/topic_index.json','utf-8'),read_metedata('./udn_metadata/topic_mapping_url.json','utf-8')
-topic_index_check = list(topic_index.values())
 
 # user_input = str(input('請輸入內容:'))
+
+def read_metedata(filename,encoding):
+    with open(filename,'r',encoding=encoding) as file:
+        data = ujson.load(file)
+    return data
+
 
 def reply(body):
     if body in topic_index_check:
@@ -28,4 +29,7 @@ def reply(body):
 
 
 if __name__=="__main__":
+    #Read json file
+    topic_index,topic_url=read_metedata('./udn_metadata/topic_index.json','utf-8'),read_metedata('./udn_metadata/topic_mapping_url.json','utf-8')
+    topic_index_check = list(topic_index.values())
     print(reply(user_input))

@@ -1,11 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 import ujson
+from .app_fn import read_metedata,reply
 
-def read_metedata(filename,encoding):
-    with open(filename,'r',encoding=encoding) as file:
-        data = ujson.load(file)
-    return data
 
 #Read json file
 topic_index=read_metedata('./udn_metadata/topic_index.json','utf-8')
