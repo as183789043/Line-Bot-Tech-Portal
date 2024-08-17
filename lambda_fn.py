@@ -7,7 +7,7 @@ def read_metedata(filename,encoding):
         data = ujson.load(file)
     return data
 
-
+#lambda多一層目錄
 def reply(body):
     if body in topic_index_check:
         with open(f'./function_file/function_file/udn_article/{topic_index_check.index(body)}.json','r',encoding='utf-8') as f:
