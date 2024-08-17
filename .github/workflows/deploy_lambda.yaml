@@ -16,9 +16,29 @@ jobs:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
 
-        
+      - name: Setup Python
+        uses: actions/setup-python@v5.1.1
+        with:
+          python-version: 3.12
+          
       - name: Checkout Repository
         uses: actions/checkout@v4
+
+      - name: Upload Python package to Lambda Layer
+        run: |
+          #setup pytho and pip
+          mkdir python
+          pip install -r requirements.txt -t python/
+          zip -r layer.zip python/
+          
+          #upload to lambda layer
+          aws lambda publish-layer-version \
+          --layer-name MyPythonDependencies \
+          --description "Python dependencies for MyLineBot" \
+          --zip-file fileb://layer.zip \
+          --compatible-runtimes python3.8 \
+          --region us-west-2
+
 
       - name: AWS CLI Setting Finish
         run: echo 'ok'
