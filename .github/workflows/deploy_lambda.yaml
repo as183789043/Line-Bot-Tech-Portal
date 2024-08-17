@@ -10,8 +10,8 @@ jobs:
     steps:
       - name: Install Package
         run: |
-          apt install zip unzip
-          snap install aws-cli --classic
+          sudo apt install zip unzip -y
+          sudo  snap install aws-cli --classic -y
 
       - name: Setup AWS CLI
         uses: sagarsthorat/aws-cli@v1
