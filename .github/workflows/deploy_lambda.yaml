@@ -52,7 +52,7 @@ jobs:
           --layer-name MyPythonDependencies \
           --query 'LayerVersions[0].LayerVersionArn' \
           --output text \
-          --regionap-northeast-1)
+          --region ap-northeast-1)
 
           #update lambda function code
           aws lambda update-function-code \
