@@ -2,10 +2,23 @@
 Line-Bot Protal that integrates technical blogs and personal resumes
 
 ## Architecture Diagram 
-![image](https://github.com/user-attachments/assets/ff602c55-ffe3-48d5-ad85-4531564959c6)
+![image](https://github.com/user-attachments/assets/07718246-503e-48e9-80ea-96cbe69ac65c)
+
 
 ## Demo LineBot 
 https://github.com/user-attachments/assets/b55b52f6-4e95-44d5-8581-121287fd7551
+
+
+## Lambda Workflow
+![image](https://github.com/user-attachments/assets/525e9474-3ad4-467e-ab6e-2484a5428d82)
+
+## Route Setting
+![image](https://github.com/user-attachments/assets/f3505f6a-794d-4976-b7c1-29b979f59d95)
+
+
+## Record execution results
+![image](https://github.com/user-attachments/assets/3a8f97a0-52dc-42b0-8bc2-8eee1c487dc7)
+
 
 
 
