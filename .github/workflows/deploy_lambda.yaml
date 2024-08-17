@@ -44,7 +44,7 @@ jobs:
 
           #zip  lambda function
           mkdir function_file
-          cp -r * function_file
+          rsync -av --exclude='function_file' . function_file/
           ls function_file
 
 
