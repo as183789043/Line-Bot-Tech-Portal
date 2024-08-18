@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/19/1/30291571.jpg&s=Y&x=176&y=28&sw=1008&sh=672&exp=3600&w=300",
+            "title": "監委檢討台語腔 學者：先確認是否有「標準音」",
+            "link": "https://udn.com//news/story/6656/8170119?from=udn-catebreaknews_ch2",
+            "time": "2024-08-19 02:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/13/realtime/30258819.jpg&s=Y&x=0&y=0&sw=4905&sh=3269&exp=3600&w=300",
             "title": "星期評論／前朝埋彈 蔣萬安要以解蛋態度拆彈",
             "link": "https://udn.com//news/story/6656/8170011?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "檢討大眾運輸台語腔調 監委挨批越權",
             "link": "https://udn.com//news/story/6656/8170110?from=udn-catebreaknews_ch2",
             "time": "2024-08-19 01:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/18/realtime/30291249.jpg&s=Y&x=0&y=0&sw=3507&sh=2339&exp=3600&w=300",
-            "title": "張善政固樑提1200月票 罷團反擊",
-            "link": "https://udn.com//news/story/124184/8170129?from=udn-catebreaknews_ch2",
-            "time": "2024-08-19 01:40"
         }
     ]
 }
