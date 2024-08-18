@@ -1,6 +1,12 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/18/2/30288530.jpg&s=Y&x=0&y=0&sw=871&sh=581&exp=3600&w=300",
+            "title": "台積電7月營收年增44.7% 法人：第3季預估每股獲利11.2元",
+            "link": "https://udn.com//news/story/7240/8169217?from=udn-catebreaknews_ch2",
+            "time": "2024-08-18 11:55"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/17/realtime/30285214.jpg&s=Y&x=0&y=0&sw=3333&sh=2234&exp=3600&w=300",
             "title": "本周台股／台股驚漲路數拖愈久愈好？本周挑戰收復季線",
             "link": "https://udn.com//news/story/7238/8168356?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "第二季財報三率三降低於預期 英特爾怎麼了？",
             "link": "https://udn.com//news/story/7240/8164375?from=udn-catebreaknews_ch2",
             "time": "2024-08-18 06:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/05/20/realtime/29685228.jpg&s=Y&x=0&y=0&sw=1500&sh=1000&exp=3600&w=300",
-            "title": "LINE Bank拚明年損益兩平 取得外匯執照",
-            "link": "https://udn.com//news/story/7239/8168687?from=udn-catebreaknews_ch2",
-            "time": "2024-08-18 05:30"
         }
     ]
 }
