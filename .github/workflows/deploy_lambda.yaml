@@ -30,33 +30,11 @@ jobs:
 
       - name: Upload Python package to Lambda Layer
         run: |
-          #setup pytho and pip
-          mkdir python
-          pip install -r requirements.txt -t python/
-          zip -r layer.zip python/
-          
-          #upload to lambda layer
-          aws lambda publish-layer-version \
-          --layer-name MyPythonDependencies \
-          --description "Python dependencies for MyLineBot" \
-          --zip-file fileb://layer.zip \
-          --compatible-runtimes python3.12 \
-          --region ap-northeast-1
-
-          #Remove layer file
-          sudo rm -rf layer.zip python/
-
           #zip  lambda function
           mkdir function_file
           rsync -av --exclude='function_file' . function_file/
           zip -r function_file.zip function_file/  
 
-          #retrieve layer version
-          latest_layer_version=$(aws lambda list-layer-versions \
-          --layer-name MyPythonDependencies \
-          --query 'LayerVersions[0].LayerVersionArn' \
-          --output text \
-          --region ap-northeast-1)
 
           #update lambda function code
           aws lambda update-function-code \
@@ -64,11 +42,6 @@ jobs:
           --zip-file fileb://function_file.zip \
           --region ap-northeast-1 \
 
-          #Update Layer
-          aws lambda update-function-configuration \
-          --function-name arn:aws:lambda:ap-northeast-1:614916122187:function:LineBot-News \
-          --layers $latest_layer_version \
-          --region ap-northeast-1
 
       - name: AWS CLI Setting Finish
         run: echo ' Deploy to AWS Lambda ok'
