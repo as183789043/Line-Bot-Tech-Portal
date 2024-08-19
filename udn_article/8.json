@@ -1,7 +1,25 @@
 {
     "生活": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/20/realtime/30298430.png&s=Y&x=0&y=8&sw=1114&sh=742&exp=3600&w=300",
+            "title": "震央在花蓮縣政府附近 凌晨4時17分規模3.6地震 最大震度1級",
+            "link": "https://udn.com//news/story/7266/8172618?from=udn-catebreaknews_ch2",
+            "time": "2024-08-20 06:01"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/20/realtime/30298364.jpg&s=Y&x=201&y=0&sw=3042&sh=2029&exp=3600&w=300",
+            "title": "午後仍防熱對流雷雨 太平洋高壓西伸 未來1周高溫少雨",
+            "link": "https://udn.com//news/story/7266/8172601?from=udn-catebreaknews_ch2",
+            "time": "2024-08-20 05:53"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/20/realtime/30298350.jpg&s=Y&x=0&y=26&sw=1819&sh=1212&exp=3600&w=300",
+            "title": "今有局部大雷雨 吳德榮：慎防劇烈天氣 雲雀北上不侵台",
+            "link": "https://udn.com//news/story/7266/8172593?from=udn-catebreaknews_ch2",
+            "time": "2024-08-20 05:35"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_2.jpg&w=300",
             "title": "一句好話",
             "link": "https://udn.com//news/story/7272/8157079?from=udn-catebreaknews_ch2",
             "time": "2024-08-20 04:15"
@@ -11,24 +29,6 @@
             "title": "獵人為女兒轉行 護蟹20年",
             "link": "https://udn.com//news/story/7470/8172338?from=udn-catebreaknews_ch2",
             "time": "2024-08-20 03:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/19/realtime/30297338.jpg&s=Y&x=212&y=0&sw=2304&sh=1536&exp=3600&w=300",
-            "title": "陸蟹廊道升級 路殺少8成",
-            "link": "https://udn.com//news/story/7470/8172336?from=udn-catebreaknews_ch2",
-            "time": "2024-08-20 03:15"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_9.jpg&w=300",
-            "title": "性別友善廁所 擬5年倍增",
-            "link": "https://udn.com//news/story/7266/8172289?from=udn-catebreaknews_ch2",
-            "time": "2024-08-20 03:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_2.jpg&w=300",
-            "title": "網路違法攬客觀光 品保協會促查",
-            "link": "https://udn.com//news/story/7266/8172328?from=udn-catebreaknews_ch2",
-            "time": "2024-08-20 03:12"
         }
     ]
 }
