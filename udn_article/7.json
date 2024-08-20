@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/20/realtime/30301601.jpg&s=Y&x=0&y=4&sw=640&sh=426&exp=3600&w=300",
+            "title": "這檔基金今年來獲最多長線投資人加碼 績效也稱霸",
+            "link": "https://udn.com//news/story/10103/8173757?from=udn-catebreaknews_ch2",
+            "time": "2024-08-20 15:09"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/20/realtime/30301172.jpg&s=Y&x=27&y=0&sw=762&sh=509&exp=3600&w=300",
+            "title": "比AI更具爆發力新趨勢 野村全台首發ETF 00960全球航運霸主",
+            "link": "https://udn.com//news/story/123006/8173667?from=udn-catebreaknews_ch2",
+            "time": "2024-08-20 14:31"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/19/98/30294570.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "殺出程咬金！中信金傳爭取併購 新光金尾盤爆量急拉",
+            "link": "https://udn.com//news/story/7251/8173653?from=udn-catebreaknews_ch2",
+            "time": "2024-08-20 14:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/20/2/30297281.jpg&s=Y&x=0&y=0&sw=905&sh=603&exp=3600&w=300",
             "title": "台股小漲19點收22,429點 台積電平盤作收",
             "link": "https://udn.com//news/story/7251/8173537?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "0050「定期定額或單筆投入」只能擇一怎選？小畢：ALL IN高機率獲較好報酬",
             "link": "https://udn.com//news/story/123006/8173423?from=udn-catebreaknews_ch2",
             "time": "2024-08-20 13:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/20/2/30298605.jpg&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
-            "title": "台積電德國廠動土、股價開高走低 但這幾檔供應鏈上漲",
-            "link": "https://udn.com//news/story/7253/8173336?from=udn-catebreaknews_ch2",
-            "time": "2024-08-20 12:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/20/realtime/30300515.jpg&s=Y&x=156&y=0&sw=534&sh=356&exp=3600&w=300",
-            "title": "單月漲16%、今年漲33% 這檔ETF有這大利多",
-            "link": "https://udn.com//news/story/7253/8173332?from=udn-catebreaknews_ch2",
-            "time": "2024-08-20 12:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/20/realtime/30300439.jpg&s=Y&x=124&y=0&sw=582&sh=389&exp=3600&w=300",
-            "title": "劇烈波動回緩 日股再攻高善用量化工具",
-            "link": "https://udn.com//news/story/7251/8173291?from=udn-catebreaknews_ch2",
-            "time": "2024-08-20 12:05"
         }
     ]
 }
