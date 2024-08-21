@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/22/realtime/30311666.jpg&s=Y&x=0&y=0&sw=4000&sh=2666&exp=3600&w=300",
+            "title": "民主黨全代會第三天 華茲將接受提名成為副總統候選人",
+            "link": "https://udn.com//news/story/6813/8177587?from=udn-catebreaknews_ch2",
+            "time": "2024-08-22 05:10"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/22/98/30311236.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "烏克蘭無人機襲油庫釀火災 俄東正教士攜聖像聖水盼助滅火",
             "link": "https://udn.com//news/story/122663/8177566?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2024-08-22 01:50"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
             "title": "澳洲參院通過挺台動議",
             "link": "https://udn.com//news/story/6809/8177423?from=udn-catebreaknews_ch2",
             "time": "2024-08-22 01:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/21/realtime/30307884.jpg&s=Y&x=0&y=0&sw=3774&sh=2508&exp=3600&w=300",
-            "title": "文在寅前女婿涉弊案 前幕僚長控政治報復",
-            "link": "https://udn.com//news/story/6809/8177419?from=udn-catebreaknews_ch2",
-            "time": "2024-08-22 01:48"
         }
     ]
 }
