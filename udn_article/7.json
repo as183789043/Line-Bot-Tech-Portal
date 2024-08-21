@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/21/2/30309969.jpg&s=Y&x=0&y=0&sw=1027&sh=685&exp=3600&w=300",
+            "title": "期交所公告 台新金、新光金期貨及選擇權22日起暫停交易",
+            "link": "https://udn.com//news/story/7255/8177083?from=udn-catebreaknews_ch2",
+            "time": "2024-08-21 20:42"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/07/28/2/30152883.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "台股區間震盪 法人：全球央行年會後較明朗",
+            "link": "https://udn.com//news/story/7251/8176901?from=udn-catebreaknews_ch2",
+            "time": "2024-08-21 20:33"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/21/2/30309966.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "成長股長期布局時機浮現 法人：追求高成長機會首選成熟市場",
+            "link": "https://udn.com//news/story/7251/8177057?from=udn-catebreaknews_ch2",
+            "time": "2024-08-21 20:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/07/2/30221877.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "三大利多加持！美銀重申台積電「買進」評等、目標價維持1200元",
             "link": "https://udn.com//news/story/7253/8177026?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "證交所：台新金、新光金22日起暫停交易",
             "link": "https://udn.com//news/story/7252/8176997?from=udn-catebreaknews_ch2",
             "time": "2024-08-21 19:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/02/21/98/29016808.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "台新金及新光金因有重大訊息宣布 8月22日起暫停交易",
-            "link": "https://udn.com//news/story/7252/8176867?from=udn-catebreaknews_ch2",
-            "time": "2024-08-21 18:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/03/08/2/20506417.jpg&s=Y&x=0&y=0&sw=1095&sh=730&exp=3600&w=300",
-            "title": "台石化產業下半年景氣復甦弱 滙豐：缺乏明確催化動能",
-            "link": "https://udn.com//news/story/7251/8176852?from=udn-catebreaknews_ch2",
-            "time": "2024-08-21 18:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/07/2/30223552.jpg&s=Y&x=0&y=52&sw=1280&sh=853&exp=3600&w=300",
-            "title": "每股淨值不到10元 億泰等四檔22日起暫停融資券",
-            "link": "https://udn.com//news/story/7252/8176803?from=udn-catebreaknews_ch2",
-            "time": "2024-08-21 18:22"
         }
     ]
 }
