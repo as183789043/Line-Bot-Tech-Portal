@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/21/2/30309441.jpg&s=Y&x=0&y=0&sw=1232&sh=821&exp=3600&w=300",
+            "title": "今日最夯ETF／降息曙光湧現 00688L 漲逾2.7%、規模創新高",
+            "link": "https://udn.com//news/story/123006/8177250?from=udn-catebreaknews_ch2",
+            "time": "2024-08-21 22:32"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/21/2/30309969.jpg&s=Y&x=0&y=0&sw=1027&sh=685&exp=3600&w=300",
             "title": "期交所公告 台新金、新光金期貨及選擇權22日起暫停交易",
             "link": "https://udn.com//news/story/7255/8177083?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "三大利多加持！美銀重申台積電「買進」評等、目標價維持1200元",
             "link": "https://udn.com//news/story/7253/8177026?from=udn-catebreaknews_ch2",
             "time": "2024-08-21 20:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/21/realtime/30309833.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
-            "title": "證交所：台新金、新光金22日起暫停交易",
-            "link": "https://udn.com//news/story/7252/8176997?from=udn-catebreaknews_ch2",
-            "time": "2024-08-21 19:54"
         }
     ]
 }
