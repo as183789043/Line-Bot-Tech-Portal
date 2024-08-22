@@ -1,13 +1,19 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
+            "title": "Fed會議紀錄 傾向9月降息",
+            "link": "https://udn.com//news/story/6811/8179918?from=udn-catebreaknews_ch2",
+            "time": "2024-08-23 03:55"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/23/2/30318055.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "美失業微增估不影響降息 須看8月就業報告",
             "link": "https://udn.com//news/story/6811/8180048?from=udn-catebreaknews_ch2",
             "time": "2024-08-23 01:04"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
             "title": "Fed傳聲筒指出 鮑爾演講將保持彈性",
             "link": "https://udn.com//news/story/6811/8180049?from=udn-catebreaknews_ch2",
             "time": "2024-08-23 01:03"
@@ -19,16 +25,10 @@
             "time": "2024-08-23 00:47"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/20/98/30300190.jpg&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
-            "title": "印總理莫迪訪烏克蘭 展現對俄烏中立",
-            "link": "https://udn.com//news/story/122663/8180010?from=udn-catebreaknews_ch2",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/22/realtime/30317707.jpg&s=Y&x=0&y=13&sw=1889&sh=1258&exp=3600&w=300",
+            "title": "韓利率不動 降息腳步近了 對未來三個月啟動持開放態度",
+            "link": "https://udn.com//news/story/6811/8179943?from=udn-catebreaknews_ch2",
             "time": "2024-08-23 00:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/22/realtime/30314675.jpg&s=Y&x=0&y=27&sw=3665&sh=2442&exp=3600&w=300",
-            "title": "華茲接受提名：翻過川普這一頁",
-            "link": "https://udn.com//news/story/121777/8179993?from=udn-catebreaknews_ch2",
-            "time": "2024-08-23 00:30"
         }
     ]
 }
