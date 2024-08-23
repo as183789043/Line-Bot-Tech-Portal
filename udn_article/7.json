@@ -1,19 +1,25 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/23/0/30319892.jpg&s=Y&x=0&y=0&sw=860&sh=573&exp=3600&w=300",
+            "title": "大盤波動低接好時機？一表看台股ETF「7千金」 00940、00929、00919...1特色讓存股族越跌越買",
+            "link": "https://udn.com//news/story/123006/8180566?from=udn-catebreaknews_ch2",
+            "time": "2024-08-24 06:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/08/2/30224453.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
             "title": "內資力挽狂瀾 多頭逆襲翻紅  ",
             "link": "https://udn.com//news/story/7251/8182269?from=udn-catebreaknews_ch2",
             "time": "2024-08-24 00:53"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
             "title": "台股本周先升後降 輝達財報下周重頭戲",
             "link": "https://udn.com//news/story/7251/8182304?from=udn-catebreaknews_ch2",
             "time": "2024-08-24 00:50"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
             "title": "證券劃撥存款 三月低點",
             "link": "https://udn.com//news/story/7251/8182311?from=udn-catebreaknews_ch2",
             "time": "2024-08-24 00:47"
@@ -23,12 +29,6 @@
             "title": "國泰金總座李長庚樂觀後市 看下半年獲利會更好",
             "link": "https://udn.com//news/story/7252/8182432?from=udn-catebreaknews_ch2",
             "time": "2024-08-24 00:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
-            "title": "世芯上半年EPS 35.92元",
-            "link": "https://udn.com//news/story/7253/8182396?from=udn-catebreaknews_ch2",
-            "time": "2024-08-23 23:46"
         }
     ]
 }
