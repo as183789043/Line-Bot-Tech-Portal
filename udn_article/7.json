@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/23/2/30319747.jpg&s=Y&x=0&y=0&sw=1221&sh=814&exp=3600&w=300",
+            "title": "輝達、台積電都下跌 股王信驊意重返5,000元朝新高挺進",
+            "link": "https://udn.com//news/story/7253/8180480?from=udn-catebreaknews_ch2",
+            "time": "2024-08-23 10:06"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/20/2/30300952.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "ADR 挫近3% 台積電開低7元、台股開盤跌逾百點",
+            "link": "https://udn.com//news/story/7251/8180360?from=udn-catebreaknews_ch2",
+            "time": "2024-08-23 09:09"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/23/realtime/30319105.jpg&s=Y&x=95&y=0&sw=1011&sh=675&exp=3600&w=300",
             "title": "永豐金證券推出《今天shot這盤》 每日盤前直播",
             "link": "https://udn.com//news/story/7251/8180336?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "00679B溢價最高 他曝「買00795B更賺」反被酸！網揭1招更賺",
             "link": "https://udn.com//news/story/123006/8178498?from=udn-catebreaknews_ch2",
             "time": "2024-08-23 08:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/13/2/30260076.jpg&s=Y&x=19&y=7&sw=773&sh=515&exp=3600&w=300",
-            "title": "做多長榮（2603）！他曝三大利多：這時間前就能「吃00960豆腐」",
-            "link": "https://udn.com//news/story/12806/8178531?from=udn-catebreaknews_ch2",
-            "time": "2024-08-23 07:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/22/realtime/30312550.jpg&s=Y&x=0&y=0&sw=944&sh=639&exp=3600&w=300",
-            "title": "台股穩了？他曝「Q3震盪免擔心」原因 美國大選後再受益",
-            "link": "https://udn.com//news/story/12806/8178550?from=udn-catebreaknews_ch2",
-            "time": "2024-08-23 07:51"
         }
     ]
 }
