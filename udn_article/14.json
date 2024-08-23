@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/22/0/30315568.jpg&s=Y&x=99&y=0&sw=678&sh=452&exp=3600&w=300",
+            "title": "數位非靈丹 主觀價值才是星巴克換帥、邦諾書店逆升啟示",
+            "link": "https://udn.com//news/story/6837/8178961?from=udn-catebreaknews_ch2",
+            "time": "2024-08-23 07:30"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/22/0/30315573.jpg&s=Y&x=107&y=0&sw=657&sh=438&exp=3600&w=300",
+            "title": "馬斯克帶頭、矽谷挺川派集結！X社群「拚自由」反成仇恨製造機",
+            "link": "https://udn.com//news/story/6837/8178967?from=udn-catebreaknews_ch2",
+            "time": "2024-08-23 07:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/22/draft/30315016.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
             "title": "台灣的時代 他們的故事 外籍漫畫家筆下的「台灣」",
             "link": "https://udn.com//news/story/6845/8178853?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台漫品牌形象確立 說台灣故事給全世界聽",
             "link": "https://udn.com//news/story/6845/8178814?from=udn-catebreaknews_ch2",
             "time": "2024-08-22 15:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/22/draft/30314895.jpg&s=Y&x=0&y=5&sw=800&sh=532&exp=3600&w=300",
-            "title": "台灣漫畫大勢來襲！ 機不可失的第三波黃金期",
-            "link": "https://udn.com//news/story/6845/8178791?from=udn-catebreaknews_ch2",
-            "time": "2024-08-22 15:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/22/draft/30314962.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
-            "title": "漫畫迷・朝聖地 台灣漫畫重鎮",
-            "link": "https://udn.com//news/story/6845/8178831?from=udn-catebreaknews_ch2",
-            "time": "2024-08-22 15:56"
         }
     ]
 }
