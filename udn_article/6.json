@@ -1,13 +1,19 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/09/07/0/24880483.jpg&s=Y&x=0&y=12&sw=1280&sh=853&exp=3600&w=300",
+            "title": "時薪調幅更高 勞團：年輕人寧願打工",
+            "link": "https://udn.com//news/story/7238/8185152?from=udn-catebreaknews_ch2",
+            "time": "2024-08-26 04:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/25/realtime/30334420.jpg&s=Y&x=0&y=0&sw=1133&sh=755&exp=3600&w=300",
             "title": "最低工資研究小組 權限遭限縮",
             "link": "https://udn.com//news/story/7238/8185150?from=udn-catebreaknews_ch2",
             "time": "2024-08-26 04:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_2.jpg&w=300",
             "title": "僑外生補觀光人力 學者籲盤點需求",
             "link": "https://udn.com//news/story/7238/8185254?from=udn-catebreaknews_ch2",
             "time": "2024-08-26 01:09"
@@ -23,12 +29,6 @@
             "title": "前線觀察／責任投資 永續議題 永續財富",
             "link": "https://udn.com//news/story/7241/8184981?from=udn-catebreaknews_ch2",
             "time": "2024-08-25 23:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/25/realtime/30334087.jpg&s=Y&x=0&y=24&sw=2083&sh=1388&exp=3600&w=300",
-            "title": "經濟選書／丹麥式幸福工作法 實現生活平衡",
-            "link": "https://udn.com//news/story/7241/8184984?from=udn-catebreaknews_ch2",
-            "time": "2024-08-25 23:10"
         }
     ]
 }
