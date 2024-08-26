@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/26/realtime/30340253.jpg&s=Y&x=0&y=30&sw=3826&sh=2550&exp=3600&w=300",
+            "title": "泓德能源9月底改為一般上市版 今年營收衝百億元",
+            "link": "https://udn.com//news/story/7252/8186727?from=udn-catebreaknews_ch2",
+            "time": "2024-08-26 17:15"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/08/2/30226713.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "兆豐金法說會／上半年獲利創新高、每股賺1.42元 共同行銷效益大增",
             "link": "https://udn.com//news/story/7252/8186553?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "新興亞洲股市持續回血 台股外資連2周淨流入",
             "link": "https://udn.com//news/story/7251/8186350?from=udn-catebreaknews_ch2",
             "time": "2024-08-26 14:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/26/2/30335972.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "金融股撐盤 台股終場漲82點收22240點",
-            "link": "https://udn.com//news/story/7251/8186324?from=udn-catebreaknews_ch2",
-            "time": "2024-08-26 14:31"
         }
     ]
 }
