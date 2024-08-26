@@ -1,6 +1,18 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/26/realtime/30342219.png&s=Y&x=100&y=0&sw=1080&sh=720&exp=3600&w=300",
+            "title": "上海鼎泰豐公告 大陸18家門市正常營運",
+            "link": "https://udn.com//news/story/120672/8187203?from=udn-catebreaknews_ch2",
+            "time": "2024-08-26 22:28"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/26/realtime/30339464.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "北京鼎泰豐宣布關閉大陸華北14家門市 台灣總部回應了",
+            "link": "https://udn.com//news/story/7193/8186648?from=udn-catebreaknews_ch2",
+            "time": "2024-08-26 16:46"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/26/0/30339874.jpg&s=Y&x=52&y=0&sw=1117&sh=745&exp=3600&w=300",
             "title": "科技島上的美食「星」光經濟部力推美食繁星 邀明星主廚分享經驗",
             "link": "https://udn.com//news/story/7193/8186612?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "他讚日本這牌起司檸檬口味好吃 一票網友「買好買滿」：台灣超商有賣",
             "link": "https://udn.com//news/story/7193/8186418?from=udn-catebreaknews_ch2",
             "time": "2024-08-26 16:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/26/realtime/30339584.jpg&s=Y&x=0&y=27&sw=3676&sh=2450&exp=3600&w=300",
-            "title": "芋頭控全包了！全聯攜手「清原」6款芋頭季新品一次看 美味堂「芋粿巧」擲筊造型有呷有保佑",
-            "link": "https://udn.com//news/story/7186/8186525?from=udn-catebreaknews_ch2",
-            "time": "2024-08-26 15:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/26/0/30338152.jpg&s=Y&x=0&y=0&sw=1280&sh=712&exp=3600&w=300",
-            "title": "輪到台東人嗨了！文青人必訪新地標 東部最美「台東圖書總館」2025年啟用",
-            "link": "https://udn.com//news/story/7210/8186127?from=udn-catebreaknews_ch2",
-            "time": "2024-08-26 15:29"
         }
     ]
 }
