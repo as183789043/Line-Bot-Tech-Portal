@@ -1,6 +1,24 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/26/draft/30337668.jpg&s=Y&x=40&y=0&sw=720&sh=480&exp=3600&w=300",
+            "title": "血腦屏障也擋不住 研究：人類大腦已累積一湯匙塑膠",
+            "link": "https://udn.com//news/story/6897/8185971?from=udn-catebreaknews_ch2",
+            "time": "2024-08-26 14:01"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/22/realtime/30311845.jpg&s=Y&x=180&y=120&sw=5445&sh=3630&exp=3600&w=300",
+            "title": "Intel裁員、輝達延後出貨...AI好光景不再？當黃仁勳說晶片沒瑕疵 才是賣點",
+            "link": "https://udn.com//news/story/6839/8186009?from=udn-catebreaknews_ch2",
+            "time": "2024-08-26 14:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/07/21/0/30073235.jpg&s=Y&x=133&y=10&sw=620&sh=413&exp=3600&w=300",
+            "title": "一進去就買的比預期多？Costco高層揭賣場2設計 難抗拒「衝動購物」的吸引",
+            "link": "https://udn.com//news/story/6839/8185984?from=udn-catebreaknews_ch2",
+            "time": "2024-08-26 13:57"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/19/105/30331391.jpg&s=Y&x=24&y=0&sw=1230&sh=820&exp=3600&w=300",
             "title": "解析鋰電池負極材料新創公司：席拉奈米科技",
             "link": "https://udn.com//news/story/6903/8171570?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "3D IC與先進封裝晶片的多物理模擬設計工具",
             "link": "https://udn.com//news/story/6903/8171546?from=udn-catebreaknews_ch2",
             "time": "2024-08-25 10:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/20/draft/30297617.jpg&s=Y&x=21&y=0&sw=404&sh=269&exp=3600&w=300",
-            "title": "【曾心怡心理師專欄】家庭教養不一致該怎麼辦？理解與溝通為首要？",
-            "link": "https://udn.com//news/story/7028/8172526?from=udn-catebreaknews_ch2",
-            "time": "2024-08-25 10:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/20/draft/30297591.jpg&s=Y&x=23&y=0&sw=405&sh=270&exp=3600&w=300",
-            "title": "【全職爸爸育兒誌】小小孩的長途機票怎麼買？要事先在腦中模擬的事",
-            "link": "https://udn.com//news/story/7028/8172523?from=udn-catebreaknews_ch2",
-            "time": "2024-08-25 10:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/20/draft/30297589.jpg&s=Y&x=21&y=0&sw=402&sh=268&exp=3600&w=300",
-            "title": "【啟蒙孩子的睡眠力】鬼壓床的神祕面紗 了解科學根據認識睡眠問題",
-            "link": "https://udn.com//news/story/7028/8172522?from=udn-catebreaknews_ch2",
-            "time": "2024-08-25 10:40"
         }
     ]
 }
