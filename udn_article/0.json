@@ -1,6 +1,18 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/27/realtime/30343171.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "嘉義民雄大士爺火化升天 高空煙火意外膛炸、低空爆炸",
+            "link": "https://udn.com//news/story/7320/8187486?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-08-27 01:41"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/06/20/realtime/29857397.jpg&s=Y&x=0&y=0&sw=1889&sh=1259&exp=3600&w=300",
+            "title": "傳鄭貞茂將出任台新投信董事長",
+            "link": "https://udn.com//news/story/7239/8187481?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-08-27 01:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/27/realtime/30342935.jpg&s=Y&x=0&y=53&sw=7087&sh=4724&exp=3600&w=300",
             "title": "日式餅乾、馬卡龍蛋黃酥！9間「中秋禮盒」選選看",
             "link": "https://udn.com//news/story/7270/8187472?from=udn-ch1_breaknews-1-0-news",
@@ -13,22 +25,10 @@
             "time": "2024-08-27 00:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6639_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6639_4.jpg&w=300",
             "title": "高市教育局疑職場霸凌 害新進女職員墜樓身亡",
             "link": "https://udn.com//news/story/7320/8187435?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-08-26 23:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/26/1/30342631.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台北明顯搖晃！花蓮晚間11:28發生規模4.8地震 4縣市有感",
-            "link": "https://udn.com//news/story/7266/8187416?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-08-26 23:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/26/realtime/30342612.jpg&s=Y&x=0&y=0&sw=4752&sh=3168&exp=3600&w=300",
-            "title": "獨／新竹驚傳集體食物中毒 疑食用法國麵包至少8人送醫",
-            "link": "https://udn.com//news/story/7266/8187415?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-08-26 23:35"
         }
     ]
 }
