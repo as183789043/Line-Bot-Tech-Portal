@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/26/2/30341289.jpg&s=Y&x=0&y=0&sw=512&sh=341&exp=3600&w=300",
+            "title": "台股修正跌55點收22,185點 台積電跌8元收942元",
+            "link": "https://udn.com//news/story/7251/8188483?from=udn-catebreaknews_ch2",
+            "time": "2024-08-27 13:47"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/21/realtime/30305607.jpg&s=Y&x=0&y=34&sw=4790&sh=3192&exp=3600&w=300",
             "title": "00959B將上市！銅板價就能分散資產風險 財經雪倫：現在布局債券根本老天送錢",
             "link": "https://udn.com//news/story/123006/8188216?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "00878超車0056成高股息之王！存股達人5原因大推：不斷進化的便宜標的",
             "link": "https://udn.com//news/story/123006/8188004?from=udn-catebreaknews_ch2",
             "time": "2024-08-27 11:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/19/realtime/30294203.jpg&s=Y&x=289&y=0&sw=3126&sh=2084&exp=3600&w=300",
-            "title": "藏壽司聯名《吉伊卡哇》一位難求 網看好股價要做多",
-            "link": "https://udn.com//news/story/12806/8186602?from=udn-catebreaknews_ch2",
-            "time": "2024-08-27 11:08"
         }
     ]
 }
