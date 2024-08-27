@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
+            "title": "美國會報告…西太平洋 美軍不再具有優勢",
+            "link": "https://udn.com//news/story/6809/8189827?from=udn-catebreaknews_ch2",
+            "time": "2024-08-28 04:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/27/98/30352264.jpg&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
             "title": "伊朗最高領袖暗示 可能就核計畫與美國重啟協商",
             "link": "https://udn.com//news/story/123777/8189687?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "以色列人質被囚禁加薩326天 軍方「複雜行動」解救成功",
             "link": "https://udn.com//news/story/123777/8189669?from=udn-catebreaknews_ch2",
             "time": "2024-08-27 22:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/27/98/30352129.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "調虎離山成功？烏克蘭總司令：俄國急調3萬軍力協防庫斯克",
-            "link": "https://udn.com//news/story/122663/8189644?from=udn-catebreaknews_ch2",
-            "time": "2024-08-27 22:23"
         }
     ]
 }
