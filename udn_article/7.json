@@ -1,10 +1,22 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/27/98/30350484.jpg&s=Y&x=36&y=20&sw=1196&sh=797&exp=3600&w=300",
+            "title": "新新併三角戀話題熱 外資敲進新光金砍中信金、台新金",
+            "link": "https://udn.com//news/story/7251/8189103?from=udn-catebreaknews_ch2",
+            "time": "2024-08-27 18:02"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/20/2/30298605.jpg&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
             "title": "宜進集團再出手 旗下光明投資8467萬取得90張台積電",
             "link": "https://udn.com//news/story/7251/8189004?from=udn-catebreaknews_ch2",
             "time": "2024-08-27 16:51"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/27/realtime/30349647.jpg&s=Y&x=308&y=328&sw=834&sh=556&exp=3600&w=300",
+            "title": "兆豐銀機器人理財平台 100美元投資全球ETF",
+            "link": "https://udn.com//news/story/123006/8188938?from=udn-catebreaknews_ch2",
+            "time": "2024-08-27 16:18"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/21/2/30307439.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
@@ -17,18 +29,6 @@
             "title": "11檔機器人股飆漲停 其中這3檔還創歷史新高",
             "link": "https://udn.com//news/story/7251/8188635?from=udn-catebreaknews_ch2",
             "time": "2024-08-27 14:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/16/0/30277847.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
-            "title": "「新新併」殺出中信金…金融股暑期唱大戲！00878再搭順風車",
-            "link": "https://udn.com//news/story/123006/8188565?from=udn-catebreaknews_ch2",
-            "time": "2024-08-27 14:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/27/realtime/30348263.jpg&s=Y&x=131&y=0&sw=603&sh=403&exp=3600&w=300",
-            "title": "降息有利債市 00958B鎖定長天期銀行債 8月29日開募",
-            "link": "https://udn.com//news/story/7251/8188600?from=udn-catebreaknews_ch2",
-            "time": "2024-08-27 14:24"
         }
     ]
 }
