@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/27/realtime/30346519.jpg&s=Y&x=176&y=56&sw=3240&sh=2160&exp=3600&w=300",
+            "title": "《黑悟空》霸榜20億1天回本…趙少康轟台灣為何做不出？他嘆張忠謀都看得清",
+            "link": "https://udn.com//news/story/6839/8188089?from=udn-catebreaknews_ch2",
+            "time": "2024-08-27 11:54"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/21/realtime/30308292.jpg&s=Y&x=84&y=0&sw=912&sh=608&exp=3600&w=300",
+            "title": "「S Hotel」改名5個月爆停業、這間老飯店4.1億賣掉！6飯店今年都轉手圖什麼發展？",
+            "link": "https://udn.com//news/story/6839/8188033?from=udn-catebreaknews_ch2",
+            "time": "2024-08-27 11:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/26/draft/30337668.jpg&s=Y&x=40&y=0&sw=720&sh=480&exp=3600&w=300",
             "title": "血腦屏障也擋不住 研究：人類大腦已累積一湯匙塑膠",
             "link": "https://udn.com//news/story/6897/8185971?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "一進去就買的比預期多？Costco高層揭賣場2設計 難抗拒「衝動購物」的吸引",
             "link": "https://udn.com//news/story/6839/8185984?from=udn-catebreaknews_ch2",
             "time": "2024-08-26 13:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/19/105/30331391.jpg&s=Y&x=24&y=0&sw=1230&sh=820&exp=3600&w=300",
-            "title": "解析鋰電池負極材料新創公司：席拉奈米科技",
-            "link": "https://udn.com//news/story/6903/8171570?from=udn-catebreaknews_ch2",
-            "time": "2024-08-25 10:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/05/30/105/29739522.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
-            "title": "3D IC與先進封裝晶片的多物理模擬設計工具",
-            "link": "https://udn.com//news/story/6903/8171546?from=udn-catebreaknews_ch2",
-            "time": "2024-08-25 10:44"
         }
     ]
 }
