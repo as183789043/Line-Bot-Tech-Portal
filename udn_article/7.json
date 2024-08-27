@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/22/realtime/30314576.jpg&s=Y&x=0&y=0&sw=4000&sh=2668&exp=3600&w=300",
+            "title": "這檔紡織股買進台積電 買到占實收資本額20%",
+            "link": "https://udn.com//news/story/7251/8189333?from=udn-catebreaknews_ch2",
+            "time": "2024-08-27 19:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/21/realtime/30309833.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
             "title": "過關！星宇航空、三商餐飲等5公司上市案 證交所准了",
             "link": "https://udn.com//news/story/7251/8189310?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "新新併三角戀話題熱 外資敲進新光金砍中信金、台新金",
             "link": "https://udn.com//news/story/7251/8189103?from=udn-catebreaknews_ch2",
             "time": "2024-08-27 18:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/20/2/30298605.jpg&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
-            "title": "宜進集團再出手 旗下光明投資8467萬取得90張台積電",
-            "link": "https://udn.com//news/story/7251/8189004?from=udn-catebreaknews_ch2",
-            "time": "2024-08-27 16:51"
         }
     ]
 }
