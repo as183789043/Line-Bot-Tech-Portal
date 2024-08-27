@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/20/2/30298605.jpg&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
+            "title": "宜進集團再出手 旗下光明投資8467萬取得90張台積電",
+            "link": "https://udn.com//news/story/7251/8189004?from=udn-catebreaknews_ch2",
+            "time": "2024-08-27 16:51"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/21/2/30307439.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台股下跌55點 三大法人賣超96.66億元",
             "link": "https://udn.com//news/story/7251/8188750?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "降息有利債市 00958B鎖定長天期銀行債 8月29日開募",
             "link": "https://udn.com//news/story/7251/8188600?from=udn-catebreaknews_ch2",
             "time": "2024-08-27 14:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/27/realtime/30348248.jpg&s=Y&x=237&y=0&sw=426&sh=284&exp=3600&w=300",
-            "title": "凱基ETF 00952成立 9月5日掛牌上市",
-            "link": "https://udn.com//news/story/123006/8188596?from=udn-catebreaknews_ch2",
-            "time": "2024-08-27 14:23"
         }
     ]
 }
