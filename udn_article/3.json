@@ -1,13 +1,25 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/28/realtime/30362417.jpg&s=Y&x=0&y=0&sw=3500&sh=2334&exp=3600&w=300",
+            "title": "新興亞洲青年高失業率 阻礙經濟升級",
+            "link": "https://udn.com//news/story/6811/8192181?from=udn-catebreaknews_ch2",
+            "time": "2024-08-29 01:27"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/28/realtime/30362418.jpg&s=Y&x=0&y=0&sw=7306&sh=4873&exp=3600&w=300",
             "title": "英相出訪 改善歐洲盟友關係",
             "link": "https://udn.com//news/story/6809/8192183?from=udn-catebreaknews_ch2",
             "time": "2024-08-29 01:26"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
+            "title": "日擬廢除消費品免稅上限",
+            "link": "https://udn.com//news/story/6811/8192182?from=udn-catebreaknews_ch2",
+            "time": "2024-08-29 01:25"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
             "title": "巴拿馬運河放寬航行限制",
             "link": "https://udn.com//news/story/6811/8192184?from=udn-catebreaknews_ch2",
             "time": "2024-08-29 01:25"
@@ -17,18 +29,6 @@
             "title": "美超微遭空襲 股價兩天跌27%",
             "link": "https://udn.com//news/story/6811/8192251?from=udn-catebreaknews_ch2",
             "time": "2024-08-29 01:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/28/realtime/30362522.jpg&s=Y&x=0&y=0&sw=3000&sh=2040&exp=3600&w=300",
-            "title": "現代汽車十年大投資 強攻油電車",
-            "link": "https://udn.com//news/story/6811/8192258?from=udn-catebreaknews_ch2",
-            "time": "2024-08-29 01:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
-            "title": "樂高拚「綠色製造」 成本大增",
-            "link": "https://udn.com//news/story/6811/8192261?from=udn-catebreaknews_ch2",
-            "time": "2024-08-29 01:19"
         }
     ]
 }
