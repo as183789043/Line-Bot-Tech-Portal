@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/08/29/30363944.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "財報發布前輝達股價收跌 拖累那指跌逾1% 道瓊下跌159點",
+            "link": "https://udn.com//news/story/6811/8192536?from=udn-catebreaknews_ch2",
+            "time": "2024-08-29 04:53"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/28/realtime/30362417.jpg&s=Y&x=0&y=0&sw=3500&sh=2334&exp=3600&w=300",
             "title": "新興亞洲青年高失業率 阻礙經濟升級",
             "link": "https://udn.com//news/story/6811/8192181?from=udn-catebreaknews_ch2",
@@ -13,22 +19,16 @@
             "time": "2024-08-29 01:26"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
             "title": "日擬廢除消費品免稅上限",
             "link": "https://udn.com//news/story/6811/8192182?from=udn-catebreaknews_ch2",
             "time": "2024-08-29 01:25"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
             "title": "巴拿馬運河放寬航行限制",
             "link": "https://udn.com//news/story/6811/8192184?from=udn-catebreaknews_ch2",
             "time": "2024-08-29 01:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/28/realtime/30362520.jpg&s=Y&x=0&y=0&sw=4000&sh=2667&exp=3600&w=300",
-            "title": "美超微遭空襲 股價兩天跌27%",
-            "link": "https://udn.com//news/story/6811/8192251?from=udn-catebreaknews_ch2",
-            "time": "2024-08-29 01:22"
         }
     ]
 }
