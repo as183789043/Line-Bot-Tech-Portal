@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/25/2/30333739.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "美股道瓊創新高...美元卻創新低 分析師解讀：輝達財報、降息前最後平靜",
+            "link": "https://udn.com//news/story/7251/8190957?from=udn-catebreaknews_ch2",
+            "time": "2024-08-28 14:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/28/2/30358108.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "NVIDIA 財報將出爐 台股彈185點收22,370點 台積電漲22元收964元",
+            "link": "https://udn.com//news/story/7251/8190988?from=udn-catebreaknews_ch2",
+            "time": "2024-08-28 13:53"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/06/15/98/29823848.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "00960配息報酬8.99%、航運近5年績效351%...可攻可守高回報？小心1隱憂",
+            "link": "https://udn.com//news/story/123006/8190890?from=udn-catebreaknews_ch2",
+            "time": "2024-08-28 13:24"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/28/realtime/30357835.jpg&s=Y&x=0&y=7&sw=1052&sh=700&exp=3600&w=300",
             "title": "指數公司與S&P合作「台灣淨零ESG指數」最快年底有產品",
             "link": "https://udn.com//news/story/7255/8190874?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "想選抗跌ETF怎麼挑？達人「可參考Beta值」：00713、00701、00907低波動前3名",
             "link": "https://udn.com//news/story/123006/8190693?from=udn-catebreaknews_ch2",
             "time": "2024-08-28 12:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
-            "title": "蜜月行情失靈 聖州登錄興櫃 盤中跌破券商認購價",
-            "link": "https://udn.com//news/story/7254/8190658?from=udn-catebreaknews_ch2",
-            "time": "2024-08-28 11:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/23/2/30321872.jpg&s=Y&x=0&y=0&sw=1268&sh=845&exp=3600&w=300",
-            "title": "散戶不是反指標？忘不了過去幾個月的大多頭走勢！ 分析師：S&P500有機會再創歷史新高",
-            "link": "https://udn.com//news/story/7251/8190636?from=udn-catebreaknews_ch2",
-            "time": "2024-08-28 11:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/19/98/30294756.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "景氣燈號轉亮黃紅燈！現在賣ETF好時機？艾蜜莉：分次交易、高點加速賣出",
-            "link": "https://udn.com//news/story/123006/8190564?from=udn-catebreaknews_ch2",
-            "time": "2024-08-28 11:36"
         }
     ]
 }
