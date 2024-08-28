@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/28/2/30360974.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "星宇航空以每股20元溢價發行 預計可募資金額為94億元",
+            "link": "https://udn.com//news/story/7254/8191746?from=udn-catebreaknews_ch2",
+            "time": "2024-08-28 18:32"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/20/98/30303311.jpg&s=Y&x=15&y=19&sw=771&sh=514&exp=3600&w=300",
+            "title": "台積電第1季每股配息約4元 創辦人張忠謀估入袋5億元",
+            "link": "https://udn.com//news/story/7253/8191645?from=udn-catebreaknews_ch2",
+            "time": "2024-08-28 18:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/28/2/30360249.jpg&s=Y&x=0&y=0&sw=960&sh=640&exp=3600&w=300",
             "title": "大摩「三因素」力挺6台廠 ODM資本支出與籌資規模齊增",
             "link": "https://udn.com//news/story/7251/8191548?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "外資賣超115億元 買賣超冠軍竟都是金融股",
             "link": "https://udn.com//news/story/7251/8191420?from=udn-catebreaknews_ch2",
             "time": "2024-08-28 16:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/28/realtime/30359722.jpg&s=Y&x=0&y=336&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "AI、雲端加持！資拓宏宇9月3日登興櫃 每股參考價52元",
-            "link": "https://udn.com//news/story/7254/8191406?from=udn-catebreaknews_ch2",
-            "time": "2024-08-28 16:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/20/2/30303307.jpg&s=Y&x=28&y=40&sw=1197&sh=798&exp=3600&w=300",
-            "title": "鬼故事？美國超微（AMD）被做空機構放空！ 狄驤：被指有重大的會計問題",
-            "link": "https://udn.com//news/story/7251/8191264?from=udn-catebreaknews_ch2",
-            "time": "2024-08-28 15:32"
         }
     ]
 }
