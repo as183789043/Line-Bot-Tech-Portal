@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/28/0/30359047.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "限貸令、減降令齊發 營建股倒地！丁彥鈞：5檔長線看旺「它連6年EPS逾10元」",
+            "link": "https://udn.com//news/story/7251/8191217?from=udn-catebreaknews_ch2",
+            "time": "2024-08-29 07:05"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/28/0/30358917.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "台積電買下群創5.5代廠 FOPLP竄出頭？解析IC封裝市場：CoWoS穩居主流 13檔一次看",
+            "link": "https://udn.com//news/story/7251/8191204?from=udn-catebreaknews_ch2",
+            "time": "2024-08-29 06:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/07/24/2/30111344.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "AI伺服器鏈 大摩叫好",
             "link": "https://udn.com//news/story/7253/8191932?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "資拓宏宇攻AI 9月3日登興櫃",
             "link": "https://udn.com//news/story/7254/8192185?from=udn-catebreaknews_ch2",
             "time": "2024-08-29 00:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/28/realtime/30362534.png&s=Y&x=0&y=11&sw=1594&sh=1062&exp=3600&w=300",
-            "title": "邊緣AI題材 美股亮點",
-            "link": "https://udn.com//news/story/10103/8192280?from=udn-catebreaknews_ch2",
-            "time": "2024-08-29 00:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
-            "title": "越股帶勁 可定期定額介入",
-            "link": "https://udn.com//news/story/10103/8192282?from=udn-catebreaknews_ch2",
-            "time": "2024-08-29 00:08"
         }
     ]
 }
