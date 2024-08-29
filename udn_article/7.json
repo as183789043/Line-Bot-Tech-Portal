@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/29/realtime/30364904.jpg&s=Y&x=0&y=0&sw=4000&sh=2667&exp=3600&w=300",
+            "title": "美超微延交財報「股價崩跌19%」 法人：AI伺服器非標準品難轉單",
+            "link": "https://udn.com//news/story/7251/8194637?from=udn-catebreaknews_ch2",
+            "time": "2024-08-29 21:17"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/29/2/30371724.jpg&s=Y&x=0&y=48&sw=1280&sh=853&exp=3600&w=300",
+            "title": "智慧型手機市場回暖！瑞銀喊買：台積電、聯發科等共10檔供應鏈",
+            "link": "https://udn.com//news/story/7251/8194576?from=udn-catebreaknews_ch2",
+            "time": "2024-08-29 20:26"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/07/2/30223552.jpg&s=Y&x=0&y=52&sw=1280&sh=853&exp=3600&w=300",
             "title": "中化控股9月2日普通股上市 中化普通股同日終止上市",
             "link": "https://udn.com//news/story/7251/8194337?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "富邦金法說會／看「新新併」議題 總經理韓蔚廷這麼說",
             "link": "https://udn.com//news/story/7252/8194197?from=udn-catebreaknews_ch2",
             "time": "2024-08-29 17:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/29/realtime/30370104.jpg&s=Y&x=0&y=0&sw=4603&sh=3069&exp=3600&w=300",
-            "title": "聯準會918降息前夕「這些題材將輪流發酵」！一次盤點相關科技股題材",
-            "link": "https://udn.com//news/story/7251/8194135?from=udn-catebreaknews_ch2",
-            "time": "2024-08-29 17:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/23/2/30321872.jpg&s=Y&x=0&y=0&sw=1268&sh=845&exp=3600&w=300",
-            "title": "輝達財報揭曉後…9月台股怎麼走？法人曝這類股將成沉悶盤勢中亮點",
-            "link": "https://udn.com//news/story/7251/8194128?from=udn-catebreaknews_ch2",
-            "time": "2024-08-29 17:01"
         }
     ]
 }
