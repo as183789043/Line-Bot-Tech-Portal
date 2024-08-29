@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/29/realtime/30366996.jpg&s=Y&x=24&y=0&sw=1122&sh=749&exp=3600&w=300",
+            "title": "領先飛越24416的新強勢股 9月將開啟降息循環",
+            "link": "https://udn.com//news/story/7251/8193806?from=udn-catebreaknews_ch2",
+            "time": "2024-08-29 15:07"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/29/2/30368764.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "國人AI科技投資大調查 超過97%台灣投資人看好 AI 浪潮",
+            "link": "https://udn.com//news/story/12806/8193747?from=udn-catebreaknews_ch2",
+            "time": "2024-08-29 14:49"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/29/2/30368727.jpg&s=Y&x=0&y=0&sw=944&sh=629&exp=3600&w=300",
+            "title": "特用化學熱度不減 永光漲停亮燈、衝上成交量第三",
+            "link": "https://udn.com//news/story/7252/8193738?from=udn-catebreaknews_ch2",
+            "time": "2024-08-29 14:44"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/29/realtime/30366528.jpg&s=Y&x=0&y=0&sw=8192&sh=5464&exp=3600&w=300",
             "title": "NVIDIA財報很好只是對市場來說「不夠好」！狄驤：把過於樂觀的投資人洗出場",
             "link": "https://udn.com//news/story/7251/8193638?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "台股修正跌168點收22,201點 台積電下挫21元收943元",
             "link": "https://udn.com//news/story/7251/8193584?from=udn-catebreaknews_ch2",
             "time": "2024-08-29 13:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/23/2/30321826.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "買國泰金（2882）套在高點分三次賣出後「逆轉勝」！ 達人：市場跟經驗是最好老師",
-            "link": "https://udn.com//news/story/7252/8193360?from=udn-catebreaknews_ch2",
-            "time": "2024-08-29 12:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/16/2/30278910.jpg&s=Y&x=52&y=36&sw=1225&sh=817&exp=3600&w=300",
-            "title": "AI 股沒表現、蘋概股奮起 大立光上漲逾5%領軍攻",
-            "link": "https://udn.com//news/story/7252/8193386?from=udn-catebreaknews_ch2",
-            "time": "2024-08-29 12:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/29/2/30367715.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "台光電除息早盤貼息 午盤逆轉隨蘋果 PCB 強勢填息逾三成",
-            "link": "https://udn.com//news/story/7253/8193369?from=udn-catebreaknews_ch2",
-            "time": "2024-08-29 12:44"
         }
     ]
 }
