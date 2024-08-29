@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/29/realtime/30366528.jpg&s=Y&x=0&y=0&sw=8192&sh=5464&exp=3600&w=300",
+            "title": "NVIDIA財報很好只是對市場來說「不夠好」！狄驤：把過於樂觀的投資人洗出場",
+            "link": "https://udn.com//news/story/7251/8193638?from=udn-catebreaknews_ch2",
+            "time": "2024-08-29 14:18"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/23/98/30320712.jpg&s=Y&x=0&y=12&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股修正跌168點收22,201點 台積電下挫21元收943元",
+            "link": "https://udn.com//news/story/7251/8193584?from=udn-catebreaknews_ch2",
+            "time": "2024-08-29 13:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/23/2/30321826.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "買國泰金（2882）套在高點分三次賣出後「逆轉勝」！ 達人：市場跟經驗是最好老師",
             "link": "https://udn.com//news/story/7252/8193360?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台光電除息早盤貼息 午盤逆轉隨蘋果 PCB 強勢填息逾三成",
             "link": "https://udn.com//news/story/7253/8193369?from=udn-catebreaknews_ch2",
             "time": "2024-08-29 12:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/29/realtime/30367010.jpg&s=Y&x=212&y=0&sw=2304&sh=1536&exp=3600&w=300",
-            "title": "台積關鍵供應商台特化擬9月20掛牌 今公布競價拍賣底價88元",
-            "link": "https://udn.com//news/story/7254/8193199?from=udn-catebreaknews_ch2",
-            "time": "2024-08-29 11:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/29/0/30366674.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "「黑神話悟空」爆紅…這檔股飆漲33% 網掀論戰：一隻猴子救台股？",
-            "link": "https://udn.com//news/story/12806/8193036?from=udn-catebreaknews_ch2",
-            "time": "2024-08-29 11:47"
         }
     ]
 }
