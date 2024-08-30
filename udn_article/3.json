@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/31/98/30384107.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "F-16作戰墜毀 澤倫斯基將烏克蘭空軍司令解職",
+            "link": "https://udn.com//news/story/122663/8197422?from=udn-catebreaknews_ch2",
+            "time": "2024-08-31 05:28"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/08/31/30383679.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "美股走升 道瓊漲228點續創歷史新高、那指上揚1.13%",
+            "link": "https://udn.com//news/story/6811/8197416?from=udn-catebreaknews_ch2",
+            "time": "2024-08-31 04:44"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
             "title": "首批西方援烏F-16戰機 1架墜毀",
             "link": "https://udn.com//news/story/122663/8197280?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "美通膨平穩  Fed降息1碼機率高  ",
             "link": "https://udn.com//news/story/6811/8197286?from=udn-catebreaknews_ch2",
             "time": "2024-08-31 01:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/31/2/30382837.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "押注美降息 金價、美債亮眼 ",
-            "link": "https://udn.com//news/story/6811/8197188?from=udn-catebreaknews_ch2",
-            "time": "2024-08-31 01:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/30/realtime/30382254.jpg&s=Y&x=0&y=0&sw=1889&sh=1225&exp=3600&w=300",
-            "title": "通膨趨緩 ECB下月降息機率增",
-            "link": "https://udn.com//news/story/6811/8197195?from=udn-catebreaknews_ch2",
-            "time": "2024-08-31 00:35"
         }
     ]
 }
