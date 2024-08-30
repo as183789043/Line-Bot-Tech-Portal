@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/07/07/1/29957280.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "外資連8賣減碼面板航空 法人：待資金回流科技股",
+            "link": "https://udn.com//news/story/7251/8196811?from=udn-catebreaknews_ch2",
+            "time": "2024-08-30 19:32"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/06/25/98/29885412.jpg&s=Y&x=0&y=0&sw=1158&sh=772&exp=3600&w=300",
             "title": "台股本周上漲110點 建材營造類指數漲幅最大",
             "link": "https://udn.com//news/story/7251/8196687?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "6月上市85元…製鞋股王股價再創新高 來億衝上350元",
             "link": "https://udn.com//news/story/7252/8196385?from=udn-catebreaknews_ch2",
             "time": "2024-08-30 15:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/09/2/30237242.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "輝達重挫6%！台股開高震盪漲66點 三大法人買超2.63億",
-            "link": "https://udn.com//news/story/7251/8196340?from=udn-catebreaknews_ch2",
-            "time": "2024-08-30 15:14"
         }
     ]
 }
