@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/31/2/30386122.jpg&s=Y&x=4&y=44&sw=1208&sh=805&exp=3600&w=300",
+            "title": "元大ETF00713第3季預估配息公告 9月18日除息",
+            "link": "https://udn.com//news/story/123006/8197773?from=udn-catebreaknews_ch2",
+            "time": "2024-08-31 11:07"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/08/2/30224453.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
             "title": "台股三線齊揚 將挑戰23,000…法人看好資金行情有利後市",
             "link": "https://udn.com//news/story/7251/8197183?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2024-08-31 01:04"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
             "title": "半導體展來了 多頭添柴火",
             "link": "https://udn.com//news/story/7251/8197191?from=udn-catebreaknews_ch2",
             "time": "2024-08-31 01:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
-            "title": "精英董座 王光祥接任",
-            "link": "https://udn.com//news/story/7253/8196879?from=udn-catebreaknews_ch2",
-            "time": "2024-08-30 23:23"
         }
     ]
 }
