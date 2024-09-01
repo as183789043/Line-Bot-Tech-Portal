@@ -1,6 +1,12 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/03/24/realtime/29274133.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
+            "title": "美新創公司要打造機器人AI大腦",
+            "link": "https://udn.com//news/story/7240/8200140?from=udn-catebreaknews_ch2",
+            "time": "2024-09-01 23:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/03/24/realtime/29274482.jpg&s=Y&x=0&y=0&sw=2000&sh=1321&exp=3600&w=300",
             "title": "美中歐盟監管AI 立法嚴防風險",
             "link": "https://udn.com//news/story/7240/8200092?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "限貸引房市恐慌 賴總統：金融行庫因應過當了",
             "link": "https://udn.com//news/story/7238/8200045?from=udn-catebreaknews_ch2",
             "time": "2024-09-01 22:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/01/0/30398699.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "台灣護國群山漏了什麼？資深投行家：「1產業」可能與AI並駕齊驅",
-            "link": "https://udn.com//news/story/7240/8199999?from=udn-catebreaknews_ch2",
-            "time": "2024-09-01 22:33"
         }
     ]
 }
