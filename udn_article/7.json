@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
+            "title": "輝達看好需求 外資續喊買台積",
+            "link": "https://udn.com//news/story/7251/8200213?from=udn-catebreaknews_ch2",
+            "time": "2024-09-02 04:58"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/30/2/30381678.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "AI主題持穩、蘋概股增溫 有利台股後市表現",
             "link": "https://udn.com//news/story/7251/8199592?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "迎接聯準會降息 以債為核心輔以題材股掌握多元機會",
             "link": "https://udn.com//news/story/7251/8199096?from=udn-catebreaknews_ch2",
             "time": "2024-09-01 11:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/01/2/30394287.jpg&s=Y&x=0&y=0&sw=944&sh=629&exp=3600&w=300",
-            "title": "台股自歷史高點回落以來 這檔月配台股ETF新兵受益人數穩居冠軍",
-            "link": "https://udn.com//news/story/123006/8199062?from=udn-catebreaknews_ch2",
-            "time": "2024-09-01 10:47"
         }
     ]
 }
