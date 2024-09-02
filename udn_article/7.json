@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/02/2/30402345.jpg&s=Y&x=0&y=108&sw=1278&sh=852&exp=3600&w=300",
+            "title": "傳金管會附條件開放公開收購新光金 中信金爆量上漲",
+            "link": "https://udn.com//news/story/7251/8200529?from=udn-catebreaknews_ch2",
+            "time": "2024-09-02 10:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/31/2/30382743.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電領漲 台股早盤站上22400點",
+            "link": "https://udn.com//news/story/7251/8200456?from=udn-catebreaknews_ch2",
+            "time": "2024-09-02 09:37"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/23/2/30321872.jpg&s=Y&x=0&y=0&sw=1268&sh=845&exp=3600&w=300",
+            "title": "台積電開高6元 台股早盤漲逾百點",
+            "link": "https://udn.com//news/story/7251/8200413?from=udn-catebreaknews_ch2",
+            "time": "2024-09-02 09:08"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/02/98/30401615.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "美股8月30日收紅 法人：台股價穩量縮區間整理",
             "link": "https://udn.com//news/story/7251/8200368?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "00919怎還沒宣布配息數字…00713、00918都出來了！ 網：等今天下班前",
             "link": "https://udn.com//news/story/12806/8200346?from=udn-catebreaknews_ch2",
             "time": "2024-09-02 08:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/30/realtime/30381981.jpg&s=Y&x=0&y=0&sw=5727&sh=3818&exp=3600&w=300",
-            "title": "美股可望在降息後迎來一波行情 可多元化分散布局",
-            "link": "https://udn.com//news/story/7251/8200365?from=udn-catebreaknews_ch2",
-            "time": "2024-09-02 08:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/13/2/30260484.jpg&s=Y&x=0&y=92&sw=1279&sh=853&exp=3600&w=300",
-            "title": "00918預計配0.78元…高股息也是高填息！ 專家：當房東不如當股東收益差很大",
-            "link": "https://udn.com//news/story/123006/8180458?from=udn-catebreaknews_ch2",
-            "time": "2024-09-02 08:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/13/realtime/30256954.jpg&s=Y&x=118&y=0&sw=1278&sh=852&exp=3600&w=300",
-            "title": "富邦金完成填息 剩餘還未填息金融股還可撿嗎？",
-            "link": "https://udn.com//news/story/7252/8200343?from=udn-catebreaknews_ch2",
-            "time": "2024-09-02 07:52"
         }
     ]
 }
