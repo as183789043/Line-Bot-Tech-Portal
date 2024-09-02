@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/07/23/realtime/30100095.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "證交所：82家第一上市公司已完成財報公告申報",
+            "link": "https://udn.com//news/story/7251/8202058?from=udn-catebreaknews_ch2",
+            "time": "2024-09-02 21:29"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/21/realtime/30309833.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "證交所：34家上市金融保險業公司已完成財報公告申報",
+            "link": "https://udn.com//news/story/7251/8202050?from=udn-catebreaknews_ch2",
+            "time": "2024-09-02 21:26"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/09/2/30236832.jpg&s=Y&x=0&y=40&sw=1280&sh=853&exp=3600&w=300",
             "title": "開發金四經理人申讓持股逾2,550張 5日起賣出",
             "link": "https://udn.com//news/story/7252/8201988?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "開發金法說會／上半年獲利高成長 淨值大增350億元",
             "link": "https://udn.com//news/story/7252/8201631?from=udn-catebreaknews_ch2",
             "time": "2024-09-02 17:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/01/2/30394287.jpg&s=Y&x=0&y=0&sw=944&sh=629&exp=3600&w=300",
-            "title": "00919配0.72元…配息一季比一季高！ 存股哥：年化10%好像變稀鬆平常的事",
-            "link": "https://udn.com//news/story/123006/8201592?from=udn-catebreaknews_ch2",
-            "time": "2024-09-02 17:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/27/2/30344307.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "00929 9月配息金額略降至0.16元 年化配息率約9.7%",
-            "link": "https://udn.com//news/story/123006/8201535?from=udn-catebreaknews_ch2",
-            "time": "2024-09-02 16:42"
         }
     ]
 }
