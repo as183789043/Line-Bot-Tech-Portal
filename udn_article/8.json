@@ -1,13 +1,19 @@
 {
     "生活": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_2.jpg&w=300",
+            "title": "一句好話",
+            "link": "https://udn.com//news/story/7272/8179519?from=udn-catebreaknews_ch2",
+            "time": "2024-09-03 03:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_4.jpg&w=300",
             "title": "開學症候群 醫師建議：傾聽找原因",
             "link": "https://udn.com//news/story/7266/8202243?from=udn-catebreaknews_ch2",
             "time": "2024-09-03 02:34"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_4.jpg&w=300",
             "title": "學生健檢頻現紅字 醫心驚",
             "link": "https://udn.com//news/story/7266/8202242?from=udn-catebreaknews_ch2",
             "time": "2024-09-03 02:34"
@@ -23,12 +29,6 @@
             "title": "梵志登指揮長榮交響樂團 11月登場",
             "link": "https://udn.com//news/story/7266/8202323?from=udn-catebreaknews_ch2",
             "time": "2024-09-03 02:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/02/realtime/30403796.jpg&s=Y&x=0&y=10&sw=1000&sh=666&exp=3600&w=300",
-            "title": "高風險駕駛 10月底換發短期駕照",
-            "link": "https://udn.com//news/story/7266/8202326?from=udn-catebreaknews_ch2",
-            "time": "2024-09-03 02:15"
         }
     ]
 }
