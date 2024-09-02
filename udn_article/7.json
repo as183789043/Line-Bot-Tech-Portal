@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/20/2/30299057.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
+            "title": "這檔紡織股上半年每股擬配息16元 殖利率23.6%、9月16日除息",
+            "link": "https://udn.com//news/story/7254/8200947?from=udn-catebreaknews_ch2",
+            "time": "2024-09-02 12:33"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/02/2/30403773.jpg&s=Y&x=0&y=0&sw=1242&sh=828&exp=3600&w=300",
+            "title": "賴總統解釋「沒有限貸令」 營建股多檔仍下跌",
+            "link": "https://udn.com//news/story/7251/8200902?from=udn-catebreaknews_ch2",
+            "time": "2024-09-02 12:19"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/02/realtime/30403537.jpg&s=Y&x=97&y=0&sw=507&sh=338&exp=3600&w=300",
             "title": "第一金投信、QRAFT金融風險情緒訊號：美日股持續多頭 台股謹慎",
             "link": "https://udn.com//news/story/7251/8200877?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "降息會影響三件事！相比債券股票才是重點、房地產續漲、物價高漲機率大",
             "link": "https://udn.com//news/story/7251/8200753?from=udn-catebreaknews_ch2",
             "time": "2024-09-02 11:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/21/2/30307439.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "存金融股退休可行？單一產業就是最大風險 夏綠蒂：買大盤ETF且愈早愈好",
-            "link": "https://udn.com//news/story/7251/8200703?from=udn-catebreaknews_ch2",
-            "time": "2024-09-02 11:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/30/2/30381678.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台股量縮震盪 指數拉回逾百點平盤整理",
-            "link": "https://udn.com//news/story/7251/8200687?from=udn-catebreaknews_ch2",
-            "time": "2024-09-02 11:13"
         }
     ]
 }
