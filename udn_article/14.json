@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/03/draft/30411272.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "無聊上網滑影片適得其反 研究：關鍵在喪失注意力",
+            "link": "https://udn.com//news/story/6897/8202596?from=udn-catebreaknews_ch2",
+            "time": "2024-09-03 10:16"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/02/draft/30404131.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
             "title": "吃不起牛肉 美國香腸銷量增暗示經濟衰退",
             "link": "https://udn.com//news/story/6897/8201070?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "房地產是金融商品或是民生用品？",
             "link": "https://udn.com//news/story/6871/8193973?from=udn-catebreaknews_ch2",
             "time": "2024-09-02 09:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/30/draft/30379815.jpg&s=Y&x=0&y=8&sw=800&sh=532&exp=3600&w=300",
-            "title": "為毛孩重啟生命的美好航廈－飛天善業泥",
-            "link": "https://udn.com//news/story/6853/8196531?from=udn-catebreaknews_ch2",
-            "time": "2024-09-01 10:04"
         }
     ]
 }
