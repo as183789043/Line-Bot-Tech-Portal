@@ -1,6 +1,24 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/03/realtime/30412326.jpg&s=Y&x=0&y=0&sw=2592&sh=1728&exp=3600&w=300",
+            "title": "宏碁施振榮：經營企業像下圍棋 要做兩個以上「活眼」",
+            "link": "https://udn.com//news/story/7240/8202930?from=udn-catebreaknews_ch2",
+            "time": "2024-09-03 11:11"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/03/realtime/30412315.jpg&s=Y&x=0&y=0&sw=4282&sh=2855&exp=3600&w=300",
+            "title": "華碩宣布啟動All in AI計畫 推全方位AI基礎設施解方攻伺服器市場",
+            "link": "https://udn.com//news/story/7240/8202927?from=udn-catebreaknews_ch2",
+            "time": "2024-09-03 11:10"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/03/realtime/30412028.jpg&s=Y&x=0&y=14&sw=1920&sh=1280&exp=3600&w=300",
+            "title": "緯創攜手Zettabyte建台灣超大規模資料中心",
+            "link": "https://udn.com//news/story/7240/8202828?from=udn-catebreaknews_ch2",
+            "time": "2024-09-03 10:39"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/03/realtime/30411886.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
             "title": "矽光子產業聯盟成立 台積電徐國晉：台灣有望成AI基地",
             "link": "https://udn.com//news/story/7240/8202778?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "矽光子聯盟成立大會 吳田玉：AI促矽光子時代更快來臨",
             "link": "https://udn.com//news/story/7240/8202774?from=udn-catebreaknews_ch2",
             "time": "2024-09-03 10:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/03/realtime/30411851.jpg&s=Y&x=72&y=0&sw=1497&sh=998&exp=3600&w=300",
-            "title": "銀行不動產授信水位滿 民眾借不到房貸？立委郭國文提1解方",
-            "link": "https://udn.com//news/story/7239/8202762?from=udn-catebreaknews_ch2",
-            "time": "2024-09-03 10:15"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/02/realtime/30405258.jpg&s=Y&x=0&y=1820&sw=3456&sh=2304&exp=3600&w=300",
-            "title": "官方想修法豁免保單強制執行 專家憂規則漏洞生亂象",
-            "link": "https://udn.com//news/story/7238/8201394?from=udn-catebreaknews_ch2",
-            "time": "2024-09-03 10:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/03/realtime/30411431.jpg&s=Y&x=0&y=14&sw=1920&sh=1280&exp=3600&w=300",
-            "title": "Zettabyte與緯創聯盟 建置台灣首座超大規模資料中心",
-            "link": "https://udn.com//news/story/7240/8202652?from=udn-catebreaknews_ch2",
-            "time": "2024-09-03 09:32"
         }
     ]
 }
