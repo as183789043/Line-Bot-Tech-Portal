@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/29/2/30370482.jpg&s=Y&x=120&y=12&sw=992&sh=661&exp=3600&w=300",
+            "title": "台股下跌142點 三大法人賣超59.15億元",
+            "link": "https://udn.com//news/story/7251/8203606?from=udn-catebreaknews_ch2",
+            "time": "2024-09-03 15:14"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/02/realtime/30407537.jpg&s=Y&x=0&y=0&sw=4000&sh=2667&exp=3600&w=300",
             "title": "台積電月線失守 但這檔飆上漲停且寫下歷史新高",
             "link": "https://udn.com//news/story/7251/8203551?from=udn-catebreaknews_ch2",
@@ -20,15 +26,9 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/02/2/30406188.jpg&s=Y&x=0&y=0&sw=1187&sh=791&exp=3600&w=300",
-            "title": "台股短線波動加劇 法人曝這類股第3季修正整理反而好布局",
-            "link": "https://udn.com//news/story/7251/8203250?from=udn-catebreaknews_ch2",
-            "time": "2024-09-03 13:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/03/realtime/30413358.jpg&s=Y&x=0&y=0&sw=946&sh=616&exp=3600&w=300",
-            "title": "00937B最新配息公告 9/20最後買進日、9/23除息",
-            "link": "https://udn.com//news/story/123006/8203229?from=udn-catebreaknews_ch2",
-            "time": "2024-09-03 12:50"
+            "title": "開低走低不敵賣壓 台股下跌142點收22,092點",
+            "link": "https://udn.com//news/story/7251/8203421?from=udn-catebreaknews_ch2",
+            "time": "2024-09-03 13:53"
         }
     ]
 }
