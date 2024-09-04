@@ -1,13 +1,25 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
+            "title": "輝達大跌、台積電重挫收889元 市值降至23.05兆元",
+            "link": "https://udn.com//news/story/7253/8205929?from=udn-catebreaknews_ch2",
+            "time": "2024-09-04 14:08"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/04/2/30423582.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "台股跌999點寫史上第三大跌點 收21,092點 台積電跌51元收889元",
+            "link": "https://udn.com//news/story/7251/8205905?from=udn-catebreaknews_ch2",
+            "time": "2024-09-04 13:58"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/04/0/30422727.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "不再定期定額原因竟是怕還會跌？狄驤：人性就是想要買在最低點",
             "link": "https://udn.com//news/story/123006/8205607?from=udn-catebreaknews_ch2",
             "time": "2024-09-04 12:52"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
             "title": "台股大跌 台塑四寶再度破底 台化跌破40元",
             "link": "https://udn.com//news/story/7251/8205672?from=udn-catebreaknews_ch2",
             "time": "2024-09-04 12:21"
@@ -17,18 +29,6 @@
             "title": "今天台股大怒神...00878驚見「甜甜價」 專家：買點到了",
             "link": "https://udn.com//news/story/123006/8205644?from=udn-catebreaknews_ch2",
             "time": "2024-09-04 12:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
-            "title": "泓德能源將改列上市 競拍底價160.68元",
-            "link": "https://udn.com//news/story/7251/8205641?from=udn-catebreaknews_ch2",
-            "time": "2024-09-04 12:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
-            "title": "泓德能源9/26 於一般板上市 競價拍賣底價160.68元",
-            "link": "https://udn.com//news/story/7251/8205639?from=udn-catebreaknews_ch2",
-            "time": "2024-09-04 12:07"
         }
     ]
 }
