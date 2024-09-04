@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
+            "title": "輝達重挫9.5% AI被唱衰 美股領跌 台股遭殃",
+            "link": "https://udn.com//news/story/7251/8207299?from=udn-catebreaknews_ch2",
+            "time": "2024-09-05 00:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/04/0/30422316.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "台股暴跌近千點 宏碁陳俊聖指3大因素釀恐慌",
             "link": "https://udn.com//news/story/7251/8207075?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "士電法說會／重電需求大！訂單滿到產能達極限 將擴建中大型變壓器廠",
             "link": "https://udn.com//news/story/7252/8206663?from=udn-catebreaknews_ch2",
             "time": "2024-09-04 18:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/07/2/30223157.jpg&s=Y&x=0&y=0&sw=1274&sh=849&exp=3600&w=300",
-            "title": "台股大跌近千點 金管會信心喊話",
-            "link": "https://udn.com//news/story/7251/8206643?from=udn-catebreaknews_ch2",
-            "time": "2024-09-04 18:22"
         }
     ]
 }
