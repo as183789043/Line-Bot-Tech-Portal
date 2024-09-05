@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/05/realtime/30435788.jpg&s=Y&x=0&y=0&sw=1585&sh=1033&exp=3600&w=300",
+            "title": "8月大股災…外資大賣台股近千億 前八月創史上同期第四大賣超",
+            "link": "https://udn.com//news/story/7251/8209054?from=udn-catebreaknews_ch2",
+            "time": "2024-09-05 17:28"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/05/0/30433063.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "台股反彈但外資仍賣超 這兩大類股竟獲外資最多青睞",
             "link": "https://udn.com//news/story/7251/8208993?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "鴻海營收／8月5483億元創同期新高 能見度較之前預估更佳",
             "link": "https://udn.com//news/story/7253/8208746?from=udn-catebreaknews_ch2",
             "time": "2024-09-05 15:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/16/2/30278910.jpg&s=Y&x=52&y=36&sw=1225&sh=817&exp=3600&w=300",
-            "title": "大立光營收／8月70.18億元 創單月新高、優於預期",
-            "link": "https://udn.com//news/story/7253/8208741?from=udn-catebreaknews_ch2",
-            "time": "2024-09-05 15:39"
         }
     ]
 }
