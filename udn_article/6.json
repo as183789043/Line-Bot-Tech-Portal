@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/06/realtime/30445840.jpeg&s=Y&x=0&y=10&sw=1513&sh=1008&exp=3600&w=300",
+            "title": "減輕免稅商店負擔 營業稅法擬修正「免設置登記」",
+            "link": "https://udn.com//news/story/7243/8211574?from=udn-catebreaknews_ch2",
+            "time": "2024-09-06 17:53"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/06/realtime/30445757.jpg&s=Y&x=0&y=312&sw=1711&sh=1141&exp=3600&w=300",
+            "title": "印能推出三款新品 大幅提升半導體製程良率",
+            "link": "https://udn.com//news/story/7240/8211545?from=udn-catebreaknews_ch2",
+            "time": "2024-09-06 17:37"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/06/realtime/30445570.jpg&s=Y&x=311&y=0&sw=3378&sh=2252&exp=3600&w=300",
             "title": "工研院新科院士 黃仁勳：NVIDIA創造的一切都始於台灣",
             "link": "https://udn.com//news/story/7240/8211473?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2024-09-06 16:42"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/06/realtime/30444661.jpg&s=Y&x=311&y=0&sw=3378&sh=2252&exp=3600&w=300",
-            "title": "工研院第13屆院士出爐 黃仁勳、蘇姿丰影像現身受證",
-            "link": "https://udn.com//news/story/7240/8211214?from=udn-catebreaknews_ch2",
-            "time": "2024-09-06 15:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/06/realtime/30444593.jpg&s=Y&x=0&y=0&sw=5371&sh=3581&exp=3600&w=300",
-            "title": "第一屆TCFD報告書評鑑頒獎典禮 18家銀行、保險業獲獎",
-            "link": "https://udn.com//news/story/7239/8211202?from=udn-catebreaknews_ch2",
-            "time": "2024-09-06 15:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/06/realtime/30444533.jpg&s=Y&x=0&y=0&sw=5281&sh=3521&exp=3600&w=300",
-            "title": "受惠AI半導體暢旺、觀光復甦 今年海空客貨運齊上揚",
-            "link": "https://udn.com//news/story/7241/8211184?from=udn-catebreaknews_ch2",
-            "time": "2024-09-06 15:21"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/06/realtime/30444904.jpg&s=Y&x=0&y=0&sw=2507&sh=1672&exp=3600&w=300",
+            "title": "台積電嫌high-NA EUV貴 ASML主管妙回",
+            "link": "https://udn.com//news/story/7240/8211292?from=udn-catebreaknews_ch2",
+            "time": "2024-09-06 16:01"
         }
     ]
 }
