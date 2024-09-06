@@ -1,6 +1,18 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/07/realtime/30449776.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
+            "title": "清晨5時28分花蓮縣近海規模4.8地震 最大震度3級",
+            "link": "https://udn.com//news/story/7266/8212344?from=udn-catebreaknews_ch2",
+            "time": "2024-09-07 05:37"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/07/realtime/30449703.jpg&s=Y&x=0&y=0&sw=3595&sh=2397&exp=3600&w=300",
+            "title": "炎熱午後大雷雨 吳德榮：下周一低壓通過 擾動醞釀中",
+            "link": "https://udn.com//news/story/7266/8212338?from=udn-catebreaknews_ch2",
+            "time": "2024-09-07 05:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/07/realtime/30448853.jpg&s=Y&x=0&y=0&sw=2000&sh=1333&exp=3600&w=300",
             "title": "爆火美劇《大熊餐廳》三明治這裡吃！PASTAIO限期供應",
             "link": "https://udn.com//news/story/7270/8212307?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2024-09-07 01:36"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_2.jpg&w=300",
             "title": "健保增2項給付 每年挹注7千萬元 近百人受惠",
             "link": "https://udn.com//news/story/7266/8212179?from=udn-catebreaknews_ch2",
             "time": "2024-09-07 01:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_1.jpg&w=300",
-            "title": "愛肝達人站／醫師：「沒病，飭回！不，沒病，賜回！」",
-            "link": "https://udn.com//news/story/7266/8212190?from=udn-catebreaknews_ch2",
-            "time": "2024-09-07 01:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/06/realtime/30448253.jpg&s=Y&x=0&y=24&sw=3226&sh=2150&exp=3600&w=300",
-            "title": "院長講堂／落實醫療分級 吳子鈞重視生活化醫學",
-            "link": "https://udn.com//news/story/7266/8212210?from=udn-catebreaknews_ch2",
-            "time": "2024-09-07 01:34"
         }
     ]
 }
