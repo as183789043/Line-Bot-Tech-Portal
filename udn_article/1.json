@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/08/realtime/30456936.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "【總編開箱】柯文哲請辭黨魁不會止血 只會失血更多",
+            "link": "https://udn.com//news/story/124199/8213771?from=udn-catebreaknews_ch2",
+            "time": "2024-09-08 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/07/realtime/30455349.png&s=Y&x=0&y=0&sw=1336&sh=891&exp=3600&w=300",
             "title": "建啤都更案／國土署：彙整意見 10日報都委會續審",
             "link": "https://udn.com//news/story/6656/8213719?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2024-09-08 04:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
             "title": "聯大2758決議詮釋戰／涉外人士：賴政府意在防守",
             "link": "https://udn.com//news/story/6656/8213711?from=udn-catebreaknews_ch2",
             "time": "2024-09-08 03:50"
@@ -23,12 +29,6 @@
             "title": "聯大2758決議詮釋戰／黃奎博：違憲又務虛不務實",
             "link": "https://udn.com//news/story/6656/8213714?from=udn-catebreaknews_ch2",
             "time": "2024-09-08 03:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/07/1/30455427.jpg&s=Y&x=76&y=0&sw=1080&sh=720&exp=3600&w=300",
-            "title": "建啤廠都更 監院糾正北市府、內政部",
-            "link": "https://udn.com//news/story/6656/8213715?from=udn-catebreaknews_ch2",
-            "time": "2024-09-08 03:47"
         }
     ]
 }
