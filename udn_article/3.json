@@ -1,13 +1,19 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/08/98/30458411.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "11萬人上街抗議馬克宏「民主倒退」 誓讓新政府下台",
+            "link": "https://udn.com//news/story/6809/8213830?from=udn-catebreaknews_ch2",
+            "time": "2024-09-08 06:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/06/realtime/30440321.jpg&s=Y&x=0&y=0&sw=4779&sh=3186&exp=3600&w=300",
             "title": "美股重摔！台積ADR下挫4% 費半周線崩跌12%",
             "link": "https://udn.com//news/story/6811/8213686?from=udn-catebreaknews_ch2",
             "time": "2024-09-08 03:24"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
             "title": "美債殖利率下探低點",
             "link": "https://udn.com//news/story/6811/8213651?from=udn-catebreaknews_ch2",
             "time": "2024-09-08 03:22"
@@ -19,16 +25,10 @@
             "time": "2024-09-08 03:19"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
             "title": "諾貝爾獎得主克魯曼呼籲Fed 降2碼 避免硬著陸",
             "link": "https://udn.com//news/story/6811/8213631?from=udn-catebreaknews_ch2",
             "time": "2024-09-08 03:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/09/19/realtime/25290815.jpg&s=Y&x=186&y=0&sw=4164&sh=2776&exp=3600&w=300",
-            "title": "美中經濟趨緩效應 布蘭特原油打70美元保衛戰",
-            "link": "https://udn.com//news/story/6811/8213626?from=udn-catebreaknews_ch2",
-            "time": "2024-09-08 02:30"
         }
     ]
 }

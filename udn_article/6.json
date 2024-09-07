@@ -1,6 +1,12 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/19/2/30296044.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "供應鏈轉移海外生產比降低 IC設計、伺服器等擴大國內比率",
+            "link": "https://udn.com//news/story/7240/8213678?from=udn-catebreaknews_ch2",
+            "time": "2024-09-08 06:10"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/06/draft/30445501.jpg&s=Y&x=0&y=0&sw=1279&sh=857&exp=3600&w=300",
             "title": "跨國直擊》美國的盤算、台灣助攻 印尼能打造半導體人才庫？",
             "link": "https://udn.com//news/story/7240/8211443?from=udn-catebreaknews_ch2",
@@ -13,22 +19,16 @@
             "time": "2024-09-08 06:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/06/realtime/30448172.jpg&s=Y&x=18&y=0&sw=861&sh=574&exp=3600&w=300",
-            "title": "匯市最前線／台幣31.8~32.2元波動",
-            "link": "https://udn.com//news/story/7239/8213635?from=udn-catebreaknews_ch2",
-            "time": "2024-09-08 03:16"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/18/2/30288784.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電美國廠試產良率報捷 拚今年內完成量產準備",
+            "link": "https://udn.com//news/story/7240/8213658?from=udn-catebreaknews_ch2",
+            "time": "2024-09-08 06:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/07/realtime/30453331.jpg&s=Y&x=0&y=9&sw=1274&sh=848&exp=3600&w=300",
-            "title": "魏哲家談台積電優勢 信賴是關鍵",
-            "link": "https://udn.com//news/story/7240/8213660?from=udn-catebreaknews_ch2",
-            "time": "2024-09-08 03:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/05/02/realtime/29590790.jpg&s=Y&x=0&y=0&sw=1133&sh=754&exp=3600&w=300",
-            "title": "蘋果即將發表新機 PCB廠迎利多...營運看升",
-            "link": "https://udn.com//news/story/7240/8213666?from=udn-catebreaknews_ch2",
-            "time": "2024-09-08 03:00"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/07/06/realtime/29953041.jpg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
+            "title": "實支實付改版效應 醫療險「不保證續保」將變多",
+            "link": "https://udn.com//news/story/7239/8213674?from=udn-catebreaknews_ch2",
+            "time": "2024-09-08 05:50"
         }
     ]
 }
