@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/06/draft/30446046.jpg&s=Y&x=0&y=6&sw=1000&sh=666&exp=3600&w=300",
+            "title": "「里昂仙境．黃韻庭」紮根台灣 讓世界走進來",
+            "link": "https://udn.com//news/story/120681/8211593?from=udn-catebreaknews_ch2",
+            "time": "2024-09-08 10:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/02/draft/30405750.jpg&s=Y&x=0&y=10&sw=1280&sh=852&exp=3600&w=300",
+            "title": "2024中秋禮盒推薦／南部伴手禮必吃！「小真實mini烘焙」進軍伴手禮市場 「極致蛋黃酥禮盒」全新登場",
+            "link": "https://udn.com//news/story/12677/8201522?from=udn-catebreaknews_ch2",
+            "time": "2024-09-08 10:05"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/06/draft/30442671.jpg&s=Y&x=0&y=5&sw=780&sh=520&exp=3600&w=300",
             "title": "醫術在於仁心 一個醫生世家信奉的經典",
             "link": "https://udn.com//news/story/6846/8210647?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "商用洗衣龍頭 上洋「SeSA洗衣吧」解決自助洗衣店痛點",
             "link": "https://udn.com//news/story/6846/8210618?from=udn-catebreaknews_ch2",
             "time": "2024-09-08 07:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/06/draft/30442447.jpg&s=Y&x=0&y=0&sw=780&sh=520&exp=3600&w=300",
-            "title": "小宅效應 台灣自助洗衣店家數5年翻倍",
-            "link": "https://udn.com//news/story/6846/8210610?from=udn-catebreaknews_ch2",
-            "time": "2024-09-08 07:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/06/draft/30442390.jpg&s=Y&x=0&y=0&sw=780&sh=520&exp=3600&w=300",
-            "title": "登山者必備離線地圖 新創APP Hikingbook持續攻頂",
-            "link": "https://udn.com//news/story/6846/8210582?from=udn-catebreaknews_ch2",
-            "time": "2024-09-08 07:40"
         }
     ]
 }
