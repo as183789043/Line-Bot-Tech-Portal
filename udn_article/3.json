@@ -1,13 +1,19 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/07/realtime/30454960.jpg&s=Y&x=0&y=0&sw=1240&sh=827&exp=3600&w=300",
+            "title": "美國候選人狂打反中牌 拜登政府對孫雯案卻避重就輕",
+            "link": "https://udn.com//news/story/124068/8213332?from=udn-catebreaknews_ch2",
+            "time": "2024-09-09 05:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/09/2/30465771.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "歐洲精品股 錢景不妙",
             "link": "https://udn.com//news/story/6811/8215057?from=udn-catebreaknews_ch2",
             "time": "2024-09-09 03:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
             "title": "SpaceX 拚兩年登陸火星",
             "link": "https://udn.com//news/story/6811/8215061?from=udn-catebreaknews_ch2",
             "time": "2024-09-09 03:00"
@@ -23,12 +29,6 @@
             "title": "美企搶發債 金額衝四年高點 市場解讀：規避風險、鎖住低利",
             "link": "https://udn.com//news/story/6811/8215010?from=udn-catebreaknews_ch2",
             "time": "2024-09-09 01:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
-            "title": "AI衝擊 IT失業率達6%",
-            "link": "https://udn.com//news/story/6811/8214991?from=udn-catebreaknews_ch2",
-            "time": "2024-09-09 01:45"
         }
     ]
 }
