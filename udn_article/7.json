@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/21/realtime/30309833.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "金控雙龍搶珠！外資兩手套利 賣中信金買新光金",
+            "link": "https://udn.com//news/story/7251/8216821?from=udn-catebreaknews_ch2",
+            "time": "2024-09-09 18:02"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/09/realtime/30472476.jpg&s=Y&x=0&y=100&sw=360&sh=240&exp=3600&w=300",
+            "title": "國巨公布8月合併營收破百億 創同期新高",
+            "link": "https://udn.com//news/story/7253/8216785?from=udn-catebreaknews_ch2",
+            "time": "2024-09-09 17:47"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/30/2/30381664.jpg&s=Y&x=0&y=0&sw=1123&sh=749&exp=3600&w=300",
+            "title": "外資再度大逃殺 但這檔金融股持續獲青睞、已連七買",
+            "link": "https://udn.com//news/story/7251/8216731?from=udn-catebreaknews_ch2",
+            "time": "2024-09-09 17:26"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/02/2/30406188.jpg&s=Y&x=0&y=0&sw=1187&sh=791&exp=3600&w=300",
             "title": "外資竟大賣這三大族群 中信金、台積電與鴻海全入列",
             "link": "https://udn.com//news/story/7251/8216669?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "市場雜音干擾 美股基金轉為淨流出",
             "link": "https://udn.com//news/story/7251/8216654?from=udn-catebreaknews_ch2",
             "time": "2024-09-09 16:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/08/1/30464066.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "台股ETF受益人挑戰千萬大關 債券ETF今年增幅七成居冠",
-            "link": "https://udn.com//news/story/123006/8216633?from=udn-catebreaknews_ch2",
-            "time": "2024-09-09 16:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/05/0/30430598.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "外資上週賣超1440億 新光金、中信金連3週列買賣超榜首",
-            "link": "https://udn.com//news/story/7251/8216615?from=udn-catebreaknews_ch2",
-            "time": "2024-09-09 16:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/22/2/30312526.jpg&s=Y&x=0&y=0&sw=944&sh=629&exp=3600&w=300",
-            "title": "預防性降息有譜 這檔ETF吸睛度高",
-            "link": "https://udn.com//news/story/123006/8216572?from=udn-catebreaknews_ch2",
-            "time": "2024-09-09 16:18"
         }
     ]
 }
