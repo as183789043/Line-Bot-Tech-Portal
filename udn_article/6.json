@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/09/realtime/30473635.jpg&s=Y&x=0&y=24&sw=3500&sh=2332&exp=3600&w=300",
+            "title": "股匯市遇逆風使壽險虧損 新光金8月單月虧損44.8億",
+            "link": "https://udn.com//news/story/7239/8217091?from=udn-catebreaknews_ch2",
+            "time": "2024-09-09 20:39"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/06/realtime/30446374.jpg&s=Y&x=0&y=0&sw=1889&sh=1262&exp=3600&w=300",
+            "title": "熱錢大逃殺、匯市爆量重貶 新台幣匯率還會繼續貶嗎？匯銀這麼說",
+            "link": "https://udn.com//news/story/7239/8217018?from=udn-catebreaknews_ch2",
+            "time": "2024-09-09 19:53"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/09/realtime/30473232.jpg&s=Y&x=369&y=0&sw=4734&sh=3156&exp=3600&w=300",
             "title": "碳費建議起徵價出爐 石化公會：產業很痛苦、盡量配合",
             "link": "https://udn.com//news/story/7238/8216952?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2024-09-09 19:13"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/09/realtime/30472963.jpg&s=Y&x=0&y=0&sw=3500&sh=2367&exp=3600&w=300",
-            "title": "集邦：NAND Flash第2季營收季增14% 但出貨成長趨緩",
-            "link": "https://udn.com//news/story/7240/8216883?from=udn-catebreaknews_ch2",
-            "time": "2024-09-09 18:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/09/realtime/30472543.jpg&s=Y&x=0&y=0&sw=4870&sh=3247&exp=3600&w=300",
-            "title": "林伯豐憂「綠色通膨」：初期碳費每噸不應超過100元",
-            "link": "https://udn.com//news/story/7238/8216802?from=udn-catebreaknews_ch2",
-            "time": "2024-09-09 17:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/09/realtime/30472535.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "汎銓秀祕技High NA光阻液、埃米晶片和矽光子檢測分析拔頭籌",
-            "link": "https://udn.com//news/story/7240/8216792?from=udn-catebreaknews_ch2",
-            "time": "2024-09-09 17:54"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/07/13/2/29992235.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "台達電印度新總部啟用 強化當地電源管理解決方案",
+            "link": "https://udn.com//news/story/7240/8216908?from=udn-catebreaknews_ch2",
+            "time": "2024-09-09 18:47"
         }
     ]
 }
