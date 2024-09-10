@@ -1,13 +1,25 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/08/98/30460749.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "上市櫃總營收3.77兆 寫最強8月…9月表現可期",
+            "link": "https://udn.com//news/story/7251/8219875?from=udn-catebreaknews_ch2",
+            "time": "2024-09-11 06:40"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
+            "title": "台灣順成 高精密頂針指標",
+            "link": "https://udn.com//news/story/10103/8219714?from=udn-catebreaknews_ch2",
+            "time": "2024-09-11 06:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
             "title": "台積8月合併營收 歷史次高",
             "link": "https://udn.com//news/story/7253/8219948?from=udn-catebreaknews_ch2",
             "time": "2024-09-11 05:04"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
             "title": "聯發科8月營收月減8% 近六月低點",
             "link": "https://udn.com//news/story/7251/8220018?from=udn-catebreaknews_ch2",
             "time": "2024-09-11 02:58"
@@ -17,18 +29,6 @@
             "title": "台股翻黑追價熱情熄火 再探本波拉回收盤新低",
             "link": "https://udn.com//news/story/7251/8220014?from=udn-catebreaknews_ch2",
             "time": "2024-09-11 02:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/11/2/30481813.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "低本益比族群 反攻要角",
-            "link": "https://udn.com//news/story/7253/8219624?from=udn-catebreaknews_ch2",
-            "time": "2024-09-11 00:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
-            "title": "就市論勢／特用化學族群 可留意",
-            "link": "https://udn.com//news/story/7251/8219626?from=udn-catebreaknews_ch2",
-            "time": "2024-09-11 00:30"
         }
     ]
 }
