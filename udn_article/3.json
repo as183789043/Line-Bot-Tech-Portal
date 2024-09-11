@@ -1,13 +1,25 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/11/0/30488742.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "美總統候選人交鋒 賀、川辯論晶片議題牽扯兩岸",
+            "link": "https://udn.com//news/story/121777/8222445?from=udn-catebreaknews_ch2",
+            "time": "2024-09-12 02:45"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
+            "title": "民調、賭盤開獎 辯論會賀錦麗勝出",
+            "link": "https://udn.com//news/story/121777/8222470?from=udn-catebreaknews_ch2",
+            "time": "2024-09-12 02:42"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
             "title": "開發中國家加關稅 逼陸企當地設廠",
             "link": "https://udn.com//news/story/6811/8222571?from=udn-catebreaknews_ch2",
             "time": "2024-09-12 02:02"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
             "title": "電池、科技產品、關鍵礦物 加國擬再對陸加徵關稅",
             "link": "https://udn.com//news/story/6811/8222551?from=udn-catebreaknews_ch2",
             "time": "2024-09-12 02:02"
@@ -17,18 +29,6 @@
             "title": "美核心CPI回升 聯準會恐只降息1碼",
             "link": "https://udn.com//news/story/6811/8222567?from=udn-catebreaknews_ch2",
             "time": "2024-09-12 02:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/11/98/30483789.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "川普提移民犯罪 被諷「你也定罪」",
-            "link": "https://udn.com//news/story/121777/8222591?from=udn-catebreaknews_ch2",
-            "time": "2024-09-12 01:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
-            "title": "事實查核 賀川2人都出現不實言論",
-            "link": "https://udn.com//news/story/121777/8222596?from=udn-catebreaknews_ch2",
-            "time": "2024-09-12 01:38"
         }
     ]
 }
