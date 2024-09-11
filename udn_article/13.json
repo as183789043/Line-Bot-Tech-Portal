@@ -1,6 +1,12 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/10/draft/30478767.jpg&s=Y&x=0&y=9&sw=1200&sh=800&exp=3600&w=300",
+            "title": "全台濱海景點大公開：從北到南，探訪台灣最美的海岸線景點",
+            "link": "https://udn.com//news/story/7934/8218747?from=udn-catebreaknews_ch2",
+            "time": "2024-09-11 11:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/11/realtime/30483516.jpg&s=Y&x=0&y=0&sw=1920&sh=1280&exp=3600&w=300",
             "title": "啤酒「醬喝」！掌門精釀攜手金蘭醬油 打造中秋驚喜",
             "link": "https://udn.com//news/story/7187/8220558?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "活力開學季新生大作戰　必需品一站採購聰明部署",
             "link": "https://udn.com//news/story/7205/8216919?from=udn-catebreaknews_ch2",
             "time": "2024-09-11 09:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/04/draft/30422498.jpg&s=Y&x=0&y=0&sw=720&sh=480&exp=3600&w=300",
-            "title": "原來歐洲可以這樣玩！搭乘頂級河輪 時髦優雅、深度探索的旅遊方式",
-            "link": "https://udn.com//news/story/7171/8205618?from=udn-catebreaknews_ch2",
-            "time": "2024-09-11 08:00"
         }
     ]
 }
