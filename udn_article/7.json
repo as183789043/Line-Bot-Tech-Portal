@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/11/2/30487337.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "富世達7月自結獲利年增翻倍 每股純益1.88元",
+            "link": "https://udn.com//news/story/7253/8221715?from=udn-catebreaknews_ch2",
+            "time": "2024-09-11 16:58"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/11/realtime/30487046.jpg&s=Y&x=0&y=124&sw=1476&sh=984&exp=3600&w=300",
+            "title": "泓德能源將轉一般板上市 9月13日公開申購",
+            "link": "https://udn.com//news/story/7252/8221667?from=udn-catebreaknews_ch2",
+            "time": "2024-09-11 16:42"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/11/2/30487177.jpg&s=Y&x=0&y=56&sw=1279&sh=853&exp=3600&w=300",
+            "title": "美債喜迎降息風潮 23檔投等債ETF價格創新高",
+            "link": "https://udn.com//news/story/7255/8221646?from=udn-catebreaknews_ch2",
+            "time": "2024-09-11 16:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/30/2/30381681.jpg&s=Y&x=68&y=0&sw=1211&sh=807&exp=3600&w=300",
             "title": "00918配息0.78、18日最後買進！老牛試算「甜甜價」：現在買入殖利率上看12%",
             "link": "https://udn.com//news/story/123006/8221389?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "漢磊私募引進世界先進 董座徐建華分享願景談優勢多贏",
             "link": "https://udn.com//news/story/7254/8221441?from=udn-catebreaknews_ch2",
             "time": "2024-09-11 15:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/07/05/2/29943127.jpg&s=Y&x=80&y=12&sw=1140&sh=760&exp=3600&w=300",
-            "title": "台股下跌33點 三大法人賣超63.74億元",
-            "link": "https://udn.com//news/story/7251/8221406?from=udn-catebreaknews_ch2",
-            "time": "2024-09-11 15:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/11/realtime/30486133.jpg&s=Y&x=664&y=780&sw=3366&sh=2244&exp=3600&w=300",
-            "title": "嘉晶漢磊聯合法說會 今年上半年逆風看第4季有起色",
-            "link": "https://udn.com//news/story/7253/8221384?from=udn-catebreaknews_ch2",
-            "time": "2024-09-11 15:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
-            "title": "市場觀望美大選辯論後續 台股量縮震盪創今年次低量",
-            "link": "https://udn.com//news/story/7251/8221314?from=udn-catebreaknews_ch2",
-            "time": "2024-09-11 14:38"
         }
     ]
 }
