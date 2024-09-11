@@ -1,7 +1,25 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "title": "台積電最後一盤爆2,721張賣單壓股價 除息前收901元",
+            "link": "https://udn.com//news/story/7253/8221243?from=udn-catebreaknews_ch2",
+            "time": "2024-09-11 14:14"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/11/realtime/30482581.jpg&s=Y&x=0&y=0&sw=4984&sh=3323&exp=3600&w=300",
+            "title": "熊市與牛市多大差別？美史上大蕭條時期...當日交易價值不到21萬美元",
+            "link": "https://udn.com//news/story/7251/8221129?from=udn-catebreaknews_ch2",
+            "time": "2024-09-11 14:03"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/11/2/30485457.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股力守21,000點 跌33點收21,031點  台積電跌3元收901元",
+            "link": "https://udn.com//news/story/7251/8221170?from=udn-catebreaknews_ch2",
+            "time": "2024-09-11 13:52"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
             "title": "資金湧入車用 怡利電爆量上漲 成交量逾5萬張",
             "link": "https://udn.com//news/story/7252/8221050?from=udn-catebreaknews_ch2",
             "time": "2024-09-11 13:02"
@@ -11,24 +29,6 @@
             "title": "00713、00692、00878...10檔ETF扛住台股跌幅！達人：存股族求穩不是快",
             "link": "https://udn.com//news/story/123006/8220842?from=udn-catebreaknews_ch2",
             "time": "2024-09-11 11:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
-            "title": "生技股8月營收靓 這檔營收創31個月新高 股價跳空漲停",
-            "link": "https://udn.com//news/story/7254/8220860?from=udn-catebreaknews_ch2",
-            "time": "2024-09-11 11:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/05/0/30430598.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "台股成交量出不來低低低！直雲：等轉多準備好現金再大舉進場",
-            "link": "https://udn.com//news/story/7251/8220808?from=udn-catebreaknews_ch2",
-            "time": "2024-09-11 11:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
-            "title": "矽光子輪流漲 這2檔齊飆漲停 排隊買單都逾9,000張",
-            "link": "https://udn.com//news/story/7253/8220774?from=udn-catebreaknews_ch2",
-            "time": "2024-09-11 11:33"
         }
     ]
 }
