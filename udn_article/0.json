@@ -1,6 +1,18 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/13/realtime/30500117.jpg&s=Y&x=0&y=0&sw=1928&sh=1285&exp=3600&w=300",
+            "title": "巴奧台灣館舉辦分享會 李遠宣布集中資源給中壯世代",
+            "link": "https://udn.com//news/story/7266/8225220?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-09-13 02:29"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/13/realtime/30500105.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "台中太平深夜兩機車互撞 3人倒地其中還有6歲男童",
+            "link": "https://udn.com//news/story/7320/8225216?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-09-13 02:26"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/13/realtime/30499950.jpg&s=Y&x=0&y=0&sw=982&sh=655&exp=3600&w=300",
             "title": "金融業首家 國泰金控獲金管會核准啟動數據上雲",
             "link": "https://udn.com//news/story/7239/8225199?from=udn-ch1_breaknews-1-0-news",
@@ -17,18 +29,6 @@
             "title": "MFS全盛：總經情境將進入轉型 聚焦固定收益投資契機",
             "link": "https://udn.com//news/story/7239/8225197?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-09-13 01:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/13/realtime/30499910.jpg&s=Y&x=0&y=12&sw=1200&sh=800&exp=3600&w=300",
-            "title": "元大信用卡綁定台灣行動支付APP Pay美食滿200元最高享12%刷卡金回饋",
-            "link": "https://udn.com//news/story/7239/8225193?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-09-13 01:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/12/realtime/30499531.jpg&s=Y&x=0&y=11&sw=1478&sh=984&exp=3600&w=300",
-            "title": "影／文化觀光在羅東3大活動登場「夜宴」結合舞蹈音樂 每道菜都經典",
-            "link": "https://udn.com//news/story/7328/8225130?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-09-12 23:58"
         }
     ]
 }
