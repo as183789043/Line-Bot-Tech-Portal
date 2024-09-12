@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/12/realtime/30497221.jpg&s=Y&x=0&y=0&sw=5440&sh=3627&exp=3600&w=300",
+            "title": "路透報導 習近平、澤倫斯基10月可能會晤",
+            "link": "https://udn.com//news/story/6809/8224943?from=udn-catebreaknews_ch2",
+            "time": "2024-09-13 01:04"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/12/realtime/30499375.jpg&s=Y&x=76&y=0&sw=981&sh=654&exp=3600&w=300",
+            "title": "全球首次 SpaceX完成民間太空漫步",
+            "link": "https://udn.com//news/story/6809/8225077?from=udn-catebreaknews_ch2",
+            "time": "2024-09-13 01:03"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/04/realtime/30428084.jpg&s=Y&x=0&y=0&sw=3400&sh=2267&exp=3600&w=300",
             "title": "黑石財務長Chae稱對美國經濟軟著陸保持謹慎樂觀",
             "link": "https://udn.com//news/story/6811/8224948?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "首次大選辯論之後 「川普交易」進一步降溫",
             "link": "https://udn.com//news/story/6811/8224941?from=udn-catebreaknews_ch2",
             "time": "2024-09-12 22:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/12/realtime/30499129.jpg&s=Y&x=0&y=0&sw=5500&sh=3668&exp=3600&w=300",
-            "title": "辯論會後「川普交易」失色 這類股代表「賀錦麗交易」強勢表態",
-            "link": "https://udn.com//news/story/121777/8224932?from=udn-catebreaknews_ch2",
-            "time": "2024-09-12 22:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/12/realtime/30499131.jpg&s=Y&x=0&y=0&sw=600&sh=400&exp=3600&w=300",
-            "title": "普亭會見王毅 喊團結更多「全球南方」國家",
-            "link": "https://udn.com//news/story/6809/8224933?from=udn-catebreaknews_ch2",
-            "time": "2024-09-12 22:45"
         }
     ]
 }
