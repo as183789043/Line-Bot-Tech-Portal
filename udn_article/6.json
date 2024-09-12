@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/12/realtime/30499162.jpg&s=Y&x=0&y=15&sw=1889&sh=1258&exp=3600&w=300",
+            "title": "前7月薪資成長 打敗通膨",
+            "link": "https://udn.com//news/story/7238/8224947?from=udn-catebreaknews_ch2",
+            "time": "2024-09-13 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/12/realtime/30497184.jpg&s=Y&x=0&y=38&sw=5056&sh=3370&exp=3600&w=300",
+            "title": "客戶搶購晶片 黃仁勳：輝達很依賴台積電",
+            "link": "https://udn.com//news/story/7240/8224949?from=udn-catebreaknews_ch2",
+            "time": "2024-09-13 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/12/realtime/30499231.jpg&s=Y&x=60&y=0&sw=861&sh=574&exp=3600&w=300",
             "title": "新北市下個單價破百萬行政區 這四區被點名快壓不住了",
             "link": "https://udn.com//news/story/7241/8224972?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "中信金發五點聲明 指台新金發特別股有現金不足問題",
             "link": "https://udn.com//news/story/124190/8224865?from=udn-catebreaknews_ch2",
             "time": "2024-09-12 21:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/12/realtime/30498857.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
-            "title": "被親俄駭客盯上？證交所證實官網被攻擊模式",
-            "link": "https://udn.com//news/story/7239/8224858?from=udn-catebreaknews_ch2",
-            "time": "2024-09-12 21:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/12/realtime/30496808.jpg&s=Y&x=0&y=0&sw=1585&sh=1033&exp=3600&w=300",
-            "title": "促壽險業資金入公建 金管會再釋利多",
-            "link": "https://udn.com//news/story/7239/8224853?from=udn-catebreaknews_ch2",
-            "time": "2024-09-12 21:48"
         }
     ]
 }
