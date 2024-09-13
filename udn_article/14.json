@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/13/0/30501350.jpg&s=Y&x=0&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "吃養樂多冰、清冰長大的米其林主廚 台中大男孩創全球唯一摘星冰店",
+            "link": "https://udn.com//news/story/6837/8225344?from=udn-catebreaknews_ch2",
+            "time": "2024-09-13 08:14"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/13/0/30501409.jpg&s=Y&x=24&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "帶五百家供應商學會「碳語言」 合勤控一年變身網通業減碳領頭羊",
+            "link": "https://udn.com//news/story/6837/8225351?from=udn-catebreaknews_ch2",
+            "time": "2024-09-13 08:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/12/draft/30494819.jpg&s=Y&x=0&y=0&sw=1079&sh=708&exp=3600&w=300",
             "title": "證交所「反詐騙聯防行動專區」上線",
             "link": "https://udn.com//news/story/6850/8223696?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "步入AM旺季受惠股：東陽",
             "link": "https://udn.com//news/story/6850/8223689?from=udn-catebreaknews_ch2",
             "time": "2024-09-12 14:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/12/draft/30494793.jpg&s=Y&x=171&y=0&sw=939&sh=626&exp=3600&w=300",
-            "title": "測年線且KD交叉的AI伺服器",
-            "link": "https://udn.com//news/story/6850/8223686?from=udn-catebreaknews_ch2",
-            "time": "2024-09-12 14:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/12/draft/30494777.jpg&s=Y&x=172&y=0&sw=936&sh=624&exp=3600&w=300",
-            "title": "解密飆股起漲信號",
-            "link": "https://udn.com//news/story/6850/8223684?from=udn-catebreaknews_ch2",
-            "time": "2024-09-12 14:29"
         }
     ]
 }
