@@ -1,6 +1,24 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/14/realtime/30511481.png&s=Y&x=0&y=8&sw=1121&sh=746&exp=3600&w=300",
+            "title": "嘉義布袋連5震 上午10時13分規模3.9淺層地震 最大震度3級",
+            "link": "https://udn.com//news/story/7266/8227890?from=udn-catebreaknews_ch2",
+            "time": "2024-09-14 11:12"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/14/realtime/30511457.jpg&s=Y&x=0&y=22&sw=3013&sh=2008&exp=3600&w=300",
+            "title": "對流雲系發展旺 大雨炸嘉義、台南、高雄",
+            "link": "https://udn.com//news/story/7266/8227882?from=udn-catebreaknews_ch2",
+            "time": "2024-09-14 11:06"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/14/realtime/30511347.jpeg&s=Y&x=660&y=0&sw=2808&sh=1873&exp=3600&w=300",
+            "title": "雨彈襲西半部！午後苗栗以南恐大雨 下周不排除雙颱生成",
+            "link": "https://udn.com//news/story/7266/8227845?from=udn-catebreaknews_ch2",
+            "time": "2024-09-14 10:45"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/09/0/30469022.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "員工到府洗碗、倒垃圾「被老闆當傭人」！提辭職遭酸：回家當千金小姐",
             "link": "https://udn.com//news/story/7269/8227762?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "財氣沖天！9月下旬「3大生肖」被好運籠罩  財神爺不請自來",
             "link": "https://udn.com//news/story/7268/8227792?from=udn-catebreaknews_ch2",
             "time": "2024-09-14 10:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/11/realtime/30488466.jpg&s=Y&x=0&y=34&sw=4974&sh=3316&exp=3600&w=300",
-            "title": "少事法新制3挑戰 兒童誰接、觸法少年免進法院恐更惡化",
-            "link": "https://udn.com//news/story/7266/8222125?from=udn-catebreaknews_ch2",
-            "time": "2024-09-14 10:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/14/realtime/30510835.jpg&s=Y&x=0&y=0&sw=1133&sh=756&exp=3600&w=300",
-            "title": "中秋前1周末 6大省道路段今將湧出遊車潮",
-            "link": "https://udn.com//news/story/7266/8227728?from=udn-catebreaknews_ch2",
-            "time": "2024-09-14 09:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/14/realtime/30510732.jpg&s=Y&x=0&y=0&sw=799&sh=533&exp=3600&w=300",
-            "title": "大雷雨影響 高雄機場暫停地面作業、部分航班恐延誤",
-            "link": "https://udn.com//news/story/7266/8227699?from=udn-catebreaknews_ch2",
-            "time": "2024-09-14 09:19"
         }
     ]
 }
