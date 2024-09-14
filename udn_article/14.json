@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/12/draft/30497651.jpg&s=Y&x=0&y=2&sw=214&sh=142&exp=3600&w=300",
+            "title": "半導體後市",
+            "link": "https://udn.com//news/story/6848/8224489?from=udn-catebreaknews_ch2",
+            "time": "2024-09-14 12:21"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/12/draft/30497630.jpg&s=Y&x=0&y=7&sw=1024&sh=682&exp=3600&w=300",
+            "title": "理周教育學苑熱衷公益 攜手股市名師捐贈復康巴士",
+            "link": "https://udn.com//news/story/6848/8224472?from=udn-catebreaknews_ch2",
+            "time": "2024-09-14 12:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/12/draft/30493808.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "Late-Night Coffee Oases: Taipei's Cozy Café Culture at Its Best",
             "link": "https://udn.com//news/story/6962/8223370?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "Biking around Guandu: Sightseeing and Snacking Along the Tamsui River",
             "link": "https://udn.com//news/story/6962/8223306?from=udn-catebreaknews_ch2",
             "time": "2024-09-14 09:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/12/draft/30493542.jpg&s=Y&x=0&y=0&sw=1080&sh=720&exp=3600&w=300",
-            "title": "TaiPET City: Taipei Provides Ample Opportunities for Pet Owners to Enjoy the City with their Furry Friends",
-            "link": "https://udn.com//news/story/6962/8223272?from=udn-catebreaknews_ch2",
-            "time": "2024-09-14 09:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/12/draft/30493472.jpg&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600&w=300",
-            "title": "Where the Wild Things Are: History, Connections, and Conservation at the Taipei Zoo",
-            "link": "https://udn.com//news/story/6962/8223240?from=udn-catebreaknews_ch2",
-            "time": "2024-09-14 09:18"
         }
     ]
 }
