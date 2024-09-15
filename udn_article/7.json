@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/15/2/30522015.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "台股周線收紅…類股連動性卻不佳 補量是關鍵",
+            "link": "https://udn.com//news/story/7251/8229754?from=udn-catebreaknews_ch2",
+            "time": "2024-09-15 16:49"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/15/2/30519424.jpg&s=Y&x=0&y=148&sw=1280&sh=853&exp=3600&w=300",
             "title": "市場估第3季、9月營收出爐！台積電8月呈年增月減 今年 EPS 上看43元",
             "link": "https://udn.com//news/story/7253/8229310?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "股利還本股 長抱賺翻天…鈊象、長榮等股息+價差報酬驚艷",
             "link": "https://udn.com//news/story/7251/8228891?from=udn-catebreaknews_ch2",
             "time": "2024-09-15 06:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/15/2/30515887.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "Fed降息有望 法人推演台股二情境",
-            "link": "https://udn.com//news/story/7251/8228806?from=udn-catebreaknews_ch2",
-            "time": "2024-09-15 02:35"
         }
     ]
 }
