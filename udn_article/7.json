@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/15/2/30519424.jpg&s=Y&x=0&y=148&sw=1280&sh=853&exp=3600&w=300",
+            "title": "市場估第3季、9月營收出爐！台積電8月呈年增月減 今年 EPS 上看43元",
+            "link": "https://udn.com//news/story/7253/8229310?from=udn-catebreaknews_ch2",
+            "time": "2024-09-15 11:37"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/15/98/30519003.jpg&s=Y&x=0&y=0&sw=1169&sh=779&exp=3600&w=300",
             "title": "台股收復半年線 法人：後市聚焦聯準會利率決策",
             "link": "https://udn.com//news/story/7251/8229173?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "Fed降息有望 法人推演台股二情境",
             "link": "https://udn.com//news/story/7251/8228806?from=udn-catebreaknews_ch2",
             "time": "2024-09-15 02:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
-            "title": "瀚宇博、精成科、精星法說 上秀",
-            "link": "https://udn.com//news/story/7253/8228705?from=udn-catebreaknews_ch2",
-            "time": "2024-09-15 00:45"
         }
     ]
 }
