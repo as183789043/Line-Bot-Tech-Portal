@@ -1,7 +1,13 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/09/17/30533624.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "預期Fed降息幅度擴大 史指走升、道瓊創收盤新高",
+            "link": "https://udn.com//news/story/6811/8232386?from=udn-catebreaknews_ch2",
+            "time": "2024-09-17 06:54"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
             "title": "美參議員：川普若斷援烏 等於讓中攻台",
             "link": "https://udn.com//news/story/6809/8232247?from=udn-catebreaknews_ch2",
             "time": "2024-09-17 05:15"
@@ -13,7 +19,7 @@
             "time": "2024-09-17 05:14"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
             "title": "福島演說會…高市喊復興東北 石破打防災牌",
             "link": "https://udn.com//news/story/6809/8232242?from=udn-catebreaknews_ch2",
             "time": "2024-09-17 05:12"
@@ -23,12 +29,6 @@
             "title": "日媒民調…自民黨黨魁戰 高市早苗領先",
             "link": "https://udn.com//news/story/6809/8232240?from=udn-catebreaknews_ch2",
             "time": "2024-09-17 05:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/09/17/30533624.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "預期Fed降息幅度擴大 史指走升、道瓊創收盤新高",
-            "link": "https://udn.com//news/story/6811/8232386?from=udn-catebreaknews_ch2",
-            "time": "2024-09-17 04:54"
         }
     ]
 }
