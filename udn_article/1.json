@@ -1,13 +1,19 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/02/realtime/30194074.jpeg&s=Y&x=0&y=17&sw=1125&sh=750&exp=3600&w=300",
+            "title": "公共藝術增利益迴避條款 藝術家：資訊不透明 難避黑箱",
+            "link": "https://udn.com//news/story/7314/8233793?from=udn-catebreaknews_ch2",
+            "time": "2024-09-18 02:21"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/17/realtime/30540257.jpg&s=Y&x=0&y=572&sw=1440&sh=960&exp=3600&w=300",
             "title": "看守所外小草望月／陳佩琪思念柯文哲：會為你洗冤",
             "link": "https://udn.com//news/story/124199/8233874?from=udn-catebreaknews_ch2",
             "time": "2024-09-18 01:34"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_1.jpg&w=300",
             "title": "美P-8A飛越台海 共機警戒 我軍掌握",
             "link": "https://udn.com//news/story/10930/8233867?from=udn-catebreaknews_ch2",
             "time": "2024-09-18 01:33"
@@ -23,12 +29,6 @@
             "title": "美空軍部長：中共軍演升級 專為侵台鎖台設計",
             "link": "https://udn.com//news/story/10930/8233865?from=udn-catebreaknews_ch2",
             "time": "2024-09-18 01:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/17/realtime/30535079.jpg&s=Y&x=0&y=0&sw=4366&sh=2929&exp=3600&w=300",
-            "title": "美批准72.6億對台軍售 強化戰機防空",
-            "link": "https://udn.com//news/story/10930/8233859?from=udn-catebreaknews_ch2",
-            "time": "2024-09-18 01:29"
         }
     ]
 }
