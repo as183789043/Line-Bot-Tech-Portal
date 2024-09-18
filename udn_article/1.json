@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/18/1/30548374.png&s=Y&x=0&y=0&sw=799&sh=533&exp=3600&w=300",
+            "title": "【總編開箱】柯志恩的5趴 帶給藍白陣營的意義豈止5趴",
+            "link": "https://udn.com//news/story/6656/8236465?from=udn-catebreaknews_ch2",
+            "time": "2024-09-19 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/18/realtime/30546188.jpg&s=Y&x=0&y=25&sw=3577&sh=2384&exp=3600&w=300",
             "title": "立院明開議 朝野攻防再起",
             "link": "https://udn.com//news/story/6656/8236401?from=udn-catebreaknews_ch2",
@@ -20,15 +26,9 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/18/realtime/30549666.jpeg&s=Y&x=417&y=0&sw=4362&sh=2909&exp=3600&w=300",
-            "title": "國土法暫緩實施？ 賴清德指示政院評估",
+            "title": "國土法暫緩實施？ 賴總統指示政院評估",
             "link": "https://udn.com//news/story/124164/8236398?from=udn-catebreaknews_ch2",
             "time": "2024-09-19 04:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/18/realtime/30544040.jpg&s=Y&x=355&y=0&sw=3291&sh=2195&exp=3600&w=300",
-            "title": "大法官若判死刑違憲…綠營憂心 對執政黨衝擊大",
-            "link": "https://udn.com//news/story/124220/8236422?from=udn-catebreaknews_ch2",
-            "time": "2024-09-19 03:39"
         }
     ]
 }
