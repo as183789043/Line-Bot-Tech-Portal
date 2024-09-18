@@ -1,13 +1,19 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/19/realtime/30550297.jpg&s=Y&x=219&y=0&sw=5562&sh=3709&exp=3600&w=300",
+            "title": "Fed一口氣降息2碼護經濟 年底前會再降2碼",
+            "link": "https://udn.com//news/story/6811/8236503?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-09-19 02:14"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/18/realtime/30548796.jpg&s=Y&x=0&y=0&sw=4928&sh=3280&exp=3600&w=300",
             "title": "華爾街日報：呼叫器、對講機連環爆 以色列滲入真主黨裝備供應鏈",
             "link": "https://udn.com//news/story/123777/8236487?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-09-19 02:10"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
             "title": "真主黨呼叫器爆炸 美副國務卿：台廠商稱未參與此事",
             "link": "https://udn.com//news/story/123777/8236500?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-09-19 02:08"
@@ -23,12 +29,6 @@
             "title": "今日最夯ETF／台股跌逾百點 00907鎖定傳產、金融股逆勢走揚",
             "link": "https://udn.com//news/story/123006/8236449?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-09-19 00:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/19/realtime/30549751.jpg&s=Y&x=0&y=0&sw=4093&sh=2729&exp=3600&w=300",
-            "title": "陸停台34項農產品免關稅 農業部：損失有限影響可控",
-            "link": "https://udn.com//news/story/124219/8236432?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-09-19 00:03"
         }
     ]
 }
