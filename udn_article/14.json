@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/18/0/30543270.jpg&s=Y&x=184&y=120&sw=768&sh=512&exp=3600&w=300",
+            "title": "鴻海協造全台唯一AI做回收！清潔隊不再狂加班 技術還賣到美國",
+            "link": "https://udn.com//news/story/6841/8234309?from=udn-catebreaknews_ch2",
+            "time": "2024-09-18 10:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/07/29/realtime/30164394.jpg&s=Y&x=124&y=68&sw=1677&sh=1118&exp=3600&w=300",
             "title": "40歲前投資「全軍覆沒」45歲卻能安心退 他記帳算出退休金目標 5%ETF報酬滾出生活費",
             "link": "https://udn.com//news/story/6839/8230978?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "秋冬盛典連發 台中好玩嗨到跨年  9、10月國際動漫博覽會、動畫影展 擦亮眼界",
             "link": "https://udn.com//news/story/9639/8230636?from=udn-catebreaknews_ch2",
             "time": "2024-09-16 11:15"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/16/0/30526761.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "爵士音樂節、搖滾台中接力掀音浪",
-            "link": "https://udn.com//news/story/9639/8230654?from=udn-catebreaknews_ch2",
-            "time": "2024-09-16 11:14"
         }
     ]
 }
