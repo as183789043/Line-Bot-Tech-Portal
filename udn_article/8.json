@@ -1,6 +1,12 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/20/realtime/30560811.jpg&s=Y&x=131&y=0&sw=537&sh=359&exp=3600&w=300",
+            "title": "收到國家級警報別驚慌！氣象署今演練地震海嘯避難機制",
+            "link": "https://udn.com//news/story/7266/8239279?from=udn-catebreaknews_ch2",
+            "time": "2024-09-20 06:06"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/20/98/30560427.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
             "title": "屏東豪雨特報 高雄、台東防大雨",
             "link": "https://udn.com//news/story/7266/8239241?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2024-09-20 03:13"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_8.jpg&w=300",
             "title": "有行旅／南投宋居 品味曲水流觴",
             "link": "https://udn.com//news/story/7266/8238999?from=udn-catebreaknews_ch2",
             "time": "2024-09-20 02:17"
@@ -23,12 +29,6 @@
             "title": "退休力／中壯年拓展視野 微醺課學到專業",
             "link": "https://udn.com//news/story/7266/8239019?from=udn-catebreaknews_ch2",
             "time": "2024-09-20 02:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_5.jpg&w=300",
-            "title": "聽損致失智 專家建議健檢納聽篩",
-            "link": "https://udn.com//news/story/7266/8239084?from=udn-catebreaknews_ch2",
-            "time": "2024-09-20 02:13"
         }
     ]
 }

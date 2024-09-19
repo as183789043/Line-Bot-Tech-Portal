@@ -1,13 +1,25 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
+            "title": "AI題材七雄 大摩按讚",
+            "link": "https://udn.com//news/story/7251/8238598?from=udn-catebreaknews_ch2",
+            "time": "2024-09-20 06:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/07/20/2/30057783.jpg&s=Y&x=0&y=0&sw=1253&sh=835&exp=3600&w=300",
+            "title": "台股絕地反攻 收復三關卡 外資轉買271億、大舉敲進台積",
+            "link": "https://udn.com//news/story/7251/8239006?from=udn-catebreaknews_ch2",
+            "time": "2024-09-20 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/19/realtime/30558555.jpg&s=Y&x=0&y=14&sw=1889&sh=1258&exp=3600&w=300",
             "title": "債券ETF 買氣不墜",
             "link": "https://udn.com//news/story/123006/8238755?from=udn-catebreaknews_ch2",
             "time": "2024-09-20 03:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
             "title": "非投等債ETF亮眼 吸金力強",
             "link": "https://udn.com//news/story/123006/8238757?from=udn-catebreaknews_ch2",
             "time": "2024-09-20 03:00"
@@ -16,18 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/20/2/30559402.jpg&s=Y&x=48&y=0&sw=1206&sh=804&exp=3600&w=300",
             "title": "黃金基金 績效閃亮",
             "link": "https://udn.com//news/story/10103/8238922?from=udn-catebreaknews_ch2",
-            "time": "2024-09-20 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/20/2/30559392.png&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "瀚亞新基金商品 下周一募集",
-            "link": "https://udn.com//news/story/10103/8238930?from=udn-catebreaknews_ch2",
-            "time": "2024-09-20 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/20/2/30559389.png&s=Y&x=0&y=0&sw=701&sh=467&exp=3600&w=300",
-            "title": "多重資產 買點到了",
-            "link": "https://udn.com//news/story/10103/8238933?from=udn-catebreaknews_ch2",
             "time": "2024-09-20 03:00"
         }
     ]
