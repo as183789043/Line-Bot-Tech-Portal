@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/19/105/30562073.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "不要盲目揮棒",
+            "link": "https://udn.com//news/story/6854/8238720?from=udn-catebreaknews_ch2",
+            "time": "2024-09-20 09:54"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/20/0/30561135.png&s=Y&x=168&y=0&sw=1080&sh=720&exp=3600&w=300",
             "title": "再3個月，台灣一半人超過45歲！全台首次「壯世代」百強企業調查 幫你找好雇主",
             "link": "https://udn.com//news/story/6837/8239326?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "半導體設備產值再升溫！設備展遺珠 補漲還不遲",
             "link": "https://udn.com//news/story/6851/8237111?from=udn-catebreaknews_ch2",
             "time": "2024-09-19 14:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/19/draft/30553223.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "PS5 Pro搭AI熱搶先上市 電玩市場規模持續成長",
-            "link": "https://udn.com//news/story/6851/8237096?from=udn-catebreaknews_ch2",
-            "time": "2024-09-19 13:56"
         }
     ]
 }
