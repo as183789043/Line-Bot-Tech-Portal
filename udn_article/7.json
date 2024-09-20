@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/20/2/30562802.jpg&s=Y&x=84&y=20&sw=1050&sh=700&exp=3600&w=300",
+            "title": "中美晶小金雞台特化掛牌上櫃 股價盤中飆漲80%",
+            "link": "https://udn.com//news/story/7254/8239699?from=udn-catebreaknews_ch2",
+            "time": "2024-09-20 11:07"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/20/realtime/30562494.jpg&s=Y&x=0&y=0&sw=842&sh=556&exp=3600&w=300",
             "title": "降息首日台股ETF熱  這檔價量齊揚最具人氣",
             "link": "https://udn.com//news/story/123006/8239580?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "ADR大漲 台積電跳空以981元開盤、市值重回25兆",
             "link": "https://udn.com//news/story/7253/8239465?from=udn-catebreaknews_ch2",
             "time": "2024-09-20 09:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/15/98/30519003.jpg&s=Y&x=0&y=0&sw=1169&sh=779&exp=3600&w=300",
-            "title": "降息除債券ETF外…這兩類投資標的也漲定了？小童：是黃金跟石油！",
-            "link": "https://udn.com//news/story/7251/8239369?from=udn-catebreaknews_ch2",
-            "time": "2024-09-20 09:35"
         }
     ]
 }
