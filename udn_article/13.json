@@ -1,6 +1,12 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/20/0/30562774.jpg&s=Y&x=0&y=0&sw=1280&sh=712&exp=3600&w=300",
+            "title": "手搖飲13元開喝！「青茶天花板」來了 超美手搖新品牌「青山 PeakTea」插旗東區 慶開幕霸氣推「全品項5折」",
+            "link": "https://udn.com//news/story/7186/8239666?from=udn-catebreaknews_ch2",
+            "time": "2024-09-20 13:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/20/realtime/30563521.jpg&s=Y&x=0&y=0&sw=1920&sh=1281&exp=3600&w=300",
             "title": "台灣飯店集團首家獲獎！國泰獲頒「Best Workplaces」",
             "link": "https://udn.com//news/story/7934/8239868?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "吸引國外旅客！ 2024「日月潭花火音樂嘉年華」秋季登場 精彩活動暢遊日月潭",
             "link": "https://udn.com//news/story/7934/8230687?from=udn-catebreaknews_ch2",
             "time": "2024-09-20 11:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/12/draft/30498099.png&s=Y&x=0&y=0&sw=697&sh=466&exp=3600&w=300",
-            "title": "2024東京近郊必去的5家星野集團住宿！一次帶你看富士山渡假村、輕井澤飯店和伊豆半島溫泉住宿",
-            "link": "https://udn.com//news/story/9651/8224647?from=udn-catebreaknews_ch2",
-            "time": "2024-09-20 10:00"
         }
     ]
 }
