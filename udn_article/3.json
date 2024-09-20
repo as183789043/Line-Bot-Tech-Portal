@@ -1,10 +1,22 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
+            "title": "2028年重啟…賓州三哩島核電廠 將供電微軟",
+            "link": "https://udn.com//news/story/6811/8241381?from=udn-catebreaknews_ch2",
+            "time": "2024-09-21 05:32"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/21/98/30570328.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "以色列：空襲貝魯特 不是為了升高中東緊張局勢",
             "link": "https://udn.com//news/story/123777/8241540?from=udn-catebreaknews_ch2",
             "time": "2024-09-21 05:08"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/09/21/30570213.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "道瓊小漲38點再創新高 Fed降息後美股三大指數周線全面收漲",
+            "link": "https://udn.com//news/story/6811/8241541?from=udn-catebreaknews_ch2",
+            "time": "2024-09-21 04:58"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/20/realtime/30568925.jpg&s=Y&x=0&y=0&sw=5500&sh=3667&exp=3600&w=300",
@@ -17,18 +29,6 @@
             "title": "美媒：加薩和平協議 拜登任內難達成",
             "link": "https://udn.com//news/story/123777/8241351?from=udn-catebreaknews_ch2",
             "time": "2024-09-21 02:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/20/98/30566476.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "菲律賓證實 暫不撤美飛彈系統",
-            "link": "https://udn.com//news/story/6809/8241352?from=udn-catebreaknews_ch2",
-            "time": "2024-09-21 01:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/21/2/30569363.jpg&s=Y&x=0&y=0&sw=1133&sh=755&exp=3600&w=300",
-            "title": "創新高！金價漲破2,600美元 專家預測：一年內上看3,000美元",
-            "link": "https://udn.com//news/story/6811/8241373?from=udn-catebreaknews_ch2",
-            "time": "2024-09-21 00:49"
         }
     ]
 }
