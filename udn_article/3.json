@@ -1,8 +1,14 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/21/98/30570328.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "以色列：空襲貝魯特 不是為了升高中東緊張局勢",
+            "link": "https://udn.com//news/story/123777/8241540?from=udn-catebreaknews_ch2",
+            "time": "2024-09-21 05:08"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/20/realtime/30568925.jpg&s=Y&x=0&y=0&sw=5500&sh=3667&exp=3600&w=300",
-            "title": "以軍密集空襲斬首 黎南民兵還擊",
+            "title": "以軍密集空襲「斬首」 黎南民兵還擊",
             "link": "https://udn.com//news/story/123777/8241349?from=udn-catebreaknews_ch2",
             "time": "2024-09-21 02:18"
         },
@@ -23,12 +29,6 @@
             "title": "創新高！金價漲破2,600美元 專家預測：一年內上看3,000美元",
             "link": "https://udn.com//news/story/6811/8241373?from=udn-catebreaknews_ch2",
             "time": "2024-09-21 00:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/20/realtime/30568960.jpg&s=Y&x=0&y=8&sw=1133&sh=754&exp=3600&w=300",
-            "title": "賓士熄火 調降全年財測",
-            "link": "https://udn.com//news/story/6811/8241377?from=udn-catebreaknews_ch2",
-            "time": "2024-09-21 00:47"
         }
     ]
 }
