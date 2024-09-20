@@ -1,6 +1,12 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/21/realtime/30569961.jpg&s=Y&x=0&y=14&sw=1108&sh=738&exp=3600&w=300",
+            "title": "下大雨轎車撞高屏大橋邊坡護欄 車損嚴重駕駛昏迷送醫",
+            "link": "https://udn.com//news/story/7320/8241518?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-09-21 03:46"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/21/realtime/30569183.jpg&s=Y&x=0&y=13&sw=828&sh=552&exp=3600&w=300",
             "title": "赴陸失聯台男郭宇軒 任職於連鎖禮車出租公司",
             "link": "https://udn.com//news/story/7331/8241463?from=udn-ch1_breaknews-1-0-news",
@@ -23,12 +29,6 @@
             "title": "以色列空襲黎巴嫩首都 聲稱擊殺真主黨高階指揮官",
             "link": "https://udn.com//news/story/123777/8241372?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-09-20 23:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/20/0/30567745.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "川普再批聯準會 稱降息2碼是出於政治動機",
-            "link": "https://udn.com//news/story/121777/8241304?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-09-20 23:01"
         }
     ]
 }
