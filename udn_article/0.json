@@ -1,6 +1,12 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/22/realtime/30579075.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "台南計程車和民間救護車車禍 2車5人受傷送醫",
+            "link": "https://udn.com//news/story/7320/8243012?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-09-22 06:59"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/21/realtime/30573975.jpg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
             "title": "電價是否調漲月底有答案、8月景氣可望續亮黃紅燈",
             "link": "https://udn.com//news/story/7238/8242292?from=udn-ch1_breaknews-1-0-news",
@@ -20,15 +26,9 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/21/realtime/30577406.jpg&s=Y&x=0&y=0&sw=4338&sh=2906&exp=3600&w=300",
-            "title": "外媒：高通洽談收購英特爾",
+            "title": "外媒：高通洽談收購英特爾 半導體業震撼",
             "link": "https://udn.com//news/story/7240/8242891?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-09-22 05:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/17/realtime/30536015.jpg&s=Y&x=154&y=0&sw=2991&sh=1995&exp=3600&w=300",
-            "title": "新聞分析／一代英皇 站在命運分岔口",
-            "link": "https://udn.com//news/story/7240/8242892?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-09-22 05:20"
         }
     ]
 }
