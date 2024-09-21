@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/20/0/30565454.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "Gogoro股價大跌9成…那些赴海外掛牌新創怎麼樣了？專家點出成功2關鍵",
+            "link": "https://udn.com//news/story/7252/8240388?from=udn-catebreaknews_ch2",
+            "time": "2024-09-21 07:56"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/13/2/30504190.jpg&s=Y&x=20&y=16&sw=1261&sh=841&exp=3600&w=300",
             "title": "台股三利多 探底危機解除…利空反轉可望重啟攻勢",
             "link": "https://udn.com//news/story/7251/8241399?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2024-09-21 00:29"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
             "title": "營建指數大跌 多檔跌停",
             "link": "https://udn.com//news/story/7251/8241420?from=udn-catebreaknews_ch2",
             "time": "2024-09-21 00:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
-            "title": "力智全年業績看增20%",
-            "link": "https://udn.com//news/story/7253/8241000?from=udn-catebreaknews_ch2",
-            "time": "2024-09-20 23:59"
         }
     ]
 }
