@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/16/98/30529089.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "汎銓搭矽光子熱潮最高衝上197元 單周股價飆漲27％",
+            "link": "https://udn.com//news/story/7253/8242288?from=udn-catebreaknews_ch2",
+            "time": "2024-09-21 15:06"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/13/98/30506743.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "00944成交量遠低於00939、00946、00940…但卻最接近發行價？ 其實績效與量無關！",
             "link": "https://udn.com//news/story/123006/8242019?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "Gogoro股價大跌9成…那些赴海外掛牌新創怎麼樣了？專家點出成功2關鍵",
             "link": "https://udn.com//news/story/7252/8240388?from=udn-catebreaknews_ch2",
             "time": "2024-09-21 07:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/13/2/30504190.jpg&s=Y&x=20&y=16&sw=1261&sh=841&exp=3600&w=300",
-            "title": "台股三利多 探底危機解除…利空反轉可望重啟攻勢",
-            "link": "https://udn.com//news/story/7251/8241399?from=udn-catebreaknews_ch2",
-            "time": "2024-09-21 06:40"
         }
     ]
 }
