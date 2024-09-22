@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/18/draft/30546770.jfif&s=Y&x=67&y=0&sw=465&sh=310&exp=3600&w=300",
+            "title": " 跨過半導體極限高牆 奈米片推動摩爾定律發展",
+            "link": "https://udn.com//news/story/6903/8235448?from=udn-catebreaknews_ch2",
+            "time": "2024-09-22 10:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/18/draft/30546768.jfif&s=Y&x=68&y=0&sw=462&sh=309&exp=3600&w=300",
+            "title": "從專利布局看鎵回收技術的綠色創新與永續發展",
+            "link": "https://udn.com//news/story/6903/8235435?from=udn-catebreaknews_ch2",
+            "time": "2024-09-22 10:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/12/draft/30496204.png&s=Y&x=0&y=8&sw=700&sh=466&exp=3600&w=300",
             "title": "新世代書店報到 不一樣的城市閱讀風景",
             "link": "https://udn.com//news/story/6961/8224050?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "信義區新地標！Vivienne Westwood幸運草綠土星珠寶盒快閃店開幕",
             "link": "https://udn.com//news/story/12677/8240415?from=udn-catebreaknews_ch2",
             "time": "2024-09-22 08:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/20/draft/30564278.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "「世界音樂節＠臺灣」2024號樂章 聆聽世界、暢遊市集",
-            "link": "https://udn.com//news/story/12677/8240111?from=udn-catebreaknews_ch2",
-            "time": "2024-09-22 08:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/20/draft/30564782.jpg&s=Y&x=0&y=0&sw=800&sh=534&exp=3600&w=300",
-            "title": "掌握市場及自媒體營銷戰略 快電學力傳數位新知",
-            "link": "https://udn.com//news/story/120681/8240282?from=udn-catebreaknews_ch2",
-            "time": "2024-09-22 08:44"
         }
     ]
 }
