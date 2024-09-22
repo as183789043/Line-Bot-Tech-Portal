@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/06/15/2/22656297.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "美銀：奇鋐具液冷散熱領導地位 目標價800元",
+            "link": "https://udn.com//news/story/7253/8244149?from=udn-catebreaknews_ch2",
+            "time": "2024-09-22 21:48"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/01/2/30394433.jpg&s=Y&x=64&y=40&sw=1041&sh=694&exp=3600&w=300",
             "title": "不確定性下降 台股加權指數價量齊揚、周線連二紅",
             "link": "https://udn.com//news/story/7251/8243766?from=udn-catebreaknews_ch2",
@@ -13,22 +19,16 @@
             "time": "2024-09-22 15:54"
         },
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/22/2/30585397.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "美國總統大選年 股市震盪時間可能持續到10月",
+            "link": "https://udn.com//news/story/10103/8243679?from=udn-catebreaknews_ch2",
+            "time": "2024-09-22 15:25"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/20/2/30564516.jpg&s=Y&x=525&y=52&sw=745&sh=497&exp=3600&w=300",
             "title": "美國降息確立 法人：台股將迎第4季旺季行情",
             "link": "https://udn.com//news/story/7251/8243524?from=udn-catebreaknews_ch2",
             "time": "2024-09-22 13:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/20/2/30564516.jpg&s=Y&x=525&y=52&sw=745&sh=497&exp=3600&w=300",
-            "title": "00878存520張…月薪僅3萬怎做到？ 小師傅提三點：存錢、槓桿、想辦法提升收入",
-            "link": "https://udn.com//news/story/123006/8243295?from=udn-catebreaknews_ch2",
-            "time": "2024-09-22 11:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
-            "title": "外銀：美國降息循環有助經濟 但市場仍存3大風險",
-            "link": "https://udn.com//news/story/7251/8243203?from=udn-catebreaknews_ch2",
-            "time": "2024-09-22 10:47"
         }
     ]
 }
