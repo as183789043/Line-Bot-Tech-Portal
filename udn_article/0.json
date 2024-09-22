@@ -1,9 +1,21 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/23/realtime/30586073.png&s=Y&x=53&y=0&sw=1959&sh=1306&exp=3600&w=300",
+            "title": "北市強降雨 災情累至49起 南港撤離邊坡保全住戶2人",
+            "link": "https://udn.com//news/story/7323/8244480?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-09-23 00:54"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/23/realtime/30586077.jpeg&s=Y&x=0&y=40&sw=3024&sh=2016&exp=3600&w=300",
+            "title": "東海女大生遭撞一死一傷 死者母傷痛拒客運業者慰問",
+            "link": "https://udn.com//news/story/7320/8244481?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-09-23 00:54"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/22/realtime/30585838.jpeg&s=Y&x=0&y=14&sw=1108&sh=738&exp=3600&w=300",
             "title": "巨業客運宮原眼科前撞死東海女大生 肇事司機：沒看到",
-            "link": "https://udn.com//news/story/7321/8244442?from=udn-ch1_breaknews-1-0-news",
+            "link": "https://udn.com//news/story/7320/8244442?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-09-22 23:59"
         },
         {
@@ -15,20 +27,8 @@
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/22/realtime/30585820.jpg&s=Y&x=0&y=14&sw=1117&sh=744&exp=3600&w=300",
             "title": "東海大學女學生遭撞一死一傷 校方：對巨業客運憤怒並譴責",
-            "link": "https://udn.com//news/story/7317/8244436?from=udn-ch1_breaknews-1-0-news",
+            "link": "https://udn.com//news/story/7320/8244436?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-09-22 23:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/22/realtime/30585778.jpg&s=Y&x=0&y=0&sw=8256&sh=5504&exp=3600&w=300",
-            "title": "蘭陽媽祖文化節圓滿落幕 上千名信眾夾道恭迎媽祖回鑾南天宮",
-            "link": "https://udn.com//news/story/7328/8244418?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-09-22 23:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/22/realtime/30585764.jpg&s=Y&x=0&y=24&sw=3264&sh=2176&exp=3600&w=300",
-            "title": "彰化員林三和社區活動中心美美啟用 多功能服務滿足各年齡層",
-            "link": "https://udn.com//news/story/7325/8244412?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-09-22 23:39"
         }
     ]
 }

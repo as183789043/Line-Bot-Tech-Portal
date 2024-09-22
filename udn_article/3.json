@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/22/realtime/30585689.jpg&s=Y&x=0&y=0&sw=3500&sh=2335&exp=3600&w=300",
+            "title": "美擬禁聯網車用陸軟硬體",
+            "link": "https://udn.com//news/story/6811/8244308?from=udn-catebreaknews_ch2",
+            "time": "2024-09-23 00:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/22/98/30585486.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "斯里蘭卡總統大選 馬克斯主義領袖迪桑納亞克勝出",
             "link": "https://udn.com//news/story/6809/8244220?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "以色列突襲約旦河西岸半島電視台辦公室 下令關閉45天",
             "link": "https://udn.com//news/story/6809/8244223?from=udn-catebreaknews_ch2",
             "time": "2024-09-22 22:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/22/2/30585364.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "全球股市近兩年漲幅已逾50% 整理壓力大",
-            "link": "https://udn.com//news/story/6811/8244193?from=udn-catebreaknews_ch2",
-            "time": "2024-09-22 22:24"
         }
     ]
 }
