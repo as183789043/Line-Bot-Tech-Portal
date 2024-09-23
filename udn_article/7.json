@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/06/20/2/29852965.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "佳世達公開收購諾貝兒13.95%股權 溢價率11.46%",
+            "link": "https://udn.com//news/story/7253/8246287?from=udn-catebreaknews_ch2",
+            "time": "2024-09-23 21:27"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/21/realtime/30309833.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
             "title": "開發金將更名凱基金 10月5日至9日暫停股票過戶",
             "link": "https://udn.com//news/story/7252/8246068?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "抽增資新股紅包 這檔電動車概念股抽中有望賺3.3萬",
             "link": "https://udn.com//news/story/7251/8245697?from=udn-catebreaknews_ch2",
             "time": "2024-09-23 16:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/11/realtime/30489131.jpg&s=Y&x=0&y=0&sw=1889&sh=1259&exp=3600&w=300",
-            "title": "台股ETF受益人984萬人 連續30周創新高",
-            "link": "https://udn.com//news/story/123006/8245688?from=udn-catebreaknews_ch2",
-            "time": "2024-09-23 16:15"
         }
     ]
 }
