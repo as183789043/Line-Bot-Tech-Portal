@@ -1,6 +1,12 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/24/realtime/30594060.png&s=Y&x=0&y=8&sw=1108&sh=738&exp=3600&w=300",
+            "title": "花蓮近海連2震 凌晨5時53分規模3.2淺層地震 最大震度3級",
+            "link": "https://udn.com//news/story/7266/8246733?from=udn-catebreaknews_ch2",
+            "time": "2024-09-24 06:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/24/realtime/30594058.jpg&s=Y&x=0&y=12&sw=1200&sh=800&exp=3600&w=300",
             "title": "午後熱對流大台北雷陣雨 未來1周天氣不穩定",
             "link": "https://udn.com//news/story/7266/8246730?from=udn-catebreaknews_ch2",
@@ -14,7 +20,7 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/24/realtime/30593963.jpg&s=Y&x=254&y=0&sw=2799&sh=1866&exp=3600&w=300",
-            "title": "大雨特報 午後全台雷雨 明鋒面過水氣增 周四東北風到",
+            "title": "大雨特報！午後全台雷雨 明鋒面過水氣增 周四東北風到",
             "link": "https://udn.com//news/story/7266/8246701?from=udn-catebreaknews_ch2",
             "time": "2024-09-24 05:59"
         },
@@ -23,12 +29,6 @@
             "title": "凌晨1時22分高雄甲仙規模3.4淺層地震 最大震度1級",
             "link": "https://udn.com//news/story/7266/8246700?from=udn-catebreaknews_ch2",
             "time": "2024-09-24 05:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/24/realtime/30593960.png&s=Y&x=0&y=8&sw=1119&sh=746&exp=3600&w=300",
-            "title": "凌晨3時45分花蓮縣近海規模4.3地震 最大震度2級",
-            "link": "https://udn.com//news/story/7266/8246698?from=udn-catebreaknews_ch2",
-            "time": "2024-09-24 05:49"
         }
     ]
 }
