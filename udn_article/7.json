@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/16/2/30527148.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "00919領到股息務必「再投入創造複利」！ 不敗教主曝該ETF為何如此受歡迎？",
+            "link": "https://udn.com//news/story/123006/8247339?from=udn-catebreaknews_ch2",
+            "time": "2024-09-24 13:01"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/06/realtime/30446662.jpg&s=Y&x=0&y=0&sw=4110&sh=2680&exp=3600&w=300",
+            "title": "00687B一周增1.1萬人、追募400億！卡降息賺價差 法人：注意隱藏成本溢價、管理費用",
+            "link": "https://udn.com//news/story/123006/8247484?from=udn-catebreaknews_ch2",
+            "time": "2024-09-24 12:36"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/24/0/30595588.jpg&s=Y&x=0&y=228&sw=1280&sh=853&exp=3600&w=300",
             "title": "「新新併」落幕…他存股30張台新金問要賣嗎？ 網喊：25可能還太小看",
             "link": "https://udn.com//news/story/12806/8247313?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2024-09-24 11:41"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/19/2/30554729.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "0050成分股逾50%都是台積電...直接買護國神山就好？網反推1組合績效大勝",
-            "link": "https://udn.com//news/story/123006/8205644?from=udn-catebreaknews_ch2",
-            "time": "2024-09-24 11:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/24/realtime/30595293.jpg&s=Y&x=727&y=0&sw=1413&sh=942&exp=3600&w=300",
-            "title": "凱基投顧預期台股探底危機解除 中長線布局看好七族群",
-            "link": "https://udn.com//news/story/7251/8247171?from=udn-catebreaknews_ch2",
-            "time": "2024-09-24 10:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/24/realtime/30595249.jpg&s=Y&x=192&y=0&sw=519&sh=347&exp=3600&w=300",
-            "title": "00915親弟 凱基ETF 00938追求台股長期較高勝率",
-            "link": "https://udn.com//news/story/123006/8247149?from=udn-catebreaknews_ch2",
-            "time": "2024-09-24 10:50"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/16/realtime/30280327.jpg&s=Y&x=0&y=0&sw=1977&sh=1348&exp=3600&w=300",
+            "title": "M31連2天重挫跌停 失守800元IP股跟著大跌",
+            "link": "https://udn.com//news/story/7253/8247286?from=udn-catebreaknews_ch2",
+            "time": "2024-09-24 11:35"
         }
     ]
 }
