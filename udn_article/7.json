@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/15/2/30522076.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "法人：美股有望持續領漲全球 看好大型優質股",
+            "link": "https://udn.com//news/story/12806/8248715?from=udn-catebreaknews_ch2",
+            "time": "2024-09-24 20:44"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/19/2/30551454.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "台積電CoWoS提前一年擴產 大摩上調目標價到1280元",
+            "link": "https://udn.com//news/story/7253/8248695?from=udn-catebreaknews_ch2",
+            "time": "2024-09-24 20:27"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/19/2/30555574.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "凱基投顧：台股探底危機已除 宜趁美國選前逢低布局",
+            "link": "https://udn.com//news/story/7251/8248683?from=udn-catebreaknews_ch2",
+            "time": "2024-09-24 20:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/03/22/2/29260031.jpg&s=Y&x=0&y=0&sw=792&sh=528&exp=3600&w=300",
             "title": "液冷散熱鏈 大摩按讚",
             "link": "https://udn.com//news/story/7251/8248570?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "主動式及多重資產ETF來了 金管會目標2026年規模達2千億",
             "link": "https://udn.com//news/story/123006/8248571?from=udn-catebreaknews_ch2",
             "time": "2024-09-24 19:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/17/2/30537991.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "更適用於AI！晶背供電技術受矚 法人點名國內兩檔受惠股",
-            "link": "https://udn.com//news/story/7251/8248481?from=udn-catebreaknews_ch2",
-            "time": "2024-09-24 18:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/24/2/30598213.jpg&s=Y&x=0&y=52&sw=1280&sh=853&exp=3600&w=300",
-            "title": "因應開放主動式、被動式平衡型ETF 證交所配合修法",
-            "link": "https://udn.com//news/story/123006/8248384?from=udn-catebreaknews_ch2",
-            "time": "2024-09-24 17:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/13/0/30503142.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
-            "title": "00960漲幅竟比成分股還誇張…開市三日股價衝16塊！ 專家揭答案：散戶母湯啦",
-            "link": "https://udn.com//news/story/123006/8248343?from=udn-catebreaknews_ch2",
-            "time": "2024-09-24 17:36"
         }
     ]
 }
