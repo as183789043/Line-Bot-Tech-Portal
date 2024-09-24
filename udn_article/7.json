@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/24/2/30598213.jpg&s=Y&x=0&y=52&sw=1280&sh=853&exp=3600&w=300",
+            "title": "因應開放主動式、被動式平衡型ETF 證交所配合修法",
+            "link": "https://udn.com//news/story/123006/8248384?from=udn-catebreaknews_ch2",
+            "time": "2024-09-24 17:44"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/13/0/30503142.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
+            "title": "00960漲幅竟比成分股還誇張…開市三日股價衝16塊！ 專家揭答案：散戶母湯啦",
+            "link": "https://udn.com//news/story/123006/8248343?from=udn-catebreaknews_ch2",
+            "time": "2024-09-24 17:36"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/18/0/30545695.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "連四買！外資買超105億元 買賣超個股冠軍竟都是金融股",
             "link": "https://udn.com//news/story/7251/8248226?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "安心法說會／撐不住？摩斯漢堡本業虧損 總經理評估漲價",
             "link": "https://udn.com//news/story/7254/8248155?from=udn-catebreaknews_ch2",
             "time": "2024-09-24 16:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/13/2/30506886.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "00878「月配版本」的00961將募集！ 同樣擁有ESG、第三代高股息ETF",
-            "link": "https://udn.com//news/story/123006/8248090?from=udn-catebreaknews_ch2",
-            "time": "2024-09-24 16:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/16/2/30527798.jpg&s=Y&x=60&y=132&sw=1152&sh=768&exp=3600&w=300",
-            "title": "台積電股價反彈收987元 市值重返25.59兆元",
-            "link": "https://udn.com//news/story/7253/8248011?from=udn-catebreaknews_ch2",
-            "time": "2024-09-24 15:42"
         }
     ]
 }
