@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/24/draft/30594291.jpg&s=Y&x=22&y=0&sw=756&sh=505&exp=3600&w=300",
+            "title": "科學家基因改造培育「黃金萵苣」 營養比綠色款高 30 倍多",
+            "link": "https://udn.com//news/story/6897/8246801?from=udn-catebreaknews_ch2",
+            "time": "2024-09-24 09:34"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/23/0/30589571.jpg&s=Y&x=0&y=0&sw=1271&sh=847&exp=3600&w=300",
             "title": "高通喊收購「I同學」震驚科技界！陸行之曝5大盤算 昔日CPU霸主還有救嗎？",
             "link": "https://udn.com//news/story/6839/8245015?from=udn-catebreaknews_ch2",
@@ -22,12 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/18/draft/30546770.jfif&s=Y&x=67&y=0&sw=465&sh=310&exp=3600&w=300",
             "title": " 跨過半導體極限高牆 奈米片推動摩爾定律發展",
             "link": "https://udn.com//news/story/6903/8235448?from=udn-catebreaknews_ch2",
-            "time": "2024-09-22 10:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/18/draft/30546768.jfif&s=Y&x=68&y=0&sw=462&sh=309&exp=3600&w=300",
-            "title": "從專利布局看鎵回收技術的綠色創新與永續發展",
-            "link": "https://udn.com//news/story/6903/8235435?from=udn-catebreaknews_ch2",
             "time": "2024-09-22 10:13"
         }
     ]
