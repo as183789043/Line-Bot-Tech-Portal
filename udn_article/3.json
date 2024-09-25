@@ -1,13 +1,25 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/09/25/30601011.jpg&s=Y&x=0&y=124&sw=1091&sh=727&exp=3600&w=300",
+            "title": "新聞分析／拜登告別演說 老派理論與新型挑戰並列",
+            "link": "https://udn.com//news/story/6809/8251540?from=udn-catebreaknews_ch2",
+            "time": "2024-09-26 03:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/23/realtime/30588062.jpg&s=Y&x=0&y=0&sw=3600&sh=2400&exp=3600&w=300",
             "title": "以色列參謀總長：正為可能進軍黎巴嫩做準備",
             "link": "https://udn.com//news/story/123777/8251753?from=udn-catebreaknews_ch2",
             "time": "2024-09-26 02:57"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/09/25/30601409.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "美主要穆斯林團體表態挺賀錦麗 批川普構成更大危害",
+            "link": "https://udn.com//news/story/121777/8251775?from=udn-catebreaknews_ch2",
+            "time": "2024-09-26 02:54"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
             "title": "G7外長聲明 挺台參與國際",
             "link": "https://udn.com//news/story/6809/8251533?from=udn-catebreaknews_ch2",
             "time": "2024-09-26 02:19"
@@ -17,18 +29,6 @@
             "title": "以軍連炸3天  近50萬黎巴嫩人成難民",
             "link": "https://udn.com//news/story/123777/8251531?from=udn-catebreaknews_ch2",
             "time": "2024-09-26 02:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/25/realtime/30606016.jpg&s=Y&x=0&y=0&sw=2126&sh=1417&exp=3600&w=300",
-            "title": "伊朗總統聯大發言：無意與他國衝突",
-            "link": "https://udn.com//news/story/123777/8251527?from=udn-catebreaknews_ch2",
-            "time": "2024-09-26 02:15"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/25/realtime/30604102.jpg&s=Y&x=0&y=0&sw=3500&sh=2333&exp=3600&w=300",
-            "title": "時候未到？ 正確解讀殖利率曲線和衰退的關係",
-            "link": "https://udn.com//news/story/6811/8251518?from=udn-catebreaknews_ch2",
-            "time": "2024-09-25 23:02"
         }
     ]
 }
