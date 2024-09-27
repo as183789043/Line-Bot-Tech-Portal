@@ -1,7 +1,13 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/19/2/30556233.jpg&s=Y&x=92&y=0&sw=1169&sh=779&exp=3600&w=300",
+            "title": "台股開高走低下跌36點 三大法人買超295億元",
+            "link": "https://udn.com//news/story/7251/8255578?from=udn-catebreaknews_ch2",
+            "time": "2024-09-27 15:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
             "title": "BDI 指數大漲逾3%！散裝航運新興漲停 慧洋漲逾8%",
             "link": "https://udn.com//news/story/7251/8255505?from=udn-catebreaknews_ch2",
             "time": "2024-09-27 14:40"
@@ -23,12 +29,6 @@
             "title": "買中信金34.6元…一次重壓50張碰下跌怎辦？ 肥羊：富貴險中求風險是三小",
             "link": "https://udn.com//news/story/7252/8255123?from=udn-catebreaknews_ch2",
             "time": "2024-09-27 12:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/18/0/30545695.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "美債ETF連日跌…不是送分題嗎？降息2碼沒拿到分卻送不少錢 「三原因」曝光！",
-            "link": "https://udn.com//news/story/123006/8255012?from=udn-catebreaknews_ch2",
-            "time": "2024-09-27 12:07"
         }
     ]
 }
