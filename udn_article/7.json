@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/26/2/30607282.jpg&s=Y&x=0&y=0&sw=944&sh=629&exp=3600&w=300",
+            "title": "台股開高走低 跌36點收22,822點 台積電跌15元守住千元關卡",
+            "link": "https://udn.com//news/story/7251/8255348?from=udn-catebreaknews_ch2",
+            "time": "2024-09-27 13:47"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/27/2/30615518.jpg&s=Y&x=0&y=0&sw=994&sh=663&exp=3600&w=300",
             "title": "群益ETF 00919五天填息 97萬投資人息利雙收笑呵呵",
             "link": "https://udn.com//news/story/123006/8255141?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "中國撒錢！原物料行情一觸即發 造紙股大漲表態",
             "link": "https://udn.com//news/story/7252/8255011?from=udn-catebreaknews_ch2",
             "time": "2024-09-27 11:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/27/realtime/30615015.jpg&s=Y&x=144&y=0&sw=1428&sh=953&exp=3600&w=300",
-            "title": "AI 股添新血 昕力資訊預計10月下旬登錄興櫃",
-            "link": "https://udn.com//news/story/7254/8255005?from=udn-catebreaknews_ch2",
-            "time": "2024-09-27 11:49"
         }
     ]
 }
