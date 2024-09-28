@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/23/98/30590777.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "台股9月先蹲後跳將邁入第4季 5大投顧名師這樣看10月行情",
+            "link": "https://udn.com//news/story/7251/8257787?from=udn-catebreaknews_ch2",
+            "time": "2024-09-28 19:17"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/26/2/30607537.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
             "title": "把長榮換00919配息從5％變12％被拒絕？ 存股筆記：「兩張圖」曝光原因",
             "link": "https://udn.com//news/story/123006/8257221?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2024-09-28 00:48"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
             "title": "台股外資連七買 周線連三紅",
             "link": "https://udn.com//news/story/7251/8256518?from=udn-catebreaknews_ch2",
             "time": "2024-09-28 00:42"
@@ -23,12 +29,6 @@
             "title": "法人估台積第3季每股賺逾11元",
             "link": "https://udn.com//news/story/7251/8256519?from=udn-catebreaknews_ch2",
             "time": "2024-09-28 00:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
-            "title": "英業達 AI 矽智財 有斬獲",
-            "link": "https://udn.com//news/story/7253/8256218?from=udn-catebreaknews_ch2",
-            "time": "2024-09-27 23:51"
         }
     ]
 }
