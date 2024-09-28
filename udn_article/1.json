@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/28/98/30623421.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "傳將停止研製無人機 中科院駁斥假訊息",
+            "link": "https://udn.com//news/story/10930/8257945?from=udn-catebreaknews_ch2",
+            "time": "2024-09-28 22:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/28/98/30621370.jpg&s=Y&x=28&y=16&sw=1252&sh=835&exp=3600&w=300",
             "title": "涉外人士：日本信任賴總統 石破茂上任後台日更緊密",
             "link": "https://udn.com//news/story/6656/8257563?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "影／傳潘孟安空降選高雄市長？ 林右昌：沒聽過這樣的訊息",
             "link": "https://udn.com//news/story/6656/8257813?from=udn-catebreaknews_ch2",
             "time": "2024-09-28 19:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/28/realtime/30622998.jpg&s=Y&x=113&y=0&sw=525&sh=351&exp=3600&w=300",
-            "title": "空軍F-16V電戰系統未採購美軍同款 恐違反立法院決議",
-            "link": "https://udn.com//news/story/10930/8257811?from=udn-catebreaknews_ch2",
-            "time": "2024-09-28 19:37"
         }
     ]
 }
