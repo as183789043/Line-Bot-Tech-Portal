@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/30/1/30628628.png&s=Y&x=6&y=3&sw=793&sh=529&exp=3600&w=300",
+            "title": "【總編開箱】賴總統對將官不起立的指正 預示他將貫徹自己的「國家」理念",
+            "link": "https://udn.com//news/story/10930/8259680?from=udn-catebreaknews_ch2",
+            "time": "2024-09-30 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/26/realtime/30607678.jpeg&s=Y&x=0&y=0&sw=4933&sh=3289&exp=3600&w=300",
             "title": "新聞眼／有無金流對價 柯文哲案偵辦關鍵",
             "link": "https://udn.com//news/story/124199/8259635?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "京華城案 朱亞虎認罪 李文宗否認犯行",
             "link": "https://udn.com//news/story/124199/8259631?from=udn-catebreaknews_ch2",
             "time": "2024-09-30 03:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/29/realtime/30627057.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "首個青年村里長組織 20人平均30歲",
-            "link": "https://udn.com//news/story/6656/8259537?from=udn-catebreaknews_ch2",
-            "time": "2024-09-30 03:25"
         }
     ]
 }
