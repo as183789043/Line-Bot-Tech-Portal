@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/29/98/30625254.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股聚焦能源週題材 第4季待美國總統選舉底定",
+            "link": "https://udn.com//news/story/7251/8258370?from=udn-catebreaknews_ch2",
+            "time": "2024-09-29 10:37"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/24/0/30596463.jpg&s=Y&x=0&y=0&sw=1266&sh=844&exp=3600&w=300",
+            "title": "0050「72法則」6年本金翻一倍、20年推估10倍！ 夏綠蒂：即便每年買在股價高點也能賺錢",
+            "link": "https://udn.com//news/story/123006/8258274?from=udn-catebreaknews_ch2",
+            "time": "2024-09-29 09:44"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/26/draft/30608337.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
             "title": "台股再戰24000 誰是領頭羊？",
             "link": "https://udn.com//news/story/12806/8252336?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2024-09-29 03:01"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
             "title": "籌碼沉澱族群 多頭焦點",
             "link": "https://udn.com//news/story/7251/8258053?from=udn-catebreaknews_ch2",
             "time": "2024-09-29 02:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/26/2/30607537.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
-            "title": "名家看台股 10月進擊24,000",
-            "link": "https://udn.com//news/story/7251/8258028?from=udn-catebreaknews_ch2",
-            "time": "2024-09-29 02:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/29/2/30623570.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "Q3台股擂台 張貽程奪冠",
-            "link": "https://udn.com//news/story/7251/8258031?from=udn-catebreaknews_ch2",
-            "time": "2024-09-29 02:20"
         }
     ]
 }
