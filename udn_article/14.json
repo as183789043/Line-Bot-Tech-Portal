@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/30/draft/30632142.jpg&s=Y&x=34&y=0&sw=732&sh=488&exp=3600&w=300",
+            "title": "台灣第三方最大支付品牌綠界科技 一站解決網路創業所需",
+            "link": "https://udn.com//news/story/6853/8260875?from=udn-catebreaknews_ch2",
+            "time": "2024-09-30 15:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/30/draft/30632102.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
             "title": "彰化銀行力挺中小企業 創造顧客財富價值",
             "link": "https://udn.com//news/story/6853/8260856?from=udn-catebreaknews_ch2",
@@ -22,12 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/30/draft/30632044.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
             "title": "專業守護客戶財富 新光銀行獲《卓越》雙料大獎",
             "link": "https://udn.com//news/story/6853/8260839?from=udn-catebreaknews_ch2",
-            "time": "2024-09-30 14:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/30/draft/30632034.jpg&s=Y&x=0&y=6&sw=800&sh=532&exp=3600&w=300",
-            "title": "永豐銀行以金融力量支持體壇 讓品牌贏得信賴",
-            "link": "https://udn.com//news/story/6853/8260828?from=udn-catebreaknews_ch2",
             "time": "2024-09-30 14:57"
         }
     ]
