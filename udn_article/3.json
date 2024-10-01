@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/realtime/30641608.jpg&s=Y&x=0&y=0&sw=4119&sh=2746&exp=3600&w=300",
+            "title": "以色列下一步會報復攻擊伊朗核設施？美判斷以方行動將決定戰爭走向",
+            "link": "https://udn.com//news/story/6809/8264913?from=udn-catebreaknews_ch2",
+            "time": "2024-10-02 05:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/01/realtime/30640971.jpg&s=Y&x=0&y=0&sw=4000&sh=2620&exp=3600&w=300",
             "title": "叫陣輝達 美AI晶片新創申請IPO",
             "link": "https://udn.com//news/story/6811/8264644?from=udn-catebreaknews_ch2",
@@ -8,27 +14,21 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/realtime/30641507.jpg&s=Y&x=0&y=0&sw=5217&sh=3478&exp=3600&w=300",
-            "title": "以色列威脅報復伊朗飛彈攻擊  聯國祕書長譴責中東衝突惡化再惡化",
-            "link": "https://udn.com//news/story/6809/8264896?from=udn-catebreaknews_ch2",
+            "title": "以色列威脅報復伊朗飛彈攻擊 聯國祕書長譴責中東衝突惡化再惡化",
+            "link": "https://udn.com//news/story/123777/8264896?from=udn-catebreaknews_ch2",
             "time": "2024-10-02 03:43"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/10/02/30641503.png&s=Y&x=158&y=0&sw=963&sh=643&exp=3600&w=300",
+            "title": "世界級拳王身中7槍 洛杉磯住家外遭追殺身亡",
+            "link": "https://udn.com//news/story/6813/8264893?from=udn-catebreaknews_ch2",
+            "time": "2024-10-02 03:35"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/19/realtime/30551789.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
             "title": "美東港口罷工衝擊供應鏈 每日損失近5億美元",
             "link": "https://udn.com//news/story/6811/8264676?from=udn-catebreaknews_ch2",
             "time": "2024-10-02 03:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
-            "title": "中東緊張升高 油價急漲",
-            "link": "https://udn.com//news/story/6811/8264681?from=udn-catebreaknews_ch2",
-            "time": "2024-10-02 02:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/16/realtime/30528361.jpg&s=Y&x=0&y=0&sw=2426&sh=1642&exp=3600&w=300",
-            "title": "鮑爾一席話 亞幣全倒 日圓摔最重",
-            "link": "https://udn.com//news/story/6811/8264704?from=udn-catebreaknews_ch2",
-            "time": "2024-10-02 02:47"
         }
     ]
 }
