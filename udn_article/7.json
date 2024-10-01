@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/01/realtime/30640558.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "山陀兒颱風來了 證交所宣布台股明天休市1天",
+            "link": "https://udn.com//news/story/7251/8264384?from=udn-catebreaknews_ch2",
+            "time": "2024-10-01 20:51"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/01/realtime/30640270.jpg&s=Y&x=24&y=0&sw=507&sh=338&exp=3600&w=300",
             "title": "歷年第4季全球股市漲相佳 最看好美股、大中華股",
             "link": "https://udn.com//news/story/10103/8264174?from=udn-catebreaknews_ch2",
@@ -22,12 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/01/realtime/30639305.jpg&s=Y&x=570&y=0&sw=4491&sh=2994&exp=3600&w=300",
             "title": "台灣最大 ESG 投資論壇登場 凱基證券聚焦環境經濟永續雙贏",
             "link": "https://udn.com//news/story/7251/8263766?from=udn-catebreaknews_ch2",
-            "time": "2024-10-01 16:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/01/0/30636626.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "00929預估配息降至0.14元！單次配息率約0.74%",
-            "link": "https://udn.com//news/story/123006/8263765?from=udn-catebreaknews_ch2",
             "time": "2024-10-01 16:50"
         }
     ]
