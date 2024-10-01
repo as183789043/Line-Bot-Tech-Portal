@@ -1,6 +1,18 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/01/realtime/30636123.png&s=Y&x=0&y=0&sw=6350&sh=4232&exp=3600&w=300",
+            "title": "中美衛生部門在美會談 雙方將加強機制性對話",
+            "link": "https://udn.com//news/story/7331/8262430?from=udn-catebreaknews_ch2",
+            "time": "2024-10-01 09:39"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/01/realtime/30635987.jpeg&s=Y&x=0&y=5&sw=683&sh=454&exp=3600&w=300",
+            "title": "上海超市發生隨機砍人案致3死15傷 警：因經濟糾紛洩憤",
+            "link": "https://udn.com//news/story/7332/8262376?from=udn-catebreaknews_ch2",
+            "time": "2024-10-01 09:19"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/01/realtime/30635703.jpg&s=Y&x=0&y=0&sw=5500&sh=3666&exp=3600&w=300",
             "title": "券商伯恩斯坦：7月華為大陸手機市場出貨量勝iPhone",
             "link": "https://udn.com//news/story/7333/8262337?from=udn-catebreaknews_ch2",
@@ -8,7 +20,7 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/01/realtime/30635682.png&s=Y&x=0&y=9&sw=682&sh=454&exp=3600&w=300",
-            "title": "上海沃爾瑪商城傳隨機砍人事件 已致3死18傷",
+            "title": "上海沃爾瑪商城傳隨機砍人事件 已致3死15傷",
             "link": "https://udn.com//news/story/7332/8262322?from=udn-catebreaknews_ch2",
             "time": "2024-10-01 08:50"
         },
@@ -17,18 +29,6 @@
             "title": "孔子學院在歐美碰壁 但中東、非洲已掀「中國話」熱潮",
             "link": "https://udn.com//news/story/7331/8260659?from=udn-catebreaknews_ch2",
             "time": "2024-10-01 06:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/30/realtime/30634580.jpg&s=Y&x=0&y=14&sw=1889&sh=1258&exp=3600&w=300",
-            "title": "小鵬自研「圖靈晶片」 將上車",
-            "link": "https://udn.com//news/story/7333/8261901?from=udn-catebreaknews_ch2",
-            "time": "2024-10-01 05:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/30/realtime/30634581.jpg&s=Y&x=0&y=0&sw=1889&sh=1259&exp=3600&w=300",
-            "title": "十一長假 機票飯店價大跌",
-            "link": "https://udn.com//news/story/7332/8261912?from=udn-catebreaknews_ch2",
-            "time": "2024-10-01 05:54"
         }
     ]
 }
