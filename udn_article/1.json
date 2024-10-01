@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/realtime/30641213.jpg&s=Y&x=36&y=0&sw=1095&sh=730&exp=3600&w=300",
+            "title": "「雷神公司」涉高報軍售價格  國防部：已與美司法部達認罪協商",
+            "link": "https://udn.com//news/story/10930/8264840?from=udn-catebreaknews_ch2",
+            "time": "2024-10-02 00:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/01/realtime/30640902.jpg&s=Y&x=0&y=25&sw=3559&sh=2372&exp=3600&w=300",
             "title": "卓榮泰指財劃法無共識 黃國昌諷時空背景不同之術",
             "link": "https://udn.com//news/story/6656/8264560?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "花蓮防颱撤離多少人？賴清德自己搞錯卻質問徐榛蔚 王鴻薇：總統失控暴走",
             "link": "https://udn.com//news/story/6656/8264461?from=udn-catebreaknews_ch2",
             "time": "2024-10-01 21:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/01/0/30638595.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
-            "title": "陶晶瑩自爆食道出問題 檢查發現「一圈咖啡色」！",
-            "link": "https://udn.com//news/story/123693/8263835?from=udn-catebreaknews_ch2",
-            "time": "2024-10-01 21:36"
         }
     ]
 }
