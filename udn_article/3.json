@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/10/01/30640908.jpg&s=Y&x=0&y=8&sw=1279&sh=852&exp=3600&w=300",
+            "title": "以色列特種部隊 去年11月就對黎巴嫩南部真主黨展開襲擊",
+            "link": "https://udn.com//news/story/123777/8264573?from=udn-catebreaknews_ch2",
+            "time": "2024-10-01 22:53"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/01/98/30640897.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "以色列稱展開有限地面行動 真主黨否認黎巴嫩遭入侵",
             "link": "https://udn.com//news/story/123777/8264486?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2024-10-01 22:26"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/01/2/30640850.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/01/2/30640850.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "油價飆美股挫！美官員：伊朗擬攻擊以色列 中東緊張局勢升溫",
             "link": "https://udn.com//news/story/6811/8264535?from=udn-catebreaknews_ch2",
             "time": "2024-10-01 22:23"
@@ -23,12 +29,6 @@
             "title": "物流公司上班「掌握敏感訊息」 陸女涉間諜活動在德被逮",
             "link": "https://udn.com//news/story/6809/8264156?from=udn-catebreaknews_ch2",
             "time": "2024-10-01 22:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/01/realtime/30640830.jpg&s=Y&x=0&y=0&sw=5017&sh=3345&exp=3600&w=300",
-            "title": "美國發現跡象！白宮：伊朗正準備對以色列發動彈道飛彈攻擊",
-            "link": "https://udn.com//news/story/123777/8264519?from=udn-catebreaknews_ch2",
-            "time": "2024-10-01 22:18"
         }
     ]
 }
