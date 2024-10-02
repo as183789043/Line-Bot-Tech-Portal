@@ -1,13 +1,19 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/26/2/30607537.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
+            "title": "台股量縮震盪、外資空單近4萬口 留意台積電能否守月線",
+            "link": "https://udn.com//news/story/7251/8266143?from=udn-catebreaknews_ch2",
+            "time": "2024-10-02 16:35"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/30/2/30633313.jpg&s=Y&x=0&y=92&sw=1278&sh=852&exp=3600&w=300",
             "title": "山陀兒颱風來襲 康霈掛牌、00939除息順延一天",
             "link": "https://udn.com//news/story/7251/8266095?from=udn-catebreaknews_ch2",
             "time": "2024-10-02 16:09"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/realtime/30645051.jpg&s=Y&x=58&y=0&sw=384&sh=257&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/realtime/30645051.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "降息吹動輪漲 第一金投信：水電基建投資更甜",
             "link": "https://udn.com//news/story/10103/8266040?from=udn-catebreaknews_ch2",
             "time": "2024-10-02 15:43"
@@ -23,12 +29,6 @@
             "title": "00944「超冷門＋量少」真值得存？ 專家：00713有過一天僅10幾張成交量",
             "link": "https://udn.com//news/story/123006/8265956?from=udn-catebreaknews_ch2",
             "time": "2024-10-02 14:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/19/2/30555574.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "00929股息下修剩0.14...但再配9個月也有本！0056等37檔10月除息ETF一次看",
-            "link": "https://udn.com//news/story/123006/8265896?from=udn-catebreaknews_ch2",
-            "time": "2024-10-02 14:27"
         }
     ]
 }
