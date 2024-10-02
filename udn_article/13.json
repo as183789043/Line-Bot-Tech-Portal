@@ -1,6 +1,18 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/01/0/30639293.jpg&s=Y&x=0&y=0&sw=1280&sh=712&exp=3600&w=300",
+            "title": "2024台中旅展優惠！用清倉價賞楓、獨家乘坐雪怪車賞藏王樹冰",
+            "link": "https://udn.com//news/story/7934/8262174?from=udn-catebreaknews_ch2",
+            "time": "2024-10-02 09:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/30/draft/30629466.jpg&s=Y&x=0&y=0&sw=720&sh=480&exp=3600&w=300",
+            "title": "「長崎未來應援寶可夢」誕生！跟著電龍樂遊長崎趣",
+            "link": "https://udn.com//news/story/9650/8259841?from=udn-catebreaknews_ch2",
+            "time": "2024-10-02 08:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/0/30641299.jpg&s=Y&x=0&y=0&sw=1080&sh=600&exp=3600&w=300",
             "title": "台北人敲碗成功！ 「八曜和茶」台北首店終於要來了 小編：門市已經偷偷蓋好",
             "link": "https://udn.com//news/story/7186/8264853?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "人潮湧KTV！好樂迪、錢櫃官網當機 業者：全台放假連線量更大",
             "link": "https://udn.com//news/story/7934/8264563?from=udn-catebreaknews_ch2",
             "time": "2024-10-01 22:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/04/05/98/29379026.jpg&s=Y&x=0&y=46&sw=799&sh=533&exp=3600&w=300",
-            "title": "全台22縣市齊放颱風假 台北101率先宣布10月2日不營業",
-            "link": "https://udn.com//news/story/7934/8264570?from=udn-catebreaknews_ch2",
-            "time": "2024-10-01 22:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/01/realtime/30640859.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "北北基明停班課！北捷調整班距 貓纜、兒樂及小巨蛋暫停營運",
-            "link": "https://udn.com//news/story/7934/8264545?from=udn-catebreaknews_ch2",
-            "time": "2024-10-01 22:28"
         }
     ]
 }
