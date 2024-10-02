@@ -1,10 +1,22 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/01/0/30635769.jpg&s=Y&x=0&y=0&sw=1280&sh=710&exp=3600&w=300",
+            "title": "韓國大田一日遊！來到宋仲基的故鄉吃道地美食吧",
+            "link": "https://udn.com//news/story/9653/8262345?from=udn-catebreaknews_ch2",
+            "time": "2024-10-02 10:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/01/0/30639293.jpg&s=Y&x=0&y=0&sw=1280&sh=712&exp=3600&w=300",
             "title": "2024台中旅展優惠！用清倉價賞楓、獨家乘坐雪怪車賞藏王樹冰",
             "link": "https://udn.com//news/story/7934/8262174?from=udn-catebreaknews_ch2",
             "time": "2024-10-02 09:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/2/30642890.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "全台主要百貨今日皆正常營業 僅台北101暫停營業",
+            "link": "https://udn.com//news/story/7160/8265031?from=udn-catebreaknews_ch2",
+            "time": "2024-10-02 08:25"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/30/draft/30629466.jpg&s=Y&x=0&y=0&sw=720&sh=480&exp=3600&w=300",
@@ -17,18 +29,6 @@
             "title": "台北人敲碗成功！ 「八曜和茶」台北首店終於要來了 小編：門市已經偷偷蓋好",
             "link": "https://udn.com//news/story/7186/8264853?from=udn-catebreaknews_ch2",
             "time": "2024-10-02 01:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/01/realtime/30640955.jpg&s=Y&x=30&y=0&sw=1224&sh=817&exp=3600&w=300",
-            "title": "台中市宣布停班停課 2日零時起停止外送違規最高罰10萬",
-            "link": "https://udn.com//news/story/7207/8264617?from=udn-catebreaknews_ch2",
-            "time": "2024-10-01 23:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/01/98/30640905.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "人潮湧KTV！好樂迪、錢櫃官網當機 業者：全台放假連線量更大",
-            "link": "https://udn.com//news/story/7934/8264563?from=udn-catebreaknews_ch2",
-            "time": "2024-10-01 22:52"
         }
     ]
 }
