@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/2/30646448.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "山陀兒颱風移動緩慢 台北股匯市3日再休市一天",
+            "link": "https://udn.com//news/story/7251/8266562?from=udn-catebreaknews_ch2",
+            "time": "2024-10-02 20:19"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/17/2/30537638.jpg&s=Y&x=20&y=0&sw=779&sh=519&exp=3600&w=300",
             "title": "台股開市能否止跌回升？市場名師剖析「這場法說」成焦點",
             "link": "https://udn.com//news/story/7251/8266473?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股量縮震盪、外資空單近4萬口 留意台積電能否守月線",
             "link": "https://udn.com//news/story/7251/8266143?from=udn-catebreaknews_ch2",
             "time": "2024-10-02 16:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/30/2/30633313.jpg&s=Y&x=0&y=92&sw=1278&sh=852&exp=3600&w=300",
-            "title": "山陀兒颱風來襲 康霈掛牌、00939除息順延一天",
-            "link": "https://udn.com//news/story/7251/8266095?from=udn-catebreaknews_ch2",
-            "time": "2024-10-02 16:09"
         }
     ]
 }
