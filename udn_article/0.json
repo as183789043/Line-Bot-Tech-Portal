@@ -1,9 +1,15 @@
 {
     "即時": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/03/realtime/30647069.png&s=Y&x=0&y=13&sw=1459&sh=972&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/27/98/30345642.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "以色列禁止聯合國秘書長入境 指控他未明確譴責伊朗",
+            "link": "https://udn.com//news/story/123777/8267011?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-10-03 01:41"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/03/realtime/30647070.jpg&s=Y&x=130&y=0&sw=1242&sh=829&exp=3600&w=300",
             "title": "台中驚現6米浪高！山陀兒挾豪雨 雨勢趨緩時間點曝光",
-            "link": "https://udn.com//news/story/7266/8267006?from=udn-ch1_breaknews-1-0-news",
+            "link": "https://udn.com//news/story/124229/8267006?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-10-03 00:58"
         },
         {
@@ -23,12 +29,6 @@
             "title": "屏東潮州建案道路坑洞地基掏空 縣府要求業者立即停工",
             "link": "https://udn.com//news/story/124232/8266958?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-10-02 23:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/realtime/30646932.jpg&s=Y&x=0&y=12&sw=1200&sh=800&exp=3600&w=300",
-            "title": "鬍子爺爺「榛果可可、皇家奶茶泡芙」限定開賣！",
-            "link": "https://udn.com//news/story/7270/8266956?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-10-02 23:47"
         }
     ]
 }
