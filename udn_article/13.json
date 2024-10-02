@@ -1,6 +1,12 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/1/30645542.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "山陀兒逼近！高雄13家百貨公司宣布 下午5點半提早閉館",
+            "link": "https://udn.com//news/story/7209/8266234?from=udn-catebreaknews_ch2",
+            "time": "2024-10-02 17:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/0/30644985.jpg&s=Y&x=0&y=0&sw=1280&sh=712&exp=3600&w=300",
             "title": "快閃1個月！「蠟筆小新」佔領咖啡廳 小新光屁屁咖哩飯考驗粉絲信仰",
             "link": "https://udn.com//news/story/7193/8265997?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "山陀兒颱風影響 台灣虎航宣布明高雄6航班取消",
             "link": "https://udn.com//news/story/7934/8266098?from=udn-catebreaknews_ch2",
             "time": "2024-10-02 16:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/realtime/30645079.jpg&s=Y&x=0&y=0&sw=2508&sh=1672&exp=3600&w=300",
-            "title": "Global Mall周年慶10月3日開跑 會員獨享最高回饋26%",
-            "link": "https://udn.com//news/story/7160/8266064?from=udn-catebreaknews_ch2",
-            "time": "2024-10-02 15:58"
         }
     ]
 }
