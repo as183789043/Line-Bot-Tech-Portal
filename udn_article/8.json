@@ -1,6 +1,18 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/realtime/30646557.png&s=Y&x=97&y=0&sw=1077&sh=718&exp=3600&w=300",
+            "title": "山陀兒颱風中心強度減弱 預計「這時間」從台南、嘉義一帶登陸",
+            "link": "https://udn.com//news/story/124229/8266658?from=udn-catebreaknews_ch2",
+            "time": "2024-10-02 21:37"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/realtime/30646513.jpg&s=Y&x=0&y=6&sw=800&sh=532&exp=3600&w=300",
+            "title": "山陀兒來襲！台鐵也受影響 明午前東西部對號列車、南迴線停駛",
+            "link": "https://udn.com//news/story/124229/8266646?from=udn-catebreaknews_ch2",
+            "time": "2024-10-02 21:24"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/realtime/30646500.jpg&s=Y&x=0&y=4&sw=1484&sh=989&exp=3600&w=300",
             "title": "山陀兒颱風滯留南部近海逾48小時 成大沿海30個浮標監控海氣象",
             "link": "https://udn.com//news/story/124229/8266628?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "全台繼續停班停課！山陀兒牛步進逼 台北地區各大醫院看診狀況一覽",
             "link": "https://udn.com//news/story/124229/8266602?from=udn-catebreaknews_ch2",
             "time": "2024-10-02 20:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/realtime/30646436.jpg&s=Y&x=0&y=5&sw=798&sh=532&exp=3600&w=300",
-            "title": "山陀兒颱風來襲 高鐵明14時前台中以南暫停營運",
-            "link": "https://udn.com//news/story/124229/8266598?from=udn-catebreaknews_ch2",
-            "time": "2024-10-02 20:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/realtime/30646431.jpg&s=Y&x=436&y=208&sw=1992&sh=1328&exp=3600&w=300",
-            "title": "台南市已連3天颱風假 會不會再放假？黃偉哲這麼說",
-            "link": "https://udn.com//news/story/124229/8266591?from=udn-catebreaknews_ch2",
-            "time": "2024-10-02 20:35"
         }
     ]
 }
