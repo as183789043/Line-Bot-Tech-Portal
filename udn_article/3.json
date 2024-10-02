@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/realtime/30645338.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
+            "title": "終於報復以色列 伊朗忍到無路可退背後是為了自救",
+            "link": "https://udn.com//news/story/6809/8266200?from=udn-catebreaknews_ch2",
+            "time": "2024-10-03 06:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/1/30647023.png&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "伊朗暗夜彈襲 圖解以色列3層防空罩攔截飛彈雨",
+            "link": "https://udn.com//news/story/123777/8266994?from=udn-catebreaknews_ch2",
+            "time": "2024-10-03 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/10/03/30647440.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "中東緊張讓市場承壓 美股三大股指漲幅不到0.1%",
+            "link": "https://udn.com//news/story/6811/8267065?from=udn-catebreaknews_ch2",
+            "time": "2024-10-03 04:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/03/realtime/30647438.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
             "title": "美選在即 國土安全部示警：俄伊中三國用AI散布假訊息",
             "link": "https://udn.com//news/story/121777/8267064?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "以色列揚言報復 拜登：不支持攻擊伊朗核子設施",
             "link": "https://udn.com//news/story/123777/8267043?from=udn-catebreaknews_ch2",
             "time": "2024-10-03 04:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/10/03/30647408.jpg&s=Y&x=100&y=0&sw=1080&sh=720&exp=3600&w=300",
-            "title": "美國好市多新推出「鉑金條」 重一盎司售價1089.99美元",
-            "link": "https://udn.com//news/story/6813/8267059?from=udn-catebreaknews_ch2",
-            "time": "2024-10-03 04:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/realtime/30643695.jpg&s=Y&x=0&y=0&sw=3500&sh=2334&exp=3600&w=300",
-            "title": "以伊衝突升溫推高油價 布蘭特原油盤中漲逾3%",
-            "link": "https://udn.com//news/story/6811/8266845?from=udn-catebreaknews_ch2",
-            "time": "2024-10-03 03:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
-            "title": "Nike上季營收下滑10%  股價重挫",
-            "link": "https://udn.com//news/story/6811/8266835?from=udn-catebreaknews_ch2",
-            "time": "2024-10-03 03:12"
         }
     ]
 }
