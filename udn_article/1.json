@@ -1,9 +1,21 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/0/30642741.jpg&s=Y&x=0&y=296&sw=1280&sh=853&exp=3600&w=300",
+            "title": "週刊爆料胡婉玲揮別民視「非自願離開」內幕 本人親回應",
+            "link": "https://udn.com//news/story/123693/8266203?from=udn-catebreaknews_ch2",
+            "time": "2024-10-02 20:18"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/realtime/30646346.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "基隆再放颱風假 謝國樑罷免案電視說明會延至7日舉辦",
+            "link": "https://udn.com//news/story/6656/8266534?from=udn-catebreaknews_ch2",
+            "time": "2024-10-02 20:08"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/realtime/30646191.jpg&s=Y&x=0&y=0&sw=5251&sh=3501&exp=3600&w=300",
             "title": "美軍售高報價格疑損台權益 王鴻薇：國防部態度奇怪",
-            "link": "https://udn.com//news/story/6656/8266422?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/10930/8266422?from=udn-catebreaknews_ch2",
             "time": "2024-10-02 19:10"
         },
         {
@@ -17,18 +29,6 @@
             "title": "美東36港口全面罷工 盤點經濟衝擊與對台影響",
             "link": "https://udn.com//news/story/7314/8266410?from=udn-catebreaknews_ch2",
             "time": "2024-10-02 18:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/0/30642945.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
-            "title": "百萬YTR千千搭機返台「畫面晃到模糊」 網驚：真的會嚇哭",
-            "link": "https://udn.com//news/story/123693/8266154?from=udn-catebreaknews_ch2",
-            "time": "2024-10-02 18:38"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/realtime/30646032.png&s=Y&x=0&y=0&sw=1860&sh=1240&exp=3600&w=300",
-            "title": "山陀兒風勢強 全台逾5萬戶停電搶修 高雄林園區最嚴重",
-            "link": "https://udn.com//news/story/7314/8266375?from=udn-catebreaknews_ch2",
-            "time": "2024-10-02 18:34"
         }
     ]
 }
