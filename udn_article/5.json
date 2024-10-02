@@ -1,9 +1,15 @@
 {
     "地方": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/03/realtime/30647028.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "桃園4區4922戶大停電 277戶尚未復電",
+            "link": "https://udn.com//news/story/124232/8266999?from=udn-catebreaknews_ch2",
+            "time": "2024-10-03 00:27"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/realtime/30646936.png&s=Y&x=119&y=0&sw=1224&sh=816&exp=3600&w=300",
             "title": "屏東潮州建案道路坑洞地基掏空 縣府要求業者立即停工",
-            "link": "https://udn.com//news/story/7327/8266958?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124232/8266958?from=udn-catebreaknews_ch2",
             "time": "2024-10-02 23:48"
         },
         {
@@ -13,22 +19,16 @@
             "time": "2024-10-02 23:39"
         },
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/realtime/30646793.jpg&s=Y&x=0&y=7&sw=757&sh=504&exp=3600&w=300",
+            "title": "「怪颱」山陀兒接近風雨增強 高雄市明停止收運垃圾",
+            "link": "https://udn.com//news/story/124232/8266792?from=udn-catebreaknews_ch2",
+            "time": "2024-10-02 23:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/realtime/30646763.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
             "title": "瑞八公路積水深 瑞芳警拉封鎖線管制 防用路人涉險出事",
             "link": "https://udn.com//news/story/124232/8266754?from=udn-catebreaknews_ch2",
             "time": "2024-10-02 23:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/realtime/30646564.jpg&s=Y&x=0&y=16&sw=1284&sh=856&exp=3600&w=300",
-            "title": "中市山海線53路公車停駛 紅黃線可停車、路邊停車不收費",
-            "link": "https://udn.com//news/story/124232/8266664?from=udn-catebreaknews_ch2",
-            "time": "2024-10-02 21:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/1/30646572.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "山陀兒進逼...士林區累積雨量124.5毫米 北市今晚至明晨恐有短延時大雨",
-            "link": "https://udn.com//news/story/124232/8266663?from=udn-catebreaknews_ch2",
-            "time": "2024-10-02 21:42"
         }
     ]
 }
