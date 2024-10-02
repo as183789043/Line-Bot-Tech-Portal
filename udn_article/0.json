@@ -1,6 +1,12 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/03/realtime/30647233.png&s=Y&x=0&y=12&sw=1472&sh=980&exp=3600&w=300",
+            "title": "回馬槍？日本氣象廳最新預測 山陀兒登陸後再南下屏東",
+            "link": "https://udn.com//news/story/124229/8267035?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-10-03 02:37"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/27/98/30345642.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "以色列禁止聯合國秘書長入境 指控他未明確譴責伊朗",
             "link": "https://udn.com//news/story/123777/8267011?from=udn-ch1_breaknews-1-0-news",
@@ -23,12 +29,6 @@
             "title": "朝南高附近登陸 吳聖宇：山陀兒漸減弱 今晚連TD都勉強",
             "link": "https://udn.com//news/story/124229/8266991?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-10-03 00:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/realtime/30646936.png&s=Y&x=119&y=0&sw=1224&sh=816&exp=3600&w=300",
-            "title": "屏東潮州建案道路坑洞地基掏空 縣府要求業者立即停工",
-            "link": "https://udn.com//news/story/124232/8266958?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-10-02 23:48"
         }
     ]
 }
