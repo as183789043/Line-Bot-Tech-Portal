@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/realtime/30653318.jpg&s=Y&x=72&y=0&sw=2658&sh=1772&exp=3600&w=300",
+            "title": "拜登暗示以色列將攻擊伊朗石油設施 國際油價大漲5%",
+            "link": "https://udn.com//news/story/6811/8269228?from=udn-catebreaknews_ch2",
+            "time": "2024-10-04 01:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/03/realtime/30652350.jpg&s=Y&x=0&y=0&sw=6298&sh=4199&exp=3600&w=300",
             "title": "Fed降息前景如何？周五迎來最新一塊拼圖",
             "link": "https://udn.com//news/story/6811/8269035?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "美股早盤震盪！投資人關注中東局勢升溫 輝達大漲逾3%",
             "link": "https://udn.com//news/story/6811/8268949?from=udn-catebreaknews_ch2",
             "time": "2024-10-03 22:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/03/realtime/30652798.jpg&s=Y&x=0&y=0&sw=3000&sh=2000&exp=3600&w=300",
-            "title": "周五揭曉9月非農就業 可能給美國股債市帶來「10月驚奇」？",
-            "link": "https://udn.com//news/story/6811/8268930?from=udn-catebreaknews_ch2",
-            "time": "2024-10-03 22:11"
         }
     ]
 }

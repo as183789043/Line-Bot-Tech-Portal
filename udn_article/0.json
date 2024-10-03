@@ -1,6 +1,24 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/98/30653414.png&s=Y&x=0&y=36&sw=721&sh=481&exp=3600&w=300",
+            "title": "中彰澎脫離暴風圈 颱風山陀兒4日降為熱帶低壓",
+            "link": "https://udn.com//news/story/124229/8269205?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-10-04 02:09"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/realtime/30653369.jpeg&s=Y&x=291&y=0&sw=1302&sh=869&exp=3600&w=300",
+            "title": "山陀兒來襲 屏東仍有近5萬戶停電 台電不畏風雨搶修",
+            "link": "https://udn.com//news/story/124232/8269241?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-10-04 01:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/realtime/30653318.jpg&s=Y&x=72&y=0&sw=2658&sh=1772&exp=3600&w=300",
+            "title": "拜登暗示以色列將攻擊伊朗石油設施 國際油價大漲5%",
+            "link": "https://udn.com//news/story/6811/8269228?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-10-04 01:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/03/realtime/30652690.jpg&s=Y&x=0&y=13&sw=1080&sh=720&exp=3600&w=300",
             "title": "宜蘭縣議員李茂豐辭世 享壽67歲",
             "link": "https://udn.com//news/story/7328/8269206?from=udn-ch1_breaknews-1-0-news",
@@ -11,24 +29,6 @@
             "title": "男步行北市街頭疑遭割頸 「玻璃碎卡傷口」警追禍因",
             "link": "https://udn.com//news/story/7320/8269213?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-10-04 00:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/realtime/30653145.jpg&s=Y&x=0&y=14&sw=1108&sh=738&exp=3600&w=300",
-            "title": "屏東潮州建地致路面坑洞變大 縣府要求回填並定時回報",
-            "link": "https://udn.com//news/story/7320/8269187?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-10-04 00:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/realtime/30653141.jpg&s=Y&x=100&y=0&sw=1080&sh=720&exp=3600&w=300",
-            "title": "剛宣布周五上班上課...宜蘭羅東夜間豪雨 多處道路淹水",
-            "link": "https://udn.com//news/story/124229/8269186?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-10-04 00:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/03/realtime/30652958.jpeg&s=Y&x=285&y=0&sw=4899&sh=3267&exp=3600&w=300",
-            "title": "山陀兒環流挾雨彈！16縣市豪雨特報 5地區超大豪雨夜襲",
-            "link": "https://udn.com//news/story/124229/8269085?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-10-03 23:09"
         }
     ]
 }
