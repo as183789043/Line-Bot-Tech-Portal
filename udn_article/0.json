@@ -1,13 +1,25 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/realtime/30653145.jpg&s=Y&x=0&y=14&sw=1108&sh=738&exp=3600&w=300",
+            "title": "屏東潮州建地致路面坑洞變大 縣府要求回填並定時回報",
+            "link": "https://udn.com//news/story/7320/8269187?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-10-04 00:04"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/realtime/30653141.jpg&s=Y&x=100&y=0&sw=1080&sh=720&exp=3600&w=300",
+            "title": "剛宣布周五上班上課...宜蘭羅東夜間豪雨 多處道路淹水",
+            "link": "https://udn.com//news/story/124229/8269186?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-10-04 00:03"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/03/realtime/30652958.jpeg&s=Y&x=285&y=0&sw=4899&sh=3267&exp=3600&w=300",
             "title": "山陀兒環流挾雨彈！16縣市豪雨特報 5地區超大豪雨夜襲",
-            "link": "https://udn.com//news/story/7266/8269085?from=udn-ch1_breaknews-1-0-news",
+            "link": "https://udn.com//news/story/124229/8269085?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-10-03 23:09"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6641_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6641_0.jpg&w=300",
             "title": "台東縣更正 明天1鄉4村1部落3國小停班停課",
             "link": "https://udn.com//news/story/7328/8269087?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-10-03 23:09"
@@ -17,18 +29,6 @@
             "title": "與西方巨頭爭奪一席之地 中國大陸快速成長的銅業冠軍正重塑全球供應格局",
             "link": "https://udn.com//news/story/7333/8269062?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-10-03 23:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/03/realtime/30652940.jpeg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "安泰醫院火警蘇清泉控供電不穩 台電回應饋線斷電時間",
-            "link": "https://udn.com//news/story/124234/8269061?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-10-03 23:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/03/realtime/30652934.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
-            "title": "山陀兒前腳剛走 高雄正興國中4樓教室沙發莫名起火",
-            "link": "https://udn.com//news/story/7320/8269058?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-10-03 23:01"
         }
     ]
 }
