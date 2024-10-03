@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/2/30653359.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "高盛喊買七家台廠",
+            "link": "https://udn.com//news/story/7251/8269009?from=udn-catebreaknews_ch2",
+            "time": "2024-10-04 06:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/26/2/30606074.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股五大科技亮點撐場 供應鏈股價提前熱身",
+            "link": "https://udn.com//news/story/7251/8269033?from=udn-catebreaknews_ch2",
+            "time": "2024-10-04 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/2/30652968.png&s=Y&x=0&y=0&sw=503&sh=335&exp=3600&w=300",
             "title": "精測9月營收 攀21個月高點",
             "link": "https://udn.com//news/story/7254/8268575?from=udn-catebreaknews_ch2",
@@ -13,21 +25,9 @@
             "time": "2024-10-04 03:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
             "title": "技嘉 強攻伺服器商機",
             "link": "https://udn.com//news/story/7253/8268579?from=udn-catebreaknews_ch2",
-            "time": "2024-10-04 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
-            "title": "中砂9月營收月增8.8% 歷史次高",
-            "link": "https://udn.com//news/story/7252/8268580?from=udn-catebreaknews_ch2",
-            "time": "2024-10-04 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
-            "title": "佳世達9月營收月增4.9% 友通月減4.7%",
-            "link": "https://udn.com//news/story/7253/8268581?from=udn-catebreaknews_ch2",
             "time": "2024-10-04 03:00"
         }
     ]
