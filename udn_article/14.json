@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/03/draft/30648908.jpg&s=Y&x=0&y=5&sw=720&sh=480&exp=3600&w=300",
+            "title": "如何找到幸福感？研究：藝術與手工真的有用",
+            "link": "https://udn.com//news/story/6897/8267496?from=udn-catebreaknews_ch2",
+            "time": "2024-10-03 11:07"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/draft/30643867.jpg&s=Y&x=0&y=5&sw=792&sh=528&exp=3600&w=300",
             "title": "台中躍為米其林摘星搖籃 揭開五年累積36顆星星的祕訣",
             "link": "https://udn.com//news/story/6842/8265659?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "美國大選》川普、賀錦麗誰入主白宮 將由這些人決定？",
             "link": "https://udn.com//news/story/6842/8265571?from=udn-catebreaknews_ch2",
             "time": "2024-10-03 09:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/draft/30643740.jpg&s=Y&x=0&y=5&sw=792&sh=528&exp=3600&w=300",
-            "title": "後AI時代 人文社科何去何從？",
-            "link": "https://udn.com//news/story/6842/8265535?from=udn-catebreaknews_ch2",
-            "time": "2024-10-03 09:25"
         }
     ]
 }
