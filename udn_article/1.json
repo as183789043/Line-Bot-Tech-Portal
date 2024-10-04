@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/realtime/30656055.jpg&s=Y&x=285&y=0&sw=4899&sh=3267&exp=3600&w=300",
+            "title": "高雄4天颱風假 民眾2樣「薪」情",
+            "link": "https://udn.com//news/story/123719/8271580?from=udn-catebreaknews_ch2",
+            "time": "2024-10-05 01:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/realtime/30654859.png&s=Y&x=78&y=0&sw=1056&sh=704&exp=3600&w=300",
             "title": "李四川：國慶晚會不必怕台北大巨蛋漏水",
             "link": "https://udn.com//news/story/6656/8271509?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "大法官被提名人聯合不答問卷 黃國昌：是賴清德附庸？",
             "link": "https://udn.com//news/story/6656/8271498?from=udn-catebreaknews_ch2",
             "time": "2024-10-04 23:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/2/30655644.jpg&s=Y&x=3&y=0&sw=921&sh=614&exp=3600&w=300",
-            "title": "史上第一次總預算被退回 卓內閣預算會期如何應對藍白合夾殺？",
-            "link": "https://udn.com//news/story/123719/8271495?from=udn-catebreaknews_ch2",
-            "time": "2024-10-04 23:13"
         }
     ]
 }
