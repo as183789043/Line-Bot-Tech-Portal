@@ -1,6 +1,24 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/realtime/30656542.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "她稱高雄「神奇颱風假」一周休6天 陳其邁回應了",
+            "link": "https://udn.com//news/story/124233/8270230?from=udn-catebreaknews_ch2",
+            "time": "2024-10-04 13:48"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/realtime/30656415.jpg&s=Y&x=0&y=0&sw=6240&sh=4160&exp=3600&w=300",
+            "title": "赴哈佛演講 馬英九：賴清德「新兩國論」在國際引發疑賴論",
+            "link": "https://udn.com//news/story/6656/8270173?from=udn-catebreaknews_ch2",
+            "time": "2024-10-04 13:29"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/realtime/30656383.jpg&s=Y&x=133&y=0&sw=1440&sh=960&exp=3600&w=300",
+            "title": "影／政治鬥爭？土石流案遭劉世芳點名 謝國樑：沒達撤離程度",
+            "link": "https://udn.com//news/story/6656/8270164?from=udn-catebreaknews_ch2",
+            "time": "2024-10-04 13:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/realtime/30656325.jpg&s=Y&x=0&y=0&sw=4675&sh=3104&exp=3600&w=300",
             "title": "屏東海堤遭沖毀 卓榮泰：全面升級防洪工程安全係數",
             "link": "https://udn.com//news/story/124233/8270125?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "我對美軍購撤換專案管理人 軍方普傳兩例",
             "link": "https://udn.com//news/story/10930/8270116?from=udn-catebreaknews_ch2",
             "time": "2024-10-04 13:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/realtime/30654853.jpg&s=Y&x=0&y=9&sw=1380&sh=920&exp=3600&w=300",
-            "title": "拉拉山「醜」水蜜桃華麗轉身 攻占超商成冰品冠軍",
-            "link": "https://udn.com//news/story/7314/8269624?from=udn-catebreaknews_ch2",
-            "time": "2024-10-04 13:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/realtime/30656140.jpg&s=Y&x=0&y=0&sw=2551&sh=1700&exp=3600&w=300",
-            "title": "雷神軍售價格「灌單」國防部罵批評者 立委批：還想當冤大頭？",
-            "link": "https://udn.com//news/story/10930/8270080?from=udn-catebreaknews_ch2",
-            "time": "2024-10-04 12:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/realtime/30656104.jpg&s=Y&x=0&y=0&sw=4625&sh=3080&exp=3600&w=300",
-            "title": "山陀兒釀災 賴總統：中央全力協助地方提供各項支援",
-            "link": "https://udn.com//news/story/7314/8270059?from=udn-catebreaknews_ch2",
-            "time": "2024-10-04 12:40"
         }
     ]
 }
