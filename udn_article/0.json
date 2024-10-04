@@ -1,6 +1,12 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/10/05/30660325.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "就業報告超出預期 美股收高、道瓊漲341點",
+            "link": "https://udn.com//news/story/6811/8271709?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-10-05 04:44"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/98/30648352.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "中國網賽／詹皓晴挺進女雙4強",
             "link": "https://udn.com//news/story/7005/8271582?from=udn-ch1_breaknews-1-0-news",
@@ -23,12 +29,6 @@
             "title": "金山老街水退了侯友宜視察 攤商：水一直灌進來損失慘",
             "link": "https://udn.com//news/story/124232/8271625?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-10-04 23:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/realtime/30659809.jpg&s=Y&x=29&y=0&sw=882&sh=589&exp=3600&w=300",
-            "title": "股價一天暴漲1700% 長聯科技上市首日成「漲幅王」",
-            "link": "https://udn.com//news/story/7333/8271619?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-10-04 23:51"
         }
     ]
 }
