@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/draft/30654145.jpg&s=Y&x=0&y=0&sw=800&sh=519&exp=3600&w=300",
+            "title": "日本人的祖先到底是誰？科學家最新DNA 研究發現來自三個群體",
+            "link": "https://udn.com//news/story/6897/8269396?from=udn-catebreaknews_ch2",
+            "time": "2024-10-04 09:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/0/30654011.jpg&s=Y&x=12&y=0&sw=1086&sh=724&exp=3600&w=300",
             "title": "「不分眾的分眾術」怎麼玩？玉山銀一張卡挑戰信用卡新趨勢",
             "link": "https://udn.com//news/story/6837/8269338?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台中躍為米其林摘星搖籃 揭開五年累積36顆星星的祕訣",
             "link": "https://udn.com//news/story/6842/8265659?from=udn-catebreaknews_ch2",
             "time": "2024-10-03 09:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/draft/30643813.jpg&s=Y&x=0&y=5&sw=792&sh=528&exp=3600&w=300",
-            "title": "新新併三角戀落幕 股東會將是下個戰場",
-            "link": "https://udn.com//news/story/6842/8265643?from=udn-catebreaknews_ch2",
-            "time": "2024-10-03 09:29"
         }
     ]
 }
