@@ -1,6 +1,18 @@
 {
     "地方": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/realtime/30659324.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "颱風造成屏東9萬餘戶停電 經搶修近2萬戶仍沒電",
+            "link": "https://udn.com//news/story/7327/8271275?from=udn-catebreaknews_ch2",
+            "time": "2024-10-04 21:10"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/realtime/30659290.jpg&s=Y&x=75&y=0&sw=708&sh=473&exp=3600&w=300",
+            "title": "烏龍報案？大雨釀金山溪水暴漲疑3工人失蹤 新北消防局發聲了",
+            "link": "https://udn.com//news/story/124232/8271265?from=udn-catebreaknews_ch2",
+            "time": "2024-10-04 20:58"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/draft/30658424.jpg&s=Y&x=0&y=9&sw=1200&sh=800&exp=3600&w=300",
             "title": "汐止匯款率達九成二 重陽敬老金陸續入帳",
             "link": "https://udn.com//news/story/7323/8270942?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "豪雨釀積淹水道路通行受阻 新北這4區明天停止上班上課",
             "link": "https://udn.com//news/story/7323/8271180?from=udn-catebreaknews_ch2",
             "time": "2024-10-04 19:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/realtime/30659099.jpg&s=Y&x=0&y=320&sw=1108&sh=739&exp=3600&w=300",
-            "title": "北海岸大雨下不停...野柳民宅擋土牆崩落 屋主卡住救援3個多小時才脫困",
-            "link": "https://udn.com//news/story/124232/8271160?from=udn-catebreaknews_ch2",
-            "time": "2024-10-04 19:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/realtime/30659088.jpg&s=Y&x=101&y=0&sw=879&sh=587&exp=3600&w=300",
-            "title": "新北金山大雨狂炸淹水嚴重 10／5停止上班上課",
-            "link": "https://udn.com//news/story/124232/8271148?from=udn-catebreaknews_ch2",
-            "time": "2024-10-04 19:39"
         }
     ]
 }
