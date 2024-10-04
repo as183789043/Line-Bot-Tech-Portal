@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/2/30655261.jpg&s=Y&x=40&y=0&sw=1213&sh=809&exp=3600&w=300",
+            "title": "陸股休市 但台股中的陸股ETF仍然狂飆 這幾檔漲幅逾二成",
+            "link": "https://udn.com//news/story/123006/8269757?from=udn-catebreaknews_ch2",
+            "time": "2024-10-04 10:59"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/draft/30654774.webp&s=Y&x=96&y=0&sw=1422&sh=949&exp=3600&w=300",
             "title": "最新永續口碑榜揭曉！台積電穩坐上市冠軍 「它」獲日本認證勇奪上櫃第一 ",
             "link": "https://udn.com//news/story/12806/8269541?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "美東碼頭停止罷工 貨櫃三雄全面重挫",
             "link": "https://udn.com//news/story/7252/8269463?from=udn-catebreaknews_ch2",
             "time": "2024-10-04 09:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/2/30654430.jpg&s=Y&x=20&y=56&sw=1254&sh=836&exp=3600&w=300",
-            "title": "風雨過後 台股開盤上漲68點 台積電開高14元",
-            "link": "https://udn.com//news/story/7251/8269436?from=udn-catebreaknews_ch2",
-            "time": "2024-10-04 09:07"
         }
     ]
 }
