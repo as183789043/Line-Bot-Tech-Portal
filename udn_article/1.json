@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/05/realtime/30659953.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "【總編開箱】一場颱風 證明卓榮泰既沒AI力更沒行動力",
+            "link": "https://udn.com//news/story/124233/8271652?from=udn-catebreaknews_ch2",
+            "time": "2024-10-05 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/realtime/30656101.jpg&s=Y&x=597&y=0&sw=4278&sh=2852&exp=3600&w=300",
             "title": "考委人事 11月1日表決待協商",
             "link": "https://udn.com//news/story/6656/8271599?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "美智庫研判 川普對台態度難測 賀錦麗不會給承諾",
             "link": "https://udn.com//news/story/6656/8271623?from=udn-catebreaknews_ch2",
             "time": "2024-10-05 04:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/03/realtime/30648708.jpg&s=Y&x=0&y=0&sw=5240&sh=3493&exp=3600&w=300",
-            "title": "藍委：不修違法預算 和解飯無意義",
-            "link": "https://udn.com//news/story/123719/8271597?from=udn-catebreaknews_ch2",
-            "time": "2024-10-05 04:04"
         }
     ]
 }
