@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
+            "title": "川普：以應先打伊朗核設施",
+            "link": "https://udn.com//news/story/123777/8273127?from=udn-catebreaknews_ch2",
+            "time": "2024-10-06 05:01"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
+            "title": "拜登：大選公平 但未必和平",
+            "link": "https://udn.com//news/story/121777/8273119?from=udn-catebreaknews_ch2",
+            "time": "2024-10-06 05:01"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/05/realtime/30664862.jpg&s=Y&x=0&y=0&sw=2126&sh=1417&exp=3600&w=300",
+            "title": "美大選倒數 7搖擺州將定勝負",
+            "link": "https://udn.com//news/story/121777/8273117?from=udn-catebreaknews_ch2",
+            "time": "2024-10-06 05:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/05/98/30664642.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "「及時離開黎巴嫩」以黎衝突急遽惡化 加拿大急撤離逾千公民",
             "link": "https://udn.com//news/story/123777/8272972?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "受黎巴嫩呼叫器爆炸案影響 阿聯酋航空：禁帶呼叫器和對講機登機",
             "link": "https://udn.com//news/story/123777/8272909?from=udn-catebreaknews_ch2",
             "time": "2024-10-05 21:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/05/98/30664383.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "秘魯發現600多年前兒童獻祭遺址 出土數十具遺骸「胸骨、肋骨有割痕」",
-            "link": "https://udn.com//news/story/6812/8272902?from=udn-catebreaknews_ch2",
-            "time": "2024-10-05 21:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/05/98/30664351.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "澤倫斯基擬在例會提「勝利計畫」 外媒：缺乏全面戰略",
-            "link": "https://udn.com//news/story/122663/8272888?from=udn-catebreaknews_ch2",
-            "time": "2024-10-05 21:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/05/realtime/30664216.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "會見入俄打仗官兵 澤倫斯基稱庫斯克行動「激勵那些給我們武器的人」",
-            "link": "https://udn.com//news/story/122663/8272862?from=udn-catebreaknews_ch2",
-            "time": "2024-10-05 21:02"
         }
     ]
 }
