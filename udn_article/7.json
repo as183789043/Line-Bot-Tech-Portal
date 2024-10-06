@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/06/98/30666619.jpg&s=Y&x=0&y=0&sw=944&sh=629&exp=3600&w=300",
+            "title": "法人：台股本週需突破短壓 市場關注台積電營收表現",
+            "link": "https://udn.com//news/story/7251/8273516?from=udn-catebreaknews_ch2",
+            "time": "2024-10-06 11:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/2/30652943.jpg&s=Y&x=0&y=40&sw=1277&sh=851&exp=3600&w=300",
             "title": "「陸港股」套牢三年多…卻在大漲前就放棄了！ 切老：價值投資人能賺到這波大漲",
             "link": "https://udn.com//news/story/7251/8273385?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2024-10-06 06:30"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
             "title": "iPhone 16加持 鴻海、大立光Q3營收創新高",
             "link": "https://udn.com//news/story/7253/8273093?from=udn-catebreaknews_ch2",
             "time": "2024-10-06 04:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/07/26/realtime/30128689.jpeg&s=Y&x=37&y=0&sw=2127&sh=1418&exp=3600&w=300",
-            "title": "鴻海第3季營收寫佳績…跳高增近二成 樂觀持續向上",
-            "link": "https://udn.com//news/story/7253/8273053?from=udn-catebreaknews_ch2",
-            "time": "2024-10-06 02:21"
         }
     ]
 }
