@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/01/0/30636626.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "0056買進第一張時台股9000點卻抱不住！ 小師傅：買買賣賣真的浪費時間外還增加成本",
+            "link": "https://udn.com//news/story/123006/8273520?from=udn-catebreaknews_ch2",
+            "time": "2024-10-06 13:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/06/98/30666619.jpg&s=Y&x=0&y=0&sw=944&sh=629&exp=3600&w=300",
             "title": "法人：台股本週需突破短壓 市場關注台積電營收表現",
             "link": "https://udn.com//news/story/7251/8273516?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "中概股攻守兼備 法人卡位",
             "link": "https://udn.com//news/story/7251/8273039?from=udn-catebreaknews_ch2",
             "time": "2024-10-06 06:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
-            "title": "iPhone 16加持 鴻海、大立光Q3營收創新高",
-            "link": "https://udn.com//news/story/7253/8273093?from=udn-catebreaknews_ch2",
-            "time": "2024-10-06 04:53"
         }
     ]
 }
