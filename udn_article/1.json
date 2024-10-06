@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/07/realtime/30669648.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "【總編開箱】兩岸緊張升溫 賴總統還在火上澆油",
+            "link": "https://udn.com//news/story/123072/8274578?from=udn-catebreaknews_ch2",
+            "time": "2024-10-07 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/07/1/30670086.jpg&s=Y&x=204&y=56&sw=932&sh=621&exp=3600&w=300",
             "title": "陸學者：無台獨冒進 陸不會開戰",
             "link": "https://udn.com//news/story/8625/8274369?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "我專家：訓練不足 一線部隊缺人",
             "link": "https://udn.com//news/story/8625/8274375?from=udn-catebreaknews_ch2",
             "time": "2024-10-07 04:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/07/1/30670006.jpg&s=Y&x=0&y=32&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台學者：兩岸緊張ECFA前景堪憂",
-            "link": "https://udn.com//news/story/8625/8274483?from=udn-catebreaknews_ch2",
-            "time": "2024-10-07 04:51"
         }
     ]
 }
