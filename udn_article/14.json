@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/03/draft/30649057.jpg&s=Y&x=0&y=0&sw=696&sh=464&exp=3600&w=300",
+            "title": "台灣民兵「泡沫化」",
+            "link": "https://udn.com//news/story/11596/8267572?from=udn-catebreaknews_ch2",
+            "time": "2024-10-06 09:21"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/30/draft/30630102.jpg&s=Y&x=0&y=268&sw=1280&sh=853&exp=3600&w=300",
             "title": "我聽見這世界的繽紛",
             "link": "https://udn.com//news/story/7025/8260017?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "講不出再見",
             "link": "https://udn.com//news/story/7025/8259964?from=udn-catebreaknews_ch2",
             "time": "2024-10-06 08:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/draft/30654841.jpg&s=Y&x=0&y=7&sw=1000&sh=666&exp=3600&w=300",
-            "title": "2024年馬祖生活節暨津冬酒祭「島嶼美學」盛大登場",
-            "link": "https://udn.com//news/story/120681/8269575?from=udn-catebreaknews_ch2",
-            "time": "2024-10-06 08:33"
         }
     ]
 }
