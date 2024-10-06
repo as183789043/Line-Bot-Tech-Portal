@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/2/30652985.jpg&s=Y&x=0&y=0&sw=1238&sh=825&exp=3600&w=300",
+            "title": "台股雙多 醞釀資金行情…大盤有望震盪走高",
+            "link": "https://udn.com//news/story/7251/8274459?from=udn-catebreaknews_ch2",
+            "time": "2024-10-07 02:58"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/26/0/30609578.jpg&s=Y&x=18&y=45&sw=954&sh=636&exp=3600&w=300",
             "title": "路易莎回應了！咖啡豆期貨投資總結 並沒有產生多大損失",
             "link": "https://udn.com//news/story/7255/8274366?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "0056買進第一張時台股9000點卻抱不住！ 小師傅：買買賣賣真的浪費時間外還增加成本",
             "link": "https://udn.com//news/story/123006/8273520?from=udn-catebreaknews_ch2",
             "time": "2024-10-06 13:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/06/98/30666619.jpg&s=Y&x=0&y=0&sw=944&sh=629&exp=3600&w=300",
-            "title": "法人：台股本週需突破短壓 市場關注台積電營收表現",
-            "link": "https://udn.com//news/story/7251/8273516?from=udn-catebreaknews_ch2",
-            "time": "2024-10-06 11:33"
         }
     ]
 }
