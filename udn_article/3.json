@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
+            "title": "上周重點回顧",
+            "link": "https://udn.com//news/story/124068/8274472?from=udn-catebreaknews_ch2",
+            "time": "2024-10-07 00:29"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/06/realtime/30669448.jpg&s=Y&x=496&y=0&sw=3543&sh=2362&exp=3600&w=300",
+            "title": "美選觀測／三海連動美中競逐 下屆美國總統的印太策略是否會將台灣置於危機之中？",
+            "link": "https://udn.com//news/story/124068/8274516?from=udn-catebreaknews_ch2",
+            "time": "2024-10-07 00:29"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/06/realtime/30669394.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
             "title": "黎巴嫩駐英大使爆料：納斯拉勒遭暗殺前不久同意停火3周",
             "link": "https://udn.com//news/story/123777/8274439?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "以色列防長警告伊朗：傷害以色列下場就像加薩和黎巴嫩",
             "link": "https://udn.com//news/story/123777/8274310?from=udn-catebreaknews_ch2",
             "time": "2024-10-06 22:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/06/98/30669119.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "以巴衝突將滿周年 以軍增派兵力至加薩周邊",
-            "link": "https://udn.com//news/story/123777/8274289?from=udn-catebreaknews_ch2",
-            "time": "2024-10-06 21:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/06/98/30669117.jpg&s=Y&x=0&y=104&sw=1280&sh=853&exp=3600&w=300",
-            "title": "「正陷入可怕危機」聯合國難民署專員抵黎巴嫩 聲援受以國空襲影響民眾",
-            "link": "https://udn.com//news/story/123777/8274276?from=udn-catebreaknews_ch2",
-            "time": "2024-10-06 21:28"
         }
     ]
 }
