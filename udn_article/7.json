@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/21/realtime/30309833.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "國巨違反重大訊息及資訊申報規定 證交所處以20萬元違約金",
+            "link": "https://udn.com//news/story/7251/8276286?from=udn-catebreaknews_ch2",
+            "time": "2024-10-07 18:34"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/25/realtime/30601546.jpg&s=Y&x=0&y=0&sw=944&sh=639&exp=3600&w=300",
             "title": "新興亞股上周續漲1.4% 台股外資終止連兩周買超",
             "link": "https://udn.com//news/story/7251/8276000?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "00887單日漲116％…累計溢價驚人高達221％！ 專家：真正的投資人恐已經跑光了",
             "link": "https://udn.com//news/story/123006/8275764?from=udn-catebreaknews_ch2",
             "time": "2024-10-07 15:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/07/realtime/30673882.jpg&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
-            "title": "現觀科營收／9月0.52億元、月增63.1% 登近32個月高點",
-            "link": "https://udn.com//news/story/7253/8275782?from=udn-catebreaknews_ch2",
-            "time": "2024-10-07 15:19"
         }
     ]
 }
