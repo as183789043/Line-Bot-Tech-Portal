@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/13/2/30507745.jpg&s=Y&x=4&y=0&sw=1169&sh=779&exp=3600&w=300",
+            "title": "台積電拚站穩千元 台股盤中觸及22700點",
+            "link": "https://udn.com//news/story/7251/8275076?from=udn-catebreaknews_ch2",
+            "time": "2024-10-07 11:10"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/07/realtime/30671419.jpg&s=Y&x=0&y=0&sw=936&sh=619&exp=3600&w=300",
+            "title": "台股下跌時小資族買什麼？ 最愛這檔高息 ETF 勝過台積電",
+            "link": "https://udn.com//news/story/123006/8275009?from=udn-catebreaknews_ch2",
+            "time": "2024-10-07 10:48"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/26/2/30606074.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "鴻海9月營收雙增 法人估全年 EPS 上看12元",
             "link": "https://udn.com//news/story/7253/8274991?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "大立光9月營收符合預期 法人估全年 EPS 153~184元",
             "link": "https://udn.com//news/story/7251/8274924?from=udn-catebreaknews_ch2",
             "time": "2024-10-07 10:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/07/98/30222503.jpg&s=Y&x=180&y=0&sw=1019&sh=679&exp=3600&w=300",
-            "title": "0056今年總配息3.63元…年化高達9％多！ 艾蜜莉：我心中地位依然是老大哥",
-            "link": "https://udn.com//news/story/123006/8274860?from=udn-catebreaknews_ch2",
-            "time": "2024-10-07 10:15"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/2/30653990.jpg&s=Y&x=20&y=104&sw=1260&sh=840&exp=3600&w=300",
-            "title": "台積電站上千元 台股開高早盤漲逾300點",
-            "link": "https://udn.com//news/story/7253/8274775?from=udn-catebreaknews_ch2",
-            "time": "2024-10-07 10:06"
         }
     ]
 }
