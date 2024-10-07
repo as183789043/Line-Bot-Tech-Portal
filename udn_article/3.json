@@ -1,10 +1,16 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
             "title": "韓菲建立戰略伙伴關系",
             "link": "https://udn.com//news/story/6809/8276697?from=udn-catebreaknews_ch2",
             "time": "2024-10-08 04:59"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/10/08/30676478.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "10年期美債殖利率重回4% 道瓊大跌近400點",
+            "link": "https://udn.com//news/story/6811/8276940?from=udn-catebreaknews_ch2",
+            "time": "2024-10-08 04:55"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/07/realtime/30675885.jpg&s=Y&x=0&y=0&sw=8192&sh=5464&exp=3600&w=300",
@@ -13,7 +19,7 @@
             "time": "2024-10-08 04:28"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
             "title": "研究線蟲…揭開基因調控奧祕 助研發抗癌藥",
             "link": "https://udn.com//news/story/6809/8276829?from=udn-catebreaknews_ch2",
             "time": "2024-10-08 04:20"
@@ -23,12 +29,6 @@
             "title": "研究線蟲 美2學者獲諾貝爾醫學獎",
             "link": "https://udn.com//news/story/6809/8276827?from=udn-catebreaknews_ch2",
             "time": "2024-10-08 04:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/07/realtime/30675896.jpg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
-            "title": "經濟不著陸 打亂美債漲勢",
-            "link": "https://udn.com//news/story/6811/8276798?from=udn-catebreaknews_ch2",
-            "time": "2024-10-08 01:14"
         }
     ]
 }
