@@ -1,10 +1,22 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/17/2/30537076.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "鴻海9月營收飆升 高盛維持「買進」、目標價257元",
+            "link": "https://udn.com//news/story/7251/8275359?from=udn-catebreaknews_ch2",
+            "time": "2024-10-07 12:32"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/25/0/30603902.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "00929還能存？看投資目的及持有成本！ 專家：是否能接受最糟的「2個配息狀況」",
             "link": "https://udn.com//news/story/123006/8275283?from=udn-catebreaknews_ch2",
             "time": "2024-10-07 12:16"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/07/2/30672456.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "鴻海營收報喜 科技日前股價先漲、朝200元挺進",
+            "link": "https://udn.com//news/story/7251/8275237?from=udn-catebreaknews_ch2",
+            "time": "2024-10-07 11:57"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/24/0/30596463.jpg&s=Y&x=0&y=0&sw=1266&sh=844&exp=3600&w=300",
@@ -17,18 +29,6 @@
             "title": "台積電拚站穩千元 台股盤中觸及22700點",
             "link": "https://udn.com//news/story/7251/8275076?from=udn-catebreaknews_ch2",
             "time": "2024-10-07 11:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/07/2/30671957.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
-            "title": "AI浪潮推台股 法人看好第4季後市成長",
-            "link": "https://udn.com//news/story/7251/8275081?from=udn-catebreaknews_ch2",
-            "time": "2024-10-07 11:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/07/realtime/30671419.jpg&s=Y&x=0&y=0&sw=936&sh=619&exp=3600&w=300",
-            "title": "台股下跌時小資族買什麼？ 最愛這檔高息 ETF 勝過台積電",
-            "link": "https://udn.com//news/story/123006/8275009?from=udn-catebreaknews_ch2",
-            "time": "2024-10-07 10:48"
         }
     ]
 }
