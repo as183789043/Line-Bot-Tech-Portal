@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/25/realtime/30601546.jpg&s=Y&x=0&y=0&sw=944&sh=639&exp=3600&w=300",
+            "title": "新興亞股上周續漲1.4% 台股外資終止連兩周買超",
+            "link": "https://udn.com//news/story/7251/8276000?from=udn-catebreaknews_ch2",
+            "time": "2024-10-07 16:38"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/25/0/30603902.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "00887飆漲116%…9月底的時候股價還不到10元！ 艾蜜莉：買到滿滿的市場波動",
             "link": "https://udn.com//news/story/123006/8275942?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "現觀科營收／9月0.52億元、月增63.1% 登近32個月高點",
             "link": "https://udn.com//news/story/7253/8275782?from=udn-catebreaknews_ch2",
             "time": "2024-10-07 15:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/25/0/30603902.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "台股上漲399點 三大法人買超94.65億元",
-            "link": "https://udn.com//news/story/7251/8275767?from=udn-catebreaknews_ch2",
-            "time": "2024-10-07 15:10"
         }
     ]
 }
