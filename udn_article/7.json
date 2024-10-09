@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/09/2/30688402.jpg&s=Y&x=0&y=64&sw=1280&sh=853&exp=3600&w=300",
+            "title": "證交所14日將審議富威電力上市案",
+            "link": "https://udn.com//news/story/7251/8281783?from=udn-catebreaknews_ch2",
+            "time": "2024-10-09 20:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/09/realtime/30688198.jpg&s=Y&x=0&y=34&sw=2457&sh=1638&exp=3600&w=300",
             "title": "文曄第3季業績再創單季新高 連五季創高",
             "link": "https://udn.com//news/story/7253/8281671?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "金寶營收／9月185.45億元、年月雙增 登全年高點",
             "link": "https://udn.com//news/story/7253/8281598?from=udn-catebreaknews_ch2",
             "time": "2024-10-09 18:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/26/2/30606291.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "陽明營收／9月216.2億元 月減16.07%、年增77.1%",
-            "link": "https://udn.com//news/story/7252/8281582?from=udn-catebreaknews_ch2",
-            "time": "2024-10-09 18:24"
         }
     ]
 }
