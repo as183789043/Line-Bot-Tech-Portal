@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
+            "title": "反壟斷救濟選項 美司法部：考慮強制谷歌分拆",
+            "link": "https://udn.com//news/story/6811/8282042?from=udn-catebreaknews_ch2",
+            "time": "2024-10-10 03:38"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/09/realtime/30688947.jpg&s=Y&x=0&y=0&sw=2126&sh=1417&exp=3600&w=300",
             "title": "北韓切斷通往南韓鐵公路",
             "link": "https://udn.com//news/story/6809/8282059?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "真主黨首度表態 支持與以色列停火",
             "link": "https://udn.com//news/story/123777/8282017?from=udn-catebreaknews_ch2",
             "time": "2024-10-10 02:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
-            "title": "諾貝爾化學獎／AI提高蛋白質預測 有助藥物設計",
-            "link": "https://udn.com//news/story/123769/8282174?from=udn-catebreaknews_ch2",
-            "time": "2024-10-10 02:13"
         }
     ]
 }
