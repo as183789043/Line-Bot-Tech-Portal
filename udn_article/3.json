@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/09/realtime/30688947.jpg&s=Y&x=0&y=0&sw=2126&sh=1417&exp=3600&w=300",
+            "title": "北韓切斷通往南韓鐵公路",
+            "link": "https://udn.com//news/story/6809/8282059?from=udn-catebreaknews_ch2",
+            "time": "2024-10-10 02:22"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/09/realtime/30688936.jpg&s=Y&x=0&y=0&sw=2125&sh=1417&exp=3600&w=300",
+            "title": "就任僅8天就動手！石破茂解散眾院 月底改選",
+            "link": "https://udn.com//news/story/6809/8282030?from=udn-catebreaknews_ch2",
+            "time": "2024-10-10 02:21"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/08/98/30679127.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "偷送普亭新冠檢測器？川普否認",
             "link": "https://udn.com//news/story/121777/8282012?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2024-10-10 02:17"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
             "title": "諾貝爾化學獎／AI提高蛋白質預測 有助藥物設計",
             "link": "https://udn.com//news/story/123769/8282174?from=udn-catebreaknews_ch2",
             "time": "2024-10-10 02:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/09/realtime/30689069.jpg&s=Y&x=0&y=13&sw=1322&sh=880&exp=3600&w=300",
-            "title": "研究蛋白質 美英3人獲諾貝爾化學獎",
-            "link": "https://udn.com//news/story/123769/8282165?from=udn-catebreaknews_ch2",
-            "time": "2024-10-10 02:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/09/realtime/30688892.jpg&s=Y&x=0&y=24&sw=3264&sh=2176&exp=3600&w=300",
-            "title": "美債波動率衝上今年最高！周四迎來CPI新考驗",
-            "link": "https://udn.com//news/story/6811/8281998?from=udn-catebreaknews_ch2",
-            "time": "2024-10-09 22:56"
         }
     ]
 }
