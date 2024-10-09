@@ -1,7 +1,19 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/10/10/30689593.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "科技股帶動 美股道瓊漲431點 偕史指同創歷史新高",
+            "link": "https://udn.com//news/story/6811/8282301?from=udn-catebreaknews_ch2",
+            "time": "2024-10-10 04:46"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/31/98/30387056.jpg&s=Y&x=100&y=28&sw=1177&sh=785&exp=3600&w=300",
+            "title": "土耳其航空機師飛行期間猝死 班機急降幸未釀災",
+            "link": "https://udn.com//news/story/6809/8282294?from=udn-catebreaknews_ch2",
+            "time": "2024-10-10 04:26"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
             "title": "反壟斷救濟選項 美司法部：考慮強制谷歌分拆",
             "link": "https://udn.com//news/story/6811/8282042?from=udn-catebreaknews_ch2",
             "time": "2024-10-10 03:38"
@@ -17,18 +29,6 @@
             "title": "就任僅8天就動手！石破茂解散眾院 月底改選",
             "link": "https://udn.com//news/story/6809/8282030?from=udn-catebreaknews_ch2",
             "time": "2024-10-10 02:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/08/98/30679127.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "偷送普亭新冠檢測器？川普否認",
-            "link": "https://udn.com//news/story/121777/8282012?from=udn-catebreaknews_ch2",
-            "time": "2024-10-10 02:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/08/realtime/30676798.jpg&s=Y&x=0&y=0&sw=4928&sh=3280&exp=3600&w=300",
-            "title": "真主黨首度表態 支持與以色列停火",
-            "link": "https://udn.com//news/story/123777/8282017?from=udn-catebreaknews_ch2",
-            "time": "2024-10-10 02:17"
         }
     ]
 }
