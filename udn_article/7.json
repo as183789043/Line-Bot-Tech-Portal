@@ -1,13 +1,19 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/09/realtime/30685777.jpg&s=Y&x=0&y=0&sw=5233&sh=3489&exp=3600&w=300",
+            "title": "台積法說 台股推演三情境",
+            "link": "https://udn.com//news/story/7251/8284079?from=udn-catebreaknews_ch2",
+            "time": "2024-10-11 06:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/10/realtime/30694536.jpg&s=Y&x=0&y=0&sw=1700&sh=1133&exp=3600&w=300",
             "title": "台積電17日法說 外資看6重點",
             "link": "https://udn.com//news/story/7251/8284038?from=udn-catebreaknews_ch2",
             "time": "2024-10-11 04:10"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
             "title": "七大產業概念股 看旺",
             "link": "https://udn.com//news/story/7251/8284028?from=udn-catebreaknews_ch2",
             "time": "2024-10-11 00:20"
@@ -19,16 +25,10 @@
             "time": "2024-10-11 00:18"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
             "title": "權王法說 外資提六問",
             "link": "https://udn.com//news/story/7251/8284097?from=udn-catebreaknews_ch2",
             "time": "2024-10-11 00:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/11/2/30694653.webp&s=Y&x=0&y=0&sw=531&sh=354&exp=3600&w=300",
-            "title": "多檔期貨保證金調整",
-            "link": "https://udn.com//news/story/7255/8284108?from=udn-catebreaknews_ch2",
-            "time": "2024-10-10 23:41"
         }
     ]
 }

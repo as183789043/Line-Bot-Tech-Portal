@@ -1,10 +1,16 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/10/realtime/30692119.jpg&s=Y&x=0&y=0&sw=5233&sh=3489&exp=3600&w=300",
-            "title": "三星不爭氣、英特爾錯失AI潮 台積電終成半導體霸主？",
-            "link": "https://udn.com//news/story/6811/8283211?from=udn-catebreaknews_ch2",
-            "time": "2024-10-11 06:00"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/11/realtime/30695422.jpg&s=Y&x=0&y=0&sw=5500&sh=3668&exp=3600&w=300",
+            "title": "美股收盤／四大指數收盤小跌 因美通膨和失業數據雙升",
+            "link": "https://udn.com//news/story/6811/8284318?from=udn-catebreaknews_ch2",
+            "time": "2024-10-11 07:02"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/11/2/30694810.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "美通膨升溫 降息1碼機率增",
+            "link": "https://udn.com//news/story/6811/8284081?from=udn-catebreaknews_ch2",
+            "time": "2024-10-11 06:15"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/08/realtime/30681308.jpg&s=Y&x=0&y=0&sw=7093&sh=4729&exp=3600&w=300",
@@ -13,22 +19,16 @@
             "time": "2024-10-11 06:00"
         },
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/10/realtime/30692119.jpg&s=Y&x=0&y=0&sw=5233&sh=3489&exp=3600&w=300",
+            "title": "三星不爭氣、英特爾錯失AI潮 台積電終成半導體霸主？",
+            "link": "https://udn.com//news/story/6811/8283211?from=udn-catebreaknews_ch2",
+            "time": "2024-10-11 06:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/10/1/30694527.png&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "百年颶風橫掃美國佛州 圖解米爾頓重創災情與紀錄",
             "link": "https://udn.com//news/story/6813/8284211?from=udn-catebreaknews_ch2",
             "time": "2024-10-11 05:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
-            "title": "北約宣布將於下周一開始年度核演習",
-            "link": "https://udn.com//news/story/6809/8283996?from=udn-catebreaknews_ch2",
-            "time": "2024-10-11 05:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
-            "title": "以色列拒絕分享報復伊朗計畫",
-            "link": "https://udn.com//news/story/123777/8284110?from=udn-catebreaknews_ch2",
-            "time": "2024-10-11 04:21"
         }
     ]
 }

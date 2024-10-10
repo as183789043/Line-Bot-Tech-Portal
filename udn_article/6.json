@@ -1,9 +1,15 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/10/realtime/30694549.jpg&s=Y&x=0&y=0&sw=1417&sh=945&exp=3600&w=300",
-            "title": "大立光產能鬆動 蘋概緊張…i16銷售警報響",
-            "link": "https://udn.com//news/story/7240/8284066?from=udn-catebreaknews_ch2",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/11/realtime/30695393.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "AMD 蘇姿丰：估2028年資料中心 AI 加速器潛在市場規模將達5千億美元",
+            "link": "https://udn.com//news/story/7238/8284313?from=udn-catebreaknews_ch2",
+            "time": "2024-10-11 06:53"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/11/2/30694673.jpg&s=Y&x=0&y=204&sw=1278&sh=852&exp=3600&w=300",
+            "title": "交部預告修法…外送平台運費 四情況可加價",
+            "link": "https://udn.com//news/story/7238/8284070?from=udn-catebreaknews_ch2",
             "time": "2024-10-11 06:00"
         },
         {
@@ -13,22 +19,16 @@
             "time": "2024-10-11 05:40"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_5.jpg&w=300",
-            "title": "中信11日股臨會 擬增近千億資本額",
-            "link": "https://udn.com//news/story/7239/8284039?from=udn-catebreaknews_ch2",
-            "time": "2024-10-11 04:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_9.jpg&w=300",
-            "title": "離岸風電聯貸 今年將簽2案",
-            "link": "https://udn.com//news/story/7238/8284035?from=udn-catebreaknews_ch2",
-            "time": "2024-10-11 04:11"
-        },
-        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/11/2/30694662.jpg&s=Y&x=0&y=108&sw=1278&sh=852&exp=3600&w=300",
             "title": "超微新品齊發 帶旺台積…持續拓展版圖叫陣輝達、英特爾",
             "link": "https://udn.com//news/story/7240/8284059?from=udn-catebreaknews_ch2",
-            "time": "2024-10-11 02:00"
+            "time": "2024-10-11 05:20"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/10/realtime/30694549.jpg&s=Y&x=0&y=0&sw=1417&sh=945&exp=3600&w=300",
+            "title": "大立光產能鬆動 蘋概緊張…i16銷售警報響",
+            "link": "https://udn.com//news/story/7240/8284066?from=udn-catebreaknews_ch2",
+            "time": "2024-10-11 05:00"
         }
     ]
 }
