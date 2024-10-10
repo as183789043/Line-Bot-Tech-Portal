@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/09/0/30684943.jpg&s=Y&x=68&y=124&sw=762&sh=508&exp=3600&w=300",
+            "title": "中國股市可進場嗎？「4細節」透露這一次不一樣？",
+            "link": "https://udn.com//news/story/6841/8280359?from=udn-catebreaknews_ch2",
+            "time": "2024-10-10 11:52"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/09/draft/30684592.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
             "title": "製鞋供應鏈的投資新嬌點",
             "link": "https://udn.com//news/story/6851/8280252?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "謝金河：全球股市豬羊變色的底蘊",
             "link": "https://udn.com//news/story/6851/8280203?from=udn-catebreaknews_ch2",
             "time": "2024-10-09 14:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/09/draft/30684465.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "突破or跌破 台積電法說碰撞台股",
-            "link": "https://udn.com//news/story/6851/8280192?from=udn-catebreaknews_ch2",
-            "time": "2024-10-09 14:16"
         }
     ]
 }
