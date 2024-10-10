@@ -1,8 +1,26 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/10/realtime/30694045.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
+            "title": "聯合國控以軍戰車砲轟黎南維和部隊 已知2人受傷送醫",
+            "link": "https://udn.com//news/story/123777/8283795?from=udn-catebreaknews_ch2",
+            "time": "2024-10-10 20:48"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/10/realtime/30693760.jpg&s=Y&x=0&y=0&sw=3500&sh=2380&exp=3600&w=300",
+            "title": "韓國人首摘諾貝爾文學獎 女作家韓江書寫歷史創傷",
+            "link": "https://udn.com//news/story/123769/8283772?from=udn-catebreaknews_ch2",
+            "time": "2024-10-10 20:46"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/10/1/30693872.jpg&s=Y&x=24&y=140&sw=1232&sh=821&exp=3600&w=300",
+            "title": "韓國女作家韓江獲諾貝爾文學獎 村上春樹迷寄望明年",
+            "link": "https://udn.com//news/story/123769/8283770?from=udn-catebreaknews_ch2",
+            "time": "2024-10-10 20:43"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/10/realtime/30693954.jpg&s=Y&x=0&y=0&sw=3500&sh=2380&exp=3600&w=300",
-            "title": "70後韓江勇奪諾貝爾獎 台灣出版社 :每看一部震撼一次",
+            "title": "70後韓江勇奪諾貝爾獎 台灣出版社：每看一部震撼一次",
             "link": "https://udn.com//news/story/123769/8283740?from=udn-catebreaknews_ch2",
             "time": "2024-10-10 20:07"
         },
@@ -11,24 +29,6 @@
             "title": "澤倫斯基：戰場局勢為2025年停戰「創造機會」",
             "link": "https://udn.com//news/story/122663/8283719?from=udn-catebreaknews_ch2",
             "time": "2024-10-10 19:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/10/1/30693872.jpg&s=Y&x=24&y=140&sw=1232&sh=821&exp=3600&w=300",
-            "title": "南韓女作家韓江 獲2024年諾貝爾文學獎",
-            "link": "https://udn.com//news/story/123769/8283665?from=udn-catebreaknews_ch2",
-            "time": "2024-10-10 19:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/09/0/30687568.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "整理包／2024諾貝爾獎看過來 得獎者名單與傑出貢獻一覽",
-            "link": "https://udn.com//news/story/123769/8281042?from=udn-catebreaknews_ch2",
-            "time": "2024-10-10 19:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/10/realtime/30693431.jpg&s=Y&x=0&y=0&sw=1605&sh=1070&exp=3600&w=300",
-            "title": "2天暴雨降下全年雨量 撒哈拉沙漠洪水氾濫照片驚人",
-            "link": "https://udn.com//news/story/6809/8283587?from=udn-catebreaknews_ch2",
-            "time": "2024-10-10 18:23"
         }
     ]
 }
