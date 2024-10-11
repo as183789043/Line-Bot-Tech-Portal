@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/11/realtime/30699944.jpg&s=Y&x=0&y=0&sw=1889&sh=1279&exp=3600&w=300",
+            "title": "大聯大9月營收首度突破千億元 9月及Q3營收寫創新高",
+            "link": "https://udn.com//news/story/7253/8286042?from=udn-catebreaknews_ch2",
+            "time": "2024-10-11 19:43"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/11/98/30699930.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "外資續買台積電逾萬張 台股下周聚焦法說會行情",
+            "link": "https://udn.com//news/story/7251/8285965?from=udn-catebreaknews_ch2",
+            "time": "2024-10-11 19:40"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/28/2/30618961.jpg&s=Y&x=0&y=0&sw=1133&sh=755&exp=3600&w=300",
             "title": "中鋼營收／出貨量大減…9月年減9.2% 近20個月新低",
             "link": "https://udn.com//news/story/7252/8285952?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "統一超營收／9月287億元創同期新高 暑假助攻第3季創單季紀錄",
             "link": "https://udn.com//news/story/7252/8285946?from=udn-catebreaknews_ch2",
             "time": "2024-10-11 18:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/25/realtime/30604696.jpg&s=Y&x=0&y=35&sw=4977&sh=3318&exp=3600&w=300",
-            "title": "星宇航空公開申購每人可抽2張 中籤賺1.86萬元「報酬率46%」",
-            "link": "https://udn.com//news/story/7254/8285923?from=udn-catebreaknews_ch2",
-            "time": "2024-10-11 18:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/20/realtime/30564026.jpg&s=Y&x=0&y=19&sw=2782&sh=1854&exp=3600&w=300",
-            "title": "遠傳受惠遠亞併效益！iPhone 16推升5G用戶 第3季獲利超財測",
-            "link": "https://udn.com//news/story/7253/8285890?from=udn-catebreaknews_ch2",
-            "time": "2024-10-11 18:09"
         }
     ]
 }
