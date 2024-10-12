@@ -1,7 +1,25 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
+            "title": "美債疲軟 連四周下跌",
+            "link": "https://udn.com//news/story/6811/8287861?from=udn-catebreaknews_ch2",
+            "time": "2024-10-13 03:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
+            "title": "道瓊、標普創高 多頭振奮",
+            "link": "https://udn.com//news/story/6811/8287940?from=udn-catebreaknews_ch2",
+            "time": "2024-10-13 03:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
+            "title": "特斯拉、超微秀新品 股價不捧場",
+            "link": "https://udn.com//news/story/6811/8287953?from=udn-catebreaknews_ch2",
+            "time": "2024-10-13 02:28"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
             "title": "俄伊總統會談 以盼與美協調",
             "link": "https://udn.com//news/story/6809/8287937?from=udn-catebreaknews_ch2",
             "time": "2024-10-13 00:18"
@@ -11,24 +29,6 @@
             "title": "怕再遇刺殺 川普要求維安升級",
             "link": "https://udn.com//news/story/121777/8287936?from=udn-catebreaknews_ch2",
             "time": "2024-10-13 00:15"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
-            "title": "台積電將法說 美股看好有續漲空間",
-            "link": "https://udn.com//news/story/6811/8288003?from=udn-catebreaknews_ch2",
-            "time": "2024-10-13 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/12/98/30703519.jpg&s=Y&x=56&y=0&sw=1225&sh=817&exp=3600&w=300",
-            "title": "日本各大黨魁討論會 首相石破茂提出「日本創生」",
-            "link": "https://udn.com//news/story/6809/8287913?from=udn-catebreaknews_ch2",
-            "time": "2024-10-12 23:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/12/realtime/30705361.jpg&s=Y&x=0&y=24&sw=3433&sh=2288&exp=3600&w=300",
-            "title": "散播恐懼種子「噴火龍」崛起 烏克蘭戰場成為無人機的角力擂台",
-            "link": "https://udn.com//news/story/122663/8287906?from=udn-catebreaknews_ch2",
-            "time": "2024-10-12 22:56"
         }
     ]
 }
