@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/12/realtime/30705450.jpg&s=Y&x=0&y=336&sw=2635&sh=1757&exp=3600&w=300",
+            "title": "特斯拉自駕小黃 股市看衰",
+            "link": "https://udn.com//news/story/7251/8287989?from=udn-catebreaknews_ch2",
+            "time": "2024-10-13 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/26/2/30612230.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "看好明年客貨運仍旺 法人推薦這檔航空股",
             "link": "https://udn.com//news/story/7251/8287829?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "權值股領軍 台股攀波段高點…法人：有攻擊量才能續攻",
             "link": "https://udn.com//news/story/7251/8286359?from=udn-catebreaknews_ch2",
             "time": "2024-10-12 06:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/10/2/30689268.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
-            "title": "上市櫃報喜 營收寫最強9月…創五大紀錄",
-            "link": "https://udn.com//news/story/7251/8286463?from=udn-catebreaknews_ch2",
-            "time": "2024-10-12 06:15"
         }
     ]
 }
