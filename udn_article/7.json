@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/12/realtime/30704623.jpg&s=Y&x=0&y=0&sw=5233&sh=3489&exp=3600&w=300",
+            "title": "本周台股／台積電法說周四登場 股價能否再攻頂看一關鍵",
+            "link": "https://udn.com//news/story/7251/8287610?from=udn-catebreaknews_ch2",
+            "time": "2024-10-13 10:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/13/98/30706736.jpg&s=Y&x=0&y=0&sw=1206&sh=804&exp=3600&w=300",
+            "title": "劉宗聖：主動式ETF像油電混合車 融合ETF與基金特色",
+            "link": "https://udn.com//news/story/123006/8288214?from=udn-catebreaknews_ch2",
+            "time": "2024-10-13 09:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/01/0/30636626.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "00929配息縮水…但0056、00878、00919卻還不受影響？ 小黑曝原因：年化將往5-6％靠近",
             "link": "https://udn.com//news/story/123006/8288156?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台積電大立光法說同日登場、國發會發布人口推估報告",
             "link": "https://udn.com//news/story/7253/8287525?from=udn-catebreaknews_ch2",
             "time": "2024-10-13 06:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/12/realtime/30704623.jpg&s=Y&x=0&y=0&sw=5233&sh=3489&exp=3600&w=300",
-            "title": "台積17日法說 Q4業績拚創高",
-            "link": "https://udn.com//news/story/7253/8287965?from=udn-catebreaknews_ch2",
-            "time": "2024-10-13 05:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/23/2/30322125.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "科技財報概念上攻動能強 鴻海、京元電等獲法人青睞",
-            "link": "https://udn.com//news/story/7253/8287948?from=udn-catebreaknews_ch2",
-            "time": "2024-10-13 05:40"
         }
     ]
 }
