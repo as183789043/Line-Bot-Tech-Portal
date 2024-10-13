@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/07/0/30673287.jpg&s=Y&x=32&y=32&sw=1219&sh=812&exp=3600&w=300",
+            "title": "平面、電子、數位媒體共同聲明",
+            "link": "https://udn.com//news/story/7314/8275636?from=udn-catebreaknews_ch2",
+            "time": "2024-10-14 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/13/realtime/30710196.png&s=Y&x=142&y=0&sw=1326&sh=884&exp=3600&w=300",
+            "title": "獨／債權保衛戰 京華城聯貸銀行團向中石化提二大要求",
+            "link": "https://udn.com//news/story/124199/8289408?from=udn-catebreaknews_ch2",
+            "time": "2024-10-13 23:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/13/realtime/30710178.jpg&s=Y&x=133&y=0&sw=1440&sh=960&exp=3600&w=300",
             "title": "罷樑結果阻斷林右昌新北路？藍營前發言人：已無底氣挑戰",
             "link": "https://udn.com//news/story/124184/8289381?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "罷免投票率五成 國民黨：基隆人不喜歡惡罷",
             "link": "https://udn.com//news/story/124184/8289315?from=udn-catebreaknews_ch2",
             "time": "2024-10-13 22:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/13/realtime/30710025.jpg&s=Y&x=0&y=38&sw=5500&sh=3666&exp=3600&w=300",
-            "title": "罷樑失利發聲 林右昌讚基隆完成民主深化：地方將質變　",
-            "link": "https://udn.com//news/story/124184/8289297?from=udn-catebreaknews_ch2",
-            "time": "2024-10-13 21:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/13/realtime/30710007.jpg&s=Y&x=0&y=0&sw=1558&sh=1039&exp=3600&w=300",
-            "title": "車隊掃街謝票 謝國樑落淚謝上帝：明日更努力推動市政",
-            "link": "https://udn.com//news/story/124184/8289280?from=udn-catebreaknews_ch2",
-            "time": "2024-10-13 21:37"
         }
     ]
 }
