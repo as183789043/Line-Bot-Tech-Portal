@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/11/2/30698484.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "雙十過後權值股有所表現 台股周線翻紅",
+            "link": "https://udn.com//news/story/7251/8289018?from=udn-catebreaknews_ch2",
+            "time": "2024-10-13 18:09"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/08/0/30679202.jpg&s=Y&x=0&y=148&sw=1280&sh=853&exp=3600&w=300",
             "title": "存0050不如直接買台積電（2330）？ 達人「很矛盾」：若嫌ETF分散性低又怎麼去選個股",
             "link": "https://udn.com//news/story/123006/8288796?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "本周台股／台積電法說周四登場 股價能否再攻頂看一關鍵",
             "link": "https://udn.com//news/story/7251/8287610?from=udn-catebreaknews_ch2",
             "time": "2024-10-13 10:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/13/98/30706736.jpg&s=Y&x=0&y=0&sw=1206&sh=804&exp=3600&w=300",
-            "title": "劉宗聖：主動式ETF像油電混合車 融合ETF與基金特色",
-            "link": "https://udn.com//news/story/123006/8288214?from=udn-catebreaknews_ch2",
-            "time": "2024-10-13 09:33"
         }
     ]
 }
