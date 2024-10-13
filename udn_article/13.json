@@ -1,6 +1,12 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/13/0/30708736.jpg&s=Y&x=0&y=0&sw=1080&sh=604&exp=3600&w=300",
+            "title": "全新飲品開喝！  發發「幽幽格」、可不可「蘋玉烏米」、TEA TOP「茉茗青妙」、加碼烏弄買一送一",
+            "link": "https://udn.com//news/story/7186/8288767?from=udn-catebreaknews_ch2",
+            "time": "2024-10-13 15:35"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/11/0/30708056.jpg&s=Y&x=0&y=0&sw=950&sh=533&exp=3600&w=300",
             "title": "秋天來了！長野縣千曲市「楓情萬種名所」5選 層層楓紅美不勝收",
             "link": "https://udn.com//news/story/9655/8284419?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "萬聖節搞怪！本村「暗黑炸雞、惡魔漢堡」限定登場",
             "link": "https://udn.com//news/story/7193/8288608?from=udn-catebreaknews_ch2",
             "time": "2024-10-13 13:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/13/0/30707809.jpg&s=Y&x=0&y=0&sw=1280&sh=712&exp=3600&w=300",
-            "title": "10月鮭魚富翁是你！ 台南知名日料店「初幸」 超狂指定系列「買一送一」 滿滿鮭魚吃個過癮",
-            "link": "https://udn.com//news/story/7208/8288568?from=udn-catebreaknews_ch2",
-            "time": "2024-10-13 13:15"
         }
     ]
 }
