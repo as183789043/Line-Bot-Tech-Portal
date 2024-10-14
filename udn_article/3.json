@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/10/15/30717079.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "芝加哥大學第101位諾獎得主 羅賓森獲經濟學獎",
+            "link": "https://udn.com//news/story/123769/8292002?from=udn-catebreaknews_ch2",
+            "time": "2024-10-15 03:56"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/10/15/30717075.png&s=Y&x=0&y=8&sw=1196&sh=796&exp=3600&w=300",
+            "title": "年輕女沒房 用這招月賺18萬美元租金 華人也做類似生意",
+            "link": "https://udn.com//news/story/6813/8291998?from=udn-catebreaknews_ch2",
+            "time": "2024-10-15 03:44"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/10/14/30711967.jpg&s=Y&x=0&y=0&sw=1279&sh=868&exp=3600&w=300",
+            "title": "市值1570億美元 OpenAI竟是免稅慈善組織",
+            "link": "https://udn.com//news/story/6811/8289906?from=udn-catebreaknews_ch2",
+            "time": "2024-10-15 03:35"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/14/realtime/30715229.jpg&s=Y&x=0&y=0&sw=3218&sh=2145&exp=3600&w=300",
             "title": "諾貝爾經濟學獎三人出線 研究結論：民主政治更能締造GDP成長",
             "link": "https://udn.com//news/story/123769/8291792?from=udn-catebreaknews_ch2",
@@ -10,24 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/14/realtime/30716591.jpg&s=Y&x=0&y=0&sw=1133&sh=756&exp=3600&w=300",
             "title": "SpaceX成功回收星艦推進器 巨型機械手臂「筷子」立功",
             "link": "https://udn.com//news/story/6811/8291808?from=udn-catebreaknews_ch2",
-            "time": "2024-10-15 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
-            "title": "美二手電動車 兩年跌價25%",
-            "link": "https://udn.com//news/story/6811/8291811?from=udn-catebreaknews_ch2",
-            "time": "2024-10-15 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/15/2/30716886.jpg&s=Y&x=128&y=0&sw=1148&sh=765&exp=3600&w=300",
-            "title": "OPEC 連三月下修原油需求",
-            "link": "https://udn.com//news/story/6811/8291813?from=udn-catebreaknews_ch2",
-            "time": "2024-10-15 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
-            "title": "新興市場主權債 違約風險增",
-            "link": "https://udn.com//news/story/6811/8291816?from=udn-catebreaknews_ch2",
             "time": "2024-10-15 03:00"
         }
     ]
