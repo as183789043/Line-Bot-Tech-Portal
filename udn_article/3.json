@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/10/15/30717165.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "美股道指漲逾200點 站上4萬3000點 偕史指再創新高",
+            "link": "https://udn.com//news/story/6811/8292011?from=udn-catebreaknews_ch2",
+            "time": "2024-10-15 04:43"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/10/15/30717135.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "孟山都又一例 男用除草劑30年致癌 獲判賠7800萬美元",
+            "link": "https://udn.com//news/story/6813/8292004?from=udn-catebreaknews_ch2",
+            "time": "2024-10-15 04:09"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/10/15/30717079.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "芝加哥大學第101位諾獎得主 羅賓森獲經濟學獎",
             "link": "https://udn.com//news/story/123769/8292002?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "市值1570億美元 OpenAI竟是免稅慈善組織",
             "link": "https://udn.com//news/story/6811/8289906?from=udn-catebreaknews_ch2",
             "time": "2024-10-15 03:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/14/realtime/30715229.jpg&s=Y&x=0&y=0&sw=3218&sh=2145&exp=3600&w=300",
-            "title": "諾貝爾經濟學獎三人出線 研究結論：民主政治更能締造GDP成長",
-            "link": "https://udn.com//news/story/123769/8291792?from=udn-catebreaknews_ch2",
-            "time": "2024-10-15 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/14/realtime/30716591.jpg&s=Y&x=0&y=0&sw=1133&sh=756&exp=3600&w=300",
-            "title": "SpaceX成功回收星艦推進器 巨型機械手臂「筷子」立功",
-            "link": "https://udn.com//news/story/6811/8291808?from=udn-catebreaknews_ch2",
-            "time": "2024-10-15 03:00"
         }
     ]
 }
