@@ -1,6 +1,12 @@
 {
     "文教": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/14/realtime/30713146.jpg&s=Y&x=0&y=0&sw=6048&sh=4024&exp=3600&w=300",
+            "title": "諾貝爾獎得主艾斯佩特獲頒台大名譽博士",
+            "link": "https://udn.com//news/story/6925/8290360?from=udn-catebreaknews_ch2",
+            "time": "2024-10-14 12:19"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/14/realtime/30713061.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
             "title": "教育部推英語自主檢測系統上線 AI技術分析能力協助自主學習",
             "link": "https://udn.com//news/story/6885/8290316?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "葉丙成：品德教育需靠思辨建立",
             "link": "https://udn.com//news/story/6885/8289515?from=udn-catebreaknews_ch2",
             "time": "2024-10-14 00:38"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/13/realtime/30710157.jpg&s=Y&x=311&y=0&sw=3378&sh=2252&exp=3600&w=300",
-            "title": "竹北文興國中 新校舍上梁",
-            "link": "https://udn.com//news/story/6898/8289347?from=udn-catebreaknews_ch2",
-            "time": "2024-10-14 00:36"
         }
     ]
 }
