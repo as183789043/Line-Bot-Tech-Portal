@@ -1,8 +1,14 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/14/realtime/30714726.jpg&s=Y&x=0&y=0&sw=800&sh=526&exp=3600&w=300",
+            "title": "圖解共軍歷年軍演 聯合利劍B更近台灣有何戰略意義？",
+            "link": "https://udn.com//news/story/6656/8291014?from=udn-catebreaknews_ch2",
+            "time": "2024-10-14 16:43"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/14/realtime/30714639.jpg&s=Y&x=0&y=30&sw=4000&sh=2666&exp=3600&w=300",
-            "title": "陸方不同意陳建仁？APEC出席人選卡關中",
+            "title": "陸方不同意陳建仁？APEC出席人選卡關",
             "link": "https://udn.com//news/story/6656/8290948?from=udn-catebreaknews_ch2",
             "time": "2024-10-14 16:17"
         },
@@ -23,12 +29,6 @@
             "title": "傳共軍火箭炮兵旅投入圍台操演 國防部臨時記者會說明",
             "link": "https://udn.com//news/story/124208/8290862?from=udn-catebreaknews_ch2",
             "time": "2024-10-14 15:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/14/realtime/30714399.jpg&s=Y&x=0&y=532&sw=3000&sh=2000&exp=3600&w=300",
-            "title": "中共解放軍圍台軍演 高雄議員嘆「反效果」：歡迎觀光客機、不歡迎搗亂軍機",
-            "link": "https://udn.com//news/story/124208/8290835?from=udn-catebreaknews_ch2",
-            "time": "2024-10-14 15:30"
         }
     ]
 }
