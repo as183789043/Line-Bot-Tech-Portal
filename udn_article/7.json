@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/11/98/30699930.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "17日法說前 滙豐：三利多加持 台積電目標價上調到1,535元",
+            "link": "https://udn.com//news/story/7253/8291702?from=udn-catebreaknews_ch2",
+            "time": "2024-10-14 22:39"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/08/98/30681447.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台積法說前外資紛升目標價 野村調高至1355元",
             "link": "https://udn.com//news/story/7253/8291533?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "星宇超額認購率2.2倍！成近年得標總金額最大案 15日公開申購",
             "link": "https://udn.com//news/story/7254/8291184?from=udn-catebreaknews_ch2",
             "time": "2024-10-14 17:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/14/realtime/30715150.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "汎銓認列員工認股費用 9月每股虧損0.11元",
-            "link": "https://udn.com//news/story/7253/8291156?from=udn-catebreaknews_ch2",
-            "time": "2024-10-14 17:33"
         }
     ]
 }
