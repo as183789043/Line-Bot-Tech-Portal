@@ -1,9 +1,15 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/15/realtime/30722510.jpg&s=Y&x=55&y=0&sw=1170&sh=781&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/15/realtime/30722594.jpg&s=Y&x=0&y=0&sw=2551&sh=1700&exp=3600&w=300",
+            "title": "緊張升溫 北韓炸毀連接兩韓鐵公路",
+            "link": "https://udn.com//news/story/121405/8294288?from=udn-catebreaknews_ch2",
+            "time": "2024-10-16 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/15/realtime/30722510.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "俄軍正收復庫斯克州國土 恐削弱烏方逼談希望",
-            "link": "https://udn.com//news/story/6809/8294208?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/122663/8294208?from=udn-catebreaknews_ch2",
             "time": "2024-10-15 23:12"
         },
         {
@@ -13,7 +19,7 @@
             "time": "2024-10-15 23:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/15/realtime/30722436.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
             "title": "無視以色列再三呼籲撤退 聯合國駐黎巴嫩維和部隊堅持留「所有陣地」",
             "link": "https://udn.com//news/story/123777/8294132?from=udn-catebreaknews_ch2",
             "time": "2024-10-15 22:50"
@@ -23,12 +29,6 @@
             "title": "Google學者接連拿下諾貝爾獎 引發各界熱議AI研究",
             "link": "https://udn.com//news/story/123769/8294115?from=udn-catebreaknews_ch2",
             "time": "2024-10-15 22:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/15/realtime/30722418.jpg&s=Y&x=0&y=0&sw=6119&sh=4079&exp=3600&w=300",
-            "title": "美股早盤下跌…輝達跌逾3% 蘋果發布新品逆勢創高",
-            "link": "https://udn.com//news/story/6811/8294114?from=udn-catebreaknews_ch2",
-            "time": "2024-10-15 22:32"
         }
     ]
 }
