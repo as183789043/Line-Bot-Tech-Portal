@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/15/0/30719214.jpg&s=Y&x=284&y=0&sw=916&sh=611&exp=3600&w=300",
+            "title": "「長照藥局」可望興櫃掛牌！跨日合作 幫你顧爸媽",
+            "link": "https://udn.com//news/story/6841/8292717?from=udn-catebreaknews_ch2",
+            "time": "2024-10-15 12:14"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/18/realtime/30547401.jpg&s=Y&x=0&y=30&sw=4000&sh=2666&exp=3600&w=300",
+            "title": "失能險停賣 用4方式轉嫁風險",
+            "link": "https://udn.com//news/story/6854/8292562?from=udn-catebreaknews_ch2",
+            "time": "2024-10-15 11:41"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/14/draft/30712498.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
             "title": "現代人早熟？調查：Z世代稱27歲才是真正成年",
             "link": "https://udn.com//news/story/6897/8290151?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "00912、00905…這檔台積電平替版ETF配息率逾13% 這天前入手「股息價差2頭賺」",
             "link": "https://udn.com//news/story/6839/8290413?from=udn-catebreaknews_ch2",
             "time": "2024-10-14 13:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/07/draft/30677266.jpg&s=Y&x=0&y=7&sw=800&sh=532&exp=3600&w=300",
-            "title": "散步台中西區 吃新入選米其林美食！",
-            "link": "https://udn.com//news/story/6964/8276136?from=udn-catebreaknews_ch2",
-            "time": "2024-10-13 11:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/07/draft/30674348.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
-            "title": "台中爵士音樂節、搖滾台中 輪番登場 跟著音樂chill嗨台中！",
-            "link": "https://udn.com//news/story/6964/8275959?from=udn-catebreaknews_ch2",
-            "time": "2024-10-13 11:50"
         }
     ]
 }
