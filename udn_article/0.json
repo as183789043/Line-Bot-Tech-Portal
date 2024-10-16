@@ -1,6 +1,12 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/10/17/30729552.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "美股從前一日跌勢中反彈 道瓊再創收盤新高",
+            "link": "https://udn.com//news/story/6811/8296989?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-10-17 04:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/16/98/30726355.jpg&s=Y&x=36&y=0&sw=1140&sh=760&exp=3600&w=300",
             "title": "川普自稱「體外人工受精之父」 與賀錦麗爭女性選票",
             "link": "https://udn.com//news/story/121777/8296963?from=udn-ch1_breaknews-1-0-news",
@@ -23,12 +29,6 @@
             "title": "奈及利亞油罐車翻覆爆炸引發大火 增至147死",
             "link": "https://udn.com//news/story/6809/8296895?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-10-17 00:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/17/realtime/30729081.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
-            "title": "台灣紅烏龍飄香義國！紅烏龍麵包棒、水果蛋糕接力登場",
-            "link": "https://udn.com//news/story/7270/8296913?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-10-17 00:02"
         }
     ]
 }

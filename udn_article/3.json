@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/10/17/30729552.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "美股從前一日跌勢中反彈 道瓊再創收盤新高",
+            "link": "https://udn.com//news/story/6811/8296989?from=udn-catebreaknews_ch2",
+            "time": "2024-10-17 04:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/16/98/30726355.jpg&s=Y&x=36&y=0&sw=1140&sh=760&exp=3600&w=300",
             "title": "川普自稱「體外人工受精之父」 與賀錦麗爭女性選票",
             "link": "https://udn.com//news/story/121777/8296963?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "喬治亞州提前投票 首日人數翻倍",
             "link": "https://udn.com//news/story/121777/8296889?from=udn-catebreaknews_ch2",
             "time": "2024-10-17 01:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/16/realtime/30729016.jpg&s=Y&x=0&y=0&sw=8640&sh=5760&exp=3600&w=300",
-            "title": "美下通牒 促以色列放寬物資進加薩",
-            "link": "https://udn.com//news/story/123777/8296884?from=udn-catebreaknews_ch2",
-            "time": "2024-10-17 01:53"
         }
     ]
 }
