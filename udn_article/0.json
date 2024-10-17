@@ -1,6 +1,12 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/10/18/30736473.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電ADR大漲9.79%提振晶片股上攻 道瓊收創歷史新高",
+            "link": "https://udn.com//news/story/6811/8299601?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-10-18 04:57"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/05/realtime/30663797.jpg&s=Y&x=0&y=0&sw=5098&sh=3398&exp=3600&w=300",
             "title": "哈瑪斯領袖辛瓦策劃攻擊引爆加薩戰爭 以色列宣布擊斃",
             "link": "https://udn.com//news/story/123777/8299575?from=udn-ch1_breaknews-1-0-news",
@@ -23,12 +29,6 @@
             "title": "新北男違規穿越馬路 遭紅牌大型重機撞飛送醫不治",
             "link": "https://udn.com//news/story/7320/8299556?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-10-18 00:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/17/1/30736059.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "連著兩次新聞稿提到某家醫院做了比較 彰基做了回應",
-            "link": "https://udn.com//news/story/7266/8299524?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-10-18 00:00"
         }
     ]
 }

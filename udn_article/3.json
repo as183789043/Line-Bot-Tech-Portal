@@ -1,7 +1,13 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/10/18/30736473.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電業績強勁ADR大漲9.79%領晶片股上攻 道瓊收創歷史新高",
+            "link": "https://udn.com//news/story/6811/8299601?from=udn-catebreaknews_ch2",
+            "time": "2024-10-18 04:57"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
             "title": "已獲7成員國批准英入CPTPP 12月中生效",
             "link": "https://udn.com//news/story/6809/8299481?from=udn-catebreaknews_ch2",
             "time": "2024-10-18 03:26"
@@ -13,7 +19,7 @@
             "time": "2024-10-18 03:24"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
             "title": "美再軍援烏克蘭138億",
             "link": "https://udn.com//news/story/122663/8299480?from=udn-catebreaknews_ch2",
             "time": "2024-10-18 03:23"
@@ -23,12 +29,6 @@
             "title": "以傳擊斃哈瑪斯領袖",
             "link": "https://udn.com//news/story/123777/8299472?from=udn-catebreaknews_ch2",
             "time": "2024-10-18 03:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/05/realtime/30663797.jpg&s=Y&x=0&y=0&sw=5098&sh=3398&exp=3600&w=300",
-            "title": "哈瑪斯領袖辛瓦策劃攻擊引爆加薩戰爭 以色列宣布擊斃",
-            "link": "https://udn.com//news/story/123777/8299575?from=udn-catebreaknews_ch2",
-            "time": "2024-10-18 03:09"
         }
     ]
 }
