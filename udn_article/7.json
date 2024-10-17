@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/17/2/30735650.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "小摩：鴻海第4季營收將季增15-20% 受惠iPhone進入旺季",
+            "link": "https://udn.com//news/story/7253/8299216?from=udn-catebreaknews_ch2",
+            "time": "2024-10-17 21:58"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/17/98/30730956.jpg&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
+            "title": "台積電法說會報喜！ADR盤前大漲逾8% 台指期夜盤飆500點",
+            "link": "https://udn.com//news/story/7255/8299179?from=udn-catebreaknews_ch2",
+            "time": "2024-10-17 21:35"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/14/0/30726323.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "外資連2賣今減碼台股47億元！拋台積電居次 買超前3名出爐",
             "link": "https://udn.com//news/story/7251/8298579?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "PC 鏈四強 麥格理按讚",
             "link": "https://udn.com//news/story/7251/8298921?from=udn-catebreaknews_ch2",
             "time": "2024-10-17 19:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/17/realtime/30734818.jpg&s=Y&x=0&y=0&sw=5233&sh=3489&exp=3600&w=300",
-            "title": "台積電股價再創新天價？分析師：法說這數字太優秀「代表獲利暴衝」",
-            "link": "https://udn.com//news/story/7253/8298812?from=udn-catebreaknews_ch2",
-            "time": "2024-10-17 18:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/17/98/30730956.jpg&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
-            "title": "台積電法說大幅優於預期 永豐投顧上調目標價至1340元",
-            "link": "https://udn.com//news/story/7253/8298712?from=udn-catebreaknews_ch2",
-            "time": "2024-10-17 17:37"
         }
     ]
 }
