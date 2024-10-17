@@ -1,9 +1,27 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/16/2/30725511.jpg&s=Y&x=0&y=0&sw=1277&sh=851&exp=3600&w=300",
+            "title": "Nvidia、台積電ADR創高 績優股強勢回歸",
+            "link": "https://udn.com//news/story/7251/8298267?from=udn-catebreaknews_ch2",
+            "time": "2024-10-17 15:30"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/17/1/30733479.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "大立光飄蘋果香！Q3改寫多項紀錄 前三季EPS達129.16元",
+            "link": "https://udn.com//news/story/7253/8298299?from=udn-catebreaknews_ch2",
+            "time": "2024-10-17 15:24"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/17/0/30733003.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "聯準會只降息2碼讓美債ETF送分題變「送死題」？他恍然大悟：另類存股",
             "link": "https://udn.com//news/story/123006/8298233?from=udn-catebreaknews_ch2",
+            "time": "2024-10-17 15:14"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/17/2/30732459.jpg&s=Y&x=0&y=0&sw=1256&sh=837&exp=3600&w=300",
+            "title": "台股上漲42點！三大法人買超28.65億元 土洋對作",
+            "link": "https://udn.com//news/story/7251/8298282?from=udn-catebreaknews_ch2",
             "time": "2024-10-17 15:14"
         },
         {
@@ -11,24 +29,6 @@
             "title": "「開盤即收盤」變成笑話 謝金河：微光中的幾個亮點",
             "link": "https://udn.com//news/story/7251/8298255?from=udn-catebreaknews_ch2",
             "time": "2024-10-17 15:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/17/2/30733373.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "第二波漲勢啟動？ 塑化、鋼鐵連續回檔後上漲 最強逾5%",
-            "link": "https://udn.com//news/story/7251/8298190?from=udn-catebreaknews_ch2",
-            "time": "2024-10-17 14:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/09/2/30687593.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "從00922換到050正2...同樣漲跌報酬2倍！鐵蛋：享受果實、也要承擔風險",
-            "link": "https://udn.com//news/story/123006/8298120?from=udn-catebreaknews_ch2",
-            "time": "2024-10-17 14:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/11/2/30697693.jpg&s=Y&x=84&y=0&sw=1062&sh=708&exp=3600&w=300",
-            "title": "AI商機無限、台積電EPS優於預期！ 多頭列車啟動：國泰台灣高股息基金今年成長4成",
-            "link": "https://udn.com//news/story/10103/8298107?from=udn-catebreaknews_ch2",
-            "time": "2024-10-17 14:16"
         }
     ]
 }
