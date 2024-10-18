@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/18/2/30741357.jpg&s=Y&x=0&y=60&sw=1280&sh=853&exp=3600&w=300",
+            "title": "中信金收購新光金未申請暫停交易 證交所重罰100萬",
+            "link": "https://udn.com//news/story/7252/8301314?from=udn-catebreaknews_ch2",
+            "time": "2024-10-18 19:41"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/04/23/2/29515473.jpg&s=Y&x=0&y=0&sw=512&sh=341&exp=3600&w=300",
+            "title": "台股今漲433點台積電獨強 法人：提防賺指數賠價差",
+            "link": "https://udn.com//news/story/7251/8301251?from=udn-catebreaknews_ch2",
+            "time": "2024-10-18 19:14"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/09/2/30471420.jpg&s=Y&x=56&y=40&sw=1183&sh=789&exp=3600&w=300",
             "title": "台股震盪 三檔高股息 ETF 單月吸金合計逾600億元",
             "link": "https://udn.com//news/story/123006/8301215?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "外資買超566億元！買群創5.5萬張最多 這類股也獲大買",
             "link": "https://udn.com//news/story/7251/8301109?from=udn-catebreaknews_ch2",
             "time": "2024-10-18 17:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/18/0/30739817.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "「積」會來了0052最會噴！ 但太昂貴不如買8張00881…今年已飆漲35％",
-            "link": "https://udn.com//news/story/123006/8300713?from=udn-catebreaknews_ch2",
-            "time": "2024-10-18 15:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/2/30652985.jpg&s=Y&x=0&y=0&sw=1238&sh=825&exp=3600&w=300",
-            "title": "台股上漲433點 三大法人買超654億元",
-            "link": "https://udn.com//news/story/7251/8300723?from=udn-catebreaknews_ch2",
-            "time": "2024-10-18 15:15"
         }
     ]
 }
