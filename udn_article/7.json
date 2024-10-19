@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
+            "title": "投資ETF 留意折溢價、規模、流動性",
+            "link": "https://udn.com//news/story/123006/8303244?from=udn-catebreaknews_ch2",
+            "time": "2024-10-20 02:02"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/19/realtime/30745573.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
             "title": "華邦電今年第4季轉淡 看好明年需求將更優",
             "link": "https://udn.com//news/story/7253/8302665?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2024-10-19 11:18"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/18/realtime/30742095.jpg&s=Y&x=0&y=24&sw=3500&sh=2332&exp=3600&w=300",
-            "title": "台積股價創新高 大立光跌8%",
-            "link": "https://udn.com//news/story/7251/8301743?from=udn-catebreaknews_ch2",
-            "time": "2024-10-19 06:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/19/2/30742314.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
-            "title": "台積電創天價 台股爆量衝",
-            "link": "https://udn.com//news/story/7251/8301711?from=udn-catebreaknews_ch2",
-            "time": "2024-10-19 00:59"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
+            "title": "輝達推新顯卡 台鏈吃補",
+            "link": "https://udn.com//news/story/7253/8301331?from=udn-catebreaknews_ch2",
+            "time": "2024-10-18 23:52"
         }
     ]
 }
