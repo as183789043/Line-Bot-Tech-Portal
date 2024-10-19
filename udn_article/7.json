@@ -1,7 +1,25 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
+            "title": "力積電、聯亞法說 聚焦展望",
+            "link": "https://udn.com//news/story/7253/8303094?from=udn-catebreaknews_ch2",
+            "time": "2024-10-20 03:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/30/realtime/30634543.jpg&s=Y&x=76&y=65&sw=645&sh=430&exp=3600&w=300",
+            "title": "緯創金雞 全景周三上櫃",
+            "link": "https://udn.com//news/story/7254/8303090?from=udn-catebreaknews_ch2",
+            "time": "2024-10-20 03:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/19/realtime/30743970.jpg&s=Y&x=0&y=0&sw=2371&sh=1581&exp=3600&w=300",
+            "title": "高含「積」ETF 搭上AI大潮",
+            "link": "https://udn.com//news/story/123006/8303275?from=udn-catebreaknews_ch2",
+            "time": "2024-10-20 03:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
             "title": "投資ETF 留意折溢價、規模、流動性",
             "link": "https://udn.com//news/story/123006/8303244?from=udn-catebreaknews_ch2",
             "time": "2024-10-20 02:02"
@@ -11,24 +29,6 @@
             "title": "華邦電今年第4季轉淡 看好明年需求將更優",
             "link": "https://udn.com//news/story/7253/8302665?from=udn-catebreaknews_ch2",
             "time": "2024-10-19 15:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/14/2/30713142.jpg&s=Y&x=0&y=0&sw=1194&sh=796&exp=3600&w=300",
-            "title": "國際市場隨中東情勢起伏 法人：台塑、南亞10月營收有望月增",
-            "link": "https://udn.com//news/story/7252/8302652?from=udn-catebreaknews_ch2",
-            "time": "2024-10-19 15:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/19/2/30743994.jpg&s=Y&x=12&y=0&sw=1265&sh=844&exp=3600&w=300",
-            "title": "美股回神別錯過！「這檔基金」股債通吃",
-            "link": "https://udn.com//news/story/10103/8302230?from=udn-catebreaknews_ch2",
-            "time": "2024-10-19 11:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
-            "title": "輝達推新顯卡 台鏈吃補",
-            "link": "https://udn.com//news/story/7253/8301331?from=udn-catebreaknews_ch2",
-            "time": "2024-10-18 23:52"
         }
     ]
 }
