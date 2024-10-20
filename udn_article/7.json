@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/19/realtime/30745843.jpg&s=Y&x=0&y=24&sw=3500&sh=2332&exp=3600&w=300",
+            "title": "台積電財報亮眼！加權指數突破上檔壓力 周線連二紅",
+            "link": "https://udn.com//news/story/7251/8304309?from=udn-catebreaknews_ch2",
+            "time": "2024-10-20 17:55"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/20/0/30750955.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "標普、道瓊創新高 熱錢都來了？資深投資人：全球資金開始兵分2路",
             "link": "https://udn.com//news/story/12806/8304206?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "00878、00713、00929、00919、0056！ 存股哥：其他高股息ETF強勢度比不上這五檔",
             "link": "https://udn.com//news/story/123006/8303727?from=udn-catebreaknews_ch2",
             "time": "2024-10-20 11:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/20/2/30749059.jpg&s=Y&x=0&y=0&sw=1277&sh=851&exp=3600&w=300",
-            "title": "超級晶片GB200將掀AI新風潮？00905卡位 AI 供應鏈",
-            "link": "https://udn.com//news/story/123006/8303709?from=udn-catebreaknews_ch2",
-            "time": "2024-10-20 10:50"
         }
     ]
 }
