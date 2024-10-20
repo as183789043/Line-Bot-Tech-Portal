@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/20/0/30750955.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "標普、道瓊創新高 熱錢都來了？資深投資人：全球資金開始兵分2路",
+            "link": "https://udn.com//news/story/12806/8304206?from=udn-catebreaknews_ch2",
+            "time": "2024-10-20 16:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/20/2/30750237.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "經濟周報／特斯拉將公布財報 美股續創新高？",
             "link": "https://udn.com//news/story/7251/8304022?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "超級晶片GB200將掀AI新風潮？00905卡位 AI 供應鏈",
             "link": "https://udn.com//news/story/123006/8303709?from=udn-catebreaknews_ch2",
             "time": "2024-10-20 10:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/19/realtime/30745843.jpg&s=Y&x=0&y=24&sw=3500&sh=2332&exp=3600&w=300",
-            "title": "本周台股／科技股沒跟上台積衝高 AI下個利多再等1個月",
-            "link": "https://udn.com//news/story/7251/8302754?from=udn-catebreaknews_ch2",
-            "time": "2024-10-20 10:00"
         }
     ]
 }
