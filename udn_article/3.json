@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/20/realtime/30752279.jpg&s=Y&x=0&y=0&sw=2691&sh=1794&exp=3600&w=300",
+            "title": "印尼總統就任 倡中美共存",
+            "link": "https://udn.com//news/story/6809/8304746?from=udn-catebreaknews_ch2",
+            "time": "2024-10-21 01:34"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/20/realtime/30752277.jpg&s=Y&x=0&y=0&sw=5084&sh=3389&exp=3600&w=300",
+            "title": "美媒：美情報外洩 曝以將空襲伊朗",
+            "link": "https://udn.com//news/story/123777/8304744?from=udn-catebreaknews_ch2",
+            "time": "2024-10-21 01:32"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/20/realtime/30752199.jpg&s=Y&x=0&y=0&sw=3000&sh=2000&exp=3600&w=300",
             "title": "用川普曾對付拜登的策略對付他 賀錦麗60歲前夕大打年齡牌",
             "link": "https://udn.com//news/story/121777/8304671?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "不滿哈瑪斯領導人被稱為「恐怖分子」 伊拉克群眾湧沙國電視台抗議",
             "link": "https://udn.com//news/story/123777/8304626?from=udn-catebreaknews_ch2",
             "time": "2024-10-20 22:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/20/98/30752126.jpg&s=Y&x=0&y=0&sw=1253&sh=835&exp=3600&w=300",
-            "title": "利比亞男子圖謀攻擊以色列駐德使館 德國高度警惕",
-            "link": "https://udn.com//news/story/6809/8304596?from=udn-catebreaknews_ch2",
-            "time": "2024-10-20 22:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/20/98/30752067.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "烏克蘭稱夜間空襲俄羅斯多州 鎖定一座重要軍用火藥工廠",
-            "link": "https://udn.com//news/story/122663/8304577?from=udn-catebreaknews_ch2",
-            "time": "2024-10-20 22:20"
         }
     ]
 }
