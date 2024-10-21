@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/22/realtime/30758315.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "【總編開箱】新核能與舊煤電，政府不能再用幻術亂找電",
+            "link": "https://udn.com//news/story/6656/8306979?from=udn-catebreaknews_ch2",
+            "time": "2024-10-22 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/21/realtime/30754914.png&s=Y&x=0&y=8&sw=1296&sh=864&exp=3600&w=300",
             "title": "冷眼集／閣揆深夜引戰 奢談朝野和解",
             "link": "https://udn.com//news/story/123719/8306899?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "距台最近處 共軍今平潭實彈射擊",
             "link": "https://udn.com//news/story/10930/8306944?from=udn-catebreaknews_ch2",
             "time": "2024-10-22 03:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/21/realtime/30758210.jpg&s=Y&x=0&y=0&sw=2834&sh=1889&exp=3600&w=300",
-            "title": "美加軍艦20日聯袂穿越台海 陸批「滋擾攪局」",
-            "link": "https://udn.com//news/story/10930/8306941?from=udn-catebreaknews_ch2",
-            "time": "2024-10-22 03:27"
         }
     ]
 }
