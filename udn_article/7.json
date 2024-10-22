@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
+            "title": "TGI FGIDAYS代理商 開展集團延後上櫃",
+            "link": "https://udn.com//news/story/7254/8309436?from=udn-catebreaknews_ch2",
+            "time": "2024-10-23 04:52"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/14/2/30712548.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台股聚焦財報、法說會 外資敲進「AI概念股」這檔居冠！買超前10出爐",
             "link": "https://udn.com//news/story/7251/8308877?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "證交所「公開資訊觀測站」優化網頁上線 5大亮點報你知",
             "link": "https://udn.com//news/story/7251/8308731?from=udn-catebreaknews_ch2",
             "time": "2024-10-22 17:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/09/2/30688058.jpg&s=Y&x=0&y=48&sw=1280&sh=853&exp=3600&w=300",
-            "title": "Line Pay等4家公司申請股票上市 證交所董事會通過",
-            "link": "https://udn.com//news/story/7251/8308711?from=udn-catebreaknews_ch2",
-            "time": "2024-10-22 17:39"
         }
     ]
 }
