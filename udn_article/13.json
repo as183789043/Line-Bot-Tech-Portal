@@ -1,6 +1,12 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/21/draft/30754429.jpg&s=Y&x=0&y=6&sw=800&sh=532&exp=3600&w=300",
+            "title": "2024搖滾台中音樂節！眾多台日獨立樂團讓樂迷一次滿足",
+            "link": "https://udn.com//news/story/7207/8305381?from=udn-catebreaknews_ch2",
+            "time": "2024-10-22 11:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/16/105/30756515.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "不一樣的日本美食 京都北方的野味文化體驗",
             "link": "https://udn.com//news/story/9650/8294889?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "秋櫻驚豔盛開！乘山豬纜車前進九族部落花園 赴秋之盛典",
             "link": "https://udn.com//news/story/7207/8300237?from=udn-catebreaknews_ch2",
             "time": "2024-10-22 09:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/18/draft/30737064.jpg&s=Y&x=0&y=0&sw=720&sh=480&exp=3600&w=300",
-            "title": "預計2028年開業！日本星野集團前進美國紐約州開設溫泉旅館",
-            "link": "https://udn.com//news/story/7169/8299760?from=udn-catebreaknews_ch2",
-            "time": "2024-10-22 08:00"
         }
     ]
 }
