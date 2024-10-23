@@ -1,6 +1,12 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/05/0/30664362.jpg&s=Y&x=0&y=29&sw=1000&sh=667&exp=3600&w=300",
+            "title": "台中擁有五星網評的文青義式冰淇淋，每天超過15種口味，好吃又大球！",
+            "link": "https://udn.com//news/story/7207/8272899?from=udn-catebreaknews_ch2",
+            "time": "2024-10-23 16:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/23/0/30769388.jpg&s=Y&x=0&y=0&sw=1280&sh=712&exp=3600&w=300",
             "title": "林口三井OUTLET 2館今起試營運！ 為了「1大夯品」 一堆銀髮族昨冒雨夜排",
             "link": "https://udn.com//news/story/7934/8310960?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "冰淇淋買1送1！COLD STONE「酷黑Kuromi冰心捲」新登場",
             "link": "https://udn.com//news/story/7186/8310879?from=udn-catebreaknews_ch2",
             "time": "2024-10-23 15:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/23/realtime/30769105.jpg&s=Y&x=0&y=17&sw=2364&sh=1576&exp=3600&w=300",
-            "title": "一舉奪三獎！7-ELEVEN數位創新再獲國家品牌玉山獎肯定",
-            "link": "https://udn.com//news/story/7160/8310872?from=udn-catebreaknews_ch2",
-            "time": "2024-10-23 15:06"
         }
     ]
 }
