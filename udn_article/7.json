@@ -1,10 +1,22 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/16/2/30727431.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "台股下跌142點 三大法人賣超150億元",
+            "link": "https://udn.com//news/story/7251/8313532?from=udn-catebreaknews_ch2",
+            "time": "2024-10-24 15:09"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/05/98/30432119.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "台股到頂了？專家「AI利多有創高可能」：但要密切注意美大選、財報週動向",
             "link": "https://udn.com//news/story/7251/8313352?from=udn-catebreaknews_ch2",
             "time": "2024-10-24 14:21"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/24/2/30775391.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "永豐金證券耕耘再生能源領域有成 推出三檔能源生態系類股登錄興櫃",
+            "link": "https://udn.com//news/story/7254/8313365?from=udn-catebreaknews_ch2",
+            "time": "2024-10-24 14:19"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/11/2/30697693.jpg&s=Y&x=84&y=0&sw=1062&sh=708&exp=3600&w=300",
@@ -17,18 +29,6 @@
             "title": "開高殺低 台股收盤下跌142點收23,192點 台積電收平盤",
             "link": "https://udn.com//news/story/7251/8313257?from=udn-catebreaknews_ch2",
             "time": "2024-10-24 13:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/22/realtime/30764605.jpg&s=Y&x=0&y=0&sw=4322&sh=2882&exp=3600&w=300",
-            "title": "美債賣壓重、投資人慘被套...有望解套？辣媽分析「褐皮書數據」：對債市利多",
-            "link": "https://udn.com//news/story/7251/8313081?from=udn-catebreaknews_ch2",
-            "time": "2024-10-24 13:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/24/2/30774683.jpg&s=Y&x=164&y=0&sw=932&sh=621&exp=3600&w=300",
-            "title": "全景軟體上櫃掀比價效應、碳權題材發酵 這幾檔資服股飆漲停",
-            "link": "https://udn.com//news/story/7254/8313107?from=udn-catebreaknews_ch2",
-            "time": "2024-10-24 12:51"
         }
     ]
 }
