@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/25/draft/30780105.jpg&s=Y&x=0&y=0&sw=624&sh=416&exp=3600&w=300",
+            "title": "魅力執行長失敗案例多 研究：過度自信導致",
+            "link": "https://udn.com//news/story/6897/8315121?from=udn-catebreaknews_ch2",
+            "time": "2024-10-25 12:31"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/25/0/30779542.jpg&s=Y&x=0&y=0&sw=1086&sh=724&exp=3600&w=300",
             "title": "這招，讓柯瑞練成NBA神射手！「刻意玩樂」助你靠品格升級",
             "link": "https://udn.com//news/story/6837/8314958?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "感恩節人氣商品帶旺概念股",
             "link": "https://udn.com//news/story/6851/8312832?from=udn-catebreaknews_ch2",
             "time": "2024-10-24 13:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/24/draft/30773977.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "半導體景氣矛盾大對決",
-            "link": "https://udn.com//news/story/6851/8312825?from=udn-catebreaknews_ch2",
-            "time": "2024-10-24 13:44"
         }
     ]
 }
