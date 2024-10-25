@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/25/2/30784241.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "網通首家！智邦市值突破100億美元 擠進台股前30大",
+            "link": "https://udn.com//news/story/7253/8316627?from=udn-catebreaknews_ch2",
+            "time": "2024-10-25 19:49"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/24/0/30775077.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "美國重量級龍頭股財報、大選影響 台股居高震盪",
             "link": "https://udn.com//news/story/7251/8316430?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "高股息ETF時代還能存金融股？ R爸「有吃又有拿」：無法放過這種壟斷性的產業",
             "link": "https://udn.com//news/story/7252/8316061?from=udn-catebreaknews_ch2",
             "time": "2024-10-25 15:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/17/2/30732459.jpg&s=Y&x=0&y=0&sw=1256&sh=837&exp=3600&w=300",
-            "title": "台股上漲155點 三大法人買超180億元",
-            "link": "https://udn.com//news/story/7251/8316078?from=udn-catebreaknews_ch2",
-            "time": "2024-10-25 15:18"
         }
     ]
 }
