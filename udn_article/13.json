@@ -1,6 +1,12 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/21/draft/30754268.jpg&s=Y&x=0&y=6&sw=800&sh=532&exp=3600&w=300",
+            "title": "秋季旅遊新選擇！「2024海線潮旅行」體驗北高雄漁村文化",
+            "link": "https://udn.com//news/story/7209/8305312?from=udn-catebreaknews_ch2",
+            "time": "2024-10-25 10:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/22/105/30776104.jpg&s=Y&x=0&y=0&sw=1280&sh=712&exp=3600&w=300",
             "title": "穿街走巷漫遊金瓜石銀座　鑽入無招牌咖啡館品味山城美麗與哀愁",
             "link": "https://udn.com//news/story/7205/8308162?from=udn-catebreaknews_ch2",
@@ -13,22 +19,16 @@
             "time": "2024-10-25 08:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/24/realtime/30776593.jpeg&s=Y&x=0&y=15&sw=1131&sh=754&exp=3600&w=300",
-            "title": "2024「世界50大酒吧」揭曉！香港Bar Leone榮獲第二名",
-            "link": "https://udn.com//news/story/7187/8313837?from=udn-catebreaknews_ch2",
-            "time": "2024-10-24 16:57"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/24/realtime/30778058.jpg&s=Y&x=0&y=0&sw=1680&sh=1120&exp=3600&w=300",
+            "title": "7-ELEVEN攜手日本最大網購市集Mercari合作門市取貨！限時限量加贈CITY CAFE中杯熱美式1杯",
+            "link": "https://udn.com//news/story/7160/8314519?from=udn-catebreaknews_ch2",
+            "time": "2024-10-24 22:12"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/24/0/30776472.jpeg&s=Y&x=0&y=243&sw=500&sh=333&exp=3600&w=300",
-            "title": "星巴克一杯不到35元！走跳非洲6年 他評「這國」最便宜 超狂物價驚呆全網",
-            "link": "https://udn.com//news/story/7179/8313772?from=udn-catebreaknews_ch2",
-            "time": "2024-10-24 16:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/08/0/30682028.jpg&s=Y&x=0&y=0&sw=1020&sh=680&exp=3600&w=300",
-            "title": "整碗捧起來喝光光！隱藏竹東的「爆料小卷米粉」 湯頭鮮美沒話說",
-            "link": "https://udn.com//news/story/7206/8279219?from=udn-catebreaknews_ch2",
-            "time": "2024-10-24 16:29"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/23/0/30769527.jpeg&s=Y&x=4&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "台南「府城熟成大典」10/26、27登場！以市集、手作、茶席翻玩孔廟六藝",
+            "link": "https://udn.com//news/story/7934/8311062?from=udn-catebreaknews_ch2",
+            "time": "2024-10-24 22:00"
         }
     ]
 }
