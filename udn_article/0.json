@@ -1,6 +1,18 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/27/realtime/30790674.png&s=Y&x=150&y=0&sw=1614&sh=1076&exp=3600&w=300",
+            "title": "全民運開幕滂沱大雨 參與民眾怨：地上積水、雙腳泡水",
+            "link": "https://udn.com//news/story/7327/8318665?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-10-27 07:07"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/10/27/30790261.jpg&s=Y&x=0&y=0&sw=1279&sh=873&exp=3600&w=300",
+            "title": "喬治亞親俄執政黨國會選舉領先 親歐反對派抗議舞弊",
+            "link": "https://udn.com//news/story/6809/8318642?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-10-27 06:55"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/20/realtime/30752154.jpg&s=Y&x=0&y=0&sw=1133&sh=755&exp=3600&w=300",
             "title": "Fed降息、AI熱潮效應 券商複委託交易量攀峰",
             "link": "https://udn.com//news/story/7251/8318493?from=udn-ch1_breaknews-1-0-news",
@@ -17,18 +29,6 @@
             "title": "美七巨頭企業發布財報、日本眾議院選舉牽動日股",
             "link": "https://udn.com//news/story/6811/8317688?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-10-27 06:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/29/realtime/30628080.jpg&s=Y&x=0&y=10&sw=1511&sh=1006&exp=3600&w=300",
-            "title": "美科技財報概念股 鴻海、廣達、緯創等備受矚目",
-            "link": "https://udn.com//news/story/7253/8318540?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-10-27 05:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/26/1/30789652.png&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "不行使人事同意權違憲 圖解立院3案進度與黨團態度",
-            "link": "https://udn.com//news/story/7314/8318525?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-10-27 05:50"
         }
     ]
 }
