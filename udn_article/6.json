@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/27/realtime/30790016.jpg&s=Y&x=0&y=0&sw=3117&sh=2078&exp=3600&w=300",
+            "title": "台積運動會 張忠謀「一人舞台」 走完400公尺繞場",
+            "link": "https://udn.com//news/story/7240/8318594?from=udn-catebreaknews_ch2",
+            "time": "2024-10-27 00:56"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/26/realtime/30789831.jpeg&s=Y&x=0&y=0&sw=5000&sh=3384&exp=3600&w=300",
+            "title": "張忠謀：台積真正成兵家必爭之地",
+            "link": "https://udn.com//news/story/7240/8318501?from=udn-catebreaknews_ch2",
+            "time": "2024-10-27 00:46"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/26/realtime/30789823.jpg&s=Y&x=0&y=0&sw=5567&sh=3711&exp=3600&w=300",
             "title": "駐美代表處喊台灣加入IMF 美媒：希望不大",
             "link": "https://udn.com//news/story/7238/8318490?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "量子應用新紀元！量子寺生技、幸福狐狸等3家公司開幕",
             "link": "https://udn.com//news/story/7240/8318390?from=udn-catebreaknews_ch2",
             "time": "2024-10-26 21:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/26/2/30789573.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "AMD新伺服器CPU Turin搶攻市場 台供應鏈有望長期受惠",
-            "link": "https://udn.com//news/story/7240/8318387?from=udn-catebreaknews_ch2",
-            "time": "2024-10-26 21:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/26/98/30789186.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "經部修法排除綠能之列 SRF擬改適用汽電共生費率",
-            "link": "https://udn.com//news/story/7238/8318215?from=udn-catebreaknews_ch2",
-            "time": "2024-10-26 18:44"
         }
     ]
 }
