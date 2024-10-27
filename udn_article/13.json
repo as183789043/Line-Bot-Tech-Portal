@@ -1,6 +1,12 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/10/0/30693496.jpg&s=Y&x=32&y=0&sw=960&sh=640&exp=3600&w=300",
+            "title": "外帶限定！中和烤雞強店 金黃蒜香烤雞風味與眾不同，搭配餅皮、生菜吃不膩",
+            "link": "https://udn.com//news/story/7205/8283605?from=udn-catebreaknews_ch2",
+            "time": "2024-10-27 16:32"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/27/realtime/30793014.jpg&s=Y&x=0&y=0&sw=830&sh=554&exp=3600&w=300",
             "title": "2024南國漫讀節　11月大咖作家雲集，共同解碼新南國",
             "link": "https://udn.com//news/story/7160/8319355?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "一起來回憶宮崎駿！風動室內樂團2025巡演《無限》：宮崎駿動畫音樂經典再現",
             "link": "https://udn.com//news/story/7160/8317537?from=udn-catebreaknews_ch2",
             "time": "2024-10-27 14:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/27/realtime/30792521.jpg&s=Y&x=0&y=0&sw=1600&sh=1068&exp=3600&w=300",
-            "title": "煙波集團線上旅展限時12天搶購 太魯閣海景家庭房史上最低17折",
-            "link": "https://udn.com//news/story/7934/8319227?from=udn-catebreaknews_ch2",
-            "time": "2024-10-27 14:18"
         }
     ]
 }
