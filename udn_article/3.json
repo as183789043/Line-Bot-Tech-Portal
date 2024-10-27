@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/28/realtime/30795268.jpg&s=Y&x=0&y=0&sw=5500&sh=3667&exp=3600&w=300",
+            "title": "日本眾議院大選開票完成 自民黨與公明黨執政聯盟確定未過半",
+            "link": "https://udn.com//news/story/6809/8320085?from=udn-catebreaknews_ch2",
+            "time": "2024-10-28 05:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/26/realtime/30788433.jpg&s=Y&x=0&y=0&sw=930&sh=620&exp=3600&w=300",
             "title": "麥當勞成美選流量密碼 為何低薪族成兩黨搶攻目標？",
             "link": "https://udn.com//news/story/121777/8318037?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "日本眾院大選自民黨慘敗 石破茂面臨究責",
             "link": "https://udn.com//news/story/6809/8320044?from=udn-catebreaknews_ch2",
             "time": "2024-10-28 03:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/27/realtime/30794545.jpg&s=Y&x=0&y=0&sw=1133&sh=756&exp=3600&w=300",
-            "title": "日國會選舉 執政黨過不了半",
-            "link": "https://udn.com//news/story/6809/8319907?from=udn-catebreaknews_ch2",
-            "time": "2024-10-28 03:00"
         }
     ]
 }
