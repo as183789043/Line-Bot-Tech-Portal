@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/26/realtime/30788769.jpg&s=Y&x=0&y=0&sw=799&sh=533&exp=3600&w=300",
+            "title": "本周台股／股市觀望濃 風險市場除美大選外在等什麼？",
+            "link": "https://udn.com//news/story/7251/8318145?from=udn-catebreaknews_ch2",
+            "time": "2024-10-27 10:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/27/98/30791116.jpg&s=Y&x=0&y=0&sw=799&sh=533&exp=3600&w=300",
+            "title": "台灣航空四雄上市到齊 2025年客貨運展望樂觀",
+            "link": "https://udn.com//news/story/7251/8318743?from=udn-catebreaknews_ch2",
+            "time": "2024-10-27 09:42"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/25/0/30781919.jpg&s=Y&x=0&y=0&sw=1268&sh=845&exp=3600&w=300",
             "title": "0050掛牌開始買 20餘年獲利600%！開瑪莎拉蒂聞名周教授親揭「無招勝有招」ETF標的",
             "link": "https://udn.com//news/story/123006/8315630?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "星宇航空(2646)上市首日衝29.95元、中籤的暴賺5成！掛興櫃曾上50.5元 這次繼續抱？",
             "link": "https://udn.com//news/story/7251/8315631?from=udn-catebreaknews_ch2",
             "time": "2024-10-27 06:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/29/realtime/30628080.jpg&s=Y&x=0&y=10&sw=1511&sh=1006&exp=3600&w=300",
-            "title": "美科技財報概念股 鴻海、廣達、緯創等備受矚目",
-            "link": "https://udn.com//news/story/7253/8318540?from=udn-catebreaknews_ch2",
-            "time": "2024-10-27 05:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
-            "title": "美股超級財報周 牽動台股",
-            "link": "https://udn.com//news/story/7251/8318529?from=udn-catebreaknews_ch2",
-            "time": "2024-10-27 02:03"
         }
     ]
 }
