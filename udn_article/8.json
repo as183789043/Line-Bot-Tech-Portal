@@ -1,14 +1,20 @@
 {
     "生活": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/29/realtime/30801796.jpg&s=Y&x=0&y=8&sw=1210&sh=806&exp=3600&w=300",
+            "title": "康芮颱風預報分兩群 影響大不同 專家：AI修正非天下無敵",
+            "link": "https://udn.com//news/story/7266/8322453?from=udn-catebreaknews_ch2",
+            "time": "2024-10-29 07:05"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_0.jpg&w=300",
             "title": "一句好話",
             "link": "https://udn.com//news/story/7272/8298925?from=udn-catebreaknews_ch2",
             "time": "2024-10-29 06:05"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/29/realtime/30801624.png&s=Y&x=94&y=0&sw=366&sh=244&exp=3600&w=300",
-            "title": "康芮將達中颱上限「嚴重威脅」 吳德榮：登陸機率高 嚴防暴風致災雨",
+            "title": "康芮將達中颱上限「嚴重威脅」 吳德榮：周四登陸機率高 防致災風雨",
             "link": "https://udn.com//news/story/124252/8322407?from=udn-catebreaknews_ch2",
             "time": "2024-10-29 05:59"
         },
@@ -23,12 +29,6 @@
             "title": "康芮凌晨升格中颱持續進逼 最新路徑曝光 氣象署豪雨特報",
             "link": "https://udn.com//news/story/124252/8322401?from=udn-catebreaknews_ch2",
             "time": "2024-10-29 05:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_2.jpg&w=300",
-            "title": "澎湖海膽、巴西蘑菇 鎘超標",
-            "link": "https://udn.com//news/story/7266/8322139?from=udn-catebreaknews_ch2",
-            "time": "2024-10-29 01:32"
         }
     ]
 }
