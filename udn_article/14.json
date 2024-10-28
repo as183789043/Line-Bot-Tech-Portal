@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/28/draft/30795901.jpg&s=Y&x=0&y=0&sw=799&sh=533&exp=3600&w=300",
+            "title": "拯救日本米 科學家修改越光米 DNA",
+            "link": "https://udn.com//news/story/6897/8320207?from=udn-catebreaknews_ch2",
+            "time": "2024-10-28 15:16"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/28/0/30797865.jpg&s=Y&x=36&y=32&sw=1213&sh=809&exp=3600&w=300",
             "title": "有想像力的魔鬼VS.近乎白痴的天使 口袋證券董座：365天思考實驗法提升創新力",
             "link": "https://udn.com//news/story/6839/8320896?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "劉佩真：台積電海內外積極設廠 進入「埃米世代」 立足台灣 新竹與高雄成為2奈米生產基地",
             "link": "https://udn.com//news/story/6859/8315299?from=udn-catebreaknews_ch2",
             "time": "2024-10-27 15:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/18/realtime/30547401.jpg&s=Y&x=0&y=30&sw=4000&sh=2666&exp=3600&w=300",
-            "title": "保戶如何應對實支實付新制？",
-            "link": "https://udn.com//news/story/6854/8314621?from=udn-catebreaknews_ch2",
-            "time": "2024-10-27 15:44"
         }
     ]
 }
