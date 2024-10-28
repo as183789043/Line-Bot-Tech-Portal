@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/21/realtime/30757886.jpg&s=Y&x=0&y=0&sw=1889&sh=1248&exp=3600&w=300",
+            "title": "這檔生技股今年來飆漲466% 若抽中增資股可賺16.2萬元",
+            "link": "https://udn.com//news/story/7251/8321156?from=udn-catebreaknews_ch2",
+            "time": "2024-10-28 15:01"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/28/realtime/30798154.jpg&s=Y&x=56&y=0&sw=606&sh=405&exp=3600&w=300",
+            "title": "ETF 熱潮下的明燈 凱基證券專業 ETF 顧問滿足客戶需求",
+            "link": "https://udn.com//news/story/123006/8321053?from=udn-catebreaknews_ch2",
+            "time": "2024-10-28 14:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/28/realtime/30798120.jpg&s=Y&x=298&y=0&sw=213&sh=142&exp=3600&w=300",
             "title": "雙十一節奏響起！兆豐投信力拚多重息收題材 11月11日起開募",
             "link": "https://udn.com//news/story/7251/8321039?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "美國公債利率為何持續走揚？辣媽歸納原因：市場擔心川普當選恐通膨再起",
             "link": "https://udn.com//news/story/7251/8320950?from=udn-catebreaknews_ch2",
             "time": "2024-10-28 13:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/16/2/30528494.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "台股紅翻黑跌150點收23,198點 台積電跌15元",
-            "link": "https://udn.com//news/story/7251/8320958?from=udn-catebreaknews_ch2",
-            "time": "2024-10-28 13:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/28/2/30798004.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "迎雙11購物節大檔 這3檔先飆漲停",
-            "link": "https://udn.com//news/story/7251/8320932?from=udn-catebreaknews_ch2",
-            "time": "2024-10-28 13:37"
         }
     ]
 }
