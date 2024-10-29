@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/29/realtime/30805763.jpg&s=Y&x=0&y=136&sw=1213&sh=809&exp=3600&w=300",
+            "title": "智原第3季每股純益1.01元 先進封裝專案本季貢獻營收",
+            "link": "https://udn.com//news/story/7253/8324008?from=udn-catebreaknews_ch2",
+            "time": "2024-10-29 17:04"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/26/2/30336381.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "群創財報／第3季EPS 0.05元 第4季電視面板需求有撐",
+            "link": "https://udn.com//news/story/7253/8323867?from=udn-catebreaknews_ch2",
+            "time": "2024-10-29 16:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/29/0/30805166.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "低本金股市小白買台股 網推走「爆擊流」：只要1、2檔就能打出倍數獲利",
             "link": "https://udn.com//news/story/12806/8323759?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "大盤高檔拉回 台股ETF受益人數續朝千萬大關邁進",
             "link": "https://udn.com//news/story/123006/8323764?from=udn-catebreaknews_ch2",
             "time": "2024-10-29 15:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/29/realtime/30805133.jpg&s=Y&x=292&y=0&sw=4152&sh=2768&exp=3600&w=300",
-            "title": "半導體後段測試龍頭鴻勁 31日以每股559元登錄興櫃",
-            "link": "https://udn.com//news/story/7254/8323743?from=udn-catebreaknews_ch2",
-            "time": "2024-10-29 15:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/29/realtime/30805061.jpg&s=Y&x=0&y=144&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "銳澤競拍加權平均得標價格154.93元 超額認購12.14倍",
-            "link": "https://udn.com//news/story/7254/8323719?from=udn-catebreaknews_ch2",
-            "time": "2024-10-29 15:28"
         }
     ]
 }
