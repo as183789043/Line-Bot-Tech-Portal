@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/31/98/30815269.jpg&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
+            "title": "北韓疑似發射彈道飛彈 今年第12次",
+            "link": "https://udn.com//news/story/6809/8327910?from=udn-catebreaknews_ch2",
+            "time": "2024-10-31 07:06"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/30/0/30811008.jpg&s=Y&x=0&y=0&sw=1202&sh=801&exp=3600&w=300",
             "title": " 美國總統大選戰況膠著「中東問題」影響關鍵投票！搖擺州眾多移民等著看",
             "link": "https://udn.com//news/story/121777/8326118?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2024-10-31 04:56"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
             "title": "美陸軍轉型 把中國大陸當假想敵",
             "link": "https://udn.com//news/story/6813/8327623?from=udn-catebreaknews_ch2",
             "time": "2024-10-31 03:47"
@@ -23,12 +29,6 @@
             "title": "西班牙暴雨 洪災至少64死",
             "link": "https://udn.com//news/story/6809/8327634?from=udn-catebreaknews_ch2",
             "time": "2024-10-31 03:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/30/realtime/30810977.jpg&s=Y&x=150&y=0&sw=1620&sh=1080&exp=3600&w=300",
-            "title": "北韓才出兵援俄 俄副外長見王毅",
-            "link": "https://udn.com//news/story/122663/8327606?from=udn-catebreaknews_ch2",
-            "time": "2024-10-31 03:37"
         }
     ]
 }
