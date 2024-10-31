@@ -1,13 +1,25 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/30/2/30807534.jpg&s=Y&x=0&y=0&sw=1268&sh=845&exp=3600&w=300",
+            "title": "他怨00929「股價跌、配息降」是高股息通病？反被酸大驚小怪",
+            "link": "https://udn.com//news/story/123006/8326442?from=udn-catebreaknews_ch2",
+            "time": "2024-10-31 12:16"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/23/realtime/30771518.jpg&s=Y&x=0&y=25&sw=3708&sh=2472&exp=3600&w=300",
+            "title": "他買00679B、00688L慘賠⋯哭問：美債怎麼了？網揪賠錢關鍵",
+            "link": "https://udn.com//news/story/123006/8326398?from=udn-catebreaknews_ch2",
+            "time": "2024-10-31 11:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/28/0/30796998.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "若連最穩的00878也股利縮水怎辦？ 艾蜜莉：高股息ETF長期5-6％殖利率比較合理",
             "link": "https://udn.com//news/story/123006/8328101?from=udn-catebreaknews_ch2",
             "time": "2024-10-31 10:05"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
             "title": "南僑子公司 申請登興櫃",
             "link": "https://udn.com//news/story/7252/8327614?from=udn-catebreaknews_ch2",
             "time": "2024-10-31 06:02"
@@ -17,18 +29,6 @@
             "title": "當沖降稅延長 保留送協商",
             "link": "https://udn.com//news/story/7251/8327669?from=udn-catebreaknews_ch2",
             "time": "2024-10-31 05:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
-            "title": "複委託買比特幣ETF 有影",
-            "link": "https://udn.com//news/story/123006/8327489?from=udn-catebreaknews_ch2",
-            "time": "2024-10-31 00:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/06/98/30666619.jpg&s=Y&x=0&y=0&sw=944&sh=629&exp=3600&w=300",
-            "title": "台股紅翻黑 外資提款權值股",
-            "link": "https://udn.com//news/story/7251/8327605?from=udn-catebreaknews_ch2",
-            "time": "2024-10-31 00:43"
         }
     ]
 }
