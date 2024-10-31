@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/0/30663804.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "食品價格上漲 歐元區10月通膨率彈升超乎預期",
+            "link": "https://udn.com//news/story/6811/8329690?from=udn-catebreaknews_ch2",
+            "time": "2024-10-31 21:16"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/16/2/30727517.jpg&s=Y&x=0&y=0&sw=1175&sh=783&exp=3600&w=300",
+            "title": "美9月PCE通膨指數年增率趨緩至2.1% 接近Fed目標",
+            "link": "https://udn.com//news/story/6811/8329689?from=udn-catebreaknews_ch2",
+            "time": "2024-10-31 21:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/31/realtime/30819996.jpg&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
+            "title": "真天價！俄羅斯法院判罰谷歌「2後面跟了36個零」的盧布",
+            "link": "https://udn.com//news/story/6811/8329666?from=udn-catebreaknews_ch2",
+            "time": "2024-10-31 20:56"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/18/realtime/30740055.png&s=Y&x=0&y=0&sw=3786&sh=2524&exp=3600&w=300",
             "title": "誰當選立場都一樣 紐時：白宮新主人對中國「鷹派」",
             "link": "https://udn.com//news/story/121777/8329575?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "經濟學人：賀錦麗勝率上升6個百分點 與川普平分秋色",
             "link": "https://udn.com//news/story/121777/8329547?from=udn-catebreaknews_ch2",
             "time": "2024-10-31 20:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/15/0/30774050.jpg&s=Y&x=0&y=0&sw=792&sh=528&exp=3600&w=300",
-            "title": "中國留學生謊稱美國公民 總統大選投票後被拘留",
-            "link": "https://udn.com//news/story/121777/8329519?from=udn-catebreaknews_ch2",
-            "time": "2024-10-31 20:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/25/0/30784299.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "阿根廷總統重申親美路線 因聯合國投票立場撤換外長",
-            "link": "https://udn.com//news/story/6809/8329504?from=udn-catebreaknews_ch2",
-            "time": "2024-10-31 19:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/31/realtime/30816473.jpg&s=Y&x=0&y=0&sw=3500&sh=2292&exp=3600&w=300",
-            "title": "中國電商Temu疑涉販售非法商品 歐盟立案調查",
-            "link": "https://udn.com//news/story/6811/8329477?from=udn-catebreaknews_ch2",
-            "time": "2024-10-31 19:42"
         }
     ]
 }
