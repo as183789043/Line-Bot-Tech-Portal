@@ -1,8 +1,20 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/01/realtime/30820747.jpg&s=Y&x=310&y=0&sw=1287&sh=858&exp=3600&w=300",
+            "title": "康芮來襲災情頻傳 北市今1校停課、1校遠距",
+            "link": "https://udn.com//news/story/124252/8330111?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-11-01 00:36"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/01/realtime/30820743.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
+            "title": "凌晨0時18分花蓮近海規模5.5地震 最大震度4級",
+            "link": "https://udn.com//news/story/7266/8330109?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-11-01 00:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/01/realtime/30820672.jpg&s=Y&x=0&y=0&sw=5319&sh=3467&exp=3600&w=300",
-            "title": "大巨蛋明年中職場次腰斬？北市體育局籲遠雄：應體育賽事優先",
+            "title": "中職／大巨蛋明年場次腰斬？北市體育局籲遠雄：應體育賽事優先",
             "link": "https://udn.com//news/story/7001/8330098?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-11-01 00:08"
         },
@@ -17,18 +29,6 @@
             "title": "收到教召訊息卻不理不睬 後備軍人判60天",
             "link": "https://udn.com//news/story/7321/8330051?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-10-31 23:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/31/realtime/30820543.jpg&s=Y&x=100&y=0&sw=1080&sh=720&exp=3600&w=300",
-            "title": "颱風出海台電急修 因應上班課將優先修交通、學校用電",
-            "link": "https://udn.com//news/story/124258/8330045?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-10-31 23:38"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/31/realtime/30820469.jpg&s=Y&x=212&y=0&sw=2304&sh=1536&exp=3600&w=300",
-            "title": "康芮強風肆虐 蘆洲大樓牆面高處墜落砸車",
-            "link": "https://udn.com//news/story/124258/8330000?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-10-31 23:25"
         }
     ]
 }
