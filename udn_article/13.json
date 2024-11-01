@@ -1,6 +1,18 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/01/realtime/30824929.jpg&s=Y&x=0&y=300&sw=1089&sh=726&exp=3600&w=300",
+            "title": "ITF旅展飯店開紅盤！ 老爺千萬刷手現身、晶華排隊一公里",
+            "link": "https://udn.com//news/story/8714/8331506?from=udn-catebreaknews_ch2",
+            "time": "2024-11-01 15:32"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/01/realtime/30824880.jpeg&s=Y&x=0&y=0&sw=1814&sh=1210&exp=3600&w=300",
+            "title": "2024 ITF台北國際旅展開幕 華航出發航線75折起",
+            "link": "https://udn.com//news/story/8714/8331493?from=udn-catebreaknews_ch2",
+            "time": "2024-11-01 15:26"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/01/realtime/30824401.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
             "title": "澎湖首家「MUJI無印良品」進駐全聯！人氣必買商品曝光　期間限定滿額送限量「黃麻購物袋」",
             "link": "https://udn.com//news/story/7934/8331369?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2024-11-01 14:19"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/01/realtime/30824173.png&s=Y&x=0&y=7&sw=960&sh=640&exp=3600&w=300",
-            "title": "遊日本掃PayPay付款再多一家！一卡通iPASS MONEY限時享最高50%回饋",
-            "link": "https://udn.com//news/story/9650/8331243?from=udn-catebreaknews_ch2",
-            "time": "2024-11-01 14:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/01/realtime/30824146.jpg&s=Y&x=0&y=520&sw=4228&sh=2819&exp=3600&w=300",
-            "title": "顛覆想像！屈臣氏「天天美麗美食面膜系列」推牛肉麵、珍珠奶茶、藥膳排骨面膜",
-            "link": "https://udn.com//news/story/7160/8331234?from=udn-catebreaknews_ch2",
-            "time": "2024-11-01 14:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/10/0/30693774.jpg&s=Y&x=0&y=0&sw=1200&sh=801&exp=3600&w=300",
-            "title": "超大鍋一隻雞！ 土城「初 韓式鍋物料理」7種湯頭、5款套餐、3尺寸浮誇海鮮桶超新鮮 連生醃料理都有",
-            "link": "https://udn.com//news/story/7205/8283679?from=udn-catebreaknews_ch2",
-            "time": "2024-11-01 14:00"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/01/realtime/30824256.jpg&s=Y&x=0&y=27&sw=3888&sh=2592&exp=3600&w=300",
+            "title": "全台唯一波波屋「波希謐境」開箱！打造最綠野奢露營",
+            "link": "https://udn.com//news/story/7207/8331296?from=udn-catebreaknews_ch2",
+            "time": "2024-11-01 14:19"
         }
     ]
 }
