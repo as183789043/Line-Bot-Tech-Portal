@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/01/0/30821718.jpg&s=Y&x=4&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "川真懂如何抗中？賀跟拜登不合？9本書讀懂美國大選",
+            "link": "https://udn.com//news/story/6837/8330302?from=udn-catebreaknews_ch2",
+            "time": "2024-11-01 08:45"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/01/0/30821699.jpg&s=Y&x=12&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "聯準會降息 美債價格反而跌？景氣太好竟釀債市大亂流",
+            "link": "https://udn.com//news/story/6837/8330291?from=udn-catebreaknews_ch2",
+            "time": "2024-11-01 08:43"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/30/draft/30809934.jpg&s=Y&x=117&y=0&sw=883&sh=589&exp=3600&w=300",
             "title": "台積電效應發威！3千台人長居熊本 日年獲利近32億...玉山、中信等台資銀行如何搶客？",
             "link": "https://udn.com//news/story/6839/8325634?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "電視晶片大廠晨星創辦人回來了！他10年磨一劍 使驅動IC大廠奕力下市後再度IPO",
             "link": "https://udn.com//news/story/6839/8325601?from=udn-catebreaknews_ch2",
             "time": "2024-10-30 13:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/30/draft/30809809.jpg&s=Y&x=117&y=0&sw=883&sh=589&exp=3600&w=300",
-            "title": "台灣央行「印鈔」比美狂！為何政府打炒房注定失敗？央行前副總裁揭真相",
-            "link": "https://udn.com//news/story/6839/8325599?from=udn-catebreaknews_ch2",
-            "time": "2024-10-30 13:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/30/0/30809606.jpg&s=Y&x=0&y=72&sw=1280&sh=853&exp=3600&w=300",
-            "title": "「被披薩耽誤的炸雞店」拿坡里炸雞要改名「三商炸雞」：高層沒人阻止？三商餐飲曝原因",
-            "link": "https://udn.com//news/story/6839/8325467?from=udn-catebreaknews_ch2",
-            "time": "2024-10-30 11:12"
         }
     ]
 }
