@@ -1,7 +1,25 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
+            "title": "聯合國教科文組織：記者遇害事件激增",
+            "link": "https://udn.com//news/story/6809/8333994?from=udn-catebreaknews_ch2",
+            "time": "2024-11-03 06:24"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
+            "title": "華盛頓州動用國民警衛隊 預防大選騷亂",
+            "link": "https://udn.com//news/story/121777/8334023?from=udn-catebreaknews_ch2",
+            "time": "2024-11-03 06:24"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/03/4/30832975.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "搖擺州解析／威州開票恐慢 民主黨議員為搶關鍵席向川普靠攏",
+            "link": "https://udn.com//news/story/121777/8334100?from=udn-catebreaknews_ch2",
+            "time": "2024-11-03 06:18"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
             "title": "航母將空窗 美增派機艦赴中東",
             "link": "https://udn.com//news/story/123777/8333968?from=udn-catebreaknews_ch2",
             "time": "2024-11-03 05:59"
@@ -11,24 +29,6 @@
             "title": "聯合國生物多樣大會 財源協商卡關",
             "link": "https://udn.com//news/story/6809/8333973?from=udn-catebreaknews_ch2",
             "time": "2024-11-03 05:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/15/0/30830665.jpg&s=Y&x=100&y=128&sw=1087&sh=725&exp=3600&w=300",
-            "title": "搶華裔票 賀錦麗：排華是黑暗歷史",
-            "link": "https://udn.com//news/story/121777/8333962?from=udn-catebreaknews_ch2",
-            "time": "2024-11-03 05:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
-            "title": "道瓊指數剔除英特爾 納入輝達",
-            "link": "https://udn.com//news/story/6811/8333953?from=udn-catebreaknews_ch2",
-            "time": "2024-11-03 05:38"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/02/realtime/30832171.jpg&s=Y&x=0&y=0&sw=3400&sh=2267&exp=3600&w=300",
-            "title": "選前超級周末 川普、賀錦麗決戰搖擺州",
-            "link": "https://udn.com//news/story/121777/8333993?from=udn-catebreaknews_ch2",
-            "time": "2024-11-03 05:28"
         }
     ]
 }
