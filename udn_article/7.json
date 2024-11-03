@@ -1,7 +1,19 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/02/2/30827400.jpg&s=Y&x=0&y=0&sw=944&sh=629&exp=3600&w=300",
+            "title": "美大選結果、Fed決策 台股雙挑戰推演三劇本",
+            "link": "https://udn.com//news/story/7251/8335311?from=udn-catebreaknews_ch2",
+            "time": "2024-11-04 06:20"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/28/98/30796732.jpg&s=Y&x=0&y=0&sw=1241&sh=827&exp=3600&w=300",
+            "title": "銀行減碼台股連三月砍殺 金融三業前九月賣股4,553億",
+            "link": "https://udn.com//news/story/7251/8335331?from=udn-catebreaknews_ch2",
+            "time": "2024-11-04 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
             "title": "南電10月營收26億元 近八月最低",
             "link": "https://udn.com//news/story/7253/8335034?from=udn-catebreaknews_ch2",
             "time": "2024-11-04 05:44"
@@ -13,22 +25,10 @@
             "time": "2024-11-04 05:44"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
             "title": "國泰、新光金Q3大買台積電",
             "link": "https://udn.com//news/story/7251/8335334?from=udn-catebreaknews_ch2",
             "time": "2024-11-04 02:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
-            "title": "法人：輝達概念股 可低接",
-            "link": "https://udn.com//news/story/7251/8335339?from=udn-catebreaknews_ch2",
-            "time": "2024-11-04 02:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
-            "title": "日月光大摩評等 維持優於大盤",
-            "link": "https://udn.com//news/story/7253/8335258?from=udn-catebreaknews_ch2",
-            "time": "2024-11-04 02:35"
         }
     ]
 }

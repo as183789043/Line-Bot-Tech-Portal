@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/04/realtime/30837641.jpg&s=Y&x=99&y=0&sw=3036&sh=2025&exp=3600&w=300",
+            "title": "本周開盤前 五件國際事不可不知",
+            "link": "https://udn.com//news/story/6811/8335548?from=udn-catebreaknews_ch2",
+            "time": "2024-11-04 07:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/01/realtime/30822463.jpg&s=Y&x=0&y=0&sw=5900&sh=3926&exp=3600&w=300",
+            "title": "美國大選結果將揭曉 8圖表看搖擺州投票可能戰果",
+            "link": "https://udn.com//news/story/6809/8330545?from=udn-catebreaknews_ch2",
+            "time": "2024-11-04 07:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/11/03/30833212.jpg&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600&w=300",
             "title": "賀錦麗已郵寄投票 與川普搖擺州分別最後催票",
             "link": "https://udn.com//news/story/121777/8335500?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "選情膠著民調藏變數 3大關鍵選民恐左右美大選",
             "link": "https://udn.com//news/story/124068/8333337?from=udn-catebreaknews_ch2",
             "time": "2024-11-04 05:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
-            "title": "全球市場震盪 面臨4大考驗",
-            "link": "https://udn.com//news/story/6811/8335396?from=udn-catebreaknews_ch2",
-            "time": "2024-11-04 04:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/10/realtime/30481550.jpg&s=Y&x=0&y=0&sw=5039&sh=3359&exp=3600&w=300",
-            "title": "共和黨擬廢晶片法？眾院議長改口",
-            "link": "https://udn.com//news/story/121777/8335326?from=udn-catebreaknews_ch2",
-            "time": "2024-11-04 03:26"
         }
     ]
 }
