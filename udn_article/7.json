@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/01/02/98/28640211.jpg&s=Y&x=0&y=0&sw=1187&sh=791&exp=3600&w=300",
+            "title": "美國大選及Fed開會前夕 外資加速賣超新興亞股",
+            "link": "https://udn.com//news/story/7251/8337312?from=udn-catebreaknews_ch2",
+            "time": "2024-11-04 19:57"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/04/realtime/30842029.png&s=Y&x=75&y=0&sw=1671&sh=1114&exp=3600&w=300",
             "title": "華研財報／演唱會經濟熱！前三季大賺9.63元 創同期新高",
             "link": "https://udn.com//news/story/7254/8337183?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "00878四次配息加總2.01元…這次維持0.55！ 達人：穩定沒大起大落的狀況",
             "link": "https://udn.com//news/story/123006/8336642?from=udn-catebreaknews_ch2",
             "time": "2024-11-04 15:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/30/2/30807534.jpg&s=Y&x=0&y=0&sw=1268&sh=845&exp=3600&w=300",
-            "title": "台股上漲185點 三大法人賣超37.06億元",
-            "link": "https://udn.com//news/story/7251/8336631?from=udn-catebreaknews_ch2",
-            "time": "2024-11-04 15:12"
         }
     ]
 }
