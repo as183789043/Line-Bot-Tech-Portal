@@ -1,10 +1,22 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/05/realtime/30848041.jpg&s=Y&x=0&y=0&sw=8256&sh=5504&exp=3600&w=300",
+            "title": "東區周年慶大戰 新光三越DIAMOND TOWERS首度對上SOGO",
+            "link": "https://udn.com//news/story/7160/8339582?from=udn-catebreaknews_ch2",
+            "time": "2024-11-05 17:39"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/05/0/30846694.jpg&s=Y&x=0&y=0&sw=1280&sh=712&exp=3600&w=300",
             "title": "台灣也喝得到！ 「鮮茶道x艾嘉食堂」聯名系列冬瓜飲　超Chill「明星特調」海島風味搶鮮喝 ",
             "link": "https://udn.com//news/story/7186/8339080?from=udn-catebreaknews_ch2",
             "time": "2024-11-05 17:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/05/realtime/30847749.jpg&s=Y&x=0&y=0&sw=2735&sh=1771&exp=3600&w=300",
+            "title": "北北基宜4縣市大雨特報 恐一路下到明天上午",
+            "link": "https://udn.com//news/story/7934/8339415?from=udn-catebreaknews_ch2",
+            "time": "2024-11-05 16:49"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/05/realtime/30847629.jpg&s=Y&x=0&y=148&sw=2293&sh=1529&exp=3600&w=300",
@@ -17,18 +29,6 @@
             "title": "春節連假都適用！國聯飯店限時8天 客房超值價2,888元",
             "link": "https://udn.com//news/story/7934/8339351?from=udn-catebreaknews_ch2",
             "time": "2024-11-05 16:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/13/0/30845351.jpg&s=Y&x=0&y=0&sw=1280&sh=712&exp=3600&w=300",
-            "title": "台南美食界小清新！中西區傳統古早味 「香菇飯湯」令人意猶未盡",
-            "link": "https://udn.com//news/story/7208/8288712?from=udn-catebreaknews_ch2",
-            "time": "2024-11-05 16:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/05/realtime/30847478.jpg&s=Y&x=0&y=26&sw=3562&sh=2374&exp=3600&w=300",
-            "title": "蝦皮購物「11.11最強購物節」最狂上菜！「跨界整合、配速升級、聯盟行銷」3大指標驅動消費熱潮",
-            "link": "https://udn.com//news/story/7160/8339338?from=udn-catebreaknews_ch2",
-            "time": "2024-11-05 16:21"
         }
     ]
 }
