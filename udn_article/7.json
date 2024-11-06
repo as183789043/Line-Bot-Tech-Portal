@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/06/2/30854838.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "聯電營收／10月213.71億元 月增12.82%、年增11.36%",
+            "link": "https://udn.com//news/story/7253/8342240?from=udn-catebreaknews_ch2",
+            "time": "2024-11-06 17:10"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/06/2/30854847.jpg&s=Y&x=44&y=0&sw=1218&sh=812&exp=3600&w=300",
+            "title": "川普當選台股也會漲？分析師曝5理由看好年底有望創高",
+            "link": "https://udn.com//news/story/7251/8342238?from=udn-catebreaknews_ch2",
+            "time": "2024-11-06 17:09"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/06/98/30854650.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "川普發表勝選談話 法人：美股台股均將回歸基本面",
+            "link": "https://udn.com//news/story/7251/8342118?from=udn-catebreaknews_ch2",
+            "time": "2024-11-06 16:53"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/06/2/30854336.jpg&s=Y&x=0&y=0&sw=1266&sh=844&exp=3600&w=300",
             "title": "美國大選川普一路領先！比特幣噴漲 撼訊飆漲停領軍概念股同慶",
             "link": "https://udn.com//news/story/7251/8342035?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "大摩按讚奏效！股價上演大反攻 世芯6日漲停亮燈",
             "link": "https://udn.com//news/story/7251/8341997?from=udn-catebreaknews_ch2",
             "time": "2024-11-06 15:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/06/2/30854206.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "玉山金法說會／第3季獲利再創新高 海外分行獲利居國銀前3名",
-            "link": "https://udn.com//news/story/7252/8341982?from=udn-catebreaknews_ch2",
-            "time": "2024-11-06 15:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/06/2/30854063.jpg&s=Y&x=0&y=32&sw=1280&sh=853&exp=3600&w=300",
-            "title": "滿足投資人多元化需求 證交所開放認股借貸、11日起上路",
-            "link": "https://udn.com//news/story/7251/8341957?from=udn-catebreaknews_ch2",
-            "time": "2024-11-06 15:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/17/2/30730616.jpg&s=Y&x=0&y=0&sw=1268&sh=845&exp=3600&w=300",
-            "title": "台股上漲110點 三大法人賣超38.96億元",
-            "link": "https://udn.com//news/story/7251/8341879?from=udn-catebreaknews_ch2",
-            "time": "2024-11-06 15:16"
         }
     ]
 }
