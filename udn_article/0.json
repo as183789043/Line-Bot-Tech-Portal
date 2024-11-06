@@ -1,6 +1,12 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/07/realtime/30856835.jpeg&s=Y&x=0&y=25&sw=3024&sh=2016&exp=3600&w=300",
+            "title": "高雄三民區大樓店面凌晨竄火夫妻命危送醫 3樓再救出1人",
+            "link": "https://udn.com//news/story/7320/8343245?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-11-07 02:43"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/07/realtime/30856800.jpg&s=Y&x=0&y=40&sw=3024&sh=2016&exp=3600&w=300",
             "title": "高雄三民區大樓凌晨火警 屋內救出命危夫妻檔送醫",
             "link": "https://udn.com//news/story/7320/8343240?from=udn-ch1_breaknews-1-0-news",
@@ -23,12 +29,6 @@
             "title": "花蓮凌晨連兩震…規模5.5及4.1 最大震度4級",
             "link": "https://udn.com//news/story/7266/8343226?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-11-07 01:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/06/realtime/30856450.png&s=Y&x=0&y=11&sw=1667&sh=1110&exp=3600&w=300",
-            "title": "川普重返白宮 圖解美總統大選開票 7搖擺州共和黨全拿",
-            "link": "https://udn.com//news/story/7314/8343180?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-11-07 01:30"
         }
     ]
 }
