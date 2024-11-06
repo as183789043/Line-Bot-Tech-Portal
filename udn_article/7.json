@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/06/realtime/30855970.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "耕興Q3 EPS 3.10元 前三季EPS 9.76元",
+            "link": "https://udn.com//news/story/7254/8342810?from=udn-catebreaknews_ch2",
+            "time": "2024-11-06 21:20"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/06/realtime/30855962.jpg&s=Y&x=0&y=26&sw=3649&sh=2432&exp=3600&w=300",
+            "title": "川普重返白宮 投信業者：掌握股市潛在投資機會",
+            "link": "https://udn.com//news/story/7251/8342805?from=udn-catebreaknews_ch2",
+            "time": "2024-11-06 21:18"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/06/realtime/30855966.jpg&s=Y&x=0&y=30&sw=2988&sh=1992&exp=3600&w=300",
+            "title": "家登Q3 EPS 4.39元歷史次高  全年營收衝百億元",
+            "link": "https://udn.com//news/story/7254/8342808?from=udn-catebreaknews_ch2",
+            "time": "2024-11-06 21:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/06/2/30855811.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "將成市場黑馬？ 川普勝選 台股這檔ETF單日飆漲逾6%",
             "link": "https://udn.com//news/story/123006/8342689?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "聯詠前三季每股純益25.54元 本季營收估季減逾一成",
             "link": "https://udn.com//news/story/7253/8342611?from=udn-catebreaknews_ch2",
             "time": "2024-11-06 19:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/06/realtime/30855536.jpg&s=Y&x=0&y=11&sw=1390&sh=926&exp=3600&w=300",
-            "title": "搶好康！台灣虎航暫定承銷價40元 中籤每張現賺近2.6萬元",
-            "link": "https://udn.com//news/story/7252/8342527?from=udn-catebreaknews_ch2",
-            "time": "2024-11-06 18:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/06/98/30855046.jpg&s=Y&x=48&y=0&sw=1142&sh=761&exp=3600&w=300",
-            "title": "外資賣超20億元 減碼台積電7740張排第9",
-            "link": "https://udn.com//news/story/7251/8342188?from=udn-catebreaknews_ch2",
-            "time": "2024-11-06 18:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/06/realtime/30855182.jpg&s=Y&x=0&y=180&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "佳世達法說會／看好第4季營運優於第3季 明年優於今年",
-            "link": "https://udn.com//news/story/7252/8342388?from=udn-catebreaknews_ch2",
-            "time": "2024-11-06 18:00"
         }
     ]
 }
