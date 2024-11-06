@@ -1,6 +1,18 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/10/24/30775245.jpg&s=Y&x=0&y=0&sw=799&sh=532&exp=3600&w=300",
+            "title": "路透：賀錦麗已致電恭賀川普勝選 討論和平轉移政權",
+            "link": "https://udn.com//news/story/121777/8343254?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-11-07 03:27"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/07/realtime/30856873.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "高雄大樓火警釀3死2傷 夫死、母子重傷另2死者身分待查",
+            "link": "https://udn.com//news/story/7320/8343255?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-11-07 03:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/07/realtime/30856835.jpeg&s=Y&x=0&y=25&sw=3024&sh=2016&exp=3600&w=300",
             "title": "高雄三民區大樓店面凌晨竄火夫妻命危送醫 3樓再救出1人",
             "link": "https://udn.com//news/story/7320/8343245?from=udn-ch1_breaknews-1-0-news",
@@ -17,18 +29,6 @@
             "title": "半夜地震超有感 台中人：手機警報為何沒響",
             "link": "https://udn.com//news/story/7266/8343236?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-11-07 02:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/01/realtime/30823779.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
-            "title": "CNN檢討賀錦麗敗選：拜登期中選舉後就該讓出舞台",
-            "link": "https://udn.com//news/story/123098/8343191?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-11-07 01:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/07/0/30856750.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "花蓮凌晨連兩震…規模5.5及4.1 最大震度4級",
-            "link": "https://udn.com//news/story/7266/8343226?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-11-07 01:32"
         }
     ]
 }
