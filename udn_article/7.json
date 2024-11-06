@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/06/realtime/30855536.jpg&s=Y&x=0&y=11&sw=1390&sh=926&exp=3600&w=300",
+            "title": "搶好康！台灣虎航暫定承銷價40元 中籤每張現賺近2.6萬元",
+            "link": "https://udn.com//news/story/7252/8342527?from=udn-catebreaknews_ch2",
+            "time": "2024-11-06 18:58"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/06/98/30855046.jpg&s=Y&x=48&y=0&sw=1142&sh=761&exp=3600&w=300",
+            "title": "外資賣超20億元 減碼台積電7740張排第9",
+            "link": "https://udn.com//news/story/7251/8342188?from=udn-catebreaknews_ch2",
+            "time": "2024-11-06 18:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/06/realtime/30855182.jpg&s=Y&x=0&y=180&sw=4032&sh=2688&exp=3600&w=300",
             "title": "佳世達法說會／看好第4季營運優於第3季 明年優於今年",
             "link": "https://udn.com//news/story/7252/8342388?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "DRAM出貨回溫 威剛前10月合併營收接近去年全年水準",
             "link": "https://udn.com//news/story/7254/8342280?from=udn-catebreaknews_ch2",
             "time": "2024-11-06 17:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/06/realtime/30854923.jpg&s=Y&x=0&y=0&sw=441&sh=294&exp=3600&w=300",
-            "title": "穎崴10月營收6.48億元 月減8.9%",
-            "link": "https://udn.com//news/story/7253/8342281?from=udn-catebreaknews_ch2",
-            "time": "2024-11-06 17:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/06/realtime/30854880.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "華固財報／第3季稅後純益年增111.8% 明年進入完工高峰",
-            "link": "https://udn.com//news/story/7252/8342266?from=udn-catebreaknews_ch2",
-            "time": "2024-11-06 17:17"
         }
     ]
 }
