@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/30/2/30813768.jpg&s=Y&x=0&y=0&sw=1268&sh=845&exp=3600&w=300",
+            "title": "台股漲191點收23,408點 台積電漲5元收1,065元",
+            "link": "https://udn.com//news/story/7251/8344267?from=udn-catebreaknews_ch2",
+            "time": "2024-11-07 13:48"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/28/0/30796998.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "00713被00915取代？一樣主打低波抗跌...專家解析「成分股」：適合不同投資人",
+            "link": "https://udn.com//news/story/123006/8344216?from=udn-catebreaknews_ch2",
+            "time": "2024-11-07 13:39"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/07/2/30859659.jpg&s=Y&x=0&y=0&sw=1277&sh=851&exp=3600&w=300",
+            "title": "華航、長榮航三大利基加持 華航股價高飛",
+            "link": "https://udn.com//news/story/7252/8344186?from=udn-catebreaknews_ch2",
+            "time": "2024-11-07 13:17"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/07/2/30859584.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "川普重磅回歸 美國資產氣勢如虹",
             "link": "https://udn.com//news/story/7251/8344157?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "CoWoS有多夯？繼弘塑後又有一檔盤中衝上千元大關",
             "link": "https://udn.com//news/story/7254/8344097?from=udn-catebreaknews_ch2",
             "time": "2024-11-07 12:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/07/2/30859362.jpg&s=Y&x=0&y=0&sw=1188&sh=792&exp=3600&w=300",
-            "title": "川普選嬴了 分析師曝鴻海集團及這類股將「大有可為」",
-            "link": "https://udn.com//news/story/7251/8344054?from=udn-catebreaknews_ch2",
-            "time": "2024-11-07 12:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/07/98/30858008.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "MSCI 指數台股權重一升一降一平 11月25日收盤生效",
-            "link": "https://udn.com//news/story/7251/8343961?from=udn-catebreaknews_ch2",
-            "time": "2024-11-07 11:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/07/2/30858953.jpg&s=Y&x=72&y=0&sw=1080&sh=720&exp=3600&w=300",
-            "title": "川普上台綠能不妙？ 泓德、雲豹能源盤中重挫逾5%",
-            "link": "https://udn.com//news/story/7252/8343919?from=udn-catebreaknews_ch2",
-            "time": "2024-11-07 11:44"
         }
     ]
 }
