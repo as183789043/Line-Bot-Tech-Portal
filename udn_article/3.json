@@ -1,7 +1,13 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/08/realtime/30863649.jpg&s=Y&x=219&y=0&sw=5562&sh=3709&exp=3600&w=300",
+            "title": "Fed如預期降息1碼 連續第二次調降利率",
+            "link": "https://udn.com//news/story/6811/8345891?from=udn-catebreaknews_ch2",
+            "time": "2024-11-08 03:21"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
             "title": "為什麼美國人願意讓川普重返白宮？",
             "link": "https://udn.com//news/story/123098/8345839?from=udn-catebreaknews_ch2",
             "time": "2024-11-08 02:55"
@@ -23,12 +29,6 @@
             "title": "北韓軍赴烏克蘭 首戰不利",
             "link": "https://udn.com//news/story/122663/8345744?from=udn-catebreaknews_ch2",
             "time": "2024-11-08 02:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/11/07/30860074.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "拜登邀請川普訪問白宮",
-            "link": "https://udn.com//news/story/121777/8345755?from=udn-catebreaknews_ch2",
-            "time": "2024-11-08 02:03"
         }
     ]
 }
