@@ -1,13 +1,25 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/07/realtime/30859437.jpg&s=Y&x=0&y=0&sw=3725&sh=2484&exp=3600&w=300",
+            "title": "普亭恭喜川普贏得美國大選 稱已準備好對話",
+            "link": "https://udn.com//news/story/123098/8345931?from=udn-catebreaknews_ch2",
+            "time": "2024-11-08 04:58"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/08/realtime/30863790.jpg&s=Y&x=0&y=31&sw=4378&sh=2918&exp=3600&w=300",
+            "title": "拜登籲全民放下選舉恩怨 承諾和平有序交接給川普",
+            "link": "https://udn.com//news/story/121777/8345927?from=udn-catebreaknews_ch2",
+            "time": "2024-11-08 04:35"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/08/realtime/30863649.jpg&s=Y&x=219&y=0&sw=5562&sh=3709&exp=3600&w=300",
             "title": "Fed如預期降息1碼 連續第二次調降利率",
             "link": "https://udn.com//news/story/6811/8345891?from=udn-catebreaknews_ch2",
             "time": "2024-11-08 03:21"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
             "title": "為什麼美國人願意讓川普重返白宮？",
             "link": "https://udn.com//news/story/123098/8345839?from=udn-catebreaknews_ch2",
             "time": "2024-11-08 02:55"
@@ -17,18 +29,6 @@
             "title": "創全球先例！澳洲將禁16歲以下用社群媒體",
             "link": "https://udn.com//news/story/6812/8345737?from=udn-catebreaknews_ch2",
             "time": "2024-11-08 02:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/08/1/30863574.jpg&s=Y&x=0&y=40&sw=1280&sh=853&exp=3600&w=300",
-            "title": "德財長去職 恐提前大選",
-            "link": "https://udn.com//news/story/6809/8345724?from=udn-catebreaknews_ch2",
-            "time": "2024-11-08 02:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/07/realtime/30861155.jpg&s=Y&x=0&y=0&sw=4252&sh=2835&exp=3600&w=300",
-            "title": "北韓軍赴烏克蘭 首戰不利",
-            "link": "https://udn.com//news/story/122663/8345744?from=udn-catebreaknews_ch2",
-            "time": "2024-11-08 02:09"
         }
     ]
 }
