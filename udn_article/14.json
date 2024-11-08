@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/08/0/30864392.jpg&s=Y&x=192&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "她是銀行主管，也錄專輯開演唱會 中年宣言：活成自己想要的樣子！",
+            "link": "https://udn.com//news/story/6837/8346051?from=udn-catebreaknews_ch2",
+            "time": "2024-11-08 09:07"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/08/0/30864451.jpg&s=Y&x=0&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "星巴克新CEO救業績出招 為何不討好顧客反喊「少接訂單」",
+            "link": "https://udn.com//news/story/6837/8346075?from=udn-catebreaknews_ch2",
+            "time": "2024-11-08 09:05"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/07/draft/30858875.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
             "title": "安謀與高通廝殺 聯發科撿到槍",
             "link": "https://udn.com//news/story/6851/8343901?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "科技7巨頭財報 對標AI後市",
             "link": "https://udn.com//news/story/6851/8343863?from=udn-catebreaknews_ch2",
             "time": "2024-11-07 15:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/11/0/30696588.jpg&s=Y&x=84&y=36&sw=937&sh=625&exp=3600&w=300",
-            "title": "謝金河：中國殺戮與台灣價值",
-            "link": "https://udn.com//news/story/6851/8343851?from=udn-catebreaknews_ch2",
-            "time": "2024-11-07 15:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/07/draft/30858753.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "川普2.0來了 把握年底最後一波",
-            "link": "https://udn.com//news/story/6851/8343836?from=udn-catebreaknews_ch2",
-            "time": "2024-11-07 15:22"
         }
     ]
 }
