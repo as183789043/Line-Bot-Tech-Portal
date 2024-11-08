@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/08/98/30868099.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "華碩第3季獲利創新高 示警第4季恐旺季不旺",
+            "link": "https://udn.com//news/story/7253/8347393?from=udn-catebreaknews_ch2",
+            "time": "2024-11-08 17:07"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/08/98/30867008.jpg&s=Y&x=16&y=20&sw=1249&sh=833&exp=3600&w=300",
             "title": "川普當選衝擊台股、台積電還能買？專家看過往經驗分析：拉回就是買點",
             "link": "https://udn.com//news/story/7251/8347205?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "海外ETF股王00757展現霸氣 規模、股價改寫歷史高",
             "link": "https://udn.com//news/story/123006/8346917?from=udn-catebreaknews_ch2",
             "time": "2024-11-08 14:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/08/2/30866795.jpg&s=Y&x=32&y=16&sw=1241&sh=827&exp=3600&w=300",
-            "title": "台積電最後一盤爆5142張買單 收1090元、市值衝28兆元",
-            "link": "https://udn.com//news/story/7253/8346895?from=udn-catebreaknews_ch2",
-            "time": "2024-11-08 14:10"
         }
     ]
 }
