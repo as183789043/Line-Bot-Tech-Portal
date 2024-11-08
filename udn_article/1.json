@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/09/realtime/30870330.jpg&s=Y&x=133&y=0&sw=1440&sh=960&exp=3600&w=300",
+            "title": "【專家之眼】評析小笠原欣幸川普當選臺灣惡夢論",
+            "link": "https://udn.com//news/story/10575/8348266?from=udn-catebreaknews_ch2",
+            "time": "2024-11-09 05:06"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/08/realtime/30869623.jpg&s=Y&x=0&y=0&sw=2834&sh=1889&exp=3600&w=300",
             "title": "視察電廠 卓揆承諾2034中火完全無煤",
             "link": "https://udn.com//news/story/6656/8348166?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "藍綠對峙互嗆 從電廠戰到議場",
             "link": "https://udn.com//news/story/6656/8348168?from=udn-catebreaknews_ch2",
             "time": "2024-11-09 02:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/08/realtime/30869596.jpg&s=Y&x=0&y=0&sw=3797&sh=2531&exp=3600&w=300",
-            "title": "空勤總隊20年慶 賴清德現身祝賀",
-            "link": "https://udn.com//news/story/7314/8348148?from=udn-catebreaknews_ch2",
-            "time": "2024-11-09 02:23"
         }
     ]
 }
