@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
+            "title": "兩岸觀策／川普普亭互拋媚眼 美中俄重洗牌？",
+            "link": "https://udn.com//news/story/6809/8349603?from=udn-catebreaknews_ch2",
+            "time": "2024-11-10 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/09/0/30874682.jpg&s=Y&x=68&y=0&sw=794&sh=529&exp=3600&w=300",
+            "title": "北韓干擾GPS信號 韓國批危及民航安全",
+            "link": "https://udn.com//news/story/6809/8349624?from=udn-catebreaknews_ch2",
+            "time": "2024-11-09 23:48"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/09/0/30874582.jpg&s=Y&x=0&y=0&sw=794&sh=529&exp=3600&w=300",
+            "title": "伊朗特工 被指控策劃暗殺活動人士及川普",
+            "link": "https://udn.com//news/story/6809/8349528?from=udn-catebreaknews_ch2",
+            "time": "2024-11-09 23:16"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/09/98/30874394.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "兇手承認了！巴基斯坦火車站爆炸增至26死 俾路支解放軍宣稱犯案",
             "link": "https://udn.com//news/story/6809/8349465?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "Fed降息循環初期的投資策略 法人：優質股票搭配優質債券",
             "link": "https://udn.com//news/story/6811/8349462?from=udn-catebreaknews_ch2",
             "time": "2024-11-09 21:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/09/98/30874309.jpg&s=Y&x=20&y=0&sw=1248&sh=832&exp=3600&w=300",
-            "title": "瑞士高等學府循國際制裁規定 防大陸、俄羅斯等間諜活動",
-            "link": "https://udn.com//news/story/6812/8349451?from=udn-catebreaknews_ch2",
-            "time": "2024-11-09 21:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/09/98/30874286.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "中東戰火難降…以色列出兵掃蕩哈瑪斯、真主黨 伊朗警告戰事恐擴大",
-            "link": "https://udn.com//news/story/123777/8349436?from=udn-catebreaknews_ch2",
-            "time": "2024-11-09 21:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/09/98/30874174.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "以色列空襲 加薩民防當局稱至少釀14死",
-            "link": "https://udn.com//news/story/123777/8349409?from=udn-catebreaknews_ch2",
-            "time": "2024-11-09 20:54"
         }
     ]
 }
