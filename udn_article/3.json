@@ -1,9 +1,21 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/10/realtime/30879280.jpg&s=Y&x=0&y=28&sw=3995&sh=2662&exp=3600&w=300",
+            "title": "川普新閣名單 龐培歐、海理出局",
+            "link": "https://udn.com//news/story/121777/8350978?from=udn-catebreaknews_ch2",
+            "time": "2024-11-11 01:06"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/10/98/30878735.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "70架無人機襲俄 開戰以來最大規模",
+            "link": "https://udn.com//news/story/122663/8351008?from=udn-catebreaknews_ch2",
+            "time": "2024-11-11 01:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/10/realtime/30879318.jpg&s=Y&x=0&y=0&sw=4497&sh=2998&exp=3600&w=300",
             "title": "美政壇老將桑德斯承認：川普說服人民相信他更了解經濟困境",
-            "link": "https://udn.com//news/story/6813/8351000?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/123098/8351000?from=udn-catebreaknews_ch2",
             "time": "2024-11-10 23:44"
         },
         {
@@ -17,18 +29,6 @@
             "title": "稱從川普對烏立場看到「正面訊號」 克里姆林宮：但他不太能預測",
             "link": "https://udn.com//news/story/123098/8350801?from=udn-catebreaknews_ch2",
             "time": "2024-11-10 22:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/10/98/30879068.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "出動145架無人機 澤倫斯基控烏克蘭遭俄羅斯夜襲：數量破紀錄",
-            "link": "https://udn.com//news/story/122663/8350777?from=udn-catebreaknews_ch2",
-            "time": "2024-11-10 22:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/10/98/30877430.jpg&s=Y&x=0&y=0&sw=799&sh=533&exp=3600&w=300",
-            "title": "起火逾10小時 日本海上自衛隊掃雷艇仍未撲滅…尚有1人失蹤",
-            "link": "https://udn.com//news/story/6809/8350763?from=udn-catebreaknews_ch2",
-            "time": "2024-11-10 21:57"
         }
     ]
 }
