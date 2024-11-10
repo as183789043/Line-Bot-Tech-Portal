@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/01/2/30824079.jpg&s=Y&x=14&y=25&sw=921&sh=614&exp=3600&w=300",
+            "title": "美國大選落幕 法人：台股回歸基本面、旺季行情可期",
+            "link": "https://udn.com//news/story/7251/8349875?from=udn-catebreaknews_ch2",
+            "time": "2024-11-10 10:40"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/27/realtime/30794162.jpg&s=Y&x=0&y=0&sw=1889&sh=1265&exp=3600&w=300",
+            "title": "00878曾有只配0.05元過…若跌回15塊敢ALL IN？小師傅：屆時能抱住不賣都難",
+            "link": "https://udn.com//news/story/123006/8349835?from=udn-catebreaknews_ch2",
+            "time": "2024-11-10 10:21"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/03/2/30835965.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
             "title": "三優強勢股買盤搶翻天 緯創、陽明等躍交投亮點",
             "link": "https://udn.com//news/story/7251/8349576?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "WiFi 7商機明年看增三倍 挹注全新、穩懋等業績成長",
             "link": "https://udn.com//news/story/7253/8349567?from=udn-catebreaknews_ch2",
             "time": "2024-11-10 05:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
-            "title": "樺漢、神基本周法說 談人工智慧布局",
-            "link": "https://udn.com//news/story/7253/8349434?from=udn-catebreaknews_ch2",
-            "time": "2024-11-10 01:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/09/realtime/30687551.jpg&s=Y&x=0&y=741&sw=1417&sh=945&exp=3600&w=300",
-            "title": "永豐金犀利 併購議題聚焦",
-            "link": "https://udn.com//news/story/7252/8349440?from=udn-catebreaknews_ch2",
-            "time": "2024-11-10 01:22"
         }
     ]
 }
