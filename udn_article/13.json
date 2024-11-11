@@ -1,6 +1,12 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/14/0/30716229.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台中七期高檔個人火鍋！裝潢霸氣，還有專人服務幫煮「海鮮粥」",
+            "link": "https://udn.com//news/story/7207/8291595?from=udn-catebreaknews_ch2",
+            "time": "2024-11-11 16:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/11/realtime/30883597.jpeg&s=Y&x=0&y=430&sw=5710&sh=3807&exp=3600&w=300",
             "title": "立體飲料提袋、巨大存錢筒必收！7-ELEVEN北部首間寶可夢主題店西區登場",
             "link": "https://udn.com//news/story/7160/8352286?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "遠百周年慶最後壓軸 板橋中山、竹北店接棒",
             "link": "https://udn.com//news/story/7160/8352119?from=udn-catebreaknews_ch2",
             "time": "2024-11-11 14:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/08/draft/30864024.jpeg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "不用飛到韓國！AFS Styling Lab 台北信義區快閃 消費滿額即可體驗客製行李飄帶",
-            "link": "https://udn.com//news/story/7160/8345935?from=udn-catebreaknews_ch2",
-            "time": "2024-11-11 14:32"
         }
     ]
 }
