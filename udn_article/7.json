@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/05/realtime/30662471.jpg&s=Y&x=0&y=0&sw=1417&sh=945&exp=3600&w=300",
+            "title": "台達電營收／10月388.17億元 創單月新高",
+            "link": "https://udn.com//news/story/7253/8352320?from=udn-catebreaknews_ch2",
+            "time": "2024-11-11 15:38"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/24/0/30775077.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "0050棒、台積電（2330）也很好…重點是買的價位好嗎？ 隱者舉0056當前例",
+            "link": "https://udn.com//news/story/123006/8352238?from=udn-catebreaknews_ch2",
+            "time": "2024-11-11 15:34"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/30/2/30807534.jpg&s=Y&x=0&y=0&sw=1268&sh=845&exp=3600&w=300",
             "title": "台股下跌24點 三大法人賣超61.49億元",
             "link": "https://udn.com//news/story/7251/8352241?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台股 ETF 受益人創高破千萬 這三檔季配高息型包辦前三大",
             "link": "https://udn.com//news/story/123006/8352164?from=udn-catebreaknews_ch2",
             "time": "2024-11-11 14:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/11/realtime/30882874.jpg&s=Y&x=114&y=0&sw=330&sh=221&exp=3600&w=300",
-            "title": "將來銀行開賣瀚亞15檔境內基金 買得到這兩檔百億規模熱門基金",
-            "link": "https://udn.com//news/story/10103/8352059?from=udn-catebreaknews_ch2",
-            "time": "2024-11-11 14:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/11/realtime/30882853.jpg&s=Y&x=190&y=0&sw=330&sh=221&exp=3600&w=300",
-            "title": "川普當選引發通膨隱憂 中信投信：Fed 長期降息趨勢不變",
-            "link": "https://udn.com//news/story/7251/8352048?from=udn-catebreaknews_ch2",
-            "time": "2024-11-11 14:10"
         }
     ]
 }
