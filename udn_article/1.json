@@ -1,8 +1,20 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/12/1/30885944.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "向川普表明防衛決心  外媒：台擬4800億對美軍購",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/11/realtime/30885630.jpg&s=Y&x=0&y=0&sw=2833&sh=1889&exp=3600&w=300",
+            "title": "台擬軍購 學者：賴政府認同川普「保護費」",
+            "link": "https://udn.com//news/story/10930/8353348?from=udn-catebreaknews_ch2",
+            "time": "2024-11-12 02:36"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
+            "title": "FT報導 台擬向美擴大軍購",
+            "link": "https://udn.com//news/story/10930/8353316?from=udn-catebreaknews_ch2",
+            "time": "2024-11-12 02:22"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/12/1/30885949.jpg&s=Y&x=0&y=0&sw=1259&sh=839&exp=3600&w=300",
+            "title": "向川普表明防衛決心  外媒：台擬4800億元對美軍購",
             "link": "https://udn.com//news/story/10930/8353341?from=udn-catebreaknews_ch2",
             "time": "2024-11-12 02:03"
         },
@@ -17,18 +29,6 @@
             "title": "二度傳喚 黃珊珊仍請回",
             "link": "https://udn.com//news/story/124199/8353375?from=udn-catebreaknews_ch2",
             "time": "2024-11-12 01:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/11/realtime/30881204.jpg&s=Y&x=0&y=0&sw=5500&sh=3667&exp=3600&w=300",
-            "title": "觀察站／朝野天天過招 官員整日虛耗",
-            "link": "https://udn.com//news/story/124129/8353365?from=udn-catebreaknews_ch2",
-            "time": "2024-11-12 01:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/11/realtime/30885641.jpg&s=Y&x=0&y=0&sw=5500&sh=3667&exp=3600&w=300",
-            "title": "財劃法確認議事錄大戰 空轉1天",
-            "link": "https://udn.com//news/story/124129/8353363?from=udn-catebreaknews_ch2",
-            "time": "2024-11-12 01:24"
         }
     ]
 }
