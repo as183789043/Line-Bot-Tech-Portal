@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/11/realtime/30882853.jpg&s=Y&x=190&y=0&sw=330&sh=221&exp=3600&w=300",
+            "title": "川普當選引發通膨隱憂 中信投信：Fed 長期降息趨勢不變",
+            "link": "https://udn.com//news/story/7251/8352048?from=udn-catebreaknews_ch2",
+            "time": "2024-11-11 14:10"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/04/2/30840143.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股跌24點收23,529點  台積電收1,085元",
+            "link": "https://udn.com//news/story/7251/8351973?from=udn-catebreaknews_ch2",
+            "time": "2024-11-11 13:48"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/11/2/30882514.jpg&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
             "title": "選完就是利多 大選後一年美股上漲機率高",
             "link": "https://udn.com//news/story/7251/8351809?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2024-11-11 12:32"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/16/2/30727431.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "巨大提列存貨跌價損失、獲利腰斬 股價盤中重挫逾7%",
-            "link": "https://udn.com//news/story/7252/8351665?from=udn-catebreaknews_ch2",
-            "time": "2024-11-11 11:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/18/0/30545695.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "00878兩年前也曾帳上賠近14萬元！存股哥：若當時停損、退縮、放棄…就沒有現在",
-            "link": "https://udn.com//news/story/123006/8351624?from=udn-catebreaknews_ch2",
-            "time": "2024-11-11 11:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/11/realtime/30881822.jpg&s=Y&x=0&y=6&sw=804&sh=536&exp=3600&w=300",
-            "title": "台股 ETF 受益人創高突破千萬 這10檔高息型最受歡迎",
-            "link": "https://udn.com//news/story/123006/8351649?from=udn-catebreaknews_ch2",
-            "time": "2024-11-11 11:50"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/17/2/30732459.jpg&s=Y&x=0&y=0&sw=1256&sh=837&exp=3600&w=300",
+            "title": "2動能加持營收表現 神達飆第2根漲停逾5萬人排隊等買",
+            "link": "https://udn.com//news/story/7253/8351778?from=udn-catebreaknews_ch2",
+            "time": "2024-11-11 12:30"
         }
     ]
 }
