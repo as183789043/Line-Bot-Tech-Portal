@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/12/realtime/30891284.jpg&s=Y&x=0&y=23&sw=3123&sh=2082&exp=3600&w=300",
+            "title": "大山財報／前三季獲利賺贏去年全年 暫居線纜獲利王",
+            "link": "https://udn.com//news/story/7252/8355346?from=udn-catebreaknews_ch2",
+            "time": "2024-11-12 18:49"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/12/realtime/30891259.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "漢唐財報／前三季稅後純益42.17億元、EPS 22.46元 刷新同期新高紀錄",
+            "link": "https://udn.com//news/story/7253/8355325?from=udn-catebreaknews_ch2",
+            "time": "2024-11-12 18:39"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/12/2/30890840.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "台積電股東看過來！第3季擬配發每股現金股利4.5元",
             "link": "https://udn.com//news/story/7253/8355217?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "仁寶財報／第3季稅後盈餘33.34億元、季年雙增 EPS 0.77元",
             "link": "https://udn.com//news/story/7252/8355097?from=udn-catebreaknews_ch2",
             "time": "2024-11-12 17:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/07/2/30222180.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "嘉澤逆勢翻紅！3外資看好AI前景 目標價直奔2,155元",
-            "link": "https://udn.com//news/story/7253/8355077?from=udn-catebreaknews_ch2",
-            "time": "2024-11-12 17:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/12/98/30250823.jpg&s=Y&x=0&y=0&sw=1242&sh=828&exp=3600&w=300",
-            "title": "外資賣超476億元 賣超第一名竟是他、聯電及台積也遭大賣",
-            "link": "https://udn.com//news/story/7251/8355072?from=udn-catebreaknews_ch2",
-            "time": "2024-11-12 17:07"
         }
     ]
 }
