@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/29/realtime/30805171.jpg&s=Y&x=0&y=9&sw=1322&sh=880&exp=3600&w=300",
+            "title": "00919要用力補貨？高息ETF像「房客繳房租」…她喊做到1事：不怕被賴帳",
+            "link": "https://udn.com//news/story/123006/8354731?from=udn-catebreaknews_ch2",
+            "time": "2024-11-13 07:10"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/28/98/30796732.jpg&s=Y&x=0&y=0&sw=1241&sh=827&exp=3600&w=300",
             "title": "台股外資狂砍 國家隊救援…力抗賣壓",
             "link": "https://udn.com//news/story/7251/8355826?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2024-11-13 02:35"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
             "title": "金管會：台股基本面未變 將持續關注國際金融市場變化",
             "link": "https://udn.com//news/story/7251/8355864?from=udn-catebreaknews_ch2",
             "time": "2024-11-13 01:40"
@@ -23,12 +29,6 @@
             "title": "車市雙雄Q3財報出爐…裕隆獲利增 和泰意外下滑",
             "link": "https://udn.com//news/story/7252/8355755?from=udn-catebreaknews_ch2",
             "time": "2024-11-13 01:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
-            "title": "誠品生第3季EPS 0.23元 雷虎-0.21元",
-            "link": "https://udn.com//news/story/7252/8355765?from=udn-catebreaknews_ch2",
-            "time": "2024-11-13 01:14"
         }
     ]
 }
