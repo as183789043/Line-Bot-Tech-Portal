@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/13/realtime/30897137.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "獲利衰退 三陽第三季僅賺10.51億元、年減17.17%",
+            "link": "https://udn.com//news/story/7252/8357685?from=udn-catebreaknews_ch2",
+            "time": "2024-11-13 17:10"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/13/realtime/30896930.jpg&s=Y&x=0&y=42&sw=5712&sh=3808&exp=3600&w=300",
+            "title": "比去年虧更多！網家第三季每股虧1.21元",
+            "link": "https://udn.com//news/story/7254/8357608?from=udn-catebreaknews_ch2",
+            "time": "2024-11-13 16:44"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/21/realtime/30757886.jpg&s=Y&x=0&y=0&sw=1889&sh=1248&exp=3600&w=300",
             "title": "20張00878...送自己1萬1的聖誕禮物！棒棒：配息階梯式成長、穩定領息自主加薪",
             "link": "https://udn.com//news/story/123006/8357367?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台股短線震盪 國泰00878經理人：後市仍看旺",
             "link": "https://udn.com//news/story/7251/8357322?from=udn-catebreaknews_ch2",
             "time": "2024-11-13 15:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/13/realtime/30896034.jpg&s=Y&x=55&y=0&sw=621&sh=415&exp=3600&w=300",
-            "title": "瞄準川普2.0投資趨勢！中信全球與亞太兩檔高股息ETF 11月14日掛牌",
-            "link": "https://udn.com//news/story/123006/8357303?from=udn-catebreaknews_ch2",
-            "time": "2024-11-13 14:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/13/realtime/30895911.png&s=Y&x=0&y=0&sw=1860&sh=1240&exp=3600&w=300",
-            "title": "台股3天跌掉近7百點 這原因讓法人說：結構還健康",
-            "link": "https://udn.com//news/story/7251/8357242?from=udn-catebreaknews_ch2",
-            "time": "2024-11-13 14:35"
         }
     ]
 }
