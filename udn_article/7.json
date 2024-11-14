@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/30/98/30813445.jpg&s=Y&x=0&y=72&sw=1277&sh=851&exp=3600&w=300",
+            "title": "上市櫃Q3獲利衝破兆元 全年挑戰4兆元大關",
+            "link": "https://udn.com//news/story/7251/8361155?from=udn-catebreaknews_ch2",
+            "time": "2024-11-15 00:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/14/realtime/30905586.jpg&s=Y&x=0&y=0&sw=5389&sh=3593&exp=3600&w=300",
             "title": "Appier Q3獲利續創高 首度發放股利2日圓現金股利",
             "link": "https://udn.com//news/story/7251/8360970?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "天虹第4季進入傳統旺季 2025年營收估年增逾二成",
             "link": "https://udn.com//news/story/7253/8360576?from=udn-catebreaknews_ch2",
             "time": "2024-11-14 18:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/11/98/30880451.jpg&s=Y&x=0&y=0&sw=897&sh=598&exp=3600&w=300",
-            "title": "永豐金黃蔭基：看2025台股高點25000 台積電衝1340元",
-            "link": "https://udn.com//news/story/7251/8360542?from=udn-catebreaknews_ch2",
-            "time": "2024-11-14 18:02"
         }
     ]
 }
