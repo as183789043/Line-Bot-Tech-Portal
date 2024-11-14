@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/14/2/30902380.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "傳賴總統將訪南太友邦",
+            "link": "https://udn.com//news/story/6656/8361289?from=udn-catebreaknews_ch2",
+            "time": "2024-11-15 00:56"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/14/realtime/30905977.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
             "title": "靠權力發財的不只綠能 還有特定媒體",
             "link": "https://udn.com//news/story/6656/8361335?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "外媒：秘魯挺大陸主辦2026年APEC 阻台灣入CPTPP",
             "link": "https://udn.com//news/story/6656/8360951?from=udn-catebreaknews_ch2",
             "time": "2024-11-14 21:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/14/realtime/30905534.jpg&s=Y&x=10&y=20&sw=4380&sh=2920&exp=3600&w=300",
-            "title": "朝野協商選罷法無共識 韓國瑜宣布未來再議",
-            "link": "https://udn.com//news/story/6656/8360956?from=udn-catebreaknews_ch2",
-            "time": "2024-11-14 21:23"
         }
     ]
 }
