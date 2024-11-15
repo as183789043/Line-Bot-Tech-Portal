@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/15/realtime/30910999.jpg&s=Y&x=0&y=0&sw=4000&sh=2667&exp=3600&w=300",
+            "title": "台股本周走回檔行情 20日輝達公布財報是焦點",
+            "link": "https://udn.com//news/story/7251/8362941?from=udn-catebreaknews_ch2",
+            "time": "2024-11-15 17:29"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/15/2/30911039.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "美國政策雜音干擾！台股回檔、靜候下周輝達財報 法人建議布局這類股",
+            "link": "https://udn.com//news/story/7251/8362937?from=udn-catebreaknews_ch2",
+            "time": "2024-11-15 17:27"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/01/2/30185981.jpg&s=Y&x=0&y=0&sw=1211&sh=807&exp=3600&w=300",
+            "title": "外資買超51億元中止連5賣 逆勢大砍廣達、鴻海",
+            "link": "https://udn.com//news/story/7251/8362903?from=udn-catebreaknews_ch2",
+            "time": "2024-11-15 17:17"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/15/2/30910568.jpg&s=Y&x=76&y=0&sw=1127&sh=751&exp=3600&w=300",
             "title": "美六大銀行第3季財報亮眼 00933B今年配息率逾5%",
             "link": "https://udn.com//news/story/123006/8362736?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "台股開高走低上漲27點 三大法人賣超85.44億",
             "link": "https://udn.com//news/story/7251/8362575?from=udn-catebreaknews_ch2",
             "time": "2024-11-15 15:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/15/realtime/30910200.jpg&s=Y&x=0&y=172&sw=2746&sh=1831&exp=3600&w=300",
-            "title": "「新新併」之後股利怎麼發 台新金總座透露明年股利方向",
-            "link": "https://udn.com//news/story/7252/8362571?from=udn-catebreaknews_ch2",
-            "time": "2024-11-15 15:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/09/2/30467801.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台股千金股少一家 鈊象重挫逾5%跌出千金股行列",
-            "link": "https://udn.com//news/story/7254/8362475?from=udn-catebreaknews_ch2",
-            "time": "2024-11-15 14:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/15/2/30909440.jpg&s=Y&x=40&y=12&sw=1209&sh=806&exp=3600&w=300",
-            "title": "台股小漲27點收22,742點 單周下跌811點",
-            "link": "https://udn.com//news/story/7251/8362335?from=udn-catebreaknews_ch2",
-            "time": "2024-11-15 13:47"
         }
     ]
 }
