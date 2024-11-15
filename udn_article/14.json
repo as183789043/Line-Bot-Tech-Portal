@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/15/0/30907169.jpg&s=Y&x=16&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "股價、訂單雙漲 工具機台廠春燕到？三條新路沒解方恐短多長空",
+            "link": "https://udn.com//news/story/6837/8361505?from=udn-catebreaknews_ch2",
+            "time": "2024-11-15 08:16"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/15/0/30907175.jpg&s=Y&x=168&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "川普完全執政，降息循環仍不停 專家：日圓、歐元接棒走強",
+            "link": "https://udn.com//news/story/6837/8361507?from=udn-catebreaknews_ch2",
+            "time": "2024-11-15 08:14"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/14/draft/30902903.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
             "title": "站立式辦公桌真的有益健康嗎？英國研究表明跟「坐著」一樣",
             "link": "https://udn.com//news/story/6897/8359935?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "氫應用與化合物半導體新商機",
             "link": "https://udn.com//news/story/6905/8360103?from=udn-catebreaknews_ch2",
             "time": "2024-11-14 15:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/14/draft/30903475.jpg&s=Y&x=0&y=5&sw=700&sh=466&exp=3600&w=300",
-            "title": "R&D 100 Awards／線上X光關鍵尺寸量測系統",
-            "link": "https://udn.com//news/story/6905/8360084?from=udn-catebreaknews_ch2",
-            "time": "2024-11-14 15:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/14/draft/30903454.jpg&s=Y&x=0&y=0&sw=700&sh=466&exp=3600&w=300",
-            "title": "R&D 100 Awards／敏捷部署之需量反應能源管理系統",
-            "link": "https://udn.com//news/story/6905/8360070?from=udn-catebreaknews_ch2",
-            "time": "2024-11-14 15:41"
         }
     ]
 }
