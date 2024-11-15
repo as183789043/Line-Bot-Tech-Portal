@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/16/2/30912757.jpg&s=Y&x=0&y=0&sw=1268&sh=845&exp=3600&w=300",
+            "title": "台股外資轉買 中止連四跌…成交量擴增至4,181億元",
+            "link": "https://udn.com//news/story/7251/8363528?from=udn-catebreaknews_ch2",
+            "time": "2024-11-16 00:51"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "title": "台股ETF成分股換血 規模2.3兆",
+            "link": "https://udn.com//news/story/123006/8363522?from=udn-catebreaknews_ch2",
+            "time": "2024-11-16 00:48"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/26/2/30612308.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "未雨綢繆 高股息ETF第六大00713小改版上路",
             "link": "https://udn.com//news/story/123006/8363432?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台股本周走回檔行情 20日輝達公布財報是焦點",
             "link": "https://udn.com//news/story/7251/8362941?from=udn-catebreaknews_ch2",
             "time": "2024-11-15 17:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/15/2/30911039.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "美國政策雜音干擾！台股回檔、靜候下周輝達財報 法人建議布局這類股",
-            "link": "https://udn.com//news/story/7251/8362937?from=udn-catebreaknews_ch2",
-            "time": "2024-11-15 17:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/01/2/30185981.jpg&s=Y&x=0&y=0&sw=1211&sh=807&exp=3600&w=300",
-            "title": "外資買超51億元中止連5賣 逆勢大砍廣達、鴻海",
-            "link": "https://udn.com//news/story/7251/8362903?from=udn-catebreaknews_ch2",
-            "time": "2024-11-15 17:17"
         }
     ]
 }
