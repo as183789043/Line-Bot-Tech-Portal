@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/15/2/30909440.jpg&s=Y&x=40&y=12&sw=1209&sh=806&exp=3600&w=300",
+            "title": "台股小漲27點收22,742點 單周下跌811點",
+            "link": "https://udn.com//news/story/7251/8362335?from=udn-catebreaknews_ch2",
+            "time": "2024-11-15 13:47"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/01/2/30826367.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "00933B配0.082元…今年報酬10％！ 存金融股無法每月領息但這檔可以",
             "link": "https://udn.com//news/story/123006/8362167?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "他想低接006208⋯買進時機曝！網分兩派勸改做法",
             "link": "https://udn.com//news/story/123006/8360357?from=udn-catebreaknews_ch2",
             "time": "2024-11-15 11:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/15/2/30908141.jpg&s=Y&x=0&y=28&sw=1280&sh=853&exp=3600&w=300",
-            "title": "抽籤好康來了 台灣虎航飆天價 若抽中可賺3.9萬",
-            "link": "https://udn.com//news/story/7252/8361852?from=udn-catebreaknews_ch2",
-            "time": "2024-11-15 10:57"
         }
     ]
 }
