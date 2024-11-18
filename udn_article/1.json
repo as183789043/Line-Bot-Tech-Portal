@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/realtime/30928668.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "【總編開箱】訓練AI判斷敵情「正確率」高 國安局真有這麼威？",
+            "link": "https://udn.com//news/story/6656/8368915?from=udn-catebreaknews_ch2",
+            "time": "2024-11-19 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/1/30928579.png&s=Y&x=0&y=20&sw=1277&sh=852&exp=3600&w=300",
+            "title": "遊客數腰斬、4波補助用不完 圖解花蓮觀光「慘」業數字",
+            "link": "https://udn.com//news/story/7314/8368869?from=udn-catebreaknews_ch2",
+            "time": "2024-11-19 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/realtime/30928535.jpg&s=Y&x=0&y=0&sw=2426&sh=1617&exp=3600&w=300",
             "title": "廣角鏡／出席投資歐盟論壇 賴總統：盼與歐盟洽簽EPA",
             "link": "https://udn.com//news/story/6656/8368829?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "消費者權益報導獎 聯合報系獲4佳作",
             "link": "https://udn.com//news/story/7314/8368798?from=udn-catebreaknews_ch2",
             "time": "2024-11-19 02:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/98/30927663.jpg&s=Y&x=40&y=0&sw=1237&sh=825&exp=3600&w=300",
-            "title": "冷眼集／綠營急撇習點名賴 難掩兩岸嚴峻",
-            "link": "https://udn.com//news/story/123025/8368832?from=udn-catebreaknews_ch2",
-            "time": "2024-11-19 02:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/14/realtime/30900640.jpg&s=Y&x=0&y=22&sw=3085&sh=2056&exp=3600&w=300",
-            "title": "習近平點名賴清德？國安局長：不排除陸認知作戰",
-            "link": "https://udn.com//news/story/123025/8368831?from=udn-catebreaknews_ch2",
-            "time": "2024-11-19 02:19"
         }
     ]
 }
