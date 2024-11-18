@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/05/2/30207731.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "權值股領跌 台股指數跌近200點回測季線支撐",
+            "link": "https://udn.com//news/story/7251/8367071?from=udn-catebreaknews_ch2",
+            "time": "2024-11-18 11:28"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/2/30924404.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "四大原因導致印股重挫 布局時機到",
+            "link": "https://udn.com//news/story/7251/8367052?from=udn-catebreaknews_ch2",
+            "time": "2024-11-18 11:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/14/0/30726323.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "AES-KY 本月漲49% 花旗分析「雙優勢」目標價上調至1,020元",
             "link": "https://udn.com//news/story/7251/8366911?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "15檔「外資押寶股」近期價漲量增 低本益比潛力十足",
             "link": "https://udn.com//news/story/7251/8366822?from=udn-catebreaknews_ch2",
             "time": "2024-11-18 09:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/2/30923682.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
-            "title": "美股疲軟台股開盤下跌48點 台積電開低5元",
-            "link": "https://udn.com//news/story/7251/8366799?from=udn-catebreaknews_ch2",
-            "time": "2024-11-18 09:15"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/27/realtime/30794162.jpg&s=Y&x=0&y=0&sw=1889&sh=1265&exp=3600&w=300",
-            "title": "0056上月配息種類組成曝光！ 達人：54C+收益平準金這一塊慢慢在蓄水中",
-            "link": "https://udn.com//news/story/123006/8366769?from=udn-catebreaknews_ch2",
-            "time": "2024-11-18 09:03"
         }
     ]
 }
