@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/08/98/30868629.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股人氣王00878也換股！老朋友華碩回來了",
+            "link": "https://udn.com//news/story/7251/8368233?from=udn-catebreaknews_ch2",
+            "time": "2024-11-18 17:57"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/12/2/30890351.jpg&s=Y&x=0&y=0&sw=1080&sh=720&exp=3600&w=300",
+            "title": "投資人注意！00940等六檔台股ETF換股名單出爐",
+            "link": "https://udn.com//news/story/123006/8368183?from=udn-catebreaknews_ch2",
+            "time": "2024-11-18 17:32"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/11/0/30881674.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "外資賣超107億元 買超前三名竟都是金融股但大賣華航",
             "link": "https://udn.com//news/story/7251/8368043?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台股下跌196點 三大法人賣超197億元",
             "link": "https://udn.com//news/story/7251/8367803?from=udn-catebreaknews_ch2",
             "time": "2024-11-18 15:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/realtime/30925977.jpg&s=Y&x=186&y=0&sw=231&sh=154&exp=3600&w=300",
-            "title": "台股 ETF 受益人數續創新高 債券 ETF 受益人數近三個月首見減少",
-            "link": "https://udn.com//news/story/123006/8367774?from=udn-catebreaknews_ch2",
-            "time": "2024-11-18 14:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/16/realtime/30916076.jpg&s=Y&x=0&y=0&sw=2464&sh=1648&exp=3600&w=300",
-            "title": "4大權值股臉綠 台股跌196點力守季線收22546點",
-            "link": "https://udn.com//news/story/7251/8367717?from=udn-catebreaknews_ch2",
-            "time": "2024-11-18 14:55"
         }
     ]
 }

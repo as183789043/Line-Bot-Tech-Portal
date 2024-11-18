@@ -1,10 +1,22 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/realtime/30927097.jpg&s=Y&x=0&y=0&sw=2222&sh=1482&exp=3600&w=300",
+            "title": "越熱越愛訂、越晚吃越辣！Uber Eats年底前輸入「這序號」滿額享8.5折",
+            "link": "https://udn.com//news/story/7193/8368145?from=udn-catebreaknews_ch2",
+            "time": "2024-11-18 17:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/21/0/30924612.jpg&s=Y&x=0&y=0&sw=1280&sh=712&exp=3600&w=300",
             "title": "這就是熟悉的韓國味！韓國老闆開的文青風「韓式湯飯」，海鮮煎餅、韓式菜包肉都吃得到",
             "link": "https://udn.com//news/story/7207/8306622?from=udn-catebreaknews_ch2",
             "time": "2024-11-18 16:30"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/realtime/30926681.jpg&s=Y&x=160&y=20&sw=3345&sh=2230&exp=3600&w=300",
+            "title": "7間吃到飽飲冰品腸桿菌超標 新竹煙波、嘉義千葉火鍋上榜",
+            "link": "https://udn.com//news/story/7193/8367949?from=udn-catebreaknews_ch2",
+            "time": "2024-11-18 16:04"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/16/0/30916743.jpeg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
@@ -17,18 +29,6 @@
             "title": "全美最大LV臨時店紐約開幕 五層樓涵蓋咖啡廳圖書館",
             "link": "https://udn.com//news/story/7169/8367729?from=udn-catebreaknews_ch2",
             "time": "2024-11-18 14:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/realtime/30925856.jpg&s=Y&x=0&y=0&sw=2000&sh=1334&exp=3600&w=300",
-            "title": "麥當勞漲價了！超值全餐主餐漲3元、平均漲2.4%",
-            "link": "https://udn.com//news/story/7193/8367719?from=udn-catebreaknews_ch2",
-            "time": "2024-11-18 14:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/draft/30924753.jpg&s=Y&x=0&y=0&sw=720&sh=480&exp=3600&w=300",
-            "title": "2024上半年臺北市餐飲旅宿業產值居全臺之首 全新品牌「來臺北有好宿」帶動旅宿商機成長",
-            "link": "https://udn.com//news/story/7205/8367236?from=udn-catebreaknews_ch2",
-            "time": "2024-11-18 14:00"
         }
     ]
 }

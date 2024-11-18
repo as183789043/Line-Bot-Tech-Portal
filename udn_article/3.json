@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/02/realtime/30404275.jpg&s=Y&x=0&y=0&sw=8192&sh=5464&exp=3600&w=300",
+            "title": "烏克蘭住宅大樓遭飛彈擊中釀10死 俄稱擊落59架無人機",
+            "link": "https://udn.com//news/story/122663/8368129?from=udn-catebreaknews_ch2",
+            "time": "2024-11-18 17:39"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/realtime/30927105.jpg&s=Y&x=0&y=0&sw=3300&sh=2200&exp=3600&w=300",
+            "title": "伊朗最高領袖顧問：儘管川普當選 與北京連結不變",
+            "link": "https://udn.com//news/story/121777/8368153?from=udn-catebreaknews_ch2",
+            "time": "2024-11-18 17:22"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/realtime/30927096.jpg&s=Y&x=0&y=0&sw=3872&sh=2581&exp=3600&w=300",
+            "title": "川普回歸白宮前 美菲簽協議共享機密軍情與技術",
+            "link": "https://udn.com//news/story/121777/8368144?from=udn-catebreaknews_ch2",
+            "time": "2024-11-18 17:19"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/realtime/30926967.jpg&s=Y&x=165&y=0&sw=1680&sh=1121&exp=3600&w=300",
             "title": "IMF：加密幣和AI的耗能 三年內將達到日本當前用電量",
             "link": "https://udn.com//news/story/6809/8368093?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "環球晶：丹麥廠布局太陽能 將100%使用再生能源",
             "link": "https://udn.com//news/story/6811/8367917?from=udn-catebreaknews_ch2",
             "time": "2024-11-18 16:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/12/realtime/30888493.jpg&s=Y&x=0&y=0&sw=6000&sh=3954&exp=3600&w=300",
-            "title": "台積電熊本設廠 學者：日本半導體業重振關鍵",
-            "link": "https://udn.com//news/story/6811/8367942?from=udn-catebreaknews_ch2",
-            "time": "2024-11-18 16:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/realtime/30926492.jpg&s=Y&x=0&y=0&sw=6466&sh=4311&exp=3600&w=300",
-            "title": "俄烏戰能因拜登放行ATACMS攻俄而翻盤？英法跟進放行暴風影飛彈",
-            "link": "https://udn.com//news/story/122663/8367880?from=udn-catebreaknews_ch2",
-            "time": "2024-11-18 15:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/realtime/30926314.jpg&s=Y&x=95&y=0&sw=1011&sh=675&exp=3600&w=300",
-            "title": "南韓空飄氣球送巧克力派、衛生棉到北韓！金與正怒轟「垃圾」",
-            "link": "https://udn.com//news/story/6809/8367810?from=udn-catebreaknews_ch2",
-            "time": "2024-11-18 15:12"
         }
     ]
 }
