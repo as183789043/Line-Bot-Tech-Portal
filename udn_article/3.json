@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/0/30928539.jpg&s=Y&x=78&y=0&sw=794&sh=529&exp=3600&w=300",
+            "title": "時隔六年半 中英領導人首次會晤",
+            "link": "https://udn.com//news/story/6809/8368716?from=udn-catebreaknews_ch2",
+            "time": "2024-11-18 23:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/realtime/30924213.jpg&s=Y&x=58&y=0&sw=3384&sh=2257&exp=3600&w=300",
             "title": "股神巴菲特上季保守操作股市、繼續囤現金 投資人該擔心嗎？",
             "link": "https://udn.com//news/story/6811/8368707?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "黎巴嫩首都遭以軍攻擊後學校停課 加薩再遇襲共20死",
             "link": "https://udn.com//news/story/123777/8368665?from=udn-catebreaknews_ch2",
             "time": "2024-11-18 22:38"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/98/30928359.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "俄羅斯射飛彈空襲烏克蘭敖德薩港 10死44傷",
-            "link": "https://udn.com//news/story/122663/8368654?from=udn-catebreaknews_ch2",
-            "time": "2024-11-18 22:37"
         }
     ]
 }
