@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/19/realtime/30929508.jpg&s=Y&x=48&y=0&sw=663&sh=442&exp=3600&w=300",
+            "title": "全球ETF資金流向美國 美國大選後的慶祝行情降溫",
+            "link": "https://udn.com//news/story/123006/8369023?from=udn-catebreaknews_ch2",
+            "time": "2024-11-19 06:32"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/19/realtime/30929463.jpg&s=Y&x=0&y=0&sw=604&sh=395&exp=3600&w=300",
+            "title": "台股高息ETF受益人周增6.5萬人 00940、00919、00929今年來人氣前三大",
+            "link": "https://udn.com//news/story/123006/8369008?from=udn-catebreaknews_ch2",
+            "time": "2024-11-19 06:08"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/2/30923804.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "台股六天跌逾千點 後市看美股表現與輝達財報",
             "link": "https://udn.com//news/story/7251/8368799?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "大摩護台積電不怕川普2.0 可將成本轉嫁給客戶",
             "link": "https://udn.com//news/story/7253/8368746?from=udn-catebreaknews_ch2",
             "time": "2024-11-19 02:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
-            "title": "台中銀 今年獲利拚新高",
-            "link": "https://udn.com//news/story/7252/8368747?from=udn-catebreaknews_ch2",
-            "time": "2024-11-19 02:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/15/2/30721850.jpg&s=Y&x=0&y=200&sw=944&sh=629&exp=3600&w=300",
-            "title": "聯華：供應鏈難移回單一國家 台灣在全球扮演重要角色",
-            "link": "https://udn.com//news/story/7252/8368694?from=udn-catebreaknews_ch2",
-            "time": "2024-11-19 02:15"
         }
     ]
 }
