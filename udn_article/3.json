@@ -1,7 +1,13 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
+            "title": "IMF：川普報復性關稅 恐傷亞洲",
+            "link": "https://udn.com//news/story/6811/8371361?from=udn-catebreaknews_ch2",
+            "time": "2024-11-20 02:36"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
             "title": "計畫大規模驅逐非法移民 川普：將宣布緊急狀態",
             "link": "https://udn.com//news/story/121777/8371338?from=udn-catebreaknews_ch2",
             "time": "2024-11-20 01:13"
@@ -19,16 +25,10 @@
             "time": "2024-11-20 01:11"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
             "title": "美援烏飛彈解禁 俄修改核原則",
             "link": "https://udn.com//news/story/122663/8371313?from=udn-catebreaknews_ch2",
             "time": "2024-11-20 01:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/19/realtime/30935173.jpg&s=Y&x=0&y=0&sw=2126&sh=1417&exp=3600&w=300",
-            "title": "俄烏戰爭滿千日 烏誓不屈服",
-            "link": "https://udn.com//news/story/122663/8371318?from=udn-catebreaknews_ch2",
-            "time": "2024-11-20 01:08"
         }
     ]
 }
