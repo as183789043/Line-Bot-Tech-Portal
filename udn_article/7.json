@@ -1,8 +1,14 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/2/30923804.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "台股上漲302點收22,848點 重返5日線",
+            "link": "https://udn.com//news/story/7251/8369996?from=udn-catebreaknews_ch2",
+            "time": "2024-11-19 13:48"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/12/2/30887022.jpg&s=Y&x=497&y=32&sw=717&sh=478&exp=3600&w=300",
-            "title": "三星業績下滑...台灣記憶體「慘業」！專家分析「南亞科、旺宏、華邦電」：散戶應嚴守停損",
+            "title": "三星業績下滑...台灣記憶體「慘業」！專家分析「南亞科、旺宏、華邦電」：基本面很重要",
             "link": "https://udn.com//news/story/7251/8369830?from=udn-catebreaknews_ch2",
             "time": "2024-11-19 13:08"
         },
@@ -19,16 +25,10 @@
             "time": "2024-11-19 12:21"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/25/0/30781919.jpg&s=Y&x=0&y=0&sw=1268&sh=845&exp=3600&w=300",
-            "title": "投資風險高…此話為真？老派「300萬回測」：買大盤ETF跟放保險箱差3倍多",
-            "link": "https://udn.com//news/story/123006/8369590?from=udn-catebreaknews_ch2",
-            "time": "2024-11-19 12:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/15/2/30909440.jpg&s=Y&x=40&y=12&sw=1209&sh=806&exp=3600&w=300",
-            "title": "00878、0056、00919...熱門高股息能「不降息」？稀飯「看淨值」：底氣足、維持不難",
-            "link": "https://udn.com//news/story/123006/8369332?from=udn-catebreaknews_ch2",
-            "time": "2024-11-19 11:45"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/realtime/30928430.jpg&s=Y&x=0&y=0&sw=1889&sh=1260&exp=3600&w=300",
+            "title": "川普「大禮包」來了！特斯拉概念股大漲 三檔衝漲停",
+            "link": "https://udn.com//news/story/7251/8369696?from=udn-catebreaknews_ch2",
+            "time": "2024-11-19 12:09"
         }
     ]
 }
