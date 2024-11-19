@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/16/realtime/30916075.jpg&s=Y&x=0&y=0&sw=3608&sh=2401&exp=3600&w=300",
+            "title": "大摩：輝達將達成財報目標、B200明年首季產量增加 看好台積等4台廠",
+            "link": "https://udn.com//news/story/7251/8371117?from=udn-catebreaknews_ch2",
+            "time": "2024-11-19 21:54"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/11/realtime/30880690.jpeg&s=Y&x=0&y=4&sw=658&sh=438&exp=3600&w=300",
             "title": "鴻海處分鴻準持股 處分利益2.03億元",
             "link": "https://udn.com//news/story/7251/8370844?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "外資買超106億 最受青睞的竟是這兩類股",
             "link": "https://udn.com//news/story/7251/8370767?from=udn-catebreaknews_ch2",
             "time": "2024-11-19 18:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/19/realtime/30934048.jpg&s=Y&x=0&y=144&sw=1432&sh=955&exp=3600&w=300",
-            "title": "台股大洗三溫暖使金融股洗牌 元大金躍金控股價市值前五強",
-            "link": "https://udn.com//news/story/7251/8370745?from=udn-catebreaknews_ch2",
-            "time": "2024-11-19 18:02"
         }
     ]
 }
