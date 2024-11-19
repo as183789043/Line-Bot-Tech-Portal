@@ -1,13 +1,19 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/realtime/30928430.jpg&s=Y&x=0&y=0&sw=1889&sh=1260&exp=3600&w=300",
+            "title": "存股變存骨！長期持有策略一定對？「特斯拉飆破400美元沒賣」她悔悟出硬道理",
+            "link": "https://udn.com//news/story/7251/8370235?from=udn-catebreaknews_ch2",
+            "time": "2024-11-20 05:16"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/13/2/30897805.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "輝達財報公布前夕 台股反攻押寶買盤進場 台積、AI鏈衝",
             "link": "https://udn.com//news/story/7251/8371357?from=udn-catebreaknews_ch2",
             "time": "2024-11-20 03:10"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
             "title": "今年前三季賺逾五個資本額 長榮股價衝上天價",
             "link": "https://udn.com//news/story/7252/8371249?from=udn-catebreaknews_ch2",
             "time": "2024-11-20 03:04"
@@ -23,12 +29,6 @@
             "title": "瑞銀降評台股 三理由",
             "link": "https://udn.com//news/story/7251/8371251?from=udn-catebreaknews_ch2",
             "time": "2024-11-20 03:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
-            "title": "全訊 國防訂單穩健",
-            "link": "https://udn.com//news/story/7253/8370935?from=udn-catebreaknews_ch2",
-            "time": "2024-11-20 03:00"
         }
     ]
 }

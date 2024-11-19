@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/20/realtime/30935380.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "【總編開箱】公務員之死 勞動部事前輕忽、事後開脫 讓人無法接受",
+            "link": "https://udn.com//news/story/124274/8371496?from=udn-catebreaknews_ch2",
+            "time": "2024-11-20 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/19/realtime/30934972.png&s=Y&x=123&y=0&sw=1335&sh=890&exp=3600&w=300",
             "title": "國土法立院明天排審 雲林力爭農業權入法",
             "link": "https://udn.com//news/story/6656/8371365?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "經貿辦：依國際標準評估 美牛豬鬆綁尚未定案",
             "link": "https://udn.com//news/story/6656/8371385?from=udn-catebreaknews_ch2",
             "time": "2024-11-20 02:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/19/realtime/30935233.jpeg&s=Y&x=0&y=0&sw=4141&sh=2761&exp=3600&w=300",
-            "title": "賴總統允美牛豬鬆綁？卓揆：沒討論",
-            "link": "https://udn.com//news/story/6656/8371380?from=udn-catebreaknews_ch2",
-            "time": "2024-11-20 02:18"
         }
     ]
 }
