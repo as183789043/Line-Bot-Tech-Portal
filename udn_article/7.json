@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/21/2/30947230.jpg&s=Y&x=28&y=76&sw=1236&sh=824&exp=3600&w=300",
+            "title": "國巨違反重訊規定 證交所開罰5萬元",
+            "link": "https://udn.com//news/story/7251/8376191?from=udn-catebreaknews_ch2",
+            "time": "2024-11-21 19:06"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/21/realtime/30948237.jpg&s=Y&x=0&y=29&sw=3913&sh=2608&exp=3600&w=300",
             "title": "佶優加速AI布局 AI伺服器機櫃及算力服務同軌並進",
             "link": "https://udn.com//news/story/7254/8376167?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "外資賣超263億元、賣最多竟是它 鴻海與台積也難逃賣超",
             "link": "https://udn.com//news/story/7251/8375893?from=udn-catebreaknews_ch2",
             "time": "2024-11-21 17:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/11/21/30943346.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "NVIDIA 財測優於預期 法人：半導體續強、留意布局契機",
-            "link": "https://udn.com//news/story/7251/8375889?from=udn-catebreaknews_ch2",
-            "time": "2024-11-21 17:02"
         }
     ]
 }
