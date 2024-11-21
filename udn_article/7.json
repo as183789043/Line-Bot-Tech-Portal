@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/06/2/30854300.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "國家隊連三買 台股守季線、台積電穩住千元大關",
+            "link": "https://udn.com//news/story/7251/8376704?from=udn-catebreaknews_ch2",
+            "time": "2024-11-22 01:30"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "title": "台股龍年1月22日封關 休市11天",
+            "link": "https://udn.com//news/story/7251/8376618?from=udn-catebreaknews_ch2",
+            "time": "2024-11-22 01:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/21/2/30948639.jpg&s=Y&x=0&y=0&sw=1272&sh=848&exp=3600&w=300",
             "title": "今日最夯 ETF／比特幣首度突破97,000美元 00909跟著飆新高、奪五冠王",
             "link": "https://udn.com//news/story/123006/8376574?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "佶優加速AI布局 AI伺服器機櫃及算力服務同軌並進",
             "link": "https://udn.com//news/story/7254/8376167?from=udn-catebreaknews_ch2",
             "time": "2024-11-21 18:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/21/realtime/30947748.jpg&s=Y&x=0&y=8&sw=1015&sh=676&exp=3600&w=300",
-            "title": "聯準會延後降息效應 合庫SWAP獲利今年將破百億元",
-            "link": "https://udn.com//news/story/7252/8376011?from=udn-catebreaknews_ch2",
-            "time": "2024-11-21 17:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/21/realtime/30947581.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "興富發法說會／房市轉冷...宣布「暫時不買地」 可以肯定市場必然降價",
-            "link": "https://udn.com//news/story/7252/8375918?from=udn-catebreaknews_ch2",
-            "time": "2024-11-21 17:12"
         }
     ]
 }
