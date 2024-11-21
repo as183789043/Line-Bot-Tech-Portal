@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/21/0/30945631.jpg&s=Y&x=280&y=0&sw=920&sh=613&exp=3600&w=300",
+            "title": "巴菲特現金水位史上最高 市場很危險嗎？",
+            "link": "https://udn.com//news/story/6841/8375128?from=udn-catebreaknews_ch2",
+            "time": "2024-11-21 12:52"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/21/draft/30944647.png&s=Y&x=100&y=0&sw=1080&sh=720&exp=3600&w=300",
             "title": "航運即將迎來供不應求大行情！",
             "link": "https://udn.com//news/story/6850/8374744?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "選後台股兩樣情 短線強弱有別！",
             "link": "https://udn.com//news/story/6850/8374720?from=udn-catebreaknews_ch2",
             "time": "2024-11-21 12:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/21/draft/30944580.jpg&s=Y&x=171&y=0&sw=939&sh=626&exp=3600&w=300",
-            "title": "輝達AI伺服器的封測小尖兵─京元電",
-            "link": "https://udn.com//news/story/6850/8374714?from=udn-catebreaknews_ch2",
-            "time": "2024-11-21 12:11"
         }
     ]
 }
