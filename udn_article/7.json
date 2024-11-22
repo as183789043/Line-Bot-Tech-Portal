@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/21/2/30948325.jpg&s=Y&x=20&y=76&sw=1260&sh=840&exp=3600&w=300",
+            "title": "證交所：台股交易時間應維持現狀 延長無助量能提升",
+            "link": "https://udn.com//news/story/7251/8378281?from=udn-catebreaknews_ch2",
+            "time": "2024-11-22 16:19"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/21/2/30309966.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股上漲348點 三大法人買超164億元",
+            "link": "https://udn.com//news/story/7251/8378117?from=udn-catebreaknews_ch2",
+            "time": "2024-11-22 15:12"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/16/2/30912757.jpg&s=Y&x=0&y=0&sw=1268&sh=845&exp=3600&w=300",
+            "title": "台股上漲348點 台積電領軍上攻、這些電子股貢獻指數最多",
+            "link": "https://udn.com//news/story/7251/8378080?from=udn-catebreaknews_ch2",
+            "time": "2024-11-22 15:03"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/22/2/30953367.jpg&s=Y&x=0&y=16&sw=1281&sh=854&exp=3600&w=300",
             "title": "台股漲348點收22,904點 台積電上漲30元收1,040元",
             "link": "https://udn.com//news/story/7251/8378002?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "00909走勢與比特幣漲幅幾乎一致！ 股價回至35元上下將吸引一波趕上車熱潮",
             "link": "https://udn.com//news/story/123006/8377905?from=udn-catebreaknews_ch2",
             "time": "2024-11-22 14:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/17/realtime/30922118.jpg&s=Y&x=0&y=0&sw=1889&sh=1259&exp=3600&w=300",
-            "title": "台股第4季上漲機率達九成！投資00878卡位年底科技新品出貨行情",
-            "link": "https://udn.com//news/story/123006/8377904?from=udn-catebreaknews_ch2",
-            "time": "2024-11-22 13:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/22/0/30951806.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "00900、00929、00934、00936、00940…高股息ETF多檔降息！ 莎莉：適度修正並非壞事",
-            "link": "https://udn.com//news/story/123006/8377453?from=udn-catebreaknews_ch2",
-            "time": "2024-11-22 11:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/22/realtime/30951827.jpg&s=Y&x=0&y=8&sw=1170&sh=780&exp=3600&w=300",
-            "title": "金寶伺服器利多助攻 早盤亮燈漲停、成交逾14萬張",
-            "link": "https://udn.com//news/story/7253/8377487?from=udn-catebreaknews_ch2",
-            "time": "2024-11-22 11:42"
         }
     ]
 }
