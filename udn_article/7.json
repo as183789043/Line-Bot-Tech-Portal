@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/22/2/30953367.jpg&s=Y&x=0&y=16&sw=1281&sh=854&exp=3600&w=300",
+            "title": "台股漲348點收22,904點 台積電上漲30元收1,040元",
+            "link": "https://udn.com//news/story/7251/8378002?from=udn-catebreaknews_ch2",
+            "time": "2024-11-22 14:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/22/0/30953069.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "00909走勢與比特幣漲幅幾乎一致！ 股價回至35元上下將吸引一波趕上車熱潮",
             "link": "https://udn.com//news/story/123006/8377905?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "金寶伺服器利多助攻 早盤亮燈漲停、成交逾14萬張",
             "link": "https://udn.com//news/story/7253/8377487?from=udn-catebreaknews_ch2",
             "time": "2024-11-22 11:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
-            "title": "台灣虎航中籤率僅有0.2% 89萬人瘋搶1,790張",
-            "link": "https://udn.com//news/story/7252/8377459?from=udn-catebreaknews_ch2",
-            "time": "2024-11-22 11:34"
         }
     ]
 }
