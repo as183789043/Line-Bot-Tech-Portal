@@ -1,6 +1,18 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/22/realtime/30955831.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
+            "title": "台南規模5.4地震 氣象署：未來3天還有規模4.5以上餘震",
+            "link": "https://udn.com//news/story/7266/8378892?from=udn-catebreaknews_ch2",
+            "time": "2024-11-22 21:44"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/12/32/30891792.png&s=Y&x=2&y=0&sw=789&sh=526&exp=3600&w=300",
+            "title": "【星座指南】表面看似溫柔，真實性格卻很強勢的4個星座女！",
+            "link": "https://udn.com//news/story/121721/8355638?from=udn-catebreaknews_ch2",
+            "time": "2024-11-22 21:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/22/realtime/30955788.jpg&s=Y&x=0&y=0&sw=5374&sh=3583&exp=3600&w=300",
             "title": "20:40台南發生規模5.4地震 台鐵5區間降速行駛",
             "link": "https://udn.com//news/story/7266/8378869?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台南晚間發生規模5.4地震 天搖地動讓餐廳店內的人都往外衝",
             "link": "https://udn.com//news/story/7266/8378867?from=udn-catebreaknews_ch2",
             "time": "2024-11-22 21:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/22/realtime/30955762.png&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "連3震！台南麻豆20:43又發生規模3.5、4.3地震",
-            "link": "https://udn.com//news/story/7266/8378861?from=udn-catebreaknews_ch2",
-            "time": "2024-11-22 21:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/22/realtime/30955764.jpg&s=Y&x=133&y=0&sw=1440&sh=960&exp=3600&w=300",
-            "title": "20:40台南規模5.4地震 高鐵行經嘉義斷電一度停駛",
-            "link": "https://udn.com//news/story/7266/8378862?from=udn-catebreaknews_ch2",
-            "time": "2024-11-22 21:04"
         }
     ]
 }
