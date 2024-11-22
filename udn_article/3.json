@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/22/realtime/30954580.jpg&s=Y&x=0&y=0&sw=3500&sh=2333&exp=3600&w=300",
+            "title": "美中台博弈／川普關稅論背後 搖滾樂經紀人非典經濟觀",
+            "link": "https://udn.com//news/story/6809/8378489?from=udn-catebreaknews_ch2",
+            "time": "2024-11-23 07:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/19/98/30934768.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "俄發射新型飛彈襲烏 澤倫斯基尋求西方更新空防系統",
             "link": "https://udn.com//news/story/122663/8379266?from=udn-catebreaknews_ch2",
@@ -8,7 +14,7 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/11/23/30956925.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "道指漲逾400點 收創歷史新高 史指連漲5日",
+            "title": "美股道指漲逾400點 收創歷史新高…史指連漲5日",
             "link": "https://udn.com//news/story/6811/8379280?from=udn-catebreaknews_ch2",
             "time": "2024-11-23 05:49"
         },
@@ -23,12 +29,6 @@
             "title": "普亭稱在戰鬥下 將對「榛果樹」飛彈進行更多測試",
             "link": "https://udn.com//news/story/122663/8379251?from=udn-catebreaknews_ch2",
             "time": "2024-11-23 04:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/22/realtime/30956039.jpg&s=Y&x=0&y=0&sw=1133&sh=755&exp=3600&w=300",
-            "title": "瑞典電池廠破產 CEO請辭",
-            "link": "https://udn.com//news/story/6811/8379007?from=udn-catebreaknews_ch2",
-            "time": "2024-11-23 03:00"
         }
     ]
 }
