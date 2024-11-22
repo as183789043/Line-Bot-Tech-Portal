@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/23/realtime/30956438.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "早知霸凌案卻噤聲坐視的洪申翰掌勞部 員工情何以堪",
+            "link": "https://udn.com//news/story/6656/8379215?from=udn-catebreaknews_ch2",
+            "time": "2024-11-23 05:55"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/22/1/30956055.png&s=Y&x=0&y=16&sw=1281&sh=854&exp=3600&w=300",
+            "title": "圖解俄新型極音速飛彈 「榛果樹」5分鐘飛千里 烏克蘭措手不及",
+            "link": "https://udn.com//news/story/7314/8379108?from=udn-catebreaknews_ch2",
+            "time": "2024-11-23 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/22/realtime/30956174.jpg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
             "title": "勞長何佩珊請辭 洪申翰接任 卓揆指示對霸凌零容忍",
             "link": "https://udn.com//news/story/124274/8379126?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "軍事專家稱 美印太戰略決定台美軍售",
             "link": "https://udn.com//news/story/10930/8379122?from=udn-catebreaknews_ch2",
             "time": "2024-11-23 02:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
-            "title": "賴總統出訪延遲 學者：美政權交接 不願橫生波折",
-            "link": "https://udn.com//news/story/6656/8379115?from=udn-catebreaknews_ch2",
-            "time": "2024-11-23 01:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/22/realtime/30951939.jpeg&s=Y&x=0&y=0&sw=3880&sh=2587&exp=3600&w=300",
-            "title": "避開爭議！ 賴總統出訪不入美「本土」 完成過境美目標",
-            "link": "https://udn.com//news/story/6656/8379112?from=udn-catebreaknews_ch2",
-            "time": "2024-11-23 01:54"
         }
     ]
 }

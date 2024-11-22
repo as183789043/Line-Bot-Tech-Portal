@@ -1,10 +1,16 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/14/2/30903039.jpg&s=Y&x=0&y=0&sw=658&sh=439&exp=3600&w=300",
+            "title": "一周熱門零股／鴻海、鴻準躋身前十強",
+            "link": "https://udn.com//news/story/7251/8378823?from=udn-catebreaknews_ch2",
+            "time": "2024-11-23 06:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/23/2/30956433.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "輝達供應鏈四強 花旗按讚 給予「買進」評級",
             "link": "https://udn.com//news/story/7251/8379009?from=udn-catebreaknews_ch2",
-            "time": "2024-11-23 03:00"
+            "time": "2024-11-23 05:30"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/23/2/30956464.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
@@ -13,7 +19,7 @@
             "time": "2024-11-23 03:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
             "title": "台股雙作帳行情啟動",
             "link": "https://udn.com//news/story/7251/8379049?from=udn-catebreaknews_ch2",
             "time": "2024-11-23 03:00"
@@ -22,12 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/22/realtime/30956172.jpg&s=Y&x=4&y=52&sw=1209&sh=806&exp=3600&w=300",
             "title": "上海銀股息配發率估60% 前十月EPS 2.23元",
             "link": "https://udn.com//news/story/7252/8379123?from=udn-catebreaknews_ch2",
-            "time": "2024-11-23 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/03/04/2/29115140.jpg&s=Y&x=0&y=0&sw=1133&sh=755&exp=3600&w=300",
-            "title": "遠東銀前三季 獲利創高",
-            "link": "https://udn.com//news/story/7252/8379125?from=udn-catebreaknews_ch2",
             "time": "2024-11-23 03:00"
         }
     ]
