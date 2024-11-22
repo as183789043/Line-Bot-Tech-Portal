@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/22/realtime/30955982.jpg&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "緯創法說會／總座：竹北新廠明年首季啟用 台產能沒問題",
+            "link": "https://udn.com//news/story/7253/8378961?from=udn-catebreaknews_ch2",
+            "time": "2024-11-22 22:38"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/22/realtime/30955215.jpg&s=Y&x=0&y=0&sw=1569&sh=1044&exp=3600&w=300",
             "title": "台泥法說會／董事長張安平扛40公斤水泥袋上台開場",
             "link": "https://udn.com//news/story/7252/8378638?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "證交所：台股交易時間應維持現狀 延長無助量能提升",
             "link": "https://udn.com//news/story/7251/8378281?from=udn-catebreaknews_ch2",
             "time": "2024-11-22 16:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/21/2/30309966.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台股上漲348點 三大法人買超164億元",
-            "link": "https://udn.com//news/story/7251/8378117?from=udn-catebreaknews_ch2",
-            "time": "2024-11-22 15:12"
         }
     ]
 }
