@@ -1,6 +1,12 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/23/realtime/30960105.jpg&s=Y&x=66&y=0&sw=3369&sh=2247&exp=3600&w=300",
+            "title": "本周關注聯準會貨幣政策、台灣今年GDP可望突破4%",
+            "link": "https://udn.com//news/story/7238/8380143?from=udn-catebreaknews_ch2",
+            "time": "2024-11-24 06:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/23/realtime/30961409.jpg&s=Y&x=0&y=0&sw=755&sh=503&exp=3600&w=300",
             "title": "獲頒香港科大榮譽博士 黃仁勳看AI革命重設世界",
             "link": "https://udn.com//news/story/7240/8380583?from=udn-catebreaknews_ch2",
@@ -22,12 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/24/2/30961839.jpg&s=Y&x=0&y=0&sw=872&sh=581&exp=3600&w=300",
             "title": "明年經濟 一字預測／周俊吉選「信」 楊玉全挑「順」",
             "link": "https://udn.com//news/story/7241/8380612?from=udn-catebreaknews_ch2",
-            "time": "2024-11-24 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/15/realtime/30912545.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "環境部長彭啓明：將設三階段減碳目標 政府部門明年碳盤查",
-            "link": "https://udn.com//news/story/7238/8380617?from=udn-catebreaknews_ch2",
             "time": "2024-11-24 03:00"
         }
     ]
