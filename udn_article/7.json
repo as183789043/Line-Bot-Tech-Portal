@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/24/2/30966052.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "高盛2025投資展望：經濟可望軟著陸 看好美股及多元債",
+            "link": "https://udn.com//news/story/7251/8381896?from=udn-catebreaknews_ch2",
+            "time": "2024-11-24 22:06"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/24/2/30966545.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "麥格理：輝達GB200贏家可能更強大 看好四檔台股",
+            "link": "https://udn.com//news/story/7253/8381894?from=udn-catebreaknews_ch2",
+            "time": "2024-11-24 22:04"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/24/0/30965866.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "美國股匯雙強會持續多久？億級投資人點出最佳防禦策略",
             "link": "https://udn.com//news/story/12806/8381643?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "本金10萬每月定期定額1萬…20年可以資產破千萬？ 存股哥：可行性不低！",
             "link": "https://udn.com//news/story/123006/8381551?from=udn-catebreaknews_ch2",
             "time": "2024-11-24 17:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/24/realtime/30965253.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "美國大選後市場震盪 基金平台：可長線布局美台印市場",
-            "link": "https://udn.com//news/story/10103/8381512?from=udn-catebreaknews_ch2",
-            "time": "2024-11-24 16:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/24/98/30964065.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
-            "title": "美股選後漲勢延續  法人：台股若量能放大有助攻月線",
-            "link": "https://udn.com//news/story/7251/8381182?from=udn-catebreaknews_ch2",
-            "time": "2024-11-24 12:48"
         }
     ]
 }
