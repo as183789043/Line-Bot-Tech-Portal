@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/24/realtime/30965253.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "美國大選後市場震盪 基金平台：可長線布局美台印市場",
+            "link": "https://udn.com//news/story/10103/8381512?from=udn-catebreaknews_ch2",
+            "time": "2024-11-24 16:42"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/24/98/30964065.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
             "title": "美股選後漲勢延續  法人：台股若量能放大有助攻月線",
             "link": "https://udn.com//news/story/7251/8381182?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "「TNT概念股」錢景閃亮 神達、亞翔等供應鏈吃香喝辣",
             "link": "https://udn.com//news/story/7251/8380569?from=udn-catebreaknews_ch2",
             "time": "2024-11-24 02:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/07/15/2/30002422.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "半導體工程廠旺到明年 漢唐、亞翔、帆宣等加碼布局",
-            "link": "https://udn.com//news/story/7253/8380556?from=udn-catebreaknews_ch2",
-            "time": "2024-11-24 02:05"
         }
     ]
 }
