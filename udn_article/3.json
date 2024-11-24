@@ -1,13 +1,25 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/22/realtime/30954170.jpg&s=Y&x=0&y=5&sw=800&sh=532&exp=3600&w=300",
+            "title": "美英法長程飛彈助烏 普亭未必想在川普上任前升級局勢",
+            "link": "https://udn.com//news/story/122663/8378310?from=udn-catebreaknews_ch2",
+            "time": "2024-11-25 05:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/11/25/30967280.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "巴基斯坦教派衝突至少82死 政府調停達成停火7天",
+            "link": "https://udn.com//news/story/6809/8382238?from=udn-catebreaknews_ch2",
+            "time": "2024-11-25 03:55"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/23/realtime/30961385.jpg&s=Y&x=0&y=0&sw=7677&sh=5118&exp=3600&w=300",
             "title": "COP29敲定氣候融資協議 但川普2.0恐造成阻礙",
             "link": "https://udn.com//news/story/6809/8381988?from=udn-catebreaknews_ch2",
             "time": "2024-11-25 02:50"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
             "title": "Fed：評估貨幣政策架構",
             "link": "https://udn.com//news/story/6811/8382006?from=udn-catebreaknews_ch2",
             "time": "2024-11-25 02:30"
@@ -17,18 +29,6 @@
             "title": "川普名嘴內閣 要有螢幕魅力",
             "link": "https://udn.com//news/story/121777/8382021?from=udn-catebreaknews_ch2",
             "time": "2024-11-25 02:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/24/realtime/30966631.jpg&s=Y&x=0&y=0&sw=2592&sh=1728&exp=3600&w=300",
-            "title": "美準商務部長爆加密幣爭議 執掌公司將取得穩定幣巨擘Tether 5%股權",
-            "link": "https://udn.com//news/story/121777/8382022?from=udn-catebreaknews_ch2",
-            "time": "2024-11-25 02:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
-            "title": "擔心關稅被調高 義乳酪業者在美囤貨",
-            "link": "https://udn.com//news/story/6811/8382026?from=udn-catebreaknews_ch2",
-            "time": "2024-11-25 02:26"
         }
     ]
 }
