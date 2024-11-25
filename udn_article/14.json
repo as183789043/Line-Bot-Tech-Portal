@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/21/0/30944231.jpg&s=Y&x=0&y=0&sw=1247&sh=831&exp=3600&w=300",
+            "title": "用金融科技打造富足退休生活",
+            "link": "https://udn.com//news/story/6854/8376210?from=udn-catebreaknews_ch2",
+            "time": "2024-11-25 11:20"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/25/draft/30968297.jpg&s=Y&x=0&y=6&sw=800&sh=532&exp=3600&w=300",
+            "title": "半世紀家庭結構變了 「核心家庭」不再是主流",
+            "link": "https://udn.com//news/story/6897/8382459?from=udn-catebreaknews_ch2",
+            "time": "2024-11-25 11:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/105/30963144.jpg&s=Y&x=0&y=0&sw=1031&sh=687&exp=3600&w=300",
             "title": "一次到位的照顧科技整合平台",
             "link": "https://udn.com//news/story/11726/8367806?from=udn-catebreaknews_ch2",
@@ -16,18 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/02/realtime/30643670.jpg&s=Y&x=0&y=0&sw=4000&sh=2667&exp=3600&w=300",
             "title": "AI數據中心：節能減碳新趨勢",
             "link": "https://udn.com//news/story/11726/8367789?from=udn-catebreaknews_ch2",
-            "time": "2024-11-24 10:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/2/30925695.jpg&s=Y&x=0&y=0&sw=896&sh=597&exp=3600&w=300",
-            "title": "PCB搶進智慧減碳革新",
-            "link": "https://udn.com//news/story/11726/8367753?from=udn-catebreaknews_ch2",
-            "time": "2024-11-24 10:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/draft/30925912.jfif&s=Y&x=0&y=6&sw=600&sh=400&exp=3600&w=300",
-            "title": "AI伺服器驅動PCB材料與技術革新",
-            "link": "https://udn.com//news/story/11726/8367745?from=udn-catebreaknews_ch2",
             "time": "2024-11-24 10:20"
         }
     ]
