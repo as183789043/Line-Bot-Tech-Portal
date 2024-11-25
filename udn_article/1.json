@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/25/98/30972827.jpg&s=Y&x=88&y=60&sw=1161&sh=774&exp=3600&w=300",
+            "title": "林佳龍接見日本參議員 盼強化台日在第三國合作",
+            "link": "https://udn.com//news/story/6656/8384217?from=udn-catebreaknews_ch2",
+            "time": "2024-11-25 21:55"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/25/98/30972606.jpg&s=Y&x=20&y=8&sw=1237&sh=825&exp=3600&w=300",
             "title": "洪申翰掌勞動部 台聯籲以台灣勞工權益優先",
             "link": "https://udn.com//news/story/124280/8384124?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "陸4艘海警船今下午航入金門海域 海巡巡防艇監控驅離",
             "link": "https://udn.com//news/story/10930/8384043?from=udn-catebreaknews_ch2",
             "time": "2024-11-25 19:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/25/98/30972428.jpg&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
-            "title": "議員籲新北副市長主導因應霸凌案 陳純敬：不應疊床架屋",
-            "link": "https://udn.com//news/story/124274/8383913?from=udn-catebreaknews_ch2",
-            "time": "2024-11-25 19:51"
         }
     ]
 }
