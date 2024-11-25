@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/25/0/30971591.jpg&s=Y&x=4&y=8&sw=1261&sh=841&exp=3600&w=300",
+            "title": "新聞眼／新勞長 別再當慣老闆",
+            "link": "https://udn.com//news/story/124280/8384511?from=udn-catebreaknews_ch2",
+            "time": "2024-11-26 02:29"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/25/98/30972606.jpg&s=Y&x=20&y=8&sw=1237&sh=825&exp=3600&w=300",
             "title": "洪申翰就任勞長 允速修法認定職場霸凌",
             "link": "https://udn.com//news/story/124280/8384508?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2024-11-26 01:42"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_6.jpg&w=300",
             "title": "衛報：蔡英文10月倫敦行 遭英推遲",
             "link": "https://udn.com//news/story/6656/8384477?from=udn-catebreaknews_ch2",
             "time": "2024-11-26 00:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/25/98/30972827.jpg&s=Y&x=88&y=60&sw=1161&sh=774&exp=3600&w=300",
-            "title": "林佳龍接見日本參議員 盼強化台日在第三國合作",
-            "link": "https://udn.com//news/story/6656/8384217?from=udn-catebreaknews_ch2",
-            "time": "2024-11-25 21:55"
         }
     ]
 }
