@@ -1,13 +1,25 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
+            "title": "美國特別檢察官放棄對特朗普的兩大刑事訴訟",
+            "link": "https://udn.com//news/story/121777/8386955?from=udn-catebreaknews_ch2",
+            "time": "2024-11-27 06:10"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
+            "title": "烏克蘭更新：俄羅斯迅速推進 發起創紀錄無人機襲擊",
+            "link": "https://udn.com//news/story/122663/8387026?from=udn-catebreaknews_ch2",
+            "time": "2024-11-27 06:09"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/26/realtime/30979711.jpg&s=Y&x=0&y=14&sw=2074&sh=1382&exp=3600&w=300",
             "title": "內唐亞胡擬允與黎停火",
             "link": "https://udn.com//news/story/123777/8386904?from=udn-catebreaknews_ch2",
             "time": "2024-11-27 04:41"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
             "title": "「只有傻子還造F-35」 馬斯克：無人機才是未來",
             "link": "https://udn.com//news/story/6811/8386907?from=udn-catebreaknews_ch2",
             "time": "2024-11-27 04:40"
@@ -17,18 +29,6 @@
             "title": "爭議度堪比蓋茨 川普考慮提名心腹巴特爾接掌FBI",
             "link": "https://udn.com//news/story/121777/8386901?from=udn-catebreaknews_ch2",
             "time": "2024-11-27 04:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
-            "title": "干預大選案獲撤訴 川普：我贏了",
-            "link": "https://udn.com//news/story/121777/8386899?from=udn-catebreaknews_ch2",
-            "time": "2024-11-27 04:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
-            "title": "台AI伺服器供應鏈 首當其衝",
-            "link": "https://udn.com//news/story/121777/8386971?from=udn-catebreaknews_ch2",
-            "time": "2024-11-27 03:54"
         }
     ]
 }
