@@ -1,6 +1,24 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/23/realtime/30959660.jpg&s=Y&x=0&y=0&sw=2508&sh=1672&exp=3600&w=300",
+            "title": "疾管署涉霸凌案 明公布結果",
+            "link": "https://udn.com//news/story/124274/8386970?from=udn-catebreaknews_ch2",
+            "time": "2024-11-27 02:41"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/26/2/30978949.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "勞保財務政府最終責任入法 勞團：洪部長不要反對",
+            "link": "https://udn.com//news/story/124280/8386963?from=udn-catebreaknews_ch2",
+            "time": "2024-11-27 02:39"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/26/realtime/30979782.jpg&s=Y&x=0&y=0&sw=1699&sh=1133&exp=3600&w=300",
+            "title": "新勞長洪申翰 公布直屬申訴電話",
+            "link": "https://udn.com//news/story/124280/8386976?from=udn-catebreaknews_ch2",
+            "time": "2024-11-27 02:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/27/1/30980052.jpg&s=Y&x=0&y=108&sw=1278&sh=852&exp=3600&w=300",
             "title": "放映「國有器官」 我接獲28恐嚇案",
             "link": "https://udn.com//news/story/6656/8387049?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "陸批賴清德月底出訪 外交部：第三國無說三道四空間",
             "link": "https://udn.com//news/story/6656/8387044?from=udn-catebreaknews_ch2",
             "time": "2024-11-27 01:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/27/realtime/30979897.jpg&s=Y&x=0&y=31&sw=2906&sh=1936&exp=3600&w=300",
-            "title": "試院併入政院？周弘憲：有共識就尊重",
-            "link": "https://udn.com//news/story/6656/8387046?from=udn-catebreaknews_ch2",
-            "time": "2024-11-27 01:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/27/realtime/30979898.jpg&s=Y&x=0&y=0&sw=5941&sh=3961&exp=3600&w=300",
-            "title": "廣角鏡／大法官被提名人 拜會民進黨團",
-            "link": "https://udn.com//news/story/6656/8387047?from=udn-catebreaknews_ch2",
-            "time": "2024-11-27 01:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/26/realtime/30977742.jpg&s=Y&x=0&y=456&sw=2780&sh=1853&exp=3600&w=300",
-            "title": "京華城案／柯文哲大帳房 李文宗延押2月",
-            "link": "https://udn.com//news/story/6656/8387048?from=udn-catebreaknews_ch2",
-            "time": "2024-11-27 01:31"
         }
     ]
 }
