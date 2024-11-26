@@ -1,6 +1,12 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/26/realtime/30978740.jpeg&s=Y&x=342&y=0&sw=3762&sh=2508&exp=3600&w=300",
+            "title": "賀中華隊奪冠 Global Mall逾百家品牌買1送1、5折起",
+            "link": "https://udn.com//news/story/7193/8386395?from=udn-catebreaknews_ch2",
+            "time": "2024-11-26 18:29"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/26/realtime/30978379.jpg&s=Y&x=0&y=17&sw=2364&sh=1576&exp=3600&w=300",
             "title": "必勝客「美式炭烤小肋排」登場！嫩牛大蝦起司比薩開賣",
             "link": "https://udn.com//news/story/7193/8386308?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "網傳這家是竹北最強的泰式定食？主菜下飯份量多 打拋豬、椒麻雞腿都超推",
             "link": "https://udn.com//news/story/7206/8365141?from=udn-catebreaknews_ch2",
             "time": "2024-11-26 16:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/26/realtime/30977648.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "大人系特調！7-ELEVEN、全家攜手金酒打造高粱風味拿鐵",
-            "link": "https://udn.com//news/story/7187/8386028?from=udn-catebreaknews_ch2",
-            "time": "2024-11-26 16:14"
         }
     ]
 }
