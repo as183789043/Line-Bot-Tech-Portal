@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/26/0/30976757.jpg&s=Y&x=284&y=0&sw=916&sh=611&exp=3600&w=300",
+            "title": "親人住院醫院幫你顧！更專業更便宜 但使用率為何只有36%？",
+            "link": "https://udn.com//news/story/6841/8385731?from=udn-catebreaknews_ch2",
+            "time": "2024-11-26 14:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/15/2/30717670.jpg&s=Y&x=28&y=20&sw=1245&sh=830&exp=3600&w=300",
             "title": "不是機師、醫師…這行年薪500萬起跳！5職業「高薪又壓力小」 啥科系能入行？",
             "link": "https://udn.com//news/story/6839/8385219?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "信用卡沒用就剪掉？信貸專家直呼「千萬不要」 1指數會暴增：恐降低信用評分",
             "link": "https://udn.com//news/story/6839/8382890?from=udn-catebreaknews_ch2",
             "time": "2024-11-25 13:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/21/0/30944231.jpg&s=Y&x=0&y=0&sw=1247&sh=831&exp=3600&w=300",
-            "title": "用金融科技打造富足退休生活",
-            "link": "https://udn.com//news/story/6854/8376210?from=udn-catebreaknews_ch2",
-            "time": "2024-11-25 11:20"
         }
     ]
 }
