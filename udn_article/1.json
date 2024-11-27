@@ -1,9 +1,15 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/28/98/30799094.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "民進黨秘書長林右昌會見美參眾兩院跨黨派幕僚團 盼台美關係成長",
+            "link": "https://udn.com//news/story/6656/8389393?from=udn-catebreaknews_ch2",
+            "time": "2024-11-27 22:38"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/27/realtime/30986147.jpg&s=Y&x=0&y=8&sw=1156&sh=770&exp=3600&w=300",
             "title": "海科館長陳素芬被控霸凌遭調離 王鴻薇指後台是林右昌",
-            "link": "https://udn.com//news/story/6656/8389335?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124274/8389335?from=udn-catebreaknews_ch2",
             "time": "2024-11-27 22:03"
         },
         {
@@ -23,12 +29,6 @@
             "title": "小哈利曝「伊能靜支持藝術、哈林教禮貌做人」 吐爸媽離婚心聲",
             "link": "https://udn.com//news/story/123693/8389082?from=udn-catebreaknews_ch2",
             "time": "2024-11-27 21:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/27/realtime/30986007.jpeg&s=Y&x=0&y=0&sw=4863&sh=3242&exp=3600&w=300",
-            "title": "台鐵主管涉霸凌還調升國發會  國發會回應了",
-            "link": "https://udn.com//news/story/124274/8389284?from=udn-catebreaknews_ch2",
-            "time": "2024-11-27 21:27"
         }
     ]
 }
