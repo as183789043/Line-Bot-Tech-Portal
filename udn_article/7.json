@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/27/realtime/30984142.jpg&s=Y&x=0&y=0&sw=2291&sh=1527&exp=3600&w=300",
+            "title": "川普減稅加持 科技股基本面撐未來行情",
+            "link": "https://udn.com//news/story/7251/8389041?from=udn-catebreaknews_ch2",
+            "time": "2024-11-27 19:05"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/25/2/30972130.jpg&s=Y&x=0&y=0&sw=1204&sh=803&exp=3600&w=300",
+            "title": "愈跌愈買 多檔高股息ETF受益人持續增加",
+            "link": "https://udn.com//news/story/123006/8388987?from=udn-catebreaknews_ch2",
+            "time": "2024-11-27 18:32"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/01/2/30820738.jpg&s=Y&x=0&y=424&sw=1133&sh=755&exp=3600&w=300",
+            "title": "里昂看2025年半導體產業：日月光、京元電、祥碩獲「優於大盤」評級",
+            "link": "https://udn.com//news/story/7253/8388956?from=udn-catebreaknews_ch2",
+            "time": "2024-11-27 18:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/16/0/30914016.jpg&s=Y&x=128&y=28&sw=1069&sh=713&exp=3600&w=300",
             "title": "台積電發行限制員工權利新股 第2季股利調降低於4元",
             "link": "https://udn.com//news/story/7253/8388896?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "外資賣超409億元 賣超聯電5.8萬張、買超最高的竟是航空股",
             "link": "https://udn.com//news/story/7251/8388783?from=udn-catebreaknews_ch2",
             "time": "2024-11-27 17:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/27/2/30984379.jpg&s=Y&x=14&y=6&sw=1252&sh=835&exp=3600&w=300",
-            "title": "國泰金法說會／談股利政策 總座李長庚：盡量爭取、讓股息殖利率逾4%",
-            "link": "https://udn.com//news/story/7252/8388586?from=udn-catebreaknews_ch2",
-            "time": "2024-11-27 16:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/02/2/30830766.jpg&s=Y&x=140&y=0&sw=1140&sh=760&exp=3600&w=300",
-            "title": "台股破季線 失守「生命線」該怎麼操作？分析師建議先持觀望態度",
-            "link": "https://udn.com//news/story/7251/8388483?from=udn-catebreaknews_ch2",
-            "time": "2024-11-27 15:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/21/98/30943621.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台股下跌343點 三大法人賣超523億元",
-            "link": "https://udn.com//news/story/7251/8388408?from=udn-catebreaknews_ch2",
-            "time": "2024-11-27 15:10"
         }
     ]
 }
