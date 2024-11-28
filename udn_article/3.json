@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/27/realtime/30985493.jpg&s=Y&x=0&y=24&sw=3500&sh=2332&exp=3600&w=300",
+            "title": "電商競爭激烈 歐洲零售商為何加強投資實體商店？",
+            "link": "https://udn.com//news/story/6809/8389039?from=udn-catebreaknews_ch2",
+            "time": "2024-11-29 06:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/28/realtime/30992074.jpg&s=Y&x=0&y=24&sw=3500&sh=2332&exp=3600&w=300",
+            "title": "憂川普上任干預聯準會、揮關稅大刀 全球經濟暗藏危機",
+            "link": "https://udn.com//news/story/6811/8391482?from=udn-catebreaknews_ch2",
+            "time": "2024-11-29 06:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/28/98/30992409.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "烏干達東部發生土石流災情  至少15死113失蹤",
             "link": "https://udn.com//news/story/6809/8392091?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "涉毀歐電纜 陸船遭包圍",
             "link": "https://udn.com//news/story/6809/8391962?from=udn-catebreaknews_ch2",
             "time": "2024-11-29 03:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
-            "title": "芬蘭：陸援俄侵烏 影響對歐外交",
-            "link": "https://udn.com//news/story/122663/8391973?from=udn-catebreaknews_ch2",
-            "time": "2024-11-29 03:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/28/realtime/30992901.jpg&s=Y&x=0&y=0&sw=2094&sh=1417&exp=3600&w=300",
-            "title": "美國安會前幕僚長 任俄烏特使",
-            "link": "https://udn.com//news/story/122663/8391926?from=udn-catebreaknews_ch2",
-            "time": "2024-11-29 03:38"
         }
     ]
 }
