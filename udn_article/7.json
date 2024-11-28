@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/18/2/30925227.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "DRAM 類股疲弱、傳產逆勢撐盤 台股盤中持續下挫",
+            "link": "https://udn.com//news/story/7251/8390317?from=udn-catebreaknews_ch2",
+            "time": "2024-11-28 11:56"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/28/98/30988537.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "台積電高價股走跌 台股下挫210點破前波低點",
             "link": "https://udn.com//news/story/7251/8390138?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "ETF始祖0050超大規模穩拿第一！ 雷龍：新市值型00850、00923、00922多有收益平準金機制",
             "link": "https://udn.com//news/story/123006/8390079?from=udn-catebreaknews_ch2",
             "time": "2024-11-28 11:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/19/0/30935044.jpg&s=Y&x=0&y=0&sw=630&sh=420&exp=3600&w=300",
-            "title": "大盤2萬2算高點？稀飯曝存股006208經驗：還好76元時沒賣出、現在績效40%",
-            "link": "https://udn.com//news/story/123006/8390025?from=udn-catebreaknews_ch2",
-            "time": "2024-11-28 10:41"
         }
     ]
 }
