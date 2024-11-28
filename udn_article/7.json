@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/28/realtime/30991535.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "00971看好美股研發量能、00972瞄準日企革新及政策紅利",
+            "link": "https://udn.com//news/story/123006/8391345?from=udn-catebreaknews_ch2",
+            "time": "2024-11-28 17:58"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/19/2/30555964.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "盤中零股交易時間1分鐘縮至5秒 下周一上路",
             "link": "https://udn.com//news/story/7251/8391105?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "AI引爆能源荒 能源股菜鳥封神榜",
             "link": "https://udn.com//news/story/7251/8390922?from=udn-catebreaknews_ch2",
             "time": "2024-11-28 15:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/28/2/30990506.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "台積電成苦主 謝金河：面對川普指揮棒揮舞的新時代",
-            "link": "https://udn.com//news/story/7251/8390879?from=udn-catebreaknews_ch2",
-            "time": "2024-11-28 15:33"
         }
     ]
 }
