@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/23/2/30956464.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
+            "title": "台股下跌35點收22,298點 台積電漲5元收1,005元",
+            "link": "https://udn.com//news/story/7251/8390598?from=udn-catebreaknews_ch2",
+            "time": "2024-11-28 13:42"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/22/98/30953235.jpg&s=Y&x=32&y=28&sw=1237&sh=825&exp=3600&w=300",
+            "title": "閒錢、獎金買00922…隨著大盤一起放大本金！ 去年男大生一年賺超過200萬",
+            "link": "https://udn.com//news/story/123006/8390539?from=udn-catebreaknews_ch2",
+            "time": "2024-11-28 13:31"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/07/05/2/29947660.jpg&s=Y&x=0&y=160&sw=1280&sh=853&exp=3600&w=300",
             "title": "高鋒昨衝漲停 今爆出逾14萬張天量、盤中重挫跌停",
             "link": "https://udn.com//news/story/7252/8390420?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "DRAM 類股疲弱、傳產逆勢撐盤 台股盤中持續下挫",
             "link": "https://udn.com//news/story/7251/8390317?from=udn-catebreaknews_ch2",
             "time": "2024-11-28 11:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/28/98/30988537.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "台積電高價股走跌 台股下挫210點破前波低點",
-            "link": "https://udn.com//news/story/7251/8390138?from=udn-catebreaknews_ch2",
-            "time": "2024-11-28 11:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/28/realtime/30988515.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
-            "title": "中信投顧2025投資展望：台股最高上看27,500點",
-            "link": "https://udn.com//news/story/7251/8390147?from=udn-catebreaknews_ch2",
-            "time": "2024-11-28 11:16"
         }
     ]
 }
