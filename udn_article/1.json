@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/30/realtime/31004167.jpg&s=Y&x=0&y=25&sw=1710&sh=1140&exp=3600&w=300",
+            "title": "賴清德出訪抵夏威夷 將參訪「亞利桑納號」",
+            "link": "https://udn.com//news/story/124288/8395726?from=udn-catebreaknews_ch2",
+            "time": "2024-11-30 23:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/26/realtime/30977210.jpg&s=Y&x=0&y=0&sw=2048&sh=1366&exp=3600&w=300",
             "title": "國防部喊Team Taiwan 推「攜手團結 無懼挑戰」影片",
             "link": "https://udn.com//news/story/10930/8395542?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "青鳥宴台北場席開100桌 罷免雙北藍委設攤衝連署",
             "link": "https://udn.com//news/story/6656/8395502?from=udn-catebreaknews_ch2",
             "time": "2024-11-30 20:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/30/realtime/31003685.jpg&s=Y&x=183&y=0&sw=2124&sh=1417&exp=3600&w=300",
-            "title": "許銘春涉挪「就安基金」辦演唱會 雇主協會：拿長照家庭血汗錢揮霍",
-            "link": "https://udn.com//news/story/124274/8395494?from=udn-catebreaknews_ch2",
-            "time": "2024-11-30 20:06"
         }
     ]
 }
