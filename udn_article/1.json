@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/01/realtime/31005061.jpg&s=Y&x=0&y=10&sw=1523&sh=1014&exp=3600&w=300",
+            "title": "影／賴總統過境夏威夷 入境隨俗著「島衫」亮相",
+            "link": "https://udn.com//news/story/124288/8395866?from=udn-catebreaknews_ch2",
+            "time": "2024-12-01 06:23"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/01/realtime/31005059.jpg&s=Y&x=0&y=0&sw=4646&sh=3097&exp=3600&w=300",
+            "title": "賴總統抵達夏威夷 州長、市長、警察局長都來接機",
+            "link": "https://udn.com//news/story/124288/8395865?from=udn-catebreaknews_ch2",
+            "time": "2024-12-01 06:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/30/1/31004177.png&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "北市六都墊底…圖解食物銀行冷鏈布建、哪些人受益",
             "link": "https://udn.com//news/story/7314/8395811?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "影／賴總統首度出訪 專機上主動走向媒體回應提問",
             "link": "https://udn.com//news/story/124288/8395837?from=udn-catebreaknews_ch2",
             "time": "2024-12-01 04:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/01/realtime/31004611.jpg&s=Y&x=0&y=0&sw=2508&sh=1672&exp=3600&w=300",
-            "title": "賴總統首出訪過境夏威夷 AIT執行理事藍鶯登機歡迎",
-            "link": "https://udn.com//news/story/124288/8395832?from=udn-catebreaknews_ch2",
-            "time": "2024-12-01 03:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/30/realtime/31004178.jpg&s=Y&x=50&y=0&sw=2550&sh=1700&exp=3600&w=300",
-            "title": "學者：想孵蛋 會不會生出大白象？",
-            "link": "https://udn.com//news/story/124290/8395747?from=udn-catebreaknews_ch2",
-            "time": "2024-12-01 03:00"
         }
     ]
 }
