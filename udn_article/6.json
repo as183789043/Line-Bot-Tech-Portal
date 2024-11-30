@@ -1,6 +1,12 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/30/realtime/31000703.jpg&s=Y&x=0&y=0&sw=1170&sh=765&exp=3600&w=300",
+            "title": "川普高關稅震撼彈來襲 台科技大廠備妥3劇本應戰",
+            "link": "https://udn.com//news/story/7238/8394579?from=udn-catebreaknews_ch2",
+            "time": "2024-11-30 10:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/29/0/30997196.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "比特幣今年飆升逾170％、川普再掀幣圈熱潮 專家建議最佳投資方式",
             "link": "https://udn.com//news/story/121591/8393353?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "圖解台灣經濟成長勝全球 物價卻將連3年超過通膨警戒線",
             "link": "https://udn.com//news/story/7238/8394292?from=udn-catebreaknews_ch2",
             "time": "2024-11-30 05:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_0.jpg&w=300",
-            "title": "川普加關稅 大摩：伺服器ODM有3大挑戰",
-            "link": "https://udn.com//news/story/7240/8394299?from=udn-catebreaknews_ch2",
-            "time": "2024-11-30 05:35"
         }
     ]
 }
