@@ -1,13 +1,19 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/30/2/30999291.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "川普2.0牽動台股年底表現 法人：基本面良好關注政策",
+            "link": "https://udn.com//news/story/7251/8396296?from=udn-catebreaknews_ch2",
+            "time": "2024-12-01 13:02"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/30/realtime/31003349.jpg&s=Y&x=0&y=33&sw=4872&sh=3248&exp=3600&w=300",
             "title": "本周台股／11月消費旺季失靈 可期待年底作帳行情？",
             "link": "https://udn.com//news/story/7251/8395402?from=udn-catebreaknews_ch2",
             "time": "2024-12-01 10:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
             "title": "第一金明法說 股利聚焦",
             "link": "https://udn.com//news/story/7252/8395594?from=udn-catebreaknews_ch2",
             "time": "2024-12-01 06:00"
@@ -23,12 +29,6 @@
             "title": "ACE王牌概念股投信鎖碼 神達、大立光等資金追捧焦點",
             "link": "https://udn.com//news/story/7251/8395659?from=udn-catebreaknews_ch2",
             "time": "2024-12-01 05:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
-            "title": "高球具廠接單能見度 延續到下季",
-            "link": "https://udn.com//news/story/7254/8395692?from=udn-catebreaknews_ch2",
-            "time": "2024-12-01 02:29"
         }
     ]
 }
