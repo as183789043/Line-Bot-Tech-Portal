@@ -1,8 +1,14 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/01/realtime/31007659.jpg&s=Y&x=0&y=30&sw=4120&sh=2746&exp=3600&w=300",
+            "title": "賴總統過境夏威夷 將赴「東西中心」8分鐘全英文演說",
+            "link": "https://udn.com//news/story/124288/8396610?from=udn-catebreaknews_ch2",
+            "time": "2024-12-01 16:36"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/01/realtime/31007620.jpg&s=Y&x=275&y=0&sw=2970&sh=1980&exp=3600&w=300",
-            "title": "體驗棒球打擊兩度揮空 奧運金牌馬龍靦腆：錯誤示範",
+            "title": "影／體驗棒球打擊兩度揮空 奧運金牌馬龍靦腆：錯誤示範",
             "link": "https://udn.com//news/story/124284/8396597?from=udn-catebreaknews_ch2",
             "time": "2024-12-01 16:16"
         },
@@ -23,12 +29,6 @@
             "title": "藍綠都輸不起…選罷法周四再排審 關乎「大罷免潮」紛爭更烈",
             "link": "https://udn.com//news/story/6656/8396532?from=udn-catebreaknews_ch2",
             "time": "2024-12-01 15:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/01/realtime/31007438.jpg&s=Y&x=133&y=0&sw=1440&sh=960&exp=3600&w=300",
-            "title": "影／夏威夷僑宴接下美國旗 賴總統：台美情誼堅若磐石",
-            "link": "https://udn.com//news/story/124288/8396530?from=udn-catebreaknews_ch2",
-            "time": "2024-12-01 15:29"
         }
     ]
 }
