@@ -1,6 +1,12 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/02/0/31011423.jpg&s=Y&x=0&y=0&sw=1280&sh=712&exp=3600&w=300",
+            "title": "不輸肯德基蛋撻！隱身市場的超道地「港式蛋塔」一週只賣4天 還有「秒殺級肉桂捲」在地人都瘋搶",
+            "link": "https://udn.com//news/story/7209/8397765?from=udn-catebreaknews_ch2",
+            "time": "2024-12-02 13:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/02/0/31010956.jpg&s=Y&x=96&y=0&sw=1076&sh=717&exp=3600&w=300",
             "title": "星巴克「第2杯半價」！限時2天 開喝大杯星冰樂",
             "link": "https://udn.com//news/story/7186/8397568?from=udn-catebreaknews_ch2",
@@ -14,7 +20,7 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/29/0/30995056.jpg&s=Y&x=0&y=0&sw=799&sh=533&exp=3600&w=300",
-            "title": "虎航夏季早鳥優惠3日開賣 沖繩、首爾單程1,599元起",
+            "title": "虎航夏季早鳥優惠3日開賣 沖繩、首爾單程1499元起",
             "link": "https://udn.com//news/story/7934/8397545?from=udn-catebreaknews_ch2",
             "time": "2024-12-02 10:37"
         },
@@ -23,12 +29,6 @@
             "title": "24節氣為靈感！米其林一星「文公館」秋冬新菜上桌",
             "link": "https://udn.com//news/story/7193/8397493?from=udn-catebreaknews_ch2",
             "time": "2024-12-02 10:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/27/draft/30982445.jpg&s=Y&x=0&y=0&sw=720&sh=480&exp=3600&w=300",
-            "title": "一次尊享．三大安縵！獨家安排「全球旅館王者」沉浸日式奢華的極致品味",
-            "link": "https://udn.com//news/story/9650/8387809?from=udn-catebreaknews_ch2",
-            "time": "2024-12-02 10:00"
         }
     ]
 }
