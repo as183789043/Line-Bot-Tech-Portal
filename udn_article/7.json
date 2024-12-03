@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/15/2/30910568.jpg&s=Y&x=76&y=0&sw=1127&sh=751&exp=3600&w=300",
+            "title": "台股ETF新兵00938 降電子、增持金融及航運股",
+            "link": "https://udn.com//news/story/123006/8401580?from=udn-catebreaknews_ch2",
+            "time": "2024-12-03 20:11"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/05/11/2/29642191.jpg&s=Y&x=0&y=0&sw=989&sh=659&exp=3600&w=300",
+            "title": "高息ETF兩樣情！00929遭贖回逾37億元、00919明挑戰3000億元大關",
+            "link": "https://udn.com//news/story/123006/8401459?from=udn-catebreaknews_ch2",
+            "time": "2024-12-03 19:08"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/24/0/30965402.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "大摩：PC供應鏈可望有急單 嘉惠鴻海、廣達等九檔台股",
+            "link": "https://udn.com//news/story/7251/8401452?from=udn-catebreaknews_ch2",
+            "time": "2024-12-03 19:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/03/realtime/31021320.jpg&s=Y&x=0&y=21&sw=3000&sh=2000&exp=3600&w=300",
             "title": "川普恐致Fed降息循環恐提前結束 法人看好台股2025多頭格局延續",
             "link": "https://udn.com//news/story/7251/8401343?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "台股兩天收復11月跌點 台積電強彈59元居首功",
             "link": "https://udn.com//news/story/7251/8401293?from=udn-catebreaknews_ch2",
             "time": "2024-12-03 18:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/20/2/30939385.jpg&s=Y&x=0&y=0&sw=1226&sh=817&exp=3600&w=300",
-            "title": "外資買超283億元 爆買00929逾52.9萬張居買超冠軍",
-            "link": "https://udn.com//news/story/7251/8401133?from=udn-catebreaknews_ch2",
-            "time": "2024-12-03 17:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/25/0/30970861.jpg&s=Y&x=0&y=152&sw=1113&sh=742&exp=3600&w=300",
-            "title": "凱基證看明年台股：創高空間有限 川普創造波動機會",
-            "link": "https://udn.com//news/story/7251/8400954?from=udn-catebreaknews_ch2",
-            "time": "2024-12-03 16:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/03/2/31020218.jpg&s=Y&x=0&y=0&sw=1132&sh=755&exp=3600&w=300",
-            "title": "00937B配0.082元 將在12月20日除息、今年實際配息率約5.6%",
-            "link": "https://udn.com//news/story/123006/8400930?from=udn-catebreaknews_ch2",
-            "time": "2024-12-03 15:59"
         }
     ]
 }
