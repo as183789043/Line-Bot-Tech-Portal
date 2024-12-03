@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/11/28/30988268.jpg&s=Y&x=0&y=0&sw=799&sh=533&exp=3600&w=300",
+            "title": "輝達Rubin晶片揭密！大摩按讚台積電、日月光、京元電 目標價曝光",
+            "link": "https://udn.com//news/story/7251/8401632?from=udn-catebreaknews_ch2",
+            "time": "2024-12-03 20:44"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/15/2/30910568.jpg&s=Y&x=76&y=0&sw=1127&sh=751&exp=3600&w=300",
             "title": "台股ETF新兵00938 降電子、增持金融及航運股",
             "link": "https://udn.com//news/story/123006/8401580?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "川普恐致Fed降息循環恐提前結束 法人看好台股2025多頭格局延續",
             "link": "https://udn.com//news/story/7251/8401343?from=udn-catebreaknews_ch2",
             "time": "2024-12-03 18:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/17/2/30537638.jpg&s=Y&x=20&y=0&sw=779&sh=519&exp=3600&w=300",
-            "title": "台股兩天收復11月跌點 台積電強彈59元居首功",
-            "link": "https://udn.com//news/story/7251/8401293?from=udn-catebreaknews_ch2",
-            "time": "2024-12-03 18:12"
         }
     ]
 }
