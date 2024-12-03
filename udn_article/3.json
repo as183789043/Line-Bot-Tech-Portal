@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/02/realtime/31014058.jpg&s=Y&x=0&y=0&sw=4980&sh=3320&exp=3600&w=300",
+            "title": "從牛津年度代表字「腦腐」看 人類恐越進化越笨",
+            "link": "https://udn.com//news/story/6812/8398686?from=udn-catebreaknews_ch2",
+            "time": "2024-12-04 06:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/12/04/31023255.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "美股史指那指再創新高 道指連跌2天",
+            "link": "https://udn.com//news/story/6811/8402197?from=udn-catebreaknews_ch2",
+            "time": "2024-12-04 05:54"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/04/realtime/31022999.jpg&s=Y&x=0&y=0&sw=5046&sh=3364&exp=3600&w=300",
             "title": "美國事前不知南韓要戒嚴 密切關注局勢發展",
             "link": "https://udn.com//news/story/124293/8402186?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "新創公司Greptile執行長 要求員工每周至少工作84小時",
             "link": "https://udn.com//news/story/6811/8400512?from=udn-catebreaknews_ch2",
             "time": "2024-12-04 04:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/03/realtime/31022292.jpg&s=Y&x=0&y=0&sw=3000&sh=2001&exp=3600&w=300",
-            "title": "特斯拉皮卡 爆需求放緩疑慮",
-            "link": "https://udn.com//news/story/6811/8401825?from=udn-catebreaknews_ch2",
-            "time": "2024-12-04 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/03/realtime/31022294.jpg&s=Y&x=0&y=0&sw=4848&sh=3256&exp=3600&w=300",
-            "title": "SK海力士 下單台積3奈米",
-            "link": "https://udn.com//news/story/6811/8401830?from=udn-catebreaknews_ch2",
-            "time": "2024-12-04 03:00"
         }
     ]
 }
