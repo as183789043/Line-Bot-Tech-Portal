@@ -1,9 +1,15 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/04/realtime/31029657.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
+            "title": "新聞幕後／賴總統才出訪4天 已有2晚「徹夜未眠」",
+            "link": "https://udn.com//news/story/6656/8404751?from=udn-catebreaknews_ch2",
+            "time": "2024-12-04 23:41"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/04/realtime/31029569.jpg&s=Y&x=0&y=10&sw=1214&sh=808&exp=3600&w=300",
             "title": "【即時短評】當年衝破戒嚴組黨 民進黨今戒嚴心態復萌",
-            "link": "https://udn.com//news/story/6656/8404634?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124296/8404634?from=udn-catebreaknews_ch2",
             "time": "2024-12-04 23:13"
         },
         {
@@ -15,7 +21,7 @@
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/04/realtime/31029467.jpg&s=Y&x=147&y=0&sw=1755&sh=1170&exp=3600&w=300",
             "title": "視訊聽國安簡報 賴總統：南韓地緣政治特殊要持續掌握",
-            "link": "https://udn.com//news/story/124288/8404552?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124296/8404552?from=udn-catebreaknews_ch2",
             "time": "2024-12-04 22:37"
         },
         {
@@ -23,12 +29,6 @@
             "title": "馬龍參訪中山女高「像進盤絲洞」 蕭旭岑：只是網友留言",
             "link": "https://udn.com//news/story/124284/8404425?from=udn-catebreaknews_ch2",
             "time": "2024-12-04 21:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/04/realtime/31029008.jpg&s=Y&x=0&y=19&sw=2656&sh=1770&exp=3600&w=300",
-            "title": "影／賴總統過境關島 僑胞歡迎高喊總統好、Team Taiwan",
-            "link": "https://udn.com//news/story/124288/8404340?from=udn-catebreaknews_ch2",
-            "time": "2024-12-04 20:17"
         }
     ]
 }
