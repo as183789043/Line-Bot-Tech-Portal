@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/25/2/30972454.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "無懼台股波動 11月定期定額買股金額151億元、改寫次高",
+            "link": "https://udn.com//news/story/7251/8409377?from=udn-catebreaknews_ch2",
+            "time": "2024-12-06 21:05"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/01/realtime/31008765.jpg&s=Y&x=0&y=0&sw=1889&sh=1259&exp=3600&w=300",
             "title": "外資即將放假 法人：台股先看美就業數據、內資動向",
             "link": "https://udn.com//news/story/7251/8409291?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "元大金股價及11月獲利雙創新高紀錄 法人估明年光現金股利就逾1元",
             "link": "https://udn.com//news/story/7252/8409187?from=udn-catebreaknews_ch2",
             "time": "2024-12-06 18:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/01/realtime/31008807.jpg&s=Y&x=0&y=0&sw=1889&sh=1259&exp=3600&w=300",
-            "title": "11月集中市場有交易戶數374萬戶 終止連3降",
-            "link": "https://udn.com//news/story/7251/8409129?from=udn-catebreaknews_ch2",
-            "time": "2024-12-06 18:43"
         }
     ]
 }
