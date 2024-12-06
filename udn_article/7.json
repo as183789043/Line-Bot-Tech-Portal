@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/06/2/31039715.jpg&s=Y&x=8&y=16&sw=1255&sh=837&exp=3600&w=300",
+            "title": "台股下跌74點收23,193點 台積電下跌10元",
+            "link": "https://udn.com//news/story/7251/8408325?from=udn-catebreaknews_ch2",
+            "time": "2024-12-06 13:53"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/06/2/31039310.jpg&s=Y&x=8&y=4&sw=1219&sh=813&exp=3600&w=300",
             "title": "00938首次換股 電子股權重降至18%、金融股增至66%",
             "link": "https://udn.com//news/story/123006/8408149?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "川普當選滿月 00919價量齊揚漲2.77%居冠",
             "link": "https://udn.com//news/story/123006/8407761?from=udn-catebreaknews_ch2",
             "time": "2024-12-06 10:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/13/2/30897925.jpg&s=Y&x=0&y=0&sw=1034&sh=689&exp=3600&w=300",
-            "title": "LINE Pay上市重挫！網曝：反應這2大指標跟不上股價",
-            "link": "https://udn.com//news/story/12806/8406724?from=udn-catebreaknews_ch2",
-            "time": "2024-12-06 10:28"
         }
     ]
 }
