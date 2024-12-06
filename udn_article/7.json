@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/06/realtime/31040538.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "台灣光罩11月營收6.28億元 比上月微減1%",
+            "link": "https://udn.com//news/story/7253/8408585?from=udn-catebreaknews_ch2",
+            "time": "2024-12-06 15:12"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/06/2/31039715.jpg&s=Y&x=8&y=16&sw=1255&sh=837&exp=3600&w=300",
             "title": "台股下跌74點收23,193點 台積電下跌10元",
             "link": "https://udn.com//news/story/7251/8408325?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "00929遲早會回歸…非壓身家不用急著在低點轉換！ 泰北哥：00891也跌到9塊過",
             "link": "https://udn.com//news/story/123006/8407854?from=udn-catebreaknews_ch2",
             "time": "2024-12-06 11:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/06/2/31038343.jpg&s=Y&x=12&y=0&sw=1269&sh=846&exp=3600&w=300",
-            "title": "川普當選滿月 00919價量齊揚漲2.77%居冠",
-            "link": "https://udn.com//news/story/123006/8407761?from=udn-catebreaknews_ch2",
-            "time": "2024-12-06 10:34"
         }
     ]
 }
