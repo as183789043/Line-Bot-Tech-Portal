@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/07/realtime/31043104.jpg&s=Y&x=0&y=11&sw=1448&sh=964&exp=3600&w=300",
+            "title": "新聞幕後／賴清德出訪謹小慎微 難得化身讀稿機",
+            "link": "https://udn.com//news/story/6656/8409724?from=udn-catebreaknews_ch2",
+            "time": "2024-12-07 00:12"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/06/realtime/31042745.jpg&s=Y&x=0&y=0&sw=2976&sh=1984&exp=3600&w=300",
             "title": "首度談陸生「中國台北隊」爭議 國台辦：譴責網路霸淩",
             "link": "https://udn.com//news/story/124284/8409461?from=udn-catebreaknews_ch2",
@@ -13,22 +19,16 @@
             "time": "2024-12-06 22:10"
         },
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/06/2/31042729.jpg&s=Y&x=0&y=116&sw=1280&sh=853&exp=3600&w=300",
+            "title": "首次出訪落幕 賴總統：開啟價值外交新時代",
+            "link": "https://udn.com//news/story/124288/8409439?from=udn-catebreaknews_ch2",
+            "time": "2024-12-06 22:02"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/06/0/31040683.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "33歲女星靈修「淨化儀式」攝入樹蛙黏液　「嘔吐、嚴重腹瀉」送醫不治身亡",
             "link": "https://udn.com//news/story/123693/8409197?from=udn-catebreaknews_ch2",
             "time": "2024-12-06 21:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/06/98/31042466.jpg&s=Y&x=12&y=8&sw=1265&sh=844&exp=3600&w=300",
-            "title": "試委被提名人伊萬．納威 盼原民參加特考人數成長",
-            "link": "https://udn.com//news/story/6656/8409322?from=udn-catebreaknews_ch2",
-            "time": "2024-12-06 20:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/06/realtime/31042461.jpeg&s=Y&x=0&y=0&sw=5169&sh=3446&exp=3600&w=300",
-            "title": "影／上任首次出訪結束返國 賴總統：此行有3個收獲",
-            "link": "https://udn.com//news/story/124288/8409326?from=udn-catebreaknews_ch2",
-            "time": "2024-12-06 20:32"
         }
     ]
 }
