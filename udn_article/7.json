@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/06/realtime/31042086.jpg&s=Y&x=0&y=0&sw=1355&sh=903&exp=3600&w=300",
+            "title": "元大金股價及11月獲利雙創新高紀錄 法人估明年光現金股利就逾1元",
+            "link": "https://udn.com//news/story/7252/8409187?from=udn-catebreaknews_ch2",
+            "time": "2024-12-06 18:58"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/01/realtime/31008807.jpg&s=Y&x=0&y=0&sw=1889&sh=1259&exp=3600&w=300",
+            "title": "11月集中市場有交易戶數374萬戶 終止連3降",
+            "link": "https://udn.com//news/story/7251/8409129?from=udn-catebreaknews_ch2",
+            "time": "2024-12-06 18:43"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/20/0/30937749.jpg&s=Y&x=0&y=108&sw=1278&sh=852&exp=3600&w=300",
+            "title": "元大金前11月賺進340億元、創歷史新高 EPS為2.63元",
+            "link": "https://udn.com//news/story/7252/8409049?from=udn-catebreaknews_ch2",
+            "time": "2024-12-06 17:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/07/25/2/30120510.jpg&s=Y&x=0&y=0&sw=1175&sh=783&exp=3600&w=300",
             "title": "美國「黑色星期五」消費再創新高 法人看好美國大型股投資機會",
             "link": "https://udn.com//news/story/123006/8409043?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "富時羅素公布臺灣50等五大指數成分股定審結果 12月23日生效",
             "link": "https://udn.com//news/story/7251/8408999?from=udn-catebreaknews_ch2",
             "time": "2024-12-06 17:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/03/2/31020218.jpg&s=Y&x=0&y=0&sw=1132&sh=755&exp=3600&w=300",
-            "title": "航海王再起！台50雙胞胎ETF 新增陽明、0056重納長榮",
-            "link": "https://udn.com//news/story/123006/8408974?from=udn-catebreaknews_ch2",
-            "time": "2024-12-06 17:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/12/2/30700740.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
-            "title": "中信金續創巔峰！前11月大賺683億元、超越去年全年 EPS 3.45元",
-            "link": "https://udn.com//news/story/7252/8408930?from=udn-catebreaknews_ch2",
-            "time": "2024-12-06 17:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/07/2/30856717.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "玉山金前11月大賺240億元、EPS 1.50元 全年獲利確定創新高",
-            "link": "https://udn.com//news/story/7252/8408915?from=udn-catebreaknews_ch2",
-            "time": "2024-12-06 16:58"
         }
     ]
 }
