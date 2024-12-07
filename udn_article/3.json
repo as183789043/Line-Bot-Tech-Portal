@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/12/08/31048508.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "川普與法烏領袖三邊會談 商討俄烏戰爭等關鍵議題",
+            "link": "https://udn.com//news/story/6809/8411229?from=udn-catebreaknews_ch2",
+            "time": "2024-12-08 06:45"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/07/realtime/31048207.jpg&s=Y&x=0&y=0&sw=5564&sh=3709&exp=3600&w=300",
+            "title": "敘利亞叛軍攻進戰略重鎮荷姆斯 距首都大馬士革僅約160公里",
+            "link": "https://udn.com//news/story/123777/8411152?from=udn-catebreaknews_ch2",
+            "time": "2024-12-08 06:15"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/07/1/31048045.png&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "尹錫悅彈劾案沒過 圖解南韓政局走向 在野如何提案再戰",
             "link": "https://udn.com//news/story/124293/8411166?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2024-12-08 05:21"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/08/0/31048576.jpg&s=Y&x=109&y=0&sw=794&sh=529&exp=3600&w=300",
-            "title": "德國選項黨 推舉魏德爾作為總理候選人",
-            "link": "https://udn.com//news/story/6809/8411174?from=udn-catebreaknews_ch2",
-            "time": "2024-12-08 03:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/12/08/31048508.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "川普與法烏領袖三邊會談 商討俄烏戰爭等關鍵議題",
-            "link": "https://udn.com//news/story/6809/8411229?from=udn-catebreaknews_ch2",
-            "time": "2024-12-08 03:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/12/08/31048635.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "「這不是我們的戰爭」 川普稱美國不應捲入敘利亞衝突",
-            "link": "https://udn.com//news/story/123777/8411223?from=udn-catebreaknews_ch2",
-            "time": "2024-12-08 03:16"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/08/4/31048861.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "敘利亞叛軍逼近大馬士革 總統阿塞德「不見踪影」",
+            "link": "https://udn.com//news/story/123777/8411244?from=udn-catebreaknews_ch2",
+            "time": "2024-12-08 05:19"
         }
     ]
 }
