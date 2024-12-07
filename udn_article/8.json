@@ -1,6 +1,12 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/07/realtime/31047703.jpg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
+            "title": "好累！台灣去年平均總工時2020小時 主要國家暫居第5",
+            "link": "https://udn.com//news/story/7269/8410943?from=udn-catebreaknews_ch2",
+            "time": "2024-12-07 21:08"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/07/realtime/31047440.jpg&s=Y&x=0&y=34&sw=4639&sh=3092&exp=3600&w=300",
             "title": "明清晨低溫14度！下周冷空氣再增強 低溫急墜至10度",
             "link": "https://udn.com//news/story/7266/8410854?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "高鐵旅客爆嚴重爭執「甚至亮出刀」列車延誤10分鐘",
             "link": "https://udn.com//news/story/7266/8410793?from=udn-catebreaknews_ch2",
             "time": "2024-12-07 18:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/07/realtime/31047259.jpg&s=Y&x=0&y=42&sw=5712&sh=3808&exp=3600&w=300",
-            "title": "醫學中心申請FHIR超踴躍 國泰醫院應用於保險理賠加速",
-            "link": "https://udn.com//news/story/7266/8410784?from=udn-catebreaknews_ch2",
-            "time": "2024-12-07 18:30"
         }
     ]
 }
