@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/09/realtime/31053175.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "沒見頭版的詐騙新聞 凸顯政府的打詐不力",
+            "link": "https://udn.com//news/story/6656/8412575?from=udn-catebreaknews_ch2",
+            "time": "2024-12-09 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/04/realtime/31026439.jpg&s=Y&x=0&y=0&sw=4071&sh=2713&exp=3600&w=300",
             "title": "藍白擬修戒嚴法 綠：不會宣布戒嚴",
             "link": "https://udn.com//news/story/124296/8412508?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "史哲被控霸凌 文化部：鼓勵具名申訴",
             "link": "https://udn.com//news/story/124274/8412516?from=udn-catebreaknews_ch2",
             "time": "2024-12-09 04:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/08/realtime/31053001.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
-            "title": "防無人機攻擊 戰車頂加柵欄被吐槽",
-            "link": "https://udn.com//news/story/10930/8412519?from=udn-catebreaknews_ch2",
-            "time": "2024-12-09 02:05"
         }
     ]
 }
