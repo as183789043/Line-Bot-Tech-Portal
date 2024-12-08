@@ -1,13 +1,19 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/21/0/30948843.jpg&s=Y&x=0&y=0&sw=1024&sh=683&exp=3600&w=300",
+            "title": "到日本大阪必吃！百大名店「招牌炸豬排」有夠強 這裡還有限定版「生薑燒豬肉」",
+            "link": "https://udn.com//news/story/9650/8376486?from=udn-catebreaknews_ch2",
+            "time": "2024-12-08 16:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/08/0/31050727.jpg&s=Y&x=0&y=0&sw=1280&sh=712&exp=3600&w=300",
             "title": "義式餐廳界「CP值霸主」880元吃到飽！「烤雞、燉牛肉、哈根達斯」無限吃 加碼春節「西式雙主餐+自助吧」限時5天",
             "link": "https://udn.com//news/story/7193/8411709?from=udn-catebreaknews_ch2",
             "time": "2024-12-08 15:29"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/08/realtime/31051315.jpg&s=Y&x=0&y=136&sw=1412&sh=941&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/08/realtime/31051315.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "一顆聖誕麵包2500元！ 義大利「潘納朵尼之王」200份限量登台",
             "link": "https://udn.com//news/story/7186/8411874?from=udn-catebreaknews_ch2",
             "time": "2024-12-08 15:10"
@@ -23,12 +29,6 @@
             "title": "「貓福珊迪」快閃店台北登場！6大打卡點 還有30款限定週邊萌翻",
             "link": "https://udn.com//news/story/7160/8411559?from=udn-catebreaknews_ch2",
             "time": "2024-12-08 14:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/08/realtime/31050679.jpg&s=Y&x=0&y=0&sw=6720&sh=4480&exp=3600&w=300",
-            "title": "周年慶進入尾聲 遠東SOGO天母店業績挑戰12億",
-            "link": "https://udn.com//news/story/7160/8411715?from=udn-catebreaknews_ch2",
-            "time": "2024-12-08 13:24"
         }
     ]
 }
