@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/08/realtime/31051991.jpg&s=Y&x=0&y=116&sw=4009&sh=2673&exp=3600&w=300",
+            "title": "民進黨團貼文「挺戒嚴」應道歉？ 陳菊：不是、過度解讀",
+            "link": "https://udn.com//news/story/124296/8412068?from=udn-catebreaknews_ch2",
+            "time": "2024-12-08 17:52"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/08/realtime/31051720.png&s=Y&x=0&y=0&sw=1860&sh=1240&exp=3600&w=300",
             "title": "4縣市大雨特報 明清晨中部以北低溫下探14度",
             "link": "https://udn.com//news/story/7314/8412002?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2024-12-08 16:27"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/08/realtime/31051554.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/08/realtime/31051554.jpg&s=Y&x=0&y=61&sw=424&sh=283&exp=3600&w=300",
             "title": "黨代表選舉落幕…台中小草成勢 蔡壁如：沒有所謂蔡派",
             "link": "https://udn.com//news/story/6656/8411955?from=udn-catebreaknews_ch2",
             "time": "2024-12-08 16:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/08/realtime/31051412.jpg&s=Y&x=0&y=0&sw=1567&sh=1045&exp=3600&w=300",
-            "title": "國會外交預算增2599萬元 藍營：會支持也會監督",
-            "link": "https://udn.com//news/story/6656/8411913?from=udn-catebreaknews_ch2",
-            "time": "2024-12-08 15:41"
         }
     ]
 }

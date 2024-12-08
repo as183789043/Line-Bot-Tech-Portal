@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/08/realtime/31051932.jpg&s=Y&x=0&y=0&sw=1889&sh=1259&exp=3600&w=300",
+            "title": "本周台股展望 法人：觀望猶豫 等待量能",
+            "link": "https://udn.com//news/story/7251/8412050?from=udn-catebreaknews_ch2",
+            "time": "2024-12-08 17:34"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/01/realtime/31008765.jpg&s=Y&x=0&y=0&sw=1889&sh=1259&exp=3600&w=300",
             "title": "台股周線翻紅「漲930點」 整體多方格局不變",
             "link": "https://udn.com//news/story/7251/8411906?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "00909報酬率7成奪冠…2024年最強ETF！ 投資比特幣不只是年輕人的事",
             "link": "https://udn.com//news/story/123006/8411657?from=udn-catebreaknews_ch2",
             "time": "2024-12-08 12:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/08/2/31050563.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "未來一周美股二大觀察變數 這些數據將公布",
-            "link": "https://udn.com//news/story/7251/8411659?from=udn-catebreaknews_ch2",
-            "time": "2024-12-08 12:46"
         }
     ]
 }
