@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/05/realtime/30662471.jpg&s=Y&x=0&y=0&sw=1417&sh=945&exp=3600&w=300",
+            "title": "台達電營收／11月366億元 月減5.6%",
+            "link": "https://udn.com//news/story/7253/8413913?from=udn-catebreaknews_ch2",
+            "time": "2024-12-09 16:03"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/09/realtime/31057332.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "冠德營收／百億大案入帳！前11月268億元 創下歷史新高",
+            "link": "https://udn.com//news/story/7252/8413889?from=udn-catebreaknews_ch2",
+            "time": "2024-12-09 16:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/26/realtime/30974009.jpeg&s=Y&x=0&y=8&sw=1170&sh=780&exp=3600&w=300",
+            "title": "華碩營收／11月雙成長 月增逾一成",
+            "link": "https://udn.com//news/story/7253/8413852?from=udn-catebreaknews_ch2",
+            "time": "2024-12-09 15:42"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/04/realtime/31024895.jpg&s=Y&x=39&y=0&sw=1203&sh=803&exp=3600&w=300",
             "title": "台股上漲79點 三大法人買超28.16億元",
             "link": "https://udn.com//news/story/7251/8413763?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "00939還在「破發」怎麼辦？ 達人：看當初投資目的是什麼！",
             "link": "https://udn.com//news/story/123006/8413672?from=udn-catebreaknews_ch2",
             "time": "2024-12-09 15:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/02/2/31012418.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "00918、00959B…長天期投等債及高填息ETF分散布局！2025年掌握台股投資機會",
-            "link": "https://udn.com//news/story/123006/8413620?from=udn-catebreaknews_ch2",
-            "time": "2024-12-09 14:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/09/realtime/31056617.jpg&s=Y&x=0&y=0&sw=1889&sh=1259&exp=3600&w=300",
-            "title": "外資上周買超台股逾700億元 買超最多是這檔航空股",
-            "link": "https://udn.com//news/story/7251/8413643?from=udn-catebreaknews_ch2",
-            "time": "2024-12-09 14:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/04/realtime/31024895.jpg&s=Y&x=39&y=0&sw=1203&sh=803&exp=3600&w=300",
-            "title": "台股上漲79點收23,273點 航運股強勢、台積電收漲10元",
-            "link": "https://udn.com//news/story/7251/8413493?from=udn-catebreaknews_ch2",
-            "time": "2024-12-09 13:44"
         }
     ]
 }
