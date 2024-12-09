@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/10/realtime/31059918.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "66旅正副連長擅離部隊吃鍋 長官查勤：留守主官咧？",
+            "link": "https://udn.com//news/story/10930/8414953?from=udn-catebreaknews_ch2",
+            "time": "2024-12-10 04:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/10/1/31059913.jpg&s=Y&x=200&y=0&sw=1080&sh=720&exp=3600&w=300",
             "title": "陽光行動／執法困難…廢棄物認定不一 縱放土蟲",
             "link": "https://udn.com//news/story/122578/8414873?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "陽光行動／彰化直擊…「快倒」生產線 轉角就遇棄土場",
             "link": "https://udn.com//news/story/122578/8414851?from=udn-catebreaknews_ch2",
             "time": "2024-12-10 03:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/01/realtime/31006571.jpg&s=Y&x=0&y=4&sw=626&sh=416&exp=3600&w=300",
-            "title": "陽光行動／台南亂象…魚塭、農地 偷倒遍地開花",
-            "link": "https://udn.com//news/story/122578/8414854?from=udn-catebreaknews_ch2",
-            "time": "2024-12-10 03:50"
         }
     ]
 }
