@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
+            "title": "NBC專訪 川普：可能減少援助烏克蘭",
+            "link": "https://udn.com//news/story/121777/8414855?from=udn-catebreaknews_ch2",
+            "time": "2024-12-10 00:54"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/09/realtime/31059413.jpg&s=Y&x=192&y=0&sw=2169&sh=1447&exp=3600&w=300",
+            "title": "NBC專訪 川普未鬆口保衛台灣",
+            "link": "https://udn.com//news/story/121777/8414846?from=udn-catebreaknews_ch2",
+            "time": "2024-12-10 00:53"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/09/realtime/31059323.jpg&s=Y&x=0&y=0&sw=5000&sh=3335&exp=3600&w=300",
             "title": "南韓檢方以前防長金龍顯涉嫌「叛國和濫權」 正式申請逮捕令",
             "link": "https://udn.com//news/story/6809/8414781?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "NHK民調：石破內閣支持率與不支持率同為38%",
             "link": "https://udn.com//news/story/6809/8414661?from=udn-catebreaknews_ch2",
             "time": "2024-12-09 22:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/09/realtime/31059203.jpg&s=Y&x=0&y=0&sw=2478&sh=1652&exp=3600&w=300",
-            "title": "蘋果插旗沙國 將開線上商城和實體零售店",
-            "link": "https://udn.com//news/story/6811/8414659?from=udn-catebreaknews_ch2",
-            "time": "2024-12-09 22:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/09/realtime/31059202.jpg&s=Y&x=0&y=0&sw=5213&sh=3475&exp=3600&w=300",
-            "title": "陸反壟斷調查導致輝達重挫 美股早盤漲跌互見",
-            "link": "https://udn.com//news/story/6811/8414658?from=udn-catebreaknews_ch2",
-            "time": "2024-12-09 22:43"
         }
     ]
 }
