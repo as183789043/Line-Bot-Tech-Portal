@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/12/09/31056600.jpg&s=Y&x=0&y=0&sw=1250&sh=833&exp=3600&w=300",
+            "title": "阿塞德垮台 聯合國安理會將開會討論敘利亞問題",
+            "link": "https://udn.com//news/story/123777/8414416?from=udn-catebreaknews_ch2",
+            "time": "2024-12-09 20:19"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/01/02/98/28640211.jpg&s=Y&x=0&y=0&sw=1187&sh=791&exp=3600&w=300",
             "title": "韓國政局動盪拖累股匯市下挫 亞股走勢不一",
             "link": "https://udn.com//news/story/6811/8414293?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "菲律賓中部活火山噴發 煙雲達3000公尺",
             "link": "https://udn.com//news/story/6812/8414162?from=udn-catebreaknews_ch2",
             "time": "2024-12-09 18:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/09/realtime/31057945.jpg&s=Y&x=0&y=0&sw=3964&sh=2642&exp=3600&w=300",
-            "title": "歐盟科學家：今年確定將成史上最熱一年 高溫至少延續至明年初",
-            "link": "https://udn.com//news/story/6812/8414131?from=udn-catebreaknews_ch2",
-            "time": "2024-12-09 17:42"
         }
     ]
 }
