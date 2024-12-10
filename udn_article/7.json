@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/10/realtime/31065667.jpg&s=Y&x=0&y=5&sw=709&sh=472&exp=3600&w=300",
+            "title": "2025繼續聚焦AI 野村：台股中性偏多 留意川政2.0變數",
+            "link": "https://udn.com//news/story/7251/8416860?from=udn-catebreaknews_ch2",
+            "time": "2024-12-10 19:27"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/10/realtime/31065463.jpg&s=Y&x=50&y=0&sw=1788&sh=1193&exp=3600&w=300",
             "title": "聯發科11月營收為452.42億元 月減11.5%仍為同期新高",
             "link": "https://udn.com//news/story/7253/8416741?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "上市金控前11月大賺5714億元 全年超越2021年創新高無懸念",
             "link": "https://udn.com//news/story/7251/8416659?from=udn-catebreaknews_ch2",
             "time": "2024-12-10 17:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/13/2/30897925.jpg&s=Y&x=0&y=0&sw=1034&sh=689&exp=3600&w=300",
-            "title": "LINE Pay 營收／11月5.9億元創歷史新高 前11月年增3成",
-            "link": "https://udn.com//news/story/7253/8416568?from=udn-catebreaknews_ch2",
-            "time": "2024-12-10 17:20"
         }
     ]
 }
