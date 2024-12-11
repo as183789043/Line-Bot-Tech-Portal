@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/11/realtime/31072922.jpg&s=Y&x=237&y=0&sw=5316&sh=3545&exp=3600&w=300",
+            "title": "南韓警方突襲總統府搜索 被擋8小時鎩羽而歸",
+            "link": "https://udn.com//news/story/124293/8419875?from=udn-catebreaknews_ch2",
+            "time": "2024-12-11 23:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/11/realtime/31072839.jpg&s=Y&x=0&y=0&sw=2478&sh=1652&exp=3600&w=300",
             "title": "蘋果傳與博通聯手打造AI晶片 博通股價應聲漲逾3%",
             "link": "https://udn.com//news/story/6811/8419795?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "法總理上任僅3個月垮台 馬克宏擬48小時內提新人選",
             "link": "https://udn.com//news/story/6809/8419659?from=udn-catebreaknews_ch2",
             "time": "2024-12-11 21:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/11/realtime/31072630.jpg&s=Y&x=0&y=0&sw=5517&sh=3638&exp=3600&w=300",
-            "title": "川普2.0時代美元升定了？4個論點支持美元貶值",
-            "link": "https://udn.com//news/story/6811/8419666?from=udn-catebreaknews_ch2",
-            "time": "2024-12-11 21:41"
         }
     ]
 }
