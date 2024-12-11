@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/22/realtime/30950579.jpg&s=Y&x=0&y=0&sw=3500&sh=2337&exp=3600&w=300",
+            "title": "股匯雙挫！台股失守23000點 新台幣貶破32.5元寫逾1周新低",
+            "link": "https://udn.com//news/story/7251/8419253?from=udn-catebreaknews_ch2",
+            "time": "2024-12-11 18:06"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/11/2/31069924.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "外資台指期淨空單增 法人：台股下檔有撐待止跌訊號",
+            "link": "https://udn.com//news/story/7251/8419190?from=udn-catebreaknews_ch2",
+            "time": "2024-12-11 17:39"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/11/2/31070356.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
             "title": "外資賣超逾176億元！賣超冠軍竟是它 聯電、鴻海也難逃賣超",
             "link": "https://udn.com//news/story/7251/8419060?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "3000元每月存006208也很好…10年就有70幾萬！ 莎莉：與錢並肩作戰是人一輩子最大的底氣",
             "link": "https://udn.com//news/story/123006/8418875?from=udn-catebreaknews_ch2",
             "time": "2024-12-11 15:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/11/0/31070349.jpg&s=Y&x=168&y=0&sw=641&sh=427&exp=3600&w=300",
-            "title": "她問擁閒錢1萬該單押金融股還是ETF？ 網推集中投入「這檔」最穩",
-            "link": "https://udn.com//news/story/123006/8418752?from=udn-catebreaknews_ch2",
-            "time": "2024-12-11 15:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/11/2/31070780.jpg&s=Y&x=0&y=0&sw=1047&sh=698&exp=3600&w=300",
-            "title": "台股下跌221點、AI概念股漲跌互見 三大法人賣超214億元",
-            "link": "https://udn.com//news/story/7251/8418832?from=udn-catebreaknews_ch2",
-            "time": "2024-12-11 15:17"
         }
     ]
 }
