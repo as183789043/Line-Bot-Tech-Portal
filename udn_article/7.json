@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
+            "title": "台積12日除息 台股指數蒸發32點",
+            "link": "https://udn.com//news/story/7251/8419903?from=udn-catebreaknews_ch2",
+            "time": "2024-12-12 05:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/11/2/31069998.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "14家金控11月自結獲利月減3.9％ 投顧法人看好「這5檔」",
             "link": "https://udn.com//news/story/7251/8419623?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台積電明除息！發行市值將減少約1037億元 台股指數蒸發32.53點",
             "link": "https://udn.com//news/story/7251/8419309?from=udn-catebreaknews_ch2",
             "time": "2024-12-11 18:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/22/realtime/30950579.jpg&s=Y&x=0&y=0&sw=3500&sh=2337&exp=3600&w=300",
-            "title": "股匯雙挫！台股失守23000點 新台幣貶破32.5元寫逾1周新低",
-            "link": "https://udn.com//news/story/7251/8419253?from=udn-catebreaknews_ch2",
-            "time": "2024-12-11 18:06"
         }
     ]
 }

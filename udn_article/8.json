@@ -1,7 +1,19 @@
 {
     "生活": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_8.jpg&w=300",
+            "title": "一句好話",
+            "link": "https://udn.com//news/story/7272/8393579?from=udn-catebreaknews_ch2",
+            "time": "2024-12-12 04:51"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/12/98/31073541.png&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "凌晨4：05花蓮近海規模4.6地震 最大震度3級",
+            "link": "https://udn.com//news/story/7266/8420079?from=udn-catebreaknews_ch2",
+            "time": "2024-12-12 04:49"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_0.jpg&w=300",
             "title": "有行旅／屏東小凡爾賽宮一日遊",
             "link": "https://udn.com//news/story/7270/8419764?from=udn-catebreaknews_ch2",
             "time": "2024-12-12 02:39"
@@ -17,18 +29,6 @@
             "title": "分區共管 健保署重啟門診減量",
             "link": "https://udn.com//news/story/7266/8419930?from=udn-catebreaknews_ch2",
             "time": "2024-12-12 02:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/11/realtime/31072750.jpg&s=Y&x=0&y=10&sw=755&sh=502&exp=3600&w=300",
-            "title": "健康你我他╱小五黏人很療癒 老母身體漸康健",
-            "link": "https://udn.com//news/story/7266/8419739?from=udn-catebreaknews_ch2",
-            "time": "2024-12-12 02:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/11/realtime/31072779.jpg&s=Y&x=0&y=7&sw=683&sh=454&exp=3600&w=300",
-            "title": "縮胃減重25公斤 吃太快又胖回來 罹糖尿病",
-            "link": "https://udn.com//news/story/7266/8419748?from=udn-catebreaknews_ch2",
-            "time": "2024-12-12 02:22"
         }
     ]
 }
