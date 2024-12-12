@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/06/2/30854838.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "外資賣超15.64億元 砍聯電逾2萬張最多",
+            "link": "https://udn.com//news/story/7251/8421632?from=udn-catebreaknews_ch2",
+            "time": "2024-12-12 17:05"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/07/2/31043157.jpg&s=Y&x=0&y=0&sw=944&sh=629&exp=3600&w=300",
             "title": "台塑四寶全數失守40元關卡 官股為主要賣壓來源",
             "link": "https://udn.com//news/story/7251/8421512?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股上漲143點 三大法人買超2.14億元",
             "link": "https://udn.com//news/story/7251/8421377?from=udn-catebreaknews_ch2",
             "time": "2024-12-12 15:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/14/2/30713142.jpg&s=Y&x=0&y=0&sw=1194&sh=796&exp=3600&w=300",
-            "title": "四寶今年股價都腰斬 台塑摜破40元、台化陷30元保衛戰",
-            "link": "https://udn.com//news/story/7251/8421323?from=udn-catebreaknews_ch2",
-            "time": "2024-12-12 14:55"
         }
     ]
 }
