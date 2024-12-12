@@ -1,7 +1,13 @@
 {
     "生活": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_2.jpg&w=300",
+            "title": "金玉涼言",
+            "link": "https://udn.com//news/story/7272/8404439?from=udn-catebreaknews_ch2",
+            "time": "2024-12-13 03:54"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_3.jpg&w=300",
             "title": "30歲舉步維艱 原來與巨星一樣罹罕病",
             "link": "https://udn.com//news/story/7266/8422163?from=udn-catebreaknews_ch2",
             "time": "2024-12-13 01:51"
@@ -23,12 +29,6 @@
             "title": "靜脈曲張別泡湯 恐加重蜘蛛網擴張",
             "link": "https://udn.com//news/story/7266/8422162?from=udn-catebreaknews_ch2",
             "time": "2024-12-13 01:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_6.jpg&w=300",
-            "title": "非聽不可／化療期的飲食原則",
-            "link": "https://udn.com//news/story/7266/8422171?from=udn-catebreaknews_ch2",
-            "time": "2024-12-13 01:14"
         }
     ]
 }
