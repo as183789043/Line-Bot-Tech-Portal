@@ -1,9 +1,27 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/12/realtime/31073921.jpg&s=Y&x=0&y=27&sw=1759&sh=1172&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/12/realtime/31074195.jpg&s=Y&x=150&y=0&sw=1620&sh=1080&exp=3600&w=300",
+            "title": "【看！新聞】勞動部謝宜容絕非個案 公務員遭霸凌還被噤聲？",
+            "link": "https://udn.com//news/story/6656/8420219?from=udn-catebreaknews_ch2",
+            "time": "2024-12-12 09:09"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/11/realtime/31067591.jpg&s=Y&x=106&y=0&sw=2355&sh=1571&exp=3600&w=300",
+            "title": "照片看歷史／1955年樂幹接掌省警務處 嚴查營業性跳舞",
+            "link": "https://udn.com//news/story/7314/8417739?from=udn-catebreaknews_ch2",
+            "time": "2024-12-12 09:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/12/realtime/31074111.jpg&s=Y&x=0&y=35&sw=3656&sh=2436&exp=3600&w=300",
+            "title": "謝宜容規定同仁跑走廊原因曝 基層：時間到還要推播",
+            "link": "https://udn.com//news/story/124274/8420178?from=udn-catebreaknews_ch2",
+            "time": "2024-12-12 08:08"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/12/realtime/31073921.jpg&s=Y&x=0&y=332&sw=1759&sh=1173&exp=3600&w=300",
             "title": "謝宜容涉貪羈押 蘇一峰：標準民進黨官員 還有千千萬萬個",
-            "link": "https://udn.com//news/story/6656/8420133?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124274/8420133?from=udn-catebreaknews_ch2",
             "time": "2024-12-12 06:43"
         },
         {
@@ -11,24 +29,6 @@
             "title": "冷眼集／總統提名大法官 勿忘白玫瑰",
             "link": "https://udn.com//news/story/124302/8419951?from=udn-catebreaknews_ch2",
             "time": "2024-12-12 03:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/11/realtime/31070303.jpeg&s=Y&x=0&y=17&sw=2444&sh=1628&exp=3600&w=300",
-            "title": "朱立倫：堅定嚴審大法官",
-            "link": "https://udn.com//news/story/124302/8419947?from=udn-catebreaknews_ch2",
-            "time": "2024-12-12 03:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/11/realtime/31073013.jpg&s=Y&x=0&y=56&sw=837&sh=558&exp=3600&w=300",
-            "title": "審過性侵殺人案 大法官被提名人王碧芳明確挺死刑",
-            "link": "https://udn.com//news/story/124302/8419949?from=udn-catebreaknews_ch2",
-            "time": "2024-12-12 03:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/11/realtime/31072058.png&s=Y&x=81&y=0&sw=1758&sh=1172&exp=3600&w=300",
-            "title": "勞動部第一份調查形同「洗白」 在野立委批包庇「誰負責」",
-            "link": "https://udn.com//news/story/124274/8419965?from=udn-catebreaknews_ch2",
-            "time": "2024-12-12 03:05"
         }
     ]
 }
