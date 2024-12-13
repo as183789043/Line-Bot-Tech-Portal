@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/13/draft/31081107.jpg&s=Y&x=100&y=0&sw=600&sh=400&exp=3600&w=300",
+            "title": "金星不是地球雙胞胎 新研究：金星從來沒適居過",
+            "link": "https://udn.com//news/story/6897/8422858?from=udn-catebreaknews_ch2",
+            "time": "2024-12-13 09:55"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/13/0/31080838.jpg&s=Y&x=0&y=0&sw=1086&sh=724&exp=3600&w=300",
             "title": "六人小團隊打進全球雲端巨頭！科技老將秘訣：把半導體當服務業",
             "link": "https://udn.com//news/story/6837/8422790?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "任天堂、Sony搶市 概念股先行",
             "link": "https://udn.com//news/story/6851/8420664?from=udn-catebreaknews_ch2",
             "time": "2024-12-12 13:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/12/draft/31075312.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "網通利多 邁威爾點燃AI新人氣",
-            "link": "https://udn.com//news/story/6851/8420655?from=udn-catebreaknews_ch2",
-            "time": "2024-12-12 13:46"
         }
     ]
 }
