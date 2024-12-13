@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/06/10/98/29794761.jpg&s=Y&x=0&y=0&sw=883&sh=589&exp=3600&w=300",
+            "title": "亞馬遜 AI 晶片Trainium3專案進行中 世芯自十月底飆52%",
+            "link": "https://udn.com//news/story/7253/8424052?from=udn-catebreaknews_ch2",
+            "time": "2024-12-13 16:42"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/06/03/2/29753920.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "高盛：折疊機、AI 水冷零組件加持 富世達上看1,233元",
+            "link": "https://udn.com//news/story/7253/8423994?from=udn-catebreaknews_ch2",
+            "time": "2024-12-13 16:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/06/2/30854838.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "外資9月來賣超106萬張 聯電股價續探底、恐陷40元保衛戰",
             "link": "https://udn.com//news/story/7253/8423869?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "00929昨天爆9萬大量股價漲…是投資人賣轉買？ 女子：近期情況皆是被散戶賣",
             "link": "https://udn.com//news/story/123006/8423808?from=udn-catebreaknews_ch2",
             "time": "2024-12-13 15:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/12/2/31074193.jpg&s=Y&x=0&y=0&sw=1265&sh=843&exp=3600&w=300",
-            "title": "台積電（2330）買500元後…漲不敢進、跌了賣不下手！ 達人：「定錨效應」被第一印象所束縛",
-            "link": "https://udn.com//news/story/12806/8423705?from=udn-catebreaknews_ch2",
-            "time": "2024-12-13 14:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/13/0/31083187.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "00922親民版市值型ETF…相比0050和006208一張動輒六位數！分散風險設單一個股權重上限30%",
-            "link": "https://udn.com//news/story/123006/8423650?from=udn-catebreaknews_ch2",
-            "time": "2024-12-13 14:16"
         }
     ]
 }
