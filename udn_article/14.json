@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/13/0/31080838.jpg&s=Y&x=0&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "六人小團隊打進全球雲端巨頭！科技老將秘訣：把半導體當服務業",
+            "link": "https://udn.com//news/story/6837/8422790?from=udn-catebreaknews_ch2",
+            "time": "2024-12-13 09:11"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/13/0/31080694.jpg&s=Y&x=16&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "爸媽、教練、車場老闆暖心接力 10歲菲力成最接近世界賽車冠軍的人",
+            "link": "https://udn.com//news/story/6837/8422777?from=udn-catebreaknews_ch2",
+            "time": "2024-12-13 09:10"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/12/0/31077138.jpg&s=Y&x=316&y=0&sw=884&sh=589&exp=3600&w=300",
             "title": "押注川普而勝出馬斯克 會如何對待昔日敵人？",
             "link": "https://udn.com//news/story/6841/8421367?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "網通利多 邁威爾點燃AI新人氣",
             "link": "https://udn.com//news/story/6851/8420655?from=udn-catebreaknews_ch2",
             "time": "2024-12-12 13:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/12/draft/31075283.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "再戰2萬4 好戲在後頭",
-            "link": "https://udn.com//news/story/6851/8420639?from=udn-catebreaknews_ch2",
-            "time": "2024-12-12 13:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/12/draft/31075222.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "台灣加速 韓國失速",
-            "link": "https://udn.com//news/story/6851/8420620?from=udn-catebreaknews_ch2",
-            "time": "2024-12-12 13:45"
         }
     ]
 }
