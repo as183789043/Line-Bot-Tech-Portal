@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/12/2/31076384.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
+            "title": "00929現在就是最差情況…配0.05元不太可能成常態！ 小童：殖利率最爛預估也有6％",
+            "link": "https://udn.com//news/story/123006/8422768?from=udn-catebreaknews_ch2",
+            "time": "2024-12-13 11:43"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/13/98/31081904.jpg&s=Y&x=4&y=108&sw=1276&sh=851&exp=3600&w=300",
+            "title": "台積電、航運穩盤 台股翻紅站回23000點",
+            "link": "https://udn.com//news/story/7251/8423166?from=udn-catebreaknews_ch2",
+            "time": "2024-12-13 11:28"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/06/2/31038352.jpg&s=Y&x=112&y=72&sw=969&sh=646&exp=3600&w=300",
             "title": "00878股息到手再投入00929及0631L零股！ 存股哥：恐慌才是累積部位的大好機會",
             "link": "https://udn.com//news/story/123006/8423064?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2024-12-13 10:08"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/05/24/2/29705449.jpg&s=Y&x=0&y=0&sw=512&sh=341&exp=3600&w=300",
-            "title": "00757破百元是必然因為0050都能做到！ 專家：這三檔10年後股價也很可能破三位數",
-            "link": "https://udn.com//news/story/123006/8422741?from=udn-catebreaknews_ch2",
-            "time": "2024-12-13 08:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/06/28/2/29900590.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "00929持有36張打算要繼續持續買進！ 達人：買入價格越低值利率越高",
-            "link": "https://udn.com//news/story/123006/8422731?from=udn-catebreaknews_ch2",
-            "time": "2024-12-13 08:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/11/2/31069924.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "00929今年績效表現最差的台股原型ETF！ 知美：今年推出的月配型績效慘兮兮",
-            "link": "https://udn.com//news/story/123006/8422711?from=udn-catebreaknews_ch2",
-            "time": "2024-12-13 07:58"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/13/2/31081783.jpg&s=Y&x=24&y=256&sw=1253&sh=835&exp=3600&w=300",
+            "title": "中美晶擬讓員工預支特休 股價重挫、集團股也齊跌",
+            "link": "https://udn.com//news/story/7254/8422864?from=udn-catebreaknews_ch2",
+            "time": "2024-12-13 09:45"
         }
     ]
 }
