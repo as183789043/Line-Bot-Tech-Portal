@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/12/15/31092153.jpg&s=Y&x=0&y=9&sw=1279&sh=852&exp=3600&w=300",
+            "title": "川普勝利 訴ABC新聞誹謗案 獲1500萬美元和解金",
+            "link": "https://udn.com//news/story/6813/8426372?from=udn-catebreaknews_ch2",
+            "time": "2024-12-15 06:03"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/14/realtime/31091354.png&s=Y&x=0&y=23&sw=3333&sh=2222&exp=3600&w=300",
+            "title": "尹錫悅彈劾案成立 一圖看後續關卡 是否下台有1大變數",
+            "link": "https://udn.com//news/story/124293/8426309?from=udn-catebreaknews_ch2",
+            "time": "2024-12-15 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/12/15/31092056.jpg&s=Y&x=0&y=162&sw=939&sh=626&exp=3600&w=300",
+            "title": "裴洛西在德國接受髖關節置換手術 1張照片引關注",
+            "link": "https://udn.com//news/story/6813/8426364?from=udn-catebreaknews_ch2",
+            "time": "2024-12-15 05:19"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/15/98/31092055.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "裴洛西出訪摔跤入院 已接受髖關節置換手術",
             "link": "https://udn.com//news/story/6813/8426354?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "時尚品牌Mango老闆 摔落懸崖身亡",
             "link": "https://udn.com//news/story/6811/8426351?from=udn-catebreaknews_ch2",
             "time": "2024-12-15 03:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
-            "title": "尹錫悅彈劾過關 南韓財金部會緊急會議防金融動盪",
-            "link": "https://udn.com//news/story/6811/8426192?from=udn-catebreaknews_ch2",
-            "time": "2024-12-15 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/14/realtime/31091257.jpg&s=Y&x=0&y=0&sw=4386&sh=2924&exp=3600&w=300",
-            "title": "蘋果CEO庫克拜訪川普 OpenAI奧特曼也將登門捐款",
-            "link": "https://udn.com//news/story/121777/8426210?from=udn-catebreaknews_ch2",
-            "time": "2024-12-15 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/14/realtime/31091266.jpg&s=Y&x=0&y=0&sw=1700&sh=1133&exp=3600&w=300",
-            "title": "防陸走後門！美AI晶片出口設限 可能涵蓋東南亞和中東國家",
-            "link": "https://udn.com//news/story/6811/8426170?from=udn-catebreaknews_ch2",
-            "time": "2024-12-15 03:00"
         }
     ]
 }
