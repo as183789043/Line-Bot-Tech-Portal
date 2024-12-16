@@ -1,6 +1,12 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/12/17/31102708.png&s=Y&x=156&y=0&sw=966&sh=645&exp=3600&w=300",
+            "title": "南加又一起狗咬死人 男主人被自家三只犬圍攻身亡",
+            "link": "https://udn.com//news/story/6813/8430007?from=udn-ch1_breaknews-1-0-news",
+            "time": "2024-12-17 03:42"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/17/realtime/31102546.jpg&s=Y&x=0&y=0&sw=2500&sh=1668&exp=3600&w=300",
             "title": "松葉蟹、香箱蟹入饌！海峽會「辰」打造奢華蟹味套餐",
             "link": "https://udn.com//news/story/7270/8429966?from=udn-ch1_breaknews-1-0-news",
@@ -23,12 +29,6 @@
             "title": "德總理蕭茲信任投票遭否決 國會將解散明年二月改選",
             "link": "https://udn.com//news/story/6809/8429907?from=udn-ch1_breaknews-1-0-news",
             "time": "2024-12-16 23:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/16/realtime/31102306.jpg&s=Y&x=0&y=30&sw=4000&sh=2666&exp=3600&w=300",
-            "title": "嘉市中央噴水圓環修繕首場說明會 市府重申不拆圓環3原則",
-            "link": "https://udn.com//news/story/7326/8429878?from=udn-ch1_breaknews-1-0-news",
-            "time": "2024-12-16 23:38"
         }
     ]
 }
