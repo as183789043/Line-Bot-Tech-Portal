@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/11/0/31070349.jpg&s=Y&x=168&y=0&sw=641&sh=427&exp=3600&w=300",
+            "title": "ETF降息風未停歇！00939今年壓軸除息 配息金額降至成立以來最低",
+            "link": "https://udn.com//news/story/123006/8429583?from=udn-catebreaknews_ch2",
+            "time": "2024-12-16 21:02"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/16/2/31101936.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "世芯取代台積電 成為大摩在大中華半導體族群的首選",
+            "link": "https://udn.com//news/story/7251/8429549?from=udn-catebreaknews_ch2",
+            "time": "2024-12-16 20:35"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/16/realtime/31101579.jpg&s=Y&x=0&y=42&sw=5712&sh=3808&exp=3600&w=300",
             "title": "華城法說會／第4季接單達100億 總座：兩因素就能知市場還是供不應求",
             "link": "https://udn.com//news/story/7253/8429391?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "外資買超151億元、這檔竟居買超冠軍 有5檔金融股也獲大買",
             "link": "https://udn.com//news/story/7251/8429119?from=udn-catebreaknews_ch2",
             "time": "2024-12-16 16:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/16/realtime/31100216.jpg&s=Y&x=0&y=29&sw=4281&sh=2854&exp=3600&w=300",
-            "title": "外資上周賣超台股262億元 賣超聯電最多",
-            "link": "https://udn.com//news/story/7251/8428940?from=udn-catebreaknews_ch2",
-            "time": "2024-12-16 15:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/11/2/31070356.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
-            "title": "台股上漲19點 三大法人買超69.89億元",
-            "link": "https://udn.com//news/story/7251/8428928?from=udn-catebreaknews_ch2",
-            "time": "2024-12-16 15:20"
         }
     ]
 }
