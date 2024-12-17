@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/04/2/31024157.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
+            "title": "台股市值晉升全球十大 明年有機會前低後高、逐步向上",
+            "link": "https://udn.com//news/story/7251/8431559?from=udn-catebreaknews_ch2",
+            "time": "2024-12-17 17:04"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/09/21/2/25370226.jpg&s=Y&x=0&y=12&sw=512&sh=341&exp=3600&w=300",
             "title": "台塑四寶過去一年跌幅全數超過50％…股價還能回來？ 專家：不如直買高股息ETF",
             "link": "https://udn.com//news/story/123006/8431313?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "00940二度調降配息金額 踩剎車時刻到了嗎？",
             "link": "https://udn.com//news/story/123006/8431217?from=udn-catebreaknews_ch2",
             "time": "2024-12-17 15:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/12/2/31076384.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
-            "title": "台股下跌21點 三大法人買超21.57億元",
-            "link": "https://udn.com//news/story/7251/8431213?from=udn-catebreaknews_ch2",
-            "time": "2024-12-17 15:08"
         }
     ]
 }
