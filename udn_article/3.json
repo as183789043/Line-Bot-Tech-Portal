@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
+            "title": "防範侵台：台灣與亞馬遜商談互聯網衛星合作",
+            "link": "https://udn.com//news/story/6811/8434845?from=udn-catebreaknews_ch2",
+            "time": "2024-12-19 04:44"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/19/realtime/31116065.jpg&s=Y&x=0&y=0&sw=5003&sh=3335&exp=3600&w=300",
             "title": "Fed利率決策／聯準會降息1碼 暗示明年調降幅度變小 美股走跌",
             "link": "https://udn.com//news/story/6811/8434994?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "韓外長：戒嚴影響與美互動",
             "link": "https://udn.com//news/story/124293/8434800?from=udn-catebreaknews_ch2",
             "time": "2024-12-19 02:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/06/2/31038478.jpg&s=Y&x=24&y=0&sw=1257&sh=838&exp=3600&w=300",
-            "title": "大陸電動車崛起 重塑全球汽車產業",
-            "link": "https://udn.com//news/story/6811/8434921?from=udn-catebreaknews_ch2",
-            "time": "2024-12-19 02:29"
         }
     ]
 }
