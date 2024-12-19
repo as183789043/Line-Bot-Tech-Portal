@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/13/2/31080957.jpg&s=Y&x=48&y=0&sw=1233&sh=822&exp=3600&w=300",
+            "title": "當沖降稅未通過 台股交易量可能受影響逾千億",
+            "link": "https://udn.com//news/story/7251/8436655?from=udn-catebreaknews_ch2",
+            "time": "2024-12-19 17:26"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/19/2/31116666.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "外資賣超335億 賣超前兩名竟是這類股、但買超亞光最多",
             "link": "https://udn.com//news/story/7251/8436496?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "00692、00878、00933B、00948B…平均每月加薪快5萬！瑞奇媽：突然就「逃離職場」",
             "link": "https://udn.com//news/story/123006/8436225?from=udn-catebreaknews_ch2",
             "time": "2024-12-19 15:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/19/realtime/31117655.jpg&s=Y&x=0&y=31&sw=4160&sh=2772&exp=3600&w=300",
-            "title": "台股跳水 彭金隆喊話上市櫃營收亮眼經濟面不錯",
-            "link": "https://udn.com//news/story/7251/8436235?from=udn-catebreaknews_ch2",
-            "time": "2024-12-19 15:13"
         }
     ]
 }
