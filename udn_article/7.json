@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/16/realtime/31099433.jpg&s=Y&x=0&y=35&sw=5033&sh=3354&exp=3600&w=300",
+            "title": "台股下跌422點 三大法人賣超550億元",
+            "link": "https://udn.com//news/story/7251/8438832?from=udn-catebreaknews_ch2",
+            "time": "2024-12-20 15:06"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/20/realtime/31125945.jpg&s=Y&x=0&y=5&sw=446&sh=296&exp=3600&w=300",
             "title": "30家基金公司2025展望 股優於債、看好「AI 金三角」國家行情",
             "link": "https://udn.com//news/story/10103/8438704?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "權值股領跌 台股重挫422點收22,510點 台積電跌35元收1,035元",
             "link": "https://udn.com//news/story/7251/8438547?from=udn-catebreaknews_ch2",
             "time": "2024-12-20 13:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/13/2/31083016.jpg&s=Y&x=68&y=0&sw=1212&sh=808&exp=3600&w=300",
-            "title": "台股持續走弱 下跌逾200點 網通股為逆勢撐盤焦點",
-            "link": "https://udn.com//news/story/7251/8438327?from=udn-catebreaknews_ch2",
-            "time": "2024-12-20 12:12"
         }
     ]
 }
