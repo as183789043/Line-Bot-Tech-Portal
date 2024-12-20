@@ -1,13 +1,19 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
+            "title": "俄羅斯對基輔發動大規模導彈襲擊",
+            "link": "https://udn.com//news/story/122663/8439824?from=udn-catebreaknews_ch2",
+            "time": "2024-12-21 04:44"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
             "title": "俄烏和談前提 澤倫斯基：須美歐作保",
             "link": "https://udn.com//news/story/122663/8439643?from=udn-catebreaknews_ch2",
             "time": "2024-12-21 03:46"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
             "title": "美表態支持南韓代理總統",
             "link": "https://udn.com//news/story/124293/8439645?from=udn-catebreaknews_ch2",
             "time": "2024-12-21 03:46"
@@ -19,16 +25,10 @@
             "time": "2024-12-21 03:37"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
             "title": "川普要議長強生硬起來",
             "link": "https://udn.com//news/story/121777/8439676?from=udn-catebreaknews_ch2",
             "time": "2024-12-21 03:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/20/realtime/31128522.jpg&s=Y&x=0&y=0&sw=2126&sh=1417&exp=3600&w=300",
-            "title": "共和黨人倒戈 美開支法案未過",
-            "link": "https://udn.com//news/story/121777/8439675?from=udn-catebreaknews_ch2",
-            "time": "2024-12-21 03:32"
         }
     ]
 }
