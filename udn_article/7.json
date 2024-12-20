@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/08/2/31048394.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股本週下跌510點 上市公司總市值降至72.2兆",
+            "link": "https://udn.com//news/story/7251/8439314?from=udn-catebreaknews_ch2",
+            "time": "2024-12-20 18:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/20/realtime/31127733.jpg&s=Y&x=99&y=0&sw=972&sh=649&exp=3600&w=300",
             "title": "新股紅包來了！東典申購起跑、承銷價32.5元 抽中一張賺9千",
             "link": "https://udn.com//news/story/7254/8439267?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "長照首例！青松健康下月中旬上市、積極布局六都銀髮經濟",
             "link": "https://udn.com//news/story/7254/8439149?from=udn-catebreaknews_ch2",
             "time": "2024-12-20 17:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/16/realtime/31099433.jpg&s=Y&x=0&y=35&sw=5033&sh=3354&exp=3600&w=300",
-            "title": "台股下跌422點 三大法人賣超550億元",
-            "link": "https://udn.com//news/story/7251/8438832?from=udn-catebreaknews_ch2",
-            "time": "2024-12-20 15:06"
         }
     ]
 }
