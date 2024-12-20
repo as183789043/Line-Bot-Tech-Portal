@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/12/2/31075418.jpg&s=Y&x=0&y=0&sw=1266&sh=844&exp=3600&w=300",
+            "title": "權值股領跌 台股重挫422點收22,510點 台積電跌35元收1,035元",
+            "link": "https://udn.com//news/story/7251/8438547?from=udn-catebreaknews_ch2",
+            "time": "2024-12-20 13:44"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/13/2/31083016.jpg&s=Y&x=68&y=0&sw=1212&sh=808&exp=3600&w=300",
             "title": "台股持續走弱 下跌逾200點 網通股為逆勢撐盤焦點",
             "link": "https://udn.com//news/story/7251/8438327?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "權值高價股走跌 台股跌逾200點回測22700點",
             "link": "https://udn.com//news/story/7251/8438110?from=udn-catebreaknews_ch2",
             "time": "2024-12-20 11:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/20/realtime/31124478.jpg&s=Y&x=0&y=4&sw=575&sh=382&exp=3600&w=300",
-            "title": "掌握未來十年最熱門投資趨勢 中信ETF 009801 1月13日開募",
-            "link": "https://udn.com//news/story/123006/8438073?from=udn-catebreaknews_ch2",
-            "time": "2024-12-20 10:43"
         }
     ]
 }
