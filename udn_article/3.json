@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/09/realtime/31056769.jpg&s=Y&x=0&y=0&sw=4711&sh=3145&exp=3600&w=300",
+            "title": "美媒：韓國瑜將率大團 賀川普就職",
+            "link": "https://udn.com//news/story/121777/8441227?from=udn-catebreaknews_ch2",
+            "time": "2024-12-22 03:12"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/21/realtime/31133634.jpg&s=Y&x=0&y=0&sw=5500&sh=3667&exp=3600&w=300",
             "title": "美國會達協議 避免政府關門",
             "link": "https://udn.com//news/story/6813/8441143?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "三星獲美國晶片法補助 金額縮水",
             "link": "https://udn.com//news/story/6811/8441152?from=udn-catebreaknews_ch2",
             "time": "2024-12-22 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/22/0/31133927.jpg&s=Y&x=0&y=0&sw=794&sh=529&exp=3600&w=300",
-            "title": "柬埔寨將允許日本訪問爭議海軍基地",
-            "link": "https://udn.com//news/story/6809/8441208?from=udn-catebreaknews_ch2",
-            "time": "2024-12-22 01:58"
         }
     ]
 }
