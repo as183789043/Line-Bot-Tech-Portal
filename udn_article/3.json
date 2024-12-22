@@ -1,13 +1,19 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/20/realtime/31126652.jpg&s=Y&x=0&y=0&sw=1860&sh=1240&exp=3600&w=300",
+            "title": "以色列趁敘利亞亂局擴張領土 更盼川普支持推翻伊朗",
+            "link": "https://udn.com//news/story/123777/8438931?from=udn-catebreaknews_ch2",
+            "time": "2024-12-23 05:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/23/98/31138717.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "耶誕前夕巴西南部小飛機墜入商家 至少10死17傷",
             "link": "https://udn.com//news/story/6809/8442681?from=udn-catebreaknews_ch2",
             "time": "2024-12-23 04:02"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
             "title": "國際周報",
             "link": "https://udn.com//news/story/124068/8442596?from=udn-catebreaknews_ch2",
             "time": "2024-12-23 03:55"
@@ -23,12 +29,6 @@
             "title": "半導體地緣政治學／晶片四方聯盟 陷瓦解危機",
             "link": "https://udn.com//news/story/124068/8442591?from=udn-catebreaknews_ch2",
             "time": "2024-12-23 03:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/09/realtime/30473795.jpg&s=Y&x=0&y=0&sw=1889&sh=1260&exp=3600&w=300",
-            "title": "半導體地緣政治學／東協能擺脫「中等收入陷阱」？",
-            "link": "https://udn.com//news/story/124068/8442592?from=udn-catebreaknews_ch2",
-            "time": "2024-12-23 03:49"
         }
     ]
 }
