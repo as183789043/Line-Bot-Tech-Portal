@@ -1,10 +1,16 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/22/realtime/31136984.jpg&s=Y&x=0&y=8&sw=1133&sh=754&exp=3600&w=300",
-            "title": "台股上周跌破半年線 法人：修正波尚未結束 本周暫且觀望",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/03/2/30196407.jpg&s=Y&x=12&y=20&sw=1267&sh=845&exp=3600&w=300",
+            "title": "台股上周跌破半年線 法人：本周暫且觀望「修正波尚未結束」",
             "link": "https://udn.com//news/story/7251/8442019?from=udn-catebreaknews_ch2",
             "time": "2024-12-22 16:08"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
+            "title": "高盛：AI伺服器成長強勁 廣達有望持續受惠「目標價419元」",
+            "link": "https://udn.com//news/story/7253/8441984?from=udn-catebreaknews_ch2",
+            "time": "2024-12-22 15:41"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/19/0/30930840.jpg&s=Y&x=172&y=228&sw=937&sh=625&exp=3600&w=300",
@@ -23,12 +29,6 @@
             "title": "美光公布財報後 法人對台記憶體族群看法維持中立",
             "link": "https://udn.com//news/story/7251/8441734?from=udn-catebreaknews_ch2",
             "time": "2024-12-22 12:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/22/realtime/31135562.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
-            "title": "積極攬才 晶鑽生醫23日起實施庫藏股",
-            "link": "https://udn.com//news/story/7254/8441588?from=udn-catebreaknews_ch2",
-            "time": "2024-12-22 11:29"
         }
     ]
 }
