@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/21/2/31128836.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "大摩：全球第3季伺服器直接出貨季增2% 看好四檔台股",
+            "link": "https://udn.com//news/story/7253/8442368?from=udn-catebreaknews_ch2",
+            "time": "2024-12-22 21:51"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/20/2/31123898.jpg&s=Y&x=8&y=8&sw=1271&sh=847&exp=3600&w=300",
+            "title": "台股摜破半年線、周線連二黑 短線整體偏弱勢",
+            "link": "https://udn.com//news/story/7251/8442178?from=udn-catebreaknews_ch2",
+            "time": "2024-12-22 18:48"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/03/2/30196407.jpg&s=Y&x=12&y=20&sw=1267&sh=845&exp=3600&w=300",
             "title": "台股上周跌破半年線 法人：本周暫且觀望「修正波尚未結束」",
             "link": "https://udn.com//news/story/7251/8442019?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "23歲女月薪40K「一半給家用、6K活存」 網勸買這2檔ETF更賺",
             "link": "https://udn.com//news/story/123006/8441786?from=udn-catebreaknews_ch2",
             "time": "2024-12-22 13:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/22/2/31136253.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "樂觀看待川普2.0經濟利多 看好美國小型股與科技股、加碼金融股",
-            "link": "https://udn.com//news/story/7251/8441798?from=udn-catebreaknews_ch2",
-            "time": "2024-12-22 13:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/20/2/31122581.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "美光公布財報後 法人對台記憶體族群看法維持中立",
-            "link": "https://udn.com//news/story/7251/8441734?from=udn-catebreaknews_ch2",
-            "time": "2024-12-22 12:33"
         }
     ]
 }
