@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/22/realtime/31136984.jpg&s=Y&x=0&y=8&sw=1133&sh=754&exp=3600&w=300",
+            "title": "台股上周跌破半年線 法人：修正波尚未結束 本周暫且觀望",
+            "link": "https://udn.com//news/story/7251/8442019?from=udn-catebreaknews_ch2",
+            "time": "2024-12-22 16:08"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/19/0/30930840.jpg&s=Y&x=172&y=228&sw=937&sh=625&exp=3600&w=300",
             "title": "23歲女月薪40K「一半給家用、6K活存」 網勸買這2檔ETF更賺",
             "link": "https://udn.com//news/story/123006/8441786?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "積極攬才 晶鑽生醫23日起實施庫藏股",
             "link": "https://udn.com//news/story/7254/8441588?from=udn-catebreaknews_ch2",
             "time": "2024-12-22 11:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/22/98/31135361.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "外銀：川普2.0發酵 估明年Fed降息空間僅2碼",
-            "link": "https://udn.com//news/story/7251/8441472?from=udn-catebreaknews_ch2",
-            "time": "2024-12-22 10:40"
         }
     ]
 }
