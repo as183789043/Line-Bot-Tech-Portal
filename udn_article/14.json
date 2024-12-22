@@ -1,6 +1,24 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/18/draft/31110797.jpg&s=Y&x=0&y=7&sw=1000&sh=666&exp=3600&w=300",
+            "title": "高雄百繪",
+            "link": "https://udn.com//news/story/6966/8432787?from=udn-catebreaknews_ch2",
+            "time": "2024-12-22 11:40"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/18/draft/31110601.jpg&s=Y&x=0&y=0&sw=1000&sh=667&exp=3600&w=300",
+            "title": "高雄夢幻聖誕夜：「森之樹」浪漫飄雪 x 9大燈區閃耀港都",
+            "link": "https://udn.com//news/story/6966/8432751?from=udn-catebreaknews_ch2",
+            "time": "2024-12-22 11:40"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/29/98/30625190.jpg&s=Y&x=120&y=73&sw=752&sh=501&exp=3600&w=300",
+            "title": "打造退休＋永續雙贏規畫",
+            "link": "https://udn.com//news/story/6854/8437507?from=udn-catebreaknews_ch2",
+            "time": "2024-12-22 11:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/18/draft/31113484.jpg&s=Y&x=0&y=4&sw=600&sh=400&exp=3600&w=300",
             "title": "革新傳產模具製程 積層製造加速產業創新",
             "link": "https://udn.com//news/story/11726/8433877?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "解鎖醫療新未來 積層製造與客製化醫材",
             "link": "https://udn.com//news/story/11726/8433854?from=udn-catebreaknews_ch2",
             "time": "2024-12-22 11:15"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/18/draft/31113406.jpg&s=Y&x=43&y=0&sw=513&sh=342&exp=3600&w=300",
-            "title": "積層製造鏈結生成式AI",
-            "link": "https://udn.com//news/story/11726/8433835?from=udn-catebreaknews_ch2",
-            "time": "2024-12-22 11:15"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/18/draft/31113281.jpg&s=Y&x=20&y=0&sw=558&sh=373&exp=3600&w=300",
-            "title": "「冷融合」技術：無污染核能的新希望？",
-            "link": "https://udn.com//news/story/6903/8433791?from=udn-catebreaknews_ch2",
-            "time": "2024-12-22 11:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/18/105/31135359.jpg&s=Y&x=70&y=0&sw=834&sh=556&exp=3600&w=300",
-            "title": "以模擬工具提高氫生產燃料電池使用率",
-            "link": "https://udn.com//news/story/6903/8433738?from=udn-catebreaknews_ch2",
-            "time": "2024-12-22 11:14"
         }
     ]
 }
