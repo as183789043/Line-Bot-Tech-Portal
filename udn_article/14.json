@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/22/realtime/31138218.jpg&s=Y&x=0&y=0&sw=4970&sh=3314&exp=3600&w=300",
+            "title": "台積電獨紅、台股卻逾1400檔臉綠…年底封關前「內資手法」曝！不想留下洗碗怎操作？",
+            "link": "https://udn.com//news/story/6839/8443239?from=udn-catebreaknews_ch2",
+            "time": "2024-12-23 13:23"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/19/0/30930840.jpg&s=Y&x=100&y=96&sw=1113&sh=742&exp=3600&w=300",
+            "title": "金融白領30歲當副總、49歲被離職... 「500元飯局不敢去」她領悟退休金這樣存",
+            "link": "https://udn.com//news/story/6839/8443219?from=udn-catebreaknews_ch2",
+            "time": "2024-12-23 13:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/18/draft/31110797.jpg&s=Y&x=0&y=7&sw=1000&sh=666&exp=3600&w=300",
             "title": "高雄百繪",
             "link": "https://udn.com//news/story/6966/8432787?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "打造退休＋永續雙贏規畫",
             "link": "https://udn.com//news/story/6854/8437507?from=udn-catebreaknews_ch2",
             "time": "2024-12-22 11:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/18/draft/31113484.jpg&s=Y&x=0&y=4&sw=600&sh=400&exp=3600&w=300",
-            "title": "革新傳產模具製程 積層製造加速產業創新",
-            "link": "https://udn.com//news/story/11726/8433877?from=udn-catebreaknews_ch2",
-            "time": "2024-12-22 11:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/18/105/31135517.jpg&s=Y&x=0&y=0&sw=883&sh=589&exp=3600&w=300",
-            "title": "解鎖醫療新未來 積層製造與客製化醫材",
-            "link": "https://udn.com//news/story/11726/8433854?from=udn-catebreaknews_ch2",
-            "time": "2024-12-22 11:15"
         }
     ]
 }
