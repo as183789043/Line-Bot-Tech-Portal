@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/23/draft/31139968.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
+            "title": "綠島之湯─朝日溫泉 徜徉在大海、日出與星空下",
+            "link": "https://udn.com//news/story/6845/8442927?from=udn-catebreaknews_ch2",
+            "time": "2024-12-23 15:09"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/23/draft/31139949.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
+            "title": "百年溫泉旅遊勝地 在北投泡一個滿載歷史的湯",
+            "link": "https://udn.com//news/story/6845/8442919?from=udn-catebreaknews_ch2",
+            "time": "2024-12-23 15:06"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/22/realtime/31138218.jpg&s=Y&x=0&y=0&sw=4970&sh=3314&exp=3600&w=300",
             "title": "台積電獨紅、台股卻逾1400檔臉綠…年底封關前「內資手法」曝！不想留下洗碗怎操作？",
             "link": "https://udn.com//news/story/6839/8443239?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "高雄百繪",
             "link": "https://udn.com//news/story/6966/8432787?from=udn-catebreaknews_ch2",
             "time": "2024-12-22 11:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/18/draft/31110601.jpg&s=Y&x=0&y=0&sw=1000&sh=667&exp=3600&w=300",
-            "title": "高雄夢幻聖誕夜：「森之樹」浪漫飄雪 x 9大燈區閃耀港都",
-            "link": "https://udn.com//news/story/6966/8432751?from=udn-catebreaknews_ch2",
-            "time": "2024-12-22 11:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/29/98/30625190.jpg&s=Y&x=120&y=73&sw=752&sh=501&exp=3600&w=300",
-            "title": "打造退休＋永續雙贏規畫",
-            "link": "https://udn.com//news/story/6854/8437507?from=udn-catebreaknews_ch2",
-            "time": "2024-12-22 11:23"
         }
     ]
 }
