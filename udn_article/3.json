@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
+            "title": "陸成熟製程半導體 美啟動301調查",
+            "link": "https://udn.com//news/story/6811/8444754?from=udn-catebreaknews_ch2",
+            "time": "2024-12-24 02:19"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
+            "title": "本田、日產合併談判 否認鴻海洽談",
+            "link": "https://udn.com//news/story/6811/8444767?from=udn-catebreaknews_ch2",
+            "time": "2024-12-24 02:19"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/23/realtime/31139726.jpg&s=Y&x=0&y=0&sw=8192&sh=5461&exp=3600&w=300",
             "title": "川普就職首日 美加密貨幣產業籲簽行政命令促進發展",
             "link": "https://udn.com//news/story/121777/8444617?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "馬斯克批Fed「員工過多」 恐成效率部最新整頓目標",
             "link": "https://udn.com//news/story/6813/8444557?from=udn-catebreaknews_ch2",
             "time": "2024-12-23 21:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/23/realtime/31144459.jpg&s=Y&x=0&y=0&sw=6136&sh=4092&exp=3600&w=300",
-            "title": "不只裁一般員工 Google這兩年也砍了10%的高階管理層",
-            "link": "https://udn.com//news/story/6811/8444516?from=udn-catebreaknews_ch2",
-            "time": "2024-12-23 21:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/23/realtime/31144422.jpg&s=Y&x=189&y=0&sw=2622&sh=1749&exp=3600&w=300",
-            "title": "投資人只能在場邊觀望 為何OpenAI等企業選擇不公開上市？",
-            "link": "https://udn.com//news/story/6811/8444501?from=udn-catebreaknews_ch2",
-            "time": "2024-12-23 21:27"
         }
     ]
 }
