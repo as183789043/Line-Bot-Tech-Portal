@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/24/realtime/31151087.jpeg&s=Y&x=110&y=0&sw=3063&sh=2042&exp=3600&w=300",
+            "title": "當沖續降稅 27日拚三讀",
+            "link": "https://udn.com//news/story/7251/8447166?from=udn-catebreaknews_ch2",
+            "time": "2024-12-25 04:42"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/15/2/30910568.jpg&s=Y&x=76&y=0&sw=1127&sh=751&exp=3600&w=300",
             "title": "主動式ETF來了 金管會7大新制1月上路",
             "link": "https://udn.com//news/story/123006/8446768?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股有活水！勞動基金宣布：2025年上半年將辦至少500億台股委外代操",
             "link": "https://udn.com//news/story/7251/8446716?from=udn-catebreaknews_ch2",
             "time": "2024-12-24 19:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/07/12/2/29991532.jpg&s=Y&x=0&y=40&sw=960&sh=640&exp=3600&w=300",
-            "title": "耶誕夜不平安 資服股王零壹驚爆違約交割",
-            "link": "https://udn.com//news/story/7251/8446703?from=udn-catebreaknews_ch2",
-            "time": "2024-12-24 19:23"
         }
     ]
 }
