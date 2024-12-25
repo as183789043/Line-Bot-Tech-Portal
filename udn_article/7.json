@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/25/realtime/31157091.jpg&s=Y&x=0&y=11&sw=1476&sh=984&exp=3600&w=300",
+            "title": "富威電力今日起上市競拍 底價69.83元",
+            "link": "https://udn.com//news/story/7254/8449190?from=udn-catebreaknews_ch2",
+            "time": "2024-12-25 19:29"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/17/realtime/31108473.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
             "title": "精成科將發布重訊！其普通股及以其認購(售)權證 12月26日起暫停交易",
             "link": "https://udn.com//news/story/7253/8449016?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股收漲99點站穩所有均線 中小型股掛帥",
             "link": "https://udn.com//news/story/7251/8448440?from=udn-catebreaknews_ch2",
             "time": "2024-12-25 15:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
-            "title": "機器人股買氣爆棚 能率集團作帳行情風光、3檔飆漲停",
-            "link": "https://udn.com//news/story/7251/8448479?from=udn-catebreaknews_ch2",
-            "time": "2024-12-25 14:47"
         }
     ]
 }
