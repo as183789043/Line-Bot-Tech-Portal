@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/23/realtime/31144694.jpg&s=Y&x=0&y=0&sw=3936&sh=2624&exp=3600&w=300",
+            "title": "紐時：美國吹保守民粹風  川普2.0改寫政治篇章",
+            "link": "https://udn.com//news/story/121777/8449772?from=udn-catebreaknews_ch2",
+            "time": "2024-12-26 01:26"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/25/realtime/31157719.jpg&s=Y&x=0&y=0&sw=2125&sh=1417&exp=3600&w=300",
             "title": "亞塞拜然航空墜機 恐逾30死",
             "link": "https://udn.com//news/story/6809/8449603?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "耶誕文告籲「讓武器噤聲」 教宗方濟各促中東、烏克蘭、蘇丹實現和平",
             "link": "https://udn.com//news/story/6809/8449464?from=udn-catebreaknews_ch2",
             "time": "2024-12-25 22:38"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/25/98/31157607.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "哈瑪斯：以色列提出新談判條件 耽誤停火協議",
-            "link": "https://udn.com//news/story/123777/8449461?from=udn-catebreaknews_ch2",
-            "time": "2024-12-25 22:32"
         }
     ]
 }
