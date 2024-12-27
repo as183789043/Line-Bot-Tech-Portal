@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/25/0/31153316.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "台股週漲765點 上市公司總市值回升到74.66兆",
+            "link": "https://udn.com//news/story/7251/8453870?from=udn-catebreaknews_ch2",
+            "time": "2024-12-27 19:11"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/25/0/31155015.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "當沖降稅延3年再等等 券商：擬好備案希望來得及",
+            "link": "https://udn.com//news/story/7251/8453843?from=udn-catebreaknews_ch2",
+            "time": "2024-12-27 18:41"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/19/realtime/31121706.jpg&s=Y&x=0&y=0&sw=944&sh=639&exp=3600&w=300",
             "title": "外資連5買加碼金融股台積電 投信賣超17億元",
             "link": "https://udn.com//news/story/7251/8453707?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "當沖降稅三讀不樂觀？卓揆：期待有好的結果",
             "link": "https://udn.com//news/story/7251/8453553?from=udn-catebreaknews_ch2",
             "time": "2024-12-27 16:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/20/0/30939607.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "上帝+AI…天品今年來暴漲341% 為上市櫃漲幅第11大",
-            "link": "https://udn.com//news/story/7254/8453417?from=udn-catebreaknews_ch2",
-            "time": "2024-12-27 15:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/25/0/31152476.jpg&s=Y&x=0&y=0&sw=629&sh=419&exp=3600&w=300",
-            "title": "台股上漲28點 三大法人買超49億元",
-            "link": "https://udn.com//news/story/7251/8453346?from=udn-catebreaknews_ch2",
-            "time": "2024-12-27 15:07"
         }
     ]
 }
