@@ -1,6 +1,12 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/28/realtime/31174095.jpg&s=Y&x=30&y=0&sw=1110&sh=740&exp=3600&w=300",
+            "title": "川普自由放任政策 AI驅動產業成長力道不減",
+            "link": "https://udn.com//news/story/7240/8456426?from=udn-catebreaknews_ch2",
+            "time": "2024-12-30 05:10"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/29/realtime/31179128.jpg&s=Y&x=0&y=156&sw=1000&sh=667&exp=3600&w=300",
             "title": "經濟選書／從AI霸主 看科技引發的副作用",
             "link": "https://udn.com//news/story/7241/8456675?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2024-12-30 03:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_7.jpg&w=300",
             "title": "點子農場／當慈愛成為台灣的品牌",
             "link": "https://udn.com//news/story/7241/8456678?from=udn-catebreaknews_ch2",
             "time": "2024-12-30 03:00"
@@ -23,12 +29,6 @@
             "title": "台積電攻矽光子報佳音 博通、輝達將成首批客戶",
             "link": "https://udn.com//news/story/7240/8456988?from=udn-catebreaknews_ch2",
             "time": "2024-12-30 02:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
-            "title": "博通當紅 台鏈沾光",
-            "link": "https://udn.com//news/story/7240/8456984?from=udn-catebreaknews_ch2",
-            "time": "2024-12-30 02:26"
         }
     ]
 }
