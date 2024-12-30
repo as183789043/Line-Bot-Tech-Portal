@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/30/draft/31181079.jpg&s=Y&x=0&y=0&sw=624&sh=415&exp=3600&w=300",
+            "title": "為何年紀愈大喝酒愈累？專家：代謝變差、體內水分減少",
+            "link": "https://udn.com//news/story/6897/8457336?from=udn-catebreaknews_ch2",
+            "time": "2024-12-30 09:47"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/28/realtime/31174095.jpg&s=Y&x=30&y=0&sw=1110&sh=740&exp=3600&w=300",
             "title": "AI驅動產業成長力道不減",
             "link": "https://udn.com//news/story/6854/8454137?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "Enjoy a Nostalgic and Artsy Tour in Cishan",
             "link": "https://udn.com//news/story/6967/8443651?from=udn-catebreaknews_ch2",
             "time": "2024-12-29 09:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/23/draft/31141824.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
-            "title": "Exploring Kaohsiung Through Illustrations",
-            "link": "https://udn.com//news/story/6967/8443580?from=udn-catebreaknews_ch2",
-            "time": "2024-12-29 09:11"
         }
     ]
 }
