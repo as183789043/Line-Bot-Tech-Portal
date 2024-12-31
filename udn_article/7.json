@@ -1,7 +1,25 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/realtime/31191983.jpg&s=Y&x=135&y=0&sw=5139&sh=3427&exp=3600&w=300",
+            "title": "年漲5104點 台股封關指數創新高",
+            "link": "https://udn.com//news/story/7251/8461448?from=udn-catebreaknews_ch2",
+            "time": "2025-01-01 04:23"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/24/realtime/30966479.jpg&s=Y&x=56&y=0&sw=1776&sh=1185&exp=3600&w=300",
+            "title": "台股封關 Q1挑戰新高…法人樂觀指數再寫新猷",
+            "link": "https://udn.com//news/story/7251/8461469?from=udn-catebreaknews_ch2",
+            "time": "2025-01-01 02:35"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/realtime/31189310.jpg&s=Y&x=0&y=0&sw=944&sh=639&exp=3600&w=300",
+            "title": "當沖降稅延長 壓線過關…可無縫接軌",
+            "link": "https://udn.com//news/story/7251/8461483?from=udn-catebreaknews_ch2",
+            "time": "2025-01-01 02:32"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
             "title": "就市論勢／光通訊、機器人鏈 聚光",
             "link": "https://udn.com//news/story/7251/8461133?from=udn-catebreaknews_ch2",
             "time": "2024-12-31 23:24"
@@ -11,24 +29,6 @@
             "title": "你買的ETF有上榜嗎？ 2024年ETF十大天王出爐",
             "link": "https://udn.com//news/story/123006/8461289?from=udn-catebreaknews_ch2",
             "time": "2024-12-31 22:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/98/31190152.jpg&s=Y&x=0&y=0&sw=1025&sh=683&exp=3600&w=300",
-            "title": "滙豐：台股2025年股東權益報酬率達17.5% 居亞股最高",
-            "link": "https://udn.com//news/story/7251/8461205?from=udn-catebreaknews_ch2",
-            "time": "2024-12-31 21:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/15/2/30910568.jpg&s=Y&x=76&y=0&sw=1127&sh=751&exp=3600&w=300",
-            "title": "2024年ETF最後驚喜是它！00701下半年配2.05元 年化配息率高達14%",
-            "link": "https://udn.com//news/story/123006/8461184?from=udn-catebreaknews_ch2",
-            "time": "2024-12-31 20:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/2/31191387.jpg&s=Y&x=0&y=0&sw=1025&sh=683&exp=3600&w=300",
-            "title": "無懼外資大賣近7,000億元 台股今年總市值增加三成",
-            "link": "https://udn.com//news/story/7251/8461074?from=udn-catebreaknews_ch2",
-            "time": "2024-12-31 19:21"
         }
     ]
 }
