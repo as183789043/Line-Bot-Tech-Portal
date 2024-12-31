@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/98/31190152.jpg&s=Y&x=0&y=0&sw=1025&sh=683&exp=3600&w=300",
+            "title": "滙豐：台股2025年股東權益報酬率達17.5% 居亞股最高",
+            "link": "https://udn.com//news/story/7251/8461205?from=udn-catebreaknews_ch2",
+            "time": "2024-12-31 21:02"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/15/2/30910568.jpg&s=Y&x=76&y=0&sw=1127&sh=751&exp=3600&w=300",
+            "title": "2024年ETF最後驚喜是它！00701下半年配2.05元 年化配息率高達14%",
+            "link": "https://udn.com//news/story/123006/8461184?from=udn-catebreaknews_ch2",
+            "time": "2024-12-31 20:57"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/2/31191387.jpg&s=Y&x=0&y=0&sw=1025&sh=683&exp=3600&w=300",
             "title": "無懼外資大賣近7,000億元 台股今年總市值增加三成",
             "link": "https://udn.com//news/story/7251/8461074?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台股2024年飆股排行 AI、半導體族群最風光",
             "link": "https://udn.com//news/story/7251/8461001?from=udn-catebreaknews_ch2",
             "time": "2024-12-31 18:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/realtime/31190940.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "海悅處分新應材股票494張 處分利益1.61億元、約可貢獻EPS 0.8元",
-            "link": "https://udn.com//news/story/7252/8461017?from=udn-catebreaknews_ch2",
-            "time": "2024-12-31 18:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/25/0/31155015.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "台股今年外資自營商大賣超 投信買超8322億元創新高",
-            "link": "https://udn.com//news/story/7251/8460931?from=udn-catebreaknews_ch2",
-            "time": "2024-12-31 18:06"
         }
     ]
 }
