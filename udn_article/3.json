@@ -1,8 +1,20 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/98/31187764.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "馬斯克挺極右政黨 德副總理：削弱歐洲對其有利",
+            "link": "https://udn.com//news/story/6809/8459717?from=udn-catebreaknews_ch2",
+            "time": "2024-12-31 11:14"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/realtime/31187649.jpg&s=Y&x=0&y=0&sw=3936&sh=2624&exp=3600&w=300",
+            "title": "川普關稅威脅效應 韓企擱置墨西哥投資、四成日企重新評估中國策略",
+            "link": "https://udn.com//news/story/6811/8459748?from=udn-catebreaknews_ch2",
+            "time": "2024-12-31 10:56"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/realtime/31187592.png&s=Y&x=0&y=8&sw=1111&sh=740&exp=3600&w=300",
-            "title": "日本參議員足立敏之在馬爾地夫度假喪命！浮潛溺斃 享壽70歲",
+            "title": "日參議員足立敏之在馬爾地夫度假喪命！浮潛溺斃 享壽70歲",
             "link": "https://udn.com//news/story/6809/8459710?from=udn-catebreaknews_ch2",
             "time": "2024-12-31 10:42"
         },
@@ -17,18 +29,6 @@
             "title": "以色列軟體公司 Run:ai納入NVIDIA旗下 將開放原始碼",
             "link": "https://udn.com//news/story/6811/8459695?from=udn-catebreaknews_ch2",
             "time": "2024-12-31 10:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/realtime/31187518.jpg&s=Y&x=0&y=0&sw=5720&sh=3814&exp=3600&w=300",
-            "title": "主動型股票基金失寵 今年流失4,500億美元資金",
-            "link": "https://udn.com//news/story/6811/8459670?from=udn-catebreaknews_ch2",
-            "time": "2024-12-31 10:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/realtime/31187430.png&s=Y&x=0&y=60&sw=671&sh=447&exp=3600&w=300",
-            "title": "荷包免失血！美超市推「平替款」愛馬仕柏金包 一顆不到3千元引瘋搶",
-            "link": "https://udn.com//news/story/6813/8459642?from=udn-catebreaknews_ch2",
-            "time": "2024-12-31 10:17"
         }
     ]
 }
