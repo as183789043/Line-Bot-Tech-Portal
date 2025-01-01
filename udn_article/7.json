@@ -1,7 +1,13 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/01/realtime/31196199.jpg&s=Y&x=0&y=13&sw=1889&sh=1258&exp=3600&w=300",
+            "title": "靠台積電加持  0050在2024年含息報酬率稱冠ETF",
+            "link": "https://udn.com//news/story/7251/8462703?from=udn-catebreaknews_ch2",
+            "time": "2025-01-01 17:07"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
             "title": "台股封關日險守23,000 量能仍在放假、待假期後法人歸隊",
             "link": "https://udn.com//news/story/7251/8462382?from=udn-catebreaknews_ch2",
             "time": "2025-01-01 13:32"
@@ -13,7 +19,7 @@
             "time": "2025-01-01 11:40"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
             "title": "法人：台股2025年創高空間恐有限 AI仍是主旋律",
             "link": "https://udn.com//news/story/7251/8461787?from=udn-catebreaknews_ch2",
             "time": "2025-01-01 08:13"
@@ -23,12 +29,6 @@
             "title": "2025年高息ETF怎麼挑？00919、00878…老鳥推這5檔「配息馬力夠」存股必備",
             "link": "https://udn.com//news/story/123006/8460548?from=udn-catebreaknews_ch2",
             "time": "2025-01-01 07:15"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/realtime/31191983.jpg&s=Y&x=135&y=0&sw=5139&sh=3427&exp=3600&w=300",
-            "title": "年漲5104點 台股封關指數創新高",
-            "link": "https://udn.com//news/story/7251/8461448?from=udn-catebreaknews_ch2",
-            "time": "2025-01-01 04:23"
         }
     ]
 }
