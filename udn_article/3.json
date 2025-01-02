@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/03/98/31204458.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "以色列空襲加薩各地 醫護人員：至少54死",
+            "link": "https://udn.com//news/story/123777/8465695?from=udn-catebreaknews_ch2",
+            "time": "2025-01-03 06:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/30/realtime/31183854.png&s=Y&x=0&y=0&sw=2448&sh=1624&exp=3600&w=300",
             "title": "吃電資料中心暴美致命痛點 美中AI競賽恐輸在電力上？",
             "link": "https://udn.com//news/story/6809/8458409?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "美股新年首交易日開高逆轉收黑 道瓊跌逾150點",
             "link": "https://udn.com//news/story/6811/8465666?from=udn-catebreaknews_ch2",
             "time": "2025-01-03 05:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/02/realtime/31199191.jpg&s=Y&x=0&y=0&sw=5000&sh=3333&exp=3600&w=300",
-            "title": "FBI：紐奧良衝撞事件為孤狼犯罪 與賭城爆炸案似無關",
-            "link": "https://udn.com//news/story/6813/8465634?from=udn-catebreaknews_ch2",
-            "time": "2025-01-03 04:10"
         }
     ]
 }
