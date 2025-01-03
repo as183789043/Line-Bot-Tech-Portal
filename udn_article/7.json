@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/2/31190270.jpg&s=Y&x=24&y=0&sw=873&sh=582&exp=3600&w=300",
+            "title": "2025年才開始、這檔ETF連續兩日破底 可以撿了嗎？",
+            "link": "https://udn.com//news/story/123006/8467475?from=udn-catebreaknews_ch2",
+            "time": "2025-01-03 21:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/30/0/31181055.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "台股週線翻黑下跌367點 上市公司總市值降至73.5兆",
             "link": "https://udn.com//news/story/7251/8467261?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "Blackwell 效應將來襲？大摩：CES 具雙亮點、RTX 4090 供不應求",
             "link": "https://udn.com//news/story/7251/8467135?from=udn-catebreaknews_ch2",
             "time": "2025-01-03 17:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/0/31189667.jpg&s=Y&x=0&y=0&sw=1187&sh=791&exp=3600&w=300",
-            "title": "2025首周台股失利 春節前利多題材輪番上陣",
-            "link": "https://udn.com//news/story/7251/8467062?from=udn-catebreaknews_ch2",
-            "time": "2025-01-03 17:08"
         }
     ]
 }
