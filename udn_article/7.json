@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/03/2/31206620.jpg&s=Y&x=12&y=4&sw=1231&sh=821&exp=3600&w=300",
+            "title": "台股上漲76點收22,908點 台積電漲10元收1,075元",
+            "link": "https://udn.com//news/story/7251/8466491?from=udn-catebreaknews_ch2",
+            "time": "2025-01-03 13:42"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/25/2/31153116.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "0056「難能可貴」不甩降息連三季配1.07元！小車：存高股息對價格成長是不該有的期待",
             "link": "https://udn.com//news/story/123006/8466279?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "00878加碼起來…跟隨企業一起成長！ 專家：股價約22元是不錯入手時機",
             "link": "https://udn.com//news/story/123006/8466046?from=udn-catebreaknews_ch2",
             "time": "2025-01-03 11:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/06/28/2/29900590.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "美國申領失業救濟金的人數下降…但反覆申請連續第二年增加！ 辣媽：企業傾向留住原有員工",
-            "link": "https://udn.com//news/story/7251/8466018?from=udn-catebreaknews_ch2",
-            "time": "2025-01-03 10:48"
         }
     ]
 }
