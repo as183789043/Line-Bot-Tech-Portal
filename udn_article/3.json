@@ -1,9 +1,15 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/07/realtime/31224762.jpg&s=Y&x=0&y=0&sw=5500&sh=3668&exp=3600&w=300",
+            "title": "風雪無阻…美國國會完成認證程序 川普當選總統",
+            "link": "https://udn.com//news/story/121777/8472781?from=udn-catebreaknews_ch2",
+            "time": "2025-01-07 03:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/07/realtime/31224639.jpg&s=Y&x=0&y=0&sw=5000&sh=3333&exp=3600&w=300",
             "title": "加國總理杜魯多請辭 川普：知道美國不會繼續補貼",
-            "link": "https://udn.com//news/story/6809/8472752?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/121777/8472752?from=udn-catebreaknews_ch2",
             "time": "2025-01-07 02:18"
         },
         {
@@ -23,12 +29,6 @@
             "title": "加拿大總理杜魯多宣布辭黨魁 續任總理至新黨魁選出",
             "link": "https://udn.com//news/story/6809/8472707?from=udn-catebreaknews_ch2",
             "time": "2025-01-07 00:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/05/98/31217809.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "巨大冬季風暴襲擊北美 議長強生：不影響川普當選認證",
-            "link": "https://udn.com//news/story/121777/8472489?from=udn-catebreaknews_ch2",
-            "time": "2025-01-06 22:59"
         }
     ]
 }
