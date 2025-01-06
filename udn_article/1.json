@@ -1,9 +1,21 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/06/realtime/31221842.jpg&s=Y&x=0&y=0&sw=2508&sh=1672&exp=3600&w=300",
+            "title": "【重磅快評】政壇唯二牙醫 解密陳時中為何力挺柯建銘",
+            "link": "https://udn.com//news/story/124323/8471561?from=udn-catebreaknews_ch2",
+            "time": "2025-01-06 14:40"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/06/realtime/31221797.jpg&s=Y&x=0&y=35&sw=2288&sh=1524&exp=3600&w=300",
+            "title": "柯建銘揚言「大罷免」 傅崐萁：沒休息好精神錯亂",
+            "link": "https://udn.com//news/story/124323/8471542?from=udn-catebreaknews_ch2",
+            "time": "2025-01-06 14:36"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/06/realtime/31221643.jpeg&s=Y&x=0&y=14&sw=1440&sh=960&exp=3600&w=300",
-            "title": "以戰止戰 趙少康：綠不怕立院被癱瘓 國民黨也不用客氣",
-            "link": "https://udn.com//news/story/6656/8471472?from=udn-catebreaknews_ch2",
+            "title": "以戰止戰！趙少康：綠不怕立院被癱瘓 國民黨也不用客氣",
+            "link": "https://udn.com//news/story/124323/8471472?from=udn-catebreaknews_ch2",
             "time": "2025-01-06 14:11"
         },
         {
@@ -15,20 +27,8 @@
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/06/realtime/31221567.jpeg&s=Y&x=191&y=0&sw=2007&sh=1338&exp=3600&w=300",
             "title": "民眾黨嗆與司法「釘孤枝」 蕭旭岑：樂見朱立倫伸援手",
-            "link": "https://udn.com//news/story/6656/8471445?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124199/8471445?from=udn-catebreaknews_ch2",
             "time": "2025-01-06 13:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/06/realtime/31221494.jpeg&s=Y&x=193&y=0&sw=4587&sh=3059&exp=3600&w=300",
-            "title": "柯建銘揚言雙罷 國民黨團：號召民眾以罷制罷",
-            "link": "https://udn.com//news/story/124323/8471393?from=udn-catebreaknews_ch2",
-            "time": "2025-01-06 13:38"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/06/realtime/31221491.jpg&s=Y&x=267&y=0&sw=4788&sh=3193&exp=3600&w=300",
-            "title": "台船：尊重潛艦預算編列方式 重點是不能中斷",
-            "link": "https://udn.com//news/story/10930/8471384?from=udn-catebreaknews_ch2",
-            "time": "2025-01-06 13:36"
         }
     ]
 }
