@@ -1,10 +1,22 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/08/realtime/31232070.jpg&s=Y&x=0&y=0&sw=7684&sh=5123&exp=3600&w=300",
+            "title": "經濟數據太好引發通膨疑慮 美股回落 NVIDIA大跌",
+            "link": "https://udn.com//news/story/6811/8475432?from=udn-catebreaknews_ch2",
+            "time": "2025-01-08 06:58"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/03/realtime/31209002.jpg&s=Y&x=0&y=0&sw=780&sh=520&exp=3600&w=300",
             "title": "華歌爾連2年虧損祭3波優離退、賣大樓 內部出什麼問題",
             "link": "https://udn.com//news/story/6811/8467359?from=udn-catebreaknews_ch2",
             "time": "2025-01-08 06:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/01/08/31231939.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "美債殖利率大升 美股史指挫逾1% 科技股拖累那指跌近2%",
+            "link": "https://udn.com//news/story/6811/8475400?from=udn-catebreaknews_ch2",
+            "time": "2025-01-08 05:52"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/12/31/31189020.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
@@ -17,18 +29,6 @@
             "title": "加薩停火談判 川普警告哈瑪斯在就職前釋放人質",
             "link": "https://udn.com//news/story/123777/8475393?from=udn-catebreaknews_ch2",
             "time": "2025-01-08 05:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/01/08/31231906.jpg&s=Y&x=0&y=0&sw=1280&sh=849&exp=3600&w=300",
-            "title": "加國安大略省長反擊川普：不如讓我們買美國2州",
-            "link": "https://udn.com//news/story/6809/8475392?from=udn-catebreaknews_ch2",
-            "time": "2025-01-08 05:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/12/realtime/31077346.jpg&s=Y&x=0&y=0&sw=2200&sh=1476&exp=3600&w=300",
-            "title": "加拿大總理杜魯道辭黨魁、加幣逆勢上漲！總理職務能保住？誰能應付川普關稅威脅？",
-            "link": "https://udn.com//news/story/6809/8474021?from=udn-catebreaknews_ch2",
-            "time": "2025-01-08 05:15"
         }
     ]
 }
