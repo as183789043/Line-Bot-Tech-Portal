@@ -1,13 +1,19 @@
 {
     "評論": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/08/0/31236137.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "經濟日報社論／AI驅動科技革命對台灣的啟示",
+            "link": "https://udn.com//news/story/7338/8477855?from=udn-catebreaknews_ch2",
+            "time": "2025-01-09 03:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/12/08/1/14719755.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "薛承泰／活得久就需為年改承擔罪過？",
             "link": "https://udn.com//news/story/7340/8477919?from=udn-catebreaknews_ch2",
             "time": "2025-01-09 01:21"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_7.jpg&w=300",
             "title": "部長失言 掩飾政策設計缺陷",
             "link": "https://udn.com//news/story/7339/8477918?from=udn-catebreaknews_ch2",
             "time": "2025-01-09 00:52"
@@ -23,12 +29,6 @@
             "title": "聯合報黑白集／黑熊是門好生意",
             "link": "https://udn.com//news/story/7338/8477932?from=udn-catebreaknews_ch2",
             "time": "2025-01-09 00:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/09/1/31238740.jpg&s=Y&x=0&y=0&sw=996&sh=664&exp=3600&w=300",
-            "title": "聯合報社論／政治進入大亂鬥，賴清德扮推手或袖手？",
-            "link": "https://udn.com//news/story/7338/8477930?from=udn-catebreaknews_ch2",
-            "time": "2025-01-09 00:06"
         }
     ]
 }
