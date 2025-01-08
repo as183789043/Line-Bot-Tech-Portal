@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/08/realtime/31235275.png&s=Y&x=227&y=0&sw=3195&sh=2131&exp=3600&w=300",
+            "title": "2024台股前五大持股人數皆逾百萬 高股息ETF成臺股投資主流",
+            "link": "https://udn.com//news/story/123006/8476414?from=udn-catebreaknews_ch2",
+            "time": "2025-01-08 13:49"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/05/realtime/31218292.jpg&s=Y&x=68&y=0&sw=1752&sh=1168&exp=3600&w=300",
+            "title": "台股下跌243點收23,407點 台積電收1,105下跌25元",
+            "link": "https://udn.com//news/story/7251/8476390?from=udn-catebreaknews_ch2",
+            "time": "2025-01-08 13:43"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/02/2/31200342.jpg&s=Y&x=0&y=0&sw=1253&sh=835&exp=3600&w=300",
             "title": "1月除息ETF1次看！0056維持1.07、00960發行不到半年配0.18、00830配3.96元...殖利率8.56%！",
             "link": "https://udn.com//news/story/123006/8476234?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "黃仁勳沒講的AR眼鏡有戲？這2檔逆勢飆漲停領軍表態",
             "link": "https://udn.com//news/story/7253/8476167?from=udn-catebreaknews_ch2",
             "time": "2025-01-08 12:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/12/2/31074700.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "股市將轉熊？專家「對川普轉為期待」：沒投資AI是最大風險、小資族0830可跟上行情",
-            "link": "https://udn.com//news/story/123006/8476133?from=udn-catebreaknews_ch2",
-            "time": "2025-01-08 12:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/06/98/31220619.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "ETF人多地方可以去？選擇才是重點！專家：006208長期績效遠超0056「2倍」",
-            "link": "https://udn.com//news/story/123006/8475909?from=udn-catebreaknews_ch2",
-            "time": "2025-01-08 12:02"
         }
     ]
 }
