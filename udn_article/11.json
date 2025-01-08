@@ -1,9 +1,21 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/08/realtime/31236550.jpg&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "今年首例！4艘大陸海警船  駛入釣魚台海域1.5小時",
+            "link": "https://udn.com//news/story/7333/8476867?from=udn-catebreaknews_ch2",
+            "time": "2025-01-08 16:12"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/08/realtime/31236265.jpg&s=Y&x=0&y=0&sw=1374&sh=898&exp=3600&w=300",
+            "title": "西藏強震！富士康捐9千萬 字節跳動上線災害尋人功能",
+            "link": "https://udn.com//news/story/124330/8476775?from=udn-catebreaknews_ch2",
+            "time": "2025-01-08 15:43"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/01/08/31235047.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "西藏地震史 1950年墨脫地震釀千死為最大",
-            "link": "https://udn.com//news/story/7331/8476637?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124330/8476637?from=udn-catebreaknews_ch2",
             "time": "2025-01-08 15:09"
         },
         {
@@ -15,20 +27,8 @@
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/08/realtime/31235593.jpg&s=Y&x=0&y=0&sw=5464&sh=3640&exp=3600&w=300",
             "title": "日喀則6.8強震／轉移安置近5萬災民 搭建帳篷近4千頂",
-            "link": "https://udn.com//news/story/7331/8476587?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124330/8476587?from=udn-catebreaknews_ch2",
             "time": "2025-01-08 14:38"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/01/08/31234069.jpg&s=Y&x=0&y=0&sw=600&sh=399&exp=3600&w=300",
-            "title": "王毅訪非洲 分析：北京搶進 鞏固中美新戰場的關鍵礦物",
-            "link": "https://udn.com//news/story/7331/8475979?from=udn-catebreaknews_ch2",
-            "time": "2025-01-08 14:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/01/08/31234068.png&s=Y&x=47&y=0&sw=1185&sh=791&exp=3600&w=300",
-            "title": "駐法大使圓融穩重的鄧勵履新 中暫別戰狼外交？",
-            "link": "https://udn.com//news/story/7331/8475978?from=udn-catebreaknews_ch2",
-            "time": "2025-01-08 14:29"
         }
     ]
 }
