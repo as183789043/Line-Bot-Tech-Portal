@@ -1,6 +1,12 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/01/07/31226227.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "拜登回顧美國總統大選 堅稱若他上陣可擊敗川普",
+            "link": "https://udn.com//news/story/6813/8478020?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-01-09 03:45"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/09/realtime/31238701.jpg&s=Y&x=0&y=0&sw=1179&sh=787&exp=3600&w=300",
             "title": "影／耍帥？彰化扇形車庫停車場樓梯 竟被當極限運動場",
             "link": "https://udn.com//news/story/7325/8477936?from=udn-ch1_breaknews-1-0-news",
@@ -23,12 +29,6 @@
             "title": "饗饗爆食物中毒 雙月抱不平：真相待查卻已滿身傷",
             "link": "https://udn.com//news/story/7266/8477906?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-01-08 23:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/08/realtime/31238624.jpg&s=Y&x=0&y=0&sw=3000&sh=2000&exp=3600&w=300",
-            "title": "米其林星級主廚開麵店！雞白湯拉麵、香辣牛肉麵都上桌",
-            "link": "https://udn.com//news/story/7270/8477904?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-01-08 23:43"
         }
     ]
 }
