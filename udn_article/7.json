@@ -1,8 +1,26 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/05/2/31215843.jpg&s=Y&x=0&y=0&sw=1217&sh=811&exp=3600&w=300",
+            "title": "台股月線失守…過半數ETF轉為負報酬 這檔高股息ETF最抗跌",
+            "link": "https://udn.com//news/story/123006/8480039?from=udn-catebreaknews_ch2",
+            "time": "2025-01-09 19:45"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/09/realtime/31244549.jpg&s=Y&x=56&y=0&sw=1131&sh=755&exp=3600&w=300",
-            "title": "台股連跌兩天  金管會出面信心喊話",
+            "title": "台股連挫2日 金管會：上市櫃營收亮眼基本面穩健",
+            "link": "https://udn.com//news/story/7251/8479957?from=udn-catebreaknews_ch2",
+            "time": "2025-01-09 19:20"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/09/realtime/31244553.jpg&s=Y&x=0&y=28&sw=3912&sh=2608&exp=3600&w=300",
+            "title": "年底大出貨！華城、中興電12月營收創單月新高 全年營收皆站穩逾200億",
+            "link": "https://udn.com//news/story/7253/8479960?from=udn-catebreaknews_ch2",
+            "time": "2025-01-09 18:54"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/09/realtime/31244549.jpg&s=Y&x=56&y=0&sw=1131&sh=755&exp=3600&w=300",
+            "title": "台股連跌兩天 金管會出面信心喊話",
             "link": "https://udn.com//news/story/7251/8479951?from=udn-catebreaknews_ch2",
             "time": "2025-01-09 18:53"
         },
@@ -11,24 +29,6 @@
             "title": "外資兩天狂賣台股450億元 證交所董座這麼看",
             "link": "https://udn.com//news/story/7251/8479900?from=udn-catebreaknews_ch2",
             "time": "2025-01-09 18:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/27/2/30792960.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "中華電信去年全年EPS 4.8元、超財測高標 盈餘創七年新高",
-            "link": "https://udn.com//news/story/7253/8479813?from=udn-catebreaknews_ch2",
-            "time": "2025-01-09 17:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/09/realtime/31244055.jpg&s=Y&x=0&y=0&sw=1179&sh=761&exp=3600&w=300",
-            "title": "仁寶營收／12月640億元、年月雙衰 為近月低點",
-            "link": "https://udn.com//news/story/7253/8479785?from=udn-catebreaknews_ch2",
-            "time": "2025-01-09 17:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/09/realtime/31243991.jpg&s=Y&x=0&y=15&sw=1426&sh=950&exp=3600&w=300",
-            "title": "中美矽、環球晶去年營收同寫歷史第三高 分達796億元、626億元",
-            "link": "https://udn.com//news/story/7254/8479767?from=udn-catebreaknews_ch2",
-            "time": "2025-01-09 17:33"
         }
     ]
 }
