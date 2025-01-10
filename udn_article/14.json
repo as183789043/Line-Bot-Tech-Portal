@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/10/0/31246707.jpg&s=Y&x=0&y=0&sw=1064&sh=709&exp=3600&w=300",
+            "title": "一支成員平均30歲的「汪汪隊」 怎讓華南銀財管業績年增45%？",
+            "link": "https://udn.com//news/story/6837/8480746?from=udn-catebreaknews_ch2",
+            "time": "2025-01-10 08:22"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/10/0/31246680.jpg&s=Y&x=0&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "用咖啡香、智取櫃挖潛力客群 雄獅公開業績漲一倍「開店術」",
+            "link": "https://udn.com//news/story/6837/8480731?from=udn-catebreaknews_ch2",
+            "time": "2025-01-10 08:16"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/09/draft/31241056.jpg&s=Y&x=171&y=0&sw=939&sh=626&exp=3600&w=300",
             "title": "台積電2奈米最大受惠股：世禾",
             "link": "https://udn.com//news/story/6850/8478678?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "封測、測試介面廠靜好歲月",
             "link": "https://udn.com//news/story/6851/8478647?from=udn-catebreaknews_ch2",
             "time": "2025-01-09 14:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/09/draft/31240980.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "巴菲特出手了！看準資安軟體",
-            "link": "https://udn.com//news/story/6851/8478614?from=udn-catebreaknews_ch2",
-            "time": "2025-01-09 14:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/09/draft/31240961.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "別當韭菜！元月行情EPS才是硬道理",
-            "link": "https://udn.com//news/story/6851/8478606?from=udn-catebreaknews_ch2",
-            "time": "2025-01-09 14:27"
         }
     ]
 }
