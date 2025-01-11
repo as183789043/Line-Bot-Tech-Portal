@@ -1,12 +1,6 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/07/2/31230829.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "AI熱…上市櫃去年營收新高 上月有140家締新猷",
-            "link": "https://udn.com//news/story/7251/8482959?from=udn-catebreaknews_ch2",
-            "time": "2025-01-11 01:00"
-        },
-        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/10/realtime/31252217.jpg&s=Y&x=0&y=0&sw=1417&sh=949&exp=3600&w=300",
             "title": "台塑四寶 上季轉虧為盈 台塑全年每股虧0.2元",
             "link": "https://udn.com//news/story/7252/8482947?from=udn-catebreaknews_ch2",
@@ -25,9 +19,15 @@
             "time": "2025-01-10 23:56"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
             "title": "健鼎2024年營收締新猷",
             "link": "https://udn.com//news/story/7253/8482691?from=udn-catebreaknews_ch2",
+            "time": "2025-01-10 23:42"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
+            "title": "聲寶2024年EPS估2元",
+            "link": "https://udn.com//news/story/7252/8482693?from=udn-catebreaknews_ch2",
             "time": "2025-01-10 23:42"
         }
     ]
