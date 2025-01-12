@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/07/2/31230829.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "台股失守季線 外資期貨淨空單增至4.1萬口",
+            "link": "https://udn.com//news/story/7255/8485407?from=udn-catebreaknews_ch2",
+            "time": "2025-01-12 19:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/10/realtime/30877904.jpg&s=Y&x=132&y=0&sw=1440&sh=960&exp=3600&w=300",
+            "title": "花旗大幅上調智邦目標價至900元 受惠AI加速器發展",
+            "link": "https://udn.com//news/story/7253/8485387?from=udn-catebreaknews_ch2",
+            "time": "2025-01-12 18:42"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/06/14/2/22632196.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "資深投資人看年前股市：甜蜜行情快結束 見好就收！",
             "link": "https://udn.com//news/story/12806/8485310?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "未來一周美股三大觀察變數 這些數據將公布",
             "link": "https://udn.com//news/story/7251/8484988?from=udn-catebreaknews_ch2",
             "time": "2025-01-12 13:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/12/98/31259752.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台積電法說會1月16日登場 聚焦資本支出、擴產等議題",
-            "link": "https://udn.com//news/story/7253/8484955?from=udn-catebreaknews_ch2",
-            "time": "2025-01-12 12:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/12/2/31259661.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "國巨2025受惠 AI 需求 內外資估今年 EPS 38~49元",
-            "link": "https://udn.com//news/story/7253/8484919?from=udn-catebreaknews_ch2",
-            "time": "2025-01-12 12:16"
         }
     ]
 }
