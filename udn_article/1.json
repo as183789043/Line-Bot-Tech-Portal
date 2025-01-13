@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/13/realtime/31267568.jpg&s=Y&x=0&y=17&sw=2231&sh=1486&exp=3600&w=300",
+            "title": "【重磅快評】賴總統當選1周年 朝野和解像政治詐騙",
+            "link": "https://udn.com//news/story/6656/8486993?from=udn-catebreaknews_ch2",
+            "time": "2025-01-13 15:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/13/realtime/31267317.jpg&s=Y&x=0&y=0&sw=2048&sh=1365&exp=3600&w=300",
             "title": "強化消防能量 賴總統：五年內增補3000名消防人員",
             "link": "https://udn.com//news/story/6656/8486952?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2025-01-13 14:02"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/13/realtime/31266634.jpg&s=Y&x=0&y=34&sw=4139&sh=2758&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/13/1/31267728.png&s=Y&x=0&y=0&sw=930&sh=620&exp=3600&w=300",
             "title": "綠對憲訴法的沙盤推演 看柯建銘這黨團總召能否做下去",
             "link": "https://udn.com//news/story/124246/8486819?from=udn-catebreaknews_ch2",
             "time": "2025-01-13 13:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/13/anntw/31266474.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
-            "title": "民眾黨補選黨主席 2月15日網路投票",
-            "link": "https://udn.com//news/story/6656/8486753?from=udn-catebreaknews_ch2",
-            "time": "2025-01-13 13:30"
         }
     ]
 }
