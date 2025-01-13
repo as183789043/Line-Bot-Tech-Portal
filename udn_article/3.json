@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/13/realtime/31270187.jpg&s=Y&x=50&y=0&sw=543&sh=363&exp=3600&w=300",
+            "title": "日宮崎縣發生規模6.9地震 氣象廳發布海嘯警報估高度約1公尺",
+            "link": "https://udn.com//news/story/6809/8487656?from=udn-catebreaknews_ch2",
+            "time": "2025-01-13 20:58"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/01/05/31215868.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "白宮擴大緊縮AI晶片和科技出口 將實施全面性管制措施",
+            "link": "https://udn.com//news/story/6811/8487629?from=udn-catebreaknews_ch2",
+            "time": "2025-01-13 20:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/13/0/31269821.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "Z世代連換燈泡都不會 英國年輕人年平均砸5萬元請人做家務",
             "link": "https://udn.com//news/story/6812/8487520?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "天生擁有雙陰道 澳洲成人網紅連「洗澡水」都有人花大錢買",
             "link": "https://udn.com//news/story/6810/8487322?from=udn-catebreaknews_ch2",
             "time": "2025-01-13 19:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/06/98/31042270.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "印度總理莫迪為戰略隧道剪綵 助印軍部署鄰中國邊境",
-            "link": "https://udn.com//news/story/6809/8487526?from=udn-catebreaknews_ch2",
-            "time": "2025-01-13 19:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/06/realtime/30214584.jpg&s=Y&x=0&y=0&sw=3000&sh=1999&exp=3600&w=300",
-            "title": "美就業數據優於預期 亞股隨美股頹勢多收低",
-            "link": "https://udn.com//news/story/6811/8487393?from=udn-catebreaknews_ch2",
-            "time": "2025-01-13 18:33"
         }
     ]
 }
