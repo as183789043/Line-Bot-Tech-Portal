@@ -1,19 +1,25 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/14/realtime/31271250.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "賴總統當選一年了，請問台灣有變得更好嗎？",
+            "link": "https://udn.com//news/story/6656/8488040?from=udn-catebreaknews_ch2",
+            "time": "2025-01-14 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/13/realtime/31264927.jpg&s=Y&x=0&y=0&sw=4324&sh=2883&exp=3600&w=300",
             "title": "緩和對立 藍籲「朝野峰會、國是會議」",
             "link": "https://udn.com//news/story/124246/8487992?from=udn-catebreaknews_ch2",
             "time": "2025-01-14 00:54"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_0.jpg&w=300",
             "title": "新聞眼／說到做到 才是「尚勇」總統",
             "link": "https://udn.com//news/story/6656/8487990?from=udn-catebreaknews_ch2",
             "time": "2025-01-14 00:34"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_0.jpg&w=300",
             "title": "民眾黨主席補選 2月15日投票",
             "link": "https://udn.com//news/story/6656/8487994?from=udn-catebreaknews_ch2",
             "time": "2025-01-14 00:33"
@@ -23,12 +29,6 @@
             "title": "賴總統勝選周年 在野批賴「承諾全跳票」",
             "link": "https://udn.com//news/story/6656/8487988?from=udn-catebreaknews_ch2",
             "time": "2025-01-14 00:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/13/0/31269181.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
-            "title": "12米科技主燈震撼登場 人氣IP Minini、NETFLIX登陸新北 邀大家一起PLAY",
-            "link": "https://udn.com//news/story/7314/8487373?from=udn-catebreaknews_ch2",
-            "time": "2025-01-14 00:00"
         }
     ]
 }
