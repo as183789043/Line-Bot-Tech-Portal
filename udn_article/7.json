@@ -1,12 +1,6 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
-            "title": "元大期春節交易享好康",
-            "link": "https://udn.com//news/story/7253/8490022?from=udn-catebreaknews_ch2",
-            "time": "2025-01-15 05:53"
-        },
-        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/09/2/31244839.jpg&s=Y&x=0&y=0&sw=1187&sh=791&exp=3600&w=300",
             "title": "台股買盤卡位 押寶台積…AI權值股領軍收復半年線",
             "link": "https://udn.com//news/story/7251/8490338?from=udn-catebreaknews_ch2",
@@ -14,7 +8,7 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/14/realtime/31280637.jpg&s=Y&x=901&y=640&sw=476&sh=318&exp=3600&w=300",
-            "title": "去年量能寫三項紀錄 期貨交易量2025年衝4億口",
+            "title": "去年量能寫三紀錄…期貨交易量 2025年衝4億口",
             "link": "https://udn.com//news/story/7255/8490280?from=udn-catebreaknews_ch2",
             "time": "2025-01-15 01:47"
         },
@@ -29,6 +23,12 @@
             "title": "0056 vs. 00878 高息ETF規模王雙雄比拚",
             "link": "https://udn.com//news/story/123006/8490284?from=udn-catebreaknews_ch2",
             "time": "2025-01-15 01:39"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/04/98/31211271.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "商品ETF有撐 強勢突圍",
+            "link": "https://udn.com//news/story/123006/8490188?from=udn-catebreaknews_ch2",
+            "time": "2025-01-14 23:42"
         }
     ]
 }
