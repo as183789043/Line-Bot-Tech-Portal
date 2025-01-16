@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/16/0/31295964.jpg&s=Y&x=288&y=0&sw=912&sh=608&exp=3600&w=300",
+            "title": "完全取代真人工作！這些企業已開始用「AI代理」可能有哪些風險？",
+            "link": "https://udn.com//news/story/6841/8493967?from=udn-catebreaknews_ch2",
+            "time": "2025-01-16 13:36"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/16/draft/31294924.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
             "title": "晶片王者 聯發科",
             "link": "https://udn.com//news/story/6851/8493648?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台積電重磅法說前夕 法人喊進",
             "link": "https://udn.com//news/story/6851/8493690?from=udn-catebreaknews_ch2",
             "time": "2025-01-16 12:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/16/draft/31295085.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "全球債市殖利率大噴發",
-            "link": "https://udn.com//news/story/6851/8493702?from=udn-catebreaknews_ch2",
-            "time": "2025-01-16 12:45"
         }
     ]
 }
