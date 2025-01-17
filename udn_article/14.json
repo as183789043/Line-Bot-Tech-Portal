@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/17/0/31303738.jpg&s=Y&x=0&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "財務長返鄉「科技養鵝」成最速神農！鵝鄉之子告白：我對這裡有責任",
+            "link": "https://udn.com//news/story/6837/8495898?from=udn-catebreaknews_ch2",
+            "time": "2025-01-17 08:34"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/17/0/31303696.jpg&s=Y&x=0&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "電影院景氣冷 它卻更吸金！IMAX怎讓星際效應10年後又暴紅",
+            "link": "https://udn.com//news/story/6837/8495895?from=udn-catebreaknews_ch2",
+            "time": "2025-01-17 08:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/15/draft/31288799.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
             "title": "【植物故事】檜木之外：林鐵沿線植物記",
             "link": "https://udn.com//news/story/121672/8492335?from=udn-catebreaknews_ch2",
@@ -16,18 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/15/draft/31288693.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
             "title": "【生態旅遊】沿光誕生的路線 走探人文生態",
             "link": "https://udn.com//news/story/121672/8492312?from=udn-catebreaknews_ch2",
-            "time": "2025-01-17 01:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/15/draft/31288596.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
-            "title": "【探路阿里山】遇見阿里山的自然之美",
-            "link": "https://udn.com//news/story/121672/8492284?from=udn-catebreaknews_ch2",
-            "time": "2025-01-17 01:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/15/draft/31288528.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
-            "title": "【樹生休閒酒莊】尋找初榨的甜美珍釀",
-            "link": "https://udn.com//news/story/121672/8492254?from=udn-catebreaknews_ch2",
             "time": "2025-01-17 01:11"
         }
     ]
