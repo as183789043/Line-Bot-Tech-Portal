@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/19/98/31324542.jpg&s=Y&x=84&y=20&sw=1146&sh=764&exp=3600&w=300",
+            "title": "川普20日就職 法人：台股關注政策動向",
+            "link": "https://udn.com//news/story/7251/8500304?from=udn-catebreaknews_ch2",
+            "time": "2025-01-19 13:15"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/17/0/31304298.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "00878慘綠…新手抱129股問「該賣嗎」 內行教戰：存股族記好口訣",
             "link": "https://udn.com//news/story/123006/8500142?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2025-01-19 11:04"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
             "title": "台積法說報喜 高盛看好6美系概念股",
             "link": "https://udn.com//news/story/7251/8499623?from=udn-catebreaknews_ch2",
             "time": "2025-01-19 04:22"
@@ -23,12 +29,6 @@
             "title": "AI基礎設施三強 高盛按讚…日月光、聯發科等迎新一波行情",
             "link": "https://udn.com//news/story/7251/8499648?from=udn-catebreaknews_ch2",
             "time": "2025-01-19 02:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
-            "title": "高盛看多晶片股後市 設備、測試、材料廠沾光",
-            "link": "https://udn.com//news/story/7251/8499650?from=udn-catebreaknews_ch2",
-            "time": "2025-01-19 02:27"
         }
     ]
 }
