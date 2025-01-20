@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/06/06/98/29772067.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股封關期間要面對的不確定性還是很多！ 狄驤：過年後大好機會還非常多",
+            "link": "https://udn.com//news/story/7251/8501681?from=udn-catebreaknews_ch2",
+            "time": "2025-01-20 10:59"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/20/realtime/31332029.jpg&s=Y&x=0&y=0&sw=3111&sh=2029&exp=3600&w=300",
+            "title": "國泰金：51%民眾看好台股高點突破24000",
+            "link": "https://udn.com//news/story/7251/8501726?from=udn-catebreaknews_ch2",
+            "time": "2025-01-20 10:59"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/05/23/2/29703486.jpg&s=Y&x=0&y=104&sw=1277&sh=852&exp=3600&w=300",
             "title": "台灣有300檔ETF會比挑股票省事？ 肥羊：如操盤手甘願領薪水卻不自己當沖",
             "link": "https://udn.com//news/story/123006/8501660?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2025-01-20 10:24"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/13/realtime/31270821.jpg&s=Y&x=135&y=0&sw=5139&sh=3427&exp=3600&w=300",
-            "title": "美債「套著配都舒服」…其實是超大型龐氏騙局？ 小童曝真相：完全不是",
-            "link": "https://udn.com//news/story/7251/8501463?from=udn-catebreaknews_ch2",
-            "time": "2025-01-20 10:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/20/2/31331675.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "國泰1月調查：逾五成民眾看上半年台股高點落2萬4上方",
-            "link": "https://udn.com//news/story/7251/8501557?from=udn-catebreaknews_ch2",
-            "time": "2025-01-20 09:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/16/2/31300952.jpg&s=Y&x=0&y=0&sw=1279&sh=861&exp=3600&w=300",
-            "title": "台積電上揚10元 台股早盤上漲150點",
-            "link": "https://udn.com//news/story/7253/8501517?from=udn-catebreaknews_ch2",
-            "time": "2025-01-20 09:55"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/20/realtime/31331681.jpg&s=Y&x=129&y=0&sw=828&sh=553&exp=3600&w=300",
+            "title": "00927等4檔台股ETF本周除息 留意最後買進日",
+            "link": "https://udn.com//news/story/123006/8501621?from=udn-catebreaknews_ch2",
+            "time": "2025-01-20 10:24"
         }
     ]
 }
