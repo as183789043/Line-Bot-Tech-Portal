@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/21/realtime/31348420.jpg&s=Y&x=0&y=18&sw=2660&sh=1772&exp=3600&w=300",
+            "title": "川普宣布美退世衛 取消在美出生公民權",
+            "link": "https://udn.com//news/story/121777/8506229?from=udn-catebreaknews_ch2",
+            "time": "2025-01-22 00:15"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/12/2/31259895.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "市場聚焦川普新政 美股開高",
+            "link": "https://udn.com//news/story/6811/8506199?from=udn-catebreaknews_ch2",
+            "time": "2025-01-21 23:32"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/21/realtime/31348206.jpg&s=Y&x=0&y=0&sw=7040&sh=4688&exp=3600&w=300",
             "title": "美國務卿魯比歐籲俄烏「付出點什麼」以終結雙方衝突",
             "link": "https://udn.com//news/story/6813/8506145?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "美國政府大房東因「此事」和川普從情人變仇人",
             "link": "https://udn.com//news/story/121777/8506085?from=udn-catebreaknews_ch2",
             "time": "2025-01-21 22:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
-            "title": "大阪「通天閣商店街」火警2小時撲滅釀1傷 目擊者：真的很恐怖",
-            "link": "https://udn.com//news/story/6812/8506067?from=udn-catebreaknews_ch2",
-            "time": "2025-01-21 22:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
-            "title": "川普暫停美國對外發展援助90天 烏官員澄清不影響軍援",
-            "link": "https://udn.com//news/story/121777/8506071?from=udn-catebreaknews_ch2",
-            "time": "2025-01-21 22:47"
         }
     ]
 }
