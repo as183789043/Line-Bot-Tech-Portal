@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/21/realtime/31346082.png&s=Y&x=106&y=0&sw=1218&sh=812&exp=3600&w=300",
+            "title": "川普賣迷因幣潛在總值破680億美元 被控違反美國憲法",
+            "link": "https://udn.com//news/story/6809/8505551?from=udn-catebreaknews_ch2",
+            "time": "2025-01-22 06:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/01/22/31350226.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "川普就職未開徵關稅 美股道指大漲逾500點",
+            "link": "https://udn.com//news/story/6811/8506428?from=udn-catebreaknews_ch2",
+            "time": "2025-01-22 05:43"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/01/22/31349661.png&s=Y&x=0&y=0&sw=1279&sh=846&exp=3600&w=300",
             "title": "美國18州 狀告川普取消出生公民權行政令",
             "link": "https://udn.com//news/story/6813/8506401?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "格陵蘭總理回應川普：人民不想變成美國人",
             "link": "https://udn.com//news/story/6809/8506381?from=udn-catebreaknews_ch2",
             "time": "2025-01-22 03:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
-            "title": "川普護航「火星夢」太空概念股可望受惠",
-            "link": "https://udn.com//news/story/6811/8506185?from=udn-catebreaknews_ch2",
-            "time": "2025-01-22 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/21/0/31348895.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "川普宣布美國退出巴黎協定 全球暖化警報響",
-            "link": "https://udn.com//news/story/6811/8506165?from=udn-catebreaknews_ch2",
-            "time": "2025-01-22 03:00"
         }
     ]
 }
