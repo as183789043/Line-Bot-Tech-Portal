@@ -1,6 +1,18 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/22/realtime/31350093.jpg&s=Y&x=156&y=376&sw=1099&sh=732&exp=3600&w=300",
+            "title": "韓國瑜率團訪美國國會 盼美國維持軍援承諾",
+            "link": "https://udn.com//news/story/6656/8506413?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-01-22 05:06"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/22/realtime/31349843.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
+            "title": "晃不停！凌晨連4震「最大餘震規模5.4」嘉義阿里山也很搖",
+            "link": "https://udn.com//news/story/124346/8506408?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-01-22 04:39"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/01/22/31349661.png&s=Y&x=0&y=0&sw=1279&sh=846&exp=3600&w=300",
             "title": "美國18州 狀告川普取消出生公民權行政令",
             "link": "https://udn.com//news/story/6813/8506401?from=udn-ch1_breaknews-1-0-news",
@@ -17,18 +29,6 @@
             "title": "成大打造威尼斯建築雙年展台灣館「漂蕩世界的台灣智慧」",
             "link": "https://udn.com//news/story/7266/8506394?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-01-22 03:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/01/22/31349537.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "格陵蘭總理回應川普：人民不想變成美國人",
-            "link": "https://udn.com//news/story/6809/8506381?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-01-22 03:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/22/98/31349545.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "凌晨0：27台南南化規模4.3地震 最大震度嘉義縣4級",
-            "link": "https://udn.com//news/story/124346/8506352?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-01-22 03:30"
         }
     ]
 }

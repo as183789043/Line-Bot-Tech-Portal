@@ -1,10 +1,16 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/22/98/31349545.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "凌晨0：27台南南化規模4.3地震 最大震度嘉義縣4級",
-            "link": "https://udn.com//news/story/124346/8506352?from=udn-catebreaknews_ch2",
-            "time": "2025-01-22 03:30"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/22/realtime/31350093.jpg&s=Y&x=156&y=376&sw=1099&sh=732&exp=3600&w=300",
+            "title": "韓國瑜率團訪美國國會 盼美國維持軍援承諾",
+            "link": "https://udn.com//news/story/6656/8506413?from=udn-catebreaknews_ch2",
+            "time": "2025-01-22 05:06"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/22/realtime/31349843.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
+            "title": "晃不停！凌晨連4震「最大餘震規模5.4」嘉義阿里山也很搖",
+            "link": "https://udn.com//news/story/124346/8506408?from=udn-catebreaknews_ch2",
+            "time": "2025-01-22 04:39"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/21/realtime/31348497.jpg&s=Y&x=0&y=0&sw=2833&sh=1889&exp=3600&w=300",
@@ -23,12 +29,6 @@
             "title": "白河地震相似…學者看嘉義大埔強震 疑盲斷層所致",
             "link": "https://udn.com//news/story/124346/8506324?from=udn-catebreaknews_ch2",
             "time": "2025-01-22 03:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/21/realtime/31343535.jpg&s=Y&x=0&y=0&sw=5500&sh=3668&exp=3600&w=300",
-            "title": "地震扯政治 柯建銘挨轟冷血",
-            "link": "https://udn.com//news/story/124346/8506323?from=udn-catebreaknews_ch2",
-            "time": "2025-01-22 03:16"
         }
     ]
 }
