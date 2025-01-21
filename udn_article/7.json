@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/21/realtime/31345816.jpg&s=Y&x=0&y=444&sw=3551&sh=2367&exp=3600&w=300",
+            "title": "聯電去年第4季每股純益0.68元 全年每股純益3.79元",
+            "link": "https://udn.com//news/story/7253/8505447?from=udn-catebreaknews_ch2",
+            "time": "2025-01-21 17:04"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/21/realtime/31345598.jpg&s=Y&x=0&y=1392&sw=1672&sh=1115&exp=3600&w=300",
+            "title": "金管會核准富邦投信併日盛投信 富邦併日盛最後一個子公司整合完成",
+            "link": "https://udn.com//news/story/7251/8505371?from=udn-catebreaknews_ch2",
+            "time": "2025-01-21 16:40"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/13/2/31265165.jpg&s=Y&x=496&y=68&sw=755&sh=504&exp=3600&w=300",
+            "title": "封關前資金提早卡位金融股 富邦金、國泰金漲幅皆逾1%",
+            "link": "https://udn.com//news/story/7251/8505333?from=udn-catebreaknews_ch2",
+            "time": "2025-01-21 16:27"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/13/realtime/31270821.jpg&s=Y&x=135&y=0&sw=5139&sh=3427&exp=3600&w=300",
             "title": "決定要抱股過年…因為年後開盤不論漲跌都會不敢進場！蜜蜂爹：勝率高但不保證一定上漲",
             "link": "https://udn.com//news/story/7251/8505186?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "主動式基金去年申購金額4.17兆元大於ETF 年增43%",
             "link": "https://udn.com//news/story/10103/8505198?from=udn-catebreaknews_ch2",
             "time": "2025-01-21 15:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/04/2/31024157.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
-            "title": "里昂：散熱需求仍強勁 對未來展望正面樂觀",
-            "link": "https://udn.com//news/story/7251/8505175?from=udn-catebreaknews_ch2",
-            "time": "2025-01-21 15:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/2/31190500.jpg&s=Y&x=20&y=0&sw=973&sh=649&exp=3600&w=300",
-            "title": "龍年封關前台積電連兩天收平盤 法人：抱股過年好買點",
-            "link": "https://udn.com//news/story/7251/8505161?from=udn-catebreaknews_ch2",
-            "time": "2025-01-21 15:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/13/realtime/31270821.jpg&s=Y&x=135&y=0&sw=5139&sh=3427&exp=3600&w=300",
-            "title": "台股上漲33點 三大法人賣超5.8億元",
-            "link": "https://udn.com//news/story/7251/8505119?from=udn-catebreaknews_ch2",
-            "time": "2025-01-21 15:12"
         }
     ]
 }
