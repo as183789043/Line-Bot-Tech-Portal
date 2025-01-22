@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/05/16/2/29669490.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "電信獲利王財測出爐 中華電信今年EPS上看4.82元",
+            "link": "https://udn.com//news/story/7253/8508529?from=udn-catebreaknews_ch2",
+            "time": "2025-01-22 20:28"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/25/2/30778254.jpg&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
             "title": "MSCI：2025年關注四大投資關鍵主題 美提高關稅恐拖累全球經濟",
             "link": "https://udn.com//news/story/7251/8508459?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股金龍年飆股出爐 能源、光通訊概念股最風光",
             "link": "https://udn.com//news/story/7251/8508318?from=udn-catebreaknews_ch2",
             "time": "2025-01-22 19:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/08/2/30225562.jpg&s=Y&x=208&y=0&sw=1071&sh=714&exp=3600&w=300",
-            "title": "資金押寶日圓反彈 這檔ETF蛇年開紅盤！這日起暫停初級市場申購",
-            "link": "https://udn.com//news/story/123006/8508385?from=udn-catebreaknews_ch2",
-            "time": "2025-01-22 19:16"
         }
     ]
 }
