@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/01/2/30394433.jpg&s=Y&x=64&y=40&sw=1041&sh=694&exp=3600&w=300",
+            "title": "台股金龍年收23,525點 證交所：創農曆封關日收盤新高",
+            "link": "https://udn.com//news/story/7251/8508012?from=udn-catebreaknews_ch2",
+            "time": "2025-01-22 16:42"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/22/0/31353440.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "金龍年台股大漲5429點 平均每戶股民賺136萬元",
             "link": "https://udn.com//news/story/7251/8507899?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台積電收1,135元 龍年大漲75%、市值增12.68兆",
             "link": "https://udn.com//news/story/7253/8507666?from=udn-catebreaknews_ch2",
             "time": "2025-01-22 14:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/22/1/31355254.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "龍年股民平均賺上百萬 沒賺到是因為買錯這些股",
-            "link": "https://udn.com//news/story/7251/8507655?from=udn-catebreaknews_ch2",
-            "time": "2025-01-22 14:45"
         }
     ]
 }
