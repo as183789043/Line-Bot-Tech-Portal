@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/23/98/31360975.png&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "凌晨5時31分台南南化規模4.3地震 最大震度3級",
+            "link": "https://udn.com//news/story/124346/8509098?from=udn-catebreaknews_ch2",
+            "time": "2025-01-23 06:28"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/23/realtime/31359213.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
             "title": "【總編開箱】看懂總預算案第一課：誰吃了納稅人的大餅？",
             "link": "https://udn.com//news/story/124338/8509023?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "總統依法今須公告…憲訴法釋憲大戰 一觸即發",
             "link": "https://udn.com//news/story/124246/8508953?from=udn-catebreaknews_ch2",
             "time": "2025-01-23 01:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/22/realtime/31356523.jpg&s=Y&x=221&y=0&sw=3759&sh=2506&exp=3600&w=300",
-            "title": "寶林案遭監院糾正 北市府回擊",
-            "link": "https://udn.com//news/story/6656/8508878?from=udn-catebreaknews_ch2",
-            "time": "2025-01-23 01:49"
         }
     ]
 }
