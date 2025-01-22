@@ -1,6 +1,12 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/22/realtime/31358690.jpg&s=Y&x=0&y=30&sw=4096&sh=2730&exp=3600&w=300",
+            "title": "最新醫學中心評鑑將出爐 義大有望成高屏區第四家醫中",
+            "link": "https://udn.com//news/story/7266/8508740?from=udn-catebreaknews_ch2",
+            "time": "2025-01-22 22:45"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/22/98/31358398.jpg&s=Y&x=0&y=0&sw=1080&sh=720&exp=3600&w=300",
             "title": "病患早告知會過敏…新北聯醫仍不慎注射藥物 認賠醫療費道歉了",
             "link": "https://udn.com//news/story/7266/8508641?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "15縣市有感搖晃！花蓮19:55發生規模4.9極淺層地震 最大震度4級",
             "link": "https://udn.com//news/story/7266/8508496?from=udn-catebreaknews_ch2",
             "time": "2025-01-22 20:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/22/1/31357799.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "花蓮晚間19:55發生有感地震 初判震度4級以上",
-            "link": "https://udn.com//news/story/7266/8508491?from=udn-catebreaknews_ch2",
-            "time": "2025-01-22 20:03"
         }
     ]
 }
