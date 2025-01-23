@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/23/realtime/31369328.jpg&s=Y&x=0&y=0&sw=944&sh=629&exp=3600&w=300",
+            "title": "新聞分析／保住銀彈與技術 宏達電伺機進擊",
+            "link": "https://udn.com//news/story/7240/8511525?from=udn-catebreaknews_ch2",
+            "time": "2025-01-24 03:34"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/23/realtime/31369418.jpg&s=Y&x=0&y=0&sw=2550&sh=1700&exp=3600&w=300",
+            "title": "宏達電XR團隊賣給Google 王雪紅：拚VIVE品牌",
+            "link": "https://udn.com//news/story/7240/8511524?from=udn-catebreaknews_ch2",
+            "time": "2025-01-24 03:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/13/realtime/31264244.png&s=Y&x=42&y=0&sw=1512&sh=1008&exp=3600&w=300",
             "title": "14學者疾呼 合理調整電價",
             "link": "https://udn.com//news/story/7238/8511537?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2025-01-24 00:58"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_7.jpg&w=300",
             "title": "買下宏達電XR團隊 Google盤算...再推智慧眼鏡",
             "link": "https://udn.com//news/story/7240/8511494?from=udn-catebreaknews_ch2",
             "time": "2025-01-24 00:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/24/2/31369720.jpg&s=Y&x=12&y=0&sw=1265&sh=843&exp=3600&w=300",
-            "title": "工業、製造業生產指數連十紅  製造業寫近三年最大增幅",
-            "link": "https://udn.com//news/story/7238/8511356?from=udn-catebreaknews_ch2",
-            "time": "2025-01-24 00:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/10/98/31247893.jpg&s=Y&x=4&y=0&sw=1276&sh=851&exp=3600&w=300",
-            "title": "中華電營運三引擎熱轉 將推升2025年獲利",
-            "link": "https://udn.com//news/story/7240/8511362?from=udn-catebreaknews_ch2",
-            "time": "2025-01-24 00:16"
         }
     ]
 }
