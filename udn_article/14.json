@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/02/draft/31201977.jpg&s=Y&x=135&y=0&sw=930&sh=620&exp=3600&w=300",
+            "title": "拜魯特150週年「被縮編」 2026無法十全十美",
+            "link": "https://udn.com//news/story/11184/8464700?from=udn-catebreaknews_ch2",
+            "time": "2025-01-23 15:06"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/23/draft/31364667.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
             "title": "核電股仍是今年的飆股",
             "link": "https://udn.com//news/story/6851/8510049?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "2025川普風格新經濟",
             "link": "https://udn.com//news/story/6851/8510013?from=udn-catebreaknews_ch2",
             "time": "2025-01-23 14:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/23/draft/31364545.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "鎖定低評價績優成長股",
-            "link": "https://udn.com//news/story/6851/8510008?from=udn-catebreaknews_ch2",
-            "time": "2025-01-23 14:05"
         }
     ]
 }
