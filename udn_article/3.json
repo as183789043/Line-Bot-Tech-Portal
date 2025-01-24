@@ -1,9 +1,21 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/25/realtime/31379356.jpg&s=Y&x=0&y=0&sw=6960&sh=4640&exp=3600&w=300",
+            "title": "川普20日就任後 美中外長通話",
+            "link": "https://udn.com//news/story/6813/8513726?from=udn-catebreaknews_ch2",
+            "time": "2025-01-25 00:05"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/05/04/98/29602392.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "世界最大冰山恢復北漂 恐撞上南大西洋英屬島嶼",
+            "link": "https://udn.com//news/story/6812/8513650?from=udn-catebreaknews_ch2",
+            "time": "2025-01-24 23:45"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/24/realtime/31378946.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "以色列與真主黨停火陷入危機！內唐亞胡：不會遵守26日的撤軍期限",
-            "link": "https://udn.com//news/story/6813/8513592?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/123777/8513592?from=udn-catebreaknews_ch2",
             "time": "2025-01-24 23:05"
         },
         {
@@ -17,18 +29,6 @@
             "title": "美股早盤平盤波動！標普前一天剛創高 投資人續觀望川普政策",
             "link": "https://udn.com//news/story/6811/8513555?from=udn-catebreaknews_ch2",
             "time": "2025-01-24 22:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/24/realtime/31378840.jpg&s=Y&x=0&y=0&sw=7111&sh=4741&exp=3600&w=300",
-            "title": "7年來首見！電動車銷量大幅減少 三星SDI上季陷營業虧損",
-            "link": "https://udn.com//news/story/6811/8513545?from=udn-catebreaknews_ch2",
-            "time": "2025-01-24 22:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/24/realtime/31378709.jpg&s=Y&x=0&y=0&sw=6248&sh=4167&exp=3600&w=300",
-            "title": "祖克柏剉咧等？Meta AI稱美現任總統是拜登 拉「緊急事態」警報",
-            "link": "https://udn.com//news/story/6813/8513495?from=udn-catebreaknews_ch2",
-            "time": "2025-01-24 22:24"
         }
     ]
 }
