@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/24/0/31371607.jpg&s=Y&x=0&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "誠品參戰，博客來、momo加碼！「不只賣書」的電子書新戰局開打",
+            "link": "https://udn.com//news/story/6837/8511779?from=udn-catebreaknews_ch2",
+            "time": "2025-01-24 08:30"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/24/0/31371655.jpg&s=Y&x=0&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "股市大漲竟掀起大離職潮？1991個執行長被下台啟示錄",
+            "link": "https://udn.com//news/story/6837/8511787?from=udn-catebreaknews_ch2",
+            "time": "2025-01-24 08:08"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/02/draft/31201977.jpg&s=Y&x=135&y=0&sw=930&sh=620&exp=3600&w=300",
             "title": "拜魯特150週年「被縮編」 2026無法十全十美",
             "link": "https://udn.com//news/story/11184/8464700?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "產業上游 春江水暖鴨先知",
             "link": "https://udn.com//news/story/6851/8510036?from=udn-catebreaknews_ch2",
             "time": "2025-01-23 14:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/23/draft/31364592.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "ASIC和光通訊是今年AI主流",
-            "link": "https://udn.com//news/story/6851/8510022?from=udn-catebreaknews_ch2",
-            "time": "2025-01-23 14:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/23/draft/31364562.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "2025川普風格新經濟",
-            "link": "https://udn.com//news/story/6851/8510013?from=udn-catebreaknews_ch2",
-            "time": "2025-01-23 14:08"
         }
     ]
 }
