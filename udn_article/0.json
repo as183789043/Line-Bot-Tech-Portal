@@ -1,6 +1,12 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/26/realtime/31388475.png&s=Y&x=70&y=0&sw=2211&sh=1474&exp=3600&w=300",
+            "title": "非嘉義大埔餘震！屏東5.3為獨立地震「與潮州斷層無關」",
+            "link": "https://udn.com//news/story/7266/8515128?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-01-26 03:10"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/26/realtime/31387814.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
             "title": "屏東5.3地震！公路局緊急巡查道路 氣象署1時30分說明",
             "link": "https://udn.com//news/story/7266/8515109?from=udn-ch1_breaknews-1-0-news",
@@ -23,12 +29,6 @@
             "title": "影／南台灣接連地震 專家示警：震源往西移 應提高警戒",
             "link": "https://udn.com//news/story/7266/8515098?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-01-26 00:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/25/0/31387567.jpg&s=Y&x=0&y=108&sw=1278&sh=852&exp=3600&w=300",
-            "title": "19天環島圓夢計畫Day1／68位跑者萬華跑到金山 60公里賽事三長",
-            "link": "https://udn.com//news/story/124343/8515084?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-01-26 00:04"
         }
     ]
 }
