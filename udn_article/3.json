@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
+            "title": "菲船闖南沙鐵線礁 遭陸海警驅離",
+            "link": "https://udn.com//news/story/6809/8516289?from=udn-catebreaknews_ch2",
+            "time": "2025-01-27 01:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/26/0/31396409.jpg&s=Y&x=0&y=0&sw=794&sh=529&exp=3600&w=300",
             "title": "川普建議將加沙居民遷往約旦和埃及 哈馬斯：不接受",
             "link": "https://udn.com//news/story/123777/8516301?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2025-01-27 00:49"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
             "title": "美新國土安全部長 反移民鷹派",
             "link": "https://udn.com//news/story/6813/8516360?from=udn-catebreaknews_ch2",
             "time": "2025-01-27 00:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/26/realtime/31396062.jpg&s=Y&x=225&y=0&sw=6336&sh=4224&exp=3600&w=300",
-            "title": "美媒：白宮屬意甲骨文接TikTok",
-            "link": "https://udn.com//news/story/6811/8516347?from=udn-catebreaknews_ch2",
-            "time": "2025-01-27 00:46"
         }
     ]
 }
