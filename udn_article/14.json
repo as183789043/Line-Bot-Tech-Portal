@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/09/realtime/31243922.jpg&s=Y&x=56&y=0&sw=1131&sh=755&exp=3600&w=300",
+            "title": "重複投保 何錯之有？",
+            "link": "https://udn.com//news/story/6854/8512543?from=udn-catebreaknews_ch2",
+            "time": "2025-01-26 10:06"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/24/draft/31371728.jpg&s=Y&x=0&y=0&sw=800&sh=534&exp=3600&w=300",
+            "title": "懷疑父母偏心 科學證實真的有",
+            "link": "https://udn.com//news/story/6897/8511802?from=udn-catebreaknews_ch2",
+            "time": "2025-01-26 10:03"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/21/draft/31342505.jpg&s=Y&x=25&y=0&sw=549&sh=367&exp=3600&w=300",
             "title": "CTIMES編輯群解析2025趨勢",
             "link": "https://udn.com//news/story/6903/8504424?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "科技育兒新時代 享受當新潮流爸媽",
             "link": "https://udn.com//news/story/7028/8504160?from=udn-catebreaknews_ch2",
             "time": "2025-01-26 09:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/22/draft/31351973.jpg&s=Y&x=0&y=7&sw=1097&sh=730&exp=3600&w=300",
-            "title": "帷幕後的妻子",
-            "link": "https://udn.com//news/story/7025/8506732?from=udn-catebreaknews_ch2",
-            "time": "2025-01-26 08:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/22/draft/31351802.jpg&s=Y&x=0&y=16&sw=1280&sh=852&exp=3600&w=300",
-            "title": "最令人感動的食物",
-            "link": "https://udn.com//news/story/7025/8506709?from=udn-catebreaknews_ch2",
-            "time": "2025-01-26 08:42"
         }
     ]
 }
