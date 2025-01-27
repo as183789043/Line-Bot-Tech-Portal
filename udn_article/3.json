@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
+            "title": "陸：願接受美遣返非法中國移民",
+            "link": "https://udn.com//news/story/121777/8517627?from=udn-catebreaknews_ch2",
+            "time": "2025-01-28 03:19"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/27/realtime/31403711.jpg&s=Y&x=31&y=0&sw=1260&sh=840&exp=3600&w=300",
             "title": "聯準會將公布2025首次決策…川普、鮑爾 誰主導股匯市場？",
             "link": "https://udn.com//news/story/6811/8517608?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "哥倫比亞大轉彎 移民不敵經濟利益",
             "link": "https://udn.com//news/story/121777/8517625?from=udn-catebreaknews_ch2",
             "time": "2025-01-28 01:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/27/4/31399215.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "川普祭25%關稅…美遣返移民 哥倫比亞讓步",
-            "link": "https://udn.com//news/story/121777/8517523?from=udn-catebreaknews_ch2",
-            "time": "2025-01-28 01:38"
         }
     ]
 }
