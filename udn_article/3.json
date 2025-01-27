@@ -1,7 +1,19 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/27/realtime/31403687.png&s=Y&x=0&y=23&sw=3333&sh=2222&exp=3600&w=300",
+            "title": "陸DeepSeek震撼AI界 圖解與GPT的差異、哪些技術勝出",
+            "link": "https://udn.com//news/story/6811/8517606?from=udn-catebreaknews_ch2",
+            "time": "2025-01-28 05:55"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/01/28/31404696.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "DeepSeek掀起千層浪…Nvidia市值蒸發6000億 那指大跌逾3%",
+            "link": "https://udn.com//news/story/6811/8517739?from=udn-catebreaknews_ch2",
+            "time": "2025-01-28 05:52"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
             "title": "濟州航空空難 2引擎有羽毛和鳥血、黑盒子中斷6秒",
             "link": "https://udn.com//news/story/6809/8517603?from=udn-catebreaknews_ch2",
             "time": "2025-01-28 04:24"
@@ -13,22 +25,10 @@
             "time": "2025-01-28 04:23"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
             "title": "陸：願接受美遣返非法中國移民",
             "link": "https://udn.com//news/story/121777/8517627?from=udn-catebreaknews_ch2",
             "time": "2025-01-28 03:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/27/realtime/31399554.jpg&s=Y&x=0&y=0&sw=4000&sh=2667&exp=3600&w=300",
-            "title": "陸 AI 新創 DeepSeek 震驚矽谷與華爾街 重創美歐晶片股",
-            "link": "https://udn.com//news/story/6811/8517582?from=udn-catebreaknews_ch2",
-            "time": "2025-01-28 02:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/27/realtime/31403711.jpg&s=Y&x=31&y=0&sw=1260&sh=840&exp=3600&w=300",
-            "title": "聯準會將公布2025首次決策…川普、鮑爾 誰主導股匯市場？",
-            "link": "https://udn.com//news/story/6811/8517608?from=udn-catebreaknews_ch2",
-            "time": "2025-01-28 02:27"
         }
     ]
 }
