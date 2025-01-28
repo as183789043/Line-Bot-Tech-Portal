@@ -1,7 +1,13 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/29/98/31407975.jpg&s=Y&x=24&y=0&sw=1236&sh=824&exp=3600&w=300",
+            "title": "聯準會舉行政策會議 外界估暫停降息",
+            "link": "https://udn.com//news/story/6811/8518488?from=udn-catebreaknews_ch2",
+            "time": "2025-01-29 01:37"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
             "title": "輝達：AI訓練仍需大量晶片",
             "link": "https://udn.com//news/story/6811/8518405?from=udn-catebreaknews_ch2",
             "time": "2025-01-29 00:44"
@@ -23,12 +29,6 @@
             "title": "川普：DeepSeek對美AI業當頭棒喝",
             "link": "https://udn.com//news/story/6811/8518398?from=udn-catebreaknews_ch2",
             "time": "2025-01-29 00:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/29/1/31407858.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "川普：98%晶片生意去台灣",
-            "link": "https://udn.com//news/story/121777/8518409?from=udn-catebreaknews_ch2",
-            "time": "2025-01-29 00:17"
         }
     ]
 }
