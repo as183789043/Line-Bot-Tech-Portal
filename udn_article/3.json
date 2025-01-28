@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/28/realtime/31406774.jpg&s=Y&x=0&y=0&sw=3000&sh=2001&exp=3600&w=300",
+            "title": "全球AI股遭重創…DeepSeek引恐慌 分析師：低接Nvidia、台積電良機",
+            "link": "https://udn.com//news/story/6811/8518236?from=udn-catebreaknews_ch2",
+            "time": "2025-01-28 16:10"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/27/98/31401454.jpg&s=Y&x=0&y=88&sw=1148&sh=765&exp=3600&w=300",
+            "title": "科技類股恐慌…受AI大型語言模型DeepSeek影響 日股收黑",
+            "link": "https://udn.com//news/story/6811/8518209?from=udn-catebreaknews_ch2",
+            "time": "2025-01-28 15:48"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/28/98/31406662.jpg&s=Y&x=0&y=0&sw=1217&sh=811&exp=3600&w=300",
+            "title": "打擊假新聞！馬來西亞推人工智慧事實查核助手 進一步確認資訊真偽",
+            "link": "https://udn.com//news/story/6811/8518200?from=udn-catebreaknews_ch2",
+            "time": "2025-01-28 15:40"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/28/98/31406371.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "美媒：DeepSeek將美國用戶資料傳回中國 恐遭審查",
             "link": "https://udn.com//news/story/6811/8518168?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "DeepSeek橫空出世震撼美股 原由與影響一次看",
             "link": "https://udn.com//news/story/6811/8518175?from=udn-catebreaknews_ch2",
             "time": "2025-01-28 14:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/01/28/31405799.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "中國DeepSeek暴紅重創美AI股 Nvidia暴跌近17% 蒸發6000億",
-            "link": "https://udn.com//news/story/6811/8518077?from=udn-catebreaknews_ch2",
-            "time": "2025-01-28 14:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/01/28/31405913.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "哈瑪斯允再釋6人質 以開放加薩中部關卡 大批巴人北返",
-            "link": "https://udn.com//news/story/123777/8518085?from=udn-catebreaknews_ch2",
-            "time": "2025-01-28 14:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/01/28/31405753.png&s=Y&x=0&y=0&sw=1280&sh=852&exp=3600&w=300",
-            "title": "川普關稅威脅哥倫比亞後 北京：願接受美遣返非法中國移民",
-            "link": "https://udn.com//news/story/121777/8518062?from=udn-catebreaknews_ch2",
-            "time": "2025-01-28 14:29"
         }
     ]
 }
