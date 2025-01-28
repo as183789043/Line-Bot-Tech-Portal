@@ -1,6 +1,24 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/28/98/31407471.jpg&s=Y&x=0&y=248&sw=1080&sh=720&exp=3600&w=300",
+            "title": "黃國昌年夜飯沒大魚大肉感嘆「嗚嗚」 蔡壁如拍影片拜年",
+            "link": "https://udn.com//news/story/6656/8518354?from=udn-catebreaknews_ch2",
+            "time": "2025-01-28 20:25"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/28/realtime/31407409.jpg&s=Y&x=0&y=116&sw=1876&sh=1251&exp=3600&w=300",
+            "title": "台灣處AI浪潮 國民黨籲引入優質人才：否則陷入「智慧殖民」",
+            "link": "https://udn.com//news/story/6656/8518346?from=udn-catebreaknews_ch2",
+            "time": "2025-01-28 19:49"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/28/realtime/31407397.jpg&s=Y&x=42&y=0&sw=2193&sh=1463&exp=3600&w=300",
+            "title": "川普拋調高半導體關稅「點名台灣」 總統府回應了",
+            "link": "https://udn.com//news/story/6656/8518341?from=udn-catebreaknews_ch2",
+            "time": "2025-01-28 19:43"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/28/realtime/31406700.jpg&s=Y&x=68&y=752&sw=1944&sh=1296&exp=3600&w=300",
             "title": "賴清德、蕭美琴過年全台參香發福袋 本島獨漏「2縣市」",
             "link": "https://udn.com//news/story/6656/8518217?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "黃仁勳身價因DeepSeek縮水逾6800億元 跌出富豪榜前10名",
             "link": "https://udn.com//news/story/7314/8518187?from=udn-catebreaknews_ch2",
             "time": "2025-01-28 14:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/28/realtime/31406180.jpg&s=Y&x=0&y=8&sw=798&sh=532&exp=3600&w=300",
-            "title": "他指DeepSeek被問敏感問題鬼打牆 網：還以為是國台辦發言人",
-            "link": "https://udn.com//news/story/6656/8518140?from=udn-catebreaknews_ch2",
-            "time": "2025-01-28 13:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/28/realtime/31406099.jpeg&s=Y&x=4&y=696&sw=936&sh=624&exp=3600&w=300",
-            "title": "法鼓山今除夕夜直播撞鐘跨年 賴清德、馬英九將出席",
-            "link": "https://udn.com//news/story/6656/8518115?from=udn-catebreaknews_ch2",
-            "time": "2025-01-28 12:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/28/realtime/31406041.jpg&s=Y&x=0&y=29&sw=4320&sh=2880&exp=3600&w=300",
-            "title": "法鼓山除夕夜直播跨年 賴清德、馬英九一起撞鐘迎新年",
-            "link": "https://udn.com//news/story/6656/8518096?from=udn-catebreaknews_ch2",
-            "time": "2025-01-28 12:21"
         }
     ]
 }
