@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/24/2/31372417.jpg&s=Y&x=12&y=0&sw=1267&sh=845&exp=3600&w=300",
+            "title": "「晶片製造業都跑去台灣」 川普提將對半導體課關稅…經濟部說話了",
+            "link": "https://udn.com//news/story/7238/8518263?from=udn-catebreaknews_ch2",
+            "time": "2025-01-28 17:10"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/28/98/31406784.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
+            "title": "守護孩童寒假上網安全 NCC提供5大關鍵技巧",
+            "link": "https://udn.com//news/story/7240/8518223?from=udn-catebreaknews_ch2",
+            "time": "2025-01-28 16:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/28/realtime/31406160.jpg&s=Y&x=0&y=0&sw=3000&sh=2000&exp=3600&w=300",
             "title": "若Deepseek輕鬆成功 謝金河：會是輝達巨大災難的開端",
             "link": "https://udn.com//news/story/7240/8518132?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "美國科技霸權動搖？川普對中國的AI競爭策略",
             "link": "https://udn.com//news/story/7240/8518006?from=udn-catebreaknews_ch2",
             "time": "2025-01-28 11:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/23/2/31362843.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "台銀：蛇年金價看2大關鍵 震盪上行挑戰3千美元新高",
-            "link": "https://udn.com//news/story/7239/8517944?from=udn-catebreaknews_ch2",
-            "time": "2025-01-28 11:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/28/98/31405639.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "DeepSeek衝擊 專家：台日韓成AI算力圍堵盟友",
-            "link": "https://udn.com//news/story/7238/8517943?from=udn-catebreaknews_ch2",
-            "time": "2025-01-28 11:12"
         }
     ]
 }
