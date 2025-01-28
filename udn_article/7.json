@@ -1,13 +1,19 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/07/2/31229831.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "150萬買006208+00646歐印更賺？網勸1類人分批投入",
+            "link": "https://udn.com//news/story/123006/8479915?from=udn-catebreaknews_ch2",
+            "time": "2025-01-28 10:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
             "title": "台積電ADR早盤重摔 分析師：台股下周可能面臨獲利了結賣壓",
             "link": "https://udn.com//news/story/7251/8517584?from=udn-catebreaknews_ch2",
             "time": "2025-01-28 02:34"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
             "title": "年終獎金投資配置 專家：股6債4",
             "link": "https://udn.com//news/story/7251/8517620?from=udn-catebreaknews_ch2",
             "time": "2025-01-28 02:33"
@@ -23,12 +29,6 @@
             "title": "蛇年全球金融市場變數多 必買基金六類型一次看",
             "link": "https://udn.com//news/story/10103/8517408?from=udn-catebreaknews_ch2",
             "time": "2025-01-28 01:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/22/realtime/31354686.jpg&s=Y&x=68&y=0&sw=1752&sh=1168&exp=3600&w=300",
-            "title": "四大金控首席經濟學家教戰…股優於債 今年投資主旋律",
-            "link": "https://udn.com//news/story/7251/8517334?from=udn-catebreaknews_ch2",
-            "time": "2025-01-28 01:36"
         }
     ]
 }
