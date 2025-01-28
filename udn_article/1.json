@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/28/realtime/31406180.jpg&s=Y&x=0&y=8&sw=798&sh=532&exp=3600&w=300",
+            "title": "他指DeepSeek被問敏感問題鬼打牆 網：還以為是國台辦發言人",
+            "link": "https://udn.com//news/story/6656/8518140?from=udn-catebreaknews_ch2",
+            "time": "2025-01-28 13:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/28/realtime/31406098.jpeg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
             "title": "法鼓山今除夕夜直播撞鐘跨年 賴清德、馬英九將出席",
             "link": "https://udn.com//news/story/6656/8518115?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "賴清德新春談話籲朝野和諧 藍委轟人格分裂",
             "link": "https://udn.com//news/story/6656/8517997?from=udn-catebreaknews_ch2",
             "time": "2025-01-28 11:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/28/realtime/31405588.jpg&s=Y&x=0&y=0&sw=3444&sh=2306&exp=3600&w=300",
-            "title": "林佳龍與農青大使圍爐 滿滿台灣味",
-            "link": "https://udn.com//news/story/6656/8517973?from=udn-catebreaknews_ch2",
-            "time": "2025-01-28 11:00"
         }
     ]
 }
