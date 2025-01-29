@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/26/draft/31394772.jpg&s=Y&x=0&y=8&sw=800&sh=532&exp=3600&w=300",
+            "title": "初一習俗 早起走春迎好運",
+            "link": "https://udn.com//news/story/11596/8516077?from=udn-catebreaknews_ch2",
+            "time": "2025-01-29 07:45"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/09/realtime/31243922.jpg&s=Y&x=56&y=0&sw=1131&sh=755&exp=3600&w=300",
             "title": "重複投保 何錯之有？",
             "link": "https://udn.com//news/story/6854/8512543?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": " 驅動高速時代核心技術 PCIe邁向高速智慧新未來",
             "link": "https://udn.com//news/story/6903/8504268?from=udn-catebreaknews_ch2",
             "time": "2025-01-26 09:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/21/draft/31341825.jpg&s=Y&x=93&y=0&sw=684&sh=456&exp=3600&w=300",
-            "title": "科技育兒新時代 享受當新潮流爸媽",
-            "link": "https://udn.com//news/story/7028/8504160?from=udn-catebreaknews_ch2",
-            "time": "2025-01-26 09:01"
         }
     ]
 }
