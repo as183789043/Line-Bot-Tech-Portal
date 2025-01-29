@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/23/draft/31365635.jpg&s=Y&x=100&y=17&sw=700&sh=467&exp=3600&w=300",
+            "title": "台積電穩站C位 2025還有飛龍可追？專家：智邦、台光電帶頭衝、3面向布局「新AI」",
+            "link": "https://udn.com//news/story/6839/8510331?from=udn-catebreaknews_ch2",
+            "time": "2025-01-29 15:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/23/draft/31365416.jpg&s=Y&x=122&y=0&sw=678&sh=452&exp=3600&w=300",
             "title": "大成三代拚出「無抗飼養雞」 貴6成也熱銷：把今天高標變明天普標",
             "link": "https://udn.com//news/story/6839/8510298?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "懷疑父母偏心 科學證實真的有",
             "link": "https://udn.com//news/story/6897/8511802?from=udn-catebreaknews_ch2",
             "time": "2025-01-26 10:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/21/draft/31342505.jpg&s=Y&x=25&y=0&sw=549&sh=367&exp=3600&w=300",
-            "title": "CTIMES編輯群解析2025趨勢",
-            "link": "https://udn.com//news/story/6903/8504424?from=udn-catebreaknews_ch2",
-            "time": "2025-01-26 09:06"
         }
     ]
 }
