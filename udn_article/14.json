@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/23/draft/31365416.jpg&s=Y&x=122&y=0&sw=678&sh=452&exp=3600&w=300",
+            "title": "大成三代拚出「無抗飼養雞」 貴6成也熱銷：把今天高標變明天普標",
+            "link": "https://udn.com//news/story/6839/8510298?from=udn-catebreaknews_ch2",
+            "time": "2025-01-29 13:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/26/draft/31394772.jpg&s=Y&x=0&y=8&sw=800&sh=532&exp=3600&w=300",
             "title": "初一習俗 早起走春迎好運",
             "link": "https://udn.com//news/story/11596/8516077?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "CTIMES編輯群解析2025趨勢",
             "link": "https://udn.com//news/story/6903/8504424?from=udn-catebreaknews_ch2",
             "time": "2025-01-26 09:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/21/draft/31342089.jpg&s=Y&x=0&y=6&sw=600&sh=400&exp=3600&w=300",
-            "title": " 驅動高速時代核心技術 PCIe邁向高速智慧新未來",
-            "link": "https://udn.com//news/story/6903/8504268?from=udn-catebreaknews_ch2",
-            "time": "2025-01-26 09:05"
         }
     ]
 }
