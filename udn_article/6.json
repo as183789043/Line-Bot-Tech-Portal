@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/29/1/31407885.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "兆豐研究部：DeepSeek 將推升AI普及率 有望刺激 dGPU AI PC需求",
+            "link": "https://udn.com//news/story/7240/8518738?from=udn-catebreaknews_ch2",
+            "time": "2025-01-29 11:16"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/29/98/31408018.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "國泰證券期研究部：這三原因讓 DeepSeek 影響 NVIDIA 有限",
+            "link": "https://udn.com//news/story/7240/8518736?from=udn-catebreaknews_ch2",
+            "time": "2025-01-29 11:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/03/12/2/29171732.jpg&s=Y&x=0&y=108&sw=1278&sh=852&exp=3600&w=300",
             "title": "除夕夜驚傳竹科瞬間壓降 工程師嚇到拋下碗筷衝回廠",
             "link": "https://udn.com//news/story/7240/8518458?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "川普再提拉高半導體進口關稅 總統府回應了",
             "link": "https://udn.com//news/story/7238/8518332?from=udn-catebreaknews_ch2",
             "time": "2025-01-28 19:15"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/15/98/31287709.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "川普揚言對半導體課關稅！專家：高階晶片難取代「很難課關稅」",
-            "link": "https://udn.com//news/story/7238/8518323?from=udn-catebreaknews_ch2",
-            "time": "2025-01-28 18:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/28/realtime/31407254.jpg&s=Y&x=0&y=0&sw=8192&sh=5464&exp=3600&w=300",
-            "title": "又控台灣搶晶片生意！川普重提「拉高半導體進口關稅」 經濟部這樣說",
-            "link": "https://udn.com//news/story/7238/8518312?from=udn-catebreaknews_ch2",
-            "time": "2025-01-28 18:21"
         }
     ]
 }
