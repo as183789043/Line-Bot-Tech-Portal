@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/28/realtime/31407019.jpg&s=Y&x=0&y=0&sw=5000&sh=3333&exp=3600&w=300",
+            "title": "CNBC：黃仁勳川普會面 聚焦AI政策、DeepSeek等",
+            "link": "https://udn.com//news/story/121777/8520810?from=udn-catebreaknews_ch2",
+            "time": "2025-02-01 04:53"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/30/1/31411353.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "川普：從未跟習近平談反對台獨換取協助俄烏停戰",
+            "link": "https://udn.com//news/story/121777/8520807?from=udn-catebreaknews_ch2",
+            "time": "2025-02-01 04:52"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/01/28/31405709.jpg&s=Y&x=64&y=0&sw=1152&sh=769&exp=3600&w=300",
             "title": "黃仁勳會川普 白宮：屬私人會晤",
             "link": "https://udn.com//news/story/121777/8520797?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "黑鷹直升機飛太高 疑事故主因",
             "link": "https://udn.com//news/story/124373/8520705?from=udn-catebreaknews_ch2",
             "time": "2025-02-01 02:15"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/26/98/31390255.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "川普開鍘！2月1日起對加、墨課徵25％關稅 擬豁免石油",
-            "link": "https://udn.com//news/story/121777/8520707?from=udn-catebreaknews_ch2",
-            "time": "2025-02-01 02:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/01/30/31412698.jpg&s=Y&x=41&y=0&sw=1197&sh=798&exp=3600&w=300",
-            "title": "輝達高階晶片 美防第三國轉售陸",
-            "link": "https://udn.com//news/story/121777/8520703?from=udn-catebreaknews_ch2",
-            "time": "2025-02-01 02:03"
         }
     ]
 }
