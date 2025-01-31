@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2024/12/21/31129538.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "美國12月PCE年增率升溫至2.6% 暫停降息呼聲恐更大",
+            "link": "https://udn.com//news/story/6811/8520741?from=udn-catebreaknews_ch2",
+            "time": "2025-02-01 00:02"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/31/realtime/31418382.jpg&s=Y&x=0&y=0&sw=3000&sh=2000&exp=3600&w=300",
             "title": "DeepSeek震撼AI市場...川普正研擬新措施 白宮：預定這日會黃仁勳",
             "link": "https://udn.com//news/story/121777/8520692?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "孫正義與OpenAI執行長見完川普後 2/3將會日相石破茂",
             "link": "https://udn.com//news/story/6813/8520661?from=udn-catebreaknews_ch2",
             "time": "2025-01-31 21:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/30/realtime/31411749.jpg&s=Y&x=0&y=0&sw=2686&sh=1789&exp=3600&w=300",
-            "title": "無視埃及約旦反對 川普執意推動加沙巴勒斯坦人遷往兩國",
-            "link": "https://udn.com//news/story/121777/8520620?from=udn-catebreaknews_ch2",
-            "time": "2025-01-31 20:48"
         }
     ]
 }
