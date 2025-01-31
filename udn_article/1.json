@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/31/1/31418420.png&s=Y&x=3&y=1&sw=796&sh=531&exp=3600&w=300",
+            "title": "對DeepSeek先禁再說？意識形態不該阻擋科技發展",
+            "link": "https://udn.com//news/story/6656/8520731?from=udn-catebreaknews_ch2",
+            "time": "2025-02-01 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/31/realtime/31416414.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
             "title": "賴總統中南部發福袋 籲別被統戰和詐騙",
             "link": "https://udn.com//news/story/6656/8520715?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "響應教宗世界和平日文告 賴清德：和平無價 戰爭沒贏家",
             "link": "https://udn.com//news/story/6656/8520647?from=udn-catebreaknews_ch2",
             "time": "2025-01-31 20:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/28/realtime/31407647.jpeg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
-            "title": "致函教宗響應和平日文告 賴總統：戰爭沒有贏家",
-            "link": "https://udn.com//news/story/6656/8520591?from=udn-catebreaknews_ch2",
-            "time": "2025-01-31 19:11"
         }
     ]
 }

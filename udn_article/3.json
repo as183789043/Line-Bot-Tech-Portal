@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/02/01/31419104.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "川普關稅1日生效 美股收低 道瓊跌逾330點",
+            "link": "https://udn.com//news/story/6811/8520826?from=udn-catebreaknews_ch2",
+            "time": "2025-02-01 05:47"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/28/realtime/31407019.jpg&s=Y&x=0&y=0&sw=5000&sh=3333&exp=3600&w=300",
             "title": "CNBC：黃仁勳川普會面 聚焦AI政策、DeepSeek等",
             "link": "https://udn.com//news/story/121777/8520810?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "美空難67人全罹難 尋獲黑盒子",
             "link": "https://udn.com//news/story/124373/8520704?from=udn-catebreaknews_ch2",
             "time": "2025-02-01 02:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/31/realtime/31415831.jpg&s=Y&x=0&y=0&sw=5392&sh=3592&exp=3600&w=300",
-            "title": "黑鷹直升機飛太高 疑事故主因",
-            "link": "https://udn.com//news/story/124373/8520705?from=udn-catebreaknews_ch2",
-            "time": "2025-02-01 02:15"
         }
     ]
 }
