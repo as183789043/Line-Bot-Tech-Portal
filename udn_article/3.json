@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/01/28/31405709.jpg&s=Y&x=64&y=0&sw=1152&sh=769&exp=3600&w=300",
+            "title": "黃仁勳會川普 白宮：屬私人會晤",
+            "link": "https://udn.com//news/story/121777/8520797?from=udn-catebreaknews_ch2",
+            "time": "2025-02-01 03:45"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/31/0/31418060.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "美空難67人全罹難 尋獲黑盒子",
             "link": "https://udn.com//news/story/124373/8520704?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "輝達高階晶片 美防第三國轉售陸",
             "link": "https://udn.com//news/story/121777/8520703?from=udn-catebreaknews_ch2",
             "time": "2025-02-01 02:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/31/realtime/31418424.jpg&s=Y&x=0&y=0&sw=6804&sh=4536&exp=3600&w=300",
-            "title": "美國務卿魯比歐示警 「美中衝突時 陸會關閉巴拿馬運河」",
-            "link": "https://udn.com//news/story/6809/8520716?from=udn-catebreaknews_ch2",
-            "time": "2025-02-01 01:16"
         }
     ]
 }
