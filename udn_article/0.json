@@ -1,6 +1,12 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/03/98/31427075.jpg&s=Y&x=0&y=16&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台南東山區凌晨3時32分規模4地震 最大震度3級",
+            "link": "https://udn.com//news/story/7266/8523069?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-02-03 04:48"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/03/realtime/31426875.png&s=Y&x=239&y=0&sw=1440&sh=960&exp=3600&w=300",
             "title": "電子書閱讀器元年來了?AI與真人作家台北國際書展大PK",
             "link": "https://udn.com//news/story/7270/8523055?from=udn-ch1_breaknews-1-0-news",
@@ -23,12 +29,6 @@
             "title": "新竹人惡夢！竹縣新豐掩埋場深夜又起火 消防搶救中",
             "link": "https://udn.com//news/story/7320/8523048?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-02-03 01:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/02/realtime/31426550.jpg&s=Y&x=0&y=0&sw=4905&sh=3270&exp=3600&w=300",
-            "title": "民進黨團新會期三長名單出爐 老柯續任 她首任書記長",
-            "link": "https://udn.com//news/story/6656/8522971?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-02-02 23:20"
         }
     ]
 }
