@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/24/realtime/31374984.png&s=Y&x=42&y=0&sw=1512&sh=1008&exp=3600&w=300",
+            "title": "台電今年舉債1500億 創新高",
+            "link": "https://udn.com//news/story/7238/8522899?from=udn-catebreaknews_ch2",
+            "time": "2025-02-03 01:14"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/02/realtime/31426469.jpg&s=Y&x=0&y=12&sw=1417&sh=944&exp=3600&w=300",
+            "title": "撥補台電攻防 平均電價恐漲6.6%",
+            "link": "https://udn.com//news/story/7238/8522874?from=udn-catebreaknews_ch2",
+            "time": "2025-02-03 01:14"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/02/realtime/31426459.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
             "title": "昕力資訊越南佈局再擴大 砸重金收購當地軟體業者",
             "link": "https://udn.com//news/story/7240/8522857?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "微型保險去年順利達標 壽險整體達成率111.9%",
             "link": "https://udn.com//news/story/7239/8522799?from=udn-catebreaknews_ch2",
             "time": "2025-02-02 21:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/02/0/31426349.jpg&s=Y&x=0&y=0&sw=1248&sh=832&exp=3600&w=300",
-            "title": "「賠錢貨」差點毀掉輝達…黃仁勳挺過3次破產危機 站穩AI霸主地位",
-            "link": "https://udn.com//news/story/7240/8522787?from=udn-catebreaknews_ch2",
-            "time": "2025-02-02 21:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/02/0/31426281.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "「我是台積電的張忠謀，要找黃仁勳先生」一通電話成就輝達 改寫晶片發展史",
-            "link": "https://udn.com//news/story/7240/8522763?from=udn-catebreaknews_ch2",
-            "time": "2025-02-02 21:33"
         }
     ]
 }
