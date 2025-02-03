@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/03/realtime/31432382.jpg&s=Y&x=0&y=27&sw=3793&sh=2528&exp=3600&w=300",
+            "title": "雙利空夾擊 蛇年開市股匯雙殺",
+            "link": "https://udn.com//news/story/7251/8525185?from=udn-catebreaknews_ch2",
+            "time": "2025-02-04 04:03"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/22/2/31358201.jpg&s=Y&x=0&y=0&sw=1132&sh=755&exp=3600&w=300",
             "title": "台股暴跌 金管會提三關鍵數字：基本面未變",
             "link": "https://udn.com//news/story/7251/8524907?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "外資看DeepSeek：AI GPU需求仍強勁 按讚八台鏈",
             "link": "https://udn.com//news/story/7253/8524811?from=udn-catebreaknews_ch2",
             "time": "2025-02-03 19:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/24/0/31372661.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "00878配0.5元仍維持高檔…年化依舊9％以上優於去年！ 知美：未來應該沒問題持續0.5元之上",
-            "link": "https://udn.com//news/story/123006/8524737?from=udn-catebreaknews_ch2",
-            "time": "2025-02-03 19:26"
         }
     ]
 }
