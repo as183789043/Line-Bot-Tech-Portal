@@ -1,8 +1,26 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/03/2/31428507.jpg&s=Y&x=4&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "台積電日本設廠磁吸效應驚人 助熊本展成長榮景",
+            "link": "https://udn.com//news/story/6811/8524579?from=udn-catebreaknews_ch2",
+            "time": "2025-02-03 17:52"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/03/realtime/31431150.jpg&s=Y&x=0&y=0&sw=4514&sh=3009&exp=3600&w=300",
+            "title": "不滿南非立法徵收土地...川普稱將中止金援 蘭德應聲貶值",
+            "link": "https://udn.com//news/story/121777/8524605?from=udn-catebreaknews_ch2",
+            "time": "2025-02-03 17:41"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/03/98/31431075.jpg&s=Y&x=84&y=0&sw=960&sh=640&exp=3600&w=300",
+            "title": "5年前第一階段貿易協議僅做6成 分析：美國、大陸達新協議更難",
+            "link": "https://udn.com//news/story/121777/8524372?from=udn-catebreaknews_ch2",
+            "time": "2025-02-03 17:34"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/03/realtime/31431035.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
-            "title": "3天內第2起 敘北城市汽車炸彈攻擊至少15死15傷",
+            "title": "死亡人數可能攀升...3天內第2起 敘北城市汽車炸彈攻擊至少15死15傷",
             "link": "https://udn.com//news/story/6809/8524565?from=udn-catebreaknews_ch2",
             "time": "2025-02-03 17:15"
         },
@@ -11,24 +29,6 @@
             "title": "三星會長李在鎔涉會計詐欺操縱股價 二審仍判無罪",
             "link": "https://udn.com//news/story/6809/8524477?from=udn-catebreaknews_ch2",
             "time": "2025-02-03 16:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/03/realtime/31430575.jpg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
-            "title": "川普打貿易戰與盟邦翻臉 除助長通膨更給中國送上大禮",
-            "link": "https://udn.com//news/story/6809/8524399?from=udn-catebreaknews_ch2",
-            "time": "2025-02-03 16:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/10/realtime/31246739.jpg&s=Y&x=0&y=38&sw=5584&sh=3722&exp=3600&w=300",
-            "title": "日本流感疫情重症患者增加 疑「這原因」導致",
-            "link": "https://udn.com//news/story/6809/8524243?from=udn-catebreaknews_ch2",
-            "time": "2025-02-03 15:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/02/realtime/31423687.jpg&s=Y&x=0&y=0&sw=3000&sh=2000&exp=3600&w=300",
-            "title": "OpenAI推出新AI工具「深度研究」 挑戰複雜任務",
-            "link": "https://udn.com//news/story/6809/8524297?from=udn-catebreaknews_ch2",
-            "time": "2025-02-03 15:44"
         }
     ]
 }
