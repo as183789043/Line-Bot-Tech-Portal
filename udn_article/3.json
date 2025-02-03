@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/03/realtime/31431035.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
+            "title": "3天內第2起 敘北城市汽車炸彈攻擊至少15死15傷",
+            "link": "https://udn.com//news/story/6809/8524565?from=udn-catebreaknews_ch2",
+            "time": "2025-02-03 17:15"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/03/realtime/31429961.jpeg&s=Y&x=0&y=15&sw=2283&sh=1522&exp=3600&w=300",
+            "title": "三星會長李在鎔涉會計詐欺操縱股價 二審仍判無罪",
+            "link": "https://udn.com//news/story/6809/8524477?from=udn-catebreaknews_ch2",
+            "time": "2025-02-03 16:52"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/03/realtime/31430575.jpg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
             "title": "川普打貿易戰與盟邦翻臉 除助長通膨更給中國送上大禮",
             "link": "https://udn.com//news/story/6809/8524399?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "OpenAI推出新AI工具「深度研究」 挑戰複雜任務",
             "link": "https://udn.com//news/story/6809/8524297?from=udn-catebreaknews_ch2",
             "time": "2025-02-03 15:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/17/98/30733395.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "川普加徵關稅引發市場憂慮 日經指數狂瀉逾千點",
-            "link": "https://udn.com//news/story/121777/8524239?from=udn-catebreaknews_ch2",
-            "time": "2025-02-03 15:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/03/realtime/31428635.jpg&s=Y&x=0&y=0&sw=2703&sh=1802&exp=3600&w=300",
-            "title": "川普加徵關稅引發印度擔憂 盧比跌至歷史新低",
-            "link": "https://udn.com//news/story/121777/8524238?from=udn-catebreaknews_ch2",
-            "time": "2025-02-03 15:04"
         }
     ]
 }
