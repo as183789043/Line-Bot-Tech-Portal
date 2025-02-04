@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/04/0/31435379.jpg&s=Y&x=284&y=0&sw=916&sh=611&exp=3600&w=300",
+            "title": "黑松100歲！代理金酒、立頓…最長壽飲料突破百億 一本古董文件的警醒",
+            "link": "https://udn.com//news/story/6841/8526218?from=udn-catebreaknews_ch2",
+            "time": "2025-02-04 13:24"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/02/0/31426281.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "網傳「黃仁勳評價DeepSeek公開信」假的！查核中心向輝達求證 文章原始出處曝光",
             "link": "https://udn.com//news/story/6839/8525892?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "從北美智權報轉型看媒體的演變：數位時代智權新聞的全新定位",
             "link": "https://udn.com//news/story/6871/8524012?from=udn-catebreaknews_ch2",
             "time": "2025-02-03 15:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/03/draft/31428757.jpg&s=Y&x=0&y=0&sw=1024&sh=683&exp=3600&w=300",
-            "title": "2024年美國專利法規相關事件回顧",
-            "link": "https://udn.com//news/story/6871/8523740?from=udn-catebreaknews_ch2",
-            "time": "2025-02-03 15:22"
         }
     ]
 }
