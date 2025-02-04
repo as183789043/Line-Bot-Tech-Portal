@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/05/realtime/31438589.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "全球忙著應對川普 台灣專注內耗如平行時空",
+            "link": "https://udn.com//news/story/6656/8527635?from=udn-catebreaknews_ch2",
+            "time": "2025-02-05 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/19/98/30934689.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "軍士官大缺 提前退場可再入營",
             "link": "https://udn.com//news/story/10930/8527533?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "放任柯建銘鼓吹大罷免…賴主席忘了蔡主席叮嚀？",
             "link": "https://udn.com//news/story/124323/8527524?from=udn-catebreaknews_ch2",
             "time": "2025-02-05 03:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/23/realtime/31369460.jpg&s=Y&x=0&y=17&sw=1396&sh=930&exp=3600&w=300",
-            "title": "白營擬反制大罷免 籲賴總統今表態",
-            "link": "https://udn.com//news/story/124323/8527517?from=udn-catebreaknews_ch2",
-            "time": "2025-02-05 03:45"
         }
     ]
 }
