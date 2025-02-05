@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/05/2/31444085.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "佳世達營收／1月165.38億元、年增1.6% 看好全年營運成長",
+            "link": "https://udn.com//news/story/7253/8529525?from=udn-catebreaknews_ch2",
+            "time": "2025-02-05 19:06"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/05/realtime/31443503.jpg&s=Y&x=0&y=7&sw=1049&sh=698&exp=3600&w=300",
             "title": "台光電營收／1月69.86億元創新高 受惠 AI 伺服器成長力道",
             "link": "https://udn.com//news/story/7253/8529383?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "外資買超254億元 ETF高居買賣超第一！台積電獲外資連二買",
             "link": "https://udn.com//news/story/7251/8529213?from=udn-catebreaknews_ch2",
             "time": "2025-02-05 16:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/05/2/31442941.jpg&s=Y&x=0&y=0&sw=1050&sh=700&exp=3600&w=300",
-            "title": "蛇年掛牌潮！3檔新股紅包來了 抽中這檔可賺50萬元",
-            "link": "https://udn.com//news/story/7254/8529132?from=udn-catebreaknews_ch2",
-            "time": "2025-02-05 16:23"
         }
     ]
 }
