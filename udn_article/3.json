@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/02/06/31445562.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "貿易動盪拋腦後 美股連升2日 Nvidia推動道指漲逾300點",
+            "link": "https://udn.com//news/story/6811/8530238?from=udn-catebreaknews_ch2",
+            "time": "2025-02-06 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/30/98/31414973.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "市場消化財報 美股收高",
+            "link": "https://udn.com//news/story/6811/8530236?from=udn-catebreaknews_ch2",
+            "time": "2025-02-06 05:48"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/02/06/31445427.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "美式早餐經典飲品 柳橙汁快消失了嗎？",
+            "link": "https://udn.com//news/story/6813/8530223?from=udn-catebreaknews_ch2",
+            "time": "2025-02-06 04:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/06/realtime/31445390.jpg&s=Y&x=0&y=0&sw=6977&sh=4654&exp=3600&w=300",
             "title": "禁跨性別參加女子運動比賽 白宮：總統盼奧運能遵守",
             "link": "https://udn.com//news/story/6813/8530218?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "美國計畫接管加薩 白宮：川普沒有承諾出兵",
             "link": "https://udn.com//news/story/121777/8530209?from=udn-catebreaknews_ch2",
             "time": "2025-02-06 03:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
-            "title": "北京促平等對話 非單方加稅",
-            "link": "https://udn.com//news/story/124373/8529929?from=udn-catebreaknews_ch2",
-            "time": "2025-02-06 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/04/realtime/31438202.jpg&s=Y&x=154&y=0&sw=2991&sh=1995&exp=3600&w=300",
-            "title": "陸反制加稅 不排除祭出反壟斷大刀 擬調查英特爾、蘋果",
-            "link": "https://udn.com//news/story/124373/8530020?from=udn-catebreaknews_ch2",
-            "time": "2025-02-06 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/04/realtime/31433353.jpg&s=Y&x=0&y=0&sw=4000&sh=2667&exp=3600&w=300",
-            "title": "超微資料中心營運 失色",
-            "link": "https://udn.com//news/story/6811/8530016?from=udn-catebreaknews_ch2",
-            "time": "2025-02-06 03:00"
         }
     ]
 }
