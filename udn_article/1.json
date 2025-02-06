@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/07/realtime/31451532.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
+            "title": "川普就職隔日就離職！AIT證實羅森柏格結束任期",
+            "link": "https://udn.com//news/story/6656/8532560?from=udn-catebreaknews_ch2",
+            "time": "2025-02-07 04:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/05/31/realtime/29741160.png&s=Y&x=0&y=0&sw=1150&sh=762&exp=3600&w=300",
             "title": "觀察站／ 川普未聚焦台灣 我互動續低調",
             "link": "https://udn.com//news/story/6656/8532352?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "AIT主席羅森柏格去職 繼任人選未定",
             "link": "https://udn.com//news/story/6656/8532338?from=udn-catebreaknews_ch2",
             "time": "2025-02-07 03:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
-            "title": "總預算案 政院憂重複或超額刪減",
-            "link": "https://udn.com//news/story/6656/8532362?from=udn-catebreaknews_ch2",
-            "time": "2025-02-07 03:01"
         }
     ]
 }
