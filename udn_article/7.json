@@ -1,13 +1,19 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/07/2/31450896.jpg&s=Y&x=0&y=136&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台玻、富喬 訂單排到2027年",
+            "link": "https://udn.com//news/story/7252/8532037?from=udn-catebreaknews_ch2",
+            "time": "2025-02-07 06:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/01/2/31420843.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "外資期現貨偏多操作 台股連三漲 成交量沒跟上",
             "link": "https://udn.com//news/story/7251/8532296?from=udn-catebreaknews_ch2",
             "time": "2025-02-07 01:08"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
             "title": "重量級法說登場 助攻台股行情",
             "link": "https://udn.com//news/story/7251/8532302?from=udn-catebreaknews_ch2",
             "time": "2025-02-07 01:05"
@@ -19,16 +25,10 @@
             "time": "2025-02-07 00:03"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
             "title": "精材 去年每股賺6.15元",
             "link": "https://udn.com//news/story/7254/8532294?from=udn-catebreaknews_ch2",
             "time": "2025-02-06 23:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/19/2/31327091.jpg&s=Y&x=0&y=28&sw=1170&sh=780&exp=3600&w=300",
-            "title": "緯創、緯穎 四檔強強滾",
-            "link": "https://udn.com//news/story/7255/8532396?from=udn-catebreaknews_ch2",
-            "time": "2025-02-06 23:44"
         }
     ]
 }
