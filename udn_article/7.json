@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "title": "英業達績優 攀同期高點",
+            "link": "https://udn.com//news/story/7253/8534658?from=udn-catebreaknews_ch2",
+            "time": "2025-02-08 02:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
+            "title": "喬山1月營收年增44% 越南新廠將投產",
+            "link": "https://udn.com//news/story/7252/8534648?from=udn-catebreaknews_ch2",
+            "time": "2025-02-08 02:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/03/2/31431530.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台股三資力挺 雙主流領漲…電子權值、千金股帶頭衝",
             "link": "https://udn.com//news/story/7251/8534539?from=udn-catebreaknews_ch2",
@@ -8,27 +20,15 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
-            "title": "新 iPhone SE 來了 蘋概吃補",
+            "title": "亞馬遜資本支出千億美元  AI伺服器供應鏈後市看旺",
+            "link": "https://udn.com//news/story/7253/8534590?from=udn-catebreaknews_ch2",
+            "time": "2025-02-08 01:04"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
+            "title": "新iPhone SE來了 蘋概吃補",
             "link": "https://udn.com//news/story/7251/8534594?from=udn-catebreaknews_ch2",
             "time": "2025-02-08 01:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/19/2/31323633.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "鴻海三利多加持 大摩按讚",
-            "link": "https://udn.com//news/story/7251/8534643?from=udn-catebreaknews_ch2",
-            "time": "2025-02-08 01:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/23/realtime/31367086.jpg&s=Y&x=37&y=0&sw=2127&sh=1418&exp=3600&w=300",
-            "title": "鴻海、緯創 四檔馬力強",
-            "link": "https://udn.com//news/story/7253/8534630?from=udn-catebreaknews_ch2",
-            "time": "2025-02-07 23:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/08/2/31457188.png&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "致茂、嘉澤 選逾五個月",
-            "link": "https://udn.com//news/story/7253/8534632?from=udn-catebreaknews_ch2",
-            "time": "2025-02-07 23:53"
         }
     ]
 }
