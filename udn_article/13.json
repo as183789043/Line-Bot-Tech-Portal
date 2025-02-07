@@ -1,6 +1,12 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/30/105/31448983.jpg&s=Y&x=0&y=0&sw=1280&sh=712&exp=3600&w=300",
+            "title": "2025「文化幣攻略」看這篇！全台使用店家推薦一次看",
+            "link": "https://udn.com//news/story/7934/8519956?from=udn-catebreaknews_ch2",
+            "time": "2025-02-07 11:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/06/draft/31447203.jpg&s=Y&x=0&y=0&sw=720&sh=480&exp=3600&w=300",
             "title": "奇妙派對！ 香港迪士尼樂園度假區20周年慶祝活動 夏天矚目登場",
             "link": "https://udn.com//news/story/120672/8530858?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "基隆慶元宵！「蛇來運轉」小提燈2月8日起發放",
             "link": "https://udn.com//news/story/7205/8528369?from=udn-catebreaknews_ch2",
             "time": "2025-02-07 09:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/07/realtime/31452066.jpg&s=Y&x=0&y=30&sw=2777&sh=1850&exp=3600&w=300",
-            "title": "寒流即將抵達全台大降溫 今天入夜至周末影響最劇烈",
-            "link": "https://udn.com//news/story/7934/8532684?from=udn-catebreaknews_ch2",
-            "time": "2025-02-07 08:38"
         }
     ]
 }
