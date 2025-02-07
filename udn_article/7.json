@@ -1,10 +1,22 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/07/realtime/31455070.jpg&s=Y&x=50&y=0&sw=1788&sh=1193&exp=3600&w=300",
-            "title": "聯發科去年全年每股純益為66.92元 賺逾六個股本",
-            "link": "https://udn.com//news/story/7253/8533688?from=udn-catebreaknews_ch2",
-            "time": "2025-02-07 15:09"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/07/realtime/31455372.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "台股蛇年第1周指數收小黑 法人：一原因讓外資可望回眸",
+            "link": "https://udn.com//news/story/7251/8533840?from=udn-catebreaknews_ch2",
+            "time": "2025-02-07 16:04"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/07/12/2/29991532.jpg&s=Y&x=0&y=40&sw=960&sh=640&exp=3600&w=300",
+            "title": "這檔生技股6高層集體辭職、董事去年底也辭任 股價破底",
+            "link": "https://udn.com//news/story/7254/8533816?from=udn-catebreaknews_ch2",
+            "time": "2025-02-07 15:59"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/09/2/30687593.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "去年8月才登錄興櫃 諾亞克副總、會計主管等6人請辭",
+            "link": "https://udn.com//news/story/7254/8533768?from=udn-catebreaknews_ch2",
+            "time": "2025-02-07 15:42"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/07/realtime/31455068.jpg&s=Y&x=0&y=0&sw=1179&sh=795&exp=3600&w=300",
@@ -13,22 +25,10 @@
             "time": "2025-02-07 15:09"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/03/2/31431530.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台股上漲161點 三大法人買超214億元",
-            "link": "https://udn.com//news/story/7251/8533678?from=udn-catebreaknews_ch2",
-            "time": "2025-02-07 15:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/98/31190152.jpg&s=Y&x=0&y=0&sw=1025&sh=683&exp=3600&w=300",
-            "title": "大戶回來了！2檔千金股飆漲停 股王及股后都大漲逾7%",
-            "link": "https://udn.com//news/story/7251/8533666?from=udn-catebreaknews_ch2",
-            "time": "2025-02-07 15:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/07/realtime/31454643.jpg&s=Y&x=0&y=0&sw=1049&sh=704&exp=3600&w=300",
-            "title": "緯穎營收／1月375.06億元、年增99.6% 主客戶需求續強",
-            "link": "https://udn.com//news/story/7253/8533616?from=udn-catebreaknews_ch2",
-            "time": "2025-02-07 14:42"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/07/realtime/31455070.jpg&s=Y&x=50&y=0&sw=1788&sh=1193&exp=3600&w=300",
+            "title": "聯發科去年全年每股純益為66.92元 賺逾六個股本",
+            "link": "https://udn.com//news/story/7253/8533688?from=udn-catebreaknews_ch2",
+            "time": "2025-02-07 15:09"
         }
     ]
 }
