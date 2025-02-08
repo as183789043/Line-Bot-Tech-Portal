@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
+            "title": "川普強制國際開發署員工休假 法官下令暫停執行",
+            "link": "https://udn.com//news/story/121777/8536285?from=udn-catebreaknews_ch2",
+            "time": "2025-02-09 05:40"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/08/realtime/31462375.jpg&s=Y&x=0&y=0&sw=8256&sh=5504&exp=3600&w=300",
             "title": "馬斯克大刀 對準美國教育、國防部",
             "link": "https://udn.com//news/story/121777/8536264?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2025-02-09 03:42"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
             "title": "以礦換援 烏將與美合作開發稀土",
             "link": "https://udn.com//news/story/6809/8536268?from=udn-catebreaknews_ch2",
             "time": "2025-02-09 03:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
-            "title": "川普關稅措施 挑動投資人神經",
-            "link": "https://udn.com//news/story/6811/8536205?from=udn-catebreaknews_ch2",
-            "time": "2025-02-09 03:37"
         }
     ]
 }
