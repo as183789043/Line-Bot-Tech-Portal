@@ -1,13 +1,19 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/10/98/31467265.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "嘉義縣大埔鄉地震規模4.4 最大震度4級",
+            "link": "https://udn.com//news/story/7266/8537794?from=udn-catebreaknews_ch2",
+            "time": "2025-02-10 02:05"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/08/realtime/31460726.jpg&s=Y&x=0&y=14&sw=2024&sh=1348&exp=3600&w=300",
             "title": "【張曼娟專欄】張曼娟／亮亮的房間",
             "link": "https://udn.com//news/story/7272/8535646?from=udn-catebreaknews_ch2",
             "time": "2025-02-10 01:01"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_0.jpg&w=300",
             "title": "【慢慢讀，詩】小宅一樹／讓我們別談論發生了什麼事",
             "link": "https://udn.com//news/story/7272/8535659?from=udn-catebreaknews_ch2",
             "time": "2025-02-10 00:58"
@@ -23,12 +29,6 @@
             "title": "入冬最強寒流 連6天每天50人猝死",
             "link": "https://udn.com//news/story/7266/8537583?from=udn-catebreaknews_ch2",
             "time": "2025-02-10 00:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/09/realtime/31466263.jpg&s=Y&x=0&y=164&sw=4000&sh=2667&exp=3600&w=300",
-            "title": "台北書展57萬人次 逼近疫前水準",
-            "link": "https://udn.com//news/story/7266/8537584?from=udn-catebreaknews_ch2",
-            "time": "2025-02-10 00:32"
         }
     ]
 }
