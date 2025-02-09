@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/12/04/2/27871323.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股成功回補缺口…上周僅小跌0.2% 周一留意台積電營收",
+            "link": "https://udn.com//news/story/7251/8537280?from=udn-catebreaknews_ch2",
+            "time": "2025-02-09 18:42"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/09/0/31466195.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "新春開盤台股跌800點 資深投資人：這波大震盪只是前菜",
             "link": "https://udn.com//news/story/12806/8537239?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "未來一周美股聚焦三大觀察變數",
             "link": "https://udn.com//news/story/7251/8537018?from=udn-catebreaknews_ch2",
             "time": "2025-02-09 14:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/05/2/31442694.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "川普揮舞關稅大刀 台股AI主軸不變債券重回避險角色",
-            "link": "https://udn.com//news/story/7251/8536750?from=udn-catebreaknews_ch2",
-            "time": "2025-02-09 12:14"
         }
     ]
 }
