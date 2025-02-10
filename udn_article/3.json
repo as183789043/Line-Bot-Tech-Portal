@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/11/realtime/31473448.jpg&s=Y&x=0&y=0&sw=5848&sh=3989&exp=3600&w=300",
+            "title": "美股受AI股提振收高 輝達連五漲 鋼鐵股因川普關稅大漲",
+            "link": "https://udn.com//news/story/6811/8540124?from=udn-catebreaknews_ch2",
+            "time": "2025-02-11 06:53"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/02/11/31473312.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "無視川普鋼鋁關稅 科技股帶動美股收高",
             "link": "https://udn.com//news/story/6811/8540080?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2025-02-11 05:50"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
             "title": "川普宣布將對鋼鋁加徵25%關稅 推出對等關稅",
             "link": "https://udn.com//news/story/124373/8539784?from=udn-catebreaknews_ch2",
             "time": "2025-02-11 05:26"
@@ -23,12 +29,6 @@
             "title": "徵外國鋼鋁品25％關稅在即 川普延後簽行政命令…可能台灣時間今或明天",
             "link": "https://udn.com//news/story/124373/8540053?from=udn-catebreaknews_ch2",
             "time": "2025-02-11 04:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
-            "title": "白宮國安顧問：本周有望商討俄烏終戰",
-            "link": "https://udn.com//news/story/6809/8539854?from=udn-catebreaknews_ch2",
-            "time": "2025-02-11 03:55"
         }
     ]
 }
