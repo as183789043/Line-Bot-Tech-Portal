@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/10/realtime/31471891.jpg&s=Y&x=50&y=0&sw=1788&sh=1193&exp=3600&w=300",
+            "title": "聯發科1月營收突破500億元 創歷年同期新高",
+            "link": "https://udn.com//news/story/7253/8539373?from=udn-catebreaknews_ch2",
+            "time": "2025-02-10 18:17"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/05/2/31444269.jpg&s=Y&x=0&y=0&sw=1266&sh=844&exp=3600&w=300",
+            "title": "外資賣超188.9億元 買賣超冠軍竟都是金融股",
+            "link": "https://udn.com//news/story/7251/8539328?from=udn-catebreaknews_ch2",
+            "time": "2025-02-10 17:57"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/02/2/31010586.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "川普對鋼鋁課稅25% 為何亞洲鋼鐵股都跌只有台灣大漲？",
             "link": "https://udn.com//news/story/7251/8539236?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台達電營收／1月373.86億元、月減3.5% 為同期新高",
             "link": "https://udn.com//news/story/7253/8539044?from=udn-catebreaknews_ch2",
             "time": "2025-02-10 16:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/24/98/31373937.jpg&s=Y&x=8&y=0&sw=1238&sh=825&exp=3600&w=300",
-            "title": "鴻海營收／1月5,387億元、同期次高AI雲端產品拉貨動能強",
-            "link": "https://udn.com//news/story/7253/8538985?from=udn-catebreaknews_ch2",
-            "time": "2025-02-10 15:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/05/realtime/31444427.jpg&s=Y&x=0&y=0&sw=4000&sh=2668&exp=3600&w=300",
-            "title": "台積電地震影響說明 初估首季將認列相關損失約53億元",
-            "link": "https://udn.com//news/story/7253/8538958?from=udn-catebreaknews_ch2",
-            "time": "2025-02-10 15:36"
         }
     ]
 }
