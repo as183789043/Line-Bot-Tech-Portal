@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/11/realtime/31478504.jpg&s=Y&x=0&y=0&sw=4903&sh=3269&exp=3600&w=300",
+            "title": "關稅陰影揮不去！美股早盤走跌 蘋果逆勢漲逾1%",
+            "link": "https://udn.com//news/story/6811/8542129?from=udn-catebreaknews_ch2",
+            "time": "2025-02-11 22:46"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/11/realtime/31478503.jpg&s=Y&x=0&y=0&sw=4338&sh=2892&exp=3600&w=300",
+            "title": "「企業在玩火」 BBC：AI對新聞總結存在嚴重錯誤與扭曲",
+            "link": "https://udn.com//news/story/6811/8542128?from=udn-catebreaknews_ch2",
+            "time": "2025-02-11 22:46"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/11/0/31478438.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "軍援要「等價回報」不當傻子 川普：烏克蘭有一天可能是俄羅斯的",
+            "link": "https://udn.com//news/story/121777/8541792?from=udn-catebreaknews_ch2",
+            "time": "2025-02-11 22:14"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/11/98/31478437.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "憂台灣有事 美日防長會談最快3月下旬日本登場",
             "link": "https://udn.com//news/story/6809/8542070?from=udn-catebreaknews_ch2",
@@ -8,27 +26,9 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/11/realtime/31478434.jpg&s=Y&x=0&y=0&sw=1280&sh=852&exp=3600&w=300",
-            "title": "OpenAI是非賣品！馬斯克開價3.2兆元欲收購 奧特曼疑他使出拖延戰術",
-            "link": "https://udn.com//news/story/6809/8542073?from=udn-catebreaknews_ch2",
+            "title": "OpenAI是非賣品！馬斯克開價3.2兆元收購 奧特曼：他耍拖延戰術",
+            "link": "https://udn.com//news/story/6811/8542073?from=udn-catebreaknews_ch2",
             "time": "2025-02-11 22:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/11/realtime/31478423.png&s=Y&x=0&y=12&sw=1716&sh=1144&exp=3600&w=300",
-            "title": "中日關係和緩？釣魚台附近浮標被移除 陸外交部稱已完成任務",
-            "link": "https://udn.com//news/story/6809/8542065?from=udn-catebreaknews_ch2",
-            "time": "2025-02-11 22:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/11/98/31478321.jpg&s=Y&x=0&y=148&sw=680&sh=453&exp=3600&w=300",
-            "title": "歐洲望遠鏡發現罕見愛因斯坦環 有助探索暗物質",
-            "link": "https://udn.com//news/story/6812/8541332?from=udn-catebreaknews_ch2",
-            "time": "2025-02-11 21:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/11/realtime/31478316.jpg&s=Y&x=0&y=0&sw=6645&sh=4430&exp=3600&w=300",
-            "title": "跟進川普下通牒 以色列通訊部長：向哈瑪斯敞開地獄大門",
-            "link": "https://udn.com//news/story/6809/8542034?from=udn-catebreaknews_ch2",
-            "time": "2025-02-11 21:33"
         }
     ]
 }
