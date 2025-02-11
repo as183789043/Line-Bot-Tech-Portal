@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/11/realtime/31477252.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "精測去年Q4每股賺近一個股本、季增逾兩倍 全年每股純益15.55元",
+            "link": "https://udn.com//news/story/7254/8541573?from=udn-catebreaknews_ch2",
+            "time": "2025-02-11 17:21"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/22/2/31351617.jpg&s=Y&x=0&y=0&sw=1183&sh=789&exp=3600&w=300",
             "title": "太空利多連發！無懼川普政策威脅 00910量價俱揚",
             "link": "https://udn.com//news/story/123006/8541527?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股上漲131點 三大法人買超118億元",
             "link": "https://udn.com//news/story/7251/8541240?from=udn-catebreaknews_ch2",
             "time": "2025-02-11 15:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/07/2/31454203.jpg&s=Y&x=24&y=56&sw=1000&sh=667&exp=3600&w=300",
-            "title": "營建股又熱了？大將攻漲停 皇昌爆出歷史天量",
-            "link": "https://udn.com//news/story/7252/8541208?from=udn-catebreaknews_ch2",
-            "time": "2025-02-11 15:05"
         }
     ]
 }
