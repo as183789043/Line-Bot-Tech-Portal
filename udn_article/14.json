@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/11/0/31475843.jpg&s=Y&x=284&y=0&sw=916&sh=611&exp=3600&w=300",
+            "title": "台鐵漲票價補虧損和高鐵差多少 沒說清楚什麼事？",
+            "link": "https://udn.com//news/story/6841/8540995?from=udn-catebreaknews_ch2",
+            "time": "2025-02-11 13:47"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/11/0/31474869.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "德國不只找台積電設廠 還揪台攻先進封裝研究！為何他說這不只為了歐洲汽車業？",
             "link": "https://udn.com//news/story/6839/8540589?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "DeepSeek真能撼動輝達、台積電？專家：2025短空長多 保留現金降低槓桿",
             "link": "https://udn.com//news/story/6839/8538366?from=udn-catebreaknews_ch2",
             "time": "2025-02-10 12:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/10/draft/31467893.jpg&s=Y&x=20&y=0&sw=585&sh=390&exp=3600&w=300",
-            "title": "不只手機 研究：空氣污染也會干擾注意力",
-            "link": "https://udn.com//news/story/6897/8537910?from=udn-catebreaknews_ch2",
-            "time": "2025-02-10 10:05"
         }
     ]
 }
