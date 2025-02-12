@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/12/realtime/31484293.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "MSCI調高台股權重 證交所：不代表台股資金流向",
+            "link": "https://udn.com//news/story/7251/8544471?from=udn-catebreaknews_ch2",
+            "time": "2025-02-12 21:48"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/12/98/31484017.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台股開高收黑土洋對作 外資買超逾26億…積極布局這兩類股",
             "link": "https://udn.com//news/story/7251/8544186?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "力旺法說會／報喜！去年營收、獲利雙創新高",
             "link": "https://udn.com//news/story/7254/8544060?from=udn-catebreaknews_ch2",
             "time": "2025-02-12 17:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/06/98/31445944.jpg&s=Y&x=156&y=0&sw=1076&sh=717&exp=3600&w=300",
-            "title": "今年來基金規模成長前十大 科技、美股及債券居多",
-            "link": "https://udn.com//news/story/7251/8543999?from=udn-catebreaknews_ch2",
-            "time": "2025-02-12 17:18"
         }
     ]
 }
