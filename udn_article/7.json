@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/12/realtime/31480665.png&s=Y&x=0&y=340&sw=1024&sh=683&exp=3600&w=300",
+            "title": "MSCI調高台股權重 台股漲不動有原因",
+            "link": "https://udn.com//news/story/7251/8542979?from=udn-catebreaknews_ch2",
+            "time": "2025-02-12 11:25"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/09/realtime/31466745.jpg&s=Y&x=0&y=13&sw=1889&sh=1258&exp=3600&w=300",
             "title": "分析師看台股「蛇年可以積極進場」！00878配息0.5元年化估算9％",
             "link": "https://udn.com//news/story/123006/8542930?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "00878配息微縮水！年化殖利率仍有9% 雷龍試算：22.2元以下購入都有好報酬",
             "link": "https://udn.com//news/story/123006/8542781?from=udn-catebreaknews_ch2",
             "time": "2025-02-12 10:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/12/realtime/31480326.jpg&s=Y&x=274&y=0&sw=270&sh=181&exp=3600&w=300",
-            "title": "2025年ETF吹高債息風 00981B第一金美元優選非投債10元發行登場",
-            "link": "https://udn.com//news/story/123006/8542785?from=udn-catebreaknews_ch2",
-            "time": "2025-02-12 10:20"
         }
     ]
 }
