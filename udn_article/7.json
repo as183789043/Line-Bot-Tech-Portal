@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/12/realtime/31484579.jpg&s=Y&x=0&y=0&sw=5445&sh=3519&exp=3600&w=300",
+            "title": "MSCI三指數 上調台股權重",
+            "link": "https://udn.com//news/story/7251/8544637?from=udn-catebreaknews_ch2",
+            "time": "2025-02-13 00:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/12/2/31482761.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "台積Q4配息4.5元 發1167億",
             "link": "https://udn.com//news/story/7253/8544635?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股開高收黑土洋對作 外資買超逾26億…積極布局這兩類股",
             "link": "https://udn.com//news/story/7251/8544186?from=udn-catebreaknews_ch2",
             "time": "2025-02-12 20:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/05/realtime/31444715.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
-            "title": "聚焦腦部疾病治療 浩宇生醫2月14日起競拍、暫定3月上櫃",
-            "link": "https://udn.com//news/story/7254/8544194?from=udn-catebreaknews_ch2",
-            "time": "2025-02-12 19:08"
         }
     ]
 }
