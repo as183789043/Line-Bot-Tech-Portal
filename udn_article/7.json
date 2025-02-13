@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/14/realtime/30267117.jpg&s=Y&x=0&y=0&sw=1700&sh=1129&exp=3600&w=300",
+            "title": "惠特營收年增114.3% 13日股價強拉漲停",
+            "link": "https://udn.com//news/story/7253/8545843?from=udn-catebreaknews_ch2",
+            "time": "2025-02-13 13:54"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/09/98/31464151.jpg&s=Y&x=0&y=0&sw=1024&sh=683&exp=3600&w=300",
+            "title": "台股上漲109點收23,399點 台積電下跌10元收1,090元",
+            "link": "https://udn.com//news/story/7251/8545814?from=udn-catebreaknews_ch2",
+            "time": "2025-02-13 13:44"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/13/2/31487642.jpg&s=Y&x=0&y=104&sw=1280&sh=853&exp=3600&w=300",
             "title": "台中新光三越氣爆 遠百盤中股價一度急拉",
             "link": "https://udn.com//news/story/7252/8545681?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "川普推動結束俄烏戰爭 散裝航運大漲、裕民盤中亮燈",
             "link": "https://udn.com//news/story/7251/8545561?from=udn-catebreaknews_ch2",
             "time": "2025-02-13 12:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/13/2/31487298.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
-            "title": "PMIC谷底已過？世界先進股價反彈",
-            "link": "https://udn.com//news/story/7252/8545504?from=udn-catebreaknews_ch2",
-            "time": "2025-02-13 12:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/13/2/31487072.jpg&s=Y&x=0&y=0&sw=1242&sh=828&exp=3600&w=300",
-            "title": "6檔規模百億以上市值型ETF 這檔近1月績效跑第一",
-            "link": "https://udn.com//news/story/123006/8545482?from=udn-catebreaknews_ch2",
-            "time": "2025-02-13 11:56"
         }
     ]
 }
