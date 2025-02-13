@@ -1,3 +1,34 @@
 {
-    "評論": []
+    "評論": [
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/13/realtime/31487542.jpg&s=Y&x=127&y=0&sw=1353&sh=903&exp=3600&w=300",
+            "title": "【重磅快評】積沙成塔 換小型能源設施當家！",
+            "link": "https://udn.com//news/story/11091/8545647?from=udn-catebreaknews_ch2",
+            "time": "2025-02-13 12:47"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/13/realtime/31487044.jpg&s=Y&x=203&y=0&sw=5529&sh=3686&exp=3600&w=300",
+            "title": "【重磅快評】教授共用小三原因 諷刺的是賴清德錯置因果",
+            "link": "https://udn.com//news/story/11091/8545479?from=udn-catebreaknews_ch2",
+            "time": "2025-02-13 11:55"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/13/realtime/31486783.jpg&s=Y&x=0&y=17&sw=2420&sh=1612&exp=3600&w=300",
+            "title": "【重磅快評】晶片課稅等待宣判 台積電低調藏玄機",
+            "link": "https://udn.com//news/story/11091/8545351?from=udn-catebreaknews_ch2",
+            "time": "2025-02-13 11:12"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/13/realtime/31485476.jpg&s=Y&x=0&y=0&sw=3966&sh=2681&exp=3600&w=300",
+            "title": "【專家之眼】賴政府擋陸客團 消耗業者資源與地方心意",
+            "link": "https://udn.com//news/story/121823/8544914?from=udn-catebreaknews_ch2",
+            "time": "2025-02-13 07:33"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/06/2/31449291.jpg&s=Y&x=12&y=16&sw=1237&sh=825&exp=3600&w=300",
+            "title": "經濟日報社論／老屋延壽治標 老屋重建才治本",
+            "link": "https://udn.com//news/story/7338/8544632?from=udn-catebreaknews_ch2",
+            "time": "2025-02-13 03:00"
+        }
+    ]
 }
