@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/13/realtime/31490609.jpg&s=Y&x=32&y=0&sw=1353&sh=903&exp=3600&w=300",
+            "title": "回應國民黨立委質疑 財部：110至112年中央減債逾7800億元",
+            "link": "https://udn.com//news/story/12720/8546836?from=udn-catebreaknews_ch2",
+            "time": "2025-02-13 20:44"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/13/realtime/31486786.jpg&s=Y&x=0&y=0&sw=5154&sh=3440&exp=3600&w=300",
             "title": "再有4藍綠立委面臨罷免 中選會開工迄今收51件立委罷免案",
             "link": "https://udn.com//news/story/124323/8546794?from=udn-catebreaknews_ch2",
@@ -8,7 +14,7 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/13/1/31490551.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "【重磅快評】檢方告訴我們的事：中共其實期待綠營繼續執政？",
+            "title": "【重磅快評】檢方告訴我們的事：中共期待綠營繼續執政？",
             "link": "https://udn.com//news/story/6656/8546790?from=udn-catebreaknews_ch2",
             "time": "2025-02-13 20:21"
         },
@@ -19,16 +25,10 @@
             "time": "2025-02-13 20:21"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/13/realtime/31490544.jpg&s=Y&x=0&y=0&sw=2048&sh=1365&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/13/realtime/31490544.jpg&s=Y&x=136&y=88&sw=1913&sh=1276&exp=3600&w=300",
             "title": "總預算僵局有解？卓榮泰、韓國瑜達共識 邀朝野協商找解方",
             "link": "https://udn.com//news/story/124381/8546778?from=udn-catebreaknews_ch2",
             "time": "2025-02-13 20:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/13/realtime/31490479.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "海軍士兵持有大陸身分證 陸委會：保留台灣身分",
-            "link": "https://udn.com//news/story/10930/8546721?from=udn-catebreaknews_ch2",
-            "time": "2025-02-13 19:43"
         }
     ]
 }
