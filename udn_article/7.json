@@ -1,8 +1,20 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/13/realtime/31490293.jpg&s=Y&x=0&y=0&sw=2172&sh=1449&exp=3600&w=300",
+            "title": "市值型ETF重獲關注 24日開募009802一原因不含台積電",
+            "link": "https://udn.com//news/story/123006/8546625?from=udn-catebreaknews_ch2",
+            "time": "2025-02-13 18:45"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/12/realtime/31480665.png&s=Y&x=0&y=340&sw=1024&sh=683&exp=3600&w=300",
+            "title": "台股基金受益人持續成長 行情震盪吸引投資人逢低布局",
+            "link": "https://udn.com//news/story/7251/8546589?from=udn-catebreaknews_ch2",
+            "time": "2025-02-13 18:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/13/realtime/31489746.jpg&s=Y&x=0&y=0&sw=3840&sh=2585&exp=3600&w=300",
-            "title": "旺宏首季每股虧損0.84元 今年多管齊下力拚轉盈",
+            "title": "旺宏去年第4季每股虧損0.84元 今年多管齊下力拚轉盈",
             "link": "https://udn.com//news/story/7253/8546464?from=udn-catebreaknews_ch2",
             "time": "2025-02-13 17:32"
         },
@@ -17,18 +29,6 @@
             "title": "00757成分股集中波動大是迷思？與0050、0052一比！三張圖解「選股眉角」",
             "link": "https://udn.com//news/story/123006/8546181?from=udn-catebreaknews_ch2",
             "time": "2025-02-13 16:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/16/2/30531794.jpg&s=Y&x=0&y=0&sw=1274&sh=849&exp=3600&w=300",
-            "title": "日月光投控去年每股賺7.52元 先進封測營收逾6億美元",
-            "link": "https://udn.com//news/story/7253/8546156?from=udn-catebreaknews_ch2",
-            "time": "2025-02-13 15:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/13/realtime/31488712.jpg&s=Y&x=0&y=336&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "友達將再賣友達晶材廠予美光 估獲利18億元",
-            "link": "https://udn.com//news/story/7253/8546073?from=udn-catebreaknews_ch2",
-            "time": "2025-02-13 15:17"
         }
     ]
 }
