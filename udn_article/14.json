@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/03/98/31430722.jpg&s=Y&x=0&y=0&sw=1133&sh=755&exp=3600&w=300",
+            "title": "企業團保 究竟是誰的保險？",
+            "link": "https://udn.com//news/story/6854/8545012?from=udn-catebreaknews_ch2",
+            "time": "2025-02-13 14:24"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/13/draft/31487000.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
             "title": "美股挺川普 恐怕挺不住",
             "link": "https://udn.com//news/story/6851/8545454?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "謝金河：AI應用全面擴散",
             "link": "https://udn.com//news/story/6851/8545413?from=udn-catebreaknews_ch2",
             "time": "2025-02-13 14:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/13/draft/31486923.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "邊緣AI 4大商機噴發",
-            "link": "https://udn.com//news/story/6851/8545394?from=udn-catebreaknews_ch2",
-            "time": "2025-02-13 14:02"
         }
     ]
 }
