@@ -1,7 +1,19 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/02/15/31497758.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "關注貿易和通膨動態 美股三大指數本周均上漲",
+            "link": "https://udn.com//news/story/6811/8549631?from=udn-catebreaknews_ch2",
+            "time": "2025-02-15 05:53"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/14/realtime/31497141.png&s=Y&x=0&y=11&sw=1667&sh=1110&exp=3600&w=300",
+            "title": "川普祭對等關稅 一圖看各國平均進口關稅、美前10大貿易逆差國",
+            "link": "https://udn.com//news/story/124373/8549527?from=udn-catebreaknews_ch2",
+            "time": "2025-02-15 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
             "title": "莫迪允大買油氣 美增加對印度軍售",
             "link": "https://udn.com//news/story/6813/8549532?from=udn-catebreaknews_ch2",
             "time": "2025-02-15 04:08"
@@ -17,18 +29,6 @@
             "title": "美印太司令：陸若攻台 會以軍演掩飾",
             "link": "https://udn.com//news/story/6809/8549533?from=udn-catebreaknews_ch2",
             "time": "2025-02-15 02:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/14/realtime/31496343.jpg&s=Y&x=0&y=37&sw=5107&sh=3404&exp=3600&w=300",
-            "title": "核武也要減！川普擬會普、習 籲國防預算減半",
-            "link": "https://udn.com//news/story/6809/8549535?from=udn-catebreaknews_ch2",
-            "time": "2025-02-15 02:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/15/realtime/31497258.jpg&s=Y&x=0&y=0&sw=5424&sh=3616&exp=3600&w=300",
-            "title": "馬斯克掌效率部 美多州控非法",
-            "link": "https://udn.com//news/story/121777/8549531?from=udn-catebreaknews_ch2",
-            "time": "2025-02-15 02:09"
         }
     ]
 }
