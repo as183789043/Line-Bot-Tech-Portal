@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/14/98/31496838.jpg&s=Y&x=64&y=100&sw=1129&sh=753&exp=3600&w=300",
+            "title": "蔡英文：台灣未來挑戰比過去8年困難  請支持賴總統",
+            "link": "https://udn.com//news/story/6656/8549258?from=udn-catebreaknews_ch2",
+            "time": "2025-02-14 21:58"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/14/98/31496748.jpg&s=Y&x=84&y=12&sw=1195&sh=797&exp=3600&w=300",
             "title": "國防預算將增至GDP3% 學者促提採購神盾艦等主戰儎台",
             "link": "https://udn.com//news/story/10930/8549166?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "黨部表態支持民團 新北民進黨公職設58連署書代收站",
             "link": "https://udn.com//news/story/124323/8549072?from=udn-catebreaknews_ch2",
             "time": "2025-02-14 19:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/14/realtime/31493317.jpg&s=Y&x=24&y=16&sw=5476&sh=3651&exp=3600&w=300",
-            "title": "為化解總預算僵局 韓國瑜18日召集朝野協商討論",
-            "link": "https://udn.com//news/story/124381/8548970?from=udn-catebreaknews_ch2",
-            "time": "2025-02-14 18:10"
         }
     ]
 }
