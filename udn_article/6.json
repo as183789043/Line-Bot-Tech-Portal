@@ -1,7 +1,19 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/02/realtime/31201214.jpg&s=Y&x=97&y=0&sw=1035&sh=691&exp=3600&w=300",
+            "title": "憂房價愈漲愈高 她買下新建案交屋後才發現「房屋產權不清楚」",
+            "link": "https://udn.com//news/story/121591/8549311?from=udn-catebreaknews_ch2",
+            "time": "2025-02-16 05:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_7.jpg&w=300",
+            "title": "DeepSeek夯 字節跳動自省「不夠創新」",
+            "link": "https://udn.com//news/story/7240/8550838?from=udn-catebreaknews_ch2",
+            "time": "2025-02-16 04:03"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_2.jpg&w=300",
             "title": "占股權7成 外資恐拒台積跳錢坑",
             "link": "https://udn.com//news/story/124386/8551007?from=udn-catebreaknews_ch2",
             "time": "2025-02-16 03:32"
@@ -13,22 +25,10 @@
             "time": "2025-02-16 03:30"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/15/realtime/31501857.jpg&s=Y&x=71&y=0&sw=822&sh=548&exp=3600&w=300",
-            "title": "5年堅守愛心！伊絲碧媞春酒盛宴 攜手台中市府做公益",
-            "link": "https://udn.com//news/story/7241/8550808?from=udn-catebreaknews_ch2",
-            "time": "2025-02-15 22:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/15/realtime/31501491.jpg&s=Y&x=0&y=0&sw=1374&sh=916&exp=3600&w=300",
-            "title": "專利申請件數台積電9連冠 外國人部分美國應材擠下三星",
-            "link": "https://udn.com//news/story/7240/8550662?from=udn-catebreaknews_ch2",
-            "time": "2025-02-15 19:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/15/98/31499802.jpg&s=Y&x=4&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "吳誠文：願以台灣為基地 助友善民主國家發展半導體",
-            "link": "https://udn.com//news/story/7240/8550189?from=udn-catebreaknews_ch2",
-            "time": "2025-02-15 13:45"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/13/realtime/31486871.jpg&s=Y&x=88&y=0&sw=2784&sh=1856&exp=3600&w=300",
+            "title": "彭博：台積考慮接英特爾晶圓廠 白宮官員透露川普可能不支持",
+            "link": "https://udn.com//news/story/7240/8550963?from=udn-catebreaknews_ch2",
+            "time": "2025-02-16 02:36"
         }
     ]
 }
