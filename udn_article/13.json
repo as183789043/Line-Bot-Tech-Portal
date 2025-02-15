@@ -1,6 +1,18 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/13/draft/31489157.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "沖繩大型叢林主題樂園「JUNGLIA OKINAWA」將於今年7/25盛大開幕！",
+            "link": "https://udn.com//news/story/9659/8546152?from=udn-catebreaknews_ch2",
+            "time": "2025-02-15 14:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/15/realtime/31499631.jpg&s=Y&x=0&y=0&sw=1566&sh=1044&exp=3600&w=300",
+            "title": "奇巧食品入股旗山龍鳳 水餃火鍋專賣店今夏台中登場",
+            "link": "https://udn.com//news/story/7193/8550196?from=udn-catebreaknews_ch2",
+            "time": "2025-02-15 13:10"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/26/0/31393646.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
             "title": "從市場擺攤做到有店面！ 台中黎明路30年老店「阿華鵝肉」 鵝肉鮮嫩份量多、鵝湯還可免費續",
             "link": "https://udn.com//news/story/7207/8515929?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "姬路城非市民成人票價 擬2026年3月漲至2500日圓",
             "link": "https://udn.com//news/story/9650/8550050?from=udn-catebreaknews_ch2",
             "time": "2025-02-15 12:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/15/realtime/31499393.png&s=Y&x=46&y=0&sw=1857&sh=1238&exp=3600&w=300",
-            "title": "高雄捷運列車故障「緊急清車不載客」 全線班距受影響",
-            "link": "https://udn.com//news/story/7934/8550126?from=udn-catebreaknews_ch2",
-            "time": "2025-02-15 12:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/15/0/31499356.jpg&s=Y&x=0&y=0&sw=930&sh=515&exp=3600&w=300",
-            "title": "吃不消！ 國民美食價格齊喊漲 「君悅排骨」全面漲10元、「金園排骨飯」加5元",
-            "link": "https://udn.com//news/story/7193/8550073?from=udn-catebreaknews_ch2",
-            "time": "2025-02-15 12:14"
         }
     ]
 }
