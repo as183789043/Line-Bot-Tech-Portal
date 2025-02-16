@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/16/realtime/31504663.jpg&s=Y&x=113&y=0&sw=2775&sh=1851&exp=3600&w=300",
+            "title": "DeepSeek橫空出世 法人點讚3檔記憶體…受惠邊緣運算",
+            "link": "https://udn.com//news/story/7253/8551954?from=udn-catebreaknews_ch2",
+            "time": "2025-02-16 19:11"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/16/realtime/31505150.jpg&s=Y&x=0&y=0&sw=5000&sh=3335&exp=3600&w=300",
             "title": "伺服器、筆電後續看望 小摩點讚5台廠代工有望受惠",
             "link": "https://udn.com//news/story/7253/8551936?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "NAND Flash 春燕報到 報價先表態 法人看好群聯等個股將受惠",
             "link": "https://udn.com//news/story/7254/8551680?from=udn-catebreaknews_ch2",
             "time": "2025-02-16 14:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/16/2/31504249.jpg&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
-            "title": "國泰證券2月觀點：川普2.0效應市場遇亂流 中性看待",
-            "link": "https://udn.com//news/story/7251/8551424?from=udn-catebreaknews_ch2",
-            "time": "2025-02-16 12:14"
         }
     ]
 }
