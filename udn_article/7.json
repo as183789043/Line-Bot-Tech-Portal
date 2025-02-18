@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/18/realtime/31518310.jpg&s=Y&x=356&y=84&sw=813&sh=542&exp=3600&w=300",
+            "title": "旺宏攜IBM 搶AI商機",
+            "link": "https://udn.com//news/story/7253/8556508?from=udn-catebreaknews_ch2",
+            "time": "2025-02-19 06:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/17/realtime/31510979.jpg&s=Y&x=82&y=0&sw=1725&sh=1151&exp=3600&w=300",
             "title": "外資、主力加持 台積拉尾盤 台股漲160點攀七個月高點",
             "link": "https://udn.com//news/story/7251/8556862?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2025-02-19 00:59"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
             "title": "3月運價及貨量表現 牽動貨櫃三雄獲利",
             "link": "https://udn.com//news/story/7252/8556811?from=udn-catebreaknews_ch2",
             "time": "2025-02-19 00:52"
@@ -23,12 +29,6 @@
             "title": "佳能、華晶科 四檔叫好",
             "link": "https://udn.com//news/story/7255/8556805?from=udn-catebreaknews_ch2",
             "time": "2025-02-19 00:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
-            "title": "菱光犀利 選逾四個月",
-            "link": "https://udn.com//news/story/7255/8556814?from=udn-catebreaknews_ch2",
-            "time": "2025-02-19 00:04"
         }
     ]
 }
