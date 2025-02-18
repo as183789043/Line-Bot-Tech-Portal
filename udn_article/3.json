@@ -1,13 +1,19 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
+            "title": "星將發購物券 每戶1.9萬台幣",
+            "link": "https://udn.com//news/story/6811/8557005?from=udn-catebreaknews_ch2",
+            "time": "2025-02-19 01:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/18/realtime/31518133.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "白宮：馬斯克非政府效率部正式雇員 無做政府決定職權",
             "link": "https://udn.com//news/story/121777/8556948?from=udn-catebreaknews_ch2",
             "time": "2025-02-19 00:34"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
             "title": "日擬最大限度推核能、再生能源",
             "link": "https://udn.com//news/story/6811/8557006?from=udn-catebreaknews_ch2",
             "time": "2025-02-19 00:30"
@@ -19,16 +25,10 @@
             "time": "2025-02-19 00:22"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
             "title": "會談結束俄烏戰／CNN：川普恐照單全收俄條件",
             "link": "https://udn.com//news/story/122663/8556950?from=udn-catebreaknews_ch2",
             "time": "2025-02-19 00:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
-            "title": "歐洲緊急峰會 法提議在烏駐軍 德義波西拒絕",
-            "link": "https://udn.com//news/story/122663/8556953?from=udn-catebreaknews_ch2",
-            "time": "2025-02-19 00:19"
         }
     ]
 }
