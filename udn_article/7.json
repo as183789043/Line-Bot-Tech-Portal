@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/18/realtime/31514523.jpg&s=Y&x=0&y=7&sw=987&sh=658&exp=3600&w=300",
+            "title": "台股ETF受益人連2周創新猷 00919、0050等13檔同創高",
+            "link": "https://udn.com//news/story/123006/8554976?from=udn-catebreaknews_ch2",
+            "time": "2025-02-18 10:36"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/14/0/31493036.jpg&s=Y&x=144&y=48&sw=1005&sh=670&exp=3600&w=300",
             "title": "00944月配ETF不只沒降息也將回到發行價！息大大：繼00713少數值得投入的標的",
             "link": "https://udn.com//news/story/123006/8554920?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "「變形金剛」打造隨漲抗跌投資組合 統一投信推優選低波多重資產基金",
             "link": "https://udn.com//news/story/10103/8554867?from=udn-catebreaknews_ch2",
             "time": "2025-02-18 09:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/18/realtime/31514069.jpg&s=Y&x=84&y=0&sw=732&sh=489&exp=3600&w=300",
-            "title": "AI需求推升半導體前景可期 00927僅12個交易日填息達陣",
-            "link": "https://udn.com//news/story/123006/8554856?from=udn-catebreaknews_ch2",
-            "time": "2025-02-18 09:43"
         }
     ]
 }
