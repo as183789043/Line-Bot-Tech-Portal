@@ -1,6 +1,12 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/17/draft/31509437.jpg&s=Y&x=0&y=8&sw=940&sh=626&exp=3600&w=300",
+            "title": "集英社免費的官方漫畫閱讀App「少年Jump+」迎來十週年 推出紀念展覽！",
+            "link": "https://udn.com//news/story/9650/8552723?from=udn-catebreaknews_ch2",
+            "time": "2025-02-19 10:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/18/draft/31512889.jpg&s=Y&x=0&y=0&sw=1087&sh=720&exp=3600&w=300",
             "title": "來熱海度假享受溫泉與海灘吧！靜岡熱海不可錯過的景點與美食精選～(上)",
             "link": "https://udn.com//news/story/9650/8554596?from=udn-catebreaknews_ch2",
@@ -13,22 +19,16 @@
             "time": "2025-02-19 08:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/18/1/31518059.jpg&s=Y&x=0&y=0&sw=1280&sh=712&exp=3600&w=300",
-            "title": "迎接「世界地瓜日」！7-ELEVEN推精選商品限時優惠　「日本7PREMIUM蜜糖地瓜」回歸",
-            "link": "https://udn.com//news/story/7193/8556361?from=udn-catebreaknews_ch2",
-            "time": "2025-02-18 18:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/18/realtime/31517934.jpg&s=Y&x=0&y=12&sw=800&sh=532&exp=3600&w=300",
-            "title": "相挺Team Taiwan！台灣隊每得1分兩大美式餐廳酒水折5%",
-            "link": "https://udn.com//news/story/7187/8556310?from=udn-catebreaknews_ch2",
-            "time": "2025-02-18 18:18"
-        },
-        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/15/0/31499743.jpg&s=Y&x=0&y=54&sw=944&sh=629&exp=3600&w=300",
             "title": "恆春半島雙佛之一！牡丹鄉高士佛山　意外訪得高士佛神木",
             "link": "https://udn.com//news/story/7209/8550239?from=udn-catebreaknews_ch2",
-            "time": "2025-02-18 16:30"
+            "time": "2025-02-19 07:30"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/19/realtime/31519191.jpg&s=Y&x=0&y=96&sw=1200&sh=800&exp=3600&w=300",
+            "title": "青杉燒肉「5款牛舌套餐」260元起　北海道米飯無限吃",
+            "link": "https://udn.com//news/story/7193/8557009?from=udn-catebreaknews_ch2",
+            "time": "2025-02-19 00:29"
         }
     ]
 }
