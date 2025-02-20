@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/02/realtime/31426426.jpg&s=Y&x=0&y=0&sw=3180&sh=2120&exp=3600&w=300",
+            "title": "泡沫消風",
+            "link": "https://udn.com//news/story/6854/8559542?from=udn-catebreaknews_ch2",
+            "time": "2025-02-20 15:27"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/20/draft/31527549.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
             "title": "橫盤格局也有好投資",
             "link": "https://udn.com//news/story/6851/8560248?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "謝金河：台積電帶給台股新難題",
             "link": "https://udn.com//news/story/6851/8560146?from=udn-catebreaknews_ch2",
             "time": "2025-02-20 14:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/20/draft/31527361.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "無差別關稅戰",
-            "link": "https://udn.com//news/story/6851/8560134?from=udn-catebreaknews_ch2",
-            "time": "2025-02-20 14:48"
         }
     ]
 }
