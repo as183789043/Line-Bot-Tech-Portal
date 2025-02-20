@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/20/draft/31527142.jpg&s=Y&x=165&y=0&sw=951&sh=635&exp=3600&w=300",
+            "title": "晶圓代工廠擴產效應顯現─昇陽半導體",
+            "link": "https://udn.com//news/story/6850/8560026?from=udn-catebreaknews_ch2",
+            "time": "2025-02-20 11:14"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/20/0/31527078.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "比亞迪智駕車只要30萬！與DeepSeek使出「核彈級」戰略 特斯拉自駕神主牌要被砸？",
+            "link": "https://udn.com//news/story/6839/8559985?from=udn-catebreaknews_ch2",
+            "time": "2025-02-20 10:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/20/0/31527028.jpg&s=Y&x=0&y=0&sw=1242&sh=828&exp=3600&w=300",
             "title": "送錢給美國不如將台幣升值！拆解對等關稅台灣最該擔心的事：別等川普提更激烈方案",
             "link": "https://udn.com//news/story/6839/8559929?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "KKday、91APP都它客戶！「昕奇雲端」握綁定客戶王牌 第2季拚興櫃轉上櫃",
             "link": "https://udn.com//news/story/6839/8557724?from=udn-catebreaknews_ch2",
             "time": "2025-02-19 13:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/19/draft/31521334.jpg&s=Y&x=95&y=0&sw=705&sh=470&exp=3600&w=300",
-            "title": "把碗盤陶瓷 變半導體關鍵耗材！台灣精材曾財務嚴峻「員工3個月沒薪」...如何翻身將上櫃？",
-            "link": "https://udn.com//news/story/6839/8557718?from=udn-catebreaknews_ch2",
-            "time": "2025-02-19 13:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/19/draft/31521321.jpg&s=Y&x=95&y=0&sw=705&sh=470&exp=3600&w=300",
-            "title": "主動式ETF來了！管理費比你熟悉的基金更便宜 中小型股恐震盪加劇...效應全解讀",
-            "link": "https://udn.com//news/story/6839/8557716?from=udn-catebreaknews_ch2",
-            "time": "2025-02-19 13:52"
         }
     ]
 }
