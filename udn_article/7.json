@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/2/31191387.jpg&s=Y&x=0&y=0&sw=1025&sh=683&exp=3600&w=300",
+            "title": "台股本週漲逾577點 上市公司總市值衝上76兆",
+            "link": "https://udn.com//news/story/7251/8563651?from=udn-catebreaknews_ch2",
+            "time": "2025-02-21 19:11"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/13/realtime/31490776.jpg&s=Y&x=0&y=12&sw=1889&sh=1258&exp=3600&w=300",
+            "title": "安聯投信：台股利空暫淡化 周線收紅",
+            "link": "https://udn.com//news/story/7251/8563593?from=udn-catebreaknews_ch2",
+            "time": "2025-02-21 18:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/2/31190432.jpg&s=Y&x=0&y=0&sw=1025&sh=683&exp=3600&w=300",
             "title": "外資買超176億元 竟大買這檔高息ETF逾3.9萬張",
             "link": "https://udn.com//news/story/7251/8563479?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "買氣爆棚！00757規模創歷史新高",
             "link": "https://udn.com//news/story/123006/8563369?from=udn-catebreaknews_ch2",
             "time": "2025-02-21 16:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/2/31190270.jpg&s=Y&x=24&y=0&sw=873&sh=582&exp=3600&w=300",
-            "title": "買盤不愛 2025年第二檔ETF將下市",
-            "link": "https://udn.com//news/story/123006/8563339?from=udn-catebreaknews_ch2",
-            "time": "2025-02-21 16:38"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/17/realtime/31510979.jpg&s=Y&x=82&y=0&sw=1725&sh=1151&exp=3600&w=300",
-            "title": "台股周線收紅 市場等待川普關稅政策及輝達財報",
-            "link": "https://udn.com//news/story/7251/8563303?from=udn-catebreaknews_ch2",
-            "time": "2025-02-21 16:28"
         }
     ]
 }
