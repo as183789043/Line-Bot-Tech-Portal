@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/15/2/31498939.jpg&s=Y&x=400&y=96&sw=801&sh=534&exp=3600&w=300",
+            "title": "台股上漲242點 三大法人買超167億元",
+            "link": "https://udn.com//news/story/7251/8563130?from=udn-catebreaknews_ch2",
+            "time": "2025-02-21 15:06"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/21/2/31534515.jpg&s=Y&x=0&y=52&sw=992&sh=661&exp=3600&w=300",
             "title": "台股上漲242點收23,730點 台積電上漲15元收1,095元",
             "link": "https://udn.com//news/story/7251/8562921?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "00757跟00924擁「美股8巨頭」該怎選？股添樂：這檔績效逆天長抱相對低波動選它",
             "link": "https://udn.com//news/story/123006/8562777?from=udn-catebreaknews_ch2",
             "time": "2025-02-21 12:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/17/0/31508828.jpg&s=Y&x=280&y=116&sw=997&sh=665&exp=3600&w=300",
-            "title": "00905、00922…市值型ETF鬆綁台積電占比30％限制？股添樂：績效不見得會輸0050",
-            "link": "https://udn.com//news/story/123006/8562640?from=udn-catebreaknews_ch2",
-            "time": "2025-02-21 11:49"
         }
     ]
 }
