@@ -1,12 +1,6 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/22/realtime/31541832.png&s=Y&x=0&y=23&sw=3333&sh=2222&exp=3600&w=300",
-            "title": "外籍人士在台交通死傷攀高 圖解6大肇因 去年機車車禍最多",
-            "link": "https://udn.com//news/story/7314/8565561?from=udn-catebreaknews_ch2",
-            "time": "2025-02-23 05:50"
-        },
-        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/23/realtime/31542071.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
             "title": "【總編開箱】業務停擺就釋憲？監察院的雙標與存在危機",
             "link": "https://udn.com//news/story/124381/8565618?from=udn-catebreaknews_ch2",
@@ -20,7 +14,7 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/22/realtime/31540830.jpg&s=Y&x=672&y=712&sw=3527&sh=2351&exp=3600&w=300",
-            "title": "醫中門診設限惹議 健保署：屬合理",
+            "title": "醫學中心門診設限惹議 健保署：屬合理",
             "link": "https://udn.com//news/story/124388/8565444?from=udn-catebreaknews_ch2",
             "time": "2025-02-23 01:59"
         },
@@ -29,6 +23,12 @@
             "title": "奇美院長：醫療院所分4級太破碎",
             "link": "https://udn.com//news/story/124388/8565442?from=udn-catebreaknews_ch2",
             "time": "2025-02-23 01:57"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/21/realtime/31537213.jpg&s=Y&x=0&y=17&sw=2379&sh=1586&exp=3600&w=300",
+            "title": "觀察站／為健保續命 政府要拿出魄力",
+            "link": "https://udn.com//news/story/124388/8565443?from=udn-catebreaknews_ch2",
+            "time": "2025-02-23 01:53"
         }
     ]
 }

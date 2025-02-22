@@ -1,13 +1,25 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/23/realtime/31542631.jpg&s=Y&x=0&y=0&sw=8256&sh=5504&exp=3600&w=300",
+            "title": "【專家之眼】川普的軍經戰略，管制中國投資與全球布防",
+            "link": "https://udn.com//news/story/6813/8565680?from=udn-catebreaknews_ch2",
+            "time": "2025-02-23 07:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
+            "title": "特朗普呼籲普京與澤連斯基「坐下來談」 以結束戰爭",
+            "link": "https://udn.com//news/story/122663/8565540?from=udn-catebreaknews_ch2",
+            "time": "2025-02-23 06:25"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
             "title": "美威脅斷星鏈 逼烏簽協議",
             "link": "https://udn.com//news/story/122663/8565485?from=udn-catebreaknews_ch2",
             "time": "2025-02-23 05:31"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
             "title": "川普開除參聯會主席布朗",
             "link": "https://udn.com//news/story/6813/8565492?from=udn-catebreaknews_ch2",
             "time": "2025-02-23 05:25"
@@ -17,18 +29,6 @@
             "title": "川普：澤倫斯基很快簽礦產協議",
             "link": "https://udn.com//news/story/122663/8565477?from=udn-catebreaknews_ch2",
             "time": "2025-02-23 05:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
-            "title": "美科技股大跌 後市看輝達財報",
-            "link": "https://udn.com//news/story/6811/8565459?from=udn-catebreaknews_ch2",
-            "time": "2025-02-23 05:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
-            "title": "川普令重啟貿易調查 以關稅報復數位服務稅",
-            "link": "https://udn.com//news/story/124373/8565539?from=udn-catebreaknews_ch2",
-            "time": "2025-02-23 05:15"
         }
     ]
 }
