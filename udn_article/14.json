@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/24/105/31547171.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "別太衝動 2面向理性評估買房計畫",
+            "link": "https://udn.com//news/story/6854/8566986?from=udn-catebreaknews_ch2",
+            "time": "2025-02-24 07:27"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/21/draft/31535943.jpg&s=Y&x=0&y=0&sw=1000&sh=665&exp=3600&w=300",
             "title": "Taiwanese French Duo Brings Taiwan's Unique Spirit to the World of Rum! ",
             "link": "https://udn.com//news/story/6967/8563042?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "Spring Camping Fun!",
             "link": "https://udn.com//news/story/6967/8562955?from=udn-catebreaknews_ch2",
             "time": "2025-02-23 10:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/21/draft/31536021.jpg&s=Y&x=0&y=0&sw=1000&sh=667&exp=3600&w=300",
-            "title": "Discover Romantic Cherry Blossoms in Baoshan ",
-            "link": "https://udn.com//news/story/6967/8562916?from=udn-catebreaknews_ch2",
-            "time": "2025-02-23 10:15"
         }
     ]
 }
