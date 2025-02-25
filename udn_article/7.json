@@ -1,7 +1,13 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/25/2/31555489.jpg&s=Y&x=0&y=0&sw=1187&sh=791&exp=3600&w=300",
+            "title": "台股收23,285點下跌279點 台積電收1,055元跌20元",
+            "link": "https://udn.com//news/story/7251/8570255?from=udn-catebreaknews_ch2",
+            "time": "2025-02-25 13:46"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
             "title": "聯發停產竹北廠改當包租公 股價來到10個月新高",
             "link": "https://udn.com//news/story/7252/8570069?from=udn-catebreaknews_ch2",
             "time": "2025-02-25 12:30"
@@ -19,16 +25,10 @@
             "time": "2025-02-25 11:58"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
             "title": "台塑四寶撐盤！台化盤中上漲逾2%、台塑重回40元",
             "link": "https://udn.com//news/story/7251/8569919?from=udn-catebreaknews_ch2",
             "time": "2025-02-25 11:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/03/realtime/31430497.jpg&s=Y&x=0&y=0&sw=5346&sh=3564&exp=3600&w=300",
-            "title": "大力加碼00757！大盤疲軟、川普關稅政策...利空太多？直雲：下殺就快撿便宜",
-            "link": "https://udn.com//news/story/7251/8569874?from=udn-catebreaknews_ch2",
-            "time": "2025-02-25 11:42"
         }
     ]
 }
