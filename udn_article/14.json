@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/26/draft/31560606.jpg&s=Y&x=135&y=0&sw=930&sh=620&exp=3600&w=300",
+            "title": "義大利鋼琴家蒂珀逝世",
+            "link": "https://udn.com//news/story/11184/8572326?from=udn-catebreaknews_ch2",
+            "time": "2025-02-26 11:32"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/26/draft/31560615.jpg&s=Y&x=135&y=0&sw=930&sh=620&exp=3600&w=300",
+            "title": "MTT病況不樂觀  計劃於4月進行告別演出",
+            "link": "https://udn.com//news/story/11184/8572338?from=udn-catebreaknews_ch2",
+            "time": "2025-02-26 11:32"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/26/draft/31560012.jpg&s=Y&x=0&y=4&sw=624&sh=416&exp=3600&w=300",
             "title": "有總比沒有好 研究：一天動五分鐘失智風險降40%",
             "link": "https://udn.com//news/story/6897/8572079?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "深耕AI產業應用 臺灣最值得投入方向",
             "link": "https://udn.com//news/story/6905/8571962?from=udn-catebreaknews_ch2",
             "time": "2025-02-26 09:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/26/draft/31559569.jpg&s=Y&x=0&y=0&sw=700&sh=466&exp=3600&w=300",
-            "title": "瀝青刨除料再生 化廢為寶",
-            "link": "https://udn.com//news/story/6905/8571959?from=udn-catebreaknews_ch2",
-            "time": "2025-02-26 09:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/26/draft/31559525.jpg&s=Y&x=0&y=0&sw=700&sh=467&exp=3600&w=300",
-            "title": "專欄／胡竹生：結合人工智慧的機器人技術與產業發展",
-            "link": "https://udn.com//news/story/6905/8571950?from=udn-catebreaknews_ch2",
-            "time": "2025-02-26 09:15"
         }
     ]
 }
