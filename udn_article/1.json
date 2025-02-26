@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/26/realtime/31565216.png&s=Y&x=0&y=11&sw=1667&sh=1110&exp=3600&w=300",
+            "title": "圖解急診3害 待床數居高不下、觀察床費用偏低、護理離職率新高",
+            "link": "https://udn.com//news/story/124393/8574471?from=udn-catebreaknews_ch2",
+            "time": "2025-02-27 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/26/1/31565186.png&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "【總編開箱】綠營歡聚烤肉 病人一床難求 賴清德本命區醫院也難逃",
+            "link": "https://udn.com//news/story/124393/8574468?from=udn-catebreaknews_ch2",
+            "time": "2025-02-27 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/26/realtime/31562963.png&s=Y&x=0&y=0&sw=1330&sh=888&exp=3600&w=300",
             "title": "光電案涉違法 能源署長等3人遭彈劾",
             "link": "https://udn.com//news/story/6656/8574370?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "總統：配偶三親等 不宜任公費助理",
             "link": "https://udn.com//news/story/6656/8574365?from=udn-catebreaknews_ch2",
             "time": "2025-02-27 03:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/26/realtime/31565126.jpg&s=Y&x=214&y=0&sw=1362&sh=909&exp=3600&w=300",
-            "title": "共軍無預警宣布操演 府方譴責",
-            "link": "https://udn.com//news/story/10930/8574351?from=udn-catebreaknews_ch2",
-            "time": "2025-02-27 03:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/26/realtime/31565147.png&s=Y&x=0&y=0&sw=1322&sh=894&exp=3600&w=300",
-            "title": "收美資金挨告 沈伯洋：未圖利自己",
-            "link": "https://udn.com//news/story/6656/8574371?from=udn-catebreaknews_ch2",
-            "time": "2025-02-27 03:37"
         }
     ]
 }
