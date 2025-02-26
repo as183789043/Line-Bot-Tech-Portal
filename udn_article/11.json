@@ -1,8 +1,14 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/26/realtime/31559894.png&s=Y&x=0&y=0&sw=2048&sh=1365&exp=3600&w=300",
+            "title": "號稱「家用顯卡都能跑AI」超越Sora的阿里萬相大模型開源",
+            "link": "https://udn.com//news/story/7333/8572007?from=udn-catebreaknews_ch2",
+            "time": "2025-02-26 09:10"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/25/realtime/31557627.jpg&s=Y&x=0&y=0&sw=4664&sh=3048&exp=3600&w=300",
-            "title": "春哥侃陸／42座大城重洗牌 國批城市總規展大國視野",
+            "title": "春哥侃陸／42座大城重洗牌 廣州深圳排名曝陸未來藍圖",
             "link": "https://udn.com//news/story/7331/8571069?from=udn-catebreaknews_ch2",
             "time": "2025-02-26 07:00"
         },
@@ -13,22 +19,16 @@
             "time": "2025-02-26 02:23"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_1.jpg&w=300",
             "title": "兩會風向 聚焦美中台關係",
             "link": "https://udn.com//news/story/7331/8571641?from=udn-catebreaknews_ch2",
             "time": "2025-02-26 02:16"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_8.jpg&w=300",
             "title": "川普2.0／台商應變 三個新動向",
             "link": "https://udn.com//news/story/7333/8571642?from=udn-catebreaknews_ch2",
             "time": "2025-02-26 02:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_0.jpg&w=300",
-            "title": "陸半導體研發 超車韓國",
-            "link": "https://udn.com//news/story/7333/8571636?from=udn-catebreaknews_ch2",
-            "time": "2025-02-26 02:14"
         }
     ]
 }
