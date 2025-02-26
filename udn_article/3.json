@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/02/27/31565481.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "川普：歐盟成立是為了搞砸美國 將祭25%關稅",
+            "link": "https://udn.com//news/story/124373/8574538?from=udn-catebreaknews_ch2",
+            "time": "2025-02-27 04:19"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/26/realtime/31561862.jpg&s=Y&x=0&y=0&sw=2321&sh=1547&exp=3600&w=300",
             "title": "美國是否阻止中國武力犯台？ 川普再度拒絕作出承諾",
             "link": "https://udn.com//news/story/6813/8574527?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2025-02-27 03:03"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
             "title": "川普關稅大刀 砍向銅商品",
             "link": "https://udn.com//news/story/124373/8574293?from=udn-catebreaknews_ch2",
             "time": "2025-02-27 02:57"
@@ -23,12 +29,6 @@
             "title": "砸3.4兆 歐盟推潔淨產業新政",
             "link": "https://udn.com//news/story/6811/8574316?from=udn-catebreaknews_ch2",
             "time": "2025-02-27 02:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
-            "title": "BP擬刪減再生能源支出",
-            "link": "https://udn.com//news/story/6811/8574318?from=udn-catebreaknews_ch2",
-            "time": "2025-02-27 02:52"
         }
     ]
 }
