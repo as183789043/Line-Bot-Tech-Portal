@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/28/2/31571745.jpg&s=Y&x=0&y=72&sw=1278&sh=852&exp=3600&w=300",
+            "title": "名家觀點／Ｅ＋Ｓ＋Ｇ",
+            "link": "https://udn.com//news/story/7238/8576826?from=udn-catebreaknews_ch2",
+            "time": "2025-02-27 23:57"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_0.jpg&w=300",
+            "title": "臻鼎總部動土 拚AI研發",
+            "link": "https://udn.com//news/story/7240/8576495?from=udn-catebreaknews_ch2",
+            "time": "2025-02-27 23:49"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/29/98/31179105.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
             "title": "開門紅！壽險1月賺321億元、寫3年同期新高 今年隱憂是這件事",
             "link": "https://udn.com//news/story/7239/8576720?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台積電擴大赴美投資 經長：須先過投審會這一關、會考量量產時程",
             "link": "https://udn.com//news/story/7240/8576533?from=udn-catebreaknews_ch2",
             "time": "2025-02-27 20:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/13/realtime/31489660.jpeg&s=Y&x=0&y=35&sw=5004&sh=3336&exp=3600&w=300",
-            "title": "3月電價將調漲？ 經長郭智輝這麼說",
-            "link": "https://udn.com//news/story/7238/8576527?from=udn-catebreaknews_ch2",
-            "time": "2025-02-27 20:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/27/realtime/31570992.jpg&s=Y&x=27&y=0&sw=1125&sh=751&exp=3600&w=300",
-            "title": "仁寶入列「輝達GTC大會」總座親自證實 加碼釋2目標",
-            "link": "https://udn.com//news/story/7240/8576508?from=udn-catebreaknews_ch2",
-            "time": "2025-02-27 20:15"
         }
     ]
 }
