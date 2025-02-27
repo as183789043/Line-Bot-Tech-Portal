@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/20/2/31526514.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "台股本週下跌677點 上市公司總市值降至74.05兆",
+            "link": "https://udn.com//news/story/7251/8576316?from=udn-catebreaknews_ch2",
+            "time": "2025-02-27 18:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/27/realtime/31570275.jpg&s=Y&x=57&y=0&sw=1065&sh=711&exp=3600&w=300",
             "title": "緯穎財報／去年賺227.76億元、每股配74元 增資近百億元在德州建廠",
             "link": "https://udn.com//news/story/7253/8576261?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股本周下挫677點、法人聯手狂賣逾1,500億元 電子股成受災戶",
             "link": "https://udn.com//news/story/7251/8576041?from=udn-catebreaknews_ch2",
             "time": "2025-02-27 16:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/13/realtime/31490776.jpg&s=Y&x=0&y=12&sw=1889&sh=1258&exp=3600&w=300",
-            "title": "外資賣超451億元 權值雙雄落難、買超中鋼逾5萬張",
-            "link": "https://udn.com//news/story/7251/8576025?from=udn-catebreaknews_ch2",
-            "time": "2025-02-27 16:39"
         }
     ]
 }
