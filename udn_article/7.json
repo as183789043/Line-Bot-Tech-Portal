@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/27/realtime/31570275.jpg&s=Y&x=57&y=0&sw=1065&sh=711&exp=3600&w=300",
+            "title": "緯穎財報／去年賺227.76億元、每股配74元 增資近百億元在德州建廠",
+            "link": "https://udn.com//news/story/7253/8576261?from=udn-catebreaknews_ch2",
+            "time": "2025-02-27 17:56"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/27/2/31570109.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "漢來美食財報／去年大賺一個資本額 EPS 10.06元創歷史新高",
+            "link": "https://udn.com//news/story/7254/8576147?from=udn-catebreaknews_ch2",
+            "time": "2025-02-27 17:14"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/27/realtime/31569962.jpg&s=Y&x=0&y=15&sw=1426&sh=950&exp=3600&w=300",
             "title": "中美晶去年每股獲利9.24元 全年每股配息6.5元",
             "link": "https://udn.com//news/story/7254/8576108?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "外資賣超451億元 權值雙雄落難、買超中鋼逾5萬張",
             "link": "https://udn.com//news/story/7251/8576025?from=udn-catebreaknews_ch2",
             "time": "2025-02-27 16:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/24/2/31549581.jpg&s=Y&x=0&y=0&sw=1076&sh=717&exp=3600&w=300",
-            "title": "安聯投信解析：台股季線失守 權值股疲軟",
-            "link": "https://udn.com//news/story/7251/8576022?from=udn-catebreaknews_ch2",
-            "time": "2025-02-27 16:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/27/realtime/31569635.jpg&s=Y&x=0&y=272&sw=3264&sh=2176&exp=3600&w=300",
-            "title": "永豐金證券「股票禮品卡」獲金管會監理沙盒核准 可直接兌換股票",
-            "link": "https://udn.com//news/story/7251/8575982?from=udn-catebreaknews_ch2",
-            "time": "2025-02-27 16:24"
         }
     ]
 }
