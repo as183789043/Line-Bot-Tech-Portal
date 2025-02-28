@@ -1,8 +1,14 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/19/2/31521888.jpg&s=Y&x=0&y=0&sw=1189&sh=793&exp=3600&w=300",
+            "title": "重摔逾千點後ETF買點浮現 日股有股神巴菲特加持的底氣",
+            "link": "https://udn.com//news/story/123006/8578224?from=udn-catebreaknews_ch2",
+            "time": "2025-02-28 18:43"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/28/2/31575872.jpg&s=Y&x=0&y=252&sw=1109&sh=739&exp=3600&w=300",
-            "title": "大聯大晚間7點召開重訊記者會 說明重大決議事宜",
+            "title": "直播／大聯大晚間7點召開重訊記者會 說明重大決議事宜",
             "link": "https://udn.com//news/story/7253/8578173?from=udn-catebreaknews_ch2",
             "time": "2025-02-28 17:58"
         },
@@ -23,12 +29,6 @@
             "title": "沒被台積電價跌掃到 富邦009802 ETF在3天內募158億元",
             "link": "https://udn.com//news/story/123006/8577719?from=udn-catebreaknews_ch2",
             "time": "2025-02-28 13:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/28/98/31573288.jpg&s=Y&x=12&y=0&sw=1269&sh=846&exp=3600&w=300",
-            "title": "拚台灣首例 劉宗聖談0050分割案背後3大原因",
-            "link": "https://udn.com//news/story/123006/8577273?from=udn-catebreaknews_ch2",
-            "time": "2025-02-28 10:30"
         }
     ]
 }
