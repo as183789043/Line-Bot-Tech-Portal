@@ -1,7 +1,19 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/01/2/31576953.jpg&s=Y&x=548&y=456&sw=668&sh=445&exp=3600&w=300",
+            "title": "大田越南擴產 兩路並進",
+            "link": "https://udn.com//news/story/7254/8578573?from=udn-catebreaknews_ch2",
+            "time": "2025-03-01 00:59"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/21/realtime/31535822.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "鴻海揪伴 攻伺服器散熱",
+            "link": "https://udn.com//news/story/7253/8578574?from=udn-catebreaknews_ch2",
+            "time": "2025-03-01 00:57"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
             "title": "就市論勢／AI、低基期題材 有看頭",
             "link": "https://udn.com//news/story/7251/8578576?from=udn-catebreaknews_ch2",
             "time": "2025-03-01 00:54"
@@ -13,22 +25,10 @@
             "time": "2025-03-01 00:50"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/22/2/31355845.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "釐清ETF迷思 低價未必易漲",
-            "link": "https://udn.com//news/story/123006/8578308?from=udn-catebreaknews_ch2",
-            "time": "2025-02-28 23:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/28/realtime/31576204.jpg&s=Y&x=0&y=18&sw=1889&sh=1258&exp=3600&w=300",
-            "title": "單一國家指數型ETF 入門優選",
-            "link": "https://udn.com//news/story/123006/8578304?from=udn-catebreaknews_ch2",
-            "time": "2025-02-28 22:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/28/realtime/31576206.jpg&s=Y&x=0&y=0&sw=1889&sh=1260&exp=3600&w=300",
-            "title": "基金特蒐／全球科技基金 賺趨勢財",
-            "link": "https://udn.com//news/story/10103/8578309?from=udn-catebreaknews_ch2",
-            "time": "2025-02-28 22:56"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/01/2/31576943.png&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "上銀目標價 花旗喊345元",
+            "link": "https://udn.com//news/story/7252/8578568?from=udn-catebreaknews_ch2",
+            "time": "2025-03-01 00:48"
         }
     ]
 }
