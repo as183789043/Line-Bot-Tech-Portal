@@ -1,8 +1,14 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/28/realtime/31574402.jpg&s=Y&x=0&y=0&sw=3840&sh=2560&exp=3600&w=300",
+            "title": "沒被台積電價跌掃到 富邦009802 ETF在3天內募158億元",
+            "link": "https://udn.com//news/story/123006/8577719?from=udn-catebreaknews_ch2",
+            "time": "2025-02-28 13:27"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/28/98/31573288.jpg&s=Y&x=12&y=0&sw=1269&sh=846&exp=3600&w=300",
-            "title": "拚台灣首例  劉宗聖談0050分割案背後3大原因",
+            "title": "拚台灣首例 劉宗聖談0050分割案背後3大原因",
             "link": "https://udn.com//news/story/123006/8577273?from=udn-catebreaknews_ch2",
             "time": "2025-02-28 10:30"
         },
@@ -23,12 +29,6 @@
             "title": "川普是台積電「轉大人」必要考驗！台股從狂漲到停滯 老謝：生態會有大改變",
             "link": "https://udn.com//news/story/7251/8575377?from=udn-catebreaknews_ch2",
             "time": "2025-02-28 06:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/28/2/31571899.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "上市櫃護盤…1,744億上膛 友達、譜瑞等預計買回逾28萬張庫藏股",
-            "link": "https://udn.com//news/story/7251/8576853?from=udn-catebreaknews_ch2",
-            "time": "2025-02-28 05:50"
         }
     ]
 }
