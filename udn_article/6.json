@@ -1,6 +1,12 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/28/realtime/31576160.jpg&s=Y&x=315&y=0&sw=3402&sh=2268&exp=3600&w=300",
+            "title": "中市府同意員工進入 新光三越台中店明起開放6天取物",
+            "link": "https://udn.com//news/story/7241/8578296?from=udn-catebreaknews_ch2",
+            "time": "2025-02-28 19:59"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/27/0/31567031.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台積電持續推進A16台灣先量產美國AZ廠Fab 3按計畫導入",
             "link": "https://udn.com//news/story/7240/8578239?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "高風險工廠爆炸事故頻傳 勞動部訂危害預防指引",
             "link": "https://udn.com//news/story/7238/8578065?from=udn-catebreaknews_ch2",
             "time": "2025-02-28 16:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/14/realtime/31496709.jpg&s=Y&x=0&y=0&sw=1179&sh=773&exp=3600&w=300",
-            "title": "廣達衝刺量子電腦布局 斥資逾11億元投資Rigetti",
-            "link": "https://udn.com//news/story/7240/8578049?from=udn-catebreaknews_ch2",
-            "time": "2025-02-28 16:19"
         }
     ]
 }
