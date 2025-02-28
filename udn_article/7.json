@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/28/2/31575872.jpg&s=Y&x=0&y=252&sw=1109&sh=739&exp=3600&w=300",
+            "title": "大聯大晚間7點召開重訊記者會 說明重大決議事宜",
+            "link": "https://udn.com//news/story/7253/8578173?from=udn-catebreaknews_ch2",
+            "time": "2025-02-28 17:58"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/22/2/31351617.jpg&s=Y&x=0&y=0&sw=1183&sh=789&exp=3600&w=300",
             "title": "美股大跌 這檔ETF挾領息、抗震雙利多突圍",
             "link": "https://udn.com//news/story/123006/8578028?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "拚台灣首例 劉宗聖談0050分割案背後3大原因",
             "link": "https://udn.com//news/story/123006/8577273?from=udn-catebreaknews_ch2",
             "time": "2025-02-28 10:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/28/98/31573060.jpg&s=Y&x=20&y=0&sw=1260&sh=840&exp=3600&w=300",
-            "title": "台灣大型ETF接力誕生 劉宗聖：兆元ETF指日可待",
-            "link": "https://udn.com//news/story/123006/8577204?from=udn-catebreaknews_ch2",
-            "time": "2025-02-28 09:57"
         }
     ]
 }
