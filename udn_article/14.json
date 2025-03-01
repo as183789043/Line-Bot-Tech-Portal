@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/01/0/31577636.jpg&s=Y&x=180&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "從一間區域醫院到生技創新火車頭 揭中國醫孵化3明星生醫股戰法",
+            "link": "https://udn.com//news/story/6837/8578850?from=udn-catebreaknews_ch2",
+            "time": "2025-03-01 08:25"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/01/0/31577616.jpg&s=Y&x=192&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "小訂席專員變漢來美食超業 年業績4.5億秘訣：生意是問出來的",
+            "link": "https://udn.com//news/story/6837/8578841?from=udn-catebreaknews_ch2",
+            "time": "2025-03-01 08:24"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/27/draft/31567210.jpg&s=Y&x=0&y=0&sw=800&sh=534&exp=3600&w=300",
             "title": "一天睡不好 免疫系統發炎細胞就會上升",
             "link": "https://udn.com//news/story/6897/8575000?from=udn-catebreaknews_ch2",
@@ -16,18 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/27/draft/31566997.jpg&s=Y&x=171&y=0&sw=939&sh=626&exp=3600&w=300",
             "title": "IPC個股百花齊放─磐儀",
             "link": "https://udn.com//news/story/6850/8574894?from=udn-catebreaknews_ch2",
-            "time": "2025-02-27 10:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/27/draft/31567039.jpg&s=Y&x=171&y=0&sw=936&sh=625&exp=3600&w=300",
-            "title": "1634期：母子連心 集團攜手全力衝！",
-            "link": "https://udn.com//news/story/6850/8574903?from=udn-catebreaknews_ch2",
-            "time": "2025-02-27 10:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/27/draft/31567065.jpg&s=Y&x=171&y=0&sw=936&sh=625&exp=3600&w=300",
-            "title": "本益比只有12倍的AI伺服器飆股",
-            "link": "https://udn.com//news/story/6850/8574915?from=udn-catebreaknews_ch2",
             "time": "2025-02-27 10:49"
         }
     ]
