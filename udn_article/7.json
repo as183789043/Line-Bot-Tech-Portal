@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/01/2/31579219.jpg&s=Y&x=20&y=28&sw=1127&sh=751&exp=3600&w=300",
+            "title": "三月ETF配息戰開跑 十檔先搶先看",
+            "link": "https://udn.com//news/story/123006/8579345?from=udn-catebreaknews_ch2",
+            "time": "2025-03-01 13:47"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/01/2/31578668.jpg&s=Y&x=16&y=16&sw=1255&sh=837&exp=3600&w=300",
             "title": "228連假 台積電ADR重挫逾7% 台股面臨半年線保衛戰",
             "link": "https://udn.com//news/story/7251/8579129?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2025-03-01 00:57"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
             "title": "就市論勢／AI、低基期題材 有看頭",
             "link": "https://udn.com//news/story/7251/8578576?from=udn-catebreaknews_ch2",
             "time": "2025-03-01 00:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/01/2/31576948.jpg&s=Y&x=0&y=120&sw=1280&sh=853&exp=3600&w=300",
-            "title": "興櫃一周回顧／台灣精材狂飆47% 稱王",
-            "link": "https://udn.com//news/story/7251/8578564?from=udn-catebreaknews_ch2",
-            "time": "2025-03-01 00:50"
         }
     ]
 }
