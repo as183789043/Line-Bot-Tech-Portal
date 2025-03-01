@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/24/2/31549016.jpg&s=Y&x=0&y=0&sw=1266&sh=844&exp=3600&w=300",
+            "title": "台股週線下跌677.07點 下週聚焦工具機展、MWC大會",
+            "link": "https://udn.com//news/story/7251/8579472?from=udn-catebreaknews_ch2",
+            "time": "2025-03-01 15:26"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/01/2/31579219.jpg&s=Y&x=20&y=28&sw=1127&sh=751&exp=3600&w=300",
             "title": "三月ETF配息戰開跑 十檔先搶先看",
             "link": "https://udn.com//news/story/123006/8579345?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "鴻海揪伴 攻伺服器散熱",
             "link": "https://udn.com//news/story/7253/8578574?from=udn-catebreaknews_ch2",
             "time": "2025-03-01 00:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
-            "title": "就市論勢／AI、低基期題材 有看頭",
-            "link": "https://udn.com//news/story/7251/8578576?from=udn-catebreaknews_ch2",
-            "time": "2025-03-01 00:54"
         }
     ]
 }
