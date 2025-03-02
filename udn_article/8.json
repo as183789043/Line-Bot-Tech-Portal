@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/02/2/31585136.jpg&s=Y&x=0&y=0&sw=1076&sh=717&exp=3600&w=300",
+            "title": "MSCI調整尾盤爆量 台股跌破季線、周線收黑",
+            "link": "https://udn.com//news/story/7251/8581031?from=udn-catebreaknews_ch2",
+            "time": "2025-03-02 19:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/02/0/31584995.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "不知道川普明天出哪招 有錢人曝5大方向：持股有必要低於5成",
             "link": "https://udn.com//news/story/12806/8580932?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台積ADR連假跌逾7%…台股回檔壓力重 面臨半年線保衛戰",
             "link": "https://udn.com//news/story/7251/8579982?from=udn-catebreaknews_ch2",
             "time": "2025-03-02 02:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/01/2/31576782.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台股犀利 去年獲利估逾4兆…現金股利可望大增20%",
-            "link": "https://udn.com//news/story/7251/8579960?from=udn-catebreaknews_ch2",
-            "time": "2025-03-02 02:06"
         }
     ]
 }
