@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_7.jpg&w=300",
+            "title": "台灣矽盾削弱…在野憂：護國神山變半屏山",
+            "link": "https://udn.com//news/story/124400/8586375?from=udn-catebreaknews_ch2",
+            "time": "2025-03-05 03:37"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/04/realtime/31596534.jpg&s=Y&x=0&y=0&sw=6747&sh=4500&exp=3600&w=300",
+            "title": "台積電加碼投資美國 黃介正：台灣戰略價值下降",
+            "link": "https://udn.com//news/story/124400/8586376?from=udn-catebreaknews_ch2",
+            "time": "2025-03-05 03:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/05/realtime/31598035.jpg&s=Y&x=633&y=0&sw=2292&sh=1528&exp=3600&w=300",
             "title": "川普政策變數大 雲林風場國際股東仍看好再生能源發展",
             "link": "https://udn.com//news/story/7238/8586388?from=udn-catebreaknews_ch2",
@@ -8,7 +20,7 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/04/realtime/31597801.jpg&s=Y&x=0&y=0&sw=5500&sh=3668&exp=3600&w=300",
-            "title": "川普效應 民眾和企業同步減碼國內投資",
+            "title": "川普效應 民眾、企業同步減碼國內投資",
             "link": "https://udn.com//news/story/7239/8586253?from=udn-catebreaknews_ch2",
             "time": "2025-03-04 23:11"
         },
@@ -17,18 +29,6 @@
             "title": "台積電加大美國投資…多家外資法人肯定 瑞穗：毛利率將再稀釋4-6%",
             "link": "https://udn.com//news/story/124400/8586150?from=udn-catebreaknews_ch2",
             "time": "2025-03-04 22:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/04/realtime/31597653.jpg&s=Y&x=0&y=448&sw=3024&sh=2016&exp=3600&w=300",
-            "title": "宏達電發展非硬體業務 主攻三大成長領域",
-            "link": "https://udn.com//news/story/7240/8586094?from=udn-catebreaknews_ch2",
-            "time": "2025-03-04 22:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/04/realtime/31597652.jpg&s=Y&x=0&y=0&sw=1374&sh=916&exp=3600&w=300",
-            "title": "經濟部：透過投審機制與企業合作 確保台灣半導體地位",
-            "link": "https://udn.com//news/story/124400/8586093?from=udn-catebreaknews_ch2",
-            "time": "2025-03-04 22:09"
         }
     ]
 }
