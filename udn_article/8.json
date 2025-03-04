@@ -1,7 +1,19 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/04/realtime/31597838.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "外籍實習生補缺工 旅宿業盼持續",
+            "link": "https://udn.com//news/story/7269/8586278?from=udn-catebreaknews_ch2",
+            "time": "2025-03-05 01:46"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_5.jpg&w=300",
+            "title": "學中文、薪情好 外籍生盼再來",
+            "link": "https://udn.com//news/story/7269/8586287?from=udn-catebreaknews_ch2",
+            "time": "2025-03-05 01:46"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_9.jpg&w=300",
             "title": "違法廣告電子煙 限時未刪罰200萬",
             "link": "https://udn.com//news/story/7266/8586226?from=udn-catebreaknews_ch2",
             "time": "2025-03-05 01:02"
@@ -13,22 +25,10 @@
             "time": "2025-03-05 00:57"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_6.jpg&w=300",
             "title": "體驗不丹帕羅戒楚節",
             "link": "https://udn.com//news/story/7270/8586231?from=udn-catebreaknews_ch2",
             "time": "2025-03-05 00:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/04/realtime/31597959.jpg&s=Y&x=0&y=0&sw=1889&sh=1259&exp=3600&w=300",
-            "title": "元氣最愛問／夜尿症影響睡眠 恐是其他疾病警訊",
-            "link": "https://udn.com//news/story/7266/8586366?from=udn-catebreaknews_ch2",
-            "time": "2025-03-05 00:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/05/realtime/31597963.jpg&s=Y&x=0&y=0&sw=1889&sh=1259&exp=3600&w=300",
-            "title": "世界肥胖日／肥胖減壽 BMI愈高愈要命",
-            "link": "https://udn.com//news/story/7266/8586370?from=udn-catebreaknews_ch2",
-            "time": "2025-03-05 00:30"
         }
     ]
 }
