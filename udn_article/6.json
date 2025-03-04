@@ -1,9 +1,27 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/04/realtime/31597801.jpg&s=Y&x=0&y=0&sw=5500&sh=3668&exp=3600&w=300",
+            "title": "川普效應 民眾和企業同步減碼國內投資",
+            "link": "https://udn.com//news/story/7239/8586253?from=udn-catebreaknews_ch2",
+            "time": "2025-03-04 23:11"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/04/2/31597722.jpg&s=Y&x=0&y=0&sw=1265&sh=843&exp=3600&w=300",
+            "title": "台積電加大美國投資…多家外資法人肯定 瑞穗：毛利率將再稀釋4-6%",
+            "link": "https://udn.com//news/story/124400/8586150?from=udn-catebreaknews_ch2",
+            "time": "2025-03-04 22:53"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/04/realtime/31597653.jpg&s=Y&x=0&y=448&sw=3024&sh=2016&exp=3600&w=300",
+            "title": "宏達電發展非硬體業務 主攻三大成長領域",
+            "link": "https://udn.com//news/story/7240/8586094?from=udn-catebreaknews_ch2",
+            "time": "2025-03-04 22:12"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/04/realtime/31597652.jpg&s=Y&x=0&y=0&sw=1374&sh=916&exp=3600&w=300",
             "title": "經濟部：透過投審機制與企業合作 確保台灣半導體地位",
-            "link": "https://udn.com//news/story/7238/8586093?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124400/8586093?from=udn-catebreaknews_ch2",
             "time": "2025-03-04 22:09"
         },
         {
@@ -11,24 +29,6 @@
             "title": "曹興誠口中「台灣有事，會回來剿共」的長子曹之昊，是遊戲界精英",
             "link": "https://udn.com//news/story/124300/8586069?from=udn-catebreaknews_ch2",
             "time": "2025-03-04 21:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/18/2/31518820.jpg&s=Y&x=86&y=0&sw=851&sh=567&exp=3600&w=300",
-            "title": "頂客族遺產只想給配偶，不想分自己手足，最終仍流到「配偶手足」不愛的家人，有解嗎？",
-            "link": "https://udn.com//news/story/124300/8586068?from=udn-catebreaknews_ch2",
-            "time": "2025-03-04 21:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/04/2/31594691.jpg&s=Y&x=0&y=21&sw=600&sh=400&exp=3600&w=300",
-            "title": "DeepSeek 帶來衝擊 預示 AI 世界將會分裂為「中國式」、「美國式」？",
-            "link": "https://udn.com//news/story/124300/8586067?from=udn-catebreaknews_ch2",
-            "time": "2025-03-04 21:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/03/2/31591654.jpg&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
-            "title": "川普頻頻施壓 台積電存股族如何利用 ETF 來降低風險？",
-            "link": "https://udn.com//news/story/124300/8586066?from=udn-catebreaknews_ch2",
-            "time": "2025-03-04 21:55"
         }
     ]
 }
