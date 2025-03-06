@@ -1,10 +1,22 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/02/2/31583661.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "聯電營收／2月為181.94億元 是歷年同期單月次高",
+            "link": "https://udn.com//news/story/7253/8590768?from=udn-catebreaknews_ch2",
+            "time": "2025-03-06 17:25"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/18/realtime/31110557.jpg&s=Y&x=0&y=0&sw=1889&sh=1264&exp=3600&w=300",
             "title": "外資賣超261億元、連8賣 這檔鋼鐵股竟獲連11買",
             "link": "https://udn.com//news/story/7251/8590675?from=udn-catebreaknews_ch2",
             "time": "2025-03-06 16:54"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/06/2/31609027.jpg&s=Y&x=20&y=10&sw=1249&sh=833&exp=3600&w=300",
+            "title": "玉山金前二月賺57億元創歷年新高 年增39.6%、EPS 0.36元",
+            "link": "https://udn.com//news/story/7252/8590667?from=udn-catebreaknews_ch2",
+            "time": "2025-03-06 16:49"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/26/2/31564553.jpg&s=Y&x=0&y=0&sw=799&sh=533&exp=3600&w=300",
@@ -17,18 +29,6 @@
             "title": "009804今年第三檔台灣50將上市！經理費用率低至0.15％ 分散風險表現更突出",
             "link": "https://udn.com//news/story/123006/8590465?from=udn-catebreaknews_ch2",
             "time": "2025-03-06 15:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/05/0/31599219.jpg&s=Y&x=32&y=32&sw=1235&sh=823&exp=3600&w=300",
-            "title": "無畏川普2.0亂流 7檔台股高息ETF抗震逆勢漲逾3%",
-            "link": "https://udn.com//news/story/123006/8590454?from=udn-catebreaknews_ch2",
-            "time": "2025-03-06 15:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/06/0/31608264.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "野村00980A國內首檔「主動型ETF」！發行價10元、季配息…預5月掛牌上市",
-            "link": "https://udn.com//news/story/123006/8590408?from=udn-catebreaknews_ch2",
-            "time": "2025-03-06 15:25"
         }
     ]
 }
