@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/12/realtime/31481278.jpg&s=Y&x=0&y=0&sw=5500&sh=3667&exp=3600&w=300",
+            "title": "Fed主席：川普經濟政策及影響存在高度不確定性",
+            "link": "https://udn.com//news/story/6811/8594137?from=udn-catebreaknews_ch2",
+            "time": "2025-03-08 05:47"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/06/realtime/31606465.jpg&s=Y&x=0&y=0&sw=2281&sh=1521&exp=3600&w=300",
             "title": "川普：沙承諾投資美國1兆美元",
             "link": "https://udn.com//news/story/6813/8594010?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "俄對烏發動飛彈攻擊 川普：擬實施大規模金融制裁",
             "link": "https://udn.com//news/story/122663/8594118?from=udn-catebreaknews_ch2",
             "time": "2025-03-08 02:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/07/98/31613617.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "川普怨「全球主義者」拖累美國股市",
-            "link": "https://udn.com//news/story/6811/8594041?from=udn-catebreaknews_ch2",
-            "time": "2025-03-08 02:32"
         }
     ]
 }
