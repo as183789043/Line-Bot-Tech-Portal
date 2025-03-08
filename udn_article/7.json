@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/08/2/31617131.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "國泰投信總座：台積電赴美設廠正向 今年看台股樂觀",
+            "link": "https://udn.com//news/story/7251/8594948?from=udn-catebreaknews_ch2",
+            "time": "2025-03-08 16:11"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/08/2/31617184.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "重量級ETF 成分股換將…3月24日生效",
             "link": "https://udn.com//news/story/123006/8593983?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2025-03-08 00:36"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
             "title": "散戶愈跌愈買 套住60億",
             "link": "https://udn.com//news/story/7251/8593876?from=udn-catebreaknews_ch2",
             "time": "2025-03-08 00:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/07/realtime/31616659.jpg&s=Y&x=70&y=0&sw=1749&sh=1167&exp=3600&w=300",
-            "title": "ETF一籃子投資 可分散風險",
-            "link": "https://udn.com//news/story/123006/8593765?from=udn-catebreaknews_ch2",
-            "time": "2025-03-08 00:32"
         }
     ]
 }
