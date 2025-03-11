@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/11/realtime/31638099.png&s=Y&x=9&y=0&sw=465&sh=310&exp=3600&w=300",
+            "title": "台股摔破年線 代表性市值型ETF的「獲利進場點」浮現",
+            "link": "https://udn.com//news/story/123006/8601326?from=udn-catebreaknews_ch2",
+            "time": "2025-03-11 21:02"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/26/realtime/30977293.jpg&s=Y&x=0&y=0&sw=3307&sh=2205&exp=3600&w=300",
+            "title": "高盛：聯發科受惠車用晶片需求強 目標價上看1,780元",
+            "link": "https://udn.com//news/story/7253/8601324?from=udn-catebreaknews_ch2",
+            "time": "2025-03-11 21:01"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/11/01/realtime/30824195.jpg&s=Y&x=33&y=0&sw=585&sh=390&exp=3600&w=300",
+            "title": "大摩：NAND脫離底部 大幅調高華邦電及群聯目標價",
+            "link": "https://udn.com//news/story/7251/8601311?from=udn-catebreaknews_ch2",
+            "time": "2025-03-11 21:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/02/2/31197498.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台股失守年線 法人：暫時不必太悲觀還要觀察數日",
             "link": "https://udn.com//news/story/7251/8601230?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "外資連11賣 提款台積電鴻海、高息ETF與金控股",
             "link": "https://udn.com//news/story/7251/8601200?from=udn-catebreaknews_ch2",
             "time": "2025-03-11 19:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/03/2/31020218.jpg&s=Y&x=0&y=0&sw=1132&sh=755&exp=3600&w=300",
-            "title": "本月除息月配投等債ETF 3檔完成當月填息紀錄",
-            "link": "https://udn.com//news/story/123006/8601142?from=udn-catebreaknews_ch2",
-            "time": "2025-03-11 19:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/04/2/31024157.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
-            "title": "電子標籤後市看望 法人：這幾檔營運有望進補",
-            "link": "https://udn.com//news/story/7251/8601099?from=udn-catebreaknews_ch2",
-            "time": "2025-03-11 18:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/05/10/2/29640921.jpg&s=Y&x=7&y=0&sw=785&sh=523&exp=3600&w=300",
-            "title": "航運股逆勢上揚 華航走強、散裝族群有撐",
-            "link": "https://udn.com//news/story/7251/8601079?from=udn-catebreaknews_ch2",
-            "time": "2025-03-11 18:46"
         }
     ]
 }
