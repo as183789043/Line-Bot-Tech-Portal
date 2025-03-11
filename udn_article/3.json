@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
+            "title": "彭博：美中貿易談判 還卡在較低層級",
+            "link": "https://udn.com//news/story/6813/8601614?from=udn-catebreaknews_ch2",
+            "time": "2025-03-12 00:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/11/realtime/31638384.jpg&s=Y&x=0&y=0&sw=2748&sh=1832&exp=3600&w=300",
             "title": "反擊加拿大報復性關稅 川普：向加國鋼鐵和鋁收50％關稅",
             "link": "https://udn.com//news/story/124373/8601512?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "東京新宿街頭Live喪命…22歲女直播主被刺殺亡 男粉絲手機猛拍死者臉部",
             "link": "https://udn.com//news/story/6809/8601425?from=udn-catebreaknews_ch2",
             "time": "2025-03-11 22:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/11/2/31638359.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "川普報復加拿大 鋼鋁關稅翻倍至50%…加幣急貶",
-            "link": "https://udn.com//news/story/124373/8601437?from=udn-catebreaknews_ch2",
-            "time": "2025-03-11 22:18"
         }
     ]
 }
