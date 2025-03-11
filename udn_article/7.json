@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/11/realtime/31638581.jpg&s=Y&x=0&y=0&sw=1842&sh=1228&exp=3600&w=300",
+            "title": "台股失守年線 關注3指標",
+            "link": "https://udn.com//news/story/7251/8601727?from=udn-catebreaknews_ch2",
+            "time": "2025-03-12 04:58"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/11/realtime/31638099.png&s=Y&x=9&y=0&sw=465&sh=310&exp=3600&w=300",
             "title": "台股摔破年線 代表性市值型ETF的「獲利進場點」浮現",
             "link": "https://udn.com//news/story/123006/8601326?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股失守年線 法人：暫時不必太悲觀還要觀察數日",
             "link": "https://udn.com//news/story/7251/8601230?from=udn-catebreaknews_ch2",
             "time": "2025-03-11 20:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/25/2/31556220.jpg&s=Y&x=0&y=340&sw=1024&sh=683&exp=3600&w=300",
-            "title": "外資連11賣 提款台積電鴻海、高息ETF與金控股",
-            "link": "https://udn.com//news/story/7251/8601200?from=udn-catebreaknews_ch2",
-            "time": "2025-03-11 19:58"
         }
     ]
 }
