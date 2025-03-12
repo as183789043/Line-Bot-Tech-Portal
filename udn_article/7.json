@@ -1,8 +1,14 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
+            "title": "主動式與多資產ETF 6業者遞件",
+            "link": "https://udn.com//news/story/123006/8604213?from=udn-catebreaknews_ch2",
+            "time": "2025-03-13 01:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/12/realtime/31644158.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "亞泰金屬財報／2024 EPS 5.69元 受惠銅箔基板客戶擴產",
+            "title": "亞泰金屬財報／2024EPS 5.69元 受惠銅箔基板客戶擴產",
             "link": "https://udn.com//news/story/7254/8603820?from=udn-catebreaknews_ch2",
             "time": "2025-03-12 20:11"
         },
@@ -13,22 +19,16 @@
             "time": "2025-03-12 19:56"
         },
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/12/realtime/31643448.jpg&s=Y&x=0&y=36&sw=3166&sh=2110&exp=3600&w=300",
+            "title": "長華去年下半年每股配息2元 全年配息2.7元",
+            "link": "https://udn.com//news/story/7253/8603547?from=udn-catebreaknews_ch2",
+            "time": "2025-03-12 17:53"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/12/realtime/31643447.jpg&s=Y&x=0&y=23&sw=2418&sh=1612&exp=3600&w=300",
             "title": "長科決議去年第4季每股配息0.45元 明天買回5000張庫藏股",
             "link": "https://udn.com//news/story/7254/8603546?from=udn-catebreaknews_ch2",
             "time": "2025-03-12 17:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/03/05/31601372.jpg&s=Y&x=48&y=0&sw=1182&sh=789&exp=3600&w=300",
-            "title": "不畏關稅和DeepSeek來襲 科技高息ETF抗跌逆勢漲",
-            "link": "https://udn.com//news/story/123006/8603519?from=udn-catebreaknews_ch2",
-            "time": "2025-03-12 17:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/12/realtime/31643366.jpg&s=Y&x=0&y=0&sw=5616&sh=3744&exp=3600&w=300",
-            "title": "華立財報／去年 EPS 達8.89元 擬配發5元現金股利",
-            "link": "https://udn.com//news/story/7253/8603511?from=udn-catebreaknews_ch2",
-            "time": "2025-03-12 17:38"
         }
     ]
 }
