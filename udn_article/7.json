@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/07/2/31614537.jpg&s=Y&x=0&y=92&sw=1280&sh=853&exp=3600&w=300",
+            "title": "外資提款236億元連13賣 大砍聯電逾3萬張",
+            "link": "https://udn.com//news/story/7251/8606409?from=udn-catebreaknews_ch2",
+            "time": "2025-03-13 19:54"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/03/13/31646163.jpg&s=Y&x=0&y=0&sw=1279&sh=843&exp=3600&w=300",
             "title": "千元以下的台積電可以追嗎？永豐金總座朱士廷用「主人與狗」理論妙喻",
             "link": "https://udn.com//news/story/7251/8606350?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "長榮財報／去年EPS 64.87元寫歷史次高 現金股利32.5元、殖利率14%",
             "link": "https://udn.com//news/story/7252/8606182?from=udn-catebreaknews_ch2",
             "time": "2025-03-13 17:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/19/2/31524854.jpg&s=Y&x=0&y=0&sw=1080&sh=720&exp=3600&w=300",
-            "title": "群創財報／去年稅後純益67億元、EPS 0.76元 售廠挹注順利轉盈",
-            "link": "https://udn.com//news/story/7253/8606065?from=udn-catebreaknews_ch2",
-            "time": "2025-03-13 17:13"
         }
     ]
 }
