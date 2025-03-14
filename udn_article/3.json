@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/03/15/31657566.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "關稅暫未升級 道瓊大漲674點、史指那指創今年最佳交易日",
+            "link": "https://udn.com//news/story/6811/8609328?from=udn-catebreaknews_ch2",
+            "time": "2025-03-15 04:54"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/14/0/31656745.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "川普：與普亭談話富有成效 有望結束俄烏戰爭",
             "link": "https://udn.com//news/story/122663/8609076?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "民主黨讓步 避免美政府關門",
             "link": "https://udn.com//news/story/6813/8609097?from=udn-catebreaknews_ch2",
             "time": "2025-03-15 01:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
-            "title": "加國新總理卡尼 要解貿易難題",
-            "link": "https://udn.com//news/story/6809/8609094?from=udn-catebreaknews_ch2",
-            "time": "2025-03-15 01:46"
         }
     ]
 }
