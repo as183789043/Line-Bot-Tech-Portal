@@ -1,6 +1,12 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/14/realtime/31656187.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
+            "title": "地牛頻翻身！晚間18：50台東發生規模4.0地震 最大震度4級",
+            "link": "https://udn.com//news/story/7266/8608728?from=udn-catebreaknews_ch2",
+            "time": "2025-03-14 19:02"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/14/realtime/31655764.jpg&s=Y&x=0&y=15&sw=1200&sh=800&exp=3600&w=300",
             "title": "簡直數學題！台北希爾頓逸林推「6,840種威士忌飲品」",
             "link": "https://udn.com//news/story/7270/8608620?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "交部「自駕公車實驗運行安全指引」出爐 目標2029商轉",
             "link": "https://udn.com//news/story/7266/8608483?from=udn-catebreaknews_ch2",
             "time": "2025-03-14 17:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/14/realtime/31655545.jpg&s=Y&x=0&y=28&sw=2777&sh=1850&exp=3600&w=300",
-            "title": "鋒面+東北風增強 8縣市強風持續到明晚",
-            "link": "https://udn.com//news/story/7266/8608476?from=udn-catebreaknews_ch2",
-            "time": "2025-03-14 17:02"
         }
     ]
 }
