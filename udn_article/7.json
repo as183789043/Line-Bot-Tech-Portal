@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/13/2/31648826.jpg&s=Y&x=0&y=164&sw=1024&sh=683&exp=3600&w=300",
+            "title": "台股跌落年線 法人：聚焦輝達GTC大會盼AI族群止穩",
+            "link": "https://udn.com//news/story/7251/8610944?from=udn-catebreaknews_ch2",
+            "time": "2025-03-16 10:26"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/14/2/31654276.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "豪氣配息股抗震 買氣燒…群創、大同等擁低基期題材",
             "link": "https://udn.com//news/story/7251/8610629?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "高配息率PCB股 聚光",
             "link": "https://udn.com//news/story/7251/8610647?from=udn-catebreaknews_ch2",
             "time": "2025-03-16 02:38"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
-            "title": "台積、大立光 除息大戲登場",
-            "link": "https://udn.com//news/story/7253/8610492?from=udn-catebreaknews_ch2",
-            "time": "2025-03-16 01:32"
         }
     ]
 }
