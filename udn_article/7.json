@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/16/2/31665755.jpg&s=Y&x=200&y=0&sw=1076&sh=717&exp=3600&w=300",
+            "title": "修正壓力受關注 兆豐投信：關稅政策不確定下的台股展望",
+            "link": "https://udn.com//news/story/7251/8611611?from=udn-catebreaknews_ch2",
+            "time": "2025-03-16 17:39"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/16/2/31665413.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "川普關稅戰擴大 股票型基金上周失血金額為今年新高",
             "link": "https://udn.com//news/story/10103/8611558?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股跌落年線 法人：聚焦輝達GTC大會盼AI族群止穩",
             "link": "https://udn.com//news/story/7251/8610944?from=udn-catebreaknews_ch2",
             "time": "2025-03-16 10:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/14/2/31654276.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "豪氣配息股抗震 買氣燒…群創、大同等擁低基期題材",
-            "link": "https://udn.com//news/story/7251/8610629?from=udn-catebreaknews_ch2",
-            "time": "2025-03-16 03:04"
         }
     ]
 }
