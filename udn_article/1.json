@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/18/0/31675763.jpg&s=Y&x=276&y=0&sw=924&sh=616&exp=3600&w=300",
+            "title": "台灣民主指數連兩年下滑 有20%人甚至支持獨裁？",
+            "link": "https://udn.com//news/story/6656/8615730?from=udn-catebreaknews_ch2",
+            "time": "2025-03-19 07:05"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/18/1/31678893.png&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "雙普通話能促成停火？ 圖解俄烏領土現況與各自盤算",
             "link": "https://udn.com//news/story/7314/8616920?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "相對論／心臟名醫助人「活著上天堂」 政治金童自許「保有赤子心」",
             "link": "https://udn.com//news/story/7314/8616915?from=udn-catebreaknews_ch2",
             "time": "2025-03-19 03:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/18/realtime/31678941.jpg&s=Y&x=0&y=0&sw=2550&sh=1700&exp=3600&w=300",
-            "title": "相對論／政醫雙雄 趙少康、魏崢「開心後我們交心」",
-            "link": "https://udn.com//news/story/7314/8616909?from=udn-catebreaknews_ch2",
-            "time": "2025-03-19 03:06"
         }
     ]
 }
