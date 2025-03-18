@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/18/draft/31675837.jpg&s=Y&x=0&y=220&sw=1278&sh=852&exp=3600&w=300",
+            "title": "當代藝術創作者易若家 夢幻森林序曲",
+            "link": "https://udn.com//news/story/6853/8615515?from=udn-catebreaknews_ch2",
+            "time": "2025-03-18 14:43"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/18/draft/31675822.jpg&s=Y&x=0&y=5&sw=745&sh=496&exp=3600&w=300",
+            "title": "導航衛星、軍事衛星面面觀",
+            "link": "https://udn.com//news/story/6853/8615509?from=udn-catebreaknews_ch2",
+            "time": "2025-03-18 14:42"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/18/0/31675763.jpg&s=Y&x=276&y=0&sw=924&sh=616&exp=3600&w=300",
             "title": "台灣民主指數連兩年下滑　有20%人甚至支持獨裁？",
             "link": "https://udn.com//news/story/6841/8615445?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "科儀的流傳 人心的陪伴 淺談道士",
             "link": "https://udn.com//news/story/6845/8615067?from=udn-catebreaknews_ch2",
             "time": "2025-03-18 11:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/18/draft/31674702.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
-            "title": "讓信仰跨越門檻 淺談執事人員、效勞生",
-            "link": "https://udn.com//news/story/6845/8615051?from=udn-catebreaknews_ch2",
-            "time": "2025-03-18 11:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/18/draft/31674677.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
-            "title": "台式心靈雞湯 籤詩裡的吉光片羽",
-            "link": "https://udn.com//news/story/6845/8615035?from=udn-catebreaknews_ch2",
-            "time": "2025-03-18 11:47"
         }
     ]
 }
