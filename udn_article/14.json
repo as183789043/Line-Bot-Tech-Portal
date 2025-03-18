@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/18/0/31675763.jpg&s=Y&x=276&y=0&sw=924&sh=616&exp=3600&w=300",
+            "title": "台灣民主指數連兩年下滑　有20%人甚至支持獨裁？",
+            "link": "https://udn.com//news/story/6841/8615445?from=udn-catebreaknews_ch2",
+            "time": "2025-03-18 13:39"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/18/draft/31674785.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
             "title": "台灣街廟的機智生活 無奇不有 無所不在",
             "link": "https://udn.com//news/story/6845/8615084?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台式心靈雞湯 籤詩裡的吉光片羽",
             "link": "https://udn.com//news/story/6845/8615035?from=udn-catebreaknews_ch2",
             "time": "2025-03-18 11:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/18/draft/31674643.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
-            "title": "巧遇 台灣的「祂」們 台灣有應公信仰歷史、發展與意涵",
-            "link": "https://udn.com//news/story/6845/8615027?from=udn-catebreaknews_ch2",
-            "time": "2025-03-18 11:46"
         }
     ]
 }
