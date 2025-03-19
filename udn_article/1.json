@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/19/1/31685184.png&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
+            "title": "大武新海纜直通關島、美西 一圖看全台國際海纜與登陸點",
+            "link": "https://udn.com//news/story/7314/8619469?from=udn-catebreaknews_ch2",
+            "time": "2025-03-20 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/19/realtime/31682235.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
             "title": "觀察站／三腳督未明 新北市長之戰藍白互動成關鍵",
             "link": "https://udn.com//news/story/6656/8619414?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "政治獻金案 監院罰柯文哲374萬 沒入5579萬",
             "link": "https://udn.com//news/story/6656/8619463?from=udn-catebreaknews_ch2",
             "time": "2025-03-20 01:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/15/realtime/31660406.jpg&s=Y&x=0&y=0&sw=650&sh=440&exp=3600&w=300",
-            "title": "新聞眼／揣摩上意抗中？ 還是亂台？",
-            "link": "https://udn.com//news/story/6656/8619462?from=udn-catebreaknews_ch2",
-            "time": "2025-03-20 01:56"
         }
     ]
 }
