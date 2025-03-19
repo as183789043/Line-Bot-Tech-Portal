@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/19/2/31684420.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "市值型 ETF 掀熱潮！ 保德信、富邦、聯邦募集引市場注目",
+            "link": "https://udn.com//news/story/123006/8618882?from=udn-catebreaknews_ch2",
+            "time": "2025-03-19 19:06"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/19/realtime/31684220.jpg&s=Y&x=49&y=0&sw=474&sh=317&exp=3600&w=300",
+            "title": "強強聯手！半導體群山重磅合作 德鑫半導體聯盟齊聚證交所",
+            "link": "https://udn.com//news/story/7251/8618796?from=udn-catebreaknews_ch2",
+            "time": "2025-03-19 18:17"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/19/realtime/31683959.jpg&s=Y&x=79&y=0&sw=606&sh=404&exp=3600&w=300",
             "title": "半導體群山重磅合作 德鑫半導體聯盟齊聚證交所",
             "link": "https://udn.com//news/story/7251/8618743?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "統一MSCI美低波N、MSCI美科技N指數投資證券 3月27日起終止上市",
             "link": "https://udn.com//news/story/7251/8618677?from=udn-catebreaknews_ch2",
             "time": "2025-03-19 17:38"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/19/realtime/31683768.png&s=Y&x=193&y=0&sw=2091&sh=1394&exp=3600&w=300",
-            "title": "中鋼法說會／受惠美國關稅 客戶向中鋼採購增量",
-            "link": "https://udn.com//news/story/7252/8618641?from=udn-catebreaknews_ch2",
-            "time": "2025-03-19 17:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/19/realtime/31683721.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "宏致法說會／上半年以雲端通訊產品表現最強 可望年增50%",
-            "link": "https://udn.com//news/story/7253/8618618?from=udn-catebreaknews_ch2",
-            "time": "2025-03-19 17:14"
         }
     ]
 }
