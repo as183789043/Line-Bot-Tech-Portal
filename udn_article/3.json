@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
+            "title": "黃仁勳談中國市場：輝達遵守法律 支持各國發展AI",
+            "link": "https://udn.com//news/story/6811/8620188?from=udn-catebreaknews_ch2",
+            "time": "2025-03-20 11:22"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/20/realtime/31687521.jpg&s=Y&x=0&y=0&sw=4016&sh=2679&exp=3600&w=300",
+            "title": "川普公開施壓鮑爾！「Fed最好要降息」因為關稅要來了",
+            "link": "https://udn.com//news/story/6811/8620148?from=udn-catebreaknews_ch2",
+            "time": "2025-03-20 11:09"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/20/realtime/31687496.jpg&s=Y&x=184&y=0&sw=2832&sh=1889&exp=3600&w=300",
+            "title": "債券還有上漲空間！但趨勢有變 去年的投資策略今年須修正",
+            "link": "https://udn.com//news/story/6811/8620136?from=udn-catebreaknews_ch2",
+            "time": "2025-03-20 11:06"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/20/98/31687337.jpg&s=Y&x=0&y=0&sw=1277&sh=851&exp=3600&w=300",
             "title": "美各地特斯拉站點遇襲 司法部定調國內恐攻",
             "link": "https://udn.com//news/story/6813/8620068?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "半導體業籲制定歐盟晶片法2.0 台灣成範例",
             "link": "https://udn.com//news/story/6811/8620018?from=udn-catebreaknews_ch2",
             "time": "2025-03-20 10:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/18/realtime/31675799.png&s=Y&x=332&y=8&sw=1581&sh=1054&exp=3600&w=300",
-            "title": "日本小孩爭相念印度國際學校 培養IT人才贏在起跑線？",
-            "link": "https://udn.com//news/story/6809/8615534?from=udn-catebreaknews_ch2",
-            "time": "2025-03-20 10:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/20/98/31687168.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "洛時：川普交易式外交 正重塑美中台關係",
-            "link": "https://udn.com//news/story/6813/8619907?from=udn-catebreaknews_ch2",
-            "time": "2025-03-20 10:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/20/2/31687106.jpg&s=Y&x=0&y=8&sw=1145&sh=763&exp=3600&w=300",
-            "title": "AI 需求續增 輝達預估：2028全球資料中心資本支出逾1兆美元",
-            "link": "https://udn.com//news/story/6811/8619932?from=udn-catebreaknews_ch2",
-            "time": "2025-03-20 10:06"
         }
     ]
 }
