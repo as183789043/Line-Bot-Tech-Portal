@@ -1,13 +1,19 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
+            "title": "歐盟繞過匈牙利 烏克蘭問題分歧加劇",
+            "link": "https://udn.com//news/story/122663/8624221?from=udn-catebreaknews_ch2",
+            "time": "2025-03-23 06:25"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/22/realtime/31703090.jpg&s=Y&x=54&y=0&sw=573&sh=383&exp=3600&w=300",
             "title": "美第6代戰機F-47 川普：波音得標",
             "link": "https://udn.com//news/story/6811/8625830?from=udn-catebreaknews_ch2",
             "time": "2025-03-23 05:19"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
             "title": "美防長本周訪菲日 強化同盟",
             "link": "https://udn.com//news/story/6809/8625855?from=udn-catebreaknews_ch2",
             "time": "2025-03-23 05:15"
@@ -19,16 +25,10 @@
             "time": "2025-03-23 05:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
             "title": "陸回應關稅戰 擬自願出口限制",
             "link": "https://udn.com//news/story/124373/8625860?from=udn-catebreaknews_ch2",
             "time": "2025-03-23 05:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
-            "title": "美逼陸履行川普首任期協議",
-            "link": "https://udn.com//news/story/124373/8625851?from=udn-catebreaknews_ch2",
-            "time": "2025-03-23 04:50"
         }
     ]
 }
