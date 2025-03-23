@@ -1,6 +1,12 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/24/realtime/31707662.jpg&s=Y&x=0&y=0&sw=5000&sh=3333&exp=3600&w=300",
+            "title": "關燈1小時 富邦金控連12年響應",
+            "link": "https://udn.com//news/story/7239/8627301?from=udn-catebreaknews_ch2",
+            "time": "2025-03-24 01:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/23/realtime/31707454.jpg&s=Y&x=0&y=0&sw=1585&sh=1033&exp=3600&w=300",
             "title": "獨／金管會開放2大保單融資 年保費500萬大戶獲入場券",
             "link": "https://udn.com//news/story/7239/8627116?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "電業法修正4重點 經部：台電維持現行經營型態不分割",
             "link": "https://udn.com//news/story/7238/8626667?from=udn-catebreaknews_ch2",
             "time": "2025-03-23 16:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/23/realtime/31706123.jpg&s=Y&x=0&y=0&sw=1206&sh=801&exp=3600&w=300",
-            "title": "台灣唯一 中國信託11度入選「全球百大銀行品牌」",
-            "link": "https://udn.com//news/story/7239/8626635?from=udn-catebreaknews_ch2",
-            "time": "2025-03-23 15:32"
         }
     ]
 }
