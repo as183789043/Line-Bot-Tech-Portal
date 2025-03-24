@@ -1,7 +1,25 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
+            "title": "美管制AI晶片 鎖定大馬",
+            "link": "https://udn.com//news/story/6811/8629483?from=udn-catebreaknews_ch2",
+            "time": "2025-03-25 04:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/03/22/31699504.jpg&s=Y&x=0&y=8&sw=944&sh=628&exp=3600&w=300",
+            "title": "賓州小鎮豪宅擬列為古蹟 屋主堅決抗拒",
+            "link": "https://udn.com//news/story/6813/8624642?from=udn-catebreaknews_ch2",
+            "time": "2025-03-25 03:55"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/03/25/31713829.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "被拉進群意外收到戰爭情報 大西洋月刊總編：不敢置信",
+            "link": "https://udn.com//news/story/6813/8629600?from=udn-catebreaknews_ch2",
+            "time": "2025-03-25 03:30"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
             "title": "南韓現代 投資美國200億美元",
             "link": "https://udn.com//news/story/6811/8629321?from=udn-catebreaknews_ch2",
             "time": "2025-03-25 03:00"
@@ -11,24 +29,6 @@
             "title": "川普關稅戰面臨四大障礙 專家質疑對等貿易並無「巨大落差」",
             "link": "https://udn.com//news/story/124373/8629424?from=udn-catebreaknews_ch2",
             "time": "2025-03-25 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/24/realtime/31713389.jpg&s=Y&x=0&y=0&sw=1380&sh=920&exp=3600&w=300",
-            "title": "印尼股匯跌跌不休 反映投資人對經濟展望焦慮",
-            "link": "https://udn.com//news/story/6811/8629433?from=udn-catebreaknews_ch2",
-            "time": "2025-03-25 02:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/25/2/31713798.png&s=Y&x=0&y=0&sw=831&sh=554&exp=3600&w=300",
-            "title": "國際銅價飆漲 上看1.3萬美元",
-            "link": "https://udn.com//news/story/6811/8629430?from=udn-catebreaknews_ch2",
-            "time": "2025-03-25 02:38"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/24/realtime/31713388.png&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
-            "title": "美俄烏談判先喬黑海停火 目標恢復航運安全",
-            "link": "https://udn.com//news/story/122663/8629429?from=udn-catebreaknews_ch2",
-            "time": "2025-03-25 00:40"
         }
     ]
 }
