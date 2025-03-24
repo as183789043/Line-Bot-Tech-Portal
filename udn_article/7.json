@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/24/realtime/31712892.png&s=Y&x=0&y=10&sw=1024&sh=682&exp=3600&w=300",
+            "title": "台股交易量剩2451億 專家：4/2前市場將持續冷淡",
+            "link": "https://udn.com//news/story/7251/8629107?from=udn-catebreaknews_ch2",
+            "time": "2025-03-24 19:52"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/19/2/31682276.jpg&s=Y&x=525&y=68&sw=709&sh=473&exp=3600&w=300",
             "title": "外資不買AI了？ 3月竟大買這檔科技銅板股逾27萬張",
             "link": "https://udn.com//news/story/7251/8628896?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "上市公司搖身一變「券商概念股」連飆漲停 他跨入富豪行列靠關鍵4字",
             "link": "https://udn.com//news/story/12806/8628007?from=udn-catebreaknews_ch2",
             "time": "2025-03-24 15:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/17/2/31671598.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "央行不加碼打炒房帶動營建股上漲 這檔飆最兇",
-            "link": "https://udn.com//news/story/7251/8628643?from=udn-catebreaknews_ch2",
-            "time": "2025-03-24 15:56"
         }
     ]
 }
