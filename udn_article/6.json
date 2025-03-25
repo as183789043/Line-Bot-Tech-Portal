@@ -1,7 +1,13 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/25/realtime/31716965.jpg&s=Y&x=0&y=0&sw=1024&sh=683&exp=3600&w=300",
+            "title": "半導體風雲／英特爾分拆與否的關鍵 陳立武兩手準備？",
+            "link": "https://udn.com//news/story/7240/8630835?from=udn-catebreaknews_ch2",
+            "time": "2025-03-26 06:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_8.jpg&w=300",
             "title": "電價若漲、通膨恐破2% 台經院憂汽車關稅",
             "link": "https://udn.com//news/story/7238/8632194?from=udn-catebreaknews_ch2",
             "time": "2025-03-26 05:00"
@@ -19,16 +25,10 @@
             "time": "2025-03-26 03:11"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
             "title": "AI平價化 台經院：別把大廠當神明",
             "link": "https://udn.com//news/story/7240/8632131?from=udn-catebreaknews_ch2",
             "time": "2025-03-26 03:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/25/realtime/31719965.jpg&s=Y&x=0&y=0&sw=1050&sh=700&exp=3600&w=300",
-            "title": "蔡崇信：看見AI泡沫化跡象",
-            "link": "https://udn.com//news/story/7240/8632126?from=udn-catebreaknews_ch2",
-            "time": "2025-03-26 03:09"
         }
     ]
 }
