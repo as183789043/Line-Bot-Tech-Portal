@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
+            "title": "川普制裁委國原油 中國再中招",
+            "link": "https://udn.com//news/story/124373/8632107?from=udn-catebreaknews_ch2",
+            "time": "2025-03-26 02:05"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/03/25/31715474.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "韓版台積電 現代投資美210億美元",
+            "link": "https://udn.com//news/story/6811/8632105?from=udn-catebreaknews_ch2",
+            "time": "2025-03-26 02:03"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/25/realtime/31719936.jpg&s=Y&x=0&y=0&sw=2267&sh=1511&exp=3600&w=300",
+            "title": "川普國安群組 作戰機密外洩…誤將媒體總編輯拉進聊天群",
+            "link": "https://udn.com//news/story/6813/8632106?from=udn-catebreaknews_ch2",
+            "time": "2025-03-26 01:58"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/25/realtime/31719786.jpg&s=Y&x=0&y=0&sw=5900&sh=3933&exp=3600&w=300",
             "title": "政敵被捕引爆土耳其各地抗議 厄多安：在野黨要負責",
             "link": "https://udn.com//news/story/6809/8631947?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "國安群組洩密事件 川普首發聲力挺國安顧問沃茲",
             "link": "https://udn.com//news/story/6813/8631926?from=udn-catebreaknews_ch2",
             "time": "2025-03-25 22:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/25/realtime/31719723.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
-            "title": "美股早盤開高拉回平盤震盪 輝達跌1.5%、台積電ADR跌0.5%",
-            "link": "https://udn.com//news/story/6811/8631908?from=udn-catebreaknews_ch2",
-            "time": "2025-03-25 22:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/25/98/31719677.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "南韓野火延燒再疏散數千人 火勢逼近世界遺產河回村",
-            "link": "https://udn.com//news/story/6809/8631837?from=udn-catebreaknews_ch2",
-            "time": "2025-03-25 22:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/25/realtime/31719671.jpg&s=Y&x=0&y=0&sw=3840&sh=2560&exp=3600&w=300",
-            "title": "毛利率有撐？台積電美國廠生產晶片 成本僅比台灣高10%",
-            "link": "https://udn.com//news/story/6811/8631867?from=udn-catebreaknews_ch2",
-            "time": "2025-03-25 22:07"
         }
     ]
 }
