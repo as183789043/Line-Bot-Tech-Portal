@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/27/realtime/31730759.jpeg&s=Y&x=1108&y=1592&sw=2148&sh=1432&exp=3600&w=300",
+            "title": "瀚亞投資日本動力股票 獲金鑽獎肯定",
+            "link": "https://udn.com//news/story/7251/8636336?from=udn-catebreaknews_ch2",
+            "time": "2025-03-27 16:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/27/2/31730758.jpg&s=Y&x=0&y=0&sw=1211&sh=807&exp=3600&w=300",
             "title": "本土投信首家！統一台股主動式ETF獲准募集 發行價10元",
             "link": "https://udn.com//news/story/123006/8636328?from=udn-catebreaknews_ch2",
@@ -22,12 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/27/realtime/31730618.jpg&s=Y&x=0&y=0&sw=1567&sh=1045&exp=3600&w=300",
             "title": "火鍋霸主築間4月轉上櫃 今年海內外持續展店",
             "link": "https://udn.com//news/story/7254/8636268?from=udn-catebreaknews_ch2",
-            "time": "2025-03-27 15:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/27/realtime/31730617.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "摩根投信合作全支付 基金配息直接匯入全支付",
-            "link": "https://udn.com//news/story/10103/8636267?from=udn-catebreaknews_ch2",
             "time": "2025-03-27 15:52"
         }
     ]
