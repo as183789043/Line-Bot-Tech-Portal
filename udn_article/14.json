@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/26/105/31729856.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "如何解決財富傳承3挑戰？",
+            "link": "https://udn.com//news/story/6854/8634172?from=udn-catebreaknews_ch2",
+            "time": "2025-03-27 14:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/27/0/31728580.jpg&s=Y&x=284&y=0&sw=916&sh=611&exp=3600&w=300",
             "title": "觀光客暴增、每人平均在日本花5萬 若日幣走強會怎樣？",
             "link": "https://udn.com//news/story/6841/8635498?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "美國人不幸福 原因與獨自用餐有關",
             "link": "https://udn.com//news/story/6897/8632624?from=udn-catebreaknews_ch2",
             "time": "2025-03-26 14:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/26/draft/31722587.jpg&s=Y&x=94&y=0&sw=706&sh=471&exp=3600&w=300",
-            "title": "手握魷魚遊戲、咒術迴戰IP 台灣唯一掛牌公仔股「野獸國」 如從年虧數千萬到營收13億",
-            "link": "https://udn.com//news/story/6839/8633002?from=udn-catebreaknews_ch2",
-            "time": "2025-03-26 14:40"
         }
     ]
 }
