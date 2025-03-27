@@ -1,7 +1,19 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/01/06/31220233.jpg&s=Y&x=103&y=0&sw=1074&sh=716&exp=3600&w=300",
+            "title": "美媒：若台海開戰 關島恐成為中國飛彈襲擊主要目標",
+            "link": "https://udn.com//news/story/6809/8637499?from=udn-catebreaknews_ch2",
+            "time": "2025-03-28 04:09"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/26/98/31725640.jpg&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
+            "title": "韓國野火史上最嚴重 增至28死 逾3.8萬公頃林地被毀 ",
+            "link": "https://udn.com//news/story/6809/8637508?from=udn-catebreaknews_ch2",
+            "time": "2025-03-28 04:07"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
             "title": "關稅威脅 日憂與美關係",
             "link": "https://udn.com//news/story/124373/8637306?from=udn-catebreaknews_ch2",
             "time": "2025-03-28 01:54"
@@ -17,18 +29,6 @@
             "title": "美國防部長赫塞斯首訪亞太 攜盟友嚇阻陸",
             "link": "https://udn.com//news/story/6809/8637302?from=udn-catebreaknews_ch2",
             "time": "2025-03-28 01:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/27/realtime/31728692.jpg&s=Y&x=0&y=0&sw=5681&sh=3787&exp=3600&w=300",
-            "title": "川普：下周徵對等關稅 稅率比預期低",
-            "link": "https://udn.com//news/story/124373/8637401?from=udn-catebreaknews_ch2",
-            "time": "2025-03-28 01:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/27/realtime/31732843.jpg&s=Y&x=0&y=18&sw=2766&sh=1844&exp=3600&w=300",
-            "title": "美課25%關稅…馬自達、通用恐虧損 豐田少賺3成",
-            "link": "https://udn.com//news/story/124373/8637393?from=udn-catebreaknews_ch2",
-            "time": "2025-03-28 01:25"
         }
     ]
 }
