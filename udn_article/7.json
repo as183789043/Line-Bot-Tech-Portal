@@ -1,8 +1,20 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/28/realtime/31737562.jpg&s=Y&x=0&y=42&sw=5712&sh=3808&exp=3600&w=300",
+            "title": "金寶法說會／擴大美投資！聖地牙哥擴廠最快8月落成 配息創17年來新高",
+            "link": "https://udn.com//news/story/7253/8638954?from=udn-catebreaknews_ch2",
+            "time": "2025-03-28 17:01"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/28/realtime/31737402.jpg&s=Y&x=0&y=7&sw=794&sh=528&exp=3600&w=300",
+            "title": "上市櫃最熱股 00919爆23.5萬張成交量居冠",
+            "link": "https://udn.com//news/story/123006/8638898?from=udn-catebreaknews_ch2",
+            "time": "2025-03-28 16:42"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/28/realtime/31735925.jpg&s=Y&x=0&y=0&sw=1620&sh=1080&exp=3600&w=300",
-            "title": "總統「國艦國造」加持 龍德造船午盤急拉漲停、委買逾3萬張",
+            "title": "賴清德稱「國艦國造」政策一定會貫徹到底 龍德造船應聲漲停",
             "link": "https://udn.com//news/story/7252/8638764?from=udn-catebreaknews_ch2",
             "time": "2025-03-28 15:50"
         },
@@ -17,18 +29,6 @@
             "title": "台股下跌348點 三大法人賣超468億元",
             "link": "https://udn.com//news/story/7251/8638682?from=udn-catebreaknews_ch2",
             "time": "2025-03-28 15:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/28/2/31736821.jpg&s=Y&x=0&y=44&sw=1172&sh=781&exp=3600&w=300",
-            "title": "偉康科技2月自結純益年增逾126% 每股純益0.05元",
-            "link": "https://udn.com//news/story/7254/8638652?from=udn-catebreaknews_ch2",
-            "time": "2025-03-28 14:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/28/2/31736610.jpg&s=Y&x=16&y=8&sw=1105&sh=737&exp=3600&w=300",
-            "title": "台股量縮周跌606點 軍工逆漲奪魁、5大權值全淪陷",
-            "link": "https://udn.com//news/story/7251/8638645?from=udn-catebreaknews_ch2",
-            "time": "2025-03-28 14:56"
         }
     ]
 }
