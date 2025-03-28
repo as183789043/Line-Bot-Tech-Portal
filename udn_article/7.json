@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/18/2/31673397.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電跌破千元散戶搶 3月盤中零股交易近600億元",
+            "link": "https://udn.com//news/story/7251/8639291?from=udn-catebreaknews_ch2",
+            "time": "2025-03-28 19:51"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/27/98/31728368.jpg&s=Y&x=0&y=0&sw=1024&sh=683&exp=3600&w=300",
+            "title": "台股重挫寫半年新低 金管會：基本面未改變",
+            "link": "https://udn.com//news/story/7251/8639264?from=udn-catebreaknews_ch2",
+            "time": "2025-03-28 19:26"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/2/31190432.jpg&s=Y&x=0&y=0&sw=1025&sh=683&exp=3600&w=300",
             "title": "外資賣超336億 這檔竟逆勢獲買超1.2萬張",
             "link": "https://udn.com//news/story/7251/8639158?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "川普關稅衝擊發酵 外資單月提款逾4,200億",
             "link": "https://udn.com//news/story/7251/8639101?from=udn-catebreaknews_ch2",
             "time": "2025-03-28 17:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/22/98/31700533.jpg&s=Y&x=168&y=16&sw=979&sh=653&exp=3600&w=300",
-            "title": "台積電法說會 將於4月17日舉行",
-            "link": "https://udn.com//news/story/7253/8639069?from=udn-catebreaknews_ch2",
-            "time": "2025-03-28 17:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/28/realtime/31737562.jpg&s=Y&x=0&y=42&sw=5712&sh=3808&exp=3600&w=300",
-            "title": "金寶法說會／擴大美投資！聖地牙哥擴廠最快8月落成 配息創17年來新高",
-            "link": "https://udn.com//news/story/7253/8638954?from=udn-catebreaknews_ch2",
-            "time": "2025-03-28 17:01"
         }
     ]
 }
