@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/28/0/31733873.jpg&s=Y&x=16&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "一台AI「X光機」3秒分類材質 它為台灣每年8萬噸舊衣拚重生",
+            "link": "https://udn.com//news/story/6837/8637618?from=udn-catebreaknews_ch2",
+            "time": "2025-03-28 08:22"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/28/0/31733868.jpg&s=Y&x=8&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "三大影音串流平台讓你一次訂 台灣大「綑綁經濟」背後5G突圍戰",
+            "link": "https://udn.com//news/story/6837/8637617?from=udn-catebreaknews_ch2",
+            "time": "2025-03-28 08:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/27/draft/31728683.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
             "title": "矽光子 到了交成績單時刻",
             "link": "https://udn.com//news/story/6851/8635552?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "漢翔、千附精密搶下軍工紅利",
             "link": "https://udn.com//news/story/6851/8635531?from=udn-catebreaknews_ch2",
             "time": "2025-03-27 15:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/20/0/31687800.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "謝金河：台股今年度小月兩顆引擎鞏固與整頓",
-            "link": "https://udn.com//news/story/6851/8635520?from=udn-catebreaknews_ch2",
-            "time": "2025-03-27 15:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/27/draft/31728598.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "4月2日台股解放日 成交量縮、外資賣不下去 利空逐漸消弭",
-            "link": "https://udn.com//news/story/6851/8635503?from=udn-catebreaknews_ch2",
-            "time": "2025-03-27 15:02"
         }
     ]
 }
