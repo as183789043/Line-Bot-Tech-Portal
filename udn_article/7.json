@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/06/10/98/29794761.jpg&s=Y&x=0&y=0&sw=883&sh=589&exp=3600&w=300",
+            "title": "AI前景現疑慮？ 外資近期調降八台廠目標價",
+            "link": "https://udn.com//news/story/7251/8639485?from=udn-catebreaknews_ch2",
+            "time": "2025-03-28 21:28"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/18/2/31673397.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台積電跌破千元散戶搶 3月盤中零股交易近600億元",
             "link": "https://udn.com//news/story/7251/8639291?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "外資3月來賣超逾4千億元衝新高 台積電鴻海成提款機",
             "link": "https://udn.com//news/story/7251/8639105?from=udn-catebreaknews_ch2",
             "time": "2025-03-28 18:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/07/12/2/29991532.jpg&s=Y&x=0&y=40&sw=960&sh=640&exp=3600&w=300",
-            "title": "川普關稅衝擊發酵 外資單月提款逾4,200億",
-            "link": "https://udn.com//news/story/7251/8639101?from=udn-catebreaknews_ch2",
-            "time": "2025-03-28 17:59"
         }
     ]
 }
