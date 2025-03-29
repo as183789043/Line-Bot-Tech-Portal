@@ -1,9 +1,15 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/29/realtime/31744144.jpg&s=Y&x=71&y=0&sw=2550&sh=1700&exp=3600&w=300",
+            "title": "緬甸8.2強震 已1644死 美估罹難者破萬",
+            "link": "https://udn.com//news/story/124429/8641190?from=udn-catebreaknews_ch2",
+            "time": "2025-03-30 02:32"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/29/realtime/31744052.jpg&s=Y&x=51&y=0&sw=1179&sh=787&exp=3600&w=300",
-            "title": "「他們沒有停下來」 緬甸軍方據報強震後繼續空襲「緊急狀態」地區",
-            "link": "https://udn.com//news/story/6809/8641117?from=udn-catebreaknews_ch2",
+            "title": "緬甸軍方據報強震後繼續空襲「緊急狀態」地區",
+            "link": "https://udn.com//news/story/124429/8641117?from=udn-catebreaknews_ch2",
             "time": "2025-03-29 23:06"
         },
         {
@@ -23,12 +29,6 @@
             "title": "前執行長基辛格「被閃電退休」 英特爾發2.6億離職金",
             "link": "https://udn.com//news/story/6811/8641071?from=udn-catebreaknews_ch2",
             "time": "2025-03-29 22:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/29/realtime/31743940.jpg&s=Y&x=0&y=0&sw=5320&sh=3547&exp=3600&w=300",
-            "title": "緬甸8.2強震傷亡數攀升 軍政府：增至1644死、3408傷",
-            "link": "https://udn.com//news/story/124429/8641063?from=udn-catebreaknews_ch2",
-            "time": "2025-03-29 22:22"
         }
     ]
 }
