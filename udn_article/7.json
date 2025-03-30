@@ -1,13 +1,25 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/25/0/31715632.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股連日下跌黃金如同另一個世界！存股哥：這2年飆漲50%以上若放銀行一年2%通膨",
+            "link": "https://udn.com//news/story/7251/8641576?from=udn-catebreaknews_ch2",
+            "time": "2025-03-30 10:55"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/19/0/31680415.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "持股市值1877萬！小師傅：00929換成00713累積67張一年增30幾萬左右配息",
+            "link": "https://udn.com//news/story/123006/8641545?from=udn-catebreaknews_ch2",
+            "time": "2025-03-30 10:45"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/26/2/31723210.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "上市櫃去年賺4.05兆寫次高 專家看好今年獲利將衝4.5兆元新高",
             "link": "https://udn.com//news/story/7251/8641160?from=udn-catebreaknews_ch2",
             "time": "2025-03-30 01:25"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
             "title": "上市櫃公司股息配發 上看2.25兆",
             "link": "https://udn.com//news/story/7251/8641172?from=udn-catebreaknews_ch2",
             "time": "2025-03-30 01:22"
@@ -17,18 +29,6 @@
             "title": "上市銀行股利行情可期 法人估彰銀配現金0.65元…16年新高",
             "link": "https://udn.com//news/story/7252/8641167?from=udn-catebreaknews_ch2",
             "time": "2025-03-30 01:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/30/2/31744283.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "三科技廠法說談營運",
-            "link": "https://udn.com//news/story/7253/8641053?from=udn-catebreaknews_ch2",
-            "time": "2025-03-30 00:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
-            "title": "中再保、遠東銀 展望聚焦",
-            "link": "https://udn.com//news/story/7252/8641054?from=udn-catebreaknews_ch2",
-            "time": "2025-03-30 00:23"
         }
     ]
 }
