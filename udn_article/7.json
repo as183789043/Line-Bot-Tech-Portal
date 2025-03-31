@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/31/2/31750934.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "台股匯黑色星期一 台積市值蒸發1.09兆",
+            "link": "https://udn.com//news/story/7251/8645036?from=udn-catebreaknews_ch2",
+            "time": "2025-04-01 04:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/31/realtime/31754756.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
             "title": "台股重挫！證交所喊話：企業獲利穩健 景氣維持成長趨勢",
             "link": "https://udn.com//news/story/7251/8644475?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "股市波動好大！下殺還只是開始？00945「債」配置入袋為安穩配現金流",
             "link": "https://udn.com//news/story/123006/8644020?from=udn-catebreaknews_ch2",
             "time": "2025-03-31 18:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/21/2/31692281.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "外資賣超378億元 賣超前三大竟清一色是這類ETF",
-            "link": "https://udn.com//news/story/123006/8644346?from=udn-catebreaknews_ch2",
-            "time": "2025-03-31 17:55"
         }
     ]
 }
