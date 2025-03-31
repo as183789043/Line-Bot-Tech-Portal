@@ -1,13 +1,25 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/31/1/31755855.png&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
+            "title": "關稅戰陰影波及台積電 圖解川普上任後台股表現多慘",
+            "link": "https://udn.com//news/story/7314/8645031?from=udn-catebreaknews_ch2",
+            "time": "2025-04-01 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/01/realtime/31756074.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "川普風暴來襲全球股市皆墨 賴政府還能不動如山？",
+            "link": "https://udn.com//news/story/6656/8645071?from=udn-catebreaknews_ch2",
+            "time": "2025-04-01 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
             "title": "新聞眼／濫用就業安定基金 竟要全民埋單",
             "link": "https://udn.com//news/story/6656/8644999?from=udn-catebreaknews_ch2",
             "time": "2025-04-01 02:06"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
             "title": "紀念日與節日修法 初審通過",
             "link": "https://udn.com//news/story/6656/8645009?from=udn-catebreaknews_ch2",
             "time": "2025-04-01 02:06"
@@ -17,18 +29,6 @@
             "title": "濫用就安基金 勞部挨批沒想追討",
             "link": "https://udn.com//news/story/6656/8644998?from=udn-catebreaknews_ch2",
             "time": "2025-04-01 02:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/31/realtime/31754622.jpg&s=Y&x=64&y=0&sw=726&sh=485&exp=3600&w=300",
-            "title": "綠高市議員黃明太：民進黨不能變一言堂",
-            "link": "https://udn.com//news/story/6656/8644953?from=udn-catebreaknews_ch2",
-            "time": "2025-04-01 01:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/25/realtime/31717078.jpg&s=Y&x=0&y=6&sw=800&sh=532&exp=3600&w=300",
-            "title": "期限已到 南非逼遷駐處 外交部提協商",
-            "link": "https://udn.com//news/story/6656/8644954?from=udn-catebreaknews_ch2",
-            "time": "2025-04-01 01:41"
         }
     ]
 }
