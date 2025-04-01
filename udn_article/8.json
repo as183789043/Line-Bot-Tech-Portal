@@ -1,6 +1,24 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/02/realtime/31765817.jpg&s=Y&x=0&y=0&sw=3828&sh=2603&exp=3600&w=300",
+            "title": "天氣好轉 吳德榮：清明連假晴朗回暖 下周4天雷雨盛行",
+            "link": "https://udn.com//news/story/7266/8647901?from=udn-catebreaknews_ch2",
+            "time": "2025-04-02 06:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/02/realtime/31765701.jpeg&s=Y&x=0&y=21&sw=2959&sh=1972&exp=3600&w=300",
+            "title": "冷氣團發威至少凍到明晨 清明舒適溫暖、周六起水氣增",
+            "link": "https://udn.com//news/story/7266/8647875?from=udn-catebreaknews_ch2",
+            "time": "2025-04-02 06:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/02/realtime/31765691.png&s=Y&x=0&y=8&sw=1125&sh=750&exp=3600&w=300",
+            "title": "凌晨2時17分台灣東南部海域規模3.7地震 蘭嶼最大震度3級",
+            "link": "https://udn.com//news/story/7266/8647873?from=udn-catebreaknews_ch2",
+            "time": "2025-04-02 05:54"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/01/1/31763384.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "37項指示藥品 健保明年擬不給付",
             "link": "https://udn.com//news/story/7266/8647549?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "乳癌免疫療法 先健保給付再評估效益",
             "link": "https://udn.com//news/story/7266/8647553?from=udn-catebreaknews_ch2",
             "time": "2025-04-02 04:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/01/realtime/31762072.jpg&s=Y&x=0&y=27&sw=4000&sh=2666&exp=3600&w=300",
-            "title": "護理夜班獎勵擴大 全員發放",
-            "link": "https://udn.com//news/story/7266/8647552?from=udn-catebreaknews_ch2",
-            "time": "2025-04-02 03:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_7.jpg&w=300",
-            "title": "清明將至 今國道3路段車多",
-            "link": "https://udn.com//news/story/7266/8647555?from=udn-catebreaknews_ch2",
-            "time": "2025-04-02 03:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_6.jpg&w=300",
-            "title": "鐵達尼號音樂會 北中南巡演",
-            "link": "https://udn.com//news/story/7266/8647620?from=udn-catebreaknews_ch2",
-            "time": "2025-04-02 03:56"
         }
     ]
 }
