@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/04/03/31774559.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "對等關稅宣布前 美股震盪上揚、道瓊收漲逾200點",
+            "link": "https://udn.com//news/story/6811/8650612?from=udn-catebreaknews_ch2",
+            "time": "2025-04-03 05:04"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/03/1/31774473.jpg&s=Y&x=0&y=0&sw=1259&sh=839&exp=3600&w=300",
             "title": "川普宣布對等關稅 課徵台灣32%關稅",
             "link": "https://udn.com//news/story/124373/8650605?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "美就業數據強彈沖淡隱憂 勞工流動性下降顯示勞動市場穩健",
             "link": "https://udn.com//news/story/6811/8650337?from=udn-catebreaknews_ch2",
             "time": "2025-04-03 01:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/02/realtime/31773296.jpg&s=Y&x=0&y=0&sw=3962&sh=2580&exp=3600&w=300",
-            "title": "太陽能充沛 歐洲出現「負電價」",
-            "link": "https://udn.com//news/story/6811/8650333?from=udn-catebreaknews_ch2",
-            "time": "2025-04-03 01:39"
         }
     ]
 }
