@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
+            "title": "高息ETF三雄 強勢吸金",
+            "link": "https://udn.com//news/story/123006/8650297?from=udn-catebreaknews_ch2",
+            "time": "2025-04-02 23:30"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/27/2/31728249.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "元大期董事會決議發現金股利4.8元 由高毅瑞接任總座",
+            "link": "https://udn.com//news/story/7254/8650274?from=udn-catebreaknews_ch2",
+            "time": "2025-04-02 22:39"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/24/0/31710777.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "川普關稅「預測三方向」…股跌債漲市場根本不在乎？美債在衰退情緒中具避險作用",
             "link": "https://udn.com//news/story/123006/8650235?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台股本週下跌304點！成交金額前3名曝光 這類股跌幅4.38%最大",
             "link": "https://udn.com//news/story/7251/8649846?from=udn-catebreaknews_ch2",
             "time": "2025-04-02 19:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/02/0/31767891.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "009804市值型ETF小0050發行價僅10元！股市波動反而帶來投資機會",
-            "link": "https://udn.com//news/story/123006/8649936?from=udn-catebreaknews_ch2",
-            "time": "2025-04-02 19:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/02/2/31772313.jpg&s=Y&x=0&y=108&sw=1278&sh=852&exp=3600&w=300",
-            "title": "台灣高鐵營收／第1季133.73億元 年減0.03%",
-            "link": "https://udn.com//news/story/7252/8649925?from=udn-catebreaknews_ch2",
-            "time": "2025-04-02 19:33"
         }
     ]
 }
