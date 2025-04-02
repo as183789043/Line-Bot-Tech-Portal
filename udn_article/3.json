@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/03/1/31774473.jpg&s=Y&x=0&y=0&sw=1259&sh=839&exp=3600&w=300",
+            "title": "川普宣布對等關稅 課徵台灣32%關稅",
+            "link": "https://udn.com//news/story/124373/8650605?from=udn-catebreaknews_ch2",
+            "time": "2025-04-03 04:40"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/02/2/31771232.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "華爾街日報：川普律師研究第3任期可能途徑",
             "link": "https://udn.com//news/story/6813/8650580?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "太陽能充沛 歐洲出現「負電價」",
             "link": "https://udn.com//news/story/6811/8650333?from=udn-catebreaknews_ch2",
             "time": "2025-04-03 01:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
-            "title": "韓元貶值 意外推升物價",
-            "link": "https://udn.com//news/story/6811/8650321?from=udn-catebreaknews_ch2",
-            "time": "2025-04-03 01:37"
         }
     ]
 }
