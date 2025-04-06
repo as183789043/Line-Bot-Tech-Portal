@@ -1,12 +1,6 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/06/1/31800160.png&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
-            "title": "台股迎黑色星期一 圖解歷年股災 後續跌勢有多久",
-            "link": "https://udn.com//news/story/7314/8656743?from=udn-catebreaknews_ch2",
-            "time": "2025-04-07 05:50"
-        },
-        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/06/1/31800122.png&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "【總編開箱】／從台美關係史上最好 到對台關稅史上最高 賴政府誤判再誤判",
             "link": "https://udn.com//news/story/124438/8656737?from=udn-catebreaknews_ch2",
@@ -25,10 +19,16 @@
             "time": "2025-04-07 02:38"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
             "title": "賴清德總統公布五策略 「台灣加1」整合投資美國隊",
             "link": "https://udn.com//news/story/124438/8656660?from=udn-catebreaknews_ch2",
             "time": "2025-04-07 02:36"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/04/1/31593051.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "晉升反減薪 國軍加薪現怪象",
+            "link": "https://udn.com//news/story/10930/8656661?from=udn-catebreaknews_ch2",
+            "time": "2025-04-07 01:39"
         }
     ]
 }
