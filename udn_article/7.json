@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/06/2/31797137.jpg&s=Y&x=0&y=0&sw=1211&sh=807&exp=3600&w=300",
+            "title": "台股限空 金管會祭兩大措施",
+            "link": "https://udn.com//news/story/7251/8656663?from=udn-catebreaknews_ch2",
+            "time": "2025-04-07 03:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/07/1/31800394.jpg&s=Y&x=0&y=484&sw=1281&sh=854&exp=3600&w=300",
             "title": "台股若跌1765點 轉入熊市",
             "link": "https://udn.com//news/story/7251/8656683?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "00878、00919、00713…該出清？小師傅「股災學會5件事」：我不會賣只會買",
             "link": "https://udn.com//news/story/123006/8656515?from=udn-catebreaknews_ch2",
             "time": "2025-04-06 22:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/06/realtime/31798539.jpg&s=Y&x=0&y=0&sw=5900&sh=3935&exp=3600&w=300",
-            "title": "川投顧大開殺戒…台股真崩2000點怎辦？達人：我都是在綠油油的時候上工下單",
-            "link": "https://udn.com//news/story/123006/8656413?from=udn-catebreaknews_ch2",
-            "time": "2025-04-06 21:07"
         }
     ]
 }
