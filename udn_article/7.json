@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/04/98/31786915.jpg&s=Y&x=0&y=0&sw=1250&sh=833&exp=3600&w=300",
+            "title": "台股周一殺2000點也不無可能…資產配置極其重要！00950B適合長期投資人持有",
+            "link": "https://udn.com//news/story/123006/8654580?from=udn-catebreaknews_ch2",
+            "time": "2025-04-06 09:05"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/05/realtime/31793640.jpg&s=Y&x=255&y=0&sw=2832&sh=1889&exp=3600&w=300",
             "title": "因應美對等關稅 國安基金最快周一開會護盤",
             "link": "https://udn.com//news/story/7251/8655248?from=udn-catebreaknews_ch2",
@@ -13,22 +19,16 @@
             "time": "2025-04-06 02:38"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
             "title": "藥華藥上月攀峰 樂觀前景",
             "link": "https://udn.com//news/story/7252/8655196?from=udn-catebreaknews_ch2",
             "time": "2025-04-06 01:41"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
             "title": "對手受限 材料迎三利多",
             "link": "https://udn.com//news/story/7252/8655199?from=udn-catebreaknews_ch2",
             "time": "2025-04-06 01:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/06/2/31793904.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "南亞科、技嘉、宣德 法說聚光",
-            "link": "https://udn.com//news/story/7253/8655120?from=udn-catebreaknews_ch2",
-            "time": "2025-04-06 00:58"
         }
     ]
 }
