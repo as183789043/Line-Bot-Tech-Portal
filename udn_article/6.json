@@ -1,13 +1,25 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/06/98/31796071.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "川普對等關稅震撼分散策略失靈 成衣廠下半年旺季蒙陰影",
+            "link": "https://udn.com//news/story/7241/8655471?from=udn-catebreaknews_ch2",
+            "time": "2025-04-06 10:30"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/05/realtime/31792460.jpg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
+            "title": "本周台股／台股周一補跌瘋狗浪來襲 狂瀉的股票可撿？",
+            "link": "https://udn.com//news/story/7238/8654896?from=udn-catebreaknews_ch2",
+            "time": "2025-04-06 10:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/05/0/31792999.jpg&s=Y&x=120&y=0&sw=866&sh=577&exp=3600&w=300",
             "title": "「要跳槽到微軟！」一封公開信在OpenAI員工中瘋傳 強烈譴責董事會",
             "link": "https://udn.com//news/story/121591/8654887?from=udn-catebreaknews_ch2",
             "time": "2025-04-06 05:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
             "title": "微軟發表AI助理升級版",
             "link": "https://udn.com//news/story/7240/8655188?from=udn-catebreaknews_ch2",
             "time": "2025-04-06 04:57"
@@ -17,18 +29,6 @@
             "title": "央行加強金檢 衝擊換屋族",
             "link": "https://udn.com//news/story/7239/8655178?from=udn-catebreaknews_ch2",
             "time": "2025-04-06 04:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_8.jpg&w=300",
-            "title": "Q1營收穩 鴻海、大立光關注變局",
-            "link": "https://udn.com//news/story/7240/8655186?from=udn-catebreaknews_ch2",
-            "time": "2025-04-06 04:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/05/realtime/31792084.jpg&s=Y&x=0&y=124&sw=1477&sh=985&exp=3600&w=300",
-            "title": "卓揆召集財金首長開會 國安基金最快周一開臨時會",
-            "link": "https://udn.com//news/story/7238/8655227?from=udn-catebreaknews_ch2",
-            "time": "2025-04-06 02:47"
         }
     ]
 }
