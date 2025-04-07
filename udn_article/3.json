@@ -1,10 +1,22 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/04/08/31808631.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "道指連跌三日…盤中震幅近2600點 那指意外小漲",
+            "link": "https://udn.com//news/story/6811/8659164?from=udn-catebreaknews_ch2",
+            "time": "2025-04-08 04:52"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/04/realtime/31786945.jpg&s=Y&x=0&y=0&sw=2500&sh=1667&exp=3600&w=300",
             "title": "美股劇震 亞歐股倒一片…日圓、公債等避險資產走高",
             "link": "https://udn.com//news/story/6811/8658980?from=udn-catebreaknews_ch2",
             "time": "2025-04-08 03:29"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/04/07/31804018.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "詐騙NBA球星「魔獸」霍華德700萬美元 喬州商人判12年",
+            "link": "https://udn.com//news/story/6813/8657691?from=udn-catebreaknews_ch2",
+            "time": "2025-04-08 03:28"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/07/2/31806139.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
@@ -17,18 +29,6 @@
             "title": "引爆股災 川普說詞強硬「治病就得吃藥」",
             "link": "https://udn.com//news/story/124373/8658904?from=udn-catebreaknews_ch2",
             "time": "2025-04-08 02:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
-            "title": "加稅…美國財經官員口徑一致 力挺川普",
-            "link": "https://udn.com//news/story/124373/8658911?from=udn-catebreaknews_ch2",
-            "time": "2025-04-08 02:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/07/2/31806139.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "應對川普高關稅…各國動起來 因應辦法一次看",
-            "link": "https://udn.com//news/story/124373/8658913?from=udn-catebreaknews_ch2",
-            "time": "2025-04-08 02:33"
         }
     ]
 }
