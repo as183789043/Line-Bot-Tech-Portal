@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/07/realtime/31805330.jpg&s=Y&x=24&y=0&sw=1131&sh=754&exp=3600&w=300",
+            "title": "廣達董事長林百里、副董事長梁次震 單日持股市值共蒸發逾114億元",
+            "link": "https://udn.com//news/story/7253/8658601?from=udn-catebreaknews_ch2",
+            "time": "2025-04-07 19:56"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/07/realtime/31806756.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "證交所曝936檔股票明平盤以下禁止放空 降低震盪的風險",
+            "link": "https://udn.com//news/story/124442/8658554?from=udn-catebreaknews_ch2",
+            "time": "2025-04-07 19:26"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/07/2/31803168.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "獨家／不是跌停？台積電盤後出現1,035元高價 引發熱議",
             "link": "https://udn.com//news/story/124442/8658520?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "國安基金沙盤推演三重點 是否進場護盤明下午見分曉",
             "link": "https://udn.com//news/story/124442/8658378?from=udn-catebreaknews_ch2",
             "time": "2025-04-07 17:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/07/2/31803072.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "關稅大戰開打 首家降評台股至「減碼」的外資是這家",
-            "link": "https://udn.com//news/story/124442/8658325?from=udn-catebreaknews_ch2",
-            "time": "2025-04-07 17:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/07/realtime/31805890.jpg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
-            "title": "台股重挫...國安基金啟動？政府表態了",
-            "link": "https://udn.com//news/story/124442/8658293?from=udn-catebreaknews_ch2",
-            "time": "2025-04-07 17:26"
         }
     ]
 }
