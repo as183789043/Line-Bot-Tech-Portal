@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/07/2/31803072.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電ADR已崩36%...「兩大利空」襲擊、半導體業挨重拳 謝金河：壓力來了",
+            "link": "https://udn.com//news/story/124442/8657999?from=udn-catebreaknews_ch2",
+            "time": "2025-04-08 05:28"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
+            "title": "期貨商論壇／台積期 低檔盤整",
+            "link": "https://udn.com//news/story/7255/8658534?from=udn-catebreaknews_ch2",
+            "time": "2025-04-08 05:19"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "title": "期貨商論壇／永續期 審慎操作",
+            "link": "https://udn.com//news/story/7255/8658537?from=udn-catebreaknews_ch2",
+            "time": "2025-04-08 05:19"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/06/2/31798150.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台股無量崩跌 開盤即收盤…狂瀉2,065點",
             "link": "https://udn.com//news/story/124442/8658978?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "1,702檔股票禁平盤下放空 國安基金不排除開臨時會",
             "link": "https://udn.com//news/story/124442/8658948?from=udn-catebreaknews_ch2",
             "time": "2025-04-08 03:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/07/2/31806039.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台股無量崩跌 國安基金護盤時機…緊盯10年線",
-            "link": "https://udn.com//news/story/124442/8658961?from=udn-catebreaknews_ch2",
-            "time": "2025-04-08 03:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/07/realtime/31807549.jpg&s=Y&x=106&y=0&sw=1677&sh=1119&exp=3600&w=300",
-            "title": "台股慘綠宣告落入熊市 589檔融資維持率低…發出追繳令",
-            "link": "https://udn.com//news/story/124442/8658903?from=udn-catebreaknews_ch2",
-            "time": "2025-04-08 02:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
-            "title": "川普大打關稅戰…大摩喊減碼台股 外資第一家",
-            "link": "https://udn.com//news/story/124442/8658909?from=udn-catebreaknews_ch2",
-            "time": "2025-04-08 02:57"
         }
     ]
 }
