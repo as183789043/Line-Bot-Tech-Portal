@@ -1,13 +1,19 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
+            "title": "南韓政府敲定 擬6月3日選總統",
+            "link": "https://udn.com//news/story/6809/8658850?from=udn-catebreaknews_ch2",
+            "time": "2025-04-08 02:27"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/07/realtime/31807548.jpg&s=Y&x=0&y=15&sw=2104&sh=1402&exp=3600&w=300",
             "title": "川普拚第3任 美司法部：幾無可能",
             "link": "https://udn.com//news/story/6813/8658899?from=udn-catebreaknews_ch2",
             "time": "2025-04-08 02:18"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
             "title": "市場預期 美聯準會將緊急降息",
             "link": "https://udn.com//news/story/6811/8658992?from=udn-catebreaknews_ch2",
             "time": "2025-04-08 02:15"
@@ -22,12 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
             "title": "美議員：民眾看見儲蓄著火了",
             "link": "https://udn.com//news/story/124373/8659028?from=udn-catebreaknews_ch2",
-            "time": "2025-04-08 02:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/07/realtime/31807704.jpg&s=Y&x=0&y=17&sw=2586&sh=1724&exp=3600&w=300",
-            "title": "美國投資大咖 反對川普高關稅",
-            "link": "https://udn.com//news/story/124373/8659023?from=udn-catebreaknews_ch2",
             "time": "2025-04-08 02:02"
         }
     ]
