@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/08/realtime/31807871.jpg&s=Y&x=0&y=21&sw=3059&sh=2038&exp=3600&w=300",
+            "title": "史上最慘…台股周一跌2065點 台積電跳空跌停",
+            "link": "https://udn.com//news/story/124442/8659086?from=udn-catebreaknews_ch2",
+            "time": "2025-04-08 01:08"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/07/realtime/31807486.jpg&s=Y&x=0&y=32&sw=4493&sh=2994&exp=3600&w=300",
             "title": "證交所明示「零股可開放補繳融資擔保」？ 小資族別高興太早",
             "link": "https://udn.com//news/story/124442/8658845?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "廣達董事長林百里、副董事長梁次震 單日持股市值共蒸發逾114億元",
             "link": "https://udn.com//news/story/7253/8658601?from=udn-catebreaknews_ch2",
             "time": "2025-04-07 19:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/07/realtime/31806756.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
-            "title": "證交所曝936檔股票明平盤以下禁止放空 降低震盪的風險",
-            "link": "https://udn.com//news/story/124442/8658554?from=udn-catebreaknews_ch2",
-            "time": "2025-04-07 19:26"
         }
     ]
 }
