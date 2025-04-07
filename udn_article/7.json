@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/07/realtime/31807617.jpg&s=Y&x=0&y=14&sw=1118&sh=744&exp=3600&w=300",
+            "title": "亞股慘況 數10年僅見",
+            "link": "https://udn.com//news/story/124442/8658986?from=udn-catebreaknews_ch2",
+            "time": "2025-04-08 02:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/07/realtime/31807604.jpeg&s=Y&x=0&y=0&sw=4000&sh=2668&exp=3600&w=300",
+            "title": "周一打入跌停…台股1702檔股票 今平盤下禁放空",
+            "link": "https://udn.com//news/story/124442/8658975?from=udn-catebreaknews_ch2",
+            "time": "2025-04-08 02:11"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/08/realtime/31807871.jpg&s=Y&x=0&y=21&sw=3059&sh=2038&exp=3600&w=300",
             "title": "史上最慘…台股周一跌2065點 台積電跳空跌停",
             "link": "https://udn.com//news/story/124442/8659086?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "愈挫愈勇！全球股市大屠殺 11檔海外ETF衝出史上天量",
             "link": "https://udn.com//news/story/123006/8658742?from=udn-catebreaknews_ch2",
             "time": "2025-04-07 21:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/03/realtime/31780621.jpg&s=Y&x=0&y=15&sw=2000&sh=1332&exp=3600&w=300",
-            "title": "台股狂殺逾2,000點 新台幣匯率為何戲劇化「貶翻升」？",
-            "link": "https://udn.com//news/story/124442/8658685?from=udn-catebreaknews_ch2",
-            "time": "2025-04-07 20:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/07/realtime/31805330.jpg&s=Y&x=24&y=0&sw=1131&sh=754&exp=3600&w=300",
-            "title": "廣達董事長林百里、副董事長梁次震 單日持股市值共蒸發逾114億元",
-            "link": "https://udn.com//news/story/7253/8658601?from=udn-catebreaknews_ch2",
-            "time": "2025-04-07 19:56"
         }
     ]
 }
