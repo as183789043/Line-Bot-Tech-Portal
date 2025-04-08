@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/08/realtime/31815277.png&s=Y&x=147&y=0&sw=708&sh=472&exp=3600&w=300",
+            "title": "台股放量5,489億元今年來第二大 高息ETF包辦成交量前三名",
+            "link": "https://udn.com//news/story/123006/8661282?from=udn-catebreaknews_ch2",
+            "time": "2025-04-08 20:53"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/08/98/31815255.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "國安基金9次救市他操盤3次 阮清華誓言全力穩盤",
+            "link": "https://udn.com//news/story/124442/8661269?from=udn-catebreaknews_ch2",
+            "time": "2025-04-08 20:44"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/08/realtime/31810522.jpg&s=Y&x=0&y=0&sw=5120&sh=3432&exp=3600&w=300",
             "title": "台股跌夠沒？ 投信投顧公會理事長：最壞情況已經過了",
             "link": "https://udn.com//news/story/124442/8661207?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "瑞銀：Fed將降3-4碼 S&P 500指數年底回升至5,800點",
             "link": "https://udn.com//news/story/7251/8661151?from=udn-catebreaknews_ch2",
             "time": "2025-04-08 19:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/07/realtime/31806961.jpg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
-            "title": "對等關稅風暴台股崩跌 國安基金啟動史上第9度護盤",
-            "link": "https://udn.com//news/story/124442/8661100?from=udn-catebreaknews_ch2",
-            "time": "2025-04-08 19:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/08/2/31807944.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台新金前3月賺47.3億、EPS 0.33元 銀行獲利創同期新高",
-            "link": "https://udn.com//news/story/7252/8661081?from=udn-catebreaknews_ch2",
-            "time": "2025-04-08 19:12"
         }
     ]
 }
