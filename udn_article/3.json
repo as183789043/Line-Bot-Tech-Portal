@@ -1,13 +1,25 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/09/realtime/31817451.jpg&s=Y&x=0&y=0&sw=3600&sh=2400&exp=3600&w=300",
+            "title": "蘋果股價連跌4天 微軟重登全球最有價值公司寶座",
+            "link": "https://udn.com//news/story/6811/8661850?from=udn-catebreaknews_ch2",
+            "time": "2025-04-09 07:05"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/04/09/31816961.jpg&s=Y&x=0&y=19&sw=1279&sh=852&exp=3600&w=300",
+            "title": "確認對中徵收104%關稅…美股指數由升轉跌 史指跌破5000點",
+            "link": "https://udn.com//news/story/6811/8661793?from=udn-catebreaknews_ch2",
+            "time": "2025-04-09 06:40"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/08/1/31816017.png&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "美關稅今生效 一圖看美主要貿易國家如何出招",
             "link": "https://udn.com//news/story/124373/8661698?from=udn-catebreaknews_ch2",
             "time": "2025-04-09 05:50"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
             "title": "蘋果擬增加印度製iPhone輸美",
             "link": "https://udn.com//news/story/6811/8661574?from=udn-catebreaknews_ch2",
             "time": "2025-04-09 05:29"
@@ -17,18 +29,6 @@
             "title": "烏軍稱俘虜兩名中國公民 美國國務院：令人不安",
             "link": "https://udn.com//news/story/122663/8661800?from=udn-catebreaknews_ch2",
             "time": "2025-04-09 05:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/04/04/31786844.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "對等關稅將上路 白宮：談判將為各國量身定做",
-            "link": "https://udn.com//news/story/124373/8661794?from=udn-catebreaknews_ch2",
-            "time": "2025-04-09 04:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/04/09/31816961.jpg&s=Y&x=0&y=19&sw=1279&sh=852&exp=3600&w=300",
-            "title": "確認對中徵收104%關稅 美股指數由升轉跌 史指跌破5000點",
-            "link": "https://udn.com//news/story/6811/8661793?from=udn-catebreaknews_ch2",
-            "time": "2025-04-09 04:55"
         }
     ]
 }

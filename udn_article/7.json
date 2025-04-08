@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/08/realtime/31809739.jpg&s=Y&x=95&y=0&sw=4542&sh=3029&exp=3600&w=300",
+            "title": "台積電市值蒸發逾2.4兆 創近12年首次跌停價收盤！下周四法說會前會有轉機？",
+            "link": "https://udn.com//news/story/124442/8660428?from=udn-catebreaknews_ch2",
+            "time": "2025-04-09 07:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/31/2/31751091.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台股開盤即收盤 ⋯ 跌幅史上最慘！股民1天虧50萬 先看5年線支撐、「這指標」浮現才進場",
             "link": "https://udn.com//news/story/124442/8660423?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2025-04-09 05:23"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
             "title": "權王法說 高盛提四問",
             "link": "https://udn.com//news/story/7251/8661507?from=udn-catebreaknews_ch2",
             "time": "2025-04-09 03:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
-            "title": "緯創3月合併營收月增48% 緯穎增86%",
-            "link": "https://udn.com//news/story/7253/8661510?from=udn-catebreaknews_ch2",
-            "time": "2025-04-09 03:05"
         }
     ]
 }
