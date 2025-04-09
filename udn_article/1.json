@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/10/realtime/31825432.png&s=Y&x=0&y=16&sw=1744&sh=1163&exp=3600&w=300",
+            "title": "賴總統投書彭博 4點回應川普對等關稅",
+            "link": "https://udn.com//news/story/124438/8664521?from=udn-catebreaknews_ch2",
+            "time": "2025-04-10 04:59"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/09/realtime/31823681.jpg&s=Y&x=0&y=29&sw=4117&sh=2744&exp=3600&w=300",
             "title": "抗告駁回 柯文哲等4人延押2個月",
             "link": "https://udn.com//news/story/6656/8664373?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "盡力降低加徵關稅傷害 企業籲總統出面「停止大罷免」",
             "link": "https://udn.com//news/story/124438/8664408?from=udn-catebreaknews_ch2",
             "time": "2025-04-10 02:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/09/realtime/31824486.jpg&s=Y&x=0&y=14&sw=1772&sh=1180&exp=3600&w=300",
-            "title": "勞長點名 機械等6產業危險",
-            "link": "https://udn.com//news/story/124438/8664411?from=udn-catebreaknews_ch2",
-            "time": "2025-04-10 02:13"
         }
     ]
 }
