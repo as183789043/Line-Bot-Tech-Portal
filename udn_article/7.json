@@ -1,8 +1,26 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/10/realtime/31832239.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "龍巖2024年「股利0元」 連續3年有賺錢不配息",
+            "link": "https://udn.com//news/story/7254/8666599?from=udn-catebreaknews_ch2",
+            "time": "2025-04-10 19:47"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/08/2/31807867.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "長榮航營收／第1季549億元創新高 貨運表現穩定增長",
+            "link": "https://udn.com//news/story/7253/8666504?from=udn-catebreaknews_ch2",
+            "time": "2025-04-10 19:03"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/10/2/31832276.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "今年來8檔海外股票ETF撐住正報酬 最強一檔漲幅雙位數",
+            "link": "https://udn.com//news/story/123006/8666497?from=udn-catebreaknews_ch2",
+            "time": "2025-04-10 18:58"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/10/realtime/31831977.jpg&s=Y&x=0&y=8&sw=1179&sh=786&exp=3600&w=300",
-            "title": "聯發科首季營收1533.1億元 年增14.9% 超越財測目標",
+            "title": "聯發科首季營收1533億元、年增14.9% 超越財測目標",
             "link": "https://udn.com//news/story/7253/8666491?from=udn-catebreaknews_ch2",
             "time": "2025-04-10 18:54"
         },
@@ -11,24 +29,6 @@
             "title": "淡淡3月天 「14家上市金控」3月與第1季獲利雙雙衰退",
             "link": "https://udn.com//news/story/7252/8666452?from=udn-catebreaknews_ch2",
             "time": "2025-04-10 18:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/10/realtime/31831874.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "宜特3月營收月增9.5% 明起實施庫藏股買回5000張",
-            "link": "https://udn.com//news/story/7254/8666451?from=udn-catebreaknews_ch2",
-            "time": "2025-04-10 18:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/08/realtime/31812165.jpg&s=Y&x=0&y=0&sw=1179&sh=804&exp=3600&w=300",
-            "title": "股價抗跌！大摩、花旗點讚AI供應鏈緯穎 受關稅影響較小",
-            "link": "https://udn.com//news/story/7253/8666398?from=udn-catebreaknews_ch2",
-            "time": "2025-04-10 18:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/12/realtime/30253080.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "瓦城營收／首季近16億元 創同期新高",
-            "link": "https://udn.com//news/story/7254/8666385?from=udn-catebreaknews_ch2",
-            "time": "2025-04-10 18:09"
         }
     ]
 }
