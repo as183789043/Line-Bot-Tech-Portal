@@ -1,8 +1,26 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/10/realtime/31832667.jpg&s=Y&x=94&y=0&sw=4773&sh=3182&exp=3600&w=300",
+            "title": "影／因應川普關稅挑戰 藍營召集縣市首長討論",
+            "link": "https://udn.com//news/story/6656/8666779?from=udn-catebreaknews_ch2",
+            "time": "2025-04-10 21:25"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/10/realtime/31832549.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "朱立倫邀縣市長商討美關稅 蔣萬安：紓困要達2000億元",
+            "link": "https://udn.com//news/story/124438/8666725?from=udn-catebreaknews_ch2",
+            "time": "2025-04-10 20:56"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/10/realtime/31832544.jpg&s=Y&x=0&y=124&sw=1477&sh=985&exp=3600&w=300",
+            "title": "朱立倫邀15縣市共商美關稅 發表四聲明：普發1萬、開放陸客",
+            "link": "https://udn.com//news/story/124438/8666722?from=udn-catebreaknews_ch2",
+            "time": "2025-04-10 20:54"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/10/realtime/31832352.jpeg&s=Y&x=0&y=0&sw=5089&sh=3468&exp=3600&w=300",
-            "title": "藍白16首長商討美關稅 朱立倫：台幣貶值10%企業受不了",
+            "title": "「川普4大戰爭」很快開打 朱立倫：台幣升值10%企業受不了",
             "link": "https://udn.com//news/story/124438/8666659?from=udn-catebreaknews_ch2",
             "time": "2025-04-10 20:11"
         },
@@ -11,24 +29,6 @@
             "title": "不屈服北京壓力 帛琉總統維持對台邦誼：直到死亡將我們分開",
             "link": "https://udn.com//news/story/6656/8666577?from=udn-catebreaknews_ch2",
             "time": "2025-04-10 19:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/10/98/31832247.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "川普對等關稅暫緩90天 農漁產業稍鬆口氣",
-            "link": "https://udn.com//news/story/124438/8666574?from=udn-catebreaknews_ch2",
-            "time": "2025-04-10 19:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/10/realtime/31832216.jpg&s=Y&x=0&y=172&sw=2611&sh=1741&exp=3600&w=300",
-            "title": "承德艦性能提升新進度 「Type 997」3D雷達裝設待驗測",
-            "link": "https://udn.com//news/story/10930/8666583?from=udn-catebreaknews_ch2",
-            "time": "2025-04-10 19:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/10/1/31832231.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "16縣市首長商討美關稅 藍智庫揭最慘三波衝擊：影響GDP 9.2%",
-            "link": "https://udn.com//news/story/124438/8666581?from=udn-catebreaknews_ch2",
-            "time": "2025-04-10 19:38"
         }
     ]
 }
