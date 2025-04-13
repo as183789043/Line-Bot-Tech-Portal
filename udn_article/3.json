@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/14/realtime/31855914.jpg&s=Y&x=0&y=0&sw=3685&sh=2457&exp=3600&w=300",
+            "title": "本周開盤前 五件國際事不可不知",
+            "link": "https://udn.com//news/story/6813/8672488?from=udn-catebreaknews_ch2",
+            "time": "2025-04-14 07:02"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/12/realtime/31846572.jpg&s=Y&x=0&y=0&sw=1860&sh=1240&exp=3600&w=300",
+            "title": "「每15分鐘就有頭條」 川普的關稅亂流才剛開始",
+            "link": "https://udn.com//news/story/124373/8670498?from=udn-catebreaknews_ch2",
+            "time": "2025-04-14 07:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/14/realtime/31855857.png&s=Y&x=0&y=0&sw=1852&sh=1232&exp=3600&w=300",
+            "title": "【專家之眼】川普浪潮與中方應對",
+            "link": "https://udn.com//news/story/124373/8672479?from=udn-catebreaknews_ch2",
+            "time": "2025-04-14 06:52"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/14/realtime/31854670.png&s=Y&x=0&y=23&sw=3333&sh=2222&exp=3600&w=300",
             "title": "掃描大阪世博155公頃會場 帶你一覽大屋頂環 1秒找出台灣館",
             "link": "https://udn.com//news/story/6812/8672389?from=udn-catebreaknews_ch2",
@@ -10,24 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/13/realtime/31854415.jpg&s=Y&x=60&y=0&sw=5805&sh=3870&exp=3600&w=300",
             "title": "川普晶片關稅模擬三劇本 最重稅率恐逾100%",
             "link": "https://udn.com//news/story/124373/8672236?from=udn-catebreaknews_ch2",
-            "time": "2025-04-14 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/13/realtime/31854422.jpg&s=Y&x=0&y=0&sw=3500&sh=2333&exp=3600&w=300",
-            "title": "川普加徵關稅 美國人工智慧發展 籠罩陰霾",
-            "link": "https://udn.com//news/story/124373/8672302?from=udn-catebreaknews_ch2",
-            "time": "2025-04-14 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/13/realtime/31854297.jpg&s=Y&x=56&y=0&sw=1776&sh=1184&exp=3600&w=300",
-            "title": "歐盟談自貿協定 多箭齊發 極力與多國洽商貿易協議",
-            "link": "https://udn.com//news/story/6811/8672241?from=udn-catebreaknews_ch2",
-            "time": "2025-04-14 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/13/realtime/31854302.jpg&s=Y&x=0&y=0&sw=1889&sh=1259&exp=3600&w=300",
-            "title": "投資人對美資產信心急墜 加國、丹麥等退休基金重評估布局",
-            "link": "https://udn.com//news/story/6811/8672244?from=udn-catebreaknews_ch2",
             "time": "2025-04-14 03:00"
         }
     ]
