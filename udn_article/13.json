@@ -1,6 +1,12 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/06/0/31798351.jpg&s=Y&x=22&y=0&sw=657&sh=438&exp=3600&w=300",
+            "title": "中壢美食之光！主打濃郁系的在地牛肉麵，牛腱肉超鮮嫩，六種特色湯頭任你選",
+            "link": "https://udn.com//news/story/7206/8656128?from=udn-catebreaknews_ch2",
+            "time": "2025-04-15 16:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/15/draft/31865050.jpg&s=Y&x=0&y=0&sw=720&sh=480&exp=3600&w=300",
             "title": "桃園「龍岡米干節」4／19登場 為緬甸祈福傳遞溫暖 國際長街宴匯聚四海情誼",
             "link": "https://udn.com//news/story/7206/8675497?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "這碗拉麵是甜的！ 東區神級麵包坊「海味小卷麵」超擬真蛋糕 就要讓媽媽甜到笑",
             "link": "https://udn.com//news/story/7186/8675578?from=udn-catebreaknews_ch2",
             "time": "2025-04-15 14:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/15/0/31865066.jpg&s=Y&x=0&y=516&sw=960&sh=640&exp=3600&w=300",
-            "title": "韓國新規「禁日本止痛神藥入境」！違者沒收調查 網曝：還有這些可以買",
-            "link": "https://udn.com//news/story/9653/8675471?from=udn-catebreaknews_ch2",
-            "time": "2025-04-15 13:25"
         }
     ]
 }
