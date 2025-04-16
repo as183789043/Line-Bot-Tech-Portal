@@ -1,13 +1,25 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/16/2/31871951.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電不給力收低22元 台股跌389點收19,468點",
+            "link": "https://udn.com//news/story/7251/8678253?from=udn-catebreaknews_ch2",
+            "time": "2025-04-16 13:45"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/16/0/31871919.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "台股跌破19500點…00922高息優勢吸睛！0050、006208低點就是買點",
+            "link": "https://udn.com//news/story/123006/8678230?from=udn-catebreaknews_ch2",
+            "time": "2025-04-16 13:45"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/16/0/31871560.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "捏緊蛋蛋買0050！清流君粉絲霸氣喊：不停損…曝這時機點停利",
             "link": "https://udn.com//news/story/123006/8678093?from=udn-catebreaknews_ch2",
             "time": "2025-04-16 12:49"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
             "title": "怎麼回事？文曄、擎亞股價不同調 電通上市櫃類指兩樣情",
             "link": "https://udn.com//news/story/7253/8678068?from=udn-catebreaknews_ch2",
             "time": "2025-04-16 12:36"
@@ -17,18 +29,6 @@
             "title": "整理包／罕見！台積電法說前六外資砍目標價 聚焦關稅、英特爾合作案等議題",
             "link": "https://udn.com//news/story/7253/8678044?from=udn-catebreaknews_ch2",
             "time": "2025-04-16 12:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/16/0/31871438.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "半導體關稅來了怎麼辦？00961逢低布局內需型高股息ETF",
-            "link": "https://udn.com//news/story/123006/8678023?from=udn-catebreaknews_ch2",
-            "time": "2025-04-16 12:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
-            "title": "法說會前輝達爆利空 台積電可以買嗎？",
-            "link": "https://udn.com//news/story/7253/8678028?from=udn-catebreaknews_ch2",
-            "time": "2025-04-16 12:21"
         }
     ]
 }
