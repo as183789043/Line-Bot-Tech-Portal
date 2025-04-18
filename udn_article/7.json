@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/14/0/31496562.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
+            "title": "台股本週下挫0.68% 半導體股跌3.36%最弱勢",
+            "link": "https://udn.com//news/story/7251/8684002?from=udn-catebreaknews_ch2",
+            "time": "2025-04-18 19:10"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/17/2/31878962.jpg&s=Y&x=64&y=72&sw=1172&sh=781&exp=3600&w=300",
+            "title": "台積電法說會後 陸行之拋出這個疑問",
+            "link": "https://udn.com//news/story/7253/8683946?from=udn-catebreaknews_ch2",
+            "time": "2025-04-18 18:21"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/12/2/31841432.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "市場觀望台股量縮 外資賣超151億元電子股居多",
+            "link": "https://udn.com//news/story/7251/8683905?from=udn-catebreaknews_ch2",
+            "time": "2025-04-18 18:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/03/2/31020218.jpg&s=Y&x=0&y=0&sw=1132&sh=755&exp=3600&w=300",
             "title": "00881、00900等八檔台股ETF調整成分股 新增名單出爐",
             "link": "https://udn.com//news/story/123006/8683842?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "關稅暫緩股市反彈…專家：變數仍多 主動式ETF更彈性",
             "link": "https://udn.com//news/story/123006/8683837?from=udn-catebreaknews_ch2",
             "time": "2025-04-18 17:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/18/realtime/31886535.jpg&s=Y&x=0&y=2&sw=367&sh=244&exp=3600&w=300",
-            "title": "台積電法說會報喜但股價小漲 外資賣超7123張、連三賣",
-            "link": "https://udn.com//news/story/7251/8683830?from=udn-catebreaknews_ch2",
-            "time": "2025-04-18 17:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/18/realtime/31886448.png&s=Y&x=26&y=0&sw=582&sh=388&exp=3600&w=300",
-            "title": "00953B公告第七次配息資訊 預估年化配息率8.47%",
-            "link": "https://udn.com//news/story/123006/8683773?from=udn-catebreaknews_ch2",
-            "time": "2025-04-18 16:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/17/2/31879415.jpg&s=Y&x=28&y=4&sw=1237&sh=825&exp=3600&w=300",
-            "title": "朱成志：台積電Upside想像空間不大 看好中小型股",
-            "link": "https://udn.com//news/story/7251/8683690?from=udn-catebreaknews_ch2",
-            "time": "2025-04-18 16:23"
         }
     ]
 }
