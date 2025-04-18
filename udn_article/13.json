@@ -1,8 +1,14 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/15/draft/31864709.jpg&s=Y&x=0&y=46&sw=800&sh=533&exp=3600&w=300",
+            "title": "嘉義最美財神廟變身粉紅花海！花旗木盛開美到讓人忘了求財",
+            "link": "https://udn.com//news/story/7208/8675383?from=udn-catebreaknews_ch2",
+            "time": "2025-04-18 11:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/15/draft/31866878.jpg&s=Y&x=0&y=0&sw=1279&sh=857&exp=3600&w=300",
-            "title": "五年一度萬博登場！大阪關西萬國博覽會「7大看點」必朝聖",
+            "title": "2025年最令人期待的萬博登場！大阪關西萬國博覽會「7大看點」必朝聖",
             "link": "https://udn.com//news/story/9650/8676078?from=udn-catebreaknews_ch2",
             "time": "2025-04-18 10:00"
         },
@@ -23,12 +29,6 @@
             "title": "今天高溫悶熱午後雷雨 下周二晚起全台廣泛降雨且轉涼",
             "link": "https://udn.com//news/story/7934/8682548?from=udn-catebreaknews_ch2",
             "time": "2025-04-18 08:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/18/realtime/31883009.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
-            "title": "迎夏季澎湖花火節振興國旅 布袋商港啟用這2項客運旅運設施",
-            "link": "https://udn.com//news/story/7934/8682529?from=udn-catebreaknews_ch2",
-            "time": "2025-04-18 08:17"
         }
     ]
 }
