@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/07/12/2/29991532.jpg&s=Y&x=0&y=40&sw=960&sh=640&exp=3600&w=300",
+            "title": "千金夢碎！首家外資狠砍台積電目標價 驚見「9字頭」",
+            "link": "https://udn.com//news/story/7251/8684259?from=udn-catebreaknews_ch2",
+            "time": "2025-04-18 22:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/17/98/31877124.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "台積法說後 多數外資目標價仍看逾千元",
             "link": "https://udn.com//news/story/7251/8684218?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台積電法說會後 陸行之拋出這個疑問",
             "link": "https://udn.com//news/story/7253/8683946?from=udn-catebreaknews_ch2",
             "time": "2025-04-18 18:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/12/2/31841432.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "市場觀望台股量縮 外資賣超151億元電子股居多",
-            "link": "https://udn.com//news/story/7251/8683905?from=udn-catebreaknews_ch2",
-            "time": "2025-04-18 18:20"
         }
     ]
 }
