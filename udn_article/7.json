@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/18/realtime/31886448.png&s=Y&x=26&y=0&sw=582&sh=388&exp=3600&w=300",
+            "title": "00953B公告第七次配息資訊 預估年化配息率8.47%",
+            "link": "https://udn.com//news/story/123006/8683773?from=udn-catebreaknews_ch2",
+            "time": "2025-04-18 16:58"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/17/2/31879415.jpg&s=Y&x=28&y=4&sw=1237&sh=825&exp=3600&w=300",
+            "title": "朱成志：台積電Upside想像空間不大 看好中小型股",
+            "link": "https://udn.com//news/story/7251/8683690?from=udn-catebreaknews_ch2",
+            "time": "2025-04-18 16:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/17/2/31878932.jpg&s=Y&x=0&y=0&sw=1079&sh=719&exp=3600&w=300",
             "title": "台積電遭外資連環砍價…009804設上限「防失控」！個股崩殺主打分散生存權",
             "link": "https://udn.com//news/story/123006/8683619?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "宇隆委託書爭奪戰開打 伸興、宇隆董座合體爭取股東支持",
             "link": "https://udn.com//news/story/7252/8683599?from=udn-catebreaknews_ch2",
             "time": "2025-04-18 15:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/14/0/31857316.jpg&s=Y&x=8&y=0&sw=1273&sh=849&exp=3600&w=300",
-            "title": "台股喜劇收尾、周跌幅收斂至0.68% 電子要角表現全都露",
-            "link": "https://udn.com//news/story/7251/8683546?from=udn-catebreaknews_ch2",
-            "time": "2025-04-18 15:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/15/2/31866453.jpg&s=Y&x=0&y=0&sw=1223&sh=815&exp=3600&w=300",
-            "title": "台股上漲56點 三大法人賣超160億元",
-            "link": "https://udn.com//news/story/7251/8683528?from=udn-catebreaknews_ch2",
-            "time": "2025-04-18 15:04"
         }
     ]
 }
