@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/16/2/31868712.jpg&s=Y&x=0&y=0&sw=1254&sh=836&exp=3600&w=300",
+            "title": "關稅談判結果仍存不確定性 金管會宣布限空令繼續實施",
+            "link": "https://udn.com//news/story/7251/8685404?from=udn-catebreaknews_ch2",
+            "time": "2025-04-19 16:47"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/19/realtime/31891080.jpg&s=Y&x=0&y=0&sw=4386&sh=2924&exp=3600&w=300",
+            "title": "考量川普關稅仍在未定之天 金管會限空令將繼續實施",
+            "link": "https://udn.com//news/story/7251/8685373?from=udn-catebreaknews_ch2",
+            "time": "2025-04-19 16:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/17/2/31880750.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台灣想談零關稅「不可能」…川普底線曝光？中經院：15%才是理想價",
             "link": "https://udn.com//news/story/12806/8685331?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台股回到19000點至2萬點間震盪 待5月釐清晶片關稅",
             "link": "https://udn.com//news/story/7251/8685218?from=udn-catebreaknews_ch2",
             "time": "2025-04-19 15:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/19/realtime/31888135.jpg&s=Y&x=0&y=0&sw=8252&sh=5501&exp=3600&w=300",
-            "title": "降息不配合就想拔官？川普嗆聲聯準會主席：「我叫你滾就滾」",
-            "link": "https://udn.com//news/story/12806/8685022?from=udn-catebreaknews_ch2",
-            "time": "2025-04-19 12:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/19/realtime/31889030.jpg&s=Y&x=0&y=0&sw=6500&sh=4333&exp=3600&w=300",
-            "title": "「可能不再加稅」美中貿易局勢反轉？網諷川普：美國只剩台積電",
-            "link": "https://udn.com//news/story/12806/8685011?from=udn-catebreaknews_ch2",
-            "time": "2025-04-19 12:23"
         }
     ]
 }
