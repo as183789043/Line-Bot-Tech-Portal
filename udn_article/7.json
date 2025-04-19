@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/19/98/31890759.jpg&s=Y&x=220&y=12&sw=1057&sh=705&exp=3600&w=300",
+            "title": "台股回到19000點至2萬點間震盪 待5月釐清晶片關稅",
+            "link": "https://udn.com//news/story/7251/8685218?from=udn-catebreaknews_ch2",
+            "time": "2025-04-19 15:02"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/19/realtime/31888135.jpg&s=Y&x=0&y=0&sw=8252&sh=5501&exp=3600&w=300",
             "title": "降息不配合就想拔官？川普嗆聲聯準會主席：「我叫你滾就滾」",
             "link": "https://udn.com//news/story/12806/8685022?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "獨家／60 萬股東準備排隊 中信金股東會紀念品將送這個",
             "link": "https://udn.com//news/story/7252/8684953?from=udn-catebreaknews_ch2",
             "time": "2025-04-19 11:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/16/2/31868814.jpg&s=Y&x=0&y=0&sw=1265&sh=843&exp=3600&w=300",
-            "title": "台積電法說後首家外資狠砍目標價 驚見千元以下",
-            "link": "https://udn.com//news/story/7251/8684377?from=udn-catebreaknews_ch2",
-            "time": "2025-04-19 01:02"
         }
     ]
 }
