@@ -1,7 +1,13 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/08/realtime/31814170.jpg&s=Y&x=0&y=32&sw=4043&sh=2694&exp=3600&w=300",
+            "title": "綠譏藍修選罷法 藍白批綠造謠、睜眼說瞎話",
+            "link": "https://udn.com//news/story/124323/8689560?from=udn-catebreaknews_ch2",
+            "time": "2025-04-22 02:30"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/21/realtime/31901473.jpg&s=Y&x=380&y=688&sw=2792&sh=1861&exp=3600&w=300",
             "title": "台大師遭罷團肉搜 校長：非學生所為",
             "link": "https://udn.com//news/story/124323/8689557?from=udn-catebreaknews_ch2",
             "time": "2025-04-22 02:19"
@@ -23,12 +29,6 @@
             "title": "藍籲小草倒閣救柯文哲 白營：總統沒換 無助困局",
             "link": "https://udn.com//news/story/124463/8689566?from=udn-catebreaknews_ch2",
             "time": "2025-04-22 02:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/22/1/31903393.jpg&s=Y&x=84&y=0&sw=1079&sh=719&exp=3600&w=300",
-            "title": "新聞眼／藍白應棄前嫌 凝聚反綠力量",
-            "link": "https://udn.com//news/story/124463/8689564?from=udn-catebreaknews_ch2",
-            "time": "2025-04-22 01:59"
         }
     ]
 }
