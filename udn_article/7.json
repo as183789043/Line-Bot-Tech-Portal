@@ -1,8 +1,20 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/21/2/31900995.jpg&s=Y&x=0&y=0&sw=1223&sh=815&exp=3600&w=300",
+            "title": "台股失守萬九大關 下跌312點收18,793點 、台積電跌19元",
+            "link": "https://udn.com//news/story/7251/8690798?from=udn-catebreaknews_ch2",
+            "time": "2025-04-22 13:41"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/21/realtime/31902933.jpg&s=Y&x=0&y=14&sw=2062&sh=1374&exp=3600&w=300",
+            "title": "川普說好的一周內公布半導體關稅呢？網笑：忙著罵鮑爾啦沒空！",
+            "link": "https://udn.com//news/story/12806/8690757?from=udn-catebreaknews_ch2",
+            "time": "2025-04-22 13:36"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/22/realtime/31906193.jpg&s=Y&x=0&y=0&sw=4405&sh=2974&exp=3600&w=300",
-            "title": "台股慘綠，大摩點名這3檔股票：需要新的催化劑",
+            "title": "台股慘綠 大摩點名這3檔股票：需要新的催化劑",
             "link": "https://udn.com//news/story/7251/8690690?from=udn-catebreaknews_ch2",
             "time": "2025-04-22 12:47"
         },
@@ -13,22 +25,10 @@
             "time": "2025-04-22 12:34"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/22/realtime/31904022.jpg&s=Y&x=0&y=0&sw=5533&sh=3689&exp=3600&w=300",
-            "title": "川普發威「一週走完股災劇本、還會破底」？股添樂：00713抗跌最強、00878和00944表現亦不俗",
-            "link": "https://udn.com//news/story/123006/8690217?from=udn-catebreaknews_ch2",
-            "time": "2025-04-22 11:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
-            "title": "三星DDR4傳停產 記憶體股人氣紅不讓、2檔三天飆3成",
-            "link": "https://udn.com//news/story/7253/8690308?from=udn-catebreaknews_ch2",
-            "time": "2025-04-22 10:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/22/0/31905000.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "國安基金點火第10天！00878爽吃「護盤股」紅利…成關鍵受惠者",
-            "link": "https://udn.com//news/story/123006/8690238?from=udn-catebreaknews_ch2",
-            "time": "2025-04-22 10:56"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/22/realtime/31905866.jpg&s=Y&x=276&y=0&sw=246&sh=165&exp=3600&w=300",
+            "title": "首檔ETF分割！00663L受益人大會正式通過「1拆7」未來一張僅約2萬元",
+            "link": "https://udn.com//news/story/123006/8690555?from=udn-catebreaknews_ch2",
+            "time": "2025-04-22 12:04"
         }
     ]
 }
