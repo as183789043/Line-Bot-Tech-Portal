@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/23/2/31914967.jpg&s=Y&x=28&y=16&sw=1172&sh=781&exp=3600&w=300",
+            "title": "聯電今年首季獲利77.8億元 總經理王石：符合預期",
+            "link": "https://udn.com//news/story/7253/8694027?from=udn-catebreaknews_ch2",
+            "time": "2025-04-23 16:57"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/23/2/31914204.jpg&s=Y&x=24&y=16&sw=1233&sh=822&exp=3600&w=300",
+            "title": "影／京鼎重大訊息說明逾20億元併富蘭登 拓展客戶跨足航太",
+            "link": "https://udn.com//news/story/7253/8693930?from=udn-catebreaknews_ch2",
+            "time": "2025-04-23 16:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/23/0/31914396.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "債券市場轉折時刻！00982B鎖定長天期、投資等級穩健收益",
             "link": "https://udn.com//news/story/123006/8693851?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "川普關稅放軟 台股可以進場了嗎？分析師這樣看",
             "link": "https://udn.com//news/story/7251/8693855?from=udn-catebreaknews_ch2",
             "time": "2025-04-23 15:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/18/2/31887158.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "三大法人買超295億元 台積電漲幅飆第四大",
-            "link": "https://udn.com//news/story/7251/8693788?from=udn-catebreaknews_ch2",
-            "time": "2025-04-23 15:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/23/0/31914215.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "一場不確定的川普牌！00950B再配0.076元、7度配息紀錄力證穩中求勝",
-            "link": "https://udn.com//news/story/123006/8693650?from=udn-catebreaknews_ch2",
-            "time": "2025-04-23 15:20"
         }
     ]
 }
