@@ -1,6 +1,18 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/22/draft/31906627.jpg&s=Y&x=0&y=8&sw=1279&sh=852&exp=3600&w=300",
+            "title": "長榮文苑酒店（嘉義）　匯聚人文藝術，締造雅緻住宿體驗",
+            "link": "https://udn.com//news/story/7208/8690827?from=udn-catebreaknews_ch2",
+            "time": "2025-04-23 09:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/21/draft/31898165.jpg&s=Y&x=0&y=0&sw=720&sh=480&exp=3600&w=300",
+            "title": "跟著在地人逛大阪木津朝市 海鮮拍賣導覽團好好玩",
+            "link": "https://udn.com//news/story/9650/8687545?from=udn-catebreaknews_ch2",
+            "time": "2025-04-23 08:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/22/realtime/31908886.jpg&s=Y&x=0&y=17&sw=1983&sh=1322&exp=3600&w=300",
             "title": "有喝有保庇！泰山Ｘ白沙屯媽祖 連續11天進香客免費喝",
             "link": "https://udn.com//news/story/7193/8691635?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "華泰名品城展開最大改裝 預告第二季獨家Outlet店進駐",
             "link": "https://udn.com//news/story/7206/8691513?from=udn-catebreaknews_ch2",
             "time": "2025-04-22 17:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/22/realtime/31908446.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
-            "title": "比精品包更難買！軒尼詩xLOEWE限量干邑　最貴逾64萬",
-            "link": "https://udn.com//news/story/7187/8691503?from=udn-catebreaknews_ch2",
-            "time": "2025-04-22 17:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/22/realtime/31908173.jpg&s=Y&x=0&y=0&sw=2448&sh=1624&exp=3600&w=300",
-            "title": "7-ELEVEN啟動報稅季超值月！推日用品買1送1、點數回饋",
-            "link": "https://udn.com//news/story/7160/8691374?from=udn-catebreaknews_ch2",
-            "time": "2025-04-22 16:56"
         }
     ]
 }
