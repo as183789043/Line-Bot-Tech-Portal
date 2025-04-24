@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/24/realtime/31918179.jpg&s=Y&x=0&y=26&sw=3416&sh=2276&exp=3600&w=300",
+            "title": "南韓前總統文在寅 涉賄遭訴",
+            "link": "https://udn.com//news/story/6809/8697490?from=udn-catebreaknews_ch2",
+            "time": "2025-04-25 02:23"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/04/24/31918305.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "川普：澤倫斯基的聲明傷害和談",
+            "link": "https://udn.com//news/story/122663/8697484?from=udn-catebreaknews_ch2",
+            "time": "2025-04-25 02:22"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/24/realtime/31923206.jpg&s=Y&x=0&y=0&sw=7641&sh=5094&exp=3600&w=300",
+            "title": "俄彈襲基輔 川普籲普亭停手",
+            "link": "https://udn.com//news/story/122663/8697482?from=udn-catebreaknews_ch2",
+            "time": "2025-04-25 02:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/24/realtime/31918203.jpg&s=Y&x=0&y=0&sw=2903&sh=1885&exp=3600&w=300",
             "title": "人行行長潘功勝抵美 是否見貝森特受矚",
             "link": "https://udn.com//news/story/124373/8697456?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "陸汽車零件輸美 擬豁免關稅",
             "link": "https://udn.com//news/story/124373/8697464?from=udn-catebreaknews_ch2",
             "time": "2025-04-25 01:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/04/24/31919778.jpg&s=Y&x=0&y=0&sw=1279&sh=854&exp=3600&w=300",
-            "title": "國稅局人事案 馬斯克、貝森特頂著胸口互嗆",
-            "link": "https://udn.com//news/story/6813/8697487?from=udn-catebreaknews_ch2",
-            "time": "2025-04-25 01:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/13/realtime/31854415.jpg&s=Y&x=60&y=0&sw=5805&sh=3870&exp=3600&w=300",
-            "title": "美12州聯合告川普 白宮批獵巫",
-            "link": "https://udn.com//news/story/6813/8697457?from=udn-catebreaknews_ch2",
-            "time": "2025-04-25 01:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/24/realtime/31923185.jpg&s=Y&x=0&y=0&sw=2834&sh=1889&exp=3600&w=300",
-            "title": "對未談妥協議國家 川普：對等關稅最快2周重啟",
-            "link": "https://udn.com//news/story/124373/8697450?from=udn-catebreaknews_ch2",
-            "time": "2025-04-25 01:45"
         }
     ]
 }

@@ -1,7 +1,13 @@
 {
     "生活": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/25/1/31923792.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "氣象署提醒：暖化下 極端高低溫更頻繁",
+            "link": "https://udn.com//news/story/7266/8697545?from=udn-catebreaknews_ch2",
+            "time": "2025-04-25 02:43"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_4.jpg&w=300",
             "title": "五堵電車線斷落 台鐵12列車延誤88分鐘",
             "link": "https://udn.com//news/story/7266/8697356?from=udn-catebreaknews_ch2",
             "time": "2025-04-25 02:18"
@@ -23,12 +29,6 @@
             "title": "藥師公會：不該破壞用藥安全機制",
             "link": "https://udn.com//news/story/7266/8697573?from=udn-catebreaknews_ch2",
             "time": "2025-04-25 02:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/22/realtime/31905874.jpg&s=Y&x=0&y=0&sw=3500&sh=2268&exp=3600&w=300",
-            "title": "中藥商資格放寬解人才斷層危機  中醫業力挺",
-            "link": "https://udn.com//news/story/7266/8697572?from=udn-catebreaknews_ch2",
-            "time": "2025-04-25 02:05"
         }
     ]
 }
