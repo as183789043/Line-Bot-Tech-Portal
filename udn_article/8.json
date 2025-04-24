@@ -1,6 +1,18 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/25/realtime/31924177.jpg&s=Y&x=86&y=0&sw=948&sh=633&exp=3600&w=300",
+            "title": "東北季風增強+鋒面再度南壓 雷雨今炸雲林以北和宜花",
+            "link": "https://udn.com//news/story/7266/8697738?from=udn-catebreaknews_ch2",
+            "time": "2025-04-25 06:31"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/25/realtime/31924147.png&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
+            "title": "台南地牛翻身！ 上午6時10分東山規模4.1淺層地震 最大震度4級",
+            "link": "https://udn.com//news/story/7266/8697732?from=udn-catebreaknews_ch2",
+            "time": "2025-04-25 06:19"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/25/realtime/31924142.jpg&s=Y&x=0&y=34&sw=4743&sh=3162&exp=3600&w=300",
             "title": "今明濕涼不排除劇烈天氣 吳德榮：周日好轉 下周一再有鋒面快閃",
             "link": "https://udn.com//news/story/7266/8697729?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2025-04-25 05:50"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_4.jpg&w=300",
             "title": "金玉涼言",
             "link": "https://udn.com//news/story/7272/8676468?from=udn-catebreaknews_ch2",
             "time": "2025-04-25 05:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/25/1/31924042.jpg&s=Y&x=0&y=0&sw=5247&sh=3439&exp=3600&w=300",
-            "title": "今明溼涼注意強對流恐暴雨雷擊 明天清晨低溫下探1字頭",
-            "link": "https://udn.com//news/story/7266/8697699?from=udn-catebreaknews_ch2",
-            "time": "2025-04-25 05:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/25/realtime/31924038.png&s=Y&x=0&y=8&sw=1121&sh=746&exp=3600&w=300",
-            "title": "清晨5時22分東南部海域規模3.8地震 台東縣最大震度2級",
-            "link": "https://udn.com//news/story/7266/8697697?from=udn-catebreaknews_ch2",
-            "time": "2025-04-25 05:39"
         }
     ]
 }
