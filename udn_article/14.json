@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/25/0/31925587.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "當兵讀500本財經書 醫師跨界學理財！打造自己的理財系統 牢記5要素",
+            "link": "https://udn.com//news/story/6839/8698240?from=udn-catebreaknews_ch2",
+            "time": "2025-04-25 11:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/25/0/31925554.jpg&s=Y&x=0&y=0&sw=600&sh=400&exp=3600&w=300",
+            "title": "問題不在關稅！是美國人「這習慣」太糟…川普亂砍後座力大「一戰二戰為此引爆」",
+            "link": "https://udn.com//news/story/6839/8698203?from=udn-catebreaknews_ch2",
+            "time": "2025-04-25 11:37"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/25/0/31924359.jpg&s=Y&x=0&y=0&sw=1086&sh=724&exp=3600&w=300",
             "title": "為球迷改Logo、換金鑽鳳梨！達美樂跟夜市學的在地造浪法",
             "link": "https://udn.com//news/story/6837/8697804?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "資安國家隊 成員一次看",
             "link": "https://udn.com//news/story/6851/8695725?from=udn-catebreaknews_ch2",
             "time": "2025-04-24 15:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/24/draft/31919184.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "台積電法說威能減弱 原因揭曉",
-            "link": "https://udn.com//news/story/6851/8695724?from=udn-catebreaknews_ch2",
-            "time": "2025-04-24 15:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/24/draft/31919169.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "直擊Touch Taiwan",
-            "link": "https://udn.com//news/story/6851/8695717?from=udn-catebreaknews_ch2",
-            "time": "2025-04-24 15:41"
         }
     ]
 }
