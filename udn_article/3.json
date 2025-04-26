@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/27/98/31934187.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "伊朗港口爆炸至少8死750傷 火勢加劇恐蔓延",
+            "link": "https://udn.com//news/story/6809/8701286?from=udn-catebreaknews_ch2",
+            "time": "2025-04-27 03:47"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/26/realtime/31933657.jpg&s=Y&x=44&y=104&sw=1735&sh=1157&exp=3600&w=300",
             "title": "川普：不主動對陸降關稅 除非中國給予實質內容",
             "link": "https://udn.com//news/story/124373/8701160?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "Fed發布金融穩定報告 示警美股股價仍偏高",
             "link": "https://udn.com//news/story/6811/8701085?from=udn-catebreaknews_ch2",
             "time": "2025-04-27 03:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/26/realtime/31933624.png&s=Y&x=0&y=0&sw=898&sh=586&exp=3600&w=300",
-            "title": "川普：俄烏協議近在咫尺",
-            "link": "https://udn.com//news/story/122663/8701119?from=udn-catebreaknews_ch2",
-            "time": "2025-04-27 03:00"
         }
     ]
 }
