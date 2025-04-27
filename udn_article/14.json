@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/25/draft/31924774.jpg&s=Y&x=0&y=5&sw=800&sh=532&exp=3600&w=300",
+            "title": "AI可以當很好的聊天對象 研究：當員工就免了",
+            "link": "https://udn.com//news/story/6897/8697912?from=udn-catebreaknews_ch2",
+            "time": "2025-04-27 15:09"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/22/draft/31907580.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
             "title": "眷村の新たな魅力を発見　ゆるやかな時間を楽しむ",
             "link": "https://udn.com//news/story/6967/8691076?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "那瑪夏はホタルの季節 春の夜を彩る幻想的な光の川",
             "link": "https://udn.com//news/story/6967/8691000?from=udn-catebreaknews_ch2",
             "time": "2025-04-27 08:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/22/draft/31906985.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
-            "title": "Rebirth in Imperfection: The Art of Kintsukuroi and Curium Porcelain Ceramic Restoration ",
-            "link": "https://udn.com//news/story/6967/8690990?from=udn-catebreaknews_ch2",
-            "time": "2025-04-27 08:51"
         }
     ]
 }
