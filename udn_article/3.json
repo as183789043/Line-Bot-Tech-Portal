@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
+            "title": "美科技4巨頭 本周公布財報",
+            "link": "https://udn.com//news/story/6811/8702656?from=udn-catebreaknews_ch2",
+            "time": "2025-04-28 01:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
+            "title": "日執政聯盟頻訪中 「並不常見」",
+            "link": "https://udn.com//news/story/6809/8702590?from=udn-catebreaknews_ch2",
+            "time": "2025-04-28 00:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/27/98/31935701.jpg&s=Y&x=0&y=0&sw=1277&sh=851&exp=3600&w=300",
             "title": "一度揚言開除鮑爾 PIMCO：川普能在1年內重塑Fed令市場不安",
             "link": "https://udn.com//news/story/6811/8702473?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "川普稱與習近平通話 美中關稅僵局有解？美財長：曾與陸對口互動",
             "link": "https://udn.com//news/story/124373/8702463?from=udn-catebreaknews_ch2",
             "time": "2025-04-27 22:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/27/realtime/31938125.jpg&s=Y&x=0&y=0&sw=4055&sh=2703&exp=3600&w=300",
-            "title": "再盛讚關稅美妙 川普嗨喊「大豐收」：美國人甚至有望免繳所得稅",
-            "link": "https://udn.com//news/story/124373/8702446?from=udn-catebreaknews_ch2",
-            "time": "2025-04-27 22:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/27/0/31938095.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "德國紀念二戰結束80周年 俄羅斯大使未獲邀請成「不速之客」",
-            "link": "https://udn.com//news/story/6809/8701955?from=udn-catebreaknews_ch2",
-            "time": "2025-04-27 22:28"
         }
     ]
 }
