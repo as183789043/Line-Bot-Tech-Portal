@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/28/realtime/31942709.jpg&s=Y&x=0&y=42&sw=5712&sh=3808&exp=3600&w=300",
+            "title": "台股止跌？法人：最壞已反應 指數將呈現區間整理",
+            "link": "https://udn.com//news/story/7251/8704160?from=udn-catebreaknews_ch2",
+            "time": "2025-04-28 17:28"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/22/2/31904367.jpg&s=Y&x=0&y=0&sw=1194&sh=796&exp=3600&w=300",
+            "title": "外資上周買最多竟是這檔金融股 超過台積電和中信金",
+            "link": "https://udn.com//news/story/7251/8704154?from=udn-catebreaknews_ch2",
+            "time": "2025-04-28 17:24"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/24/2/31922506.jpg&s=Y&x=16&y=52&sw=1256&sh=837&exp=3600&w=300",
             "title": "52萬股東看過來！台新金6月23日開股東會 紀念品出爐",
             "link": "https://udn.com//news/story/7252/8704006?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "美國公債幾乎可視為無風險資產的存在！伊森：00679B、00687B、00931B",
             "link": "https://udn.com//news/story/123006/8703923?from=udn-catebreaknews_ch2",
             "time": "2025-04-28 15:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/27/0/31942207.jpg&s=Y&x=0&y=0&sw=1022&sh=681&exp=3600&w=300",
-            "title": "研調：每十年中表現最好的前兩百家上市公司 資產成長來自新發行股票",
-            "link": "https://udn.com//news/story/12806/8702329?from=udn-catebreaknews_ch2",
-            "time": "2025-04-28 15:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/28/0/31942109.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "00919、00929、0056、00878、00927…存股人「曝光標的」：去年股息210萬",
-            "link": "https://udn.com//news/story/123006/8703900?from=udn-catebreaknews_ch2",
-            "time": "2025-04-28 15:36"
         }
     ]
 }
