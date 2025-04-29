@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/29/realtime/31950097.jpg&s=Y&x=0&y=0&sw=4969&sh=3312&exp=3600&w=300",
+            "title": "西班牙、葡萄牙大停電18小時",
+            "link": "https://udn.com//news/story/6809/8707225?from=udn-catebreaknews_ch2",
+            "time": "2025-04-30 01:57"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/30/1/31950345.jpg&s=Y&x=60&y=40&sw=1217&sh=812&exp=3600&w=300",
+            "title": "川普下個100天 鎖定貿易、和平協議",
+            "link": "https://udn.com//news/story/6813/8707311?from=udn-catebreaknews_ch2",
+            "time": "2025-04-30 01:53"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/29/realtime/31950155.jpg&s=Y&x=0&y=0&sw=2548&sh=1700&exp=3600&w=300",
+            "title": "大選勝出 加國總理卡尼：美不會擁有加拿大",
+            "link": "https://udn.com//news/story/6809/8707308?from=udn-catebreaknews_ch2",
+            "time": "2025-04-30 01:48"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/29/realtime/31950116.jpg&s=Y&x=0&y=0&sw=5247&sh=3552&exp=3600&w=300",
             "title": "美國研究機構：消費者信心指數連5月下滑",
             "link": "https://udn.com//news/story/6811/8707256?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "明年金價回穩？世銀曝：疫後漲勢終結、商品價格將瀉12%  ",
             "link": "https://udn.com//news/story/6811/8707109?from=udn-catebreaknews_ch2",
             "time": "2025-04-29 22:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/29/98/31949959.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "博勵治學川普喊「加拿大優先」 外媒預測：恐再失手國會席次",
-            "link": "https://udn.com//news/story/6809/8707097?from=udn-catebreaknews_ch2",
-            "time": "2025-04-29 22:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/29/realtime/31949945.jpg&s=Y&x=0&y=0&sw=5059&sh=3373&exp=3600&w=300",
-            "title": "美財長貝森特：美國與印、韓、日貿易談判都已獲進展",
-            "link": "https://udn.com//news/story/124373/8707100?from=udn-catebreaknews_ch2",
-            "time": "2025-04-29 22:15"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/29/realtime/31949942.jpg&s=Y&x=0&y=0&sw=3133&sh=2091&exp=3600&w=300",
-            "title": "親曝關稅談判進展！美財長稱與印日韓討論順利 未提及台灣",
-            "link": "https://udn.com//news/story/124373/8707098?from=udn-catebreaknews_ch2",
-            "time": "2025-04-29 22:13"
         }
     ]
 }
