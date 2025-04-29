@@ -1,6 +1,12 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_3.jpg&w=300",
+            "title": "ChatGPT新功能 幫忙商品導購",
+            "link": "https://udn.com//news/story/7240/8707178?from=udn-catebreaknews_ch2",
+            "time": "2025-04-30 02:14"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/30/1/31950212.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "政院鬆口 台灣已有條件成立主權基金",
             "link": "https://udn.com//news/story/7238/8707292?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "壽險業淨值 3月驟跌逾2千億…近11個月低點",
             "link": "https://udn.com//news/story/7239/8707302?from=udn-catebreaknews_ch2",
             "time": "2025-04-29 23:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/29/realtime/31950160.jpg&s=Y&x=0&y=0&sw=5516&sh=3677&exp=3600&w=300",
-            "title": "匯銀人士：川普2.0與1.0情況不同 台幣升值有難度",
-            "link": "https://udn.com//news/story/7238/8707322?from=udn-catebreaknews_ch2",
-            "time": "2025-04-29 23:26"
         }
     ]
 }
