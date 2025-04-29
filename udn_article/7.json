@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/29/2/31949757.jpg&s=Y&x=84&y=0&sw=982&sh=655&exp=3600&w=300",
+            "title": "鴻海旗下工業富聯2024營收、獲利創新高 AI伺服器營收年增150%",
+            "link": "https://udn.com//news/story/7253/8707001?from=udn-catebreaknews_ch2",
+            "time": "2025-04-29 21:06"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/19/0/31682690.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "大摩：下游硬體供應鏈七大台廠與AI相關、防禦力強 評級優於大盤",
+            "link": "https://udn.com//news/story/7251/8706974?from=udn-catebreaknews_ch2",
+            "time": "2025-04-29 20:51"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/21/0/31899184.jpg&s=Y&x=32&y=12&sw=1232&sh=821&exp=3600&w=300",
             "title": "台股表現強勢 市場靜待美重磅財報公布",
             "link": "https://udn.com//news/story/7251/8706767?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "國泰金股利出爐！全發現金 每股配3.5元創近三年新高、殖利率逾6%",
             "link": "https://udn.com//news/story/7252/8706696?from=udn-catebreaknews_ch2",
             "time": "2025-04-29 18:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/29/realtime/31949149.jpg&s=Y&x=0&y=0&sw=5184&sh=3456&exp=3600&w=300",
-            "title": "力成首季每股純益1.58元寫2年來新低 但估營運可脫離谷底",
-            "link": "https://udn.com//news/story/7253/8706669?from=udn-catebreaknews_ch2",
-            "time": "2025-04-29 18:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/23/2/31911913.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "野村：台積電看保守但表現仍優於大盤 重申買進評等",
-            "link": "https://udn.com//news/story/7251/8706637?from=udn-catebreaknews_ch2",
-            "time": "2025-04-29 18:03"
         }
     ]
 }
