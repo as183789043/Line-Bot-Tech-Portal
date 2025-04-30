@@ -1,6 +1,12 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/04/22/31905950.jpg&s=Y&x=0&y=0&sw=1279&sh=871&exp=3600&w=300",
+            "title": "路透：中國已訂出免徵125%關稅美國商品清單",
+            "link": "https://udn.com//news/story/124373/8710159?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-05-01 02:51"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/01/realtime/31957304.jpg&s=Y&x=0&y=11&sw=1476&sh=984&exp=3600&w=300",
             "title": "桃園地檢署檢察官王念珩守護國土 查緝成果卓然獲表揚",
             "link": "https://udn.com//news/story/7321/8710150?from=udn-ch1_breaknews-1-0-news",
@@ -23,12 +29,6 @@
             "title": "竹北空氣瀰漫臭味！來源曝光 聯發紡織頂樓起火",
             "link": "https://udn.com//news/story/7320/8710096?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-05-01 00:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/30/realtime/31957017.jpg&s=Y&x=0&y=10&sw=1350&sh=900&exp=3600&w=300",
-            "title": "賴清德昔推「派遣歸零」添亂象 政府承攬人力節節升高 勞權保障更低",
-            "link": "https://udn.com//news/story/10974/8710075?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-04-30 23:42"
         }
     ]
 }
