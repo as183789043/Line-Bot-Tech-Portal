@@ -1,10 +1,22 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/02/realtime/31968440.jpg&s=Y&x=0&y=0&sw=5000&sh=3333&exp=3600&w=300",
+            "title": "富邦金股利揭曉「現金殖利率5%」 發現金股利4.25元、股票股利0.25元",
+            "link": "https://udn.com//news/story/7252/8714051?from=udn-catebreaknews_ch2",
+            "time": "2025-05-02 22:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/02/realtime/31968295.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
             "title": "富喬財報／首季獲利賺贏去年全年 擬發限制股5000張留才",
             "link": "https://udn.com//news/story/7253/8713986?from=udn-catebreaknews_ch2",
             "time": "2025-05-02 21:28"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/02/realtime/31968229.jpg&s=Y&x=0&y=0&sw=1000&sh=665&exp=3600&w=300",
+            "title": "王道銀董事會決議每股配發現金股利0.5元 殖利率5.26%",
+            "link": "https://udn.com//news/story/7252/8713942?from=udn-catebreaknews_ch2",
+            "time": "2025-05-02 20:54"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/02/2/31968219.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
@@ -13,22 +25,10 @@
             "time": "2025-05-02 20:52"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/02/2/31968198.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "上海商銀財報／第1季 EPS 0.96元 年成長7%",
-            "link": "https://udn.com//news/story/7252/8713914?from=udn-catebreaknews_ch2",
-            "time": "2025-05-02 20:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/02/realtime/31968142.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
-            "title": "福邦證股東會／配息1.09元、現金殖利率逾8.9％ IPO 目標5家以上",
-            "link": "https://udn.com//news/story/7252/8713890?from=udn-catebreaknews_ch2",
-            "time": "2025-05-02 20:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/02/2/31968132.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "富邦金每股配現金股利4.25元、股票股利0.25元 總計4.5元創歷史新高　",
-            "link": "https://udn.com//news/story/7252/8713872?from=udn-catebreaknews_ch2",
-            "time": "2025-05-02 20:12"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/02/realtime/31968203.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "股本雖膨脹 銳澤首季EPS仍1.96元",
+            "link": "https://udn.com//news/story/7253/8713922?from=udn-catebreaknews_ch2",
+            "time": "2025-05-02 20:48"
         }
     ]
 }
