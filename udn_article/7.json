@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/02/2/31968219.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電重返大摩首選寶座！「解咒三部曲」破關即飆",
+            "link": "https://udn.com//news/story/7253/8713937?from=udn-catebreaknews_ch2",
+            "time": "2025-05-02 20:52"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/02/2/31968198.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "上海商銀財報／第1季 EPS 0.96元 年成長7%",
+            "link": "https://udn.com//news/story/7252/8713914?from=udn-catebreaknews_ch2",
+            "time": "2025-05-02 20:43"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/02/realtime/31968142.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
             "title": "福邦證股東會／配息1.09元、現金殖利率逾8.9％ IPO 目標5家以上",
             "link": "https://udn.com//news/story/7252/8713890?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2025-05-02 20:12"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/02/2/31968178.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "光洋科財報／避險失利衝擊 第1季淨利年減16.8%、EPS 0.6元",
-            "link": "https://udn.com//news/story/7253/8713833?from=udn-catebreaknews_ch2",
-            "time": "2025-05-02 19:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/02/2/31968017.jpg&s=Y&x=0&y=0&sw=998&sh=665&exp=3600&w=300",
-            "title": "王道銀配每股現金0.5元創上市來新高 股息殖利率超5%",
-            "link": "https://udn.com//news/story/7252/8713819?from=udn-catebreaknews_ch2",
-            "time": "2025-05-02 19:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/02/2/31967956.jpg&s=Y&x=0&y=0&sw=1211&sh=807&exp=3600&w=300",
-            "title": "00731季配0.593元 單季配息率0.91%、年化配息率約3.6%",
-            "link": "https://udn.com//news/story/123006/8713789?from=udn-catebreaknews_ch2",
-            "time": "2025-05-02 19:12"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/02/2/31968185.jpg&s=Y&x=0&y=0&sw=1194&sh=796&exp=3600&w=300",
+            "title": "泰鼎連續兩年名列證交所公司治理評鑑電子類別前5%",
+            "link": "https://udn.com//news/story/7253/8713835?from=udn-catebreaknews_ch2",
+            "time": "2025-05-02 19:45"
         }
     ]
 }
