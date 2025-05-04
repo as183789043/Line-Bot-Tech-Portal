@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/04/realtime/31975449.jpg&s=Y&x=363&y=0&sw=714&sh=477&exp=3600&w=300",
+            "title": "00981B首度月配息 年化配息率逼近10%最後買進日5月20日",
+            "link": "https://udn.com//news/story/123006/8716144?from=udn-catebreaknews_ch2",
+            "time": "2025-05-04 11:17"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/04/2/31975540.jpg&s=Y&x=44&y=0&sw=1087&sh=725&exp=3600&w=300",
+            "title": "台積電率先回補清明缺口 台股周線二連紅",
+            "link": "https://udn.com//news/story/7251/8716143?from=udn-catebreaknews_ch2",
+            "time": "2025-05-04 11:14"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/04/98/31975288.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
             "title": "台股自低點彈升3480點 法人：後市關注半導體關稅",
             "link": "https://udn.com//news/story/7251/8716036?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "挑穩盤悍將跟上大咖資金 緯穎、中華電等領漲抗跌",
             "link": "https://udn.com//news/story/7251/8715727?from=udn-catebreaknews_ch2",
             "time": "2025-05-04 03:15"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
-            "title": "牧德4月業績創高 南電精測成長",
-            "link": "https://udn.com//news/story/7253/8715732?from=udn-catebreaknews_ch2",
-            "time": "2025-05-04 02:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/04/2/31973954.jpg&s=Y&x=60&y=0&sw=868&sh=579&exp=3600&w=300",
-            "title": "台塑四寶營收 受矚目",
-            "link": "https://udn.com//news/story/7252/8715564?from=udn-catebreaknews_ch2",
-            "time": "2025-05-04 01:24"
         }
     ]
 }
