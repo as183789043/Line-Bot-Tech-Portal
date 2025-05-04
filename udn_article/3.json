@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/04/realtime/31978181.jpg&s=Y&x=0&y=0&sw=1889&sh=1259&exp=3600&w=300",
+            "title": "川普亂流 牽動全球選舉風向",
+            "link": "https://udn.com//news/story/6809/8717018?from=udn-catebreaknews_ch2",
+            "time": "2025-05-05 03:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
+            "title": "國際學生 調整遊美計畫",
+            "link": "https://udn.com//news/story/6813/8717007?from=udn-catebreaknews_ch2",
+            "time": "2025-05-05 03:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/04/realtime/31978323.jpg&s=Y&x=0&y=38&sw=5185&sh=3456&exp=3600&w=300",
             "title": "一個時代結束 94歲巴菲特宣布年底交棒",
             "link": "https://udn.com//news/story/6811/8717140?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "普亭：俄有能力結束戰爭 盼不用動用核武",
             "link": "https://udn.com//news/story/122663/8717142?from=udn-catebreaknews_ch2",
             "time": "2025-05-05 02:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/05/1/31978382.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "美掃蕩非法移民 持綠卡入境面臨嚴格審查",
-            "link": "https://udn.com//news/story/6813/8717144?from=udn-catebreaknews_ch2",
-            "time": "2025-05-05 02:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/05/1/31978379.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "川普秀教宗扮相挨轟 范斯：不就是個玩笑",
-            "link": "https://udn.com//news/story/6813/8717146?from=udn-catebreaknews_ch2",
-            "time": "2025-05-05 02:09"
         }
     ]
 }
