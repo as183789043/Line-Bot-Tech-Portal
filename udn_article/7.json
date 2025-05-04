@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/04/2/31976804.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "聯電雖面臨川普關稅威脅 法人估今年EPS 3.8元目標不變",
+            "link": "https://udn.com//news/story/7253/8716518?from=udn-catebreaknews_ch2",
+            "time": "2025-05-04 15:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/04/98/31975288.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
             "title": "00878配息雖兩二降下一季有望「止跌回升」！柴鼠：00929回到0.1左右規模可得到改善",
             "link": "https://udn.com//news/story/123006/8716502?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台積電率先回補清明缺口 台股周線二連紅",
             "link": "https://udn.com//news/story/7251/8716143?from=udn-catebreaknews_ch2",
             "time": "2025-05-04 11:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/04/98/31975288.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
-            "title": "台股自低點彈升3480點 法人：後市關注半導體關稅",
-            "link": "https://udn.com//news/story/7251/8716036?from=udn-catebreaknews_ch2",
-            "time": "2025-05-04 10:35"
         }
     ]
 }
