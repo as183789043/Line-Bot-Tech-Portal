@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/04/realtime/31977984.jpg&s=Y&x=0&y=0&sw=975&sh=638&exp=3600&w=300",
+            "title": "竹市雙罷連署掀牌 罷團公布市選委會最新清點結果",
+            "link": "https://udn.com//news/story/124323/8716933?from=udn-catebreaknews_ch2",
+            "time": "2025-05-04 21:53"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/04/98/31977894.jpg&s=Y&x=16&y=8&sw=1249&sh=833&exp=3600&w=300",
             "title": "藍委憂關稅談判涉萊豬 政院：優先考量國人健康需求",
             "link": "https://udn.com//news/story/6656/8716887?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "邱泰源投書國際媒體 疾呼邀台灣參與WHA",
             "link": "https://udn.com//news/story/6656/8716757?from=udn-catebreaknews_ch2",
             "time": "2025-05-04 19:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/04/realtime/31977678.jpeg&s=Y&x=0&y=148&sw=1080&sh=720&exp=3600&w=300",
-            "title": "退役上將許歷農辭世 郝龍斌：幽默智慧典範永留存",
-            "link": "https://udn.com//news/story/6656/8716760?from=udn-catebreaknews_ch2",
-            "time": "2025-05-04 19:41"
         }
     ]
 }
