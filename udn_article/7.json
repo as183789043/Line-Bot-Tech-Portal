@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/02/realtime/31965489.jpg&s=Y&x=0&y=16&sw=2436&sh=1624&exp=3600&w=300",
+            "title": "賴清德親上火線回應新台幣暴升！網反應超爆炸：史上最爛總統比馬英九還空",
+            "link": "https://udn.com//news/story/12806/8719012?from=udn-catebreaknews_ch2",
+            "time": "2025-05-05 20:19"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/23/2/31915325.jpg&s=Y&x=0&y=178&sw=674&sh=449&exp=3600&w=300",
+            "title": "央行楊金龍祭出「請出去」法！炒匯禿鷹遭點名 網：道德勸說？",
+            "link": "https://udn.com//news/story/12806/8718990?from=udn-catebreaknews_ch2",
+            "time": "2025-05-05 20:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/05/98/31981532.jpg&s=Y&x=0&y=0&sw=1260&sh=840&exp=3600&w=300",
+            "title": "外資買超244億 布局金融股、敲進台積電1.3萬張",
+            "link": "https://udn.com//news/story/7251/8718928?from=udn-catebreaknews_ch2",
+            "time": "2025-05-05 19:59"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/02/2/31772423.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "大摩看電源供應器首選台達電 評等「優於大盤」",
             "link": "https://udn.com//news/story/7253/8718774?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "今年以來台股ETF受益人數 14檔增幅超過一成",
             "link": "https://udn.com//news/story/123006/8718544?from=udn-catebreaknews_ch2",
             "time": "2025-05-05 16:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/30/2/31954609.jpg&s=Y&x=116&y=0&sw=1038&sh=692&exp=3600&w=300",
-            "title": "新台幣強升、台股走跌 法人評估六大可能",
-            "link": "https://udn.com//news/story/7251/8718502?from=udn-catebreaknews_ch2",
-            "time": "2025-05-05 16:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/03/98/31970410.jpg&s=Y&x=40&y=28&sw=1140&sh=760&exp=3600&w=300",
-            "title": "鴻海營收／4月6414億元 前四月營收2.28兆元創同期新高",
-            "link": "https://udn.com//news/story/7253/8718447?from=udn-catebreaknews_ch2",
-            "time": "2025-05-05 15:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/04/98/31975288.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
-            "title": "股匯不同調台股跌254點 電金挫低、內需資產股齊揚",
-            "link": "https://udn.com//news/story/7251/8718348?from=udn-catebreaknews_ch2",
-            "time": "2025-05-05 15:34"
         }
     ]
 }
