@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/03/98/31972772.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "新台幣狂升成這樣…中央銀行的功能？網超酸：說不定這是干預後的結果",
+            "link": "https://udn.com//news/story/12806/8719134?from=udn-catebreaknews_ch2",
+            "time": "2025-05-05 22:10"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/05/98/31980983.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "台幣升值怎麼影響台股？三面向解析對中長期壓力",
             "link": "https://udn.com//news/story/7251/8719063?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "外資買超244億 布局金融股、敲進台積電1.3萬張",
             "link": "https://udn.com//news/story/7251/8718928?from=udn-catebreaknews_ch2",
             "time": "2025-05-05 19:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/02/2/31772423.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "大摩看電源供應器首選台達電 評等「優於大盤」",
-            "link": "https://udn.com//news/story/7253/8718774?from=udn-catebreaknews_ch2",
-            "time": "2025-05-05 18:13"
         }
     ]
 }
