@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/05/realtime/31984047.jpg&s=Y&x=312&y=416&sw=3620&sh=2413&exp=3600&w=300",
+            "title": "世界數位媒體大賽 聯合報系AI營收策略奪全球金獎",
+            "link": "https://udn.com//news/story/7314/8719339?from=udn-catebreaknews_ch2",
+            "time": "2025-05-06 04:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/06/1/31984106.jpg&s=Y&x=64&y=36&sw=1216&sh=811&exp=3600&w=300",
             "title": "國民黨出招應對大罷免！設前進指揮所、推「鄉民早安」直播",
             "link": "https://udn.com//news/story/124323/8719343?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "六都施政大體檢／道安篇…余小妹事件2年 台南行人死亡增加",
             "link": "https://udn.com//news/story/6656/8719243?from=udn-catebreaknews_ch2",
             "time": "2025-05-06 01:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/05/realtime/31981167.jpg&s=Y&x=0&y=29&sw=3787&sh=2524&exp=3600&w=300",
-            "title": "立院初審社維法 賣黃牛票最重罰3萬",
-            "link": "https://udn.com//news/story/6656/8719253?from=udn-catebreaknews_ch2",
-            "time": "2025-05-06 01:34"
         }
     ]
 }
