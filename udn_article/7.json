@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/06/10/98/29794761.jpg&s=Y&x=0&y=0&sw=883&sh=589&exp=3600&w=300",
+            "title": "大摩：AI需求超過資料中心容量 按讚台積電等四大台廠",
+            "link": "https://udn.com//news/story/7251/8721642?from=udn-catebreaknews_ch2",
+            "time": "2025-05-06 20:59"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/06/0/31989781.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "韓國承認美國施壓升值！網氣炸：政府說謊成性、何時大罷免賴清德？",
             "link": "https://udn.com//news/story/12806/8721488?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "崇越Q1營收EPS同創歷年同期新高 全年營運戰新高",
             "link": "https://udn.com//news/story/7253/8721332?from=udn-catebreaknews_ch2",
             "time": "2025-05-06 18:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/08/0/31810321.jpg&s=Y&x=0&y=0&sw=1248&sh=832&exp=3600&w=300",
-            "title": "外資連3買台股 敲進金融調節高息ETF",
-            "link": "https://udn.com//news/story/7251/8721217?from=udn-catebreaknews_ch2",
-            "time": "2025-05-06 17:49"
         }
     ]
 }

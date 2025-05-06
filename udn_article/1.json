@@ -1,16 +1,22 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/06/1/31990031.jpg&s=Y&x=0&y=18&sw=717&sh=478&exp=3600&w=300",
+            "title": "國防部預告悔過執行新規 後備軍人教召也納入執行",
+            "link": "https://udn.com//news/story/10930/8721656?from=udn-catebreaknews_ch2",
+            "time": "2025-05-06 21:05"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/06/98/31989977.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
+            "title": "郭智輝遭爆砸22萬設宴邀谷立言 AIT回應了",
+            "link": "https://udn.com//news/story/6656/8721638?from=udn-catebreaknews_ch2",
+            "time": "2025-05-06 20:59"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/06/98/31989924.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "美學者稱川普應管管台灣 印度學者轟無知：複誦北京說詞",
             "link": "https://udn.com//news/story/6656/8721592?from=udn-catebreaknews_ch2",
             "time": "2025-05-06 20:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/06/realtime/31989918.jpg&s=Y&x=0&y=16&sw=2197&sh=1464&exp=3600&w=300",
-            "title": "川普關稅戰致台幣飆升 專家：央行把匯率工具拱手讓人",
-            "link": "https://udn.com//news/story/124438/8721604?from=udn-catebreaknews_ch2",
-            "time": "2025-05-06 20:26"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/06/realtime/31989857.jpg&s=Y&x=133&y=0&sw=1440&sh=960&exp=3600&w=300",
@@ -23,12 +29,6 @@
             "title": "受李遠哲力邀返台 中研院前副院長陳長謙89歲辭世",
             "link": "https://udn.com//news/story/7314/8721503?from=udn-catebreaknews_ch2",
             "time": "2025-05-06 19:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/06/realtime/31989772.jpg&s=Y&x=0&y=0&sw=4095&sh=2730&exp=3600&w=300",
-            "title": "黃呂錦茹涉偽造文書遭羈押禁見 國民黨：高院駁回理由令人傻眼",
-            "link": "https://udn.com//news/story/124323/8721492?from=udn-catebreaknews_ch2",
-            "time": "2025-05-06 19:40"
         }
     ]
 }
