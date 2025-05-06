@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/06/realtime/31990048.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "台虹營收／4月9.6億元 創近八個月新高",
+            "link": "https://udn.com//news/story/7253/8721675?from=udn-catebreaknews_ch2",
+            "time": "2025-05-06 21:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/06/10/98/29794761.jpg&s=Y&x=0&y=0&sw=883&sh=589&exp=3600&w=300",
             "title": "大摩：AI需求超過資料中心容量 按讚台積電等四大台廠",
             "link": "https://udn.com//news/story/7251/8721642?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "緯創首季每股賺1.85元！加碼「十大議案」砸471億擴大美、墨、台布局",
             "link": "https://udn.com//news/story/7253/8721418?from=udn-catebreaknews_ch2",
             "time": "2025-05-06 19:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/06/realtime/31989507.jpg&s=Y&x=0&y=35&sw=2900&sh=1932&exp=3600&w=300",
-            "title": "崇越Q1營收EPS同創歷年同期新高 全年營運戰新高",
-            "link": "https://udn.com//news/story/7253/8721332?from=udn-catebreaknews_ch2",
-            "time": "2025-05-06 18:21"
         }
     ]
 }
