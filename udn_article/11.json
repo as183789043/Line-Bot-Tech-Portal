@@ -1,6 +1,18 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/06/realtime/31985457.png&s=Y&x=0&y=0&sw=4340&sh=2892&exp=3600&w=300",
+            "title": "捍衛港幣匯率 香港金管局今晨再注資逾2,300億元",
+            "link": "https://udn.com//news/story/7331/8719691?from=udn-catebreaknews_ch2",
+            "time": "2025-05-06 09:17"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/06/realtime/31985175.png&s=Y&x=0&y=30&sw=3967&sh=2644&exp=3600&w=300",
+            "title": "大陸電影業進入寒冬？五一票房約31億元較去年腰斬",
+            "link": "https://udn.com//news/story/7332/8719650?from=udn-catebreaknews_ch2",
+            "time": "2025-05-06 08:47"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/05/05/31979709.jpg&s=Y&x=60&y=0&sw=1158&sh=772&exp=3600&w=300",
             "title": "習近平明訪俄 共軍參與紅場閱兵",
             "link": "https://udn.com//news/story/7331/8719199?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2025-05-06 01:53"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_1.jpg&w=300",
             "title": "許歷農逝世 宋濤致唁電",
             "link": "https://udn.com//news/story/7331/8719197?from=udn-catebreaknews_ch2",
             "time": "2025-05-06 01:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_1.jpg&w=300",
-            "title": "美中貿易戰持續 陸富人撤出美房市",
-            "link": "https://udn.com//news/story/7333/8719193?from=udn-catebreaknews_ch2",
-            "time": "2025-05-06 01:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_7.jpg&w=300",
-            "title": "大陸「洗產地」廣告湧現",
-            "link": "https://udn.com//news/story/7333/8719219?from=udn-catebreaknews_ch2",
-            "time": "2025-05-06 01:45"
         }
     ]
 }
