@@ -1,6 +1,12 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/06/realtime/31989495.jpg&s=Y&x=0&y=0&sw=2048&sh=1362&exp=3600&w=300",
+            "title": "等3年！肯德基「勁爆雞米花」回歸 加碼「雞米花桶」",
+            "link": "https://udn.com//news/story/7193/8721317?from=udn-catebreaknews_ch2",
+            "time": "2025-05-06 18:14"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/27/0/31986904.jpg&s=Y&x=0&y=0&sw=1280&sh=712&exp=3600&w=300",
             "title": "桃園人推薦的隱藏版美食！Google評論4.9顆星 俗夠大碗豆花店 免費續豆花糖水冰沙 還有招牌臭豆腐必點",
             "link": "https://udn.com//news/story/7206/8701938?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "全聯這款防蚊液「買一送一」 媽媽們搶爆：真的超好用",
             "link": "https://udn.com//news/story/7160/8721034?from=udn-catebreaknews_ch2",
             "time": "2025-05-06 16:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/06/0/31988592.jpg&s=Y&x=0&y=0&sw=1280&sh=712&exp=3600&w=300",
-            "title": "南港LaLaport威秀影城 5/14盛大開幕！ 影迷搶爆限量「88元電影福袋＋飲料無限暢飲110天」",
-            "link": "https://udn.com//news/story/7934/8720917?from=udn-catebreaknews_ch2",
-            "time": "2025-05-06 16:55"
         }
     ]
 }
