@@ -1,7 +1,19 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/09/realtime/32004780.jpg&s=Y&x=0&y=6&sw=800&sh=532&exp=3600&w=300",
+            "title": "普徠仕：未來一年半內 10年期美債殖利率可能直衝6%",
+            "link": "https://udn.com//news/story/6811/8727621?from=udn-catebreaknews_ch2",
+            "time": "2025-05-09 00:35"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/09/realtime/32004739.jpg&s=Y&x=0&y=0&sw=5715&sh=3810&exp=3600&w=300",
+            "title": "若美中會談進展順利 川普：不排除調降145%對中關稅",
+            "link": "https://udn.com//news/story/124373/8727614?from=udn-catebreaknews_ch2",
+            "time": "2025-05-09 00:28"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/09/1/32004729.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "西斯汀教堂煙囪冒白煙 顯示已選出新教宗",
             "link": "https://udn.com//news/story/6809/8727606?from=udn-catebreaknews_ch2",
             "time": "2025-05-09 00:19"
@@ -15,20 +27,8 @@
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/08/realtime/32004573.jpg&s=Y&x=0&y=0&sw=5715&sh=3810&exp=3600&w=300",
             "title": "美英達成貿易協議 川普：「解放日」以來第1個公平互惠協議",
-            "link": "https://udn.com//news/story/6813/8727576?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124373/8727576?from=udn-catebreaknews_ch2",
             "time": "2025-05-08 23:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/08/realtime/32004378.jpg&s=Y&x=0&y=38&sw=5500&sh=3666&exp=3600&w=300",
-            "title": "川普對等關稅第一國！美國與英國簽署貿易協議",
-            "link": "https://udn.com//news/story/124373/8727394?from=udn-catebreaknews_ch2",
-            "time": "2025-05-08 23:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/08/0/32004345.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "波羅的海國家關閉領空 斯洛伐克總理赴俄需新路線",
-            "link": "https://udn.com//news/story/6809/8727339?from=udn-catebreaknews_ch2",
-            "time": "2025-05-08 22:53"
         }
     ]
 }
