@@ -1,7 +1,19 @@
 {
     "生活": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/10/realtime/32013448.png&s=Y&x=108&y=0&sw=1224&sh=817&exp=3600&w=300",
+            "title": "南台灣昨深夜藍綠色火球劃過夜空 鄭明典：疑似火流星",
+            "link": "https://udn.com//news/story/7266/8730181?from=udn-catebreaknews_ch2",
+            "time": "2025-05-10 07:15"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_5.jpg&w=300",
+            "title": "情書簡訊",
+            "link": "https://udn.com//news/story/7272/8709671?from=udn-catebreaknews_ch2",
+            "time": "2025-05-10 06:47"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_1.jpg&w=300",
             "title": "金玉涼言",
             "link": "https://udn.com//news/story/7272/8706674?from=udn-catebreaknews_ch2",
             "time": "2025-05-10 06:07"
@@ -17,18 +29,6 @@
             "title": "雷雨帶正進入台南及北高雄 留意瞬間大雨雷擊及強風",
             "link": "https://udn.com//news/story/7266/8730138?from=udn-catebreaknews_ch2",
             "time": "2025-05-10 05:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/10/1/32013173.png&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "連2震！ 清晨5時27分南投竹山規模4.3地震 最大震度4級",
-            "link": "https://udn.com//news/story/7266/8730134?from=udn-catebreaknews_ch2",
-            "time": "2025-05-10 05:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/10/realtime/32013132.jpg&s=Y&x=0&y=15&sw=1512&sh=1008&exp=3600&w=300",
-            "title": "氣象署天氣展望 未來2周先涼後暖 降雨先溼後趨緩",
-            "link": "https://udn.com//news/story/7266/8730130?from=udn-catebreaknews_ch2",
-            "time": "2025-05-10 05:26"
         }
     ]
 }
