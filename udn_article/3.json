@@ -1,9 +1,21 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/09/realtime/32008432.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "美中貿易談判預計10日在瑞士登場 彭博曝美方開出目標",
+            "link": "https://udn.com//news/story/6813/8728548?from=udn-catebreaknews_ch2",
+            "time": "2025-05-09 13:10"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/09/realtime/32008223.jpg&s=Y&x=0&y=0&sw=3792&sh=2499&exp=3600&w=300",
+            "title": "英特爾傳與NVIDIA、Googl洽談採用18A製程 挑戰台積電霸主地位",
+            "link": "https://udn.com//news/story/6811/8728474?from=udn-catebreaknews_ch2",
+            "time": "2025-05-09 12:34"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/09/realtime/32008080.jpg&s=Y&x=0&y=21&sw=3046&sh=2030&exp=3600&w=300",
             "title": "紐時：新教宗名號意義深遠 既向前人致敬也自我期許",
-            "link": "https://udn.com//news/story/6809/8728419?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124317/8728419?from=udn-catebreaknews_ch2",
             "time": "2025-05-09 12:11"
         },
         {
@@ -17,18 +29,6 @@
             "title": "新教宗「良14世」亮相 首場講話籲世人「搭起橋梁」",
             "link": "https://udn.com//news/story/124317/8728318?from=udn-catebreaknews_ch2",
             "time": "2025-05-09 11:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/09/realtime/32007519.jpg&s=Y&x=0&y=0&sw=8640&sh=5760&exp=3600&w=300",
-            "title": "【即時短評】解鈴還須繫鈴人 化解印巴衝突  關鍵在莫迪",
-            "link": "https://udn.com//news/story/124479/8728300?from=udn-catebreaknews_ch2",
-            "time": "2025-05-09 11:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/09/realtime/32007511.jpg&s=Y&x=0&y=0&sw=7040&sh=4688&exp=3600&w=300",
-            "title": "亞洲夥伴得耐心等！美商務部長：日韓貿易談判不會像英國這麼快",
-            "link": "https://udn.com//news/story/6811/8728295?from=udn-catebreaknews_ch2",
-            "time": "2025-05-09 11:28"
         }
     ]
 }
