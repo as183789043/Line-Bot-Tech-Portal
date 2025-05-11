@@ -1,6 +1,12 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/12/realtime/32023070.png&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
+            "title": "台灣東部海域5:25發生規模4.6地震 5縣市有感",
+            "link": "https://udn.com//news/story/7266/8732986?from=udn-catebreaknews_ch2",
+            "time": "2025-05-12 05:45"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/12/1/32022856.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "母親永遠下不了班…已婚者每日家務 女比男多近3小時",
             "link": "https://udn.com//news/story/7266/8732840?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "護理師留才 成大全面加薪7%",
             "link": "https://udn.com//news/story/7266/8732839?from=udn-catebreaknews_ch2",
             "time": "2025-05-12 02:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/11/realtime/32022398.jpg&s=Y&x=0&y=40&sw=3024&sh=2016&exp=3600&w=300",
-            "title": "護理師天天對話 喚醒腦傷者",
-            "link": "https://udn.com//news/story/7266/8732836?from=udn-catebreaknews_ch2",
-            "time": "2025-05-12 01:31"
         }
     ]
 }
