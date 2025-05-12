@@ -1,16 +1,22 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/12/realtime/32026967.png&s=Y&x=0&y=0&sw=1860&sh=1240&exp=3600&w=300",
+            "title": "美中經貿聯合聲明出爐 美對中關稅從145%下調至30%",
+            "link": "https://udn.com//news/story/7314/8734442?from=udn-catebreaknews_ch2",
+            "time": "2025-05-12 17:08"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/12/realtime/32026862.jpg&s=Y&x=315&y=0&sw=3402&sh=2268&exp=3600&w=300",
+            "title": "二階未達門檻！苗栗罷免陳超明、邱鎮軍罷團 截止日宣告未送件",
+            "link": "https://udn.com//news/story/124323/8734376?from=udn-catebreaknews_ch2",
+            "time": "2025-05-12 16:47"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/30/realtime/31952537.jpg&s=Y&x=0&y=0&sw=5500&sh=3635&exp=3600&w=300",
             "title": "立法院司委會審考監人總法務部預算凍結案 僅1案未解凍",
             "link": "https://udn.com//news/story/6656/8734199?from=udn-catebreaknews_ch2",
             "time": "2025-05-12 16:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/12/0/32026131.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
-            "title": "懶人包／網紅「小周牙醫」歧視同志風波延燒！爭議始末一次看",
-            "link": "https://udn.com//news/story/123693/8734259?from=udn-catebreaknews_ch2",
-            "time": "2025-05-12 16:16"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/07/98/31996770.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
@@ -23,12 +29,6 @@
             "title": "憲訴法說明會 朝野立委代表出席交鋒",
             "link": "https://udn.com//news/story/6656/8734274?from=udn-catebreaknews_ch2",
             "time": "2025-05-12 16:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/12/realtime/32026426.jpg&s=Y&x=0&y=30&sw=4080&sh=2720&exp=3600&w=300",
-            "title": "彰化縣立法委員第三選區大罷免明截止連署 還差四位數",
-            "link": "https://udn.com//news/story/124323/8734227?from=udn-catebreaknews_ch2",
-            "time": "2025-05-12 16:00"
         }
     ]
 }
