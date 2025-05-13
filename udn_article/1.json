@@ -1,13 +1,7 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
-            "title": "美財長：台貿易協議提案「很好」",
-            "link": "https://udn.com//news/story/6656/8737947?from=udn-catebreaknews_ch2",
-            "time": "2025-05-14 00:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_6.jpg&w=300",
             "title": "桃園罷團爆募款爭議 藍委籲司法介入調查",
             "link": "https://udn.com//news/story/124323/8737955?from=udn-catebreaknews_ch2",
             "time": "2025-05-14 00:44"
@@ -19,15 +13,21 @@
             "time": "2025-05-14 00:42"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/14/1/32037431.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/14/1/32037431.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "川普談貿易提「統一與和平」 總統府：美中談判 無涉台灣",
             "link": "https://udn.com//news/story/6656/8737964?from=udn-catebreaknews_ch2",
             "time": "2025-05-14 00:20"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/13/realtime/32037274.jpeg&s=Y&x=0&y=364&sw=2497&sh=1665&exp=3600&w=300",
-            "title": "陸射劍二飛彈 首次試射全中",
+            "title": "國軍陸射劍二飛彈 首次試射全中",
             "link": "https://udn.com//news/story/10930/8737939?from=udn-catebreaknews_ch2",
+            "time": "2025-05-14 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
+            "title": "外交部籲WHO 停止扈從中國",
+            "link": "https://udn.com//news/story/6656/8737942?from=udn-catebreaknews_ch2",
             "time": "2025-05-14 00:00"
         }
     ]
