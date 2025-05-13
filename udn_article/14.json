@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/12/realtime/32027595.jpg&s=Y&x=107&y=0&sw=3999&sh=2666&exp=3600&w=300",
+            "title": "美元危機",
+            "link": "https://udn.com//news/story/6854/8734824?from=udn-catebreaknews_ch2",
+            "time": "2025-05-13 15:28"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/13/draft/32031141.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
+            "title": "女性飲酒健康代價更高 科學家找到原因",
+            "link": "https://udn.com//news/story/6897/8735617?from=udn-catebreaknews_ch2",
+            "time": "2025-05-13 15:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/13/0/32033461.jpg&s=Y&x=280&y=0&sw=918&sh=612&exp=3600&w=300",
             "title": "為何連藍營都想罷傅崐萁？二階罷免達門檻1.7倍 還能回鍋當縣長嗎？",
             "link": "https://udn.com//news/story/6841/8736487?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "想貸給年輕人1-2成屋款也不行 建商、代銷業幫喊話：金龍政策能否鬆綁「大家不好內需也難看」",
             "link": "https://udn.com//news/story/6839/8735845?from=udn-catebreaknews_ch2",
             "time": "2025-05-13 11:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/12/0/32024367.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "她社宅候補等4年喊很難抽 另1案「27戶竟12人重複中」！有黑箱作業？住都中心揭流程",
-            "link": "https://udn.com//news/story/6839/8733437?from=udn-catebreaknews_ch2",
-            "time": "2025-05-12 12:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/12/0/32024418.jpg&s=Y&x=68&y=0&sw=1076&sh=717&exp=3600&w=300",
-            "title": "烏弄、Tea Top、茶之魔手…手搖飲茶葉從哪來？神秘網址一窺哪些品牌使用台灣茶",
-            "link": "https://udn.com//news/story/6839/8733475?from=udn-catebreaknews_ch2",
-            "time": "2025-05-12 12:10"
         }
     ]
 }
