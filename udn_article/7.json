@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/12/98/32025654.jpg&s=Y&x=0&y=0&sw=1158&sh=772&exp=3600&w=300",
+            "title": "台指期夜盤一度衝至21,889點 台積電夜盤重返千元大關",
+            "link": "https://udn.com//news/story/7251/8740290?from=udn-catebreaknews_ch2",
+            "time": "2025-05-14 21:43"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/09/2/32007609.jpg&s=Y&x=0&y=0&sw=1253&sh=835&exp=3600&w=300",
             "title": "台積電利多頻傳外資連4買 股價逼近1000元大關",
             "link": "https://udn.com//news/story/7253/8740050?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "173萬股民受惠「國民ETF」宣布配息 最後買進日為5/16",
             "link": "https://udn.com//news/story/123006/8739632?from=udn-catebreaknews_ch2",
             "time": "2025-05-14 16:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/03/98/31970410.jpg&s=Y&x=40&y=28&sw=1140&sh=760&exp=3600&w=300",
-            "title": "鴻海：關稅影響輕 新台幣升值1元影響營收3%",
-            "link": "https://udn.com//news/story/7253/8739600?from=udn-catebreaknews_ch2",
-            "time": "2025-05-14 16:25"
         }
     ]
 }
