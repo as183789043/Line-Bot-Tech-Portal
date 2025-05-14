@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/09/2/32007609.jpg&s=Y&x=0&y=0&sw=1253&sh=835&exp=3600&w=300",
+            "title": "台積電利多頻傳外資連4買 股價逼近1000元大關",
+            "link": "https://udn.com//news/story/7253/8740050?from=udn-catebreaknews_ch2",
+            "time": "2025-05-14 20:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/05/14/32039651.jpg&s=Y&x=0&y=0&sw=1280&sh=865&exp=3600&w=300",
             "title": "美中雙方互釋善意、政策工具隨侍在側 大中華基金後市可期",
             "link": "https://udn.com//news/story/10103/8739690?from=udn-catebreaknews_ch2",
@@ -22,12 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/03/98/31970410.jpg&s=Y&x=40&y=28&sw=1140&sh=760&exp=3600&w=300",
             "title": "鴻海：關稅影響輕 新台幣升值1元影響營收3%",
             "link": "https://udn.com//news/story/7253/8739600?from=udn-catebreaknews_ch2",
-            "time": "2025-05-14 16:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/17/realtime/31881904.jpg&s=Y&x=1970&y=940&sw=3210&sh=2140&exp=3600&w=300",
-            "title": "鴻海法說會／董座劉揚偉：AI 伺服器滿手訂單 將參與客戶中東專案",
-            "link": "https://udn.com//news/story/7253/8739608?from=udn-catebreaknews_ch2",
             "time": "2025-05-14 16:25"
         }
     ]
