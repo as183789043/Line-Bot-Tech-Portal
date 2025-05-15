@@ -1,10 +1,22 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
+            "title": "就市論勢／AI 產業鏈 擇優布局",
+            "link": "https://udn.com//news/story/7251/8742722?from=udn-catebreaknews_ch2",
+            "time": "2025-05-16 00:40"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
             "title": "財長：國安基金7月前不退場",
             "link": "https://udn.com//news/story/7251/8743151?from=udn-catebreaknews_ch2",
             "time": "2025-05-16 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/16/2/32051269.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "最牛一輪／漢唐犀利 兆豐4C 拉風",
+            "link": "https://udn.com//news/story/7255/8743181?from=udn-catebreaknews_ch2",
+            "time": "2025-05-15 23:58"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/15/realtime/32050998.jpg&s=Y&x=118&y=0&sw=1230&sh=821&exp=3600&w=300",
@@ -17,18 +29,6 @@
             "title": "台指期夜盤衝高後 拉回區間震盪",
             "link": "https://udn.com//news/story/7251/8742915?from=udn-catebreaknews_ch2",
             "time": "2025-05-15 22:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/12/2/32025069.jpg&s=Y&x=0&y=0&sw=1254&sh=836&exp=3600&w=300",
-            "title": "外資：鴻海首季財報優於預期 AI伺服器仍是主要驅動力",
-            "link": "https://udn.com//news/story/7253/8742806?from=udn-catebreaknews_ch2",
-            "time": "2025-05-15 20:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/15/2/32050692.jpg&s=Y&x=16&y=80&sw=1248&sh=832&exp=3600&w=300",
-            "title": "大同晚間臨時開記者會重訊 竟是為了政府採購公報",
-            "link": "https://udn.com//news/story/7253/8742781?from=udn-catebreaknews_ch2",
-            "time": "2025-05-15 20:31"
         }
     ]
 }
