@@ -2,6 +2,12 @@
     "全球": [
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
+            "title": "巴菲特坦言感覺自己老了",
+            "link": "https://udn.com//news/story/6811/8743128?from=udn-catebreaknews_ch2",
+            "time": "2025-05-16 03:04"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
             "title": "俄烏擬會談…川普：除非我和普亭碰面 否則不會有進展",
             "link": "https://udn.com//news/story/122663/8743255?from=udn-catebreaknews_ch2",
             "time": "2025-05-16 02:32"
@@ -13,22 +19,16 @@
             "time": "2025-05-16 02:00"
         },
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/15/realtime/32051191.jpg&s=Y&x=0&y=0&sw=1889&sh=1288&exp=3600&w=300",
+            "title": "鮑爾：長期利率可能走高 決策官員將修改平均通膨率目標",
+            "link": "https://udn.com//news/story/6811/8743142?from=udn-catebreaknews_ch2",
+            "time": "2025-05-16 00:47"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/16/1/32051260.jpg&s=Y&x=112&y=80&sw=1064&sh=709&exp=3600&w=300",
             "title": "美關稅調查汽車、鋼鋁、藥品 大陸再籲平等對話",
             "link": "https://udn.com//news/story/124373/8743157?from=udn-catebreaknews_ch2",
             "time": "2025-05-16 00:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/15/realtime/32051205.jpg&s=Y&x=0&y=0&sw=2833&sh=1889&exp=3600&w=300",
-            "title": "關稅戰休兵美商搶運 大陸輸美貨櫃訂單飆近3倍",
-            "link": "https://udn.com//news/story/124373/8743153?from=udn-catebreaknews_ch2",
-            "time": "2025-05-16 00:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/15/realtime/32051130.jpg&s=Y&x=560&y=272&sw=1153&sh=769&exp=3600&w=300",
-            "title": "開戰以來俄烏首次直接會談 普亭、川普雙雙缺席",
-            "link": "https://udn.com//news/story/122663/8743042?from=udn-catebreaknews_ch2",
-            "time": "2025-05-16 00:00"
         }
     ]
 }
