@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/16/98/32057253.jpg&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
+            "title": "台股本週大漲928點 上市公司總市值衝破70兆元",
+            "link": "https://udn.com//news/story/7251/8745115?from=udn-catebreaknews_ch2",
+            "time": "2025-05-16 18:55"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/16/2/32057072.jpg&s=Y&x=0&y=352&sw=1280&sh=853&exp=3600&w=300",
             "title": "上海商銀法說／台幣升值對損益影響不大 授信品質穩定",
             "link": "https://udn.com//news/story/7252/8745043?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "神基法說會／上修 NB、車用業務展望 全年營運樂觀看待",
             "link": "https://udn.com//news/story/7253/8744944?from=udn-catebreaknews_ch2",
             "time": "2025-05-16 17:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
-            "title": "全體上市公司第1季稅前盈餘1.11兆元 年增28%",
-            "link": "https://udn.com//news/story/7251/8744769?from=udn-catebreaknews_ch2",
-            "time": "2025-05-16 16:22"
         }
     ]
 }
