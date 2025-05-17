@@ -1,9 +1,27 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/17/1/32058639.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "總統：工作未打4折 能上街頭證明沒有獨裁者",
+            "link": "https://udn.com//news/story/124496/8746771?from=udn-catebreaknews_ch2",
+            "time": "2025-05-17 20:18"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/17/1/32063990.jpg&s=Y&x=0&y=4&sw=1280&sh=853&exp=3600&w=300",
+            "title": "不滿施政就不愛台灣？ 賴總統：批判政府不會被貼標籤",
+            "link": "https://udn.com//news/story/124496/8746726?from=udn-catebreaknews_ch2",
+            "time": "2025-05-17 19:28"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/17/1/32063988.jpg&s=Y&x=0&y=4&sw=1280&sh=853&exp=3600&w=300",
+            "title": "國民黨發動520罷免總統 賴清德：我必須尊重",
+            "link": "https://udn.com//news/story/124496/8746725?from=udn-catebreaknews_ch2",
+            "time": "2025-05-17 19:26"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/17/realtime/32063922.png&s=Y&x=0&y=8&sw=904&sh=602&exp=3600&w=300",
             "title": "徐富癸：再見核三廠 謝謝恆春半島的包容與堅持",
-            "link": "https://udn.com//news/story/6656/8746690?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124495/8746690?from=udn-catebreaknews_ch2",
             "time": "2025-05-17 19:08"
         },
         {
@@ -11,24 +29,6 @@
             "title": "影／卓榮泰訪岸內影視基地 宣示以無核文化抵抗文化入侵",
             "link": "https://udn.com//news/story/6656/8746668?from=udn-catebreaknews_ch2",
             "time": "2025-05-17 18:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/17/realtime/32063816.jpg&s=Y&x=152&y=0&sw=1617&sh=1078&exp=3600&w=300",
-            "title": "核三除役倒數 40年老鄰居話當年語帶不捨",
-            "link": "https://udn.com//news/story/124495/8746667?from=udn-catebreaknews_ch2",
-            "time": "2025-05-17 18:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/17/realtime/32063810.jpg&s=Y&x=572&y=0&sw=3900&sh=2600&exp=3600&w=300",
-            "title": "民眾憂戰爭風險升高 賴總統：台灣相當穩健",
-            "link": "https://udn.com//news/story/124496/8746666?from=udn-catebreaknews_ch2",
-            "time": "2025-05-17 18:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/17/realtime/32063746.jpg&s=Y&x=572&y=0&sw=3900&sh=2600&exp=3600&w=300",
-            "title": "坦言要面對疑美論 賴總統：但川普上任後對台政策未變",
-            "link": "https://udn.com//news/story/124496/8746650?from=udn-catebreaknews_ch2",
-            "time": "2025-05-17 18:27"
         }
     ]
 }
