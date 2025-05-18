@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/17/2/31301419.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "台積電擬延後…麥格理點名2半導體設備廠 大降目標價「最多減4成」",
+            "link": "https://udn.com//news/story/7251/8748061?from=udn-catebreaknews_ch2",
+            "time": "2025-05-18 18:21"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/18/2/32068956.jpg&s=Y&x=0&y=0&sw=629&sh=419&exp=3600&w=300",
             "title": "COMPUTEX展來襲 黃仁勳行情望再現！台股周線連四紅",
             "link": "https://udn.com//news/story/7251/8747780?from=udn-catebreaknews_ch2",
@@ -13,22 +19,16 @@
             "time": "2025-05-18 03:08"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
             "title": "機械業股東會 將通過配息",
             "link": "https://udn.com//news/story/7252/8746848?from=udn-catebreaknews_ch2",
             "time": "2025-05-18 03:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
             "title": "四家金融業陸續法說 國泰金營運策略聚焦",
             "link": "https://udn.com//news/story/7252/8746842?from=udn-catebreaknews_ch2",
             "time": "2025-05-18 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
-            "title": "金融股 迎補漲行情",
-            "link": "https://udn.com//news/story/7252/8746927?from=udn-catebreaknews_ch2",
-            "time": "2025-05-18 02:55"
         }
     ]
 }

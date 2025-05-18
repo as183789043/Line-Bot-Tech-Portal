@@ -1,6 +1,24 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/18/realtime/32070384.jpg&s=Y&x=0&y=0&sw=3500&sh=2334&exp=3600&w=300",
+            "title": "除了Nvidia黃仁勳演講 彭博：本周Computex還有這四大看點",
+            "link": "https://udn.com//news/story/124494/8748226?from=udn-catebreaknews_ch2",
+            "time": "2025-05-18 20:25"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/18/realtime/32070202.jpg&s=Y&x=0&y=28&sw=3600&sh=2400&exp=3600&w=300",
+            "title": "黃仁勳彩排步出北流！偕妻同車離開 明宣布AI新一年發展",
+            "link": "https://udn.com//news/story/124494/8748104?from=udn-catebreaknews_ch2",
+            "time": "2025-05-18 19:05"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/18/realtime/32070125.jpg&s=Y&x=0&y=308&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "微星發表輝達、聯發科AI超級電腦 第3季亮相",
+            "link": "https://udn.com//news/story/7240/8748090?from=udn-catebreaknews_ch2",
+            "time": "2025-05-18 18:45"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/18/98/32069798.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "中國課徵共聚聚甲醛反傾銷稅 台灣稅率最低影響有限",
             "link": "https://udn.com//news/story/7238/8747918?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "核三2號機停機 台電：供電充裕水力風力發電穩定",
             "link": "https://udn.com//news/story/7238/8747858?from=udn-catebreaknews_ch2",
             "time": "2025-05-18 16:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/18/realtime/32068966.jpg&s=Y&x=0&y=0&sw=8640&sh=5760&exp=3600&w=300",
-            "title": "彭博：中美矽晶與印度PEL擬成立合資公司 製造太陽能矽晶圓",
-            "link": "https://udn.com//news/story/7240/8747806?from=udn-catebreaknews_ch2",
-            "time": "2025-05-18 14:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/15/2/32047105.jpg&s=Y&x=0&y=0&sw=1145&sh=763&exp=3600&w=300",
-            "title": "打造半導體非紅供應鏈 台積電根留台灣加大全球布局",
-            "link": "https://udn.com//news/story/7240/8747366?from=udn-catebreaknews_ch2",
-            "time": "2025-05-18 11:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/18/98/32068689.jpg&s=Y&x=0&y=0&sw=1229&sh=819&exp=3600&w=300",
-            "title": "川普關稅戰供應鏈重組 加速台灣資訊產業第三波遷徙",
-            "link": "https://udn.com//news/story/7238/8747403?from=udn-catebreaknews_ch2",
-            "time": "2025-05-18 11:07"
         }
     ]
 }
