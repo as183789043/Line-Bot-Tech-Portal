@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/19/1/32071034.jpg&s=Y&x=0&y=1&sw=318&sh=212&exp=3600&w=300",
+            "title": "本周財經焦點",
+            "link": "https://udn.com//news/story/7238/8748475?from=udn-catebreaknews_ch2",
+            "time": "2025-05-19 00:17"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_5.jpg&w=300",
+            "title": "盤點台北電腦展5大看點 彭博：須化解AI泡沫疑慮",
+            "link": "https://udn.com//news/story/7238/8748476?from=udn-catebreaknews_ch2",
+            "time": "2025-05-19 00:11"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/12/2/31642671.jpg&s=Y&x=11&y=6&sw=776&sh=517&exp=3600&w=300",
             "title": "3大壽險金控首季狂敲13萬張兆豐金 看中哪三大利多？",
             "link": "https://udn.com//news/story/7239/8748353?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "微星AI PC升級「AI Robot」將發表 六款LLM離線聽令",
             "link": "https://udn.com//news/story/7240/8748295?from=udn-catebreaknews_ch2",
             "time": "2025-05-18 22:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/11/0/32070427.jpg&s=Y&x=0&y=0&sw=1022&sh=681&exp=3600&w=300",
-            "title": "努力透過儲蓄帳戶累積財富卻換來徒勞 房地產專家：用這種卡讓你一毛不剩",
-            "link": "https://udn.com//news/story/121591/8732617?from=udn-catebreaknews_ch2",
-            "time": "2025-05-18 21:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/18/realtime/32070453.jpg&s=Y&x=65&y=0&sw=1758&sh=1172&exp=3600&w=300",
-            "title": "大陸對台聚甲醛產品課反傾銷稅 經部：助業者分散市場",
-            "link": "https://udn.com//news/story/7238/8748242?from=udn-catebreaknews_ch2",
-            "time": "2025-05-18 21:01"
         }
     ]
 }
