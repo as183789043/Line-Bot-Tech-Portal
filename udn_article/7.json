@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/19/2/32075121.jpg&s=Y&x=28&y=24&sw=1236&sh=824&exp=3600&w=300",
+            "title": "COMPUTEX 將登場！AI重燃台股夢 主動式ETF有看頭",
+            "link": "https://udn.com//news/story/123006/8749894?from=udn-catebreaknews_ch2",
+            "time": "2025-05-19 15:44"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/19/realtime/32072205.jpg&s=Y&x=0&y=0&sw=1889&sh=1278&exp=3600&w=300",
+            "title": "外資止步連11買！三大法人轉賣超166億元 台股回落319點",
+            "link": "https://udn.com//news/story/7251/8749834?from=udn-catebreaknews_ch2",
+            "time": "2025-05-19 15:19"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/19/realtime/32074424.jpg&s=Y&x=229&y=0&sw=285&sh=191&exp=3600&w=300",
             "title": "台股 ETF 受益人數連三減 海外 ETF 全球開花",
             "link": "https://udn.com//news/story/123006/8749709?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "富邦證券輔導兆聯實業完成競拍 承銷價262元",
             "link": "https://udn.com//news/story/7251/8749657?from=udn-catebreaknews_ch2",
             "time": "2025-05-19 14:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/12/2/31843824.jpg&s=Y&x=52&y=12&sw=1229&sh=820&exp=3600&w=300",
-            "title": "台股下跌319點收21,523點 台積電下挫14元收984元",
-            "link": "https://udn.com//news/story/7251/8749508?from=udn-catebreaknews_ch2",
-            "time": "2025-05-19 13:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/19/0/32073765.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "關稅一降、8萬人失業？小客車零關稅政策掀輿論海嘯：你想開便宜車還是保住他們飯碗？",
-            "link": "https://udn.com//news/story/12806/8749412?from=udn-catebreaknews_ch2",
-            "time": "2025-05-19 12:52"
         }
     ]
 }
