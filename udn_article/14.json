@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/19/draft/32073617.png&s=Y&x=57&y=0&sw=687&sh=458&exp=3600&w=300",
+            "title": "發現新罕見基因突變 某些人1天睡4~6小時就完全恢復精力",
+            "link": "https://udn.com//news/story/6897/8749343?from=udn-catebreaknews_ch2",
+            "time": "2025-05-19 15:09"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/19/0/32073153.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "融資慘賠300萬「直接畢業」…他花6年省錢還債、中興電賺逾倍：線圖4種樣子別碰",
             "link": "https://udn.com//news/story/6839/8749184?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "卓越四十載 登峰大賞頒獎",
             "link": "https://udn.com//news/story/6853/8744012?from=udn-catebreaknews_ch2",
             "time": "2025-05-18 11:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/10/realtime/32017331.jpg&s=Y&x=0&y=17&sw=2267&sh=1510&exp=3600&w=300",
-            "title": "壽險佣金制度應回歸合理化",
-            "link": "https://udn.com//news/story/6854/8742580?from=udn-catebreaknews_ch2",
-            "time": "2025-05-18 11:33"
         }
     ]
 }

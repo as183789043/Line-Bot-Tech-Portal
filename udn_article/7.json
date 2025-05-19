@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/19/realtime/32074424.jpg&s=Y&x=229&y=0&sw=285&sh=191&exp=3600&w=300",
+            "title": "台股 ETF 受益人數連三減 海外 ETF 全球開花",
+            "link": "https://udn.com//news/story/123006/8749709?from=udn-catebreaknews_ch2",
+            "time": "2025-05-19 14:38"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/18/1/32065156.jpg&s=Y&x=4&y=24&sw=1269&sh=846&exp=3600&w=300",
+            "title": "美國痛失3A信評 法人：債券投資應重收益提升下檔防護",
+            "link": "https://udn.com//news/story/7251/8749712?from=udn-catebreaknews_ch2",
+            "time": "2025-05-19 14:38"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/19/realtime/32074278.jpeg&s=Y&x=0&y=0&sw=4881&sh=3254&exp=3600&w=300",
+            "title": "富邦證券輔導兆聯實業完成競拍 承銷價262元",
+            "link": "https://udn.com//news/story/7251/8749657?from=udn-catebreaknews_ch2",
+            "time": "2025-05-19 14:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/12/2/31843824.jpg&s=Y&x=52&y=12&sw=1229&sh=820&exp=3600&w=300",
             "title": "台股下跌319點收21,523點 台積電下挫14元收984元",
             "link": "https://udn.com//news/story/7251/8749508?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "關稅一降、8萬人失業？小客車零關稅政策掀輿論海嘯：你想開便宜車還是保住他們飯碗？",
             "link": "https://udn.com//news/story/12806/8749412?from=udn-catebreaknews_ch2",
             "time": "2025-05-19 12:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/19/1/32073582.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "黃仁勳開講 老AI意興闌珊、仁寶搭兆元宴勁揚",
-            "link": "https://udn.com//news/story/7253/8749374?from=udn-catebreaknews_ch2",
-            "time": "2025-05-19 12:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/19/98/32073597.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "台積電領跌 台股盤中挫逾200點",
-            "link": "https://udn.com//news/story/7251/8749280?from=udn-catebreaknews_ch2",
-            "time": "2025-05-19 12:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/19/2/32073741.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台股因這兩個理由拉回 法人高喊免驚、看好兩大族群有戲",
-            "link": "https://udn.com//news/story/7251/8749310?from=udn-catebreaknews_ch2",
-            "time": "2025-05-19 12:08"
         }
     ]
 }
