@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/12/2/31843824.jpg&s=Y&x=52&y=12&sw=1229&sh=820&exp=3600&w=300",
+            "title": "台股下跌319點收21,523點 台積電下挫14元收984元",
+            "link": "https://udn.com//news/story/7251/8749508?from=udn-catebreaknews_ch2",
+            "time": "2025-05-19 13:40"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/19/0/32073765.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "關稅一降、8萬人失業？小客車零關稅政策掀輿論海嘯：你想開便宜車還是保住他們飯碗？",
             "link": "https://udn.com//news/story/12806/8749412?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股因這兩個理由拉回 法人高喊免驚、看好兩大族群有戲",
             "link": "https://udn.com//news/story/7251/8749310?from=udn-catebreaknews_ch2",
             "time": "2025-05-19 12:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/16/2/32051423.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "台人低薪才熱愛高股息？網曝「2大優勢」吸引力最大",
-            "link": "https://udn.com//news/story/12806/8744290?from=udn-catebreaknews_ch2",
-            "time": "2025-05-19 11:57"
         }
     ]
 }
