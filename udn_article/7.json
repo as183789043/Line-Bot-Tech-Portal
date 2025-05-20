@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/20/realtime/32083521.jpg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
+            "title": "520收小紅 專家：台股轉為盤整格局",
+            "link": "https://udn.com//news/story/7251/8752592?from=udn-catebreaknews_ch2",
+            "time": "2025-05-20 16:53"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/20/0/32083403.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "AI教父加持！這檔金融股飄香 不敗教主也讚：股價再向上",
+            "link": "https://udn.com//news/story/12806/8752517?from=udn-catebreaknews_ch2",
+            "time": "2025-05-20 16:34"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/20/realtime/32083067.jpg&s=Y&x=0&y=2&sw=356&sh=236&exp=3600&w=300",
             "title": "地表最強業務喜獲兆元訂單 美國製造業全面受惠",
             "link": "https://udn.com//news/story/123006/8752424?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "黃仁勳再翻牌 00922成分股七成上榜",
             "link": "https://udn.com//news/story/123006/8752292?from=udn-catebreaknews_ch2",
             "time": "2025-05-20 14:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/20/realtime/32082473.jpg&s=Y&x=61&y=0&sw=786&sh=524&exp=3600&w=300",
-            "title": "普對等關稅政策轉彎 這檔高股息 ETF 近一個月含息報酬逾10%居冠",
-            "link": "https://udn.com//news/story/7251/8752281?from=udn-catebreaknews_ch2",
-            "time": "2025-05-20 14:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/20/0/32082431.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "從不推薦…債券ETF一場空？直雲：利差沒賺到、匯損先爆！",
-            "link": "https://udn.com//news/story/123006/8752258?from=udn-catebreaknews_ch2",
-            "time": "2025-05-20 14:46"
         }
     ]
 }
