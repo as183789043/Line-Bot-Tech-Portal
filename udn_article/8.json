@@ -1,6 +1,12 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/21/realtime/32086833.png&s=Y&x=0&y=8&sw=1114&sh=742&exp=3600&w=300",
+            "title": "清晨4時13分台南楠西規模3.9地震 最大震度3級",
+            "link": "https://udn.com//news/story/7266/8753702?from=udn-catebreaknews_ch2",
+            "time": "2025-05-21 05:07"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/21/realtime/32086540.jpg&s=Y&x=0&y=22&sw=1480&sh=986&exp=3600&w=300",
             "title": "跟我的洋裝真搭！凱特王妃收男童Jellycat絨毛玩偶 背後原因藏感人洋蔥",
             "link": "https://udn.com//news/story/7270/8753680?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2025-05-21 00:27"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_2.jpg&w=300",
             "title": "【文學超新星】劉子新／五六（下）",
             "link": "https://udn.com//news/story/7272/8752657?from=udn-catebreaknews_ch2",
             "time": "2025-05-21 00:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/20/realtime/32083711.jpg&s=Y&x=200&y=152&sw=885&sh=590&exp=3600&w=300",
-            "title": "【星期五的月光曲－台積電文學沙龍117現場報導】陳其豐／中年寫作的心法",
-            "link": "https://udn.com//news/story/7272/8752660?from=udn-catebreaknews_ch2",
-            "time": "2025-05-21 00:15"
         }
     ]
 }
