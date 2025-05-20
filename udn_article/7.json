@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/16/2/31872761.jpg&s=Y&x=0&y=0&sw=1199&sh=799&exp=3600&w=300",
+            "title": "台灣第二檔主動式ETF 群益00982A 於5月22日掛牌上市",
+            "link": "https://udn.com//news/story/123006/8752894?from=udn-catebreaknews_ch2",
+            "time": "2025-05-20 18:38"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/19/realtime/32077709.jpg&s=Y&x=0&y=2328&sw=3309&sh=2206&exp=3600&w=300",
             "title": "黃仁勳背板牆股價表現 30家上漲、6家平盤竟有19家下跌",
             "link": "https://udn.com//news/story/7251/8752615?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "地表最強業務喜獲兆元訂單 美國製造業全面受惠",
             "link": "https://udn.com//news/story/123006/8752424?from=udn-catebreaknews_ch2",
             "time": "2025-05-20 15:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/13/2/32035042.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台股電壓不足強彈變微彈 三大法人轉買超73億元",
-            "link": "https://udn.com//news/story/7251/8752375?from=udn-catebreaknews_ch2",
-            "time": "2025-05-20 15:18"
         }
     ]
 }
