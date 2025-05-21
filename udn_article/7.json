@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/21/2/32092905.jpg&s=Y&x=0&y=44&sw=1279&sh=853&exp=3600&w=300",
+            "title": "慶豐富股東會／通過配息每股1.8元 現金殖利率逾7%",
+            "link": "https://udn.com//news/story/7252/8755813?from=udn-catebreaknews_ch2",
+            "time": "2025-05-21 20:02"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/21/realtime/32092843.jpg&s=Y&x=0&y=0&sw=2000&sh=1334&exp=3600&w=300",
+            "title": "信義房屋股東會 每股發1.8元、殖利率逾6％",
+            "link": "https://udn.com//news/story/7252/8755800?from=udn-catebreaknews_ch2",
+            "time": "2025-05-21 19:59"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/21/realtime/32092741.jpg&s=Y&x=0&y=0&sw=4200&sh=2800&exp=3600&w=300",
+            "title": "元太法說會／首季毛利、營業利益及淨利皆創同期新高",
+            "link": "https://udn.com//news/story/7254/8755723?from=udn-catebreaknews_ch2",
+            "time": "2025-05-21 19:29"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/21/2/32092389.jpg&s=Y&x=116&y=0&sw=1080&sh=720&exp=3600&w=300",
             "title": "受惠高雄大型儲能案場挹注 熙特爾全年 EPS 上看18.4元",
             "link": "https://udn.com//news/story/7254/8755594?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "營業員扛不住1／ETF責任額太沉重 拜託老客人幫忙 川普一句話馬上虧300萬",
             "link": "https://udn.com//news/story/123006/8755579?from=udn-catebreaknews_ch2",
             "time": "2025-05-21 18:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/21/realtime/32092367.jpg&s=Y&x=0&y=5&sw=589&sh=392&exp=3600&w=300",
-            "title": "4月市場震盪中逆勢成長 全體證券商單月獲利竟月增11倍",
-            "link": "https://udn.com//news/story/7251/8755575?from=udn-catebreaknews_ch2",
-            "time": "2025-05-21 18:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/21/2/32092385.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "當台股回升券商就笑了 證券商4月稅後淨利12.6億元、月成長超過1100%",
-            "link": "https://udn.com//news/story/7251/8755547?from=udn-catebreaknews_ch2",
-            "time": "2025-05-21 18:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/21/realtime/32092018.jpg&s=Y&x=29&y=0&sw=1419&sh=946&exp=3600&w=300",
-            "title": "瑞軒股東會／通過盈餘分配及減資案 每股約可配發1.5元",
-            "link": "https://udn.com//news/story/7253/8755519?from=udn-catebreaknews_ch2",
-            "time": "2025-05-21 17:45"
         }
     ]
 }
