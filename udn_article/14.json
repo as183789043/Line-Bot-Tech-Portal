@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/23/0/32102173.jpg&s=Y&x=4&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "把玉山風雪、魯凱族神樹搬到日本 直擊大阪世博最夯台商黑科技",
+            "link": "https://udn.com//news/story/6837/8759081?from=udn-catebreaknews_ch2",
+            "time": "2025-05-23 08:07"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/23/0/32102178.jpg&s=Y&x=180&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "太魯閣沒了，他們卻更團結！花蓮怎從觀光暴跌走出新生",
+            "link": "https://udn.com//news/story/6837/8759083?from=udn-catebreaknews_ch2",
+            "time": "2025-05-23 08:06"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/22/draft/32095283.jpg&s=Y&x=100&y=0&sw=600&sh=400&exp=3600&w=300",
             "title": "不是年輕人 研究：現在最痛苦的是X世代",
             "link": "https://udn.com//news/story/6897/8756747?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台股迎全年最大換股潮",
             "link": "https://udn.com//news/story/6851/8757056?from=udn-catebreaknews_ch2",
             "time": "2025-05-22 13:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/22/draft/32095850.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "亂市藏金礦！好公司貴也超值",
-            "link": "https://udn.com//news/story/6851/8757046?from=udn-catebreaknews_ch2",
-            "time": "2025-05-22 13:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/06/0/31989716.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "謝金河：物競天擇 選最好的企業！",
-            "link": "https://udn.com//news/story/6851/8757044?from=udn-catebreaknews_ch2",
-            "time": "2025-05-22 13:36"
         }
     ]
 }
