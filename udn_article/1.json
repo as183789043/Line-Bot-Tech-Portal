@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/24/realtime/32113869.jpeg&s=Y&x=183&y=0&sw=5100&sh=3400&exp=3600&w=300",
+            "title": "國防部高中職儀隊決賽 雨中登場 港明高中奪冠",
+            "link": "https://udn.com//news/story/10930/8762346?from=udn-catebreaknews_ch2",
+            "time": "2025-05-24 19:32"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/24/realtime/32113399.jpg&s=Y&x=133&y=0&sw=1440&sh=960&exp=3600&w=300",
             "title": "啟動興達電廠2機組？台電稱「無偷開隱瞞」：機組運轉資訊全揭露",
             "link": "https://udn.com//news/story/124495/8762220?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "反廢死公投被駁回 朱立倫轟中選會：民主殺手",
             "link": "https://udn.com//news/story/124501/8762141?from=udn-catebreaknews_ch2",
             "time": "2025-05-24 16:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/24/realtime/32113170.jpg&s=Y&x=0&y=0&sw=2048&sh=1324&exp=3600&w=300",
-            "title": "「海安12號」組合訓練 海空操演三型直升機同框吸睛",
-            "link": "https://udn.com//news/story/10930/8762138?from=udn-catebreaknews_ch2",
-            "time": "2025-05-24 16:40"
         }
     ]
 }
