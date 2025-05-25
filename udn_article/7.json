@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/08/23/realtime/30320347.jpg&s=Y&x=0&y=0&sw=1567&sh=1045&exp=3600&w=300",
+            "title": "長榮航太成為空巴一階供應商 法人估今年EPS 6.9元",
+            "link": "https://udn.com//news/story/7252/8763402?from=udn-catebreaknews_ch2",
+            "time": "2025-05-25 16:15"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/24/0/32113672.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "日債要爆了？最大壽險帳面損失超過7500億 網嚇：矽谷銀行就是這樣倒的",
             "link": "https://udn.com//news/story/12806/8762258?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "謝金河警告「美債危機恐引爆」 網卻一片感謝聲：債蛙有救了！",
             "link": "https://udn.com//news/story/12806/8762278?from=udn-catebreaknews_ch2",
             "time": "2025-05-25 10:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/24/0/32113735.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "限空令退場！金管會宣布5/26恢復正常交易機制 網酸：雨天收傘",
-            "link": "https://udn.com//news/story/12806/8762282?from=udn-catebreaknews_ch2",
-            "time": "2025-05-25 09:30"
         }
     ]
 }
