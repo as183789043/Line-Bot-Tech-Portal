@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/09/realtime/32011426.jpg&s=Y&x=0&y=0&sw=944&sh=629&exp=3600&w=300",
+            "title": "6面向扎根 打穩退休基礎",
+            "link": "https://udn.com//news/story/6854/8758403?from=udn-catebreaknews_ch2",
+            "time": "2025-05-25 11:27"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/23/draft/32102312.jpg&s=Y&x=63&y=0&sw=675&sh=450&exp=3600&w=300",
+            "title": "吃垃圾食物等於吃進塑膠微粒 研究：導致憂鬱症、失智症",
+            "link": "https://udn.com//news/story/6897/8759114?from=udn-catebreaknews_ch2",
+            "time": "2025-05-25 11:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/23/draft/32106638.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "發揚在地農業 青年牧場打造金門牛產業鏈 結合有機飼養、循環經濟 育種提昇肉牛品質",
             "link": "https://udn.com//news/story/123535/8760542?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "芸彰牧場鐵板燒開店 主打臺灣牛做排餐 牛肉湯、牛排用肉互補 分切運用打破刻板印象",
             "link": "https://udn.com//news/story/123535/8760533?from=udn-catebreaknews_ch2",
             "time": "2025-05-25 09:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/23/draft/32106592.jpg&s=Y&x=0&y=0&sw=1000&sh=666&exp=3600&w=300",
-            "title": "繁殖增重、添油花 源興居生技育本土和牛 牧場中聽古典樂 直擊牛隻夏季毛色轉黑",
-            "link": "https://udn.com//news/story/123535/8760511?from=udn-catebreaknews_ch2",
-            "time": "2025-05-25 09:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/23/draft/32106560.jpg&s=Y&x=0&y=6&sw=1000&sh=666&exp=3600&w=300",
-            "title": "金融學家養牛 劉泰英圓李登輝和牛夢 生命科學難度高 拚千頭達損益兩平掛牌上市",
-            "link": "https://udn.com//news/story/123535/8760505?from=udn-catebreaknews_ch2",
-            "time": "2025-05-25 09:29"
         }
     ]
 }
