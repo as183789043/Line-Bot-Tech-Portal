@@ -1,6 +1,12 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/24/0/32112038.jpeg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台灣航空的驕傲！長榮、星宇榮登「全球最佳商務艙前20名」",
+            "link": "https://udn.com//news/story/7934/8761450?from=udn-catebreaknews_ch2",
+            "time": "2025-05-25 13:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/25/0/32116304.jpg&s=Y&x=0&y=0&sw=1280&sh=712&exp=3600&w=300",
             "title": "秀身分證的時候到了！比5折還強 小人國「這5天」入園超優惠 暢玩整日最低只要293元",
             "link": "https://udn.com//news/story/7934/8762992?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "星巴克連3天「買一送一」！ 夏日推薦指定品項多達20種 經典冷萃、星冰樂一次喝足",
             "link": "https://udn.com//news/story/7185/8762244?from=udn-catebreaknews_ch2",
             "time": "2025-05-25 10:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/19/105/32108147.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "到山梨縣遊覽河口湖、山中湖、富士吉田等熱門景點，一起欣賞富士山美景吧！(下)",
-            "link": "https://udn.com//news/story/9655/8750915?from=udn-catebreaknews_ch2",
-            "time": "2025-05-25 09:00"
         }
     ]
 }
