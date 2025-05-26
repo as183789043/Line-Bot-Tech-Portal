@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/26/2/32124222.jpg&s=Y&x=0&y=0&sw=1076&sh=717&exp=3600&w=300",
+            "title": "花旗喊買台灣半導體業 按讚「三巨頭」迎AI浪潮",
+            "link": "https://udn.com//news/story/7253/8765784?from=udn-catebreaknews_ch2",
+            "time": "2025-05-26 20:06"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/26/2/32124094.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "第三檔主動式ETF 00981A明掛牌上市 50檔精選股買這些",
             "link": "https://udn.com//news/story/123006/8765647?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "輝達財報將公布「首季營收估年增7成」 供應鏈5台廠最看好",
             "link": "https://udn.com//news/story/7251/8765563?from=udn-catebreaknews_ch2",
             "time": "2025-05-26 17:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/26/2/32123813.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "台股月線季線黃金交叉了 分析師點名看好這族群",
-            "link": "https://udn.com//news/story/7251/8765524?from=udn-catebreaknews_ch2",
-            "time": "2025-05-26 17:42"
         }
     ]
 }
