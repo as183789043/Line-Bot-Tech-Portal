@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/26/draft/32120323.jpg&s=Y&x=0&y=10&sw=1279&sh=852&exp=3600&w=300",
+            "title": "NVIDIA Inception 新創鏈結夥伴！華安醫學以 AI 找出老藥新用成功登記專利",
+            "link": "https://udn.com//news/story/6850/8764237?from=udn-catebreaknews_ch2",
+            "time": "2025-05-26 13:58"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/06/0/31989716.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "川普出招掀長債危機、曝美弱點！謝金河揭台「3檔」美債ETF慘況：有人會出事…",
             "link": "https://udn.com//news/story/6839/8764718?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "吃垃圾食物等於吃進塑膠微粒 研究：導致憂鬱症、失智症",
             "link": "https://udn.com//news/story/6897/8759114?from=udn-catebreaknews_ch2",
             "time": "2025-05-25 11:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/23/draft/32106638.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "發揚在地農業 青年牧場打造金門牛產業鏈 結合有機飼養、循環經濟 育種提昇肉牛品質",
-            "link": "https://udn.com//news/story/123535/8760542?from=udn-catebreaknews_ch2",
-            "time": "2025-05-25 09:30"
         }
     ]
 }
