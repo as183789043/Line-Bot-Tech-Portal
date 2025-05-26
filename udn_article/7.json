@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/26/2/32122657.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "新台幣強升！三大金控遭空頭狙擊 國泰金爆量收挫4.11%",
+            "link": "https://udn.com//news/story/7251/8765160?from=udn-catebreaknews_ch2",
+            "time": "2025-05-26 15:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/26/realtime/32122343.jpg&s=Y&x=0&y=0&sw=1179&sh=798&exp=3600&w=300",
+            "title": "上奇旗下昕奇雲端攜證交所辦 F2SU 建亞洲新創資本藍圖",
+            "link": "https://udn.com//news/story/7254/8765129?from=udn-catebreaknews_ch2",
+            "time": "2025-05-26 14:42"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/26/realtime/32122218.jpg&s=Y&x=0&y=10&sw=1489&sh=992&exp=3600&w=300",
             "title": "東森股東會／倉儲事業今年起導入 AI 寵物雲三年內拚 IPO",
             "link": "https://udn.com//news/story/7252/8765068?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台股下跌115點收21,536點 台積電下挫8元收976元",
             "link": "https://udn.com//news/story/7251/8764930?from=udn-catebreaknews_ch2",
             "time": "2025-05-26 13:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/26/realtime/32121935.jpg&s=Y&x=0&y=4&sw=606&sh=404&exp=3600&w=300",
-            "title": "2025年全球半導體產業迎來顯著成長 科技型基金成為投資人關注焦點",
-            "link": "https://udn.com//news/story/10103/8764901?from=udn-catebreaknews_ch2",
-            "time": "2025-05-26 13:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/26/realtime/32121922.jpg&s=Y&x=0&y=0&sw=2508&sh=1672&exp=3600&w=300",
-            "title": "盟立股東會／通過每股配發0.35元現金股利 發行限制員工權利新股",
-            "link": "https://udn.com//news/story/7253/8764894?from=udn-catebreaknews_ch2",
-            "time": "2025-05-26 13:31"
         }
     ]
 }
