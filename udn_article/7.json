@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/25/0/32118943.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "限空令退場…台股連跌 彭金隆：保持高度警戒",
+            "link": "https://udn.com//news/story/7251/8768543?from=udn-catebreaknews_ch2",
+            "time": "2025-05-28 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/27/realtime/32130986.jpg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
             "title": "李洲科技遭調查局搜索 公司稱營運財務一切正常",
             "link": "https://udn.com//news/story/7254/8768396?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "大同睽違23年首次發股利 王光祥盼未來每半年配發",
             "link": "https://udn.com//news/story/7252/8768090?from=udn-catebreaknews_ch2",
             "time": "2025-05-27 18:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/27/realtime/32130464.jpg&s=Y&x=0&y=27&sw=2648&sh=1764&exp=3600&w=300",
-            "title": "力積電總座朱憲國：消費性和車用產品需求仍弱 僅AI產品線表現亮眼",
-            "link": "https://udn.com//news/story/7253/8768084?from=udn-catebreaknews_ch2",
-            "time": "2025-05-27 18:37"
         }
     ]
 }
