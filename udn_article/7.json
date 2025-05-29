@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/23/realtime/31916637.jpg&s=Y&x=0&y=624&sw=1417&sh=945&exp=3600&w=300",
+            "title": "永豐金晚間8點重訊 將宣布董事會重要決議案",
+            "link": "https://udn.com//news/story/7252/8773450?from=udn-catebreaknews_ch2",
+            "time": "2025-05-29 18:55"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/21/2/32090325.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台股5月反彈逾千點 外資終結連五月賣超轉買超2,199億元",
             "link": "https://udn.com//news/story/7251/8773309?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "鴻海股東會／劉揚偉續任鴻海董事長與總經理",
             "link": "https://udn.com//news/story/7253/8773125?from=udn-catebreaknews_ch2",
             "time": "2025-05-29 16:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/24/2/31920401.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "中鋼前四月合併稅前淨利9.1億元 年減57%",
-            "link": "https://udn.com//news/story/7252/8773111?from=udn-catebreaknews_ch2",
-            "time": "2025-05-29 16:51"
         }
     ]
 }
