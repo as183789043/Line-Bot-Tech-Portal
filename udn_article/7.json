@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/28/2/32132663.jpg&s=Y&x=32&y=16&sw=1247&sh=831&exp=3600&w=300",
+            "title": "外資賣超538億元 最愛最恨攏係「金」A",
+            "link": "https://udn.com//news/story/7251/8779820?from=udn-catebreaknews_ch2",
+            "time": "2025-06-02 16:49"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/28/realtime/32132726.jpg&s=Y&x=0&y=0&sw=5000&sh=3333&exp=3600&w=300",
+            "title": "台積電股東會前大跌21元收946元 市值降至24.53兆",
+            "link": "https://udn.com//news/story/7253/8779744?from=udn-catebreaknews_ch2",
+            "time": "2025-06-02 16:17"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/02/0/32182034.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "00915配息降至0.21元、00945B續穩7％票息 川普關稅風暴下的新配置思維",
             "link": "https://udn.com//news/story/123006/8779725?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "川普又變臉了…嗆中國大陸違反協議 這時候台股該買還是賣？",
             "link": "https://udn.com//news/story/7251/8779643?from=udn-catebreaknews_ch2",
             "time": "2025-06-02 15:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/02/98/32178363.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "外資大逃殺！三大法人賣超551億 台股季線岌岌可危",
-            "link": "https://udn.com//news/story/7251/8779604?from=udn-catebreaknews_ch2",
-            "time": "2025-06-02 15:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/02/2/32181582.jpg&s=Y&x=28&y=244&sw=1243&sh=829&exp=3600&w=300",
-            "title": "中美晶今早遭逢賣壓跌停 法人歸因ETF調整所致",
-            "link": "https://udn.com//news/story/7254/8779594?from=udn-catebreaknews_ch2",
-            "time": "2025-06-02 15:13"
         }
     ]
 }
