@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/02/98/32181081.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "中美貿易緊張升溫 台股跌344點保住季線",
+            "link": "https://udn.com//news/story/7251/8779478?from=udn-catebreaknews_ch2",
+            "time": "2025-06-02 14:52"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/02/realtime/32177354.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
+            "title": "美財政部長：美國倒債機會仍低！",
+            "link": "https://udn.com//news/story/7251/8779521?from=udn-catebreaknews_ch2",
+            "time": "2025-06-02 14:43"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/02/0/32180946.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "「打死不降」00919連四季配0.72元！阿愷：有180張預計可領129,600元",
+            "link": "https://udn.com//news/story/123006/8779489?from=udn-catebreaknews_ch2",
+            "time": "2025-06-02 14:40"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/02/0/32180731.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "00922換股生效「2進2出」原因曝！經理人曝1法寶有望放大收益",
             "link": "https://udn.com//news/story/123006/8779430?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "逾122萬人笑開懷 00919配息0.72元維持新高",
             "link": "https://udn.com//news/story/123006/8779448?from=udn-catebreaknews_ch2",
             "time": "2025-06-02 14:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/02/2/32180815.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "國泰 ETF 00922換股「2進2出」 經理人曝一法寶有望放大收益",
-            "link": "https://udn.com//news/story/123006/8779440?from=udn-catebreaknews_ch2",
-            "time": "2025-06-02 14:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/02/realtime/32180728.jpg&s=Y&x=131&y=0&sw=393&sh=262&exp=3600&w=300",
-            "title": "6月18日前買進 可參與第一金00981B 月配息",
-            "link": "https://udn.com//news/story/123006/8779441?from=udn-catebreaknews_ch2",
-            "time": "2025-06-02 14:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/02/realtime/32180714.jpg&s=Y&x=0&y=5&sw=580&sh=386&exp=3600&w=300",
-            "title": "122萬名投資人注意！ 00919配息0.72元 維持新高",
-            "link": "https://udn.com//news/story/123006/8779435?from=udn-catebreaknews_ch2",
-            "time": "2025-06-02 14:06"
         }
     ]
 }
