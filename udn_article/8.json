@@ -1,7 +1,19 @@
 {
     "生活": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/04/realtime/32196980.png&s=Y&x=0&y=8&sw=1128&sh=752&exp=3600&w=300",
+            "title": "凌晨1時53分台灣東南部海域規模3.8地震 最大震度2級",
+            "link": "https://udn.com//news/story/7266/8783355?from=udn-catebreaknews_ch2",
+            "time": "2025-06-04 05:41"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/04/realtime/32196971.jpg&s=Y&x=0&y=28&sw=3500&sh=2332&exp=3600&w=300",
+            "title": "梅雨發威10縣市大雨特報 留意劇烈天氣 北部降溫",
+            "link": "https://udn.com//news/story/7266/8783353?from=udn-catebreaknews_ch2",
+            "time": "2025-06-04 05:38"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_3.jpg&w=300",
             "title": "金玉涼言",
             "link": "https://udn.com//news/story/7272/8755762?from=udn-catebreaknews_ch2",
             "time": "2025-06-04 04:50"
@@ -17,18 +29,6 @@
             "title": "深夜地牛翻身！東部海域發生規模4.8地震 11縣市有感",
             "link": "https://udn.com//news/story/7266/8783265?from=udn-catebreaknews_ch2",
             "time": "2025-06-04 00:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/03/realtime/32192930.jpg&s=Y&x=0&y=27&sw=350&sh=233&exp=3600&w=300",
-            "title": "【當代小說】朴相映／尋找芭黎絲．希爾頓（上）",
-            "link": "https://udn.com//news/story/7272/8782453?from=udn-catebreaknews_ch2",
-            "time": "2025-06-04 00:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/03/realtime/32192948.jpg&s=Y&x=0&y=48&sw=1001&sh=667&exp=3600&w=300",
-            "title": "【書評‧小說】劉思坊／社會與個人的文法學",
-            "link": "https://udn.com//news/story/7272/8782458?from=udn-catebreaknews_ch2",
-            "time": "2025-06-04 00:17"
         }
     ]
 }
