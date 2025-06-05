@@ -1,6 +1,12 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/06/realtime/32219300.jpg&s=Y&x=0&y=7&sw=934&sh=622&exp=3600&w=300",
+            "title": "薩哈拉沙漠沙塵暴出海 鄭明典：不利颶風形成 對當地未來天氣影響大",
+            "link": "https://udn.com//news/story/7266/8788602?from=udn-catebreaknews_ch2",
+            "time": "2025-06-06 07:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/06/realtime/32218790.jpg&s=Y&x=0&y=13&sw=1323&sh=882&exp=3600&w=300",
             "title": "去年凱米颱風5天前就預測會侵台 氣象署曝關鍵是「AI」",
             "link": "https://udn.com//news/story/7266/8788558?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2025-06-06 05:34"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_2.jpg&w=300",
             "title": "金玉涼言",
             "link": "https://udn.com//news/story/7272/8758148?from=udn-catebreaknews_ch2",
             "time": "2025-06-06 03:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/06/realtime/32217735.jpg&s=Y&x=0&y=0&sw=3888&sh=2580&exp=3600&w=300",
-            "title": "鋼琴大師普雷特涅夫來台 奏貝多芬「悲愴」與「月光」",
-            "link": "https://udn.com//news/story/7270/8788518?from=udn-catebreaknews_ch2",
-            "time": "2025-06-06 02:31"
         }
     ]
 }
