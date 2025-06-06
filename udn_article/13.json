@@ -1,6 +1,12 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/06/draft/32219897.jpg&s=Y&x=0&y=0&sw=720&sh=480&exp=3600&w=300",
+            "title": "日本最大梯田！三重縣「丸山千枚田」美景迷人 賞晚霞絕佳場所",
+            "link": "https://udn.com//news/story/9655/8788696?from=udn-catebreaknews_ch2",
+            "time": "2025-06-06 16:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/06/0/32223399.jpg&s=Y&x=0&y=0&sw=1280&sh=712&exp=3600&w=300",
             "title": "超萌巨型「小熊軟糖」現身高雄港！「ArtIN藝博會」限時倒數 近千件作品、會動的《MOI 清明上河圖》必拍",
             "link": "https://udn.com//news/story/7209/8789612?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "苗栗南投台中3縣市大雷雨 1地「山區暴雨」國家級警報響",
             "link": "https://udn.com//news/story/7934/8789578?from=udn-catebreaknews_ch2",
             "time": "2025-06-06 14:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/24/0/32112049.jpg&s=Y&x=0&y=0&sw=1280&sh=720&exp=3600&w=300",
-            "title": "爆汁湯包20元 紅茶豆漿15元！ 台中「尚癮大湯包」在地人私藏的銅板美食 蘿蔔糕有料必點",
-            "link": "https://udn.com//news/story/7207/8761922?from=udn-catebreaknews_ch2",
-            "time": "2025-06-06 14:00"
         }
     ]
 }
