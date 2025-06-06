@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/06/2/32227306.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "麗豐營收／5月3.3億元 年減10.8%",
+            "link": "https://udn.com//news/story/7252/8790499?from=udn-catebreaknews_ch2",
+            "time": "2025-06-06 21:36"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/06/2/32227226.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "美公布非農數據「優於預期」 台指期夜盤跳漲",
+            "link": "https://udn.com//news/story/7251/8790484?from=udn-catebreaknews_ch2",
+            "time": "2025-06-06 21:24"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/06/2/32227180.jpg&s=Y&x=0&y=372&sw=1237&sh=824&exp=3600&w=300",
             "title": "福貞營收／5月月增19.1%、前五月35.03億元 雙創同期次高",
             "link": "https://udn.com//news/story/7252/8790476?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "證交所10日審議大研生醫申請股票上市案",
             "link": "https://udn.com//news/story/7251/8790418?from=udn-catebreaknews_ch2",
             "time": "2025-06-06 20:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/06/2/32226848.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "臺灣指數公司12日辦發表會 力推被動式多資產平衡ETF",
-            "link": "https://udn.com//news/story/123006/8790398?from=udn-catebreaknews_ch2",
-            "time": "2025-06-06 20:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/06/2/32226682.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "證交所攜手創投公會 推動創投業申請上市",
-            "link": "https://udn.com//news/story/7251/8790370?from=udn-catebreaknews_ch2",
-            "time": "2025-06-06 19:56"
         }
     ]
 }
