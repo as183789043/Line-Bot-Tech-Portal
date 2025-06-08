@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/07/realtime/32234854.jpg&s=Y&x=0&y=0&sw=5467&sh=3560&exp=3600&w=300",
+            "title": "本周台股／指數漲成交量縮 受傷的買盤回籠要等時機",
+            "link": "https://udn.com//news/story/7251/8791635?from=udn-catebreaknews_ch2",
+            "time": "2025-06-08 10:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/08/2/32238157.jpg&s=Y&x=0&y=0&sw=1022&sh=681&exp=3600&w=300",
             "title": "每周一勢／去年上市櫃個體營收淨額年增7.4%",
             "link": "https://udn.com//news/story/7251/8791921?from=udn-catebreaknews_ch2",
@@ -19,15 +25,9 @@
             "time": "2025-06-08 03:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
             "title": "台化、台塑、南亞 談展望",
             "link": "https://udn.com//news/story/7252/8792043?from=udn-catebreaknews_ch2",
-            "time": "2025-06-08 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/03/realtime/32187833.jpg&s=Y&x=47&y=0&sw=1794&sh=1196&exp=3600&w=300",
-            "title": "高息ETF成金控股的大股東 一年敲進300萬張",
-            "link": "https://udn.com//news/story/123006/8792202?from=udn-catebreaknews_ch2",
             "time": "2025-06-08 03:00"
         }
     ]
