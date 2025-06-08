@@ -1,13 +1,19 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/09/98/32247942.jpg&s=Y&x=359&y=64&sw=727&sh=484&exp=3600&w=300",
+            "title": "哥倫比亞規模6.3強震 波哥大搖晃數秒暫無傷亡災損",
+            "link": "https://udn.com//news/story/6809/8793705?from=udn-catebreaknews_ch2",
+            "time": "2025-06-09 05:25"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/25/realtime/32118784.jpg&s=Y&x=0&y=0&sw=2834&sh=1889&exp=3600&w=300",
             "title": "美元看貶到明年上半年 投資人預期美股有望再創新高",
             "link": "https://udn.com//news/story/6811/8793525?from=udn-catebreaknews_ch2",
             "time": "2025-06-09 02:19"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
             "title": "川普關稅政策反覆不定 美國經濟面臨三大風險",
             "link": "https://udn.com//news/story/6811/8793527?from=udn-catebreaknews_ch2",
             "time": "2025-06-09 02:17"
@@ -23,12 +29,6 @@
             "title": "李在明拚經改 擬追加150億美元預算 韓股強心針",
             "link": "https://udn.com//news/story/6811/8793493?from=udn-catebreaknews_ch2",
             "time": "2025-06-09 01:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/08/realtime/32246086.jpg&s=Y&x=0&y=0&sw=5000&sh=3333&exp=3600&w=300",
-            "title": "川普：與馬斯克關係結束 NASA 傳尋找SpaceX替代選項",
-            "link": "https://udn.com//news/story/6813/8793490?from=udn-catebreaknews_ch2",
-            "time": "2025-06-09 01:30"
         }
     ]
 }

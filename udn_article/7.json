@@ -1,13 +1,25 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/09/2/32246276.jpg&s=Y&x=0&y=0&sw=1005&sh=670&exp=3600&w=300",
+            "title": "宏泰奪矽谷AI中心訂單",
+            "link": "https://udn.com//news/story/7252/8793242?from=udn-catebreaknews_ch2",
+            "time": "2025-06-09 05:40"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/28/2/32136944.jpg&s=Y&x=0&y=0&sw=1238&sh=825&exp=3600&w=300",
+            "title": "美中關係出現緩和 台股三引擎催動攻勢 帶大盤衝22,000點",
+            "link": "https://udn.com//news/story/7251/8793507?from=udn-catebreaknews_ch2",
+            "time": "2025-06-09 05:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/02/2/32183693.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "梁彥平專欄／技術面轉強題材股 抗震",
             "link": "https://udn.com//news/story/7251/8793256?from=udn-catebreaknews_ch2",
             "time": "2025-06-09 03:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
             "title": "碩天漲價效益 Q3反應",
             "link": "https://udn.com//news/story/7253/8793223?from=udn-catebreaknews_ch2",
             "time": "2025-06-09 03:00"
@@ -16,18 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
             "title": "博大衝營運 三引擎熱轉",
             "link": "https://udn.com//news/story/7254/8793224?from=udn-catebreaknews_ch2",
-            "time": "2025-06-09 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
-            "title": "喬鼎 今年拚轉盈",
-            "link": "https://udn.com//news/story/7253/8793226?from=udn-catebreaknews_ch2",
-            "time": "2025-06-09 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
-            "title": "聚恆 爆儲能電池合約糾紛",
-            "link": "https://udn.com//news/story/7254/8793227?from=udn-catebreaknews_ch2",
             "time": "2025-06-09 03:00"
         }
     ]
