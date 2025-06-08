@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/08/realtime/32242906.jpg&s=Y&x=0&y=6&sw=923&sh=614&exp=3600&w=300",
+            "title": "台股ETF熱賣 這檔ETF成交量最大",
+            "link": "https://udn.com//news/story/123006/8792930?from=udn-catebreaknews_ch2",
+            "time": "2025-06-08 14:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/04/2/32198295.jpg&s=Y&x=28&y=28&sw=1150&sh=767&exp=3600&w=300",
             "title": "川習暖風推高期指、馬斯克冷水澆熄漲勢 台股周線翻紅",
             "link": "https://udn.com//news/story/7251/8792743?from=udn-catebreaknews_ch2",
@@ -22,12 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/03/realtime/32189888.jpg&s=Y&x=0&y=0&sw=3500&sh=2335&exp=3600&w=300",
             "title": "金融股超級股東會聚焦 匯率影響、股利政策受關注",
             "link": "https://udn.com//news/story/7252/8792042?from=udn-catebreaknews_ch2",
-            "time": "2025-06-08 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/06/2/32217088.jpg&s=Y&x=0&y=212&sw=908&sh=605&exp=3600&w=300",
-            "title": "股王信驊13日除息秀 每股發52元",
-            "link": "https://udn.com//news/story/7254/8792039?from=udn-catebreaknews_ch2",
             "time": "2025-06-08 03:00"
         }
     ]
