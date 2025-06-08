@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/04/2/32198295.jpg&s=Y&x=28&y=28&sw=1150&sh=767&exp=3600&w=300",
+            "title": "川習暖風推高期指、馬斯克冷水澆熄漲勢 台股周線翻紅",
+            "link": "https://udn.com//news/story/7251/8792743?from=udn-catebreaknews_ch2",
+            "time": "2025-06-08 12:21"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/07/realtime/32234854.jpg&s=Y&x=0&y=0&sw=5467&sh=3560&exp=3600&w=300",
             "title": "本周台股／指數漲成交量縮 受傷的買盤回籠要等時機",
             "link": "https://udn.com//news/story/7251/8791635?from=udn-catebreaknews_ch2",
@@ -22,12 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/06/2/32217088.jpg&s=Y&x=0&y=212&sw=908&sh=605&exp=3600&w=300",
             "title": "股王信驊13日除息秀 每股發52元",
             "link": "https://udn.com//news/story/7254/8792039?from=udn-catebreaknews_ch2",
-            "time": "2025-06-08 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
-            "title": "台化、台塑、南亞 談展望",
-            "link": "https://udn.com//news/story/7252/8792043?from=udn-catebreaknews_ch2",
             "time": "2025-06-08 03:00"
         }
     ]
