@@ -1,19 +1,7 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/08/realtime/32246241.jpg&s=Y&x=0&y=29&sw=573&sh=382&exp=3600&w=300",
-            "title": "本周財經焦點",
-            "link": "https://udn.com//news/story/7238/8793596?from=udn-catebreaknews_ch2",
-            "time": "2025-06-09 00:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_6.jpg&w=300",
-            "title": "美經濟 今夏面臨3風險",
-            "link": "https://udn.com//news/story/7238/8793593?from=udn-catebreaknews_ch2",
-            "time": "2025-06-09 00:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
             "title": "台幣升+關稅戰 掀產業籌資潮",
             "link": "https://udn.com//news/story/7238/8793592?from=udn-catebreaknews_ch2",
             "time": "2025-06-09 00:16"
@@ -29,6 +17,18 @@
             "title": "台積嘉義廠傳延宕 衝擊HPC晶片供應",
             "link": "https://udn.com//news/story/7240/8793587?from=udn-catebreaknews_ch2",
             "time": "2025-06-09 00:11"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/04/2/32205164.jpg&s=Y&x=0&y=0&sw=1248&sh=832&exp=3600&w=300",
+            "title": "債市也逃殺！金融業4月狂砍2185億「比台股還狠」為哪樁",
+            "link": "https://udn.com//news/story/7239/8793503?from=udn-catebreaknews_ch2",
+            "time": "2025-06-08 22:56"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/04/2/32205164.jpg&s=Y&x=0&y=0&sw=1248&sh=832&exp=3600&w=300",
+            "title": "關稅嚇人金融業撤了！台股4月遭千億倒貨吞掉一季加碼",
+            "link": "https://udn.com//news/story/7239/8793502?from=udn-catebreaknews_ch2",
+            "time": "2025-06-08 22:55"
         }
     ]
 }
