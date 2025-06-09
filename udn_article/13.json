@@ -1,6 +1,18 @@
 {
     "旅遊": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/03/draft/32189379.jpg&s=Y&x=0&y=0&sw=1279&sh=851&exp=3600&w=300",
+            "title": "花蓮「遠雄悅來大飯店」　擁抱太平洋，靜享山海間的極致靜謐旅程",
+            "link": "https://udn.com//news/story/7210/8781362?from=udn-catebreaknews_ch2",
+            "time": "2025-06-09 09:01"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/04/draft/32205259.jpg&s=Y&x=50&y=0&sw=900&sh=600&exp=3600&w=300",
+            "title": "「三井海洋富士號」重新詮釋海上奢華體驗！台灣航次9月開航 日、韓航程主題跟著季節走",
+            "link": "https://udn.com//news/story/7934/8785652?from=udn-catebreaknews_ch2",
+            "time": "2025-06-09 07:59"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/24/0/32112339.jpg&s=Y&x=0&y=0&sw=1024&sh=683&exp=3600&w=300",
             "title": "首爾親子汗蒸幕推薦！時尚高檔汗蒸幕+兒童遊戲區 設施、交通方式一次看",
             "link": "https://udn.com//news/story/9653/8761986?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "星巴克「15款飲品」買1送1！連續2天、每日限定9小時 夏日必喝「新品星沁爽+熱門2款星冰樂」都點得到",
             "link": "https://udn.com//news/story/7186/8792920?from=udn-catebreaknews_ch2",
             "time": "2025-06-08 14:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/03/draft/32189601.jpg&s=Y&x=0&y=0&sw=720&sh=480&exp=3600&w=300",
-            "title": "夏日巴黎與香檳氣泡的美好相遇！輕奢花園餐桌、米其林級食譜大公開",
-            "link": "https://udn.com//news/story/7171/8781487?from=udn-catebreaknews_ch2",
-            "time": "2025-06-08 14:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/08/1/32242529.jpg&s=Y&x=0&y=0&sw=1280&sh=712&exp=3600&w=300",
-            "title": "超市量販搶攻夏日冰品商機 話題新品滿額現折、買1送1",
-            "link": "https://udn.com//news/story/7186/8792826?from=udn-catebreaknews_ch2",
-            "time": "2025-06-08 13:16"
         }
     ]
 }
