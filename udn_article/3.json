@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/10/realtime/32259472.jpg&s=Y&x=0&y=0&sw=5382&sh=3588&exp=3600&w=300",
+            "title": "美股收盤／標普500微漲 川普說與中國貿易會談進展良好",
+            "link": "https://udn.com//news/story/6811/8796079?from=udn-catebreaknews_ch2",
+            "time": "2025-06-10 07:02"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/06/10/32258179.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "川普挺邊境官員嗆逮州長 加州告政府派國民兵",
             "link": "https://udn.com//news/story/6813/8796037?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "洛杉磯抗議愈演愈烈 川普：都是職業煽動者",
             "link": "https://udn.com//news/story/6813/8796016?from=udn-catebreaknews_ch2",
             "time": "2025-06-10 04:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/06/09/32250016.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "川普刪加州撥款恐升級 惡化大學財政",
-            "link": "https://udn.com//news/story/6813/8794066?from=udn-catebreaknews_ch2",
-            "time": "2025-06-10 04:22"
         }
     ]
 }
