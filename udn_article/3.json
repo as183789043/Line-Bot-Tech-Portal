@@ -1,15 +1,27 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/07/realtime/32237389.jpg&s=Y&x=0&y=0&sw=3432&sh=2288&exp=3600&w=300",
+            "title": "新華社快訊：美中開始在倫敦經貿磋商",
+            "link": "https://udn.com//news/story/6809/8795555?from=udn-catebreaknews_ch2",
+            "time": "2025-06-09 20:25"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/09/realtime/32255525.jpg&s=Y&x=0&y=0&sw=4749&sh=3204&exp=3600&w=300",
+            "title": "開戰以來最高紀錄！烏克蘭：俄羅斯出動479架無人機夜襲各地",
+            "link": "https://udn.com//news/story/122663/8795543?from=udn-catebreaknews_ch2",
+            "time": "2025-06-09 20:19"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/09/98/32255256.jpg&s=Y&x=0&y=0&sw=1244&sh=829&exp=3600&w=300",
+            "title": "斑馬逃亡一周被捕…直升機空運畫面曝 化為網路迷因爆紅",
+            "link": "https://udn.com//news/story/6813/8795398?from=udn-catebreaknews_ch2",
+            "time": "2025-06-09 20:03"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/09/0/32255112.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "川普下令鎮壓…什麼是美國民警衛隊？任務、編制、誰能指揮一次看懂",
             "link": "https://udn.com//news/story/6813/8795342?from=udn-catebreaknews_ch2",
-            "time": "2025-06-09 19:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/09/realtime/32255114.jpg&s=Y&x=0&y=0&sw=2630&sh=1752&exp=3600&w=300",
-            "title": "萬海旺春輪在印度外海傳爆炸起火 4人失蹤含台灣人",
-            "link": "https://udn.com//news/story/6809/8795422?from=udn-catebreaknews_ch2",
             "time": "2025-06-09 19:13"
         },
         {
@@ -17,18 +29,6 @@
             "title": "因應俄羅斯威脅 北約秘書長籲將聯盟防空能力提高4倍",
             "link": "https://udn.com//news/story/122663/8795285?from=udn-catebreaknews_ch2",
             "time": "2025-06-09 18:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/09/98/32254811.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "基輔：俄發射479架無人機夜襲烏克蘭 開戰來最高紀錄",
-            "link": "https://udn.com//news/story/122663/8795275?from=udn-catebreaknews_ch2",
-            "time": "2025-06-09 18:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/09/realtime/32254758.jpg&s=Y&x=0&y=0&sw=4538&sh=3026&exp=3600&w=300",
-            "title": "「女股神」伍德：若只能投資一檔股票 非特斯拉莫屬",
-            "link": "https://udn.com//news/story/6811/8795321?from=udn-catebreaknews_ch2",
-            "time": "2025-06-09 18:19"
         }
     ]
 }
