@@ -1,8 +1,14 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/06/11/32270844.jpg&s=Y&x=0&y=8&sw=1279&sh=852&exp=3600&w=300",
+            "title": "WSJ獨家：拜登政府長期監視馬斯克",
+            "link": "https://udn.com//news/story/6813/8798721?from=udn-catebreaknews_ch2",
+            "time": "2025-06-11 05:17"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/06/11/32270624.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "看好美中貿易談判有成 美股史指那指連漲三日",
+            "title": "看好美中貿易談判有成 美股史指、那指連漲三日",
             "link": "https://udn.com//news/story/6811/8798719?from=udn-catebreaknews_ch2",
             "time": "2025-06-11 04:51"
         },
@@ -23,12 +29,6 @@
             "title": "特斯拉自駕小黃 助攻股價",
             "link": "https://udn.com//news/story/6811/8798493?from=udn-catebreaknews_ch2",
             "time": "2025-06-11 03:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
-            "title": "OpenAI年化營收 衝百億美元",
-            "link": "https://udn.com//news/story/6811/8798506?from=udn-catebreaknews_ch2",
-            "time": "2025-06-11 03:42"
         }
     ]
 }
