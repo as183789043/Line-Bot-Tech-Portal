@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/19/realtime/32075104.jpg&s=Y&x=0&y=0&sw=4846&sh=3231&exp=3600&w=300",
+            "title": "三大法人買超台股519.09億元 外資重押長榮航",
+            "link": "https://udn.com//news/story/7251/8797916?from=udn-catebreaknews_ch2",
+            "time": "2025-06-10 19:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/21/2/31692244.jpg&s=Y&x=0&y=0&sw=792&sh=528&exp=3600&w=300",
+            "title": "新台幣匯率波及 貨櫃三雄5月營收雙降",
+            "link": "https://udn.com//news/story/7251/8797864?from=udn-catebreaknews_ch2",
+            "time": "2025-06-10 18:20"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/08/0/31810235.jpg&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
+            "title": "豆府、藏壽司、全家餐飲5月營收跳 雙位數成長皆創同期新高",
+            "link": "https://udn.com//news/story/7251/8797878?from=udn-catebreaknews_ch2",
+            "time": "2025-06-10 18:19"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/05/0/32209245.jpg&s=Y&x=48&y=76&sw=1081&sh=721&exp=3600&w=300",
             "title": "華航營收／5月創歷年同期新高 年增3.22%",
             "link": "https://udn.com//news/story/7252/8797835?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "飯店業5月營收吃補！晶華、雲品、六福、寒舍年增雙位數",
             "link": "https://udn.com//news/story/7251/8797819?from=udn-catebreaknews_ch2",
             "time": "2025-06-10 17:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/10/2/32266295.jpg&s=Y&x=52&y=0&sw=1080&sh=720&exp=3600&w=300",
-            "title": "五福營收／5月7.46億元創單月歷史次高 近三個月營收包辦歷史前三高",
-            "link": "https://udn.com//news/story/7254/8797787?from=udn-catebreaknews_ch2",
-            "time": "2025-06-10 17:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/11/2/31835807.jpg&s=Y&x=0&y=56&sw=1179&sh=786&exp=3600&w=300",
-            "title": "聯發科營收／連五月年增、AI 與車用布局發酵 股價強彈50元",
-            "link": "https://udn.com//news/story/7253/8797724?from=udn-catebreaknews_ch2",
-            "time": "2025-06-10 17:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/25/0/31554226.jpg&s=Y&x=0&y=0&sw=630&sh=420&exp=3600&w=300",
-            "title": "寶雅營收／5月20.4億元 創歷史同期新高",
-            "link": "https://udn.com//news/story/7254/8797656?from=udn-catebreaknews_ch2",
-            "time": "2025-06-10 16:58"
         }
     ]
 }
