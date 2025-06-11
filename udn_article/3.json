@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/11/realtime/32274903.jpg&s=Y&x=0&y=0&sw=5640&sh=3760&exp=3600&w=300",
+            "title": "洛杉磯街頭抗議進入第5天 警方宵禁期間逮捕至少25人",
+            "link": "https://udn.com//news/story/6813/8800913?from=udn-catebreaknews_ch2",
+            "time": "2025-06-11 22:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/11/realtime/32279750.jpg&s=Y&x=0&y=0&sw=5212&sh=3475&exp=3600&w=300",
+            "title": "美股早盤仍平盤！美中達成協議、通膨低於預期 台積電ADR漲1.4%",
+            "link": "https://udn.com//news/story/6811/8800916?from=udn-catebreaknews_ch2",
+            "time": "2025-06-11 21:56"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/11/realtime/32279686.jpg&s=Y&x=0&y=0&sw=4873&sh=3248&exp=3600&w=300",
+            "title": "輝達CEO黃仁勳：要在歐洲蓋20座AI工廠 量子運算走到轉捩點",
+            "link": "https://udn.com//news/story/6811/8800901?from=udn-catebreaknews_ch2",
+            "time": "2025-06-11 21:38"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/11/98/32279537.jpg&s=Y&x=0&y=0&sw=1230&sh=820&exp=3600&w=300",
             "title": "全球熱烘烘！上月創全球5月有紀錄以來第2熱 僅次於去年",
             "link": "https://udn.com//news/story/6812/8800847?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "川普稱美中達成協議「關稅幅度曝光」 大陸將向美國提供稀土",
             "link": "https://udn.com//news/story/124373/8800834?from=udn-catebreaknews_ch2",
             "time": "2025-06-11 20:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/11/realtime/32279359.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
-            "title": "美中貿易協議進入最後階段 川普：只等雙方確認",
-            "link": "https://udn.com//news/story/124373/8800812?from=udn-catebreaknews_ch2",
-            "time": "2025-06-11 20:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/11/realtime/32279357.jpg&s=Y&x=0&y=0&sw=4000&sh=2674&exp=3600&w=300",
-            "title": "美國5月CPI出爐「月增0.1%」 低於市場預期增幅",
-            "link": "https://udn.com//news/story/6811/8800810?from=udn-catebreaknews_ch2",
-            "time": "2025-06-11 20:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/11/realtime/32279340.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
-            "title": "美中貿易框架完成！對陸55%關稅、允陸生赴美  川普：待習近平同意",
-            "link": "https://udn.com//news/story/124373/8800807?from=udn-catebreaknews_ch2",
-            "time": "2025-06-11 20:31"
         }
     ]
 }
