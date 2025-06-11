@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/11/2/32279284.jpg&s=Y&x=0&y=0&sw=1241&sh=828&exp=3600&w=300",
+            "title": "新壽 SPV 海外發債 擬籌資250億元",
+            "link": "https://udn.com//news/story/7252/8800776?from=udn-catebreaknews_ch2",
+            "time": "2025-06-11 20:18"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/11/2/32278983.jpg&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
+            "title": "搶台積除息前最後卡位機會 盤後最高1,145元創波段高",
+            "link": "https://udn.com//news/story/7253/8800626?from=udn-catebreaknews_ch2",
+            "time": "2025-06-11 19:37"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/11/realtime/32278814.jpg&s=Y&x=374&y=0&sw=5253&sh=3503&exp=3600&w=300",
             "title": "新建股東會／市場派獲三席、新建公司派拿下六席董事 董座：強強聯手",
             "link": "https://udn.com//news/story/7252/8800578?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "旺矽股東會／董事長葛長林：AI 基礎建設需求強勁 正積極擴充產能",
             "link": "https://udn.com//news/story/7254/8800529?from=udn-catebreaknews_ch2",
             "time": "2025-06-11 18:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/11/2/32278587.jpg&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
-            "title": "台積電12日除息 大盤點數將蒸發約36點",
-            "link": "https://udn.com//news/story/7251/8800524?from=udn-catebreaknews_ch2",
-            "time": "2025-06-11 18:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/11/2/32278518.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台積電等十檔個股12日除息 加權指數減少約42點",
-            "link": "https://udn.com//news/story/7251/8800497?from=udn-catebreaknews_ch2",
-            "time": "2025-06-11 18:12"
         }
     ]
 }
