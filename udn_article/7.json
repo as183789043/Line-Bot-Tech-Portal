@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/12/realtime/32286586.jpg&s=Y&x=0&y=0&sw=1585&sh=1033&exp=3600&w=300",
+            "title": "促期貨儘快反應價格 金管會縮短冷卻時間至5分鐘",
+            "link": "https://udn.com//news/story/7255/8803165?from=udn-catebreaknews_ch2",
+            "time": "2025-06-12 18:21"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/23/realtime/32108298.jpg&s=Y&x=0&y=0&sw=6000&sh=4002&exp=3600&w=300",
             "title": "90天關稅倒數 科技股將引領美股復甦",
             "link": "https://udn.com//news/story/7251/8802763?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股回落182點 三大法人轉賣超22億元、投信獨站賣方",
             "link": "https://udn.com//news/story/7251/8802652?from=udn-catebreaknews_ch2",
             "time": "2025-06-12 15:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/30/2/32150331.jpg&s=Y&x=0&y=0&sw=1212&sh=808&exp=3600&w=300",
-            "title": "亞系外資下修聯發科明年EPS預估 股價連失5日線及月線",
-            "link": "https://udn.com//news/story/7253/8802642?from=udn-catebreaknews_ch2",
-            "time": "2025-06-12 15:20"
         }
     ]
 }
