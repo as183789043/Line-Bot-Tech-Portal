@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/12/1/32287888.png&s=Y&x=3&y=7&sw=797&sh=531&exp=3600&w=300",
+            "title": "大學申請缺額大減 一圖看各學群誰最夯 不只資通訊開紅盤",
+            "link": "https://udn.com//news/story/7314/8803785?from=udn-catebreaknews_ch2",
+            "time": "2025-06-13 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/realtime/32288246.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "國安簡報與紅色雙標…賴清德要在野簽保密協定 又是先扣紅帽子",
+            "link": "https://udn.com//news/story/124517/8803896?from=udn-catebreaknews_ch2",
+            "time": "2025-06-13 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/1/32288135.jpg&s=Y&x=0&y=108&sw=1278&sh=852&exp=3600&w=300",
             "title": "地方行政機關組織準則修正 縣市政府可增加2局處",
             "link": "https://udn.com//news/story/7314/8803765?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "媒體議價法公聽會 新聞業界：強制議價先行",
             "link": "https://udn.com//news/story/7314/8803822?from=udn-catebreaknews_ch2",
             "time": "2025-06-13 00:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_6.jpg&w=300",
-            "title": "國安情勢簡報 涵蓋台美關稅談判、國防、國安、兩岸議題",
-            "link": "https://udn.com//news/story/124517/8803828?from=udn-catebreaknews_ch2",
-            "time": "2025-06-13 00:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/12/realtime/32288032.jpg&s=Y&x=0&y=0&sw=3543&sh=2362&exp=3600&w=300",
-            "title": "賴總統邀在野國安簡報 藍要公開透明 白籲不設前提",
-            "link": "https://udn.com//news/story/124517/8803825?from=udn-catebreaknews_ch2",
-            "time": "2025-06-13 00:09"
         }
     ]
 }
