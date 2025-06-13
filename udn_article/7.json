@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/2/32294111.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "證交所股東會／通過配發6元股利 完成董監改選",
+            "link": "https://udn.com//news/story/7251/8805545?from=udn-catebreaknews_ch2",
+            "time": "2025-06-13 16:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/2/32293892.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "5月來11檔上市櫃、掛牌首日比一比 這檔大漲逾9成最搶眼",
+            "link": "https://udn.com//news/story/7251/8805498?from=udn-catebreaknews_ch2",
+            "time": "2025-06-13 16:32"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/realtime/32293769.jpg&s=Y&x=0&y=61&sw=4128&sh=2752&exp=3600&w=300",
             "title": "國泰金股東會／董事會改選 蔡宏圖長子蔡宗翰任副董事⾧",
             "link": "https://udn.com//news/story/7252/8805474?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "指數型還是避險基金？巴菲特用10年證明：最好的投資策略其實很簡單",
             "link": "https://udn.com//news/story/12806/8805320?from=udn-catebreaknews_ch2",
             "time": "2025-06-13 15:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/11/2/32275344.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "他22元進場00915自嘲「有點抖」 網笑虧：是撿到便宜還撿到刀？",
-            "link": "https://udn.com//news/story/123006/8804971?from=udn-catebreaknews_ch2",
-            "time": "2025-06-13 15:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/realtime/32293366.jpg&s=Y&x=0&y=30&sw=4000&sh=2666&exp=3600&w=300",
-            "title": "證交所股東會／通過配發股利6元 創歷史次高",
-            "link": "https://udn.com//news/story/7251/8805327?from=udn-catebreaknews_ch2",
-            "time": "2025-06-13 15:31"
         }
     ]
 }
