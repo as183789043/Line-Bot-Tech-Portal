@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/14/1/32296773.jpg&s=Y&x=32&y=28&sw=1245&sh=830&exp=3600&w=300",
+            "title": "台幣猛飆進逼29.5元 央行出手穩匯終場小貶0.8分",
+            "link": "https://udn.com//news/story/7238/8806251?from=udn-catebreaknews_ch2",
+            "time": "2025-06-14 00:08"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/realtime/32296635.jpg&s=Y&x=0&y=0&sw=1321&sh=881&exp=3600&w=300",
+            "title": "消費線上／當618遇到報稅季 電商優惠有感 但消費者變得更精明",
+            "link": "https://udn.com//news/story/7238/8806306?from=udn-catebreaknews_ch2",
+            "time": "2025-06-14 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/realtime/32296210.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
             "title": "超微下一代伺服器處理器Venice 強調運算效能將比現今提升七成",
             "link": "https://udn.com//news/story/7240/8806098?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "樂觀看待2028年資料中心AI加速器 蘇姿丰：TAM將超過5000億美元",
             "link": "https://udn.com//news/story/7240/8806077?from=udn-catebreaknews_ch2",
             "time": "2025-06-13 22:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/realtime/32296029.png&s=Y&x=0&y=0&sw=2000&sh=1339&exp=3600&w=300",
-            "title": "臺灣企銀推台北綠食巡禮 台灣 Pay 享20%現金回饋",
-            "link": "https://udn.com//news/story/7239/8806048?from=udn-catebreaknews_ch2",
-            "time": "2025-06-13 21:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/realtime/32295984.jpg&s=Y&x=0&y=0&sw=1874&sh=1249&exp=3600&w=300",
-            "title": "推動能源轉型 兆豐銀行再發綠色債券80億元",
-            "link": "https://udn.com//news/story/7239/8806035?from=udn-catebreaknews_ch2",
-            "time": "2025-06-13 21:31"
         }
     ]
 }
