@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/98/32295399.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
+            "title": "台股本週漲412.29點 油電燃氣類指數漲4.07%居冠",
+            "link": "https://udn.com//news/story/7251/8805877?from=udn-catebreaknews_ch2",
+            "time": "2025-06-13 19:48"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/98/32295390.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "辜仲諒辭任中信金董事 法人代表改派陳佳文",
+            "link": "https://udn.com//news/story/7252/8805875?from=udn-catebreaknews_ch2",
+            "time": "2025-06-13 19:41"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/realtime/32295211.jpg&s=Y&x=0&y=472&sw=3594&sh=2396&exp=3600&w=300",
+            "title": "富宇股東會／通過配發1.8元股息 董座：今年推案70億元",
+            "link": "https://udn.com//news/story/7254/8805858?from=udn-catebreaknews_ch2",
+            "time": "2025-06-13 19:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/2/32295156.jpg&s=Y&x=0&y=252&sw=1280&sh=853&exp=3600&w=300",
             "title": "百和自結前五月稅後純益約6億元 年增4.2%、每股純益2.03元",
             "link": "https://udn.com//news/story/7252/8805834?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "商億股東會／董事長謝智通：2026年柬埔寨廠產能將翻倍成長",
             "link": "https://udn.com//news/story/7252/8805783?from=udn-catebreaknews_ch2",
             "time": "2025-06-13 18:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/realtime/32294935.jpg&s=Y&x=0&y=29&sw=2697&sh=1798&exp=3600&w=300",
-            "title": "長科庫藏股執行率八成 斥資4.25億元買回11942張",
-            "link": "https://udn.com//news/story/7254/8805771?from=udn-catebreaknews_ch2",
-            "time": "2025-06-13 18:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/2/32294931.jpg&s=Y&x=0&y=108&sw=1277&sh=851&exp=3600&w=300",
-            "title": "汎德永業股東會／通過配發現金股利18.5元",
-            "link": "https://udn.com//news/story/7252/8805769?from=udn-catebreaknews_ch2",
-            "time": "2025-06-13 18:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/2/32294921.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "77萬股東注意！凱基金調高配息、6月30日除息",
-            "link": "https://udn.com//news/story/7252/8805765?from=udn-catebreaknews_ch2",
-            "time": "2025-06-13 18:23"
         }
     ]
 }
