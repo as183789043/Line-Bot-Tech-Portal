@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "title": "中東緊張升溫 台股跌破5日線",
+            "link": "https://udn.com//news/story/7251/8806295?from=udn-catebreaknews_ch2",
+            "time": "2025-06-14 00:46"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/2/32296010.jpg&s=Y&x=0&y=0&sw=1217&sh=811&exp=3600&w=300",
             "title": "以伊爆戰火 台指期夜盤以靜制動",
             "link": "https://udn.com//news/story/7251/8806042?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "聯電主管6月申報處分持股2700張 公司回應了",
             "link": "https://udn.com//news/story/7253/8805932?from=udn-catebreaknews_ch2",
             "time": "2025-06-13 20:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/98/32295399.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
-            "title": "台股本週漲412.29點 油電燃氣類指數漲4.07%居冠",
-            "link": "https://udn.com//news/story/7251/8805877?from=udn-catebreaknews_ch2",
-            "time": "2025-06-13 19:48"
         }
     ]
 }
