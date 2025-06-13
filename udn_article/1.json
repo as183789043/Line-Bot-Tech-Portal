@@ -1,8 +1,20 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/realtime/32295175.jpg&s=Y&x=0&y=35&sw=4761&sh=3174&exp=3600&w=300",
+            "title": "以伊衝突！ 外交部：兩地國人均安 已暫停打工度假",
+            "link": "https://udn.com//news/story/6656/8805842?from=udn-catebreaknews_ch2",
+            "time": "2025-06-13 19:08"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/realtime/32294982.jpg&s=Y&x=0&y=0&sw=5064&sh=3312&exp=3600&w=300",
+            "title": "行政院核定：下半年增2連假 明年9個連續假日",
+            "link": "https://udn.com//news/story/6656/8805782?from=udn-catebreaknews_ch2",
+            "time": "2025-06-13 18:31"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/realtime/32294863.jpg&s=Y&x=111&y=0&sw=1068&sh=713&exp=3600&w=300",
-            "title": "立委提案限制水域由海巡劃設  國防部：釋放錯誤訊息",
+            "title": "立委提案限制水域由海巡劃設 國防部：釋放錯誤訊息",
             "link": "https://udn.com//news/story/10930/8805749?from=udn-catebreaknews_ch2",
             "time": "2025-06-13 18:15"
         },
@@ -17,18 +29,6 @@
             "title": "新竹雙罷查對今截止…罷團宣布進三階 6/20公布投票日",
             "link": "https://udn.com//news/story/124323/8805658?from=udn-catebreaknews_ch2",
             "time": "2025-06-13 17:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/03/realtime/32192045.png&s=Y&x=0&y=0&sw=1338&sh=890&exp=3600&w=300",
-            "title": "罷免宣告失敗 黃捷、許智傑兩人同聲「罷免無正當性」",
-            "link": "https://udn.com//news/story/124323/8805639?from=udn-catebreaknews_ch2",
-            "time": "2025-06-13 17:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/realtime/32294339.jpg&s=Y&x=0&y=0&sw=5041&sh=3351&exp=3600&w=300",
-            "title": "北市「罷雙吳」死亡連署案不延押 下周恐起訴黃呂錦茹",
-            "link": "https://udn.com//news/story/124323/8805627?from=udn-catebreaknews_ch2",
-            "time": "2025-06-13 17:29"
         }
     ]
 }
