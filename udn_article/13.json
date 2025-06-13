@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/0/32289614.jpg&s=Y&x=16&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "不想朝九晚五、不愛與人交際？解完任務就走的「迷你工作」來了",
+            "link": "https://udn.com//news/story/6837/8804054?from=udn-catebreaknews_ch2",
+            "time": "2025-06-13 07:48"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/13/0/32289607.jpg&s=Y&x=0&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "麥味登早餐，養出一家興櫃肉品廠！超秦如何用AI以小搏大？",
+            "link": "https://udn.com//news/story/6837/8804053?from=udn-catebreaknews_ch2",
+            "time": "2025-06-13 07:47"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/12/draft/32283392.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
             "title": "世紀鋼集團營運多箭齊發",
             "link": "https://udn.com//news/story/6851/8802019?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "輝積大軍重裝上陣 攻克22K操作法則",
             "link": "https://udn.com//news/story/6851/8801977?from=udn-catebreaknews_ch2",
             "time": "2025-06-12 14:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/06/0/31989716.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "謝金河：好的經營者像一座燈塔！",
-            "link": "https://udn.com//news/story/6851/8801976?from=udn-catebreaknews_ch2",
-            "time": "2025-06-12 14:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/12/draft/32283267.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "AI新寵兒 PCB、CCL強勢崛起",
-            "link": "https://udn.com//news/story/6851/8801956?from=udn-catebreaknews_ch2",
-            "time": "2025-06-12 14:07"
         }
     ]
 }
