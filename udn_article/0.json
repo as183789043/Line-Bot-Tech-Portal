@@ -1,6 +1,12 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/15/realtime/32303572.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "頭份為恭醫院起火疏散289人 3名警消預防性就醫無大礙",
+            "link": "https://udn.com//news/story/7320/8807730?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-06-15 01:43"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/06/15/32303307.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "明尼蘇達州民主黨議員夫婦遭暗殺身亡 槍手冒充警察登門行凶",
             "link": "https://udn.com//news/story/6813/8807705?from=udn-ch1_breaknews-1-0-news",
@@ -23,12 +29,6 @@
             "title": "以色列和伊朗再次互射導彈 核設施暫無洩漏",
             "link": "https://udn.com//news/story/124061/8807565?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-06-14 23:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/14/realtime/32303130.png&s=Y&x=0&y=0&sw=5596&sh=3738&exp=3600&w=300",
-            "title": "王毅分別與以伊外長通話 籲回歸外交手段解決問題",
-            "link": "https://udn.com//news/story/7331/8807655?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-06-14 23:27"
         }
     ]
 }

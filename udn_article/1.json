@@ -1,13 +1,19 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/15/1/32303596.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "眾院委員會通過…美擬撥150億 助台灣提升防衛能力",
+            "link": "https://udn.com//news/story/10930/8807704?from=udn-catebreaknews_ch2",
+            "time": "2025-06-15 02:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/14/realtime/32303244.jpg&s=Y&x=24&y=0&sw=2411&sh=1607&exp=3600&w=300",
             "title": "海鯤艦航行測試 朝海測邁進一步",
             "link": "https://udn.com//news/story/10930/8807694?from=udn-catebreaknews_ch2",
             "time": "2025-06-15 00:24"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
             "title": "修憲廢監院…白營20日提案 綠認藍內部難有共識",
             "link": "https://udn.com//news/story/6656/8807695?from=udn-catebreaknews_ch2",
             "time": "2025-06-15 00:21"
@@ -23,12 +29,6 @@
             "title": "藍雙北聯防反惡罷 蔣萬安、侯友宜站台",
             "link": "https://udn.com//news/story/124323/8807692?from=udn-catebreaknews_ch2",
             "time": "2025-06-15 00:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/15/1/32303339.jpg&s=Y&x=12&y=0&sw=910&sh=607&exp=3600&w=300",
-            "title": "國安簡報藍提2要求 球丟回總統府",
-            "link": "https://udn.com//news/story/124517/8807691?from=udn-catebreaknews_ch2",
-            "time": "2025-06-15 00:15"
         }
     ]
 }
