@@ -1,6 +1,24 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/14/realtime/32303244.jpg&s=Y&x=24&y=0&sw=2411&sh=1607&exp=3600&w=300",
+            "title": "海鯤艦航行測試 朝海測邁進一步",
+            "link": "https://udn.com//news/story/10930/8807694?from=udn-catebreaknews_ch2",
+            "time": "2025-06-15 00:24"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_3.jpg&w=300",
+            "title": "修憲廢監院…白營20日提案 綠認藍內部難有共識",
+            "link": "https://udn.com//news/story/6656/8807695?from=udn-catebreaknews_ch2",
+            "time": "2025-06-15 00:21"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
+            "title": "竹市雙罷 藍白「以選舉規格」強勢應戰",
+            "link": "https://udn.com//news/story/124323/8807693?from=udn-catebreaknews_ch2",
+            "time": "2025-06-15 00:19"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/14/realtime/32303240.jpg&s=Y&x=0&y=136&sw=2159&sh=1439&exp=3600&w=300",
             "title": "藍雙北聯防反惡罷 蔣萬安、侯友宜站台",
             "link": "https://udn.com//news/story/124323/8807692?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "國安簡報藍提2要求 球丟回總統府",
             "link": "https://udn.com//news/story/124517/8807691?from=udn-catebreaknews_ch2",
             "time": "2025-06-15 00:15"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
-            "title": "一周大事 6月8日~14日",
-            "link": "https://udn.com//news/story/7314/8807587?from=udn-catebreaknews_ch2",
-            "time": "2025-06-15 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/15/1/32303063.jpg&s=Y&x=4&y=0&sw=1160&sh=773&exp=3600&w=300",
-            "title": "官方掌文策院 學者警醒：「高雄模式」正擴散全台",
-            "link": "https://udn.com//news/story/7314/8807657?from=udn-catebreaknews_ch2",
-            "time": "2025-06-14 23:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/14/realtime/32303125.jpeg&s=Y&x=0&y=0&sw=4000&sh=2667&exp=3600&w=300",
-            "title": "文化部次長兼任文策院董事長 學界轟「球員兼裁判」",
-            "link": "https://udn.com//news/story/7314/8807648?from=udn-catebreaknews_ch2",
-            "time": "2025-06-14 23:26"
         }
     ]
 }
