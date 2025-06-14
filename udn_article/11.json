@@ -1,13 +1,25 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/14/realtime/32301806.jpg&s=Y&x=0&y=0&sw=3000&sh=1966&exp=3600&w=300",
+            "title": "兩岸觀策／任正非罕見登頭版 揭中美科技戰的真實力量",
+            "link": "https://udn.com//news/story/7333/8807293?from=udn-catebreaknews_ch2",
+            "time": "2025-06-15 07:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/15/realtime/32304539.jpg&s=Y&x=0&y=19&sw=2640&sh=1760&exp=3600&w=300",
+            "title": "【專家之眼】順利上海行 館長下一步？",
+            "link": "https://udn.com//news/story/7331/8807798?from=udn-catebreaknews_ch2",
+            "time": "2025-06-15 06:39"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/14/realtime/32303054.jpg&s=Y&x=0&y=0&sw=4425&sh=2948&exp=3600&w=300",
             "title": "蘋果降價奪回陸手機龍頭 配合國家補貼 5月逆襲成功",
             "link": "https://udn.com//news/story/7333/8807604?from=udn-catebreaknews_ch2",
             "time": "2025-06-15 01:13"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_1.jpg&w=300",
             "title": "騰訊3D大模型 PC也能跑",
             "link": "https://udn.com//news/story/7333/8807608?from=udn-catebreaknews_ch2",
             "time": "2025-06-15 01:12"
@@ -17,18 +29,6 @@
             "title": "海峽論壇喊推進民間交流 前總統馬英九今出席大會",
             "link": "https://udn.com//news/story/7331/8807612?from=udn-catebreaknews_ch2",
             "time": "2025-06-15 01:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_6.jpg&w=300",
-            "title": "2025陸家嘴論壇 陸將發布金融政策",
-            "link": "https://udn.com//news/story/7333/8807502?from=udn-catebreaknews_ch2",
-            "time": "2025-06-15 00:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/14/realtime/32303051.jpg&s=Y&x=70&y=170&sw=4815&sh=3210&exp=3600&w=300",
-            "title": "廣角鏡／陸發射探測衛星「張衡一號」02星 有助提升地震預警",
-            "link": "https://udn.com//news/story/7332/8807602?from=udn-catebreaknews_ch2",
-            "time": "2025-06-15 00:00"
         }
     ]
 }
