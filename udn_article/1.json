@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/15/realtime/32307723.jpg&s=Y&x=0&y=31&sw=4300&sh=2866&exp=3600&w=300",
+            "title": "國安簡報幕僚熱線有進展 國民黨：訴求獲府方正面回覆",
+            "link": "https://udn.com//news/story/124517/8808630?from=udn-catebreaknews_ch2",
+            "time": "2025-06-15 17:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/15/realtime/32307266.jpg&s=Y&x=0&y=14&sw=2048&sh=1364&exp=3600&w=300",
             "title": "柯建銘批藍白賣台讓綠難執政 「可以不罷免藍委嗎？」",
             "link": "https://udn.com//news/story/124323/8808530?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "罷免江啟臣需要多少件才過關？ 預判約要達120%至125%",
             "link": "https://udn.com//news/story/124323/8808432?from=udn-catebreaknews_ch2",
             "time": "2025-06-15 15:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/15/realtime/32306893.jpg&s=Y&x=0&y=104&sw=2557&sh=1705&exp=3600&w=300",
-            "title": "傳未依法通知補件 台中市選委會：不予評論",
-            "link": "https://udn.com//news/story/124323/8808425?from=udn-catebreaknews_ch2",
-            "time": "2025-06-15 15:02"
         }
     ]
 }
