@@ -1,6 +1,18 @@
 {
     "評論": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/12/2/32286002.jpg&s=Y&x=108&y=4&sw=1051&sh=701&exp=3600&w=300",
+            "title": "聯合報黑白集／高雄人也開始用肺發電",
+            "link": "https://udn.com//news/story/7338/8809149?from=udn-catebreaknews_ch2",
+            "time": "2025-06-16 00:24"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/15/realtime/32308621.jpg&s=Y&x=0&y=0&sw=5000&sh=3335&exp=3600&w=300",
+            "title": "聯合報社論／全球緊張升高，川普「無王日」閱兵慶生",
+            "link": "https://udn.com//news/story/7338/8809150?from=udn-catebreaknews_ch2",
+            "time": "2025-06-16 00:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/15/realtime/32308743.jpg&s=Y&x=0&y=0&sw=2550&sh=1700&exp=3600&w=300",
             "title": "美政局動盪 國際更混沌",
             "link": "https://udn.com//news/story/7339/8809050?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2025-06-16 00:11"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_0.jpg&w=300",
-            "title": "科技人文聯合講座／民主供應鏈不能說的秘密",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_8.jpg&w=300",
+            "title": "科技‧人文聯合講座／民主供應鏈不能說的秘密",
             "link": "https://udn.com//news/story/7339/8809048?from=udn-catebreaknews_ch2",
             "time": "2025-06-16 00:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/15/realtime/32307774.jpg&s=Y&x=0&y=0&sw=8366&sh=5571&exp=3600&w=300",
-            "title": "川普派兵 美國那道「美麗風景線」的警訊",
-            "link": "https://udn.com//news/story/7339/8809047?from=udn-catebreaknews_ch2",
-            "time": "2025-06-16 00:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/15/realtime/32307344.jpg&s=Y&x=0&y=0&sw=5273&sh=3515&exp=3600&w=300",
-            "title": "以色列突襲伊朗 恐打破國際法底線",
-            "link": "https://udn.com//news/story/7339/8809052?from=udn-catebreaknews_ch2",
-            "time": "2025-06-16 00:08"
         }
     ]
 }
