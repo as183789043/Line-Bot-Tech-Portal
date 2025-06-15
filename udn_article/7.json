@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/04/realtime/32202971.jpg&s=Y&x=0&y=0&sw=4278&sh=2852&exp=3600&w=300",
+            "title": "道瓊這指數年報酬逾30%…華爾街每天製造出百萬富翁 3種投資大敵藏虧損",
+            "link": "https://udn.com//news/story/12806/8808468?from=udn-catebreaknews_ch2",
+            "time": "2025-06-15 19:39"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/15/0/32307265.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "香蕉曝砸百萬買星宇股票…因座艙長這句話又加碼10張！張國煒：你怎麼那麼好騙",
             "link": "https://udn.com//news/story/12806/8808529?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "如果要用錢時正好遇上股市慘跌 財經網站創辦人：至少要擁有一些債券在手上",
             "link": "https://udn.com//news/story/12806/8808457?from=udn-catebreaknews_ch2",
             "time": "2025-06-15 15:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/15/2/32306288.jpg&s=Y&x=0&y=0&sw=630&sh=420&exp=3600&w=300",
-            "title": "台股投資新動力 AI伺服器、高殖利率股雙引擎發動",
-            "link": "https://udn.com//news/story/7251/8808200?from=udn-catebreaknews_ch2",
-            "time": "2025-06-15 12:23"
         }
     ]
 }
