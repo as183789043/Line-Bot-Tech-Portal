@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
+            "title": "掃蕩非法移民 川普政策被迫轉彎",
+            "link": "https://udn.com//news/story/6813/8809089?from=udn-catebreaknews_ch2",
+            "time": "2025-06-16 01:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/15/realtime/32308751.jpg&s=Y&x=0&y=0&sw=7434&sh=4956&exp=3600&w=300",
             "title": "以伊衝突擴及能源設施 中東能源供應拉警報",
             "link": "https://udn.com//news/story/6811/8809155?from=udn-catebreaknews_ch2",
@@ -13,22 +19,16 @@
             "time": "2025-06-16 00:33"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
             "title": "烏克蘭、以色列展示 無人機敵境突襲 改變戰爭新打法",
             "link": "https://udn.com//news/story/6809/8809157?from=udn-catebreaknews_ch2",
             "time": "2025-06-16 00:32"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
             "title": "G7峰會開幕 將討論中東危機 英國派軍機赴中東",
             "link": "https://udn.com//news/story/124061/8809159?from=udn-catebreaknews_ch2",
             "time": "2025-06-16 00:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
-            "title": "會以伊外長 王毅表態 譴責以色列侵犯伊朗",
-            "link": "https://udn.com//news/story/124061/8809161?from=udn-catebreaknews_ch2",
-            "time": "2025-06-16 00:30"
         }
     ]
 }
