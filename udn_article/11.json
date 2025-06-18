@@ -1,13 +1,25 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/18/1/32328440.jpg&s=Y&x=8&y=0&sw=1272&sh=848&exp=3600&w=300",
+            "title": "中國漫記／稀土制裁延燒至台灣 半導體業能全身而退？",
+            "link": "https://udn.com//news/story/7332/8815903?from=udn-catebreaknews_ch2",
+            "time": "2025-06-19 07:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/18/realtime/32329095.jpg&s=Y&x=80&y=0&sw=864&sh=576&exp=3600&w=300",
+            "title": "性能超越輝達H100？ 華為下一代AI晶片昇騰910D曝光",
+            "link": "https://udn.com//news/story/7333/8816253?from=udn-catebreaknews_ch2",
+            "time": "2025-06-19 06:36"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/18/2/32323265.jpg&s=Y&x=0&y=0&sw=630&sh=420&exp=3600&w=300",
             "title": "陸車用國產晶片 2026年量產",
             "link": "https://udn.com//news/story/7333/8816441?from=udn-catebreaknews_ch2",
             "time": "2025-06-19 02:46"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_7.jpg&w=300",
             "title": "大陸證監會主席：未獲利企業上市將重啟",
             "link": "https://udn.com//news/story/7333/8816442?from=udn-catebreaknews_ch2",
             "time": "2025-06-19 02:43"
@@ -17,18 +29,6 @@
             "title": "上海要設數位人民幣中心",
             "link": "https://udn.com//news/story/7333/8816438?from=udn-catebreaknews_ch2",
             "time": "2025-06-19 02:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_6.jpg&w=300",
-            "title": "陸比特幣挖礦機三雄赴美設廠",
-            "link": "https://udn.com//news/story/7333/8816436?from=udn-catebreaknews_ch2",
-            "time": "2025-06-19 02:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/19/2/32329671.png&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "螞蟻傳赴港申請穩定幣牌照",
-            "link": "https://udn.com//news/story/7333/8816439?from=udn-catebreaknews_ch2",
-            "time": "2025-06-19 02:38"
         }
     ]
 }
