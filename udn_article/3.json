@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/19/realtime/32333369.jpeg&s=Y&x=162&y=0&sw=1725&sh=1150&exp=3600&w=300",
+            "title": "影／SpaceX星艦火箭地面測試突爆炸 瞬間化為巨大火球",
+            "link": "https://udn.com//news/story/6813/8817901?from=udn-catebreaknews_ch2",
+            "time": "2025-06-19 15:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/19/realtime/32333280.jpg&s=Y&x=0&y=0&sw=8192&sh=5464&exp=3600&w=300",
             "title": "伊朗政府垮台...恐逾2千萬人逃難！美智庫：二戰來最大難民潮",
             "link": "https://udn.com//news/story/124061/8817869?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2025-06-19 15:08"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
             "title": "防範伊朗攻擊 美軍調離部分駐中東機艦",
             "link": "https://udn.com//news/story/124061/8817823?from=udn-catebreaknews_ch2",
             "time": "2025-06-19 15:01"
@@ -23,12 +29,6 @@
             "title": "與俄的不對等結盟：北韓萬名大兵換到飛彈 伊朗百架無人機等嘸奧援",
             "link": "https://udn.com//news/story/122663/8817829?from=udn-catebreaknews_ch2",
             "time": "2025-06-19 14:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
-            "title": "以色列伊朗衝突升高 多國啟動撤僑行動",
-            "link": "https://udn.com//news/story/124061/8817821?from=udn-catebreaknews_ch2",
-            "time": "2025-06-19 14:55"
         }
     ]
 }
