@@ -1,9 +1,15 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/20/realtime/32336635.jpg&s=Y&x=64&y=0&sw=1152&sh=768&exp=3600&w=300",
+            "title": "美中之間出現歧見？白宮：川普會聆聽各方意見",
+            "link": "https://udn.com//news/story/6813/8819236?from=udn-catebreaknews_ch2",
+            "time": "2025-06-20 05:14"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/20/realtime/32336420.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
             "title": "川普不怕動武 白宮：伊朗擁核武只差一步",
-            "link": "https://udn.com//news/story/6813/8819216?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124061/8819216?from=udn-catebreaknews_ch2",
             "time": "2025-06-20 04:05"
         },
         {
@@ -23,12 +29,6 @@
             "title": "瑞士、挪威、菲律賓同步降息 英國等多數國家保留下調空間",
             "link": "https://udn.com//news/story/6811/8818910?from=udn-catebreaknews_ch2",
             "time": "2025-06-20 02:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/20/2/32336212.png&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "泰國「政」盪 股匯雙殺",
-            "link": "https://udn.com//news/story/6811/8818915?from=udn-catebreaknews_ch2",
-            "time": "2025-06-20 02:28"
         }
     ]
 }
