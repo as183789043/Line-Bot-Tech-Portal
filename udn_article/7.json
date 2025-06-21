@@ -1,7 +1,13 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/21/98/32347575.jpg&s=Y&x=0&y=0&sw=1076&sh=717&exp=3600&w=300",
+            "title": "除息旺季來臨！聯電華碩領軍 下周除息總金額逾千億元",
+            "link": "https://udn.com//news/story/7251/8822445?from=udn-catebreaknews_ch2",
+            "time": "2025-06-21 18:48"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
             "title": "合庫金股利目標 至少1元",
             "link": "https://udn.com//news/story/7252/8821226?from=udn-catebreaknews_ch2",
             "time": "2025-06-21 00:56"
@@ -19,16 +25,10 @@
             "time": "2025-06-21 00:51"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
             "title": "偉訓AI伺服器機櫃 第4季出貨",
             "link": "https://udn.com//news/story/7253/8821345?from=udn-catebreaknews_ch2",
             "time": "2025-06-20 23:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
-            "title": "映泰三策略 催動成長",
-            "link": "https://udn.com//news/story/7253/8821353?from=udn-catebreaknews_ch2",
-            "time": "2025-06-20 23:51"
         }
     ]
 }
