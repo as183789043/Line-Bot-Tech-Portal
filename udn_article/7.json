@@ -1,12 +1,6 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/30/realtime/31748875.png&s=Y&x=0&y=192&sw=1024&sh=683&exp=3600&w=300",
-            "title": "中東情勢升溫…台股外部干擾短線有壓 法人建議保守因應",
-            "link": "https://udn.com//news/story/7251/8824190?from=udn-catebreaknews_ch2",
-            "time": "2025-06-23 03:11"
-        },
-        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/28/2/31738445.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "台股中長線 AI仍是主流",
             "link": "https://udn.com//news/story/7251/8824187?from=udn-catebreaknews_ch2",
@@ -29,6 +23,12 @@
             "title": "台股中小型高息商品 搶鏡",
             "link": "https://udn.com//news/story/10103/8823994?from=udn-catebreaknews_ch2",
             "time": "2025-06-23 00:42"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/23/2/32353801.jpg&s=Y&x=0&y=164&sw=1024&sh=683&exp=3600&w=300",
+            "title": "主動式股債ETF 掀熱潮",
+            "link": "https://udn.com//news/story/123006/8823995?from=udn-catebreaknews_ch2",
+            "time": "2025-06-23 00:41"
         }
     ]
 }
