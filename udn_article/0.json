@@ -1,6 +1,18 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/23/realtime/32359469.jpg&s=Y&x=0&y=0&sw=5859&sh=3906&exp=3600&w=300",
+            "title": "日本九州鹿兒島發生極淺地震",
+            "link": "https://udn.com//news/story/6809/8826477?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-06-23 23:28"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/23/realtime/32359451.jpg&s=Y&x=0&y=0&sw=3000&sh=2000&exp=3600&w=300",
+            "title": "美國攻伊朗恐令荷莫茲海峽遭封鎖 川普急喊話盼油價維持低位",
+            "link": "https://udn.com//news/story/6813/8826456?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-06-23 23:21"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/23/realtime/32359377.jpg&s=Y&x=0&y=0&sw=1920&sh=1300&exp=3600&w=300",
             "title": "與諾和諾德終止合作 Hims & Hers早盤股價暴跌30%",
             "link": "https://udn.com//news/story/6811/8826350?from=udn-ch1_breaknews-1-0-news",
@@ -17,18 +29,6 @@
             "title": "李強、黃循財北京會談 雙方皆提到推進及維護自由貿易",
             "link": "https://udn.com//news/story/7331/8826320?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-06-23 22:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/23/realtime/32359354.png&s=Y&x=144&y=0&sw=981&sh=654&exp=3600&w=300",
-            "title": "玩暑假！台灣好行北投竹子湖線超值套票明開賣 最低200元",
-            "link": "https://udn.com//news/story/7323/8826308?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-06-23 22:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/23/realtime/32359351.jpg&s=Y&x=0&y=0&sw=3560&sh=2382&exp=3600&w=300",
-            "title": "普亭會見伊朗外長 指美國襲伊朗受以色列煽動「無正當理由」",
-            "link": "https://udn.com//news/story/124061/8826304?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-06-23 22:41"
         }
     ]
 }
