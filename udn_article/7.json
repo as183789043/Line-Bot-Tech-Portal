@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/23/98/32356942.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電跌35元 台股下跌313點失守月線和22000點",
+            "link": "https://udn.com//news/story/7251/8825316?from=udn-catebreaknews_ch2",
+            "time": "2025-06-23 14:12"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/23/0/32356865.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "定期買進00919為參與長期向上的經濟趨勢！真星華：沒有信念行不通",
+            "link": "https://udn.com//news/story/123006/8825283?from=udn-catebreaknews_ch2",
+            "time": "2025-06-23 14:02"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/23/2/32356857.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "台股下跌313點收21,732點 台積電下跌35元收1,020元",
+            "link": "https://udn.com//news/story/7251/8825273?from=udn-catebreaknews_ch2",
+            "time": "2025-06-23 13:52"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/16/2/32311567.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台積電（2330）貼息是下半年除息潮預兆？專家：大盤2萬4是今年難跨關卡",
             "link": "https://udn.com//news/story/7251/8825150?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "債市ETF動向：避險需求 資金靠攏投資等級債市",
             "link": "https://udn.com//news/story/123006/8825088?from=udn-catebreaknews_ch2",
             "time": "2025-06-23 12:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/23/realtime/32356424.jpg&s=Y&x=312&y=0&sw=378&sh=252&exp=3600&w=300",
-            "title": "中東掀起戰火 資金回歸美國",
-            "link": "https://udn.com//news/story/7251/8825086?from=udn-catebreaknews_ch2",
-            "time": "2025-06-23 12:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/23/realtime/32356417.png&s=Y&x=191&y=0&sw=813&sh=542&exp=3600&w=300",
-            "title": "以伊衝突升級 能源基建護體",
-            "link": "https://udn.com//news/story/7251/8825082?from=udn-catebreaknews_ch2",
-            "time": "2025-06-23 12:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/23/2/32356434.jpg&s=Y&x=0&y=0&sw=1164&sh=776&exp=3600&w=300",
-            "title": "地緣局勢緊繃！電子零組件剽悍出線 欣興、楠梓電漲停",
-            "link": "https://udn.com//news/story/7253/8825069?from=udn-catebreaknews_ch2",
-            "time": "2025-06-23 12:31"
         }
     ]
 }
