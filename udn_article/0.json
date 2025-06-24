@@ -1,15 +1,21 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/25/realtime/32367981.jpg&s=Y&x=0&y=16&sw=1600&sh=1066&exp=3600&w=300",
+            "title": "聖帕颱風減弱為熱低 今高溫炎熱午後雷陣雨擴大 中南部防豪雨",
+            "link": "https://udn.com//news/story/7266/8829193?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-06-25 05:14"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/25/realtime/32367718.jpg&s=Y&x=0&y=28&sw=4155&sh=2770&exp=3600&w=300",
             "title": "川普阻止以色列轟炸伊朗 美國務院：以伊停火進展順利",
-            "link": "https://udn.com//news/story/6813/8829179?from=udn-ch1_breaknews-1-0-news",
+            "link": "https://udn.com//news/story/124061/8829179?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-06-25 04:13"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/25/realtime/32367633.jpg&s=Y&x=0&y=55&sw=7619&sh=5078&exp=3600&w=300",
-            "title": "美軍轟炸一場空？CNN：伊朗核子能力未被摧毀",
-            "link": "https://udn.com//news/story/6813/8829174?from=udn-ch1_breaknews-1-0-news",
+            "title": "美軍轟炸一場空？ CNN：伊朗核子能力未被摧毀",
+            "link": "https://udn.com//news/story/124061/8829174?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-06-25 03:51"
         },
         {
@@ -23,12 +29,6 @@
             "title": "罷陳乃瑜提議書造假 立委羅明才服務處主任及2助理聲押",
             "link": "https://udn.com//news/story/124323/8829156?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-06-25 02:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/25/realtime/32367420.jpg&s=Y&x=0&y=0&sw=1206&sh=785&exp=3600&w=300",
-            "title": "華航贈SIM卡遭疑規避實名制 立委、NCC都關注",
-            "link": "https://udn.com//news/story/6656/8829155?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-06-25 02:21"
         }
     ]
 }

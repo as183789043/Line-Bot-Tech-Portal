@@ -1,13 +1,19 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/25/realtime/32367981.jpg&s=Y&x=0&y=16&sw=1600&sh=1066&exp=3600&w=300",
+            "title": "聖帕颱風減弱為熱低 今高溫炎熱午後雷陣雨擴大 中南部防豪雨",
+            "link": "https://udn.com//news/story/7266/8829193?from=udn-catebreaknews_ch2",
+            "time": "2025-06-25 05:14"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/25/realtime/32367431.jpeg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
             "title": "柏林愛樂12把大提琴將來台 張正傑難忘為琴「卡」機位",
             "link": "https://udn.com//news/story/7266/8829157?from=udn-catebreaknews_ch2",
             "time": "2025-06-25 02:24"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_7.jpg&w=300",
             "title": "新生兒腸病毒 北部疫情升高恐熱到7月底",
             "link": "https://udn.com//news/story/7266/8828998?from=udn-catebreaknews_ch2",
             "time": "2025-06-25 00:21"
@@ -23,12 +29,6 @@
             "title": "黑熊之死…人熊共處跨入雷區 開槍護管員披露心境",
             "link": "https://udn.com//news/story/124524/8829067?from=udn-catebreaknews_ch2",
             "time": "2025-06-25 00:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/24/realtime/32366890.jpg&s=Y&x=0&y=5&sw=800&sh=532&exp=3600&w=300",
-            "title": "專訪護管員／還原那一晚…對熊開槍的當下 只想到「完了」",
-            "link": "https://udn.com//news/story/124524/8829089?from=udn-catebreaknews_ch2",
-            "time": "2025-06-25 00:13"
         }
     ]
 }
