@@ -1,13 +1,19 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/25/realtime/32367414.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
+            "title": "川普攻擊不斷 美聯準會主席：關稅衝擊還沒出現",
+            "link": "https://udn.com//news/story/6813/8829154?from=udn-catebreaknews_ch2",
+            "time": "2025-06-25 02:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/24/realtime/32366672.jpg&s=Y&x=0&y=0&sw=7150&sh=4767&exp=3600&w=300",
             "title": "以伊停火 全球股市漲 油價跌",
             "link": "https://udn.com//news/story/124061/8828990?from=udn-catebreaknews_ch2",
             "time": "2025-06-25 00:43"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
             "title": "王毅批美轟炸伊朗核設施「惡劣先例」",
             "link": "https://udn.com//news/story/124061/8828996?from=udn-catebreaknews_ch2",
             "time": "2025-06-25 00:42"
@@ -23,12 +29,6 @@
             "title": "伊朗加快選拔哈米尼接班人 哈桑呼聲高",
             "link": "https://udn.com//news/story/124061/8829086?from=udn-catebreaknews_ch2",
             "time": "2025-06-25 00:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
-            "title": "伊400公斤濃縮鈾下落不明 可造10枚核彈",
-            "link": "https://udn.com//news/story/124061/8829084?from=udn-catebreaknews_ch2",
-            "time": "2025-06-25 00:28"
         }
     ]
 }
