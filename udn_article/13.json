@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/24/0/32363013.jpg&s=Y&x=280&y=20&sw=918&sh=612&exp=3600&w=300",
+            "title": "阿茲海默症患者年輕化 失智專家絕對不做的7件事",
+            "link": "https://udn.com//news/story/6841/8827598?from=udn-catebreaknews_ch2",
+            "time": "2025-06-24 13:25"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/24/0/32362671.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "大學個申放榜錄取理工科 未來穩高薪？教授示警「這工作」消失中：外包到海外或AI取代",
             "link": "https://udn.com//news/story/6839/8827489?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "邁向數位淨零雙轉型 TIMTOS 2025大秀臺灣工具機研發實力",
             "link": "https://udn.com//news/story/6905/8825467?from=udn-catebreaknews_ch2",
             "time": "2025-06-23 15:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/23/draft/32357368.jpg&s=Y&x=0&y=0&sw=700&sh=466&exp=3600&w=300",
-            "title": "臺美交流布局全球通訊商機 MWC臺灣館首秀高軌衛星通訊",
-            "link": "https://udn.com//news/story/6905/8825461?from=udn-catebreaknews_ch2",
-            "time": "2025-06-23 15:27"
         }
     ]
 }

@@ -1,7 +1,13 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/22/realtime/32353531.jpg&s=Y&x=0&y=76&sw=1889&sh=1260&exp=3600&w=300",
+            "title": "台股上漲456點收22,188點 台積電收1,050元上漲30元",
+            "link": "https://udn.com//news/story/7251/8827685?from=udn-catebreaknews_ch2",
+            "time": "2025-06-24 13:53"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
             "title": "多資產ETF、主動式ETF及美元加掛ETF 投資停看聽",
             "link": "https://udn.com//news/story/123006/8827524?from=udn-catebreaknews_ch2",
             "time": "2025-06-24 12:46"
@@ -19,16 +25,10 @@
             "time": "2025-06-24 12:27"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
             "title": "特斯拉Robotaxi點火！台鏈泛電車股催油門 這檔鎖漲停",
             "link": "https://udn.com//news/story/7253/8827459?from=udn-catebreaknews_ch2",
             "time": "2025-06-24 12:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/24/0/32362173.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台股回魂！以伊停戰激勵中小股紅通通 直雲：直雲：股票ALL IN、永遠有00757",
-            "link": "https://udn.com//news/story/7251/8827336?from=udn-catebreaknews_ch2",
-            "time": "2025-06-24 11:56"
         }
     ]
 }
