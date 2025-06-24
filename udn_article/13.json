@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/24/0/32362671.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "大學個申放榜錄取理工科 未來穩高薪？教授示警「這工作」消失中：外包到海外或AI取代",
+            "link": "https://udn.com//news/story/6839/8827489?from=udn-catebreaknews_ch2",
+            "time": "2025-06-24 12:42"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/24/0/32362597.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "大陸咖啡市場內捲「1杯美式最低7元」！謝金河讚羅智先當年1操作：高明的交易",
+            "link": "https://udn.com//news/story/6839/8827474?from=udn-catebreaknews_ch2",
+            "time": "2025-06-24 12:29"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/23/draft/32357395.jpg&s=Y&x=106&y=0&sw=489&sh=327&exp=3600&w=300",
             "title": "智慧醫療新紀元 工研院攜手醫療體系打造臨床試驗綠色通道",
             "link": "https://udn.com//news/story/6905/8825468?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "臺美交流布局全球通訊商機 MWC臺灣館首秀高軌衛星通訊",
             "link": "https://udn.com//news/story/6905/8825461?from=udn-catebreaknews_ch2",
             "time": "2025-06-23 15:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/23/draft/32357259.jpg&s=Y&x=0&y=0&sw=700&sh=466&exp=3600&w=300",
-            "title": "從開放架構到智慧應用 MWC 2025看見電信業新風貌",
-            "link": "https://udn.com//news/story/6905/8825448?from=udn-catebreaknews_ch2",
-            "time": "2025-06-23 15:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/23/draft/32357171.jpg&s=Y&x=0&y=0&sw=700&sh=463&exp=3600&w=300",
-            "title": "助零售業提升能源效率 冷能需量反應管理系統",
-            "link": "https://udn.com//news/story/6905/8825441?from=udn-catebreaknews_ch2",
-            "time": "2025-06-23 15:25"
         }
     ]
 }
