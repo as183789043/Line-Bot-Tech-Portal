@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/25/realtime/32367718.jpg&s=Y&x=0&y=28&sw=4155&sh=2770&exp=3600&w=300",
+            "title": "川普阻止以色列轟炸伊朗 美國務院：以伊停火進展順利",
+            "link": "https://udn.com//news/story/6813/8829179?from=udn-catebreaknews_ch2",
+            "time": "2025-06-25 04:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/25/realtime/32367633.jpg&s=Y&x=0&y=55&sw=7619&sh=5078&exp=3600&w=300",
+            "title": "美軍轟炸一場空？CNN：伊朗核子能力未被摧毀",
+            "link": "https://udn.com//news/story/6813/8829174?from=udn-catebreaknews_ch2",
+            "time": "2025-06-25 03:51"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/25/realtime/32367414.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
             "title": "川普攻擊不斷 美聯準會主席：關稅衝擊還沒出現",
             "link": "https://udn.com//news/story/6813/8829154?from=udn-catebreaknews_ch2",
@@ -8,27 +20,15 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/24/realtime/32366672.jpg&s=Y&x=0&y=0&sw=7150&sh=4767&exp=3600&w=300",
-            "title": "以伊停火 全球股市漲 油價跌",
+            "title": "以伊停火 全球股市漲、油價跌",
             "link": "https://udn.com//news/story/124061/8828990?from=udn-catebreaknews_ch2",
             "time": "2025-06-25 00:43"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
             "title": "王毅批美轟炸伊朗核設施「惡劣先例」",
             "link": "https://udn.com//news/story/124061/8828996?from=udn-catebreaknews_ch2",
             "time": "2025-06-25 00:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
-            "title": "馬克宏憂局勢脆弱 俄羅斯駁斥未挺伊朗",
-            "link": "https://udn.com//news/story/124061/8829012?from=udn-catebreaknews_ch2",
-            "time": "2025-06-25 00:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/24/realtime/32366863.jpg&s=Y&x=0&y=0&sw=2126&sh=1417&exp=3600&w=300",
-            "title": "伊朗加快選拔哈米尼接班人 哈桑呼聲高",
-            "link": "https://udn.com//news/story/124061/8829086?from=udn-catebreaknews_ch2",
-            "time": "2025-06-25 00:31"
         }
     ]
 }
