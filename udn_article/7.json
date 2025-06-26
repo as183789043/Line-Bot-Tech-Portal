@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/26/2/32381859.jpg&s=Y&x=0&y=24&sw=1278&sh=852&exp=3600&w=300",
+            "title": "台特化「重大訊息待公布」 27日暫停交易、開記者會",
+            "link": "https://udn.com//news/story/7254/8833798?from=udn-catebreaknews_ch2",
+            "time": "2025-06-26 20:35"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/26/0/32381269.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "006208納收益平準金要改季配息？富邦投信否認！網：不想被配息干擾",
             "link": "https://udn.com//news/story/123006/8833613?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "00929等三檔台股ETF換股公告了！不只納入華碩 還有這些AI股",
             "link": "https://udn.com//news/story/123006/8833393?from=udn-catebreaknews_ch2",
             "time": "2025-06-26 17:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/26/realtime/32380224.jpg&s=Y&x=0&y=2&sw=368&sh=244&exp=3600&w=300",
-            "title": "外資買超327億元 成交量前兩名竟分居外資買賣超冠軍",
-            "link": "https://udn.com//news/story/7251/8833296?from=udn-catebreaknews_ch2",
-            "time": "2025-06-26 16:47"
         }
     ]
 }
