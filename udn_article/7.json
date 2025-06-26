@@ -1,10 +1,22 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/13/realtime/32031037.jpg&s=Y&x=0&y=0&sw=5351&sh=3567&exp=3600&w=300",
+            "title": "00929等三檔台股ETF換股公告了！不只納入華碩 還有這些AI股",
+            "link": "https://udn.com//news/story/123006/8833393?from=udn-catebreaknews_ch2",
+            "time": "2025-06-26 17:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/26/realtime/32380224.jpg&s=Y&x=0&y=2&sw=368&sh=244&exp=3600&w=300",
             "title": "外資買超327億元 成交量前兩名竟分居外資買賣超冠軍",
             "link": "https://udn.com//news/story/7251/8833296?from=udn-catebreaknews_ch2",
             "time": "2025-06-26 16:47"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "title": "股價一路漲52% 竹陞科技公布5月自結 EPS 1.7元、年增45%",
+            "link": "https://udn.com//news/story/7254/8833255?from=udn-catebreaknews_ch2",
+            "time": "2025-06-26 16:35"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/10/realtime/32016573.jpg&s=Y&x=0&y=0&sw=4386&sh=2924&exp=3600&w=300",
@@ -17,18 +29,6 @@
             "title": "黃仁勳點火加上稅制明朗 汽車股猛催油門、宇隆飆第一！",
             "link": "https://udn.com//news/story/7251/8832981?from=udn-catebreaknews_ch2",
             "time": "2025-06-26 14:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/26/2/32378565.jpg&s=Y&x=0&y=0&sw=1217&sh=811&exp=3600&w=300",
-            "title": "台股上漲61點收22,492點 台積電上漲5元收1,075元",
-            "link": "https://udn.com//news/story/7251/8832787?from=udn-catebreaknews_ch2",
-            "time": "2025-06-26 13:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/26/realtime/32378484.jpg&s=Y&x=73&y=0&sw=513&sh=342&exp=3600&w=300",
-            "title": "美國企業基本面強勁 關注 AI 投資契機",
-            "link": "https://udn.com//news/story/10103/8832755?from=udn-catebreaknews_ch2",
-            "time": "2025-06-26 13:38"
         }
     ]
 }
