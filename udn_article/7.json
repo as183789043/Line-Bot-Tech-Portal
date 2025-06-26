@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/26/2/32382177.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "台指期夜盤小幅震盪 盤中最低回測至22,043點",
+            "link": "https://udn.com//news/story/7255/8833872?from=udn-catebreaknews_ch2",
+            "time": "2025-06-26 21:34"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/26/2/32381859.jpg&s=Y&x=0&y=24&sw=1278&sh=852&exp=3600&w=300",
             "title": "台特化「重大訊息待公布」 27日暫停交易、開記者會",
             "link": "https://udn.com//news/story/7254/8833798?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "京城股東會／營收獲利創新高…7年不發股利 小股東喊不公平",
             "link": "https://udn.com//news/story/7252/8833499?from=udn-catebreaknews_ch2",
             "time": "2025-06-26 18:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/13/realtime/32031037.jpg&s=Y&x=0&y=0&sw=5351&sh=3567&exp=3600&w=300",
-            "title": "00929等三檔台股ETF換股公告了！不只納入華碩 還有這些AI股",
-            "link": "https://udn.com//news/story/123006/8833393?from=udn-catebreaknews_ch2",
-            "time": "2025-06-26 17:22"
         }
     ]
 }
