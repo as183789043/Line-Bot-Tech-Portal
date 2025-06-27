@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/27/2/32388040.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股上漲87點收22,580點 台積電漲5元收1,080元",
+            "link": "https://udn.com//news/story/7251/8835321?from=udn-catebreaknews_ch2",
+            "time": "2025-06-27 13:55"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/27/0/32387989.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "市值型ETF大對決！0050分割帶頭衝、006208急追調費 柴鼠兄弟一次比給你看",
+            "link": "https://udn.com//news/story/123006/8835302?from=udn-catebreaknews_ch2",
+            "time": "2025-06-27 13:54"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/27/0/32387306.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "外匯禿鷹讓空單飆半年新高！郭哲榮喊：老天爺送錢…台幣28.5以下考慮買00662",
             "link": "https://udn.com//news/story/12806/8835105?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2025-06-27 12:14"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/27/2/32386660.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "Nike「報」喜！豐泰狂奔、製鞋五強全進百元俱樂部",
-            "link": "https://udn.com//news/story/7251/8834919?from=udn-catebreaknews_ch2",
-            "time": "2025-06-27 11:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/27/0/32386461.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "台幣匯率見29可進場了？網見血式發言：才29…TACO川會滿意嗎",
-            "link": "https://udn.com//news/story/12806/8834849?from=udn-catebreaknews_ch2",
-            "time": "2025-06-27 11:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
-            "title": "群豐科技聲請破產衝擊落後？光罩股價下跌回測月線",
-            "link": "https://udn.com//news/story/7251/8834860?from=udn-catebreaknews_ch2",
-            "time": "2025-06-27 11:11"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
+            "title": "虎山股東會／每股盈餘7.19元創新高 布局全球持續深化",
+            "link": "https://udn.com//news/story/7251/8835030?from=udn-catebreaknews_ch2",
+            "time": "2025-06-27 11:58"
         }
     ]
 }
