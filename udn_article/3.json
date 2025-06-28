@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/06/29/32401223.jpg&s=Y&x=80&y=0&sw=864&sh=576&exp=3600&w=300",
+            "title": "以軍宣布：擊斃哈瑪斯創始軍頭 10月7日恐怖行動主謀",
+            "link": "https://udn.com//news/story/124061/8838056?from=udn-catebreaknews_ch2",
+            "time": "2025-06-29 05:04"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/06/29/32401012.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "與G7達協議 美企將豁免全球最低稅負制部分條款",
+            "link": "https://udn.com//news/story/124373/8838044?from=udn-catebreaknews_ch2",
+            "time": "2025-06-29 04:21"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/06/28/32394576.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
+            "title": "喬治亞州限制社媒用戶年齡 聯邦法官指妨害言論自由",
+            "link": "https://udn.com//news/story/6813/8836752?from=udn-catebreaknews_ch2",
+            "time": "2025-06-29 04:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/28/realtime/32399720.jpg&s=Y&x=0&y=0&sw=4139&sh=2759&exp=3600&w=300",
             "title": "美股狂歡上演四大驚奇 投資人期待7月還有漲勢 ",
             "link": "https://udn.com//news/story/6811/8837884?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "Meta傳大募資蓋AI資料中心 強化大型語言模型戰力",
             "link": "https://udn.com//news/story/6811/8837868?from=udn-catebreaknews_ch2",
             "time": "2025-06-29 02:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/28/realtime/32399701.jpg&s=Y&x=110&y=0&sw=5493&sh=3663&exp=3600&w=300",
-            "title": "川普呼籲Fed把利率降至1% 強調只挑選會降息的人擔任主席",
-            "link": "https://udn.com//news/story/6811/8837871?from=udn-catebreaknews_ch2",
-            "time": "2025-06-29 02:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/17/realtime/32323017.jpg&s=Y&x=147&y=0&sw=3207&sh=2138&exp=3600&w=300",
-            "title": "削弱輝達支配地位 OpenAI租用Google晶片",
-            "link": "https://udn.com//news/story/6811/8837875?from=udn-catebreaknews_ch2",
-            "time": "2025-06-29 02:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
-            "title": "OPEC+ 傳8月將繼續增產",
-            "link": "https://udn.com//news/story/6811/8837873?from=udn-catebreaknews_ch2",
-            "time": "2025-06-29 02:25"
         }
     ]
 }
