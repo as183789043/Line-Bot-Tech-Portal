@@ -1,12 +1,6 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/29/1/32399860.jpg&s=Y&x=0&y=72&sw=1280&sh=853&exp=3600&w=300",
-            "title": "世界先進估下半年 美元營收溫和成長",
-            "link": "https://udn.com//news/story/7240/8837920?from=udn-catebreaknews_ch2",
-            "time": "2025-06-28 23:59"
-        },
-        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/28/realtime/32399764.jpg&s=Y&x=0&y=0&sw=3500&sh=2350&exp=3600&w=300",
             "title": "台廠拚轉型 迎戰AI新階段",
             "link": "https://udn.com//news/story/7240/8837909?from=udn-catebreaknews_ch2",
@@ -29,6 +23,12 @@
             "title": "賴總統：協助中小企業轉型 讓全民共享經濟發展果實",
             "link": "https://udn.com//news/story/7238/8837428?from=udn-catebreaknews_ch2",
             "time": "2025-06-28 16:40"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/27/realtime/32388168.jpg&s=Y&x=55&y=0&sw=3222&sh=2148&exp=3600&w=300",
+            "title": "反映電力從業人員辛勞 台電工會爭取調薪3.5%",
+            "link": "https://udn.com//news/story/7238/8837351?from=udn-catebreaknews_ch2",
+            "time": "2025-06-28 15:24"
         }
     ]
 }
