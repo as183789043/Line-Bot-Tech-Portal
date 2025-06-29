@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/30/realtime/32409209.jpg&s=Y&x=250&y=0&sw=4941&sh=3295&exp=3600&w=300",
+            "title": "本周開盤前 五件國際事不可不知",
+            "link": "https://udn.com//news/story/6811/8839580?from=udn-catebreaknews_ch2",
+            "time": "2025-06-30 07:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/28/realtime/32395329.jpg&s=Y&x=0&y=0&sw=930&sh=620&exp=3600&w=300",
+            "title": "中東局勢像一場精心編排政治戲 火線後的交易才要開始",
+            "link": "https://udn.com//news/story/124061/8837003?from=udn-catebreaknews_ch2",
+            "time": "2025-06-30 07:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/29/realtime/32406742.jpg&s=Y&x=123&y=0&sw=2124&sh=1417&exp=3600&w=300",
             "title": "中日關係出現曙光 日本水產大陸恢復部分進口",
             "link": "https://udn.com//news/story/6811/8839391?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "參院版大而美法案過頭關 力拚周五前送交川普簽署生效",
             "link": "https://udn.com//news/story/6813/8839342?from=udn-catebreaknews_ch2",
             "time": "2025-06-30 02:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
-            "title": "參院版大而美法案公布 馬斯克痛批：簡直瘋了",
-            "link": "https://udn.com//news/story/6813/8839341?from=udn-catebreaknews_ch2",
-            "time": "2025-06-30 02:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/28/98/32394957.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "美股反彈收復所有失土 下半年面臨五大風險",
-            "link": "https://udn.com//news/story/6811/8839350?from=udn-catebreaknews_ch2",
-            "time": "2025-06-30 02:06"
         }
     ]
 }
