@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/29/0/32403084.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "台股周一恐無量下跌？川普喊話關稅：100多國沒得談…想怎麼做都行",
+            "link": "https://udn.com//news/story/12806/8838356?from=udn-catebreaknews_ch2",
+            "time": "2025-06-29 11:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/18/realtime/32328323.jpg&s=Y&x=0&y=0&sw=1695&sh=1133&exp=3600&w=300",
             "title": "Q3布局大解碼 ETF淘金 專家點名兩類商品必買",
             "link": "https://udn.com//news/story/123006/8837880?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2025-06-29 02:48"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
             "title": "政策兩利多 藥廠進補",
             "link": "https://udn.com//news/story/7251/8837891?from=udn-catebreaknews_ch2",
             "time": "2025-06-29 02:45"
@@ -23,12 +29,6 @@
             "title": "廣達、日月光、聯發科將除息 外界關注營運前景與訂單概況",
             "link": "https://udn.com//news/story/7253/8837892?from=udn-catebreaknews_ch2",
             "time": "2025-06-29 01:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/29/1/32399860.jpg&s=Y&x=0&y=72&sw=1280&sh=853&exp=3600&w=300",
-            "title": "世界先進估下半年 美元營收溫和成長",
-            "link": "https://udn.com//news/story/7254/8837920?from=udn-catebreaknews_ch2",
-            "time": "2025-06-28 23:59"
         }
     ]
 }
