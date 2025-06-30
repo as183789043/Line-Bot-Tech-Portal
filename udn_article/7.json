@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/30/2/32414617.jpg&s=Y&x=0&y=0&sw=895&sh=597&exp=3600&w=300",
+            "title": "這家IC設計上櫃公司 股價、非主管員工平均薪資471.5萬元都奪冠",
+            "link": "https://udn.com//news/story/7254/8840934?from=udn-catebreaknews_ch2",
+            "time": "2025-06-30 17:04"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/30/realtime/32414182.jpg&s=Y&x=0&y=8&sw=1200&sh=800&exp=3600&w=300",
+            "title": "上市櫃最新「非主管」平均薪資出爐！聯發科成功奪冠",
+            "link": "https://udn.com//news/story/7251/8840813?from=udn-catebreaknews_ch2",
+            "time": "2025-06-30 16:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/03/2/31020218.jpg&s=Y&x=0&y=0&sw=1132&sh=755&exp=3600&w=300",
             "title": "台股ETF受益人再創新高 債券ETF受益人連五減",
             "link": "https://udn.com//news/story/123006/8840781?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "主權AI將是新動能 法人看好這五家台廠受惠",
             "link": "https://udn.com//news/story/7251/8840749?from=udn-catebreaknews_ch2",
             "time": "2025-06-30 15:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/30/2/32413925.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "0056配息出爐！單季配息金額降至0.866元、配息率維持2.5%",
-            "link": "https://udn.com//news/story/123006/8840706?from=udn-catebreaknews_ch2",
-            "time": "2025-06-30 15:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/22/2/32351444.jpg&s=Y&x=6&y=0&sw=623&sh=415&exp=3600&w=300",
-            "title": "三大法人賣超45億元、6月續買872億元 元大金爆量拉尾迎除息",
-            "link": "https://udn.com//news/story/7251/8840694?from=udn-catebreaknews_ch2",
-            "time": "2025-06-30 15:33"
         }
     ]
 }
