@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/04/realtime/31785361.jpg&s=Y&x=0&y=15&sw=2000&sh=1332&exp=3600&w=300",
+            "title": "外資終結連4買 調節元大金逾8.5萬張居冠",
+            "link": "https://udn.com//news/story/7251/8841286?from=udn-catebreaknews_ch2",
+            "time": "2025-06-30 20:19"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/15/realtime/32307973.jpg&s=Y&x=0&y=0&sw=3148&sh=2099&exp=3600&w=300",
+            "title": "台積電小跌收1060元 外資賣超891張壓盤",
+            "link": "https://udn.com//news/story/7251/8841259?from=udn-catebreaknews_ch2",
+            "time": "2025-06-30 19:28"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/16/2/32312471.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "台積電尾盤萬張摜壓 股價收跌20元市值失守28兆",
+            "link": "https://udn.com//news/story/7253/8841201?from=udn-catebreaknews_ch2",
+            "time": "2025-06-30 19:15"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/30/realtime/32415757.jpg&s=Y&x=0&y=12&sw=1889&sh=1258&exp=3600&w=300",
             "title": "高股息ETF出現「降息潮」 元大投信宣布第三季調降0056配息",
             "link": "https://udn.com//news/story/123006/8841227?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "外資6月買超926億元 最愛竟是這檔金融股、台積電也獲關愛",
             "link": "https://udn.com//news/story/7251/8841100?from=udn-catebreaknews_ch2",
             "time": "2025-06-30 18:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/30/2/32414617.jpg&s=Y&x=0&y=0&sw=895&sh=597&exp=3600&w=300",
-            "title": "這家IC設計上櫃公司 股價、非主管員工平均薪資471.5萬元都奪冠",
-            "link": "https://udn.com//news/story/7254/8840934?from=udn-catebreaknews_ch2",
-            "time": "2025-06-30 17:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/30/realtime/32414182.jpg&s=Y&x=0&y=8&sw=1200&sh=800&exp=3600&w=300",
-            "title": "上市櫃最新「非主管」平均薪資出爐！聯發科成功奪冠",
-            "link": "https://udn.com//news/story/7251/8840813?from=udn-catebreaknews_ch2",
-            "time": "2025-06-30 16:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/03/2/31020218.jpg&s=Y&x=0&y=0&sw=1132&sh=755&exp=3600&w=300",
-            "title": "台股ETF受益人再創新高 債券ETF受益人連五減",
-            "link": "https://udn.com//news/story/123006/8840781?from=udn-catebreaknews_ch2",
-            "time": "2025-06-30 16:07"
         }
     ]
 }
