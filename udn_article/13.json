@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/30/0/32412424.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "韓國單月出生率飆速30多年最快 台出生人口仍新低…原來從這裡先下手",
+            "link": "https://udn.com//news/story/6839/8840278?from=udn-catebreaknews_ch2",
+            "time": "2025-06-30 13:18"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/28/realtime/31941449.jpg&s=Y&x=0&y=0&sw=1416&sh=944&exp=3600&w=300",
+            "title": "銀行帳戶為何突變「警示戶」？衍生管制會怎樣…凍結自救最新整理",
+            "link": "https://udn.com//news/story/6839/8840290?from=udn-catebreaknews_ch2",
+            "time": "2025-06-30 13:10"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/30/draft/32410964.jpg&s=Y&x=0&y=4&sw=300&sh=200&exp=3600&w=300",
             "title": "Touch Taiwan 2025科技新趨勢",
             "link": "https://udn.com//news/story/6905/8840000?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "X世代最焦慮 研究：一人賺錢養家的時代已過去",
             "link": "https://udn.com//news/story/6897/8839929?from=udn-catebreaknews_ch2",
             "time": "2025-06-30 11:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/30/0/32410177.jpg&s=Y&x=0&y=252&sw=1280&sh=853&exp=3600&w=300",
-            "title": "從新生橋下唱進小巨蛋 頑童MJ116重磅回歸",
-            "link": "https://udn.com//news/story/6981/8839779?from=udn-catebreaknews_ch2",
-            "time": "2025-06-30 09:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/27/draft/32386350.jpg&s=Y&x=0&y=8&sw=1279&sh=852&exp=3600&w=300",
-            "title": "如何降低AI的幻覺",
-            "link": "https://udn.com//news/story/7025/8834801?from=udn-catebreaknews_ch2",
-            "time": "2025-06-29 22:18"
         }
     ]
 }

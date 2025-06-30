@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/30/2/32412162.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "6月以來台股ETF狂增13萬人 這檔最受寵、增幅15.1%居冠",
+            "link": "https://udn.com//news/story/123006/8840287?from=udn-catebreaknews_ch2",
+            "time": "2025-06-30 12:34"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/30/2/32411942.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "6月除息末班車多檔貼息！這幾檔催油門逆向開往填息路",
             "link": "https://udn.com//news/story/7251/8840229?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台積電鴻海等權值股領跌 台股開低走低下挫逾百點",
             "link": "https://udn.com//news/story/7251/8840103?from=udn-catebreaknews_ch2",
             "time": "2025-06-30 11:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/30/2/32411902.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "AI伺服器帶旺 PCB！金像電盤中飆漲停、外資目標價調升這4檔",
-            "link": "https://udn.com//news/story/7253/8840136?from=udn-catebreaknews_ch2",
-            "time": "2025-06-30 11:36"
         }
     ]
 }
