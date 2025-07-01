@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/01/2/32428197.jpg&s=Y&x=0&y=208&sw=1024&sh=683&exp=3600&w=300",
+            "title": "市場關注川普「大而美法案」 台指期夜盤再拚翻轉",
+            "link": "https://udn.com//news/story/7255/8844110?from=udn-catebreaknews_ch2",
+            "time": "2025-07-01 21:22"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/01/2/32428232.jpg&s=Y&x=0&y=0&sw=658&sh=439&exp=3600&w=300",
+            "title": "鴻海等17檔上市股票2日除息 估計指數蒸發約40.91點",
+            "link": "https://udn.com//news/story/7253/8844112?from=udn-catebreaknews_ch2",
+            "time": "2025-07-01 21:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/01/2/32426759.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "證交所第22屆董事會 推舉林修銘擔任董事長、續聘李愛玲為總經理",
             "link": "https://udn.com//news/story/7251/8843786?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "市場漸回穩 國安基金護盤任務將解除？7月14日例會分曉",
             "link": "https://udn.com//news/story/7251/8843691?from=udn-catebreaknews_ch2",
             "time": "2025-07-01 17:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/01/2/32426522.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "驅動IC後市樂觀 兩大亮點支持利多！大摩維持聯詠「優於大盤」評等",
-            "link": "https://udn.com//news/story/7251/8843673?from=udn-catebreaknews_ch2",
-            "time": "2025-07-01 17:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/01/2/32426322.jpg&s=Y&x=40&y=0&sw=1199&sh=799&exp=3600&w=300",
-            "title": "永豐投信發布4檔股債ETF配息公告 7月24日除息",
-            "link": "https://udn.com//news/story/123006/8843648?from=udn-catebreaknews_ch2",
-            "time": "2025-07-01 17:40"
         }
     ]
 }
