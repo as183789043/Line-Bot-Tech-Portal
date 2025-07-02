@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/01/2/32425623.jpg&s=Y&x=0&y=0&sw=1127&sh=751&exp=3600&w=300",
+            "title": "00943配息金額0.052元 單月配息率約0.38%、年化配息率約4.5%",
+            "link": "https://udn.com//news/story/123006/8846510?from=udn-catebreaknews_ch2",
+            "time": "2025-07-02 20:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/02/realtime/32440435.png&s=Y&x=0&y=10&sw=1024&sh=682&exp=3600&w=300",
             "title": "股息、價差雙收益 股票型配息基金成新寵",
             "link": "https://udn.com//news/story/7251/8846417?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2025-07-02 16:45"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
             "title": "投資人積極轉向股票型基金 善用三步驟打造更完善現金流",
             "link": "https://udn.com//news/story/7251/8846031?from=udn-catebreaknews_ch2",
             "time": "2025-07-02 16:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/02/2/32438584.jpg&s=Y&x=0&y=180&sw=1024&sh=683&exp=3600&w=300",
-            "title": "這檔海外高股息ETF近一年報酬達20%、年化配息率逾8%…法人分析理由",
-            "link": "https://udn.com//news/story/123006/8846028?from=udn-catebreaknews_ch2",
-            "time": "2025-07-02 16:41"
         }
     ]
 }
