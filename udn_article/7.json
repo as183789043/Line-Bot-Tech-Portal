@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/03/2/32452111.jpg&s=Y&x=0&y=108&sw=1278&sh=852&exp=3600&w=300",
+            "title": "美律董座申報轉讓市值達1.72億元 持股降至1016張",
+            "link": "https://udn.com//news/story/7253/8848914?from=udn-catebreaknews_ch2",
+            "time": "2025-07-03 19:40"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/03/realtime/32451762.jpg&s=Y&x=71&y=0&sw=1497&sh=998&exp=3600&w=300",
             "title": "台塑四公司信評遭降 中華信評調降展望負向",
             "link": "https://udn.com//news/story/7252/8848829?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "精測6月營收4.09億元寫今年新高 年增48.5%",
             "link": "https://udn.com//news/story/7254/8848707?from=udn-catebreaknews_ch2",
             "time": "2025-07-03 17:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/21/2/32342799.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "外資買超293億！轉買拚填息鴻海1.3萬張 大買這檔高息ETF",
-            "link": "https://udn.com//news/story/7251/8848669?from=udn-catebreaknews_ch2",
-            "time": "2025-07-03 17:39"
         }
     ]
 }
