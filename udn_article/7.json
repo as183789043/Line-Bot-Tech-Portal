@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/04/1/32453299.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台幣強升 大摩調降台積電明年EPS預測",
+            "link": "https://udn.com//news/story/7251/8849264?from=udn-catebreaknews_ch2",
+            "time": "2025-07-04 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/03/2/32452692.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "台指期夜盤再度寫下波段新高22,788點 多方氣勢延續",
             "link": "https://udn.com//news/story/7255/8849148?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台塑四公司信評遭降 中華信評調降展望負向",
             "link": "https://udn.com//news/story/7252/8848829?from=udn-catebreaknews_ch2",
             "time": "2025-07-03 18:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/05/2/31786943.jpg&s=Y&x=60&y=296&sw=464&sh=309&exp=3600&w=300",
-            "title": "股王信驊AI伺服器需求暢旺！三大成長動能有利營運 股價創歷史新高",
-            "link": "https://udn.com//news/story/7254/8848764?from=udn-catebreaknews_ch2",
-            "time": "2025-07-03 18:17"
         }
     ]
 }
