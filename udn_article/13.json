@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/04/0/32455297.jpg&s=Y&x=260&y=0&sw=1020&sh=680&exp=3600&w=300",
+            "title": "一場百貨業低潮下的轉型實驗 遠東SOGO攜手承億開飯店2突破",
+            "link": "https://udn.com//news/story/6837/8849632?from=udn-catebreaknews_ch2",
+            "time": "2025-07-04 08:15"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/04/0/32455315.jpg&s=Y&x=192&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "串起一群自學者，創生成式AI年會 不善社交、沒資源的他怎做到？",
+            "link": "https://udn.com//news/story/6837/8849640?from=udn-catebreaknews_ch2",
+            "time": "2025-07-04 08:02"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/30/draft/32413606.jpg&s=Y&x=0&y=6&sw=800&sh=532&exp=3600&w=300",
             "title": "備份是幻覺 重生才是選擇！",
             "link": "https://udn.com//news/story/6853/8840659?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "全球資源版圖受到地緣政治影響重新塑造",
             "link": "https://udn.com//news/story/6853/8840616?from=udn-catebreaknews_ch2",
             "time": "2025-07-03 13:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/30/draft/32413194.jpg&s=Y&x=126&y=0&sw=549&sh=366&exp=3600&w=300",
-            "title": "新世代礦產金屬資源爭奪戰",
-            "link": "https://udn.com//news/story/6853/8840597?from=udn-catebreaknews_ch2",
-            "time": "2025-07-03 13:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/30/draft/32413190.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
-            "title": "｢百萬神知識」串聯宮廟及各宗教 台北車站八月中旬登場搶百萬獎金",
-            "link": "https://udn.com//news/story/6853/8840593?from=udn-catebreaknews_ch2",
-            "time": "2025-07-03 13:55"
         }
     ]
 }
