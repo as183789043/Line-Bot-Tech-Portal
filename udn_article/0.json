@@ -1,6 +1,12 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/07/realtime/32478557.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "颱風吹倒嘉義滿街路樹 民眾繞不出受困1小時怨像拍鬼片",
+            "link": "https://udn.com//news/story/7326/8854860?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-07-07 03:55"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/07/realtime/32478333.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
             "title": "台南一夜狂風暴雨…農場樹折花倒 兩小雞堅守圍籬挺過風雨",
             "link": "https://udn.com//news/story/7326/8854854?from=udn-ch1_breaknews-1-0-news",
@@ -23,12 +29,6 @@
             "title": "影／高鐵台南段不只一部列車卡在軌道上 網：第一次看到高鐵關燈",
             "link": "https://udn.com//news/story/7266/8854840?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-07-07 01:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/07/realtime/32478049.jpg&s=Y&x=0&y=8&sw=1278&sh=852&exp=3600&w=300",
-            "title": "中颱丹娜絲深夜嘉縣布袋登陸 狂風暴雨嘉義如進入瘋狂搖滾區",
-            "link": "https://udn.com//news/story/124531/8854839?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-07-07 01:19"
         }
     ]
 }
