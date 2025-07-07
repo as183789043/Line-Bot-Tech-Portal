@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/08/realtime/32490265.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "從沉默到失語：賴清德對七七抗戰的切割史盲",
+            "link": "https://udn.com//news/story/6656/8857026?from=udn-catebreaknews_ch2",
+            "time": "2025-07-08 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/08/realtime/32489902.jpg&s=Y&x=0&y=0&sw=2830&sh=1887&exp=3600&w=300",
             "title": "府院未紀念七七事變 藍轟賴總統扭曲歷史",
             "link": "https://udn.com//news/story/6656/8856986?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "陽光行動／遊蕩犬零撲殺 收容所變死牢",
             "link": "https://udn.com//news/story/124535/8856948?from=udn-catebreaknews_ch2",
             "time": "2025-07-08 00:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/07/realtime/32489331.jpg&s=Y&x=46&y=0&sw=1419&sh=947&exp=3600&w=300",
-            "title": "陽光行動／遊蕩犬管理失能 殺石虎、害死人",
-            "link": "https://udn.com//news/story/124535/8856912?from=udn-catebreaknews_ch2",
-            "time": "2025-07-08 00:04"
         }
     ]
 }

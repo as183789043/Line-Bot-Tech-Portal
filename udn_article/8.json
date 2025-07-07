@@ -1,6 +1,24 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/08/realtime/32493274.jpg&s=Y&x=0&y=15&sw=1512&sh=1008&exp=3600&w=300",
+            "title": "6月台灣氣候重點回顧 氣溫偏暖、雨量偏少",
+            "link": "https://udn.com//news/story/7266/8857087?from=udn-catebreaknews_ch2",
+            "time": "2025-07-08 05:54"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/07/1/32489307.png&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
+            "title": "丹娜絲颱風重創雲嘉南 圖解罕見路徑造成哪些農損",
+            "link": "https://udn.com//news/story/124531/8856910?from=udn-catebreaknews_ch2",
+            "time": "2025-07-08 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/08/realtime/32493166.jpg&s=Y&x=0&y=28&sw=3500&sh=2332&exp=3600&w=300",
+            "title": "大雷雨轟南高屏 低壓帶影響至周五水氣多 今悶熱飆35度高溫",
+            "link": "https://udn.com//news/story/7266/8857084?from=udn-catebreaknews_ch2",
+            "time": "2025-07-08 05:41"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/08/realtime/32492433.png&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
             "title": "13縣市有感！花蓮秀林凌晨3:57規模4.9地震 最大震度4級",
             "link": "https://udn.com//news/story/7266/8857064?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "BLACKPINK代言ASAHI SUPER DRY！聯名啤酒、限定周邊上市時程看這裡",
             "link": "https://udn.com//news/story/7270/8857035?from=udn-catebreaknews_ch2",
             "time": "2025-07-08 01:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/07/realtime/32489704.jpg&s=Y&x=0&y=308&sw=1700&sh=1133&exp=3600&w=300",
-            "title": "健康你我他／接納失智母親 每次都是第一次",
-            "link": "https://udn.com//news/story/7266/8856974?from=udn-catebreaknews_ch2",
-            "time": "2025-07-08 00:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_1.jpg&w=300",
-            "title": "潛伏結核感染 用藥28天強化保護力",
-            "link": "https://udn.com//news/story/7266/8856972?from=udn-catebreaknews_ch2",
-            "time": "2025-07-08 00:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/07/realtime/32489656.jpg&s=Y&x=0&y=10&sw=1417&sh=944&exp=3600&w=300",
-            "title": "飲食習慣不改 瘦瘦針恐愈打愈沒效",
-            "link": "https://udn.com//news/story/7266/8856971?from=udn-catebreaknews_ch2",
-            "time": "2025-07-08 00:55"
         }
     ]
 }
