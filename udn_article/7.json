@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/07/realtime/32489060.jpg&s=Y&x=0&y=0&sw=5467&sh=3560&exp=3600&w=300",
+            "title": "市場卡「關」…台股跌 台幣貶回29元",
+            "link": "https://udn.com//news/story/7251/8856770?from=udn-catebreaknews_ch2",
+            "time": "2025-07-07 23:34"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/14/0/31857111.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "台指期日盤、夜盤不同調 夜盤率先反彈",
             "link": "https://udn.com//news/story/7255/8856664?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "耐特7月15日登錄興櫃 繼半導體後預定8月取得航太認證",
             "link": "https://udn.com//news/story/7254/8856365?from=udn-catebreaknews_ch2",
             "time": "2025-07-07 18:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/25/2/32369943.jpg&s=Y&x=280&y=104&sw=1000&sh=667&exp=3600&w=300",
-            "title": "AI 爆發！鴻海旗下工業富聯上半年與第二季獲利 均創同期新高",
-            "link": "https://udn.com//news/story/7253/8856332?from=udn-catebreaknews_ch2",
-            "time": "2025-07-07 17:41"
         }
     ]
 }
