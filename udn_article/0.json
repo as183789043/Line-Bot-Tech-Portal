@@ -1,6 +1,18 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/08/realtime/32491624.jpg&s=Y&x=0&y=0&sw=708&sh=471&exp=3600&w=300",
+            "title": "川普再公布5國關稅 最高40%！還沒有台灣",
+            "link": "https://udn.com//news/story/124373/8857050?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-07-08 03:05"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/08/realtime/32491445.jpg&s=Y&x=0&y=0&sw=7678&sh=5121&exp=3600&w=300",
+            "title": "德州洪災攀至91死 白宮：川普擬本周五訪問災區",
+            "link": "https://udn.com//news/story/6813/8857046?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-07-08 02:47"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/08/realtime/32490993.jpg&s=Y&x=0&y=0&sw=4831&sh=3222&exp=3600&w=300",
             "title": "美關稅寬限期將到期？白宮：川普計畫延長至8月1日",
             "link": "https://udn.com//news/story/124373/8857038?from=udn-ch1_breaknews-1-0-news",
@@ -17,18 +29,6 @@
             "title": "行政院災防辦科長仲介密醫打鳳凰拉皮 檢諭令20萬交保",
             "link": "https://udn.com//news/story/7321/8857033?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-07-08 01:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/08/realtime/32490514.jpg&s=Y&x=0&y=11&sw=891&sh=594&exp=3600&w=300",
-            "title": "川普：對日韓商品課徵25%關稅 日韓若報復將再提高稅率",
-            "link": "https://udn.com//news/story/124373/8857030?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-07-08 01:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/08/realtime/32490303.jpg&s=Y&x=0&y=11&sw=888&sh=592&exp=3600&w=300",
-            "title": "美國關稅通知函發出 開徵日韓25%關稅",
-            "link": "https://udn.com//news/story/124373/8857022?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-07-08 00:46"
         }
     ]
 }
