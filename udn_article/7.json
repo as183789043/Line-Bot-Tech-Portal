@@ -1,10 +1,22 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/08/realtime/32504702.jpg&s=Y&x=0&y=8&sw=1179&sh=786&exp=3600&w=300",
+            "title": "英業達營收／6月632.7億元、年增24.2% 登全年高點",
+            "link": "https://udn.com//news/story/7253/8858991?from=udn-catebreaknews_ch2",
+            "time": "2025-07-08 19:02"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/08/realtime/32503388.jpg&s=Y&x=0&y=100&sw=1427&sh=951&exp=3600&w=300",
             "title": "中美晶上半年營收創歷年同期第二高 環球晶則為歷年同期第三高",
             "link": "https://udn.com//news/story/7254/8858803?from=udn-catebreaknews_ch2",
             "time": "2025-07-08 17:36"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/08/2/32504586.jpg&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
+            "title": "新興市場股票型基金半年績效搶眼 最強漲逾20%、狠甩台股一大截",
+            "link": "https://udn.com//news/story/7255/8858788?from=udn-catebreaknews_ch2",
+            "time": "2025-07-08 17:31"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/08/2/32503385.jpg&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
@@ -17,18 +29,6 @@
             "title": "資金重心轉向ASIC！大和資本點名11台廠出列 「這檔」評級優於大盤",
             "link": "https://udn.com//news/story/7251/8858698?from=udn-catebreaknews_ch2",
             "time": "2025-07-08 16:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/08/realtime/32502646.jpg&s=Y&x=0&y=336&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "汎銓營收／6月1.87億元、與第2季同創新高 挾技術領先地位赴美",
-            "link": "https://udn.com//news/story/7253/8858675?from=udn-catebreaknews_ch2",
-            "time": "2025-07-08 16:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/07/03/2/22990084.jpg&s=Y&x=0&y=0&sw=440&sh=293&exp=3600&w=300",
-            "title": "貨櫃三雄除息壓軸登場！陽明9日將除息 外資大賣逾萬張",
-            "link": "https://udn.com//news/story/7251/8858617?from=udn-catebreaknews_ch2",
-            "time": "2025-07-08 16:27"
         }
     ]
 }
