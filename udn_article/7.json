@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/10/realtime/32542108.jpg&s=Y&x=0&y=42&sw=5712&sh=3808&exp=3600&w=300",
+            "title": "聯發科6月營收寫33個月來新高 月增24.9%",
+            "link": "https://udn.com//news/story/7253/8864261?from=udn-catebreaknews_ch2",
+            "time": "2025-07-10 18:12"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/10/realtime/32542048.jpg&s=Y&x=0&y=8&sw=1179&sh=786&exp=3600&w=300",
+            "title": "英業達除息秀來了 每股配發1.7元、葉家父子檔合領近5億元股息",
+            "link": "https://udn.com//news/story/7253/8864249?from=udn-catebreaknews_ch2",
+            "time": "2025-07-10 18:09"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/10/realtime/32541718.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
             "title": "AI驗證訂單湧入！宜特6月合併營收4.33億元 創單月新高",
             "link": "https://udn.com//news/story/7254/8864213?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "華航營收／上半年1,040億元、年增逾5% 創歷年高峰",
             "link": "https://udn.com//news/story/7252/8864159?from=udn-catebreaknews_ch2",
             "time": "2025-07-10 17:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/10/2/32541431.jpg&s=Y&x=28&y=0&sw=1075&sh=717&exp=3600&w=300",
-            "title": "聯發科營收／6月564億元、創近21個月新高 第2季表現符合預期",
-            "link": "https://udn.com//news/story/7253/8864108?from=udn-catebreaknews_ch2",
-            "time": "2025-07-10 17:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/10/2/32541287.jpg&s=Y&x=100&y=0&sw=1145&sh=763&exp=3600&w=300",
-            "title": "台積電17日法說會前 「這家外資」率先調升目標價",
-            "link": "https://udn.com//news/story/7251/8864077?from=udn-catebreaknews_ch2",
-            "time": "2025-07-10 17:19"
         }
     ]
 }
