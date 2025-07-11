@@ -1,6 +1,12 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/12/98/32560605.png&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "1時35分花蓮秀林發生規模4地震 最大震度花蓮、南投3級",
+            "link": "https://udn.com//news/story/7266/8867298?from=udn-catebreaknews_ch2",
+            "time": "2025-07-12 02:04"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/10/realtime/32539820.jpg&s=Y&x=0&y=48&sw=1001&sh=667&exp=3600&w=300",
             "title": "【書評‧人文】陳姵穎／汗滴寫下的梵唱",
             "link": "https://udn.com//news/story/7272/8863799?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "【書評‧散文】夏樹／可喜可賀 人生的小金魚",
             "link": "https://udn.com//news/story/7272/8863802?from=udn-catebreaknews_ch2",
             "time": "2025-07-12 00:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_2.jpg&w=300",
-            "title": "非聽不可",
-            "link": "https://udn.com//news/story/7266/8867229?from=udn-catebreaknews_ch2",
-            "time": "2025-07-12 00:23"
         }
     ]
 }
