@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/12/1/32559398.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "台股下周面臨3大事 外資看好 ",
+            "link": "https://udn.com//news/story/7251/8867141?from=udn-catebreaknews_ch2",
+            "time": "2025-07-12 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/08/2/32506524.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "川普再掀關稅戰火 空頭狙擊台指期夜盤",
             "link": "https://udn.com//news/story/7255/8866948?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "新新併金完美收官飆新高！台新金配息率5％創高 這10檔ETF搶先卡位",
             "link": "https://udn.com//news/story/123006/8866639?from=udn-catebreaknews_ch2",
             "time": "2025-07-11 17:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/11/2/32553987.jpg&s=Y&x=0&y=0&sw=1253&sh=835&exp=3600&w=300",
-            "title": "新光金合併下市前爆百萬張成交量 外資及投信同步賣超、但自營商大買",
-            "link": "https://udn.com//news/story/7251/8866636?from=udn-catebreaknews_ch2",
-            "time": "2025-07-11 17:53"
         }
     ]
 }
