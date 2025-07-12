@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/13/realtime/32571907.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "【總編開箱】賴政府對台美談判的微妙轉變 難道怕掀牌影響大罷免",
+            "link": "https://udn.com//news/story/6656/8868723?from=udn-catebreaknews_ch2",
+            "time": "2025-07-13 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/12/realtime/32571109.jpg&s=Y&x=0&y=180&sw=944&sh=629&exp=3600&w=300",
             "title": "台美8月1日前完成關稅協議 副閣揆鄭麗君：談判進入關鍵階段",
             "link": "https://udn.com//news/story/124438/8868593?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "美參院軍委會通過 美台2026共製無人載具",
             "link": "https://udn.com//news/story/10930/8868693?from=udn-catebreaknews_ch2",
             "time": "2025-07-13 00:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/12/realtime/32571472.jpg&s=Y&x=0&y=0&sw=2126&sh=1417&exp=3600&w=300",
-            "title": "對等關稅預計8月1日上路 鄭麗君：雙方致力期限前決定稅率",
-            "link": "https://udn.com//news/story/124438/8868695?from=udn-catebreaknews_ch2",
-            "time": "2025-07-13 00:21"
         }
     ]
 }
