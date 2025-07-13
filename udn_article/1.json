@@ -1,10 +1,22 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/14/realtime/32579470.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "【總編開箱】任災民過7天沒電日子 賴政府顧人命還是顧政權",
+            "link": "https://udn.com//news/story/6656/8870148?from=udn-catebreaknews_ch2",
+            "time": "2025-07-14 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/14/realtime/32579787.jpg&s=Y&x=0&y=0&sw=3648&sh=2432&exp=3600&w=300",
             "title": "午夜憲兵出沒台北市區 演練運用捷運線路行城鎮戰",
             "link": "https://udn.com//news/story/10930/8870182?from=udn-catebreaknews_ch2",
             "time": "2025-07-14 04:59"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/11/2/32546324.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "紐時：美台即便談成協議 仍可能留下兩個伏筆",
+            "link": "https://udn.com//news/story/124438/8869948?from=udn-catebreaknews_ch2",
+            "time": "2025-07-14 02:18"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/14/1/32579428.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
@@ -17,18 +29,6 @@
             "title": "大罷免牽動立院席次…藍白整軍力抗 綠圖謀一黨獨大",
             "link": "https://udn.com//news/story/124323/8870084?from=udn-catebreaknews_ch2",
             "time": "2025-07-14 00:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/13/realtime/32575450.jpg&s=Y&x=96&y=0&sw=852&sh=568&exp=3600&w=300",
-            "title": "現場直擊／民主要制衡 仇恨式罷免休矣",
-            "link": "https://udn.com//news/story/124323/8870085?from=udn-catebreaknews_ch2",
-            "time": "2025-07-14 00:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/13/realtime/32577368.jpg&s=Y&x=0&y=0&sw=3569&sh=2379&exp=3600&w=300",
-            "title": "2026期中考 藍綠因大罷免提前上考場",
-            "link": "https://udn.com//news/story/124323/8870087?from=udn-catebreaknews_ch2",
-            "time": "2025-07-14 00:09"
         }
     ]
 }
