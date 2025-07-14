@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/01/2/32426322.jpg&s=Y&x=40&y=0&sw=1199&sh=799&exp=3600&w=300",
+            "title": "00933B、00725B 7月16日除息 年化配息率超過6.6%",
+            "link": "https://udn.com//news/story/123006/8871331?from=udn-catebreaknews_ch2",
+            "time": "2025-07-14 15:14"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/14/0/32582385.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "「0056不夠用？」00919配息入帳…真星華：國際大廠00924新同學登場！",
             "link": "https://udn.com//news/story/123006/8871057?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股盤中跌逾170點 AI熄火、觀光內需股撐盤",
             "link": "https://udn.com//news/story/7251/8870934?from=udn-catebreaknews_ch2",
             "time": "2025-07-14 12:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/14/2/32582264.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "電力太重要！重電四雄力穩高檔 華城漲逾6%帶動大量躍成交值前三",
-            "link": "https://udn.com//news/story/7251/8870945?from=udn-catebreaknews_ch2",
-            "time": "2025-07-14 12:47"
         }
     ]
 }
