@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/14/draft/32580758.jpg&s=Y&x=0&y=0&sw=800&sh=534&exp=3600&w=300",
+            "title": "高溫引發熱焦慮 專家：年輕人風險更大",
+            "link": "https://udn.com//news/story/6897/8870425?from=udn-catebreaknews_ch2",
+            "time": "2025-07-14 11:15"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/13/draft/32577867.jpg&s=Y&x=0&y=344&sw=780&sh=520&exp=3600&w=300",
             "title": "賴國弘反梁工法大面積覆土 創造建築多樣性生態",
             "link": "https://udn.com//news/story/6846/8869464?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "從金融業轉攻保健飲品 林明璇打造讓消費者安心的「芳茲」滴雞精",
             "link": "https://udn.com//news/story/6846/8869474?from=udn-catebreaknews_ch2",
             "time": "2025-07-14 08:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/12/0/32282658.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "無限遊戲：投資的永恆智慧",
-            "link": "https://udn.com//news/story/6846/8869483?from=udn-catebreaknews_ch2",
-            "time": "2025-07-14 07:58"
         }
     ]
 }
