@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/15/realtime/32593597.jpg&s=Y&x=0&y=0&sw=4652&sh=3102&exp=3600&w=300",
+            "title": "傳賴總統8月出訪中南美洲友邦 白委：過境美國莫再次淪為度假行程",
+            "link": "https://udn.com//news/story/6656/8874603?from=udn-catebreaknews_ch2",
+            "time": "2025-07-15 22:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/15/realtime/32593533.jpg&s=Y&x=0&y=0&sw=2048&sh=1365&exp=3600&w=300",
+            "title": "賴總統視導漢光演習 肯定高科技偵搜力、後勤醫療系統韌性",
+            "link": "https://udn.com//news/story/124542/8874582?from=udn-catebreaknews_ch2",
+            "time": "2025-07-15 22:11"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/15/realtime/32593201.jpg&s=Y&x=0&y=17&sw=2364&sh=1576&exp=3600&w=300",
             "title": "政院稱普發一萬需舉債 劉和然：過去四年超徵1.8兆都花去哪？",
             "link": "https://udn.com//news/story/124539/8874505?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "廉政署認證新竹市府違反行政中立？民眾黨反嗆林志潔說謊如呼吸自然",
             "link": "https://udn.com//news/story/124323/8874500?from=udn-catebreaknews_ch2",
             "time": "2025-07-15 21:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/15/realtime/32593155.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "川普、習近平他都交手過 併購大師黃日燦：關稅僅是短期挑戰",
-            "link": "https://udn.com//news/story/6656/8874498?from=udn-catebreaknews_ch2",
-            "time": "2025-07-15 21:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/15/realtime/32593157.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "併購大師黃日燦從一頓飯看醫師價值 北榮院長陳威明：不成為美停醫院",
-            "link": "https://udn.com//news/story/6656/8874499?from=udn-catebreaknews_ch2",
-            "time": "2025-07-15 21:07"
         }
     ]
 }
