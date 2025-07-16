@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/08/realtime/32002684.jpg&s=Y&x=0&y=0&sw=1620&sh=1080&exp=3600&w=300",
+            "title": "聯電法說30日登場 聚焦五大看點",
+            "link": "https://udn.com//news/story/7253/8876928?from=udn-catebreaknews_ch2",
+            "time": "2025-07-16 19:31"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/12/2/32566531.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "五檔台股ETF、一檔台股指數基金換股名單一次看 7月17日起生效",
+            "link": "https://udn.com//news/story/123006/8876679?from=udn-catebreaknews_ch2",
+            "time": "2025-07-16 17:29"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/09/2/32517545.jpg&s=Y&x=0&y=0&sw=1048&sh=699&exp=3600&w=300",
             "title": "外資最愛前10檔中、這類股占4檔最多 台積電也受青睞已連六買",
             "link": "https://udn.com//news/story/7251/8876556?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "三大法人兩天買超454億元 台股登上2萬3千關、量價前5大一片漲聲",
             "link": "https://udn.com//news/story/7251/8876337?from=udn-catebreaknews_ch2",
             "time": "2025-07-16 15:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/16/realtime/32599309.jpg&s=Y&x=0&y=0&sw=2742&sh=1828&exp=3600&w=300",
-            "title": "印尼19％關稅…付出的代價也小！狄驤：好消息是台灣進口車有望降價？",
-            "link": "https://udn.com//news/story/12806/8876297?from=udn-catebreaknews_ch2",
-            "time": "2025-07-16 15:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/16/1/32597504.jpg&s=Y&x=8&y=8&sw=1257&sh=838&exp=3600&w=300",
-            "title": "川普欲推700億美元AI大建設 能源ETF迎政策黃金期",
-            "link": "https://udn.com//news/story/123006/8876301?from=udn-catebreaknews_ch2",
-            "time": "2025-07-16 15:21"
         }
     ]
 }
