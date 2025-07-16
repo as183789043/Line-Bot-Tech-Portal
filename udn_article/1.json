@@ -1,13 +1,25 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/16/1/32603890.png&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "【總編開箱】一張四格漫畫掀開賴清德願與罷團同行 未與災民同心的面具",
+            "link": "https://udn.com//news/story/6656/8877497?from=udn-catebreaknews_ch2",
+            "time": "2025-07-17 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/16/realtime/32603701.png&s=Y&x=0&y=5&sw=800&sh=532&exp=3600&w=300",
+            "title": "風災後雲嘉南復原快？圖解災損數據 這裡還有近3千戶沒屋頂",
+            "link": "https://udn.com//news/story/124545/8877412?from=udn-catebreaknews_ch2",
+            "time": "2025-07-17 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/16/realtime/32603636.jpg&s=Y&x=272&y=336&sw=3760&sh=2507&exp=3600&w=300",
             "title": "台南麻豆文旦落果飄臭 農會：持續協助清運",
             "link": "https://udn.com//news/story/124545/8877327?from=udn-catebreaknews_ch2",
             "time": "2025-07-17 02:19"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_6.jpg&w=300",
             "title": "財部嚴抓洗產地 近3月移送裁罰逾百件",
             "link": "https://udn.com//news/story/124438/8877515?from=udn-catebreaknews_ch2",
             "time": "2025-07-17 01:23"
@@ -17,18 +29,6 @@
             "title": "美媒Politico：美台關稅協議接近敲定",
             "link": "https://udn.com//news/story/124438/8877507?from=udn-catebreaknews_ch2",
             "time": "2025-07-17 01:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/17/1/32604253.jpg&s=Y&x=28&y=48&sw=1207&sh=805&exp=3600&w=300",
-            "title": "外交部次長：台美「有給、有得」 關稅還在談判中",
-            "link": "https://udn.com//news/story/124438/8877502?from=udn-catebreaknews_ch2",
-            "time": "2025-07-17 01:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/17/realtime/32604031.jpg&s=Y&x=0&y=16&sw=2021&sh=1346&exp=3600&w=300",
-            "title": "盧秀燕：台關稅若談到逾10% 重大危機",
-            "link": "https://udn.com//news/story/124438/8877496?from=udn-catebreaknews_ch2",
-            "time": "2025-07-17 01:01"
         }
     ]
 }
