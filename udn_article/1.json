@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/18/2/32613358.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "降低出口商衝擊 中經院：美若對我課25% 台幣須貶至35",
+            "link": "https://udn.com//news/story/124438/8879983?from=udn-catebreaknews_ch2",
+            "time": "2025-07-18 00:41"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/17/realtime/32613080.jpeg&s=Y&x=0&y=312&sw=749&sh=499&exp=3600&w=300",
             "title": "桃園、台中罷免戰況轉熱 藍綠互控奧步",
             "link": "https://udn.com//news/story/124323/8880035?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台電員工搶修復電 剩嘉縣沿海338戶",
             "link": "https://udn.com//news/story/124545/8879994?from=udn-catebreaknews_ch2",
             "time": "2025-07-18 00:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/18/1/32613233.jpg&s=Y&x=0&y=108&sw=1278&sh=852&exp=3600&w=300",
-            "title": "2老自力救濟修屋摔死 義工爬到都怕了",
-            "link": "https://udn.com//news/story/124545/8879984?from=udn-catebreaknews_ch2",
-            "time": "2025-07-18 00:09"
         }
     ]
 }
