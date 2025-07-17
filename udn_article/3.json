@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/07/18/32614022.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "經濟數據和企業財報提振 史指那指再創新高",
+            "link": "https://udn.com//news/story/6811/8880171?from=udn-catebreaknews_ch2",
+            "time": "2025-07-18 05:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/08/98/32497329.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "美政策調整 盧比歐要求國務院停止評論他國選舉",
+            "link": "https://udn.com//news/story/6813/8880160?from=udn-catebreaknews_ch2",
+            "time": "2025-07-18 04:37"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/15/98/32586993.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "澤倫斯基：烏克蘭擬售無人機換向美軍購 與川普協商中",
             "link": "https://udn.com//news/story/122663/8880137?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "川普：近期不會開除鮑爾",
             "link": "https://udn.com//news/story/6813/8879940?from=udn-catebreaknews_ch2",
             "time": "2025-07-18 02:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
-            "title": "日本6月出口連二月衰退",
-            "link": "https://udn.com//news/story/6811/8879944?from=udn-catebreaknews_ch2",
-            "time": "2025-07-18 02:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
-            "title": "阿聯買輝達AI晶片 卡關",
-            "link": "https://udn.com//news/story/6811/8879942?from=udn-catebreaknews_ch2",
-            "time": "2025-07-18 02:53"
         }
     ]
 }
