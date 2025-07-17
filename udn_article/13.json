@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/17/draft/32609254.jpg&s=Y&x=0&y=0&sw=700&sh=466&exp=3600&w=300",
+            "title": "專欄／陳瑞杰：醫療照護現場的智慧改造",
+            "link": "https://udn.com//news/story/6905/8878798?from=udn-catebreaknews_ch2",
+            "time": "2025-07-17 14:37"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/17/draft/32607386.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
             "title": "2柰米神助攻 材料、設備、封裝最賺",
             "link": "https://udn.com//news/story/6851/8878146?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "ETF除息潮 搶搭配息列車",
             "link": "https://udn.com//news/story/6851/8878179?from=udn-catebreaknews_ch2",
             "time": "2025-07-17 12:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/17/draft/32607491.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "歐洲軍火工業城欣欣向榮",
-            "link": "https://udn.com//news/story/6851/8878181?from=udn-catebreaknews_ch2",
-            "time": "2025-07-17 12:11"
         }
     ]
 }
