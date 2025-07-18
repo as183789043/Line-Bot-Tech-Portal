@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/12/realtime/31846269.jpg&s=Y&x=0&y=0&sw=5254&sh=3502&exp=3600&w=300",
+            "title": "台股本週上漲632點 上市公司總市值衝破75兆元",
+            "link": "https://udn.com//news/story/7251/8881764?from=udn-catebreaknews_ch2",
+            "time": "2025-07-18 18:08"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/01/0/31960725.jpg&s=Y&x=44&y=0&sw=1087&sh=725&exp=3600&w=300",
+            "title": "外資買超309億元 這檔ETF最受青睞、台積電也獲外資買超1.9萬張",
+            "link": "https://udn.com//news/story/7251/8881755?from=udn-catebreaknews_ch2",
+            "time": "2025-07-18 17:49"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/18/0/32619509.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "00982B首配息創佳績 年化6.8％兩日「火速填息」",
             "link": "https://udn.com//news/story/123006/8881503?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台積電追平新高價 主動操作的00981A 漲贏槓桿ETF",
             "link": "https://udn.com//news/story/123006/8881416?from=udn-catebreaknews_ch2",
             "time": "2025-07-18 15:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/16/realtime/32596130.jpg&s=Y&x=184&y=0&sw=2832&sh=1889&exp=3600&w=300",
-            "title": "00959B配息0.44！今年估2次降息 債市雖震盪專家仍看好：現在加碼好時機",
-            "link": "https://udn.com//news/story/123006/8881415?from=udn-catebreaknews_ch2",
-            "time": "2025-07-18 15:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/16/1/32594313.jpg&s=Y&x=0&y=0&sw=1266&sh=844&exp=3600&w=300",
-            "title": "國安基金沒退場...關稅「陰謀論」？專家：作用是穩定而非領先、1時間是買點",
-            "link": "https://udn.com//news/story/7251/8881409?from=udn-catebreaknews_ch2",
-            "time": "2025-07-18 15:28"
         }
     ]
 }
