@@ -1,8 +1,14 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/18/realtime/32621018.jpg&s=Y&x=0&y=0&sw=2048&sh=1365&exp=3600&w=300",
+            "title": "國內政治因對岸干涉更激烈 蕭美琴：對社會團結造成壓力",
+            "link": "https://udn.com//news/story/6656/8881825?from=udn-catebreaknews_ch2",
+            "time": "2025-07-18 18:21"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/18/realtime/32620952.jpg&s=Y&x=0&y=0&sw=2048&sh=1365&exp=3600&w=300",
-            "title": "談兩岸政策  蕭美琴：捍衛穩定現狀符合區域利益",
+            "title": "談兩岸政策 蕭美琴：捍衛穩定現狀符合區域利益",
             "link": "https://udn.com//news/story/6656/8881807?from=udn-catebreaknews_ch2",
             "time": "2025-07-18 18:12"
         },
@@ -23,12 +29,6 @@
             "title": "川普對等關稅尚未揭曉 蕭美琴：談判團隊日以繼夜爭取互惠協議",
             "link": "https://udn.com//news/story/124438/8881802?from=udn-catebreaknews_ch2",
             "time": "2025-07-18 18:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/18/realtime/32620877.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "風災過後…屏東三地門達來吊橋年久失修待重建 經費粗估1億元",
-            "link": "https://udn.com//news/story/124545/8881787?from=udn-catebreaknews_ch2",
-            "time": "2025-07-18 18:03"
         }
     ]
 }
