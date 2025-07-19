@@ -1,6 +1,12 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/20/realtime/32341401.jpg&s=Y&x=0&y=0&sw=1000&sh=667&exp=3600&w=300",
+            "title": "薇帕颱風影響 明天南航、台虎航班取消或延後",
+            "link": "https://udn.com//news/story/124531/8883675?from=udn-catebreaknews_ch2",
+            "time": "2025-07-19 21:28"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/19/98/32634228.jpg&s=Y&x=56&y=0&sw=1068&sh=712&exp=3600&w=300",
             "title": "薇帕颱風環流影響 馬祖島際海運多班異動",
             "link": "https://udn.com//news/story/124531/8883631?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台南旭集甫開幕疑爆食物中毒！多人腹瀉送醫 市府要查了",
             "link": "https://udn.com//news/story/7266/8883549?from=udn-catebreaknews_ch2",
             "time": "2025-07-19 20:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/19/98/32633629.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "颱風薇帕威力仍在…氣象署晚間持續發布豪雨特報 降雨熱區曝光",
-            "link": "https://udn.com//news/story/7266/8883526?from=udn-catebreaknews_ch2",
-            "time": "2025-07-19 19:45"
         }
     ]
 }
