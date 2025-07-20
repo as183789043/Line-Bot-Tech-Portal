@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/20/2/32641453.jpg&s=Y&x=0&y=0&sw=629&sh=419&exp=3600&w=300",
+            "title": "台積電法說亮眼股價創新高 台股挑戰2月前高23,732點",
+            "link": "https://udn.com//news/story/7251/8884437?from=udn-catebreaknews_ch2",
+            "time": "2025-07-20 12:31"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/09/2/32517545.jpg&s=Y&x=0&y=0&sw=1048&sh=699&exp=3600&w=300",
             "title": "市值兆元俱樂部 衝上八檔…台達電今年來增逾2,000億受矚目",
             "link": "https://udn.com//news/story/7251/8883830?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2025-07-20 01:42"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
             "title": "外資加碼百億元股 聚光",
             "link": "https://udn.com//news/story/7251/8883825?from=udn-catebreaknews_ch2",
             "time": "2025-07-20 01:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/18/realtime/32614566.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
-            "title": "只降美國車關稅惹議！網憂「市場大亂」：小心歐盟反制課稅",
-            "link": "https://udn.com//news/story/12806/8881547?from=udn-catebreaknews_ch2",
-            "time": "2025-07-19 17:25"
         }
     ]
 }
