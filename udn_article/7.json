@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/21/2/32649299.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股下跌42點收23,340點 台積電下挫5元收1,150元",
+            "link": "https://udn.com//news/story/7251/8886343?from=udn-catebreaknews_ch2",
+            "time": "2025-07-21 13:47"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/21/0/32649124.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "00918配息率恐下降？阿格力：上半年配2次0.7元「已經」是調整過的！",
+            "link": "https://udn.com//news/story/123006/8886266?from=udn-catebreaknews_ch2",
+            "time": "2025-07-21 13:34"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/21/2/32649347.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "魏哲家點名人形機器人潛力 市場熱烈回應概念股連日強攻",
+            "link": "https://udn.com//news/story/7251/8886290?from=udn-catebreaknews_ch2",
+            "time": "2025-07-21 13:27"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/21/2/32648933.jpg&s=Y&x=0&y=0&sw=1265&sh=843&exp=3600&w=300",
             "title": "台積電籌組無人機隊 中光電上漲表態、世紀也大漲",
             "link": "https://udn.com//news/story/7251/8886232?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "0050還006208…長期20年定期定額？兩者差距其實不大",
             "link": "https://udn.com//news/story/123006/8886215?from=udn-catebreaknews_ch2",
             "time": "2025-07-21 13:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/21/0/32648764.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "新手ETF選擇大哉問！0050還是0056…一面倒推這檔",
-            "link": "https://udn.com//news/story/123006/8886194?from=udn-catebreaknews_ch2",
-            "time": "2025-07-21 12:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/21/0/32648723.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "趙少康爆料「台灣關稅32％」先於川普？眾人不賞臉：真假都不信",
-            "link": "https://udn.com//news/story/12806/8886178?from=udn-catebreaknews_ch2",
-            "time": "2025-07-21 12:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/21/realtime/32648182.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
-            "title": "MSCI 股票指數的全球 ETF資產規模突破2兆美元",
-            "link": "https://udn.com//news/story/123006/8886054?from=udn-catebreaknews_ch2",
-            "time": "2025-07-21 11:54"
         }
     ]
 }
