@@ -1,8 +1,14 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/22/2/32663600.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股重挫352點失守23000點 聯發科逆勢收紅、擠下鴻海奪回市值第二大",
+            "link": "https://udn.com//news/story/7251/8888829?from=udn-catebreaknews_ch2",
+            "time": "2025-07-22 15:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/22/0/32663106.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "「這五檔ETF」今年有機會衝高配息！股添樂：00918表現突出連4次配息皆超過12％",
+            "title": "「這五檔ETF」今年有機會衝高配息！股添樂曝光：需要符合這兩大條件",
             "link": "https://udn.com//news/story/123006/8888685?from=udn-catebreaknews_ch2",
             "time": "2025-07-22 14:26"
         },
@@ -23,12 +29,6 @@
             "title": "台股下跌352點收22,987點 台積電下跌20元收1130元",
             "link": "https://udn.com//news/story/7251/8888652?from=udn-catebreaknews_ch2",
             "time": "2025-07-22 13:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/22/0/32662584.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "台股早盤創高翻黑下殺超過300點！郭哲榮：短線利空測試…回檔反而是機會",
-            "link": "https://udn.com//news/story/12806/8888600?from=udn-catebreaknews_ch2",
-            "time": "2025-07-22 13:42"
         }
     ]
 }
