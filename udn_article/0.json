@@ -1,6 +1,24 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/22/0/32671710.jpg&s=Y&x=0&y=0&sw=794&sh=529&exp=3600&w=300",
+            "title": "德國企業受微軟安全漏洞影響 媒體：一名黑客可追溯到中國",
+            "link": "https://udn.com//news/story/6811/8889873?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-07-23 05:12"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/23/realtime/32671678.jpg&s=Y&x=0&y=9&sw=862&sh=574&exp=3600&w=300",
+            "title": "新店凌晨工廠火警 火光衝天 大批消防人車搶救",
+            "link": "https://udn.com//news/story/7320/8890154?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-07-23 05:07"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/07/23/32671563.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "成敗繫於財報 美股史指再創新高 科技股拖累那指",
+            "link": "https://udn.com//news/story/6811/8890151?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-07-23 05:02"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/23/realtime/32670550.jpg&s=Y&x=0&y=0&sw=4132&sh=2755&exp=3600&w=300",
             "title": "世大運／頂春麗頭拚鉛球決賽 江靜緣初體驗獲第6",
             "link": "https://udn.com//news/story/7005/8890126?from=udn-ch1_breaknews-1-0-news",
@@ -9,26 +27,8 @@
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/23/realtime/32670352.jpg&s=Y&x=0&y=0&sw=2522&sh=1681&exp=3600&w=300",
             "title": "高於「解放日」關稅！川普：美菲達成協議 課19%關稅",
-            "link": "https://udn.com//news/story/6813/8890120?from=udn-ch1_breaknews-1-0-news",
+            "link": "https://udn.com//news/story/124373/8890120?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-07-23 02:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/23/realtime/32669934.jpg&s=Y&x=0&y=0&sw=4197&sh=2799&exp=3600&w=300",
-            "title": "美國與菲律賓達成貿易協議？川普：非常接近",
-            "link": "https://udn.com//news/story/6813/8890108?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-07-23 01:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/23/realtime/32669927.jpg&s=Y&x=0&y=0&sw=3685&sh=2457&exp=3600&w=300",
-            "title": "普亭不排除9月在北京會面 川普：擬不久的將來訪中",
-            "link": "https://udn.com//news/story/6813/8890107?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-07-23 01:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/23/realtime/32669401.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
-            "title": "明年起乳牛死亡保險強制納保 農業部補助一半保費",
-            "link": "https://udn.com//news/story/7266/8890090?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-07-23 00:10"
         }
     ]
 }

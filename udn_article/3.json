@@ -1,13 +1,25 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/22/0/32671710.jpg&s=Y&x=0&y=0&sw=794&sh=529&exp=3600&w=300",
+            "title": "德國企業受微軟安全漏洞影響 媒體：一名黑客可追溯到中國",
+            "link": "https://udn.com//news/story/6811/8889873?from=udn-catebreaknews_ch2",
+            "time": "2025-07-23 05:12"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/07/23/32671563.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "成敗繫於財報 美股史指再創新高 科技股拖累那指",
+            "link": "https://udn.com//news/story/6811/8890151?from=udn-catebreaknews_ch2",
+            "time": "2025-07-23 05:02"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
             "title": "歐、亞、中東 仍有AI大商機",
             "link": "https://udn.com//news/story/6811/8889943?from=udn-catebreaknews_ch2",
             "time": "2025-07-23 03:13"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
             "title": "加密幣當擔保品 小摩點頭",
             "link": "https://udn.com//news/story/6811/8889920?from=udn-catebreaknews_ch2",
             "time": "2025-07-23 02:40"
@@ -17,18 +29,6 @@
             "title": "通用第2季獲利 減逾三成",
             "link": "https://udn.com//news/story/6811/8889923?from=udn-catebreaknews_ch2",
             "time": "2025-07-23 02:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
-            "title": "泰國新央行總裁 偏鴿派",
-            "link": "https://udn.com//news/story/6811/8889926?from=udn-catebreaknews_ch2",
-            "time": "2025-07-23 02:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/23/2/32670461.png&s=Y&x=30&y=0&sw=867&sh=578&exp=3600&w=300",
-            "title": "美核融合新創Marathon Fusion 要點汞成金",
-            "link": "https://udn.com//news/story/6811/8889895?from=udn-catebreaknews_ch2",
-            "time": "2025-07-23 02:33"
         }
     ]
 }
