@@ -1,6 +1,12 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/23/realtime/32683220.jpg&s=Y&x=48&y=0&sw=1311&sh=874&exp=3600&w=300",
+            "title": "台鐵四腳亭=瑞芳民眾闖入遭新自強號撞擊 目前西線單線雙向行車",
+            "link": "https://udn.com//news/story/7266/8892290?from=udn-catebreaknews_ch2",
+            "time": "2025-07-23 22:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/23/realtime/32682653.png&s=Y&x=0&y=12&sw=1164&sh=776&exp=3600&w=300",
             "title": "雙颱共舞！竹節草颱風今晚生成 大罷免投票日影響機率曝光",
             "link": "https://udn.com//news/story/7266/8892200?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "新竹男打嗝停不下來查不出病因 竟是「胃上噯氣」作祟",
             "link": "https://udn.com//news/story/7266/8892074?from=udn-catebreaknews_ch2",
             "time": "2025-07-23 20:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/23/realtime/32681690.jpg&s=Y&x=0&y=0&sw=4349&sh=2899&exp=3600&w=300",
-            "title": "竹節草颱風最快今晚生成 不排除726罷免投票前夕「雙颱牽引」",
-            "link": "https://udn.com//news/story/7266/8892008?from=udn-catebreaknews_ch2",
-            "time": "2025-07-23 19:55"
         }
     ]
 }
