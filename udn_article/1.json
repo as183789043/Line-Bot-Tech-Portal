@@ -1,9 +1,15 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/23/realtime/32683921.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "【總編開箱】倒數72小時 從罷團仇恨言論與黃敏惠眼淚 看誰真心愛台？",
+            "link": "https://udn.com//news/story/124323/8892528?from=udn-catebreaknews_ch2",
+            "time": "2025-07-24 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/24/realtime/32685265.jpg&s=Y&x=0&y=0&sw=799&sh=533&exp=3600&w=300",
             "title": "蔡英文未提挺罷免成功 凌濤：您有難處 懂的都懂",
-            "link": "https://udn.com//news/story/6656/8892594?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124323/8892594?from=udn-catebreaknews_ch2",
             "time": "2025-07-24 01:54"
         },
         {
@@ -19,16 +25,10 @@
             "time": "2025-07-24 00:12"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
             "title": "美台關稅 賴總統：秉持兩原則談判",
             "link": "https://udn.com//news/story/124552/8892381?from=udn-catebreaknews_ch2",
             "time": "2025-07-24 00:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/23/realtime/32679322.jpeg&s=Y&x=332&y=0&sw=3373&sh=2249&exp=3600&w=300",
-            "title": "賴總統：鄭麗君正在華府進行第4輪談判",
-            "link": "https://udn.com//news/story/124552/8892498?from=udn-catebreaknews_ch2",
-            "time": "2025-07-24 00:02"
         }
     ]
 }
