@@ -1,13 +1,19 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/24/realtime/32700524.jpg&s=Y&x=148&y=40&sw=935&sh=624&exp=3600&w=300",
+            "title": "台南、嘉義災後重建卡關 盼各界伸援手",
+            "link": "https://udn.com//news/story/124545/8894874?from=udn-catebreaknews_ch2",
+            "time": "2025-07-25 01:29"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
             "title": "徐榛蔚提告誹謗 童子賢出示賑災收據",
-            "link": "https://udn.com//news/story/6656/8894872?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124323/8894872?from=udn-catebreaknews_ch2",
             "time": "2025-07-25 00:21"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
             "title": "柯建銘嗆「不去罷免非台灣人」 在野疾呼不能讓綠專制獨裁",
             "link": "https://udn.com//news/story/124323/8894870?from=udn-catebreaknews_ch2",
             "time": "2025-07-25 00:19"
@@ -23,12 +29,6 @@
             "title": "新聞幕後／大法官人事案 在野力阻憲法法庭工具化",
             "link": "https://udn.com//news/story/6656/8894866?from=udn-catebreaknews_ch2",
             "time": "2025-07-25 00:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/25/realtime/32701298.jpg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
-            "title": "「亡國感2.0」重出江湖？他狠嗆大罷免晚會：為政治目的撕裂社會",
-            "link": "https://udn.com//news/story/124323/8895073?from=udn-catebreaknews_ch2",
-            "time": "2025-07-25 00:14"
         }
     ]
 }
