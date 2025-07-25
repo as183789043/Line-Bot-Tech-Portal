@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/25/realtime/32714616.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "沈伯洋一言論扭曲蔣萬安原話 蔣市府轟：立刻收回造謠言論",
+            "link": "https://udn.com//news/story/124323/8897153?from=udn-catebreaknews_ch2",
+            "time": "2025-07-26 06:14"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/26/1/32715227.png&s=Y&x=0&y=0&sw=799&sh=533&exp=3600&w=300",
             "title": "【總編開箱】大罷免後 台灣能迎來安心的台美關稅結果？",
             "link": "https://udn.com//news/story/124552/8897332?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2025-07-26 02:27"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
             "title": "工商界：希望關稅低於日韓",
             "link": "https://udn.com//news/story/124552/8897214?from=udn-catebreaknews_ch2",
             "time": "2025-07-26 00:33"
@@ -23,12 +29,6 @@
             "title": "中經院：台灣關稅估落在15-20%",
             "link": "https://udn.com//news/story/124552/8897215?from=udn-catebreaknews_ch2",
             "time": "2025-07-26 00:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/25/realtime/32713096.jpg&s=Y&x=0&y=116&sw=5712&sh=3808&exp=3600&w=300",
-            "title": "卓揆：限期清理受損光電板 每周驗水質",
-            "link": "https://udn.com//news/story/124545/8897094?from=udn-catebreaknews_ch2",
-            "time": "2025-07-26 00:12"
         }
     ]
 }
