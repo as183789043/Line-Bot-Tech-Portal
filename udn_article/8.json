@@ -1,8 +1,20 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/27/realtime/32732084.jpg&s=Y&x=0&y=20&sw=1536&sh=1024&exp=3600&w=300",
+            "title": "台鐵大武-瀧溪站晚間8時02分搶修完畢 恢復正常行駛",
+            "link": "https://udn.com//news/story/7266/8899992?from=udn-catebreaknews_ch2",
+            "time": "2025-07-27 20:36"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/27/realtime/32731692.jpeg&s=Y&x=0&y=0&sw=1842&sh=1228&exp=3600&w=300",
+            "title": "天空突炸巨大雷聲！5縣市發布豪雨特報 降雨恐持續到「這時間」",
+            "link": "https://udn.com//news/story/7266/8899928?from=udn-catebreaknews_ch2",
+            "time": "2025-07-27 19:40"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/27/realtime/32731452.jpeg&s=Y&x=0&y=0&sw=5076&sh=3330&exp=3600&w=300",
-            "title": "豪雨連5天炸中南部「這2天有致災性降雨」 竹節草颱風最新動態曝光",
+            "title": "豪雨連5天炸中南部！2天恐有「致災性降雨」 竹節草颱風最新動態曝光",
             "link": "https://udn.com//news/story/7266/8899897?from=udn-catebreaknews_ch2",
             "time": "2025-07-27 19:05"
         },
@@ -17,18 +29,6 @@
             "title": "可以一口吃掉的浪漫！超吸睛「魚子醬情人對戒」台北君悅獨家登場",
             "link": "https://udn.com//news/story/7270/8899865?from=udn-catebreaknews_ch2",
             "time": "2025-07-27 18:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/27/realtime/32730755.png&s=Y&x=0&y=0&sw=1344&sh=896&exp=3600&w=300",
-            "title": "關節炎要休息不要動？ 醫曝「保養建議」：關節細胞靠活動開機",
-            "link": "https://udn.com//news/story/7266/8899846?from=udn-catebreaknews_ch2",
-            "time": "2025-07-27 17:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/27/realtime/32730733.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "米哈遊夏季嘉年華人氣爆棚 Apple Vision Pro專區享受沉浸式遊戲體驗",
-            "link": "https://udn.com//news/story/7270/8899845?from=udn-catebreaknews_ch2",
-            "time": "2025-07-27 17:49"
         }
     ]
 }
