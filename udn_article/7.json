@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/27/0/32726800.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "川普是「和平使者」？泰柬衝突喊卡：不停火就課36％",
+            "link": "https://udn.com//news/story/12806/8899248?from=udn-catebreaknews_ch2",
+            "time": "2025-07-27 10:39"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/23/2/32675750.jpg&s=Y&x=0&y=0&sw=897&sh=598&exp=3600&w=300",
             "title": "台股後市…盯關稅結果",
             "link": "https://udn.com//news/story/7251/8898784?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股ETF規模達2.9兆元 超車債券商品",
             "link": "https://udn.com//news/story/123006/8898455?from=udn-catebreaknews_ch2",
             "time": "2025-07-27 00:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
-            "title": "非高息型ETF 今年成長逾二成",
-            "link": "https://udn.com//news/story/123006/8898458?from=udn-catebreaknews_ch2",
-            "time": "2025-07-27 00:57"
         }
     ]
 }
