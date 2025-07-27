@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/27/2/32732953.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "美股等股市創新高 放空基金、加密貨幣基金、另類資產基金卻續吸金",
+            "link": "https://udn.com//news/story/10103/8900092?from=udn-catebreaknews_ch2",
+            "time": "2025-07-27 21:59"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/27/realtime/32731390.jpg&s=Y&x=0&y=0&sw=5180&sh=3453&exp=3600&w=300",
             "title": "本周面臨關稅出爐 投資人宜選股不選市、AI題材最熱門",
             "link": "https://udn.com//news/story/7251/8899896?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "川普是「和平使者」？泰柬衝突喊卡：不停火就課36％",
             "link": "https://udn.com//news/story/12806/8899248?from=udn-catebreaknews_ch2",
             "time": "2025-07-27 10:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/23/2/32675750.jpg&s=Y&x=0&y=0&sw=897&sh=598&exp=3600&w=300",
-            "title": "台股後市…盯關稅結果",
-            "link": "https://udn.com//news/story/7251/8898784?from=udn-catebreaknews_ch2",
-            "time": "2025-07-27 02:10"
         }
     ]
 }
