@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/06/2/32226204.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "23萬股東照過來！台中銀股利創26年高 決定這天除權息交易",
+            "link": "https://udn.com//news/story/7252/8902317?from=udn-catebreaknews_ch2",
+            "time": "2025-07-28 22:11"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/24/2/31917900.jpg&s=Y&x=0&y=0&sw=1076&sh=717&exp=3600&w=300",
+            "title": "台股靜待關稅協議 台指期夜盤失守23,300點大關",
+            "link": "https://udn.com//news/story/7255/8902256?from=udn-catebreaknews_ch2",
+            "time": "2025-07-28 21:29"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/04/2/31024157.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
             "title": "大摩：記憶體股PB僅1倍、不必有強勁的基本面支撐 看好兩台股",
             "link": "https://udn.com//news/story/7251/8902218?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "大立光上半年每股賺56元 擬配發28元現金股利",
             "link": "https://udn.com//news/story/7253/8901924?from=udn-catebreaknews_ch2",
             "time": "2025-07-28 18:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/16/2/32311412.jpg&s=Y&x=0&y=0&sw=1212&sh=808&exp=3600&w=300",
-            "title": "聯發科法說將至 大摩點讚、給市場最高目標價",
-            "link": "https://udn.com//news/story/7253/8901918?from=udn-catebreaknews_ch2",
-            "time": "2025-07-28 18:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/03/2/31427814.jpg&s=Y&x=172&y=48&sw=828&sh=552&exp=3600&w=300",
-            "title": "市場29日添掛牌新兵 這檔中籤者「抽1張賺1張」報酬率100%",
-            "link": "https://udn.com//news/story/7251/8901912?from=udn-catebreaknews_ch2",
-            "time": "2025-07-28 18:06"
         }
     ]
 }
