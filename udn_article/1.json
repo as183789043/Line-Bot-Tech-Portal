@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/28/98/32744519.jpg&s=Y&x=0&y=0&sw=1182&sh=788&exp=3600&w=300",
+            "title": "世界花式撞球錦標賽 「天王殺手」柯秉中奪第5名",
+            "link": "https://udn.com//news/story/7314/8901748?from=udn-catebreaknews_ch2",
+            "time": "2025-07-28 21:17"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/28/realtime/32746206.jpeg&s=Y&x=0&y=12&sw=1217&sh=810&exp=3600&w=300",
             "title": "救災到一半又迎暴雨…國民黨轟黃偉哲慢半拍：有時間嗆災民沒時間救災",
             "link": "https://udn.com//news/story/6656/8902104?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "擔心打亂美中談判與川習會 彭博社：川普政府討論是否讓賴總統過境",
             "link": "https://udn.com//news/story/6656/8902096?from=udn-catebreaknews_ch2",
             "time": "2025-07-28 19:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/28/realtime/32745847.jpg&s=Y&x=0&y=36&sw=4986&sh=3324&exp=3600&w=300",
-            "title": "8月出訪友邦生變？總統府：賴總統近日暫無海外訪問之安排",
-            "link": "https://udn.com//news/story/6656/8902037?from=udn-catebreaknews_ch2",
-            "time": "2025-07-28 19:21"
         }
     ]
 }
