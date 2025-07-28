@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/05/03/2/29595835.jpg&s=Y&x=160&y=0&sw=866&sh=577&exp=3600&w=300",
+            "title": "新股抽抽樂 這檔中籤有望賺進1.8萬元、報酬率4成",
+            "link": "https://udn.com//news/story/7251/8901745?from=udn-catebreaknews_ch2",
+            "time": "2025-07-28 16:45"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/10/2/32540277.jpg&s=Y&x=0&y=0&sw=1241&sh=827&exp=3600&w=300",
+            "title": "寶雅財報／第2季獲利創同期新高 上半年EPS 12.97元",
+            "link": "https://udn.com//news/story/7254/8901684?from=udn-catebreaknews_ch2",
+            "time": "2025-07-28 16:27"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/03/2/31020218.jpg&s=Y&x=0&y=0&sw=1132&sh=755&exp=3600&w=300",
             "title": "資金追捧主動式ETF 上周成交金額放大至57億元、這檔總成交值奪冠",
             "link": "https://udn.com//news/story/123006/8901622?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "PCB族群大漲 台光電收盤再躍千金股",
             "link": "https://udn.com//news/story/7253/8901551?from=udn-catebreaknews_ch2",
             "time": "2025-07-28 15:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/28/98/32742502.jpg&s=Y&x=0&y=0&sw=1194&sh=796&exp=3600&w=300",
-            "title": "外資上週買超401億元 反手大砍台新金32萬張",
-            "link": "https://udn.com//news/story/7252/8901526?from=udn-catebreaknews_ch2",
-            "time": "2025-07-28 15:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/28/2/32742293.jpg&s=Y&x=0&y=120&sw=1277&sh=852&exp=3600&w=300",
-            "title": "00965再刷新高 強勁表現入列全球掛牌 ETF、今年漲幅前2%",
-            "link": "https://udn.com//news/story/123006/8901514?from=udn-catebreaknews_ch2",
-            "time": "2025-07-28 14:55"
         }
     ]
 }
