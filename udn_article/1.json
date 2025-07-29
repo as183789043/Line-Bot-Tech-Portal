@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/realtime/32759289.jpg&s=Y&x=0&y=8&sw=1108&sh=738&exp=3600&w=300",
+            "title": "假冒盧秀燕發簡訊？ 高雄市水利局證實是宣導水利門號",
+            "link": "https://udn.com//news/story/124323/8905086?from=udn-catebreaknews_ch2",
+            "time": "2025-07-30 02:59"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/1/32758832.jpg&s=Y&x=148&y=0&sw=1080&sh=720&exp=3600&w=300",
             "title": "首波大罷免後 網路流傳藍縣市普發現金",
             "link": "https://udn.com//news/story/7314/8905012?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2025-07-30 00:07"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
             "title": "陸外交部：堅決反對美台官方往來",
             "link": "https://udn.com//news/story/124562/8904970?from=udn-catebreaknews_ch2",
             "time": "2025-07-30 00:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/29/realtime/32754067.jpg&s=Y&x=0&y=30&sw=4120&sh=2746&exp=3600&w=300",
-            "title": "外交部：賴總統暫無海外訪問安排 沒有所謂延期、取消",
-            "link": "https://udn.com//news/story/124562/8904971?from=udn-catebreaknews_ch2",
-            "time": "2025-07-30 00:03"
         }
     ]
 }
