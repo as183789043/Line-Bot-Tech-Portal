@@ -1,9 +1,15 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/1/32758832.jpg&s=Y&x=148&y=0&sw=1080&sh=720&exp=3600&w=300",
+            "title": "首波大罷免後 網路流傳藍縣市普發現金",
+            "link": "https://udn.com//news/story/7314/8905012?from=udn-catebreaknews_ch2",
+            "time": "2025-07-30 01:08"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/1/32758601.jpg&s=Y&x=24&y=8&sw=1225&sh=817&exp=3600&w=300",
             "title": "賴總統延後訪友邦 金融時報：川普拒讓賴過境紐約",
-            "link": "https://udn.com//news/story/6656/8904986?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124562/8904986?from=udn-catebreaknews_ch2",
             "time": "2025-07-30 00:19"
         },
         {
@@ -13,22 +19,16 @@
             "time": "2025-07-30 00:07"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
             "title": "陸外交部：堅決反對美台官方往來",
-            "link": "https://udn.com//news/story/6656/8904970?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124562/8904970?from=udn-catebreaknews_ch2",
             "time": "2025-07-30 00:05"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_0.jpg&w=300",
             "title": "外交部：賴總統暫無海外訪問安排 沒有所謂延期、取消",
-            "link": "https://udn.com//news/story/6656/8904971?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124562/8904971?from=udn-catebreaknews_ch2",
             "time": "2025-07-30 00:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
-            "title": "藍委質疑：無法踏上美國本土 台美外交重大警訊",
-            "link": "https://udn.com//news/story/6656/8904968?from=udn-catebreaknews_ch2",
-            "time": "2025-07-30 00:02"
         }
     ]
 }
