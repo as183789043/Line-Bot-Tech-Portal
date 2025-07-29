@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/29/0/32753897.jpg&s=Y&x=284&y=0&sw=916&sh=611&exp=3600&w=300",
+            "title": "一個颱風吹壞15萬片光電板 泡在水裡有毒嗎？台灣回收量能大考驗",
+            "link": "https://udn.com//news/story/6841/8903558?from=udn-catebreaknews_ch2",
+            "time": "2025-07-29 13:52"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/28/draft/32744395.jpg&s=Y&x=0&y=0&sw=1260&sh=844&exp=3600&w=300",
             "title": "小七店員成新鮮人職涯首選？用AI訂貨、坐著結帳 打敗科技和金融業",
             "link": "https://udn.com//news/story/6841/8901816?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "美歐達成15%關稅協議 他拋對台3大啓示「台在新秩序中地位重要 但需謹慎應對」",
             "link": "https://udn.com//news/story/6839/8903099?from=udn-catebreaknews_ch2",
             "time": "2025-07-29 10:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/28/draft/32738529.jpg&s=Y&x=0&y=0&sw=700&sh=466&exp=3600&w=300",
-            "title": "AI聽水管 抓漏超神準",
-            "link": "https://udn.com//news/story/6905/8900824?from=udn-catebreaknews_ch2",
-            "time": "2025-07-28 12:06"
         }
     ]
 }
