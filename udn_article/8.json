@@ -1,6 +1,12 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/realtime/32760483.jpeg&s=Y&x=0&y=0&sw=3214&sh=2141&exp=3600&w=300",
+            "title": "雲嘉國家級警報響！雨彈升級3縣市大豪雨 持續淹水警戒",
+            "link": "https://udn.com//news/story/7266/8905167?from=udn-catebreaknews_ch2",
+            "time": "2025-07-30 07:02"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/realtime/32760264.jpg&s=Y&x=0&y=0&sw=4349&sh=2899&exp=3600&w=300",
             "title": "嘉義縣國家級警報響 大雷雨狂炸 高嘉屏1級淹水警戒",
             "link": "https://udn.com//news/story/7266/8905155?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台東地牛翻身 清晨5時12分卑南規模3.9淺層地震 最大震度3級",
             "link": "https://udn.com//news/story/7266/8905126?from=udn-catebreaknews_ch2",
             "time": "2025-07-30 05:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/realtime/32760069.jpeg&s=Y&x=0&y=0&sw=5076&sh=3330&exp=3600&w=300",
-            "title": "中南慎防致災雨 5縣市大雷雨狂轟 吳德榮：下周三再轉盛夏",
-            "link": "https://udn.com//news/story/7266/8905122?from=udn-catebreaknews_ch2",
-            "time": "2025-07-30 05:40"
         }
     ]
 }
