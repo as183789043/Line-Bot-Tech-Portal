@@ -1,7 +1,19 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/realtime/32763243.jpg&s=Y&x=0&y=4&sw=450&sh=300&exp=3600&w=300",
+            "title": "安森美攜手 NVIDIA！推動下一代 AI 數據中心",
+            "link": "https://udn.com//news/story/7240/8905996?from=udn-catebreaknews_ch2",
+            "time": "2025-07-30 12:43"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/realtime/32763162.png&s=Y&x=145&y=0&sw=1605&sh=1071&exp=3600&w=300",
+            "title": "千萬補助開放申請！港務公司力挺航港數位轉型、投資效益翻四倍",
+            "link": "https://udn.com//news/story/7241/8905950?from=udn-catebreaknews_ch2",
+            "time": "2025-07-30 12:30"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_5.jpg&w=300",
             "title": "美對等關稅大限將至！政院：鄭麗君仍在華府磋商談判 努力到最後一刻",
             "link": "https://udn.com//news/story/7238/8905945?from=udn-catebreaknews_ch2",
             "time": "2025-07-30 12:29"
@@ -17,18 +29,6 @@
             "title": "嘉南受損光電案場水質 環境部再抽驗無異常",
             "link": "https://udn.com//news/story/7238/8905844?from=udn-catebreaknews_ch2",
             "time": "2025-07-30 12:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/realtime/32762665.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "老公寓誰在買？房貸數據八成買氣 靠這群人撐腰",
-            "link": "https://udn.com//news/story/7241/8905810?from=udn-catebreaknews_ch2",
-            "time": "2025-07-30 11:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/realtime/32762670.jpg&s=Y&x=300&y=0&sw=3240&sh=2160&exp=3600&w=300",
-            "title": "TI發表預測型電池管理技術 助力電池供電續航力提升高達30%",
-            "link": "https://udn.com//news/story/7240/8905812?from=udn-catebreaknews_ch2",
-            "time": "2025-07-30 11:49"
         }
     ]
 }
