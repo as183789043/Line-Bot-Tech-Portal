@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/2/32766278.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "統一超財報／上半年獲利59.3億元 EPS 5.71元",
+            "link": "https://udn.com//news/story/7252/8907054?from=udn-catebreaknews_ch2",
+            "time": "2025-07-30 18:55"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/2/32766274.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "統一超財報／上半年 EPS 略減為5.71元 去年業外一次性因素所致",
+            "link": "https://udn.com//news/story/7252/8907045?from=udn-catebreaknews_ch2",
+            "time": "2025-07-30 18:52"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/realtime/32766227.jpg&s=Y&x=0&y=68&sw=798&sh=532&exp=3600&w=300",
+            "title": "耕興財報／第2季 EPS 2.55元為谷底 上半年 EPS 5.39元",
+            "link": "https://udn.com//news/story/7254/8907028?from=udn-catebreaknews_ch2",
+            "time": "2025-07-30 18:36"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/realtime/32766127.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
             "title": "共信法說會／抗肺癌新藥繼大陸市場後 台灣犬類抗癌藥第3季也有望上市",
             "link": "https://udn.com//news/story/7254/8906978?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "台達電第2季獲利創新高　上半年每股大賺9.31元",
             "link": "https://udn.com//news/story/7253/8906891?from=udn-catebreaknews_ch2",
             "time": "2025-07-30 18:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/realtime/32765947.jpg&s=Y&x=0&y=0&sw=1752&sh=1168&exp=3600&w=300",
-            "title": "旺宏第2季虧損擴大...每股虧損0.69元 期待下半年營運有好表現",
-            "link": "https://udn.com//news/story/7253/8906937?from=udn-catebreaknews_ch2",
-            "time": "2025-07-30 18:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/realtime/32765784.jpg&s=Y&x=101&y=0&sw=1086&sh=724&exp=3600&w=300",
-            "title": "創櫃板再添生力軍 矽谷能源將於8月15日登錄",
-            "link": "https://udn.com//news/story/7254/8906910?from=udn-catebreaknews_ch2",
-            "time": "2025-07-30 17:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/2/32765748.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "友輝財報／受到匯損干擾 第2季 EPS -0.86元",
-            "link": "https://udn.com//news/story/7254/8906881?from=udn-catebreaknews_ch2",
-            "time": "2025-07-30 17:41"
         }
     ]
 }
