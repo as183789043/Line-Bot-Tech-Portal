@@ -1,6 +1,18 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/31/realtime/32768723.jpg&s=Y&x=0&y=13&sw=1080&sh=720&exp=3600&w=300",
+            "title": "基隆一早很多民眾抱怨中華電信電話打不通、網路也掛",
+            "link": "https://udn.com//news/story/7266/8907824?from=udn-catebreaknews_ch2",
+            "time": "2025-07-31 06:36"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/31/98/32768672.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
+            "title": "氣象署豪雨特報 台中南投雲嘉高屏防豪大雨",
+            "link": "https://udn.com//news/story/7266/8907809?from=udn-catebreaknews_ch2",
+            "time": "2025-07-31 06:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/31/realtime/32767937.jpg&s=Y&x=0&y=0&sw=6048&sh=4024&exp=3600&w=300",
             "title": "高雄預約困難法料Marc L³八月底謝幕 明年初將以新品牌出發",
             "link": "https://udn.com//news/story/7266/8907724?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "彰化驚喜畫面 石虎白天現身芬園",
             "link": "https://udn.com//news/story/7470/8907650?from=udn-catebreaknews_ch2",
             "time": "2025-07-31 00:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_2.jpg&w=300",
-            "title": "8月徵文主題 我最需要的退休力",
-            "link": "https://udn.com//news/story/7266/8907652?from=udn-catebreaknews_ch2",
-            "time": "2025-07-31 00:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/realtime/32767467.jpg&s=Y&x=0&y=312&sw=1093&sh=728&exp=3600&w=300",
-            "title": "健康你我他／失智老爸相伴 豐富我第三人生",
-            "link": "https://udn.com//news/story/7266/8907649?from=udn-catebreaknews_ch2",
-            "time": "2025-07-31 00:00"
         }
     ]
 }

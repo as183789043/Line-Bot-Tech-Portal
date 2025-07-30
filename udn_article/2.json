@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/31/realtime/32768749.jpg&s=Y&x=0&y=30&sw=4096&sh=2730&exp=3600&w=300",
+            "title": "高虹安誣告案今二審宣判 結果牽動竹市藍白2026選戰布局",
+            "link": "https://udn.com//news/story/6656/8907828?from=udn-catebreaknews_ch2",
+            "time": "2025-07-31 06:59"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/realtime/32767352.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
             "title": "【總編開箱】726大罷免 藍軍「隱形冠軍」是他 藍版湯姆克魯斯則是他",
             "link": "https://udn.com//news/story/124323/8907620?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2025-07-31 03:39"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
             "title": "美媒：台思考「單打獨鬥」可能性",
             "link": "https://udn.com//news/story/124552/8907565?from=udn-catebreaknews_ch2",
             "time": "2025-07-31 03:18"
@@ -23,12 +29,6 @@
             "title": "朱棣文：台面臨能源危機 美應協助重啟核電",
             "link": "https://udn.com//news/story/7314/8907600?from=udn-catebreaknews_ch2",
             "time": "2025-07-31 00:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/realtime/32767383.jpg&s=Y&x=63&y=0&sw=2340&sh=1560&exp=3600&w=300",
-            "title": "我端4000億美元對美投資 爭取與日齊平的15％關稅",
-            "link": "https://udn.com//news/story/124552/8907579?from=udn-catebreaknews_ch2",
-            "time": "2025-07-31 00:19"
         }
     ]
 }
