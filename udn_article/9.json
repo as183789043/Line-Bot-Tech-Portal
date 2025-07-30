@@ -1,6 +1,18 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/realtime/32767245.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
+            "title": "台灣新聞攝影大賽  聯合報余承翰獲一般新聞類優選",
+            "link": "https://udn.com//news/story/7266/8907455?from=udn-catebreaknews_ch2",
+            "time": "2025-07-30 22:53"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/1/32767206.jpg&s=Y&x=24&y=0&sw=1249&sh=833&exp=3600&w=300",
+            "title": "邱泰源稱台大兒醫主治輪夜制讓人敬佩 她轟人力荒還打哈哈",
+            "link": "https://udn.com//news/story/7266/8907431?from=udn-catebreaknews_ch2",
+            "time": "2025-07-30 22:35"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/16/0/32597555.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
             "title": "8月運勢出爐！屬狗財運爆棚、屬龍愛情豐收 2生肖小心陷口舌之爭",
             "link": "https://udn.com//news/story/7268/8906312?from=udn-catebreaknews_ch2",
@@ -8,7 +20,7 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/realtime/32767056.jpg&s=Y&x=0&y=336&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "比出國免稅還狂！台中日曜天地「NG名牌包搶購會」8月1日登場",
+            "title": "比出國免稅還狂！台中日曜天地「NG名牌包搶購會」8/1登場",
             "link": "https://udn.com//news/story/7270/8907373?from=udn-catebreaknews_ch2",
             "time": "2025-07-30 22:02"
         },
@@ -17,18 +29,6 @@
             "title": "入夜雨勢加劇「3地紫爆」！10縣市豪雨特報 高雄累績雨量逾750毫米",
             "link": "https://udn.com//news/story/7266/8907360?from=udn-catebreaknews_ch2",
             "time": "2025-07-30 21:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/realtime/32766963.jpg&s=Y&x=0&y=0&sw=3333&sh=2223&exp=3600&w=300",
-            "title": "用AI科技傳承民主精神 資策會打造「數位李登輝特展」正式登場",
-            "link": "https://udn.com//news/story/7266/8907357?from=udn-catebreaknews_ch2",
-            "time": "2025-07-30 21:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/30/realtime/32766834.jpg&s=Y&x=296&y=0&sw=3300&sh=2200&exp=3600&w=300",
-            "title": "中南部今晚至明晨雨勢加劇 苗栗以南有致災性降雨",
-            "link": "https://udn.com//news/story/7266/8907293?from=udn-catebreaknews_ch2",
-            "time": "2025-07-30 21:14"
         }
     ]
 }
