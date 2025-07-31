@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/01/realtime/32780799.jpg&s=Y&x=0&y=0&sw=2660&sh=1773&exp=3600&w=300",
+            "title": "美國對大陸態度放軟？魯比歐：進入戰略穩定期",
+            "link": "https://udn.com//news/story/124373/8910342?from=udn-catebreaknews_ch2",
+            "time": "2025-08-01 03:32"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/01/realtime/32780386.jpg&s=Y&x=0&y=0&sw=5616&sh=3744&exp=3600&w=300",
             "title": "白宮：沒收到川普關稅通知函的國家 最晚收到答覆的時間揭曉",
             "link": "https://udn.com//news/story/124373/8910331?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2025-08-01 01:58"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
             "title": "日銀不升息 日圓失守150",
             "link": "https://udn.com//news/story/6811/8910100?from=udn-catebreaknews_ch2",
             "time": "2025-08-01 01:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
-            "title": "OpenAI星際之門 落腳挪威",
-            "link": "https://udn.com//news/story/6811/8910103?from=udn-catebreaknews_ch2",
-            "time": "2025-08-01 01:56"
         }
     ]
 }
