@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/31/2/32777760.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "出乎意料？台積電創1,160元天價 盤後鉅額交易價竟跟想得不一樣",
+            "link": "https://udn.com//news/story/7251/8909988?from=udn-catebreaknews_ch2",
+            "time": "2025-07-31 22:08"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/31/2/32777346.jpg&s=Y&x=4&y=8&sw=1089&sh=726&exp=3600&w=300",
             "title": "台灣成關稅談判「最後一名」 台指夜盤多空交戰激烈",
             "link": "https://udn.com//news/story/7255/8909919?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "鑫科財報／上半年EPS -0.02元由盈轉虧 積極調整規避匯損",
             "link": "https://udn.com//news/story/7254/8909755?from=udn-catebreaknews_ch2",
             "time": "2025-07-31 19:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/31/realtime/32776209.jpg&s=Y&x=0&y=0&sw=5254&sh=3502&exp=3600&w=300",
-            "title": "台美關稅將出爐 下半年恐旺季不旺？法人：2類股票可逃關稅空襲",
-            "link": "https://udn.com//news/story/7251/8909717?from=udn-catebreaknews_ch2",
-            "time": "2025-07-31 19:37"
         }
     ]
 }
