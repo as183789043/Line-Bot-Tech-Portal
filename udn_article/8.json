@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/01/realtime/32792066.jpg&s=Y&x=0&y=0&sw=1585&sh=1033&exp=3600&w=300",
+            "title": "美國開獎對台關稅稅率衝擊台股 金管會這麼說",
+            "link": "https://udn.com//news/story/7251/8912151?from=udn-catebreaknews_ch2",
+            "time": "2025-08-01 18:38"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/01/realtime/32792056.jpg&s=Y&x=0&y=0&sw=465&sh=310&exp=3600&w=300",
+            "title": "閎康營運Q2回升 每股純益1.38元、上半年每股純益2.14元",
+            "link": "https://udn.com//news/story/7254/8912148?from=udn-catebreaknews_ch2",
+            "time": "2025-08-01 18:36"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/11/0/31835080.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "台暫時關稅20% 外資賣超台股70億調節台積電日月光",
             "link": "https://udn.com//news/story/7251/8912019?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "6.1％配息香！00982B投資級債ETF公告配息…存債族別錯過",
             "link": "https://udn.com//news/story/123006/8911988?from=udn-catebreaknews_ch2",
             "time": "2025-08-01 17:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/01/0/32791008.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "月配息王就是它！00961年化率再飆10％ 官股認證狂買",
-            "link": "https://udn.com//news/story/123006/8911980?from=udn-catebreaknews_ch2",
-            "time": "2025-08-01 17:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/11/2/32553085.jpg&s=Y&x=0&y=0&sw=1265&sh=843&exp=3600&w=300",
-            "title": "美對台關稅拍板20% 台股逢拉回卡位中長線行情",
-            "link": "https://udn.com//news/story/7251/8911831?from=udn-catebreaknews_ch2",
-            "time": "2025-08-01 16:16"
         }
     ]
 }
