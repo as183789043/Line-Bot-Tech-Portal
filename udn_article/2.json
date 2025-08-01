@@ -1,9 +1,21 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/01/realtime/32791306.png&s=Y&x=0&y=0&sw=1855&sh=1234&exp=3600&w=300",
+            "title": "特別條例含「普發1萬」 賴清德總統公告10月底前完成",
+            "link": "https://udn.com//news/story/6656/8912067?from=udn-catebreaknews_ch2",
+            "time": "2025-08-01 17:53"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/01/98/32791243.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "川普關稅出爐！這法若取消稅率恐飆至50% 賴索托台商恐面臨移廠危機",
+            "link": "https://udn.com//news/story/124552/8911983?from=udn-catebreaknews_ch2",
+            "time": "2025-08-01 17:40"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/01/realtime/32791048.jpg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
             "title": "曾說關稅32%今遭出征 趙少康：綠側翼全面出動掩飾談判不力",
-            "link": "https://udn.com//news/story/6656/8911992?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124552/8911992?from=udn-catebreaknews_ch2",
             "time": "2025-08-01 17:23"
         },
         {
@@ -17,18 +29,6 @@
             "title": "中二反罷發包子有事？罷團質疑小恩小惠騙選票 顏寬恒辦反擊了",
             "link": "https://udn.com//news/story/124323/8911938?from=udn-catebreaknews_ch2",
             "time": "2025-08-01 16:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/01/realtime/32790727.jpg&s=Y&x=0&y=0&sw=3088&sh=2055&exp=3600&w=300",
-            "title": "英前首相強生5日訪台 參加凱達格蘭論壇發表演說",
-            "link": "https://udn.com//news/story/6656/8911941?from=udn-catebreaknews_ch2",
-            "time": "2025-08-01 16:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/01/1/32790737.jpg&s=Y&x=16&y=0&sw=1090&sh=727&exp=3600&w=300",
-            "title": "特別條例含「普發一萬」 賴清德總統公布這日前完成",
-            "link": "https://udn.com//news/story/6656/8911940?from=udn-catebreaknews_ch2",
-            "time": "2025-08-01 16:53"
         }
     ]
 }
