@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "title": "8月電子期跌　金融期漲",
+            "link": "https://udn.com//news/story/7255/8911583?from=udn-catebreaknews_ch2",
+            "time": "2025-08-01 14:42"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/01/98/32788237.jpg&s=Y&x=0&y=0&sw=1232&sh=821&exp=3600&w=300",
             "title": "7月台股開戶人數續創新高　30歲以下新增近3萬人",
             "link": "https://udn.com//news/story/7251/8911532?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "興櫃添新兵！宏碁小金虎旭誼登興櫃生效 每股參考價70元",
             "link": "https://udn.com//news/story/7254/8911448?from=udn-catebreaknews_ch2",
             "time": "2025-08-01 13:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/01/2/32787908.jpg&s=Y&x=0&y=0&sw=764&sh=509&exp=3600&w=300",
-            "title": "宏碁小金虎旭誼登錄興櫃生效 參考價每股70元",
-            "link": "https://udn.com//news/story/7254/8911438?from=udn-catebreaknews_ch2",
-            "time": "2025-08-01 13:42"
         }
     ]
 }
