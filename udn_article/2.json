@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/31/realtime/32775175.jpg&s=Y&x=0&y=34&sw=4832&sh=3220&exp=3600&w=300",
+            "title": "罷免戰密碼／北北桃中抗罷成績解密 「這一都」最亮眼",
+            "link": "https://udn.com//news/story/6656/8909536?from=udn-catebreaknews_ch2",
+            "time": "2025-08-02 07:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/02/realtime/32798993.jpg&s=Y&x=0&y=0&sw=5320&sh=3540&exp=3600&w=300",
+            "title": "【專家之眼】大罷免與外籍媒體報導指向",
+            "link": "https://udn.com//news/story/124323/8912840?from=udn-catebreaknews_ch2",
+            "time": "2025-08-02 06:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/02/realtime/32795933.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
             "title": "【總編開箱】賴市長怎麼評斷賴總統蓋上黑布的台美關稅談判",
             "link": "https://udn.com//news/story/124552/8912727?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "關稅20%…台灣被川普留校察看 232條款殺傷力更強",
             "link": "https://udn.com//news/story/124552/8912694?from=udn-catebreaknews_ch2",
             "time": "2025-08-02 01:38"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/01/realtime/32795079.jpg&s=Y&x=0&y=0&sw=4690&sh=3127&exp=3600&w=300",
-            "title": "稅率揭牌 我高於日韓等亞洲國家 白宮：台灣對等關稅20%",
-            "link": "https://udn.com//news/story/124552/8912645?from=udn-catebreaknews_ch2",
-            "time": "2025-08-02 00:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/02/2/32795925.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "台美談判進入延長賽 賴總統：台灣關稅可望再調降",
-            "link": "https://udn.com//news/story/124552/8912646?from=udn-catebreaknews_ch2",
-            "time": "2025-08-02 00:58"
         }
     ]
 }
