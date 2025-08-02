@@ -1,6 +1,12 @@
 {
     "社會": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/02/realtime/32805468.jpg&s=Y&x=30&y=0&sw=1416&sh=944&exp=3600&w=300",
+            "title": "廣角鏡／吊車自撞",
+            "link": "https://udn.com//news/story/7320/8913983?from=udn-catebreaknews_ch2",
+            "time": "2025-08-03 00:06"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/03/1/32805567.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "竹圍海水浴場戲水 2高中生遭捲走",
             "link": "https://udn.com//news/story/7315/8914048?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2025-08-02 23:58"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6639_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6639_6.jpg&w=300",
             "title": "德州撲克協會又涉賭 律師昔辯護今遭逮",
             "link": "https://udn.com//news/story/7315/8914047?from=udn-catebreaknews_ch2",
             "time": "2025-08-02 23:50"
@@ -23,12 +29,6 @@
             "title": "肉身擋混凝土泵浦車 澎湖父死子重傷",
             "link": "https://udn.com//news/story/7315/8914043?from=udn-catebreaknews_ch2",
             "time": "2025-08-02 23:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/02/realtime/32801137.jpeg&s=Y&x=150&y=0&sw=981&sh=654&exp=3600&w=300",
-            "title": "酒測值差10倍 自摔男驗血獲判無罪",
-            "link": "https://udn.com//news/story/7315/8914025?from=udn-catebreaknews_ch2",
-            "time": "2025-08-02 23:20"
         }
     ]
 }
