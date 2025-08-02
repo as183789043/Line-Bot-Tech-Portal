@@ -1,13 +1,19 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/03/98/32806134.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
+            "title": "氣象署發豪雨特報 台南及高屏山區防超大豪雨",
+            "link": "https://udn.com//news/story/7266/8914178?from=udn-catebreaknews_ch2",
+            "time": "2025-08-03 04:55"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/02/realtime/32805526.jpg&s=Y&x=0&y=0&sw=1709&sh=1133&exp=3600&w=300",
             "title": "台鐵公司化首年 晚點132萬餘次 審計部：嚴重影響通勤品質",
             "link": "https://udn.com//news/story/7266/8913975?from=udn-catebreaknews_ch2",
             "time": "2025-08-03 00:10"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_1.jpg&w=300",
             "title": "台鐵工會：天災、故障、維修人力 都是晚點肇因",
             "link": "https://udn.com//news/story/7266/8913976?from=udn-catebreaknews_ch2",
             "time": "2025-08-03 00:09"
@@ -22,12 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/07/0/31228751.jpg&s=Y&x=2&y=17&sw=794&sh=529&exp=3600&w=300",
             "title": "殺破狼週運勢／雙子、水瓶待遇增加 3星座「意外傷害機率高」",
             "link": "https://udn.com//news/story/7268/8908334?from=udn-catebreaknews_ch2",
-            "time": "2025-08-03 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/20/0/32640856.jpg&s=Y&x=0&y=68&sw=400&sh=267&exp=3600&w=300",
-            "title": "每日星座運勢／天秤堅定自己的立場 贏得他人尊重",
-            "link": "https://udn.com//news/story/7268/8883923?from=udn-catebreaknews_ch2",
             "time": "2025-08-03 00:00"
         }
     ]
