@@ -1,7 +1,7 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
             "title": "一周上市融資融券餘額表",
             "link": "https://udn.com//news/story/7253/8915167?from=udn-catebreaknews_ch2",
             "time": "2025-08-04 04:55"
@@ -11,6 +11,12 @@
             "title": "台股2,000億資金活水來了 大盤短線有機會先蹲後跳",
             "link": "https://udn.com//news/story/7251/8915392?from=udn-catebreaknews_ch2",
             "time": "2025-08-04 02:14"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/01/2/32793942.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "台股8月是否延續上漲？五大多空考驗一次看",
+            "link": "https://udn.com//news/story/7251/8915393?from=udn-catebreaknews_ch2",
+            "time": "2025-08-04 02:12"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/31/2/32771638.jpg&s=Y&x=0&y=0&sw=897&sh=598&exp=3600&w=300",
@@ -23,12 +29,6 @@
             "title": "主動式 ETF 買氣爆棚 靈活操作策略受青睞",
             "link": "https://udn.com//news/story/7253/8915305?from=udn-catebreaknews_ch2",
             "time": "2025-08-04 00:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/18/realtime/32623219.jpg&s=Y&x=0&y=0&sw=5000&sh=3333&exp=3600&w=300",
-            "title": "美科技股商品掀起新一波買盤 聚焦 AI、資料中心題材",
-            "link": "https://udn.com//news/story/7253/8915306?from=udn-catebreaknews_ch2",
-            "time": "2025-08-04 00:09"
         }
     ]
 }
