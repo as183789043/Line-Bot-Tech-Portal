@@ -1,15 +1,27 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/21/realtime/32654708.jpg&s=Y&x=0&y=0&sw=3840&sh=2559&exp=3600&w=300",
+            "title": "台積電消費應用接單轉淡 第4季營收恐無法再創高",
+            "link": "https://udn.com//news/story/7240/8915394?from=udn-catebreaknews_ch2",
+            "time": "2025-08-04 02:03"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/01/realtime/32785590.jpg&s=Y&x=0&y=0&sw=3485&sh=2357&exp=3600&w=300",
+            "title": "金控第2季帳上投資虧損收斂 資金轉向日、韓等非美市場",
+            "link": "https://udn.com//news/story/7239/8915360?from=udn-catebreaknews_ch2",
+            "time": "2025-08-04 01:41"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/03/realtime/32809941.jpg&s=Y&x=0&y=0&sw=1889&sh=1260&exp=3600&w=300",
             "title": "美中AI競賽 仁川DDM會議短兵相接",
-            "link": "https://udn.com//news/story/7238/8915526?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/7240/8915526?from=udn-catebreaknews_ch2",
             "time": "2025-08-04 00:11"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
             "title": "歐盟AI監管法案生效 最高罰12億",
-            "link": "https://udn.com//news/story/7238/8915531?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/7240/8915531?from=udn-catebreaknews_ch2",
             "time": "2025-08-04 00:10"
         },
         {
@@ -17,18 +29,6 @@
             "title": "穩定幣正接軌現實 南韓大馬等國加快腳步規範",
             "link": "https://udn.com//news/story/7238/8915534?from=udn-catebreaknews_ch2",
             "time": "2025-08-04 00:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_2.jpg&w=300",
-            "title": "觀察站／穩定幣讓全球金融規則重構 台灣要跟上",
-            "link": "https://udn.com//news/story/7238/8915535?from=udn-catebreaknews_ch2",
-            "time": "2025-08-04 00:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_3.jpg&w=300",
-            "title": "金融3業 上半年獲利大減37.5％",
-            "link": "https://udn.com//news/story/7239/8915536?from=udn-catebreaknews_ch2",
-            "time": "2025-08-04 00:05"
         }
     ]
 }
