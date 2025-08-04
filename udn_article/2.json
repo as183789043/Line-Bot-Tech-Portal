@@ -1,9 +1,15 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
+            "title": "王鴻薇再爆料 文總斥「指鹿為馬、顛倒是非」",
+            "link": "https://udn.com//news/story/6656/8916398?from=udn-catebreaknews_ch2",
+            "time": "2025-08-04 13:07"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/04/realtime/32812809.jpeg&s=Y&x=0&y=0&sw=4000&sh=2667&exp=3600&w=300",
             "title": "邀卓榮泰赴立院專案報告關稅 朝野協商無共識",
-            "link": "https://udn.com//news/story/6656/8916375?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124552/8916375?from=udn-catebreaknews_ch2",
             "time": "2025-08-04 12:55"
         },
         {
@@ -23,12 +29,6 @@
             "title": "南投罷團據點遭潑酸恐嚇 志工害怕…警方出聲了",
             "link": "https://udn.com//news/story/124323/8916330?from=udn-catebreaknews_ch2",
             "time": "2025-08-04 12:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/04/realtime/32812688.jpg&s=Y&x=0&y=0&sw=2048&sh=1365&exp=3600&w=300",
-            "title": "台灣關稅20％成定局？政院引白宮文件重申：暫時性稅率",
-            "link": "https://udn.com//news/story/124552/8916327?from=udn-catebreaknews_ch2",
-            "time": "2025-08-04 12:39"
         }
     ]
 }
