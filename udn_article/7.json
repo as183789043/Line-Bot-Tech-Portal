@@ -1,3 +1,34 @@
 {
-    "產經": []
+    "產經": [
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/04/realtime/32814299.jpg&s=Y&x=0&y=336&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "淡水區人口持續移入 待售新成屋數量年減1241戶",
+            "link": "https://udn.com//news/story/7241/8916857?from=udn-catebreaknews_ch2",
+            "time": "2025-08-04 16:21"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/04/realtime/32814071.jpg&s=Y&x=49&y=0&sw=1080&sh=720&exp=3600&w=300",
+            "title": "英業達布局泰國滿周年 新廠適逢美泰關稅降至19%將受惠",
+            "link": "https://udn.com//news/story/7240/8916770?from=udn-catebreaknews_ch2",
+            "time": "2025-08-04 15:45"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/31/0/32773058.jpg&s=Y&x=0&y=0&sw=1022&sh=681&exp=3600&w=300",
+            "title": "月薪5萬不敢生也買不起房！30歲女曬開銷支出 網驚：看來我吃太多了",
+            "link": "https://udn.com//news/story/121591/8909137?from=udn-catebreaknews_ch2",
+            "time": "2025-08-04 15:37"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/04/realtime/32813815.jpg&s=Y&x=75&y=0&sw=810&sh=540&exp=3600&w=300",
+            "title": "IBM示警 AI模型與AI應用已成為門檻低、商業價值高的駭客攻擊目標",
+            "link": "https://udn.com//news/story/7238/8916683?from=udn-catebreaknews_ch2",
+            "time": "2025-08-04 15:10"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/04/realtime/32813811.jpg&s=Y&x=0&y=0&sw=1568&sh=1044&exp=3600&w=300",
+            "title": "採購阿拉斯加天然氣規模是600萬噸？ 中油：尚無實質資訊",
+            "link": "https://udn.com//news/story/7238/8916677?from=udn-catebreaknews_ch2",
+            "time": "2025-08-04 15:07"
+        }
+    ]
 }
