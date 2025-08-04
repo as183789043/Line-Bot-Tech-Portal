@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/04/draft/32813522.jpg&s=Y&x=64&y=0&sw=672&sh=449&exp=3600&w=300",
+            "title": "全球核能科技的創新研發走向新世紀",
+            "link": "https://udn.com//news/story/6853/8916646?from=udn-catebreaknews_ch2",
+            "time": "2025-08-04 14:59"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/04/draft/32813475.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
+            "title": "川普關稅風暴下的國際地緣政治新格局",
+            "link": "https://udn.com//news/story/6853/8916631?from=udn-catebreaknews_ch2",
+            "time": "2025-08-04 14:58"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/04/0/32812080.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台灣關稅20％還能再降？謝金河揭「談判難度高」：3大壓力籠罩",
             "link": "https://udn.com//news/story/6839/8916085?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "2025 新北街頭學校",
             "link": "https://udn.com//news/story/6963/8905862?from=udn-catebreaknews_ch2",
             "time": "2025-08-03 10:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/29/draft/32751965.jpg&s=Y&x=0&y=196&sw=880&sh=587&exp=3600&w=300",
-            "title": "痛苦裡的間隙",
-            "link": "https://udn.com//news/story/7025/8902952?from=udn-catebreaknews_ch2",
-            "time": "2025-08-03 10:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/29/draft/32751931.jpg&s=Y&x=0&y=14&sw=1140&sh=760&exp=3600&w=300",
-            "title": "比時代多走0.5米",
-            "link": "https://udn.com//news/story/7025/8902940?from=udn-catebreaknews_ch2",
-            "time": "2025-08-03 10:36"
         }
     ]
 }
