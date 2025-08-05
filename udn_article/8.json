@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/05/realtime/32827213.jpg&s=Y&x=0&y=0&sw=2500&sh=1667&exp=3600&w=300",
+            "title": "中華電信Q2 EPS 1.31元 營收、獲利皆超越財測高標",
+            "link": "https://udn.com//news/story/7253/8919606?from=udn-catebreaknews_ch2",
+            "time": "2025-08-05 18:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/05/2/32827111.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "台股漲281點！外資買超冠軍是這檔老AI 台新金遭大賣逾3.4萬張",
             "link": "https://udn.com//news/story/7251/8919569?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "環球晶上半年EPS 6.56元、營收316億元 歷史同期第三高",
             "link": "https://udn.com//news/story/7254/8919258?from=udn-catebreaknews_ch2",
             "time": "2025-08-05 16:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/05/realtime/32825543.jpg&s=Y&x=0&y=7&sw=1079&sh=718&exp=3600&w=300",
-            "title": "這六檔8月除息台股ETF 年化報酬率8%起跳",
-            "link": "https://udn.com//news/story/123006/8919238?from=udn-catebreaknews_ch2",
-            "time": "2025-08-05 16:04"
         }
     ]
 }

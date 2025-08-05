@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/29/2/32756934.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "石破茂慰問中南部水災 林佳龍致謝盼合作因應挑戰",
+            "link": "https://udn.com//news/story/6656/8919637?from=udn-catebreaknews_ch2",
+            "time": "2025-08-05 18:47"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/18/realtime/32618432.png&s=Y&x=0&y=0&sw=1344&sh=890&exp=3600&w=300",
             "title": "網傳風災當頭卻出國考察 邱議瑩：移花接木、抹黑",
             "link": "https://udn.com//news/story/6656/8919244?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "午後強雷陣雨水淹立院 總務處：即時派工處理完畢",
             "link": "https://udn.com//news/story/7314/8919460?from=udn-catebreaknews_ch2",
             "time": "2025-08-05 17:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/05/realtime/32826336.jpg&s=Y&x=0&y=32&sw=3722&sh=2480&exp=3600&w=300",
-            "title": "台灣如何和川普互動 強生：川普其實很挺台灣",
-            "link": "https://udn.com//news/story/6656/8919414?from=udn-catebreaknews_ch2",
-            "time": "2025-08-05 17:15"
         }
     ]
 }
