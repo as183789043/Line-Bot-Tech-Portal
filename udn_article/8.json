@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/05/2/32827111.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "台股漲281點！外資買超冠軍是這檔老AI 台新金遭大賣逾3.4萬張",
+            "link": "https://udn.com//news/story/7251/8919569?from=udn-catebreaknews_ch2",
+            "time": "2025-08-05 18:05"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/05/realtime/32826543.jpg&s=Y&x=0&y=29&sw=4031&sh=2686&exp=3600&w=300",
+            "title": "海悅營收／房市冷！7月年減69% 下半年靠建案完工交屋有撐",
+            "link": "https://udn.com//news/story/7252/8919479?from=udn-catebreaknews_ch2",
+            "time": "2025-08-05 17:35"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/05/2/32827086.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "美國放寬AI晶片管制後 這二家科技巨擘擴大台積電投單量",
+            "link": "https://udn.com//news/story/7253/8919456?from=udn-catebreaknews_ch2",
+            "time": "2025-08-05 17:28"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/05/realtime/32825645.jpg&s=Y&x=0&y=184&sw=1427&sh=951&exp=3600&w=300",
             "title": "環球晶上半年EPS 6.56元、營收316億元 歷史同期第三高",
             "link": "https://udn.com//news/story/7254/8919258?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "這六檔8月除息台股ETF 年化報酬率8%起跳",
             "link": "https://udn.com//news/story/123006/8919238?from=udn-catebreaknews_ch2",
             "time": "2025-08-05 16:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/05/0/32825456.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "00961熱度飆升！航運AI金融全包辦、散戶大戶一起搶…超馬芭樂：人氣和配息雙稱王",
-            "link": "https://udn.com//news/story/123006/8919194?from=udn-catebreaknews_ch2",
-            "time": "2025-08-05 16:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/05/realtime/32825385.jpg&s=Y&x=0&y=31&sw=3837&sh=2558&exp=3600&w=300",
-            "title": "匯損侵蝕獲利…愛普第2季每股虧損3.36元 期待下半年回溫",
-            "link": "https://udn.com//news/story/7253/8919197?from=udn-catebreaknews_ch2",
-            "time": "2025-08-05 15:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/29/2/32756028.jpg&s=Y&x=0&y=0&sw=1022&sh=681&exp=3600&w=300",
-            "title": "鴻海營收／7月年增7.25%、前七個月年增17.62% 均創同期新高",
-            "link": "https://udn.com//news/story/7253/8919193?from=udn-catebreaknews_ch2",
-            "time": "2025-08-05 15:47"
         }
     ]
 }
