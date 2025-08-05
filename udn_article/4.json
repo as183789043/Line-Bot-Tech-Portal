@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/06/1/32830005.jpg&s=Y&x=12&y=4&sw=1225&sh=817&exp=3600&w=300",
+            "title": "川普：一周內宣布半導體關稅",
+            "link": "https://udn.com//news/story/124373/8920284?from=udn-catebreaknews_ch2",
+            "time": "2025-08-06 00:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/06/1/32829569.jpg&s=Y&x=92&y=0&sw=1080&sh=720&exp=3600&w=300",
             "title": "NASA拚4年內 月球設核反應爐",
             "link": "https://udn.com//news/story/6809/8920179?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "廣島原爆日 我駐日代表首出席",
             "link": "https://udn.com//news/story/6809/8920177?from=udn-catebreaknews_ch2",
             "time": "2025-08-06 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/05/realtime/32829401.jpg&s=Y&x=0&y=0&sw=4499&sh=3004&exp=3600&w=300",
-            "title": "前「汽車沙皇」諷川普是經濟文盲  連通用、福特都反對關稅",
-            "link": "https://udn.com//news/story/6813/8920123?from=udn-catebreaknews_ch2",
-            "time": "2025-08-05 23:03"
         }
     ]
 }
