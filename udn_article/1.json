@@ -1,6 +1,24 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/08/2/32852317.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "應對關稅新風暴 國發會提三模式",
+            "link": "https://udn.com//news/story/124552/8925322?from=udn-catebreaknews_ch2",
+            "time": "2025-08-08 03:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/08/2/32852417.jpg&s=Y&x=152&y=0&sw=1128&sh=752&exp=3600&w=300",
+            "title": "普發現金1萬 可望不排富 2,350億元預算 政院將全數照編",
+            "link": "https://udn.com//news/story/6656/8925330?from=udn-catebreaknews_ch2",
+            "time": "2025-08-08 03:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/23/realtime/32679981.jpg&s=Y&x=0&y=0&sw=4578&sh=3056&exp=3600&w=300",
+            "title": "核電重啟首場辯論登場 台電：核三先安檢再公投",
+            "link": "https://udn.com//news/story/124565/8925214?from=udn-catebreaknews_ch2",
+            "time": "2025-08-08 03:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/08/1/32851813.jpg&s=Y&x=4&y=0&sw=1275&sh=850&exp=3600&w=300",
             "title": "核三公投首場說明會 葉宗洸：核三應恢復待命 曾文生：延役須科學檢測",
             "link": "https://udn.com//news/story/124565/8925290?from=udn-catebreaknews_ch2",
@@ -10,24 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/realtime/32848390.jpg&s=Y&x=0&y=0&sw=2048&sh=1365&exp=3600&w=300",
             "title": "因應美關稅 卓揆：第二預備金 開放產業申請",
             "link": "https://udn.com//news/story/124552/8925271?from=udn-catebreaknews_ch2",
-            "time": "2025-08-08 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/realtime/32851774.jpg&s=Y&x=0&y=17&sw=2154&sh=1436&exp=3600&w=300",
-            "title": "風災條例涵蓋中南部9縣市 疑漏台東？綠委澄清「中央會負責」",
-            "link": "https://udn.com//news/story/6656/8925283?from=udn-catebreaknews_ch2",
-            "time": "2025-08-08 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
-            "title": "美拒賴總統過境 港媒：共和黨政策轉向",
-            "link": "https://udn.com//news/story/6656/8925311?from=udn-catebreaknews_ch2",
-            "time": "2025-08-08 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
-            "title": "王義川酸盧秀燕粉底液…綠爆內訌",
-            "link": "https://udn.com//news/story/6656/8925297?from=udn-catebreaknews_ch2",
             "time": "2025-08-08 00:00"
         }
     ]
