@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/2/32848547.jpg&s=Y&x=8&y=8&sw=1272&sh=848&exp=3600&w=300",
+            "title": "環球晶因為這個原因 股價直衝漲停",
+            "link": "https://udn.com//news/story/7254/8924305?from=udn-catebreaknews_ch2",
+            "time": "2025-08-07 15:48"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/realtime/32848431.jpg&s=Y&x=0&y=0&sw=3318&sh=2212&exp=3600&w=300",
+            "title": "威剛7月營收跳增四成達42.61億元 看好某大廠DDR4停產計畫不變",
+            "link": "https://udn.com//news/story/7254/8924289?from=udn-catebreaknews_ch2",
+            "time": "2025-08-07 15:39"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/04/2/32812219.jpg&s=Y&x=0&y=0&sw=1259&sh=839&exp=3600&w=300",
+            "title": "外資爆買432億！三大法人注資497億 台積電收1180天價、市值飆30.6兆",
+            "link": "https://udn.com//news/story/7251/8924237?from=udn-catebreaknews_ch2",
+            "time": "2025-08-07 15:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/realtime/32847719.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
             "title": "不畏台股震盪 國泰投信總座張雍川點名00878、00922規模逆勢增800億元",
             "link": "https://udn.com//news/story/123006/8924124?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "台股上2萬4、台積電新天價1180元！網：00940表現依然冷清",
             "link": "https://udn.com//news/story/123006/8924107?from=udn-catebreaknews_ch2",
             "time": "2025-08-07 14:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/2/32846873.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "台積電內鬼「花上億買2豪宅」 網諷：準時上下班成破綻！",
-            "link": "https://udn.com//news/story/12806/8923898?from=udn-catebreaknews_ch2",
-            "time": "2025-08-07 14:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/2/32847270.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "台積電期衝1180元挑戰2000大關 台指期大漲580點收23,997點",
-            "link": "https://udn.com//news/story/7255/8923992?from=udn-catebreaknews_ch2",
-            "time": "2025-08-07 13:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/2/32847215.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台積電寫天價1180元領軍上攻！台股飆556點 收復2萬4創波段新高",
-            "link": "https://udn.com//news/story/7251/8923963?from=udn-catebreaknews_ch2",
-            "time": "2025-08-07 13:52"
         }
     ]
 }
