@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/2/32847270.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "台積電新天價1180元市值飆高 外資追捧零股交易居首",
+            "link": "https://udn.com//news/story/7251/8924549?from=udn-catebreaknews_ch2",
+            "time": "2025-08-07 17:21"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/realtime/32846306.jpg&s=Y&x=0&y=0&sw=2149&sh=1433&exp=3600&w=300",
+            "title": "川普拋關稅大魔王！台積電豁免大漲 高股息ETF開紅盤",
+            "link": "https://udn.com//news/story/7251/8924570?from=udn-catebreaknews_ch2",
+            "time": "2025-08-07 17:19"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/02/2/32795608.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "半導體關稅出爐 0050股價、規模再創新高",
+            "link": "https://udn.com//news/story/123006/8924494?from=udn-catebreaknews_ch2",
+            "time": "2025-08-07 16:52"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/2/32848547.jpg&s=Y&x=8&y=8&sw=1272&sh=848&exp=3600&w=300",
             "title": "環球晶因為這個原因 股價直衝漲停",
             "link": "https://udn.com//news/story/7254/8924305?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "威剛7月營收跳增四成達42.61億元 看好某大廠DDR4停產計畫不變",
             "link": "https://udn.com//news/story/7254/8924289?from=udn-catebreaknews_ch2",
             "time": "2025-08-07 15:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/04/2/32812219.jpg&s=Y&x=0&y=0&sw=1259&sh=839&exp=3600&w=300",
-            "title": "外資爆買432億！三大法人注資497億 台積電收1180天價、市值飆30.6兆",
-            "link": "https://udn.com//news/story/7251/8924237?from=udn-catebreaknews_ch2",
-            "time": "2025-08-07 15:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/realtime/32847719.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
-            "title": "不畏台股震盪 國泰投信總座張雍川點名00878、00922規模逆勢增800億元",
-            "link": "https://udn.com//news/story/123006/8924124?from=udn-catebreaknews_ch2",
-            "time": "2025-08-07 14:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/0/32847701.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "台股上2萬4、台積電新天價1180元！網：00940表現依然冷清",
-            "link": "https://udn.com//news/story/123006/8924107?from=udn-catebreaknews_ch2",
-            "time": "2025-08-07 14:37"
         }
     ]
 }
