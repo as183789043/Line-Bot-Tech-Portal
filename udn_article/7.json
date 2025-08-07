@@ -1,7 +1,13 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/22/realtime/32663335.jpg&s=Y&x=0&y=0&sw=4332&sh=2888&exp=3600&w=300",
+            "title": "100%半導體關稅衝擊台廠？富邦金羅瑋：股市留意三大變數",
+            "link": "https://udn.com//news/story/7251/8925499?from=udn-catebreaknews_ch2",
+            "time": "2025-08-08 04:15"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
             "title": "台驊上半年EPS 4.54元 IKKA 2.2元",
             "link": "https://udn.com//news/story/7252/8924895?from=udn-catebreaknews_ch2",
             "time": "2025-08-08 03:00"
@@ -13,7 +19,7 @@
             "time": "2025-08-08 03:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
             "title": "統一上半年EPS 1.88元 三圓0.02元",
             "link": "https://udn.com//news/story/7252/8924897?from=udn-catebreaknews_ch2",
             "time": "2025-08-08 03:00"
@@ -22,12 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
             "title": "櫻花 上半年EPS 3.04元 寫同期新高",
             "link": "https://udn.com//news/story/7252/8925206?from=udn-catebreaknews_ch2",
-            "time": "2025-08-08 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
-            "title": "德麥 上半年EPS 10.28元",
-            "link": "https://udn.com//news/story/7254/8925208?from=udn-catebreaknews_ch2",
             "time": "2025-08-08 03:00"
         }
     ]

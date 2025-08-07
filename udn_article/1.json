@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/08/realtime/32854065.jpg&s=Y&x=0&y=0&sw=708&sh=471&exp=3600&w=300",
+            "title": "為什麼川普的關稅有威力？ 謝金河：台灣20%「若保持不見得是壞」",
+            "link": "https://udn.com//news/story/124552/8925549?from=udn-catebreaknews_ch2",
+            "time": "2025-08-08 06:43"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/realtime/32851026.jpg&s=Y&x=0&y=30&sw=4000&sh=2666&exp=3600&w=300",
+            "title": "立委申報財務曝光！林思銘負債6千萬最高 他「無債一身輕」估身家上億",
+            "link": "https://udn.com//news/story/6656/8925055?from=udn-catebreaknews_ch2",
+            "time": "2025-08-08 06:21"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/1/32851998.png&s=Y&x=0&y=0&sw=799&sh=533&exp=3600&w=300",
             "title": "【總編開箱】半導體業成國安問題 賴政府如何應對蠶食鯨吞？",
             "link": "https://udn.com//news/story/124552/8925419?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "普發現金1萬 可望不排富 2,350億元預算 政院將全數照編",
             "link": "https://udn.com//news/story/6656/8925330?from=udn-catebreaknews_ch2",
             "time": "2025-08-08 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/23/realtime/32679981.jpg&s=Y&x=0&y=0&sw=4578&sh=3056&exp=3600&w=300",
-            "title": "核電重啟首場辯論登場 台電：核三先安檢再公投",
-            "link": "https://udn.com//news/story/124565/8925214?from=udn-catebreaknews_ch2",
-            "time": "2025-08-08 03:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/08/1/32851813.jpg&s=Y&x=4&y=0&sw=1275&sh=850&exp=3600&w=300",
-            "title": "核三公投首場說明會 葉宗洸：核三應恢復待命 曾文生：延役須科學檢測",
-            "link": "https://udn.com//news/story/124565/8925290?from=udn-catebreaknews_ch2",
-            "time": "2025-08-08 00:00"
         }
     ]
 }
