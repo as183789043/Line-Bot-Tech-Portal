@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/2/32847215.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "關稅利空中突圍 台股4個月大漲6743點漲幅38.7%",
+            "link": "https://udn.com//news/story/7251/8924991?from=udn-catebreaknews_ch2",
+            "time": "2025-08-07 20:39"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/2/32847270.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "台積電新天價1180元市值飆高 外資追捧零股交易居首",
             "link": "https://udn.com//news/story/7251/8924549?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "環球晶因為這個原因 股價直衝漲停",
             "link": "https://udn.com//news/story/7254/8924305?from=udn-catebreaknews_ch2",
             "time": "2025-08-07 15:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/realtime/32848431.jpg&s=Y&x=0&y=0&sw=3318&sh=2212&exp=3600&w=300",
-            "title": "威剛7月營收跳增四成達42.61億元 看好某大廠DDR4停產計畫不變",
-            "link": "https://udn.com//news/story/7254/8924289?from=udn-catebreaknews_ch2",
-            "time": "2025-08-07 15:39"
         }
     ]
 }
