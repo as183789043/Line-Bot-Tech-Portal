@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/04/2/32813056.jpg&s=Y&x=0&y=0&sw=1127&sh=751&exp=3600&w=300",
+            "title": "川普4月宣布關稅政策 金管會：台股累計漲逾1成",
+            "link": "https://udn.com//news/story/7251/8925162?from=udn-catebreaknews_ch2",
+            "time": "2025-08-07 22:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/23/2/32107850.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "台指期夜盤多頭接力！開高站穩24,000點 差距354點再創新高",
             "link": "https://udn.com//news/story/7255/8925011?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "川普拋關稅大魔王！台積電豁免大漲 高股息ETF開紅盤",
             "link": "https://udn.com//news/story/7251/8924570?from=udn-catebreaknews_ch2",
             "time": "2025-08-07 17:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/02/2/32795608.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "半導體關稅出爐 0050股價、規模再創新高",
-            "link": "https://udn.com//news/story/123006/8924494?from=udn-catebreaknews_ch2",
-            "time": "2025-08-07 16:52"
         }
     ]
 }
