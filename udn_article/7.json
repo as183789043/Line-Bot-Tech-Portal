@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/realtime/32847719.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "不畏台股震盪 國泰投信總座張雍川點名00878、00922規模逆勢增800億元",
+            "link": "https://udn.com//news/story/123006/8924124?from=udn-catebreaknews_ch2",
+            "time": "2025-08-07 14:39"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/0/32847701.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "台股上2萬4、台積電新天價1180元！網：00940表現依然冷清",
+            "link": "https://udn.com//news/story/123006/8924107?from=udn-catebreaknews_ch2",
+            "time": "2025-08-07 14:37"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/2/32846873.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "台積電內鬼「花上億買2豪宅」 網諷：準時上下班成破綻！",
             "link": "https://udn.com//news/story/12806/8923898?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台積電寫天價1180元領軍上攻！台股飆556點 收復2萬4創波段新高",
             "link": "https://udn.com//news/story/7251/8923963?from=udn-catebreaknews_ch2",
             "time": "2025-08-07 13:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/2/32846873.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "不怕半導體關稅！台積電股價勁揚 法人點名這族群有望同步受惠",
-            "link": "https://udn.com//news/story/7251/8923863?from=udn-catebreaknews_ch2",
-            "time": "2025-08-07 13:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/2/32846754.jpg&s=Y&x=0&y=96&sw=1279&sh=853&exp=3600&w=300",
-            "title": "台指期勁揚站上24,000大關 盤中大漲近600點",
-            "link": "https://udn.com//news/story/7255/8923831?from=udn-catebreaknews_ch2",
-            "time": "2025-08-07 13:14"
         }
     ]
 }
