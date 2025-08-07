@@ -1,10 +1,22 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/08/realtime/32852616.jpg&s=Y&x=0&y=0&sw=2702&sh=1801&exp=3600&w=300",
+            "title": "曾聽取黃仁勳意見 美商長：川普允許在美建廠不被課關稅",
+            "link": "https://udn.com//news/story/6813/8925460?from=udn-catebreaknews_ch2",
+            "time": "2025-08-08 01:58"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/realtime/32851834.jpg&s=Y&x=45&y=0&sw=1191&sh=794&exp=3600&w=300",
             "title": "美俄峰會下周登場 尋求俄烏終戰有所突破",
             "link": "https://udn.com//news/story/122663/8925364?from=udn-catebreaknews_ch2",
             "time": "2025-08-08 00:17"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
+            "title": "舉台積電、中美晶、聯電為例 劉鏡清：台廠3模式因應關稅",
+            "link": "https://udn.com//news/story/124373/8925416?from=udn-catebreaknews_ch2",
+            "time": "2025-08-08 00:16"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/realtime/32851851.jpg&s=Y&x=0&y=0&sw=1699&sh=1133&exp=3600&w=300",
@@ -13,22 +25,10 @@
             "time": "2025-08-08 00:15"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/1/32848879.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "蓋洛普民調：7成烏克蘭人 渴望達成終戰協議",
-            "link": "https://udn.com//news/story/122663/8925372?from=udn-catebreaknews_ch2",
-            "time": "2025-08-08 00:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/08/1/32852163.jpg&s=Y&x=20&y=12&sw=1261&sh=841&exp=3600&w=300",
-            "title": "全球塑膠公約減塑協議 環團：可能採總量限制",
-            "link": "https://udn.com//news/story/6809/8925378?from=udn-catebreaknews_ch2",
-            "time": "2025-08-08 00:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/08/1/32852165.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "美對印度祭出50%懲罰性關稅 恐搞砸聯手抗中戰略",
-            "link": "https://udn.com//news/story/124373/8925374?from=udn-catebreaknews_ch2",
-            "time": "2025-08-08 00:11"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
+            "title": "關稅戰蘋果直球對決 非蘋品牌陷苦戰",
+            "link": "https://udn.com//news/story/124373/8925415?from=udn-catebreaknews_ch2",
+            "time": "2025-08-08 00:15"
         }
     ]
 }

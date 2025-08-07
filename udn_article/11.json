@@ -1,6 +1,12 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/08/1/32852583.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "西寧機場 新航站啟用",
+            "link": "https://udn.com//news/story/7332/8925187?from=udn-catebreaknews_ch2",
+            "time": "2025-08-08 01:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/realtime/32851523.jpg&s=Y&x=0&y=0&sw=7008&sh=4672&exp=3600&w=300",
             "title": "昆明雲台會 聚焦RCEP商機",
             "link": "https://udn.com//news/story/7333/8925186?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2025-08-08 00:40"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_6.jpg&w=300",
             "title": "杭州數貿會 「六小龍」企業齊聚",
             "link": "https://udn.com//news/story/7333/8925184?from=udn-catebreaknews_ch2",
             "time": "2025-08-08 00:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_9.jpg&w=300",
-            "title": "閩對台徵才2100餘職缺",
-            "link": "https://udn.com//news/story/7333/8925183?from=udn-catebreaknews_ch2",
-            "time": "2025-08-08 00:39"
         }
     ]
 }
