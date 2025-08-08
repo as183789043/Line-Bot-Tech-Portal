@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/08/0/32854358.jpg&s=Y&x=0&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "一杯紅茶，藏著沒說出口的愛 黃路梓茵與運將老爸的陪伴練習",
+            "link": "https://udn.com//news/story/6837/8925573?from=udn-catebreaknews_ch2",
+            "time": "2025-08-08 07:46"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/08/0/32854321.jpg&s=Y&x=192&y=0&sw=1086&sh=724&exp=3600&w=300",
+            "title": "助學生考上頂大、老師工作減壓 她打造台灣最受歡迎AI筆記本",
+            "link": "https://udn.com//news/story/6837/8925569?from=udn-catebreaknews_ch2",
+            "time": "2025-08-08 07:40"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/draft/32845680.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
             "title": "半導體後段測試商機火爆 CoWoS及WMCM先進封裝產能積極擴張",
             "link": "https://udn.com//news/story/6851/8923543?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "半導體關稅將底定 大盤多空震盪",
             "link": "https://udn.com//news/story/6851/8923534?from=udn-catebreaknews_ch2",
             "time": "2025-08-07 13:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/31/0/32769930.jpg&s=Y&x=0&y=0&sw=1034&sh=688&exp=3600&w=300",
-            "title": "謝金河：這個世界在驚嚇、驚喜中運轉 財報效應帶來不同命運",
-            "link": "https://udn.com//news/story/6851/8923528?from=udn-catebreaknews_ch2",
-            "time": "2025-08-07 13:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/draft/32845579.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "AI財報外溢效應五大CSP廠獲利超預期",
-            "link": "https://udn.com//news/story/6851/8923524?from=udn-catebreaknews_ch2",
-            "time": "2025-08-07 13:06"
         }
     ]
 }
