@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/08/realtime/32859262.jpg&s=Y&x=0&y=0&sw=1179&sh=792&exp=3600&w=300",
+            "title": "緯創營收／7月1917億元 前7月合計已突破「兆元」關卡",
+            "link": "https://udn.com//news/story/7253/8926864?from=udn-catebreaknews_ch2",
+            "time": "2025-08-08 16:54"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/14/0/31857111.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "本周五大權值股4檔勝大盤！台積電、台達電創天價 生醫股奪漲幅王",
+            "link": "https://udn.com//news/story/7251/8926818?from=udn-catebreaknews_ch2",
+            "time": "2025-08-08 16:33"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/03/2/31020218.jpg&s=Y&x=0&y=0&sw=1132&sh=755&exp=3600&w=300",
+            "title": "健鼎財報爆棚股價飆新高 10檔ETF搭順風車",
+            "link": "https://udn.com//news/story/123006/8926810?from=udn-catebreaknews_ch2",
+            "time": "2025-08-08 16:26"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/06/realtime/32836368.jpg&s=Y&x=0&y=8&sw=1179&sh=786&exp=3600&w=300",
             "title": "華碩營收／7月548億元 月減近兩成寫近期新低",
             "link": "https://udn.com//news/story/7253/8926784?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "台股在全球標準型指數權重不變 不影響資金動向",
             "link": "https://udn.com//news/story/7251/8926768?from=udn-catebreaknews_ch2",
             "time": "2025-08-08 16:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/05/realtime/32822653.png&s=Y&x=0&y=14&sw=2002&sh=1334&exp=3600&w=300",
-            "title": "營建類股沒跟大盤一起漲？ 專家：這兩道風轉向了",
-            "link": "https://udn.com//news/story/7251/8926731?from=udn-catebreaknews_ch2",
-            "time": "2025-08-08 15:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/08/0/32858674.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "縮短等待期從一周變一天！富蘭克林華美推T+1基金轉換服務 即日上路",
-            "link": "https://udn.com//news/story/10103/8926723?from=udn-catebreaknews_ch2",
-            "time": "2025-08-08 15:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/15/2/32591639.jpg&s=Y&x=0&y=0&sw=1232&sh=821&exp=3600&w=300",
-            "title": "「小台積電」0052分割作業展開在即 降門檻後有望助攻市場流動性",
-            "link": "https://udn.com//news/story/123006/8926703?from=udn-catebreaknews_ch2",
-            "time": "2025-08-08 15:42"
         }
     ]
 }
