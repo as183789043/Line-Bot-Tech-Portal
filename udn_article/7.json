@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/29/2/32754920.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電亮麗業績未起作用 台指期夜盤震盪",
+            "link": "https://udn.com//news/story/7255/8927399?from=udn-catebreaknews_ch2",
+            "time": "2025-08-08 21:29"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/03/2/32450593.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
             "title": "川普關稅大刀祭出後 高盛點名：這兩檔台廠添利多",
             "link": "https://udn.com//news/story/7251/8927139?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "長榮營收／7月336億元、月增11.62% 傳統旺季所致",
             "link": "https://udn.com//news/story/7252/8927086?from=udn-catebreaknews_ch2",
             "time": "2025-08-08 18:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/25/98/31555188.jpg&s=Y&x=0&y=0&sw=1277&sh=851&exp=3600&w=300",
-            "title": "陽明營收／7月154億元 月增12.1%、年減39.1%",
-            "link": "https://udn.com//news/story/7252/8927078?from=udn-catebreaknews_ch2",
-            "time": "2025-08-08 18:12"
         }
     ]
 }
