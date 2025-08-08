@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/08/realtime/32861901.jpg&s=Y&x=0&y=23&sw=3117&sh=2078&exp=3600&w=300",
+            "title": "台積前7月營收 首突破2兆",
+            "link": "https://udn.com//news/story/7253/8927608?from=udn-catebreaknews_ch2",
+            "time": "2025-08-09 00:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/29/2/32754920.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台積電亮麗業績未起作用 台指期夜盤震盪",
             "link": "https://udn.com//news/story/7255/8927399?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "南亞科7月營收衝破站上50億元達53.53億元 3年來新高",
             "link": "https://udn.com//news/story/7253/8927089?from=udn-catebreaknews_ch2",
             "time": "2025-08-08 18:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/02/13/2/31486847.jpg&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
-            "title": "長榮營收／7月336億元、月增11.62% 傳統旺季所致",
-            "link": "https://udn.com//news/story/7252/8927086?from=udn-catebreaknews_ch2",
-            "time": "2025-08-08 18:17"
         }
     ]
 }

@@ -1,13 +1,25 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/08/98/32862723.jpg&s=Y&x=156&y=236&sw=960&sh=640&exp=3600&w=300",
+            "title": "全球最想長居城市 調查報告：台北擊敗新加坡奪冠",
+            "link": "https://udn.com//news/story/7314/8927642?from=udn-catebreaknews_ch2",
+            "time": "2025-08-09 01:54"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/09/1/32862638.jpg&s=Y&x=180&y=0&sw=1099&sh=733&exp=3600&w=300",
+            "title": "最快9月提出…軍購特別預算逾7000億 無人機戰力是重點",
+            "link": "https://udn.com//news/story/10930/8927709?from=udn-catebreaknews_ch2",
+            "time": "2025-08-09 01:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/08/realtime/32862069.jpg&s=Y&x=0&y=0&sw=2550&sh=1700&exp=3600&w=300",
             "title": "新聞眼／關稅疊加說不清 產業人心惶惶",
             "link": "https://udn.com//news/story/124552/8927687?from=udn-catebreaknews_ch2",
             "time": "2025-08-09 00:13"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
             "title": "王義川事件綠內訌失控！青鳥嗆綠性平部主任「被滲透」",
             "link": "https://udn.com//news/story/6656/8927680?from=udn-catebreaknews_ch2",
             "time": "2025-08-09 00:00"
@@ -16,18 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/08/realtime/32861933.jpg&s=Y&x=0&y=0&sw=2409&sh=1606&exp=3600&w=300",
             "title": "美對台關稅不只20% 須疊加原有稅率",
             "link": "https://udn.com//news/story/124552/8927618?from=udn-catebreaknews_ch2",
-            "time": "2025-08-09 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/09/1/32862061.jpg&s=Y&x=0&y=0&sw=1224&sh=816&exp=3600&w=300",
-            "title": "普發現金慢郎中 朝野齊轟政院",
-            "link": "https://udn.com//news/story/6656/8927674?from=udn-catebreaknews_ch2",
-            "time": "2025-08-09 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
-            "title": "憲法法庭公開書狀 受理總預算案",
-            "link": "https://udn.com//news/story/6656/8927683?from=udn-catebreaknews_ch2",
             "time": "2025-08-09 00:00"
         }
     ]
