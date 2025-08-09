@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/10/realtime/32868500.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "【總編開箱】日本爭取關稅免疊加 凸顯民進黨政府怠惰",
+            "link": "https://udn.com//news/story/124552/8929101?from=udn-catebreaknews_ch2",
+            "time": "2025-08-10 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/09/1/32868377.png&s=Y&x=4&y=0&sw=797&sh=531&exp=3600&w=300",
+            "title": "川普關稅海嘯來了 圖解全台產業受災區、各項新舊稅率變化",
+            "link": "https://udn.com//news/story/124552/8929065?from=udn-catebreaknews_ch2",
+            "time": "2025-08-10 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/10/1/32868587.jpg&s=Y&x=0&y=88&sw=1280&sh=853&exp=3600&w=300",
             "title": "紐時：台灣因關稅備感焦慮 賴總統政經壓力加劇",
             "link": "https://udn.com//news/story/124552/8929081?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "美對台關稅疊加…藍委籲派員赴美 爭取降稅率",
             "link": "https://udn.com//news/story/124552/8929078?from=udn-catebreaknews_ch2",
             "time": "2025-08-10 01:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/09/realtime/32865717.jpg&s=Y&x=0&y=12&sw=1624&sh=1082&exp=3600&w=300",
-            "title": "綠內參民調 總統支持度下滑但未崩盤",
-            "link": "https://udn.com//news/story/6656/8928990?from=udn-catebreaknews_ch2",
-            "time": "2025-08-10 00:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/09/realtime/32866344.jpeg&s=Y&x=0&y=0&sw=5105&sh=3403&exp=3600&w=300",
-            "title": "民眾黨全代會 爭論「二年條款」存廢",
-            "link": "https://udn.com//news/story/6656/8928996?from=udn-catebreaknews_ch2",
-            "time": "2025-08-10 00:11"
         }
     ]
 }
