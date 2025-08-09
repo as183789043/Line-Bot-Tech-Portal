@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/09/2/32867747.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
+            "title": "美對台關稅疊加衝擊 法人指「這五檔」分散生產台鏈股成焦點",
+            "link": "https://udn.com//news/story/7251/8928716?from=udn-catebreaknews_ch2",
+            "time": "2025-08-09 18:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/09/0/32866185.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "景氣燈號轉弱…台股要保守了？小童曝0050買賣防守價",
             "link": "https://udn.com//news/story/123006/8928265?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2025-08-09 12:18"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
             "title": "華碩7月營收月減20% 和碩減2%",
             "link": "https://udn.com//news/story/7253/8927463?from=udn-catebreaknews_ch2",
             "time": "2025-08-09 01:11"
@@ -23,12 +29,6 @@
             "title": "投資新手 首選台股基金",
             "link": "https://udn.com//news/story/10103/8927476?from=udn-catebreaknews_ch2",
             "time": "2025-08-09 00:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
-            "title": "留意風險 勿押單一市場",
-            "link": "https://udn.com//news/story/10103/8927478?from=udn-catebreaknews_ch2",
-            "time": "2025-08-09 00:54"
         }
     ]
 }
