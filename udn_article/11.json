@@ -1,6 +1,12 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/10/realtime/32872122.jpeg&s=Y&x=0&y=0&sw=8192&sh=5464&exp=3600&w=300",
+            "title": "港府稱屈公病輸入香港風險可能增加 要嚴陣以待",
+            "link": "https://udn.com//news/story/7331/8930011?from=udn-catebreaknews_ch2",
+            "time": "2025-08-10 18:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/10/2/32871659.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "工業富聯第2季凈利年增51%創同期新高 AI伺服器營收年增逾60%",
             "link": "https://udn.com//news/story/7333/8929883?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "陸金融監管戰略轉向 民眾單筆存取20萬需全面盡職調查",
             "link": "https://udn.com//news/story/7333/8929847?from=udn-catebreaknews_ch2",
             "time": "2025-08-10 16:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/10/realtime/32871095.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
-            "title": "降低對HBM技術依賴 傳華為12日發布AI推理領域突破性成果",
-            "link": "https://udn.com//news/story/7333/8929758?from=udn-catebreaknews_ch2",
-            "time": "2025-08-10 14:55"
         }
     ]
 }
