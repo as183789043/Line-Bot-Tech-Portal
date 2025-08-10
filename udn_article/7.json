@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/10/2/32871431.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "Meta AI眼鏡熱銷 法人看好瑞昱、台積電等供應鏈受惠",
+            "link": "https://udn.com//news/story/7253/8929772?from=udn-catebreaknews_ch2",
+            "time": "2025-08-10 15:06"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/10/0/32870016.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "0050正二持有一年停利5.8％！存股哥嘆「個性不搭」轉戰高股息：反人性抄底真做不到",
             "link": "https://udn.com//news/story/123006/8929382?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台積電2奈米外洩疑雲…傳TEL高層將來台善後！網轟：土下座切小指、告到死",
             "link": "https://udn.com//news/story/12806/8929100?from=udn-catebreaknews_ch2",
             "time": "2025-08-10 00:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/03/realtime/32809941.jpg&s=Y&x=0&y=0&sw=1889&sh=1260&exp=3600&w=300",
-            "title": "代工三強法說 關稅成焦點…AI伺服器出貨進度同受關注",
-            "link": "https://udn.com//news/story/7251/8928896?from=udn-catebreaknews_ch2",
-            "time": "2025-08-10 00:51"
         }
     ]
 }
