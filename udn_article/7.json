@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/01/2/32790043.jpg&s=Y&x=0&y=0&sw=1253&sh=835&exp=3600&w=300",
+            "title": "關稅疊加衝擊 台股備戰",
+            "link": "https://udn.com//news/story/7251/8930274?from=udn-catebreaknews_ch2",
+            "time": "2025-08-11 02:38"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/01/realtime/32785331.jpeg&s=Y&x=0&y=0&sw=3382&sh=2225&exp=3600&w=300",
             "title": "14檔「獲利績優生」領漲急先鋒 亞航、台達電等獲多頭買盤加持",
             "link": "https://udn.com//news/story/7251/8930191?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股正處高檔 億級大戶：關稅將讓物價漲「這些類股先別碰」",
             "link": "https://udn.com//news/story/12806/8929939?from=udn-catebreaknews_ch2",
             "time": "2025-08-10 17:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/01/realtime/32785330.jpeg&s=Y&x=171&y=0&sw=4008&sh=2673&exp=3600&w=300",
-            "title": "距離不到300點！台股站上2萬4本周再戰新高 先看明台積電董事會",
-            "link": "https://udn.com//news/story/7251/8929918?from=udn-catebreaknews_ch2",
-            "time": "2025-08-10 17:23"
         }
     ]
 }
