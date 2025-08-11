@@ -1,12 +1,6 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/11/realtime/32879604.jpg&s=Y&x=0&y=0&sw=2410&sh=1606&exp=3600&w=300",
-            "title": "抽成換許可！輝達、超微銷陸晶片營收 美政府拿15%",
-            "link": "https://udn.com//news/story/7240/8932673?from=udn-catebreaknews_ch2",
-            "time": "2025-08-12 00:17"
-        },
-        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/12/1/32879396.jpg&s=Y&x=60&y=68&sw=1159&sh=773&exp=3600&w=300",
             "title": "關稅衝擊！車廠7月營收全面衰退 豪華車衰退28.3%",
             "link": "https://udn.com//news/story/7238/8932510?from=udn-catebreaknews_ch2",
@@ -19,15 +13,21 @@
             "time": "2025-08-12 00:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_8.jpg&w=300",
             "title": "薪情落差卻很大！經常性薪資 近7成低於平均值",
             "link": "https://udn.com//news/story/7238/8932513?from=udn-catebreaknews_ch2",
             "time": "2025-08-12 00:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_9.jpg&w=300",
             "title": "業界分析 Z世代理財偏向存股 自學成風",
             "link": "https://udn.com//news/story/7238/8932514?from=udn-catebreaknews_ch2",
+            "time": "2025-08-12 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_7.jpg&w=300",
+            "title": "蘋果明年推新功能 全語音控制",
+            "link": "https://udn.com//news/story/7238/8932515?from=udn-catebreaknews_ch2",
             "time": "2025-08-12 00:00"
         }
     ]
