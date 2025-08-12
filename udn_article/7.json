@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/18/1/32327068.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "八方雲集財報／最強上半年！每股大賺5.81元 預計將配息4元",
+            "link": "https://udn.com//news/story/7252/8935038?from=udn-catebreaknews_ch2",
+            "time": "2025-08-12 20:44"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/12/realtime/32889554.jpg&s=Y&x=0&y=156&sw=1100&sh=733&exp=3600&w=300",
+            "title": "聯寶上半年本業獲利大增27倍 不敵匯損…每股純益降至0.38元",
+            "link": "https://udn.com//news/story/7254/8935021?from=udn-catebreaknews_ch2",
+            "time": "2025-08-12 20:36"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/12/98/32889246.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "台股收漲歷史次高、外資連3賣 台指期淨空單降至3.5萬口",
             "link": "https://udn.com//news/story/7255/8934816?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台泥8月13日起暫停交易 外界臆測與三元能源廠火災後續相關",
             "link": "https://udn.com//news/story/7252/8934817?from=udn-catebreaknews_ch2",
             "time": "2025-08-12 19:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/12/realtime/32889002.jpg&s=Y&x=0&y=456&sw=2079&sh=1386&exp=3600&w=300",
-            "title": "台幣升值影響 安馳第2季、上半年轉虧",
-            "link": "https://udn.com//news/story/7253/8934795?from=udn-catebreaknews_ch2",
-            "time": "2025-08-12 19:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/12/2/32889172.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "重訊待宣布 台泥8月13日起暫停交易",
-            "link": "https://udn.com//news/story/7252/8934774?from=udn-catebreaknews_ch2",
-            "time": "2025-08-12 18:57"
         }
     ]
 }
