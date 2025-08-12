@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/12/2/32888910.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "重訊待宣布 台泥8月13日起暫停交易",
+            "link": "https://udn.com//news/story/7252/8934774?from=udn-catebreaknews_ch2",
+            "time": "2025-08-12 18:57"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/12/realtime/32888821.jpg&s=Y&x=0&y=88&sw=1033&sh=689&exp=3600&w=300",
+            "title": "中興電財報／第2季EPS 1.9元 創同期新高",
+            "link": "https://udn.com//news/story/7252/8934761?from=udn-catebreaknews_ch2",
+            "time": "2025-08-12 18:49"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
+            "title": "長榮航財報／上半年每股盈餘2.34元 獲利126億元",
+            "link": "https://udn.com//news/story/7252/8934708?from=udn-catebreaknews_ch2",
+            "time": "2025-08-12 18:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/12/realtime/32888358.jpg&s=Y&x=0&y=25&sw=3399&sh=2266&exp=3600&w=300",
             "title": "大聯大第2季營收、營業利益、純益均超越財測高標 每股純益1.05元",
             "link": "https://udn.com//news/story/7253/8934651?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "台積電董事會通過第2季每股仍配息5元 注資子公司100億美元避險",
             "link": "https://udn.com//news/story/7253/8934630?from=udn-catebreaknews_ch2",
             "time": "2025-08-12 17:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/12/realtime/32888185.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "緯創財報／上半年每股賺4.06元 加碼18.75億改良美國達拉斯廠",
-            "link": "https://udn.com//news/story/7253/8934610?from=udn-catebreaknews_ch2",
-            "time": "2025-08-12 17:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/12/realtime/32887617.jpg&s=Y&x=0&y=124&sw=1465&sh=977&exp=3600&w=300",
-            "title": "和泰車上半年財報出爐！賺逾一股本EPS 14.83元 年減29.7%",
-            "link": "https://udn.com//news/story/7252/8934443?from=udn-catebreaknews_ch2",
-            "time": "2025-08-12 16:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/12/realtime/32887424.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
-            "title": "臻鼎法說會／載板玻布缺貨到何時？ 營運長：影響有限已有替代方案",
-            "link": "https://udn.com//news/story/7253/8934404?from=udn-catebreaknews_ch2",
-            "time": "2025-08-12 16:27"
         }
     ]
 }

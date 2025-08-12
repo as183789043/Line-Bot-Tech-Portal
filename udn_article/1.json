@@ -1,10 +1,22 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/12/realtime/32889003.jpeg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "會見華府智庫成員 朱立倫重申能源、增強國防立場",
+            "link": "https://udn.com//news/story/6656/8934796?from=udn-catebreaknews_ch2",
+            "time": "2025-08-12 19:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/12/realtime/32888614.jpg&s=Y&x=0&y=31&sw=4300&sh=2866&exp=3600&w=300",
             "title": "林岱樺爭取普發一萬 卓榮泰：努力配合力拚9月底前發放",
             "link": "https://udn.com//news/story/6656/8934700?from=udn-catebreaknews_ch2",
             "time": "2025-08-12 18:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/12/realtime/32888567.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "台灣「洗產地」被課高關稅？ 工具機業：要有憑有據",
+            "link": "https://udn.com//news/story/124552/8934689?from=udn-catebreaknews_ch2",
+            "time": "2025-08-12 18:09"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/12/realtime/32888043.jpg&s=Y&x=0&y=31&sw=4300&sh=2866&exp=3600&w=300",
@@ -17,18 +29,6 @@
             "title": "【重磅快評】傲慢的台灣形象 林明昕示範賴政府的外交災難",
             "link": "https://udn.com//news/story/6656/8934559?from=udn-catebreaknews_ch2",
             "time": "2025-08-12 17:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/12/98/32887978.jpg&s=Y&x=124&y=0&sw=1157&sh=772&exp=3600&w=300",
-            "title": "中經院長：台積電非無敵星星 談判不能「同一張牌打了又打」",
-            "link": "https://udn.com//news/story/124552/8934492?from=udn-catebreaknews_ch2",
-            "time": "2025-08-12 17:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/12/realtime/32887982.jpg&s=Y&x=0&y=0&sw=1290&sh=856&exp=3600&w=300",
-            "title": "國造105公厘輪型戰車最新D3樣車 官洩畫面曝光",
-            "link": "https://udn.com//news/story/10930/8934547?from=udn-catebreaknews_ch2",
-            "time": "2025-08-12 17:29"
         }
     ]
 }
