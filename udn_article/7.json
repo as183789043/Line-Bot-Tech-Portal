@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/13/2/32900646.jpg&s=Y&x=0&y=108&sw=1278&sh=852&exp=3600&w=300",
+            "title": "佳世達財報／受台幣升值影響 第2季 EPS 0.18元",
+            "link": "https://udn.com//news/story/7253/8937832?from=udn-catebreaknews_ch2",
+            "time": "2025-08-13 21:31"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/13/98/32900435.jpg&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
+            "title": "寶成上半年獲利年減36.2%　每股稅後盈餘1.75元",
+            "link": "https://udn.com//news/story/7252/8937753?from=udn-catebreaknews_ch2",
+            "time": "2025-08-13 20:39"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/13/98/32900329.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "大陸需求放緩、美元貶值影響　美利達上半年每股賺2.72元",
             "link": "https://udn.com//news/story/7252/8937648?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "和碩財報／匯損拖累 第2季獲利大減至2.87億元、上半年每股賺1.72元",
             "link": "https://udn.com//news/story/7253/8937549?from=udn-catebreaknews_ch2",
             "time": "2025-08-13 19:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/13/2/32900069.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "旺矽財報／AI 浪潮推動測試需求爆發 第2季每股賺6.67元",
-            "link": "https://udn.com//news/story/7254/8937542?from=udn-catebreaknews_ch2",
-            "time": "2025-08-13 19:15"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/13/realtime/32900030.jpg&s=Y&x=0&y=0&sw=5418&sh=3612&exp=3600&w=300",
-            "title": "潤德財報／上半年每股大賺8.51元 總經理盧玉璜接掌董座一職",
-            "link": "https://udn.com//news/story/7254/8937528?from=udn-catebreaknews_ch2",
-            "time": "2025-08-13 19:08"
         }
     ]
 }
