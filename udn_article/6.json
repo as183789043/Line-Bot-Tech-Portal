@@ -1,22 +1,10 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_7.jpg&w=300",
             "title": "立委促調高所得稅扣除額 財部：審慎評估",
             "link": "https://udn.com//news/story/7243/8938013?from=udn-catebreaknews_ch2",
             "time": "2025-08-14 00:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_8.jpg&w=300",
-            "title": "美財長暗示 聯準會應降息2碼",
-            "link": "https://udn.com//news/story/7238/8938003?from=udn-catebreaknews_ch2",
-            "time": "2025-08-14 00:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/13/realtime/32901002.jpg&s=Y&x=0&y=26&sw=3838&sh=2558&exp=3600&w=300",
-            "title": "預期美降息 全球股市上漲",
-            "link": "https://udn.com//news/story/7238/8938007?from=udn-catebreaknews_ch2",
-            "time": "2025-08-14 00:11"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/13/realtime/32901146.jpg&s=Y&x=0&y=38&sw=5209&sh=3472&exp=3600&w=300",
@@ -29,6 +17,18 @@
             "title": "郭智輝與半導體供應鏈座談 提5項關稅因應對策",
             "link": "https://udn.com//news/story/7238/8938024?from=udn-catebreaknews_ch2",
             "time": "2025-08-13 23:36"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/13/realtime/32901033.jpg&s=Y&x=0&y=0&sw=2273&sh=1511&exp=3600&w=300",
+            "title": "大講堂／在台推綠能 面臨社會不信任",
+            "link": "https://udn.com//news/story/7238/8938042?from=udn-catebreaknews_ch2",
+            "time": "2025-08-13 23:28"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/13/realtime/32901041.jpg&s=Y&x=0&y=0&sw=1748&sh=1133&exp=3600&w=300",
+            "title": "大講堂／陳坤宏：再生能源 也是地方安全網",
+            "link": "https://udn.com//news/story/7238/8938047?from=udn-catebreaknews_ch2",
+            "time": "2025-08-13 23:28"
         }
     ]
 }
