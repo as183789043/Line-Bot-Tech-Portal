@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/14/2/32906830.jpg&s=Y&x=0&y=0&sw=1232&sh=821&exp=3600&w=300",
+            "title": "近一周台股約平盤 00981A周漲逾5%領跑",
+            "link": "https://udn.com//news/story/123006/8939737?from=udn-catebreaknews_ch2",
+            "time": "2025-08-14 16:59"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/14/2/32906708.jpg&s=Y&x=0&y=23&sw=658&sh=439&exp=3600&w=300",
+            "title": "鴻海法說會／ASIC占AI伺服器營收達兩成 前景樂觀",
+            "link": "https://udn.com//news/story/7253/8939716?from=udn-catebreaknews_ch2",
+            "time": "2025-08-14 16:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/14/2/32906567.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股拉回修正…CPO概念股大爆發 這二檔個股強鎖漲停",
+            "link": "https://udn.com//news/story/7254/8939658?from=udn-catebreaknews_ch2",
+            "time": "2025-08-14 16:27"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/14/0/32906362.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "投信投顧公會理事長尤昭文：T+1轉申購是境內基金重要進化",
             "link": "https://udn.com//news/story/10103/8939613?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "富蘭克林華美投信啟動「基金轉申購T+1」試辦！ 石崇民：讓投資判斷事半功倍",
             "link": "https://udn.com//news/story/10103/8939547?from=udn-catebreaknews_ch2",
             "time": "2025-08-14 15:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/14/2/32906367.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "大立光除息28元、早盤秒填息 8月業績看更旺",
-            "link": "https://udn.com//news/story/7253/8939562?from=udn-catebreaknews_ch2",
-            "time": "2025-08-14 15:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/14/2/32906146.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "博智亮燈鎖漲停 原來是這個題材發酵了",
-            "link": "https://udn.com//news/story/7254/8939525?from=udn-catebreaknews_ch2",
-            "time": "2025-08-14 15:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/14/2/32906127.jpg&s=Y&x=0&y=124&sw=1280&sh=853&exp=3600&w=300",
-            "title": "佳世達法說會／董事長陳其宏：第4季展望混沌未明 下半年獲利變數多",
-            "link": "https://udn.com//news/story/7253/8939507?from=udn-catebreaknews_ch2",
-            "time": "2025-08-14 15:32"
         }
     ]
 }
