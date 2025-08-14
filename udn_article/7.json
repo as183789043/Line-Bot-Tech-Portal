@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/14/1/32907921.jpg&s=Y&x=0&y=36&sw=1280&sh=853&exp=3600&w=300",
+            "title": "群聯Q2每股純益3.6元近3季低點 上半年每股純益9.13元",
+            "link": "https://udn.com//news/story/7254/8940145?from=udn-catebreaknews_ch2",
+            "time": "2025-08-14 20:12"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/14/realtime/32907734.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "填息達陣！大同在王光祥領軍下 盤中完成填息",
+            "link": "https://udn.com//news/story/7252/8940086?from=udn-catebreaknews_ch2",
+            "time": "2025-08-14 19:49"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/14/2/32907385.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "上市櫃公司Q2季報出爐 法人按讚這十檔三優強勢指標股",
             "link": "https://udn.com//news/story/7251/8939969?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "近一周台股約平盤 00981A周漲逾5%領跑",
             "link": "https://udn.com//news/story/123006/8939737?from=udn-catebreaknews_ch2",
             "time": "2025-08-14 16:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/14/2/32906708.jpg&s=Y&x=0&y=23&sw=658&sh=439&exp=3600&w=300",
-            "title": "鴻海法說會／ASIC占AI伺服器營收達兩成 前景樂觀",
-            "link": "https://udn.com//news/story/7253/8939716?from=udn-catebreaknews_ch2",
-            "time": "2025-08-14 16:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/14/2/32906567.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台股拉回修正…CPO概念股大爆發 這二檔個股強鎖漲停",
-            "link": "https://udn.com//news/story/7254/8939658?from=udn-catebreaknews_ch2",
-            "time": "2025-08-14 16:27"
         }
     ]
 }
