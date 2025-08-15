@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/10/realtime/32872132.jpg&s=Y&x=47&y=0&sw=1794&sh=1196&exp=3600&w=300",
+            "title": "AI 領台股周線連2紅 下周續挑戰歷史新高",
+            "link": "https://udn.com//news/story/7251/8942285?from=udn-catebreaknews_ch2",
+            "time": "2025-08-15 17:57"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/15/2/32590553.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "00946最新配息0.058元 調升配息132%、預估年化配息率7.09%",
+            "link": "https://udn.com//news/story/123006/8942272?from=udn-catebreaknews_ch2",
+            "time": "2025-08-15 17:49"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/01/0/32791047.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "00878+金融股領息39萬！阿愷：高股息就是房客、讓房東不用擔心房價漲跌",
             "link": "https://udn.com//news/story/123006/8941978?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "AI眼鏡起風了！宏達電亮燈 這2檔也飆漲停",
             "link": "https://udn.com//news/story/7251/8941907?from=udn-catebreaknews_ch2",
             "time": "2025-08-15 15:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/08/2/32858504.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "台股周線漲1.3%連3紅！五大權值「它」最強、PCB 族群最風光",
-            "link": "https://udn.com//news/story/7251/8941881?from=udn-catebreaknews_ch2",
-            "time": "2025-08-15 15:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/15/0/32913310.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "台股逼近歷史高點…00878、00961領軍！高股息ETF除息前爆量",
-            "link": "https://udn.com//news/story/123006/8941827?from=udn-catebreaknews_ch2",
-            "time": "2025-08-15 14:45"
         }
     ]
 }
