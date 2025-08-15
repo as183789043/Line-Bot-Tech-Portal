@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/13/realtime/32895104.jpg&s=Y&x=0&y=0&sw=1179&sh=776&exp=3600&w=300",
+            "title": "鴻海重返200元大關 雙外資聯手齊升目標價",
+            "link": "https://udn.com//news/story/7253/8942454?from=udn-catebreaknews_ch2",
+            "time": "2025-08-15 19:40"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/19/2/32329562.jpg&s=Y&x=132&y=0&sw=1076&sh=717&exp=3600&w=300",
             "title": "AI帶動 上市公司上半年獲利年增逾11%",
             "link": "https://udn.com//news/story/7251/8942394?from=udn-catebreaknews_ch2",
@@ -13,22 +19,16 @@
             "time": "2025-08-15 18:40"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/08/2/32854728.jpg&s=Y&x=0&y=0&sw=1266&sh=844&exp=3600&w=300",
-            "title": "台股漲近百點外資買超53億 神達最受青睞",
-            "link": "https://udn.com//news/story/7251/8942360?from=udn-catebreaknews_ch2",
-            "time": "2025-08-15 18:38"
-        },
-        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/14/2/32901387.jpg&s=Y&x=0&y=0&sw=1265&sh=843&exp=3600&w=300",
             "title": "台股週線連三紅挑戰高點 上市公司總市值飆上78.4兆",
             "link": "https://udn.com//news/story/7251/8942380?from=udn-catebreaknews_ch2",
             "time": "2025-08-15 18:38"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/10/realtime/32872132.jpg&s=Y&x=47&y=0&sw=1794&sh=1196&exp=3600&w=300",
-            "title": "AI 領台股周線連2紅 下周續挑戰歷史新高",
-            "link": "https://udn.com//news/story/7251/8942285?from=udn-catebreaknews_ch2",
-            "time": "2025-08-15 17:57"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/08/2/32854728.jpg&s=Y&x=0&y=0&sw=1266&sh=844&exp=3600&w=300",
+            "title": "台股漲近百點外資買超53億 神達最受青睞",
+            "link": "https://udn.com//news/story/7251/8942360?from=udn-catebreaknews_ch2",
+            "time": "2025-08-15 18:38"
         }
     ]
 }
