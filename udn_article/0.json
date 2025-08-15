@@ -1,7 +1,19 @@
 {
     "即時": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/08/16/32917454.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "史指回落收跌 聯合健康推升道瓊盤中創歷史新高",
+            "link": "https://udn.com//news/story/6811/8942988?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-08-16 05:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/16/98/32917352.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "川普、普亭抵阿拉斯加 雙邊會聚焦俄烏停火",
+            "link": "https://udn.com//news/story/122663/8942976?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-08-16 04:19"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
             "title": "白宮：川普不再打算一對一會見普亭 幕僚全程陪同",
             "link": "https://udn.com//news/story/122663/8942977?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-08-16 04:17"
@@ -17,18 +29,6 @@
             "title": "美俄峰會將登場 川普：領土交換由烏克蘭決定",
             "link": "https://udn.com//news/story/122663/8942956?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-08-16 03:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/16/realtime/32917068.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
-            "title": "聯邦政府接管警局越權？華府檢察長提告川普",
-            "link": "https://udn.com//news/story/6813/8942954?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-08-16 02:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/16/realtime/32916808.jpg&s=Y&x=0&y=5&sw=776&sh=516&exp=3600&w=300",
-            "title": "9個月沒放假勤動筆不空想 她考一次就拚上國營事業死亡之組",
-            "link": "https://udn.com//news/story/6939/8942932?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-08-16 00:40"
         }
     ]
 }
