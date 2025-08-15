@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
+            "title": "白宮：川普不再打算一對一會見普亭 幕僚全程陪同",
+            "link": "https://udn.com//news/story/122663/8942977?from=udn-catebreaknews_ch2",
+            "time": "2025-08-16 04:17"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/15/realtime/32909479.jpg&s=Y&x=0&y=0&sw=2896&sh=1936&exp=3600&w=300",
+            "title": "美俄峰會將登場 川普：領土交換由烏克蘭決定",
+            "link": "https://udn.com//news/story/122663/8942956?from=udn-catebreaknews_ch2",
+            "time": "2025-08-16 03:31"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/16/realtime/32917068.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
             "title": "聯邦政府接管警局越權？華府檢察長提告川普",
             "link": "https://udn.com//news/story/6813/8942954?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2025-08-16 01:57"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
             "title": "川普家族投資 美加密幣礦商擬併亞企",
             "link": "https://udn.com//news/story/6811/8942771?from=udn-catebreaknews_ch2",
             "time": "2025-08-16 01:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
-            "title": "日上季GDP亮眼 日圓走升",
-            "link": "https://udn.com//news/story/6811/8942774?from=udn-catebreaknews_ch2",
-            "time": "2025-08-16 01:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/15/realtime/32912752.jpg&s=Y&x=0&y=0&sw=4232&sh=2822&exp=3600&w=300",
-            "title": "波克夏第2季減碼蘋果、美銀 大買聯合健保集團股票",
-            "link": "https://udn.com//news/story/6811/8942746?from=udn-catebreaknews_ch2",
-            "time": "2025-08-16 01:54"
         }
     ]
 }
