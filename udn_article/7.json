@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/17/realtime/32926975.jpg&s=Y&x=0&y=0&sw=4286&sh=2822&exp=3600&w=300",
+            "title": "台股氣勢強、量能擴大 本周續戰歷史高點",
+            "link": "https://udn.com//news/story/7251/8945102?from=udn-catebreaknews_ch2",
+            "time": "2025-08-17 17:27"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/17/0/32926560.jpg&s=Y&x=0&y=108&sw=1230&sh=820&exp=3600&w=300",
             "title": "關稅、通膨、AI同時發生 身價破億投資人：我要開始找副業",
             "link": "https://udn.com//news/story/12806/8944964?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "「核電1元、風電6元」童子賢酸爆能源政策：不會持家就辭職",
             "link": "https://udn.com//news/story/12806/8944475?from=udn-catebreaknews_ch2",
             "time": "2025-08-17 10:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/14/2/32907384.jpg&s=Y&x=0&y=0&sw=1265&sh=843&exp=3600&w=300",
-            "title": "法人掃貨 落後補漲股出列…元太、技嘉等吸引資金目光",
-            "link": "https://udn.com//news/story/7251/8944182?from=udn-catebreaknews_ch2",
-            "time": "2025-08-17 03:41"
         }
     ]
 }
