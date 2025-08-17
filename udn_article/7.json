@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/17/0/32925086.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "除了AI沒救？台股創新高引爆悲觀潮",
+            "link": "https://udn.com//news/story/12806/8944570?from=udn-catebreaknews_ch2",
+            "time": "2025-08-17 10:51"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/17/0/32925039.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "台積電豁免生變？川普喊晶片關稅恐飆300％ 市場全炸鍋",
+            "link": "https://udn.com//news/story/12806/8944545?from=udn-catebreaknews_ch2",
+            "time": "2025-08-17 10:46"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/17/0/32924884.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "「核電1元、風電6元」童子賢酸爆能源政策：不會持家就辭職",
+            "link": "https://udn.com//news/story/12806/8944475?from=udn-catebreaknews_ch2",
+            "time": "2025-08-17 10:11"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/14/2/32907384.jpg&s=Y&x=0&y=0&sw=1265&sh=843&exp=3600&w=300",
             "title": "法人掃貨 落後補漲股出列…元太、技嘉等吸引資金目光",
             "link": "https://udn.com//news/story/7251/8944182?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "外資領近8,000億股息 創新高…上市櫃發放2.2兆元寫次高",
             "link": "https://udn.com//news/story/7251/8944188?from=udn-catebreaknews_ch2",
             "time": "2025-08-17 03:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/17/2/32923195.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "18、20日參加櫃買舉辦發表會 弘塑、旺矽揭露業績展望",
-            "link": "https://udn.com//news/story/7254/8944202?from=udn-catebreaknews_ch2",
-            "time": "2025-08-17 02:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
-            "title": "證交所18日起邀PCB鏈分享營運概況 臻鼎、定穎、景碩談前景",
-            "link": "https://udn.com//news/story/7251/8944198?from=udn-catebreaknews_ch2",
-            "time": "2025-08-17 02:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/16/2/32916541.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "國泰金22日法說 雙率及美國關稅衝擊等議題聚焦",
-            "link": "https://udn.com//news/story/7252/8944185?from=udn-catebreaknews_ch2",
-            "time": "2025-08-17 02:13"
         }
     ]
 }
