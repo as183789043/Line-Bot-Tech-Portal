@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/18/realtime/32928235.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "【總編開箱】從雙普會 台灣看到了什麼",
+            "link": "https://udn.com//news/story/6656/8945635?from=udn-catebreaknews_ch2",
+            "time": "2025-08-18 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/18/realtime/32928355.jpg&s=Y&x=0&y=0&sw=3872&sh=2592&exp=3600&w=300",
             "title": "原民沒有秘密投票權？全台逾2000「一人投票所」 投票即亮票壓力山大",
             "link": "https://udn.com//news/story/6656/8945644?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "一人投票所怪象 投票即亮票",
             "link": "https://udn.com//news/story/6656/8945603?from=udn-catebreaknews_ch2",
             "time": "2025-08-18 00:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/17/realtime/32925042.jpg&s=Y&x=0&y=296&sw=3672&sh=2448&exp=3600&w=300",
-            "title": "郭智輝頻失言…曾文生、龔明鑫 經長熱門人選",
-            "link": "https://udn.com//news/story/6656/8945602?from=udn-catebreaknews_ch2",
-            "time": "2025-08-18 00:17"
         }
     ]
 }
