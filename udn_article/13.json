@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/18/draft/32932180.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "從晶片換稀土看中美談判桌上的籌碼與利益權衡",
+            "link": "https://udn.com//news/story/6871/8946718?from=udn-catebreaknews_ch2",
+            "time": "2025-08-18 15:02"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/18/draft/32932140.jpg&s=Y&x=62&y=0&sw=945&sh=631&exp=3600&w=300",
+            "title": "AI與區塊鏈專利審查迎來重大變革：印度釋出《2025年電腦相關發明指引》",
+            "link": "https://udn.com//news/story/6871/8946702?from=udn-catebreaknews_ch2",
+            "time": "2025-08-18 14:49"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/18/draft/32931952.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "標準必要專利的授權層級之爭：從ETSI IPR政策談起 — 評析 Continental v. Avanci 案並回顧 FTC v. Qualcomm 判決",
             "link": "https://udn.com//news/story/6871/8946656?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "丹麥將用《著作權法》保護個人特徵免受深偽技術侵害？2025年丹麥《著作權法》修正草案介紹",
             "link": "https://udn.com//news/story/6871/8946562?from=udn-catebreaknews_ch2",
             "time": "2025-08-18 13:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/18/draft/32931639.jpg&s=Y&x=0&y=0&sw=1024&sh=683&exp=3600&w=300",
-            "title": "以實例評析台應如何認定營業秘密「意圖要件」 避免造成美認定之非關稅貿易障礙",
-            "link": "https://udn.com//news/story/6871/8946533?from=udn-catebreaknews_ch2",
-            "time": "2025-08-18 13:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/18/realtime/32929929.jpg&s=Y&x=93&y=0&sw=2814&sh=1877&exp=3600&w=300",
-            "title": "高階玻纖布供貨緊俏 美系CSP機電工程需求旺！7檔AI黑馬出列",
-            "link": "https://udn.com//news/story/6839/8946260?from=udn-catebreaknews_ch2",
-            "time": "2025-08-18 13:47"
         }
     ]
 }
