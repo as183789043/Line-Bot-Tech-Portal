@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/24/2/32699886.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "川普「忠誠榜」要來了 台指期夜盤受累下跌",
+            "link": "https://udn.com//news/story/7255/8947425?from=udn-catebreaknews_ch2",
+            "time": "2025-08-18 21:26"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/13/realtime/32895104.jpg&s=Y&x=0&y=0&sw=1179&sh=776&exp=3600&w=300",
             "title": "台股創新高外資買超44億元 連10買鴻海",
             "link": "https://udn.com//news/story/7251/8947255?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "PCB、AI、矽光子和軍工多頭併進 台光電等續創天價",
             "link": "https://udn.com//news/story/7251/8947019?from=udn-catebreaknews_ch2",
             "time": "2025-08-18 17:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/18/realtime/32933468.jpg&s=Y&x=81&y=0&sw=654&sh=436&exp=3600&w=300",
-            "title": "日股續創高挑戰44,000點 日股僅這檔商社ETF逆勢增",
-            "link": "https://udn.com//news/story/123006/8946989?from=udn-catebreaknews_ch2",
-            "time": "2025-08-18 17:00"
         }
     ]
 }
