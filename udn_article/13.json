@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/11/realtime/30484702.jpg&s=Y&x=0&y=7&sw=1024&sh=682&exp=3600&w=300",
+            "title": "台灣大學生程度越來越差？李家同：時代已經變了「別再倚老賣老，看扁年輕人」",
+            "link": "https://udn.com//news/story/6839/8948262?from=udn-catebreaknews_ch2",
+            "time": "2025-08-19 11:03"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/18/draft/32933138.jpg&s=Y&x=84&y=0&sw=900&sh=601&exp=3600&w=300",
             "title": "BIOMED-X「淘金PITCH競賽」揭榜 6強新創奪資源加速落地醫療市場",
             "link": "https://udn.com//news/story/6871/8946910?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "國際藥廠新藥加速上市策略：孤兒藥認定",
             "link": "https://udn.com//news/story/6871/8946828?from=udn-catebreaknews_ch2",
             "time": "2025-08-18 15:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/18/draft/32932718.jpg&s=Y&x=0&y=0&sw=943&sh=633&exp=3600&w=300",
-            "title": "台廠在智慧車載供應鏈的機會與挑戰",
-            "link": "https://udn.com//news/story/6871/8946809?from=udn-catebreaknews_ch2",
-            "time": "2025-08-18 15:35"
         }
     ]
 }
