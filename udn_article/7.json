@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/19/2/32942734.jpg&s=Y&x=0&y=0&sw=1266&sh=844&exp=3600&w=300",
+            "title": "外資賣超110億元 這檔盤中創高股最獲外資青睞、大買1.8萬張",
+            "link": "https://udn.com//news/story/7251/8949395?from=udn-catebreaknews_ch2",
+            "time": "2025-08-19 18:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/19/realtime/32942514.jpg&s=Y&x=0&y=520&sw=4284&sh=2856&exp=3600&w=300",
+            "title": "撼訊法說會／回收鋰獲Panasonic訂單 循環經濟將成為第二成長引擎",
+            "link": "https://udn.com//news/story/7254/8949347?from=udn-catebreaknews_ch2",
+            "time": "2025-08-19 17:39"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/19/2/32942638.jpg&s=Y&x=0&y=168&sw=1024&sh=683&exp=3600&w=300",
+            "title": "市場按讚呼聲高 AI伺服器需求爆發！這二家硬體廠訂單吃補",
+            "link": "https://udn.com//news/story/7251/8949336?from=udn-catebreaknews_ch2",
+            "time": "2025-08-19 17:36"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/19/realtime/32942318.jpg&s=Y&x=0&y=42&sw=5712&sh=3808&exp=3600&w=300",
             "title": "神基法說會／下半年逐季成長 切入 AI 伺服器商機",
             "link": "https://udn.com//news/story/7253/8949282?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "首檔台日跨境ETF預計9月18日掛牌 野村拚雙邊互掛",
             "link": "https://udn.com//news/story/123006/8949139?from=udn-catebreaknews_ch2",
             "time": "2025-08-19 17:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/19/2/32942246.jpg&s=Y&x=0&y=60&sw=1232&sh=821&exp=3600&w=300",
-            "title": "降息預期升溫！債市行情提前啟動行情 BBB投等債ETF吸睛",
-            "link": "https://udn.com//news/story/123006/8949259?from=udn-catebreaknews_ch2",
-            "time": "2025-08-19 16:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/19/2/32942235.jpg&s=Y&x=104&y=0&sw=1076&sh=717&exp=3600&w=300",
-            "title": "沛波法說會／鋼筋需求穩定 訂單能見度直達2026年第1季",
-            "link": "https://udn.com//news/story/7254/8949257?from=udn-catebreaknews_ch2",
-            "time": "2025-08-19 16:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/19/2/32942068.jpg&s=Y&x=0&y=0&sw=1265&sh=843&exp=3600&w=300",
-            "title": "高盛看好AI眼鏡商機、市場規模估逾兆元 宏達電股價漲停井噴",
-            "link": "https://udn.com//news/story/7253/8949204?from=udn-catebreaknews_ch2",
-            "time": "2025-08-19 16:34"
         }
     ]
 }
