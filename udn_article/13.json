@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/14/2/32906708.jpg&s=Y&x=0&y=23&sw=658&sh=439&exp=3600&w=300",
+            "title": "鴻海一度站上200元！AI伺服器上季營收增60% 楊秋瑾：AI是長期成長趨勢",
+            "link": "https://udn.com//news/story/6839/8948308?from=udn-catebreaknews_ch2",
+            "time": "2025-08-19 11:15"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/09/11/realtime/30484702.jpg&s=Y&x=0&y=7&sw=1024&sh=682&exp=3600&w=300",
             "title": "台灣大學生程度越來越差？李家同：時代已經變了「別再倚老賣老，看扁年輕人」",
             "link": "https://udn.com//news/story/6839/8948262?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "更正專利說明書中藥物化學結構圖式是否造成申請專利範圍擴張？以Cubist Pharmaceuticals, Inc. v. Hospira, Inc. (Fed. Cir. 2015) 為例",
             "link": "https://udn.com//news/story/6871/8946842?from=udn-catebreaknews_ch2",
             "time": "2025-08-18 15:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/18/draft/32932788.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "國際藥廠新藥加速上市策略：孤兒藥認定",
-            "link": "https://udn.com//news/story/6871/8946828?from=udn-catebreaknews_ch2",
-            "time": "2025-08-18 15:51"
         }
     ]
 }
