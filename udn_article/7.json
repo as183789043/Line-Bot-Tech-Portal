@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/21/1/32952617.jpg&s=Y&x=40&y=44&sw=1239&sh=826&exp=3600&w=300",
+            "title": "台股在「黑天鵝」突襲下重摔 台積市值蒸發1.3兆元",
+            "link": "https://udn.com//news/story/7251/8952563?from=udn-catebreaknews_ch2",
+            "time": "2025-08-20 23:45"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/17/0/32927660.jpg&s=Y&x=24&y=0&sw=1257&sh=838&exp=3600&w=300",
             "title": "外資賣超626億元史上11大 調節台灣50逾13萬張",
             "link": "https://udn.com//news/story/7251/8952354?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股重挫728點 金管會穩信心：擔保維持率181%",
             "link": "https://udn.com//news/story/7251/8952055?from=udn-catebreaknews_ch2",
             "time": "2025-08-20 20:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/20/realtime/32951673.jpg&s=Y&x=0&y=4&sw=588&sh=392&exp=3600&w=300",
-            "title": "掌握趨勢 證交所 PCB 產業主題式業績發表會場場滿座",
-            "link": "https://udn.com//news/story/7251/8952166?from=udn-catebreaknews_ch2",
-            "time": "2025-08-20 19:57"
         }
     ]
 }
