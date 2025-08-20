@@ -1,7 +1,19 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/21/realtime/32952798.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "【總編開箱】權勢背後是人心  2005年馬英九模式是國民黨新主席參考書？",
+            "link": "https://udn.com//news/story/6656/8952672?from=udn-catebreaknews_ch2",
+            "time": "2025-08-21 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/20/realtime/32952467.png&s=Y&x=0&y=5&sw=800&sh=532&exp=3600&w=300",
+            "title": "要補助就拿股權換 美商長點名台積電 圖解晶片法誰受益最大",
+            "link": "https://udn.com//news/story/7314/8952582?from=udn-catebreaknews_ch2",
+            "time": "2025-08-21 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
             "title": "明年歲出 將增1,100億",
             "link": "https://udn.com//news/story/6656/8952463?from=udn-catebreaknews_ch2",
             "time": "2025-08-21 03:00"
@@ -17,18 +29,6 @@
             "title": "觀察站／用徐國勇牽制蘇系 賴主席綿裡針？",
             "link": "https://udn.com//news/story/6656/8952615?from=udn-catebreaknews_ch2",
             "time": "2025-08-21 00:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/10/realtime/32545101.jpeg&s=Y&x=0&y=0&sw=3122&sh=2038&exp=3600&w=300",
-            "title": "明年國防預算上看8500億 占GDP3％",
-            "link": "https://udn.com//news/story/10930/8952618?from=udn-catebreaknews_ch2",
-            "time": "2025-08-21 00:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/20/realtime/32952597.png&s=Y&x=197&y=0&sw=2061&sh=1374&exp=3600&w=300",
-            "title": "愛國者二型防空飛彈升空4秒自爆 軍方調查",
-            "link": "https://udn.com//news/story/10930/8952619?from=udn-catebreaknews_ch2",
-            "time": "2025-08-21 00:03"
         }
     ]
 }
