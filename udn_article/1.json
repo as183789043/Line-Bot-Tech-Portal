@@ -1,6 +1,24 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/20/realtime/32947421.jpg&s=Y&x=376&y=0&sw=1314&sh=876&exp=3600&w=300",
+            "title": "賴清德稱「終戰」惹議 游淑慧批錯亂：被殖民的很開心？",
+            "link": "https://udn.com//news/story/6656/8950480?from=udn-catebreaknews_ch2",
+            "time": "2025-08-20 09:15"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/20/realtime/32947038.png&s=Y&x=0&y=248&sw=2121&sh=1414&exp=3600&w=300",
+            "title": "重啟核三公投倒數 嘉市藍白合最後一場說明會登場催票",
+            "link": "https://udn.com//news/story/124565/8950411?from=udn-catebreaknews_ch2",
+            "time": "2025-08-20 08:27"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/19/realtime/32942931.jpg&s=Y&x=388&y=0&sw=3225&sh=2151&exp=3600&w=300",
+            "title": "賴清德淨零淪口號！台電火力全開 碳排連9年破9000萬噸",
+            "link": "https://udn.com//news/story/6656/8949487?from=udn-catebreaknews_ch2",
+            "time": "2025-08-20 08:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/19/1/32944954.png&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "賴政府能源政策期中考 823全民一起打分數",
             "link": "https://udn.com//news/story/6656/8950264?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "朱盧結盟拚連任黨主席？凌濤：意志堅定「一定交棒」",
             "link": "https://udn.com//news/story/6656/8950285?from=udn-catebreaknews_ch2",
             "time": "2025-08-20 01:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/07/98/32488466.jpg&s=Y&x=0&y=64&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台日簽備忘錄 迄今未送立院備查",
-            "link": "https://udn.com//news/story/6656/8950207?from=udn-catebreaknews_ch2",
-            "time": "2025-08-20 00:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/16/realtime/32602035.jpg&s=Y&x=0&y=0&sw=5346&sh=3575&exp=3600&w=300",
-            "title": "台日簽備忘錄…立委蒙鼓裡 批程序有問題",
-            "link": "https://udn.com//news/story/6656/8950209?from=udn-catebreaknews_ch2",
-            "time": "2025-08-20 00:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/19/realtime/32944839.jpg&s=Y&x=0&y=0&sw=3888&sh=2592&exp=3600&w=300",
-            "title": "讀賣新聞：因應「台灣有事」 台日簽備忘錄防共諜",
-            "link": "https://udn.com//news/story/6656/8950206?from=udn-catebreaknews_ch2",
-            "time": "2025-08-20 00:23"
         }
     ]
 }
