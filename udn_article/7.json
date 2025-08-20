@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/20/2/32949179.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "台積電下探1,135元、台股重挫700點！安控這3檔緊鎖漲停",
+            "link": "https://udn.com//news/story/7251/8951226?from=udn-catebreaknews_ch2",
+            "time": "2025-08-20 13:10"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
+            "title": "台股重挫逾600點 宏達電挾 AI 眼鏡題材逆勢漲 這檔概念股也抗跌",
+            "link": "https://udn.com//news/story/7253/8951211?from=udn-catebreaknews_ch2",
+            "time": "2025-08-20 13:02"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/20/0/32949053.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "川普要入股台積電…台股同步大跌！股添樂「給錢要股票」：12樓山景套房住戶出爐",
+            "link": "https://udn.com//news/story/12806/8951152?from=udn-catebreaknews_ch2",
+            "time": "2025-08-20 12:48"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
             "title": "大盤走跌不怕！智原早盤逆勢漲逾半根停板",
             "link": "https://udn.com//news/story/7253/8951049?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "賣出台達電（2308）和奇鋐（3017）！直雲：應該是假利空但先調節股票",
             "link": "https://udn.com//news/story/12806/8950856?from=udn-catebreaknews_ch2",
             "time": "2025-08-20 11:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/20/0/32948533.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "00878連三降息…投資人轉00918三周賺53K！網讚「時間點抓得漂亮」",
-            "link": "https://udn.com//news/story/123006/8950948?from=udn-catebreaknews_ch2",
-            "time": "2025-08-20 11:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
-            "title": "什麼原因？PCB 族群殺聲隆隆 楠梓電卻逆勢漲停",
-            "link": "https://udn.com//news/story/7253/8950947?from=udn-catebreaknews_ch2",
-            "time": "2025-08-20 11:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
-            "title": "台股創高後回落 含這類的 ETF 動能續強",
-            "link": "https://udn.com//news/story/123006/8950910?from=udn-catebreaknews_ch2",
-            "time": "2025-08-20 11:30"
         }
     ]
 }
