@@ -1,7 +1,7 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/21/2/32961746.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/21/2/32961746.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "醫療險恐調漲！壽險業臨三大挑戰 舊保單告知成最大風暴",
             "link": "https://udn.com//news/story/7239/8954865?from=udn-catebreaknews_ch2",
             "time": "2025-08-21 22:12"
@@ -11,6 +11,12 @@
             "title": "醫療險喊漲恐衝擊數百萬保戶 金管會提三點說明",
             "link": "https://udn.com//news/story/7239/8954862?from=udn-catebreaknews_ch2",
             "time": "2025-08-21 22:11"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/21/realtime/32961577.jpg&s=Y&x=0&y=0&sw=2508&sh=1672&exp=3600&w=300",
+            "title": "上銀科技蟬聯五屆榮獲「機器人智動系統優質獎ARSI」",
+            "link": "https://udn.com//news/story/7241/8954831?from=udn-catebreaknews_ch2",
+            "time": "2025-08-21 21:57"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/21/realtime/32959697.jpg&s=Y&x=0&y=0&sw=1585&sh=1033&exp=3600&w=300",
@@ -23,12 +29,6 @@
             "title": "允能雲林離岸風場：正式邁入商業運轉 640 MW、80座風機全數併網發電",
             "link": "https://udn.com//news/story/7241/8954734?from=udn-catebreaknews_ch2",
             "time": "2025-08-21 20:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/21/realtime/32960650.jpg&s=Y&x=4&y=336&sw=3996&sh=2664&exp=3600&w=300",
-            "title": "美國總統川普擬「入股」台積電 童子賢：呼籲政府「拿開你干預的手」",
-            "link": "https://udn.com//news/story/7240/8954568?from=udn-catebreaknews_ch2",
-            "time": "2025-08-21 19:19"
         }
     ]
 }
