@@ -1,6 +1,24 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/08/22/32963893.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "市場關注鮑爾演說 美股道瓊跌逾150點、史指連5日收黑 ",
+            "link": "https://udn.com//news/story/6811/8955232?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-08-22 04:58"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/22/realtime/32963805.jpg&s=Y&x=0&y=0&sw=8192&sh=5464&exp=3600&w=300",
+            "title": "美歐公布貿易架構聯合聲明：藥品、半導體關稅最高15%",
+            "link": "https://udn.com//news/story/124373/8955226?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-08-22 04:34"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/11/98/32876781.jpg&s=Y&x=18&y=8&sw=1247&sh=832&exp=3600&w=300",
+            "title": "以色列總理內唐亞胡：啟動加薩停火談判 結束戰爭釋放人質",
+            "link": "https://udn.com//news/story/6809/8955218?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-08-22 04:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/22/realtime/32963064.jpg&s=Y&x=0&y=0&sw=2694&sh=1796&exp=3600&w=300",
             "title": "聯邦接管華府治安 川普預告周四晚上與警察一起巡邏",
             "link": "https://udn.com//news/story/6813/8955192?from=udn-ch1_breaknews-1-0-news",
@@ -11,24 +29,6 @@
             "title": "川普推各州選區重劃 密蘇里州是下一個",
             "link": "https://udn.com//news/story/6813/8955191?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-08-22 01:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/22/realtime/32962784.jpg&s=Y&x=0&y=0&sw=5255&sh=3503&exp=3600&w=300",
-            "title": "紐約上訴法院推翻近5億美元罰款 川普：完全勝利",
-            "link": "https://udn.com//news/story/6813/8955170?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-08-22 00:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/22/realtime/32962768.jpeg&s=Y&x=0&y=40&sw=3024&sh=2016&exp=3600&w=300",
-            "title": "達明、和椿、新漢大佬看人形機器人風向球 林茂昌：未來一年半是關鍵",
-            "link": "https://udn.com//news/story/7241/8955168?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-08-22 00:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/22/realtime/32962685.jpg&s=Y&x=0&y=104&sw=1459&sh=973&exp=3600&w=300",
-            "title": "中信結盟統一 點數生態圈大戰重新啟動",
-            "link": "https://udn.com//news/story/7239/8955158?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-08-22 00:33"
         }
     ]
 }
