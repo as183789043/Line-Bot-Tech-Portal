@@ -1,6 +1,12 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_5.jpg&w=300",
+            "title": "央視：H20晶片有「後門」",
+            "link": "https://udn.com//news/story/7333/8958923?from=udn-catebreaknews_ch2",
+            "time": "2025-08-24 02:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/24/2/32981145.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "陸反內捲 鎖定電商平台…要求不得強制店家以低於成本價格銷售商品",
             "link": "https://udn.com//news/story/7333/8958936?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2025-08-24 01:35"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_6.jpg&w=300",
             "title": "陸外賣大戰 重創中小餐飲業",
             "link": "https://udn.com//news/story/7333/8958935?from=udn-catebreaknews_ch2",
             "time": "2025-08-24 01:35"
@@ -23,12 +29,6 @@
             "title": "華為雲大整合強攻AI…裁撤多個部門 力拚今年獲利",
             "link": "https://udn.com//news/story/7333/8958932?from=udn-catebreaknews_ch2",
             "time": "2025-08-24 01:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_5.jpg&w=300",
-            "title": "輝達漸停產H20 為陸準備新晶片",
-            "link": "https://udn.com//news/story/7333/8958901?from=udn-catebreaknews_ch2",
-            "time": "2025-08-24 00:00"
         }
     ]
 }

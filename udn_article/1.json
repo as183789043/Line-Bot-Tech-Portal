@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/23/realtime/32980734.png&s=Y&x=0&y=5&sw=801&sh=534&exp=3600&w=300",
+            "title": "立委罷免案0通過、核三公投一面倒 圖解開票關鍵數據",
+            "link": "https://udn.com//news/story/124323/8959074?from=udn-catebreaknews_ch2",
+            "time": "2025-08-24 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/23/1/32980879.png&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "【總編開箱】二次罷免與公投落幕 台灣政治回到原點之後？",
+            "link": "https://udn.com//news/story/6656/8959040?from=udn-catebreaknews_ch2",
+            "time": "2025-08-24 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/23/2/32979873.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "823罷免、公投結果出爐 賴清德總統：啟動四項調整",
             "link": "https://udn.com//news/story/124323/8958978?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2025-08-24 02:32"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_6.jpg&w=300",
             "title": "核三公投未過 賴總統：不排除先進核能",
             "link": "https://udn.com//news/story/124565/8958975?from=udn-catebreaknews_ch2",
             "time": "2025-08-24 02:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_6.jpg&w=300",
-            "title": "核三公投未過 74%贊成重啟…童子賢：民意支持核電",
-            "link": "https://udn.com//news/story/124565/8958973?from=udn-catebreaknews_ch2",
-            "time": "2025-08-24 02:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/23/realtime/32980204.jpeg&s=Y&x=0&y=0&sw=4000&sh=2666&exp=3600&w=300",
-            "title": "新內閣名單最快25日公布 內政、交通、環境部長等談定留任",
-            "link": "https://udn.com//news/story/124579/8958961?from=udn-catebreaknews_ch2",
-            "time": "2025-08-24 02:22"
         }
     ]
 }
