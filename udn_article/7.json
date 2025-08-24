@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/22/2/32971356.jpg&s=Y&x=0&y=0&sw=1265&sh=843&exp=3600&w=300",
+            "title": "鮑爾放鴿效應…台股衝鋒新高點 AI股仍是主旋律",
+            "link": "https://udn.com//news/story/7251/8960380?from=udn-catebreaknews_ch2",
+            "time": "2025-08-25 02:55"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/25/2/32986354.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "最牛一輪／亞翔唱旺 國泰53拉風",
+            "link": "https://udn.com//news/story/7255/8960409?from=udn-catebreaknews_ch2",
+            "time": "2025-08-24 23:24"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/18/2/32928207.jpg&s=Y&x=200&y=0&sw=1076&sh=717&exp=3600&w=300",
             "title": "高盛點讚這檔「機殼廠」 大調目標價至787元",
             "link": "https://udn.com//news/story/7253/8960057?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "鮑爾放鴿、美股四大指數大漲 台股重返24,000點機會高",
             "link": "https://udn.com//news/story/7251/8959605?from=udn-catebreaknews_ch2",
             "time": "2025-08-24 12:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/24/0/32982804.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "台美關稅談判爆爭議…行政院駁「市場全面開放」傳言！網酸：只有遺憾沒有提告",
-            "link": "https://udn.com//news/story/12806/8959243?from=udn-catebreaknews_ch2",
-            "time": "2025-08-24 09:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
-            "title": "達明26日業績發表會談前景",
-            "link": "https://udn.com//news/story/7254/8958801?from=udn-catebreaknews_ch2",
-            "time": "2025-08-24 01:08"
         }
     ]
 }

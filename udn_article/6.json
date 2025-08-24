@@ -1,10 +1,22 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/24/realtime/32986423.jpg&s=Y&x=16&y=16&sw=560&sh=373&exp=3600&w=300",
-            "title": "本周財經焦點",
-            "link": "https://udn.com//news/story/7238/8960485?from=udn-catebreaknews_ch2",
-            "time": "2025-08-25 00:32"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/25/2/32986696.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "超微、輝達、博通等瘋搶先進製程產能 台積電美國廠量產加速度",
+            "link": "https://udn.com//news/story/7240/8960388?from=udn-catebreaknews_ch2",
+            "time": "2025-08-25 02:31"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_3.jpg&w=300",
+            "title": "台積美國廠量產加速 當地布局三喜臨門",
+            "link": "https://udn.com//news/story/7240/8960395?from=udn-catebreaknews_ch2",
+            "time": "2025-08-25 02:28"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_0.jpg&w=300",
+            "title": "台積美國廠量產加速 台灣2奈米也在衝刺",
+            "link": "https://udn.com//news/story/7240/8960392?from=udn-catebreaknews_ch2",
+            "time": "2025-08-25 02:26"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/24/realtime/32986421.jpg&s=Y&x=0&y=0&sw=1887&sh=1259&exp=3600&w=300",
@@ -13,22 +25,10 @@
             "time": "2025-08-25 00:28"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_6.jpg&w=300",
             "title": "匯率貶值未進場 央行助力出口商意味濃",
             "link": "https://udn.com//news/story/7239/8960475?from=udn-catebreaknews_ch2",
             "time": "2025-08-25 00:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_9.jpg&w=300",
-            "title": "美下月若降息 央行跟進機率低",
-            "link": "https://udn.com//news/story/7239/8960472?from=udn-catebreaknews_ch2",
-            "time": "2025-08-25 00:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_7.jpg&w=300",
-            "title": "輝達將揭財報 牽動台股挑戰歷史高點",
-            "link": "https://udn.com//news/story/7238/8960477?from=udn-catebreaknews_ch2",
-            "time": "2025-08-25 00:25"
         }
     ]
 }
