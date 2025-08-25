@@ -1,10 +1,22 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/25/realtime/32992132.jpg&s=Y&x=93&y=0&sw=4293&sh=2862&exp=3600&w=300",
+            "title": "罷免徐巧芯失利　曹興誠自曝要搬離信義區「這選區我不待了」",
+            "link": "https://udn.com//news/story/6656/8962475?from=udn-catebreaknews_ch2",
+            "time": "2025-08-25 23:03"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/25/realtime/32991825.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
             "title": "生醫科技創新遇4大困境 吳明賢籲成立「數位健康署」改革",
             "link": "https://udn.com//news/story/7314/8962376?from=udn-catebreaknews_ch2",
             "time": "2025-08-25 21:55"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/25/realtime/32991683.jpg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
+            "title": "林岱樺嗆鄭麗君不用通過5,900億元？ 政院：與實際有出入",
+            "link": "https://udn.com//news/story/6656/8962275?from=udn-catebreaknews_ch2",
+            "time": "2025-08-25 20:35"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/25/realtime/32991648.jpg&s=Y&x=0&y=10&sw=1080&sh=720&exp=3600&w=300",
@@ -17,18 +29,6 @@
             "title": "高金素梅質問是誰窮台 卓榮泰：台灣哪一點窮",
             "link": "https://udn.com//news/story/6656/8962205?from=udn-catebreaknews_ch2",
             "time": "2025-08-25 20:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/25/realtime/32991551.jpg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
-            "title": "立委憂半導體產業鏈跟進出走美國 卓榮泰：根留台灣確保關鍵領先地位",
-            "link": "https://udn.com//news/story/6656/8962176?from=udn-catebreaknews_ch2",
-            "time": "2025-08-25 19:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/25/realtime/32991550.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
-            "title": "為何不編官兵加薪預算？ 國防部：配合政院指導",
-            "link": "https://udn.com//news/story/10930/8962171?from=udn-catebreaknews_ch2",
-            "time": "2025-08-25 19:34"
         }
     ]
 }
