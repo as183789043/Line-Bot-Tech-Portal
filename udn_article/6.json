@@ -1,7 +1,19 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/24/0/32990616.jpg&s=Y&x=0&y=0&sw=1007&sh=671&exp=3600&w=300",
+            "title": "公司辦6天5夜豪華日本東京員工旅遊 老闆強迫大家請「特休假」參與惹議",
+            "link": "https://udn.com//news/story/121591/8959801?from=udn-catebreaknews_ch2",
+            "time": "2025-08-26 06:30"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/24/0/32690667.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電股價殺下來能買？美政府入股「2劇本」推演：最壞狀況又跟英特爾有關",
+            "link": "https://udn.com//news/story/7240/8961711?from=udn-catebreaknews_ch2",
+            "time": "2025-08-26 06:24"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_6.jpg&w=300",
             "title": "台電5到7月由虧轉盈 全年有望損益打平",
             "link": "https://udn.com//news/story/7238/8962167?from=udn-catebreaknews_ch2",
             "time": "2025-08-26 06:00"
@@ -17,18 +29,6 @@
             "title": "公司招募新員工約定1個月「試用期」有違法？可延長？勞動基準法說分明",
             "link": "https://udn.com//news/story/121591/8959785?from=udn-catebreaknews_ch2",
             "time": "2025-08-26 05:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/23/realtime/32977568.jpg&s=Y&x=0&y=0&sw=1417&sh=945&exp=3600&w=300",
-            "title": "輝達超級電腦Jetson Thor引爆機器人「新大腦」商機 台積、鴻海等受惠",
-            "link": "https://udn.com//news/story/7240/8962484?from=udn-catebreaknews_ch2",
-            "time": "2025-08-26 02:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/25/2/32987604.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "川普政府要幫英特爾拉客戶 可望協助接下蘋果、輝達代工訂單",
-            "link": "https://udn.com//news/story/7240/8962544?from=udn-catebreaknews_ch2",
-            "time": "2025-08-26 02:20"
         }
     ]
 }
