@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/27/2/33012215.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電最後一盤爆4093張買單 收1190元、市值30.85兆",
+            "link": "https://udn.com//news/story/7253/8966454?from=udn-catebreaknews_ch2",
+            "time": "2025-08-27 15:01"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/27/0/33011646.jpg&s=Y&x=264&y=176&sw=1015&sh=677&exp=3600&w=300",
+            "title": "高中生ChatGPT「全自動」炒股一個月竟賺25％！網酸：多頭行情猴子射飛鏢也有",
+            "link": "https://udn.com//news/story/12806/8966381?from=udn-catebreaknews_ch2",
+            "time": "2025-08-27 14:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/27/0/33011432.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "00981A掛牌三月就衝百億！報酬率27.91％績效贏0050…棒棒：短期波動大應拉長觀察",
             "link": "https://udn.com//news/story/123006/8966271?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台股歷史高點前徘徊 上漲214點收24,519點 台積電收高15元",
             "link": "https://udn.com//news/story/7251/8966267?from=udn-catebreaknews_ch2",
             "time": "2025-08-27 13:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
-            "title": "台股漲逾200點 Al 領軍 電子指數持續偏多 半導體設備、特化市場聚焦",
-            "link": "https://udn.com//news/story/7251/8966168?from=udn-catebreaknews_ch2",
-            "time": "2025-08-27 13:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
-            "title": "川普牽線 第一金太空衛星 ETF 衝高近5%",
-            "link": "https://udn.com//news/story/123006/8966110?from=udn-catebreaknews_ch2",
-            "time": "2025-08-27 13:00"
         }
     ]
 }
