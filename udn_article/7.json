@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/27/2/33015663.jpg&s=Y&x=0&y=0&sw=1076&sh=717&exp=3600&w=300",
+            "title": "Fed官員放話、美股電子盤紅翻黑 台指期夜盤受累",
+            "link": "https://udn.com//news/story/7255/8967249?from=udn-catebreaknews_ch2",
+            "time": "2025-08-27 21:29"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/27/realtime/33014546.jpg&s=Y&x=0&y=32&sw=4032&sh=2688&exp=3600&w=300",
             "title": "揚秦法說會／「炸雞大獅」進軍美國 首家門市年底開幕",
             "link": "https://udn.com//news/story/7252/8966992?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "自營商立大功！三大法人回補76.09億 台股收盤創歷史新高",
             "link": "https://udn.com//news/story/7251/8966489?from=udn-catebreaknews_ch2",
             "time": "2025-08-27 15:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/27/2/33012215.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台積電最後一盤爆4093張買單 收1190元、市值30.85兆",
-            "link": "https://udn.com//news/story/7253/8966454?from=udn-catebreaknews_ch2",
-            "time": "2025-08-27 15:01"
         }
     ]
 }
