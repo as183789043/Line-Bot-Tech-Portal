@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/29/2/33023129.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "AI龍頭財報行情失靈 台股軟腳 失望賣壓出籠",
+            "link": "https://udn.com//news/story/7251/8970139?from=udn-catebreaknews_ch2",
+            "time": "2025-08-29 00:35"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
+            "title": "空方尾盤下狠手 狙殺重量權值股",
+            "link": "https://udn.com//news/story/7251/8970146?from=udn-catebreaknews_ch2",
+            "time": "2025-08-29 00:31"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/29/2/33023338.jpg&s=Y&x=12&y=0&sw=921&sh=614&exp=3600&w=300",
+            "title": "就市論勢／AI 晶片測試、散熱 可留意",
+            "link": "https://udn.com//news/story/7251/8969727?from=udn-catebreaknews_ch2",
+            "time": "2025-08-28 22:48"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/28/2/33022370.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "是誰大舉砍倉？台股最後一盤跳水165點 引投資人高度關注",
             "link": "https://udn.com//news/story/7251/8969818?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "台大生求職自曝「1件事」 胡采蘋笑：講話都敢大聲",
             "link": "https://udn.com//news/story/12806/8969746?from=udn-catebreaknews_ch2",
             "time": "2025-08-28 20:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/28/realtime/33022268.jpg&s=Y&x=0&y=17&sw=2364&sh=1576&exp=3600&w=300",
-            "title": "華南金法說會／華南銀第2季重返股市 債券擇機加碼",
-            "link": "https://udn.com//news/story/7252/8969757?from=udn-catebreaknews_ch2",
-            "time": "2025-08-28 20:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/28/2/33022199.jpg&s=Y&x=68&y=0&sw=1212&sh=808&exp=3600&w=300",
-            "title": "台指期夜盤開高震盪！暫守24,200點、持續挑戰24,300點",
-            "link": "https://udn.com//news/story/7255/8969728?from=udn-catebreaknews_ch2",
-            "time": "2025-08-28 19:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/28/98/33021543.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台股開低走低…外資賣超96億元 砍0050逾1.6萬張最多",
-            "link": "https://udn.com//news/story/7251/8969433?from=udn-catebreaknews_ch2",
-            "time": "2025-08-28 17:51"
         }
     ]
 }
