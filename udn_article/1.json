@@ -1,9 +1,15 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
+            "title": "朝野黨團達成共識 追加預算三讀後應立即撥付地方補助款",
+            "link": "https://udn.com//news/story/6656/8970062?from=udn-catebreaknews_ch2",
+            "time": "2025-08-28 23:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/28/realtime/33022629.jpg&s=Y&x=0&y=33&sw=4686&sh=3124&exp=3600&w=300",
-            "title": "長照挑戰！失能者上看120萬 準衛福部長石崇良擬擴大急性後期照護對象",
-            "link": "https://udn.com//news/story/7314/8969948?from=udn-catebreaknews_ch2",
+            "title": "長照挑戰！失能者上看120萬人 準衛福部長石崇良擬擴大急性後期照護對象",
+            "link": "https://udn.com//news/story/124579/8969948?from=udn-catebreaknews_ch2",
             "time": "2025-08-28 22:14"
         },
         {
@@ -22,12 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/28/realtime/33022175.bmp&s=Y&x=256&y=16&sw=1596&sh=1064&exp=3600&w=300",
             "title": "衛福部次長批長照布建「敬陪末座」 北市衛生局舉一數據反駁",
             "link": "https://udn.com//news/story/6656/8969699?from=udn-catebreaknews_ch2",
-            "time": "2025-08-28 19:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/28/realtime/33022172.jpg&s=Y&x=0&y=0&sw=5202&sh=3444&exp=3600&w=300",
-            "title": "「我從急診來，最希望解決急診壅塞」 準衛福部長石崇良端出5大措施",
-            "link": "https://udn.com//news/story/124579/8969698?from=udn-catebreaknews_ch2",
             "time": "2025-08-28 19:37"
         }
     ]
