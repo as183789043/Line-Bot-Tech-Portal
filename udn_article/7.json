@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/14/2/32906465.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "美核心PCE憂喜參半 台指期夜盤多空對峙",
+            "link": "https://udn.com//news/story/7255/8972144?from=udn-catebreaknews_ch2",
+            "time": "2025-08-29 21:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/16/2/31872761.jpg&s=Y&x=0&y=0&sw=1199&sh=799&exp=3600&w=300",
             "title": "搶息買盤急上車 ETF成交王00919到底配多少？",
             "link": "https://udn.com//news/story/123006/8972092?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "中鋼7月虧損8.4億元 單月虧損收斂",
             "link": "https://udn.com//news/story/7252/8971726?from=udn-catebreaknews_ch2",
             "time": "2025-08-29 17:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/29/realtime/33025330.jpg&s=Y&x=0&y=0&sw=3000&sh=2001&exp=3600&w=300",
-            "title": "輝達AI GPU仍強勁！大摩解析市場「三大重點」、這七家台廠看俏",
-            "link": "https://udn.com//news/story/7251/8971722?from=udn-catebreaknews_ch2",
-            "time": "2025-08-29 17:19"
         }
     ]
 }
