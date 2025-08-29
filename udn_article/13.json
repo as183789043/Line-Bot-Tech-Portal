@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/29/0/33024039.jpg&s=Y&x=88&y=0&sw=678&sh=452&exp=3600&w=300",
+            "title": "到美國蓋竹科3聯盟》家登帶頭赴美拚活下去！一場18個資深創業家的逆襲",
+            "link": "https://udn.com//news/story/6837/8970390?from=udn-catebreaknews_ch2",
+            "time": "2025-08-29 07:44"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/29/0/33024044.jpg&s=Y&x=24&y=0&sw=678&sh=452&exp=3600&w=300",
+            "title": "台股漲幅前十名，它就占6檔！AI伺服器引爆PCB新黃金時代",
+            "link": "https://udn.com//news/story/6837/8970392?from=udn-catebreaknews_ch2",
+            "time": "2025-08-29 07:43"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/28/draft/33019170.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
             "title": "資安股建造AI應用的防護罩 抵禦資安威脅",
             "link": "https://udn.com//news/story/6851/8968448?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台股新榮景放膽去賺 多題材共振走強",
             "link": "https://udn.com//news/story/6851/8968423?from=udn-catebreaknews_ch2",
             "time": "2025-08-28 14:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/04/0/32812080.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "謝金河：股價漲多就是最大利空 留意潛伏的低調潛力股",
-            "link": "https://udn.com//news/story/6851/8968401?from=udn-catebreaknews_ch2",
-            "time": "2025-08-28 14:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/28/draft/33019028.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "AI晶片戰 輝達+台積電攻占2奈米",
-            "link": "https://udn.com//news/story/6851/8968369?from=udn-catebreaknews_ch2",
-            "time": "2025-08-28 14:03"
         }
     ]
 }
