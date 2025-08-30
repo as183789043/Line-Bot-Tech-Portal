@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/31/0/33033590.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "台積電傳「大整肅」？本土供應鏈緊張：高毛利、陸營收比重高恐遭汰",
+            "link": "https://udn.com//news/story/12806/8973823?from=udn-catebreaknews_ch2",
+            "time": "2025-08-31 00:12"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/30/2/33032827.jpg&s=Y&x=0&y=0&sw=1076&sh=717&exp=3600&w=300",
             "title": "AI題材持續發酵！台股後市多頭可期 法人這樣分析",
             "link": "https://udn.com//news/story/7251/8973432?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "00918公告最新配息  9月17日最後買進日",
             "link": "https://udn.com//news/story/123006/8972878?from=udn-catebreaknews_ch2",
             "time": "2025-08-30 11:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/29/realtime/33028808.jpg&s=Y&x=0&y=0&sw=3500&sh=2336&exp=3600&w=300",
-            "title": "基金停利停損 法人教戰",
-            "link": "https://udn.com//news/story/10103/8972181?from=udn-catebreaknews_ch2",
-            "time": "2025-08-30 01:20"
         }
     ]
 }
