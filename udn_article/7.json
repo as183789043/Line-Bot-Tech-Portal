@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/30/realtime/33031177.jpg&s=Y&x=22&y=0&sw=672&sh=448&exp=3600&w=300",
+            "title": "多重系列TISA級別績效比拚 這檔唯一聚焦科技投資",
+            "link": "https://udn.com//news/story/10103/8972940?from=udn-catebreaknews_ch2",
+            "time": "2025-08-30 12:03"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/03/0/32187802.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "00918公告最新配息  9月17日最後買進日",
             "link": "https://udn.com//news/story/123006/8972878?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "基金特蒐／多元信用債 靈活致勝",
             "link": "https://udn.com//news/story/10103/8972171?from=udn-catebreaknews_ch2",
             "time": "2025-08-30 01:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/30/2/33029276.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台股創高拉回 買盤棄大從小…櫃買躍資金避風港",
-            "link": "https://udn.com//news/story/7251/8972275?from=udn-catebreaknews_ch2",
-            "time": "2025-08-30 00:44"
         }
     ]
 }
