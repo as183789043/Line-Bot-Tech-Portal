@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/31/realtime/33037015.jpg&s=Y&x=0&y=0&sw=5254&sh=3502&exp=3600&w=300",
+            "title": "台股創高點「日均量4707億」、輝達釋利多 本周聚焦AI",
+            "link": "https://udn.com//news/story/7251/8974683?from=udn-catebreaknews_ch2",
+            "time": "2025-08-31 17:55"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/31/0/33036948.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "00918配息也降了！知美：0056、00878、00919「月配10萬加薪表」公開",
+            "link": "https://udn.com//news/story/123006/8974652?from=udn-catebreaknews_ch2",
+            "time": "2025-08-31 17:28"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/31/2/33035851.jpg&s=Y&x=0&y=0&sw=629&sh=419&exp=3600&w=300",
             "title": "台股周線收紅、月線連四紅 美核心PCE符合預期 多頭本周再戰",
             "link": "https://udn.com//news/story/7251/8974322?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "金融法說周談獲利展望 明年股息政策受矚目",
             "link": "https://udn.com//news/story/7251/8973646?from=udn-catebreaknews_ch2",
             "time": "2025-08-31 01:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
-            "title": "世芯除息秀 市場期待",
-            "link": "https://udn.com//news/story/7251/8973647?from=udn-catebreaknews_ch2",
-            "time": "2025-08-31 01:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/31/0/33033636.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "00918今年真的是大黑馬！棒棒：00701上半年績效王被大超車",
-            "link": "https://udn.com//news/story/123006/8973834?from=udn-catebreaknews_ch2",
-            "time": "2025-08-31 00:39"
         }
     ]
 }
