@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/21/0/32954359.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電ADR虛驚一場 僅南京廠VEU將撤銷並非全無法因應",
+            "link": "https://udn.com//news/story/7251/8979756?from=udn-catebreaknews_ch2",
+            "time": "2025-09-02 22:49"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/04/2/32205086.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "第一金法說會／全年獲利拚「五連高」 股利配發率要回六成",
             "link": "https://udn.com//news/story/7252/8979670?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "證交所：主動式ETF交易熱 三檔績效超越大盤",
             "link": "https://udn.com//news/story/123006/8979112?from=udn-catebreaknews_ch2",
             "time": "2025-09-02 17:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/29/0/33024669.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "00918配息下降...但年化率維持9%！孫太：能長久領息＋能填息更重要",
-            "link": "https://udn.com//news/story/123006/8978933?from=udn-catebreaknews_ch2",
-            "time": "2025-09-02 15:58"
         }
     ]
 }
