@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/02/2/33051595.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "獨／台積電鉅額交易驚見1275元天價 遠超現貨歷史高點",
+            "link": "https://udn.com//news/story/7253/8981869?from=udn-catebreaknews_ch2",
+            "time": "2025-09-03 20:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/03/realtime/33058185.jpg&s=Y&x=215&y=0&sw=2301&sh=1535&exp=3600&w=300",
             "title": "宏齊自結7月EPS 0.01元 獲利100萬元",
             "link": "https://udn.com//news/story/7253/8981753?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "精測8月營收4.14億元 年增37%",
             "link": "https://udn.com//news/story/7254/8981618?from=udn-catebreaknews_ch2",
             "time": "2025-09-03 17:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/03/realtime/33057525.jpeg&s=Y&x=0&y=720&sw=2736&sh=1824&exp=3600&w=300",
-            "title": "南亞科8月營收67.63億元、月增26.4% 寫43個月來新高",
-            "link": "https://udn.com//news/story/7253/8981535?from=udn-catebreaknews_ch2",
-            "time": "2025-09-03 17:19"
         }
     ]
 }
