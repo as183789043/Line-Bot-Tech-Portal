@@ -1,19 +1,13 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
             "title": "林佳龍到訪遭警告 菲防長回嗆北京",
             "link": "https://udn.com//news/story/6809/8982233?from=udn-catebreaknews_ch2",
             "time": "2025-09-04 00:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/04/1/33059123.jpg&s=Y&x=88&y=0&sw=1189&sh=793&exp=3600&w=300",
-            "title": "川普：若否決關稅 將摧毀美國",
-            "link": "https://udn.com//news/story/6813/8982231?from=udn-catebreaknews_ch2",
-            "time": "2025-09-04 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
             "title": "川普派軍赴洛杉磯 法官裁定違法",
             "link": "https://udn.com//news/story/6813/8982235?from=udn-catebreaknews_ch2",
             "time": "2025-09-04 00:00"
@@ -28,6 +22,12 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/03/realtime/33059068.jpg&s=Y&x=0&y=0&sw=1699&sh=1133&exp=3600&w=300",
             "title": "美軍擊沉委國運毒船 對立升高",
             "link": "https://udn.com//news/story/6809/8982229?from=udn-catebreaknews_ch2",
+            "time": "2025-09-04 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/04/1/33059123.jpg&s=Y&x=88&y=0&sw=1189&sh=793&exp=3600&w=300",
+            "title": "川普：若否決關稅 將摧毀美國",
+            "link": "https://udn.com//news/story/124373/8982231?from=udn-catebreaknews_ch2",
             "time": "2025-09-04 00:00"
         }
     ]
