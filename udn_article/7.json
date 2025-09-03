@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
+            "title": "台股鎮守2.4萬關鍵 聯發科強彈、千金股輪動",
+            "link": "https://udn.com//news/story/7251/8980896?from=udn-catebreaknews_ch2",
+            "time": "2025-09-03 12:53"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
+            "title": "加權指數力守24,000點 櫃買指數止跌反彈、漲勢更強勁",
+            "link": "https://udn.com//news/story/7251/8980898?from=udn-catebreaknews_ch2",
+            "time": "2025-09-03 12:53"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/03/realtime/33055683.jpg&s=Y&x=227&y=0&sw=1737&sh=1159&exp=3600&w=300",
             "title": "8檔台股 ETF 受益人逆勢創高 5檔主動式 ETF 同上榜",
             "link": "https://udn.com//news/story/123006/8980816?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2025-09-03 12:05"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
             "title": "昇陽半導體為何強攻漲停？原來法人這麼說",
             "link": "https://udn.com//news/story/7253/8980770?from=udn-catebreaknews_ch2",
             "time": "2025-09-03 12:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
-            "title": "昇陽半漲停攻175元 擴產卡位 AI 再生晶圓商機",
-            "link": "https://udn.com//news/story/7253/8980763?from=udn-catebreaknews_ch2",
-            "time": "2025-09-03 12:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/01/2/33041253.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台股制度被批像邊境市場！股民曝「2大缺失」力挺開放全零股",
-            "link": "https://udn.com//news/story/12806/8978800?from=udn-catebreaknews_ch2",
-            "time": "2025-09-03 11:40"
         }
     ]
 }
