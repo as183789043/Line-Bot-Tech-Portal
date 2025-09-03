@@ -1,9 +1,21 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/03/realtime/33057482.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "避免加號看不完 明星級醫師多開特別門診 專家：有助維護醫療品質",
+            "link": "https://udn.com//news/story/7314/8981503?from=udn-catebreaknews_ch2",
+            "time": "2025-09-03 17:05"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/03/realtime/33057204.jpg&s=Y&x=0&y=36&sw=3985&sh=2657&exp=3600&w=300",
+            "title": "卓榮泰：近期預算朝野操作出模式 盼韓國瑜「跟我們保持暢通」",
+            "link": "https://udn.com//news/story/6656/8981417?from=udn-catebreaknews_ch2",
+            "time": "2025-09-03 16:24"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/03/realtime/33057052.jpeg&s=Y&x=0&y=10&sw=1292&sh=860&exp=3600&w=300",
             "title": "充滿違和感的軍人節秋祭 賴總統還是別再去忠烈祠吧",
-            "link": "https://udn.com//news/story/6656/8981374?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/10930/8981374?from=udn-catebreaknews_ch2",
             "time": "2025-09-03 16:00"
         },
         {
@@ -17,18 +29,6 @@
             "title": "影／賴總統以「終戰」形容抗戰勝利 朱立倫：真的是國人之恥",
             "link": "https://udn.com//news/story/10930/8981332?from=udn-catebreaknews_ch2",
             "time": "2025-09-03 15:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/03/realtime/33056994.jpg&s=Y&x=0&y=51&sw=799&sh=533&exp=3600&w=300",
-            "title": "批賴清德扭曲軍人節意義 張亞中：將台灣國家定位推向極危險",
-            "link": "https://udn.com//news/story/10930/8981306?from=udn-catebreaknews_ch2",
-            "time": "2025-09-03 15:38"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/03/realtime/33056951.jpg&s=Y&x=0&y=0&sw=2286&sh=1524&exp=3600&w=300",
-            "title": "大罷免剛落幕…賴總統：人事改組完成 全力打贏2026地方大選",
-            "link": "https://udn.com//news/story/6656/8981294?from=udn-catebreaknews_ch2",
-            "time": "2025-09-03 15:30"
         }
     ]
 }
