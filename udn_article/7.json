@@ -1,8 +1,26 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/25/2/32991470.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "大摩：鴻海8月營收可望成利多催化劑 股價有望上漲5%",
+            "link": "https://udn.com//news/story/7253/8983984?from=udn-catebreaknews_ch2",
+            "time": "2025-09-04 17:10"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/04/realtime/33063725.jpg&s=Y&x=0&y=0&sw=5500&sh=3667&exp=3600&w=300",
+            "title": "聯電8月營收雙減 觀察提前拉貨效益是否消退",
+            "link": "https://udn.com//news/story/7253/8983862?from=udn-catebreaknews_ch2",
+            "time": "2025-09-04 16:33"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/04/realtime/33063677.jpg&s=Y&x=0&y=30&sw=3569&sh=2378&exp=3600&w=300",
+            "title": "耕興8月營收3.76億元",
+            "link": "https://udn.com//news/story/7254/8983850?from=udn-catebreaknews_ch2",
+            "time": "2025-09-04 16:29"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/04/2/33063422.jpg&s=Y&x=0&y=0&sw=1265&sh=843&exp=3600&w=300",
-            "title": "三大法人買超114億元 5大功臣、營建噴發助陣台股收復三短均",
+            "title": "三大法人買超114億元 5大功臣、營建噴發助陣台股收復三均線",
             "link": "https://udn.com//news/story/7251/8983703?from=udn-catebreaknews_ch2",
             "time": "2025-09-04 15:24"
         },
@@ -11,24 +29,6 @@
             "title": "富邦證券輔導禾榮科完成競拍 預計9月15日掛牌上市",
             "link": "https://udn.com//news/story/7251/8983466?from=udn-catebreaknews_ch2",
             "time": "2025-09-04 13:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/04/0/33062663.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "股市漲四成了…0050換00679B或00937B？小童：賣股轉債正是關鍵思考點",
-            "link": "https://udn.com//news/story/123006/8983433?from=udn-catebreaknews_ch2",
-            "time": "2025-09-04 13:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/14/2/32908252.jpg&s=Y&x=0&y=0&sw=1238&sh=825&exp=3600&w=300",
-            "title": "市場靜待通膨數據 台指期終場漲幅收斂 收24,132點、上漲135點",
-            "link": "https://udn.com//news/story/7255/8983460?from=udn-catebreaknews_ch2",
-            "time": "2025-09-04 13:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/30/realtime/33032477.jpg&s=Y&x=47&y=0&sw=1794&sh=1196&exp=3600&w=300",
-            "title": "台股開高走低上漲79點、收24,179點 台積電收平盤1,160元",
-            "link": "https://udn.com//news/story/7251/8983439?from=udn-catebreaknews_ch2",
-            "time": "2025-09-04 13:46"
         }
     ]
 }
