@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/04/2/33065030.jpg&s=Y&x=0&y=0&sw=1262&sh=841&exp=3600&w=300",
+            "title": "台指期夜盤力守24,100點 高低點落差暫達74點",
+            "link": "https://udn.com//news/story/7255/8984411?from=udn-catebreaknews_ch2",
+            "time": "2025-09-04 20:35"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/04/realtime/33064607.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
             "title": "振大環球IPO公開申購吸逾17萬人搶抽籤 凍結市場資金331億元",
             "link": "https://udn.com//news/story/7251/8984213?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "大摩：鴻海8月營收可望成利多催化劑 股價有望上漲5%",
             "link": "https://udn.com//news/story/7253/8983984?from=udn-catebreaknews_ch2",
             "time": "2025-09-04 17:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/04/realtime/33063725.jpg&s=Y&x=0&y=0&sw=5500&sh=3667&exp=3600&w=300",
-            "title": "聯電8月營收雙減 觀察提前拉貨效益是否消退",
-            "link": "https://udn.com//news/story/7253/8983862?from=udn-catebreaknews_ch2",
-            "time": "2025-09-04 16:33"
         }
     ]
 }
