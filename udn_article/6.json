@@ -1,10 +1,22 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/04/2/33065378.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "新青安排除72-2 金管會：行庫卡關通了、炒房不會回來",
+            "link": "https://udn.com//news/story/7239/8984547?from=udn-catebreaknews_ch2",
+            "time": "2025-09-04 22:14"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/04/98/33065345.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "新制恐影響三商壽買家出價狀況？金管會回應了",
             "link": "https://udn.com//news/story/7239/8984514?from=udn-catebreaknews_ch2",
             "time": "2025-09-04 22:05"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/04/realtime/33065065.jpg&s=Y&x=0&y=0&sw=4128&sh=2752&exp=3600&w=300",
+            "title": "超微大秀AI解決方案 推出EPYC處理器與Instinct GPU新技術",
+            "link": "https://udn.com//news/story/7240/8984431?from=udn-catebreaknews_ch2",
+            "time": "2025-09-04 20:51"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/04/realtime/33065056.jpg&s=Y&x=0&y=0&sw=2123&sh=1417&exp=3600&w=300",
@@ -13,22 +25,10 @@
             "time": "2025-09-04 20:48"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/04/2/33064975.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "新青安房貸大鬆綁！三大公股銀行表態 「這家」撥貸量能將恢復",
-            "link": "https://udn.com//news/story/7239/8984386?from=udn-catebreaknews_ch2",
-            "time": "2025-09-04 20:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/04/realtime/33064857.jpg&s=Y&x=0&y=68&sw=1696&sh=1131&exp=3600&w=300",
-            "title": "新青安鬆綁 業界警告：銀行貸款鑑價無標準恐引發糾紛",
-            "link": "https://udn.com//news/story/7239/8984320?from=udn-catebreaknews_ch2",
-            "time": "2025-09-04 19:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/04/realtime/33064835.jpg&s=Y&x=0&y=324&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "新青安房貸大鬆綁 賴正鎰指「這是好消息」：水龍頭還可開大",
-            "link": "https://udn.com//news/story/7239/8984300?from=udn-catebreaknews_ch2",
-            "time": "2025-09-04 19:34"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/04/realtime/33065045.jpg&s=Y&x=0&y=0&sw=2048&sh=1365&exp=3600&w=300",
+            "title": "中華電信連十年辦供應商環境教育參訪 打造永續典範",
+            "link": "https://udn.com//news/story/7240/8984419?from=udn-catebreaknews_ch2",
+            "time": "2025-09-04 20:46"
         }
     ]
 }
