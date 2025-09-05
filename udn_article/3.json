@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/06/realtime/33073646.jpg&s=Y&x=0&y=0&sw=5815&sh=3879&exp=3600&w=300",
+            "title": "美國國防部更名戰爭部 防長：未來不打沒有終點的衝突",
+            "link": "https://udn.com//news/story/6813/8987137?from=udn-catebreaknews_ch2",
+            "time": "2025-09-06 05:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/05/realtime/33072492.jpg&s=Y&x=0&y=0&sw=3000&sh=2000&exp=3600&w=300",
             "title": "博通奪OpenAI百億美元大單",
             "link": "https://udn.com//news/story/6811/8986903?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2025-09-06 01:10"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
             "title": "穩定幣巨擘Tether押寶實體黃金",
             "link": "https://udn.com//news/story/6811/8986914?from=udn-catebreaknews_ch2",
             "time": "2025-09-06 01:10"
@@ -23,12 +29,6 @@
             "title": "馬斯克特斯拉薪酬創1兆美元天價 分十年、12道關卡贈與股票",
             "link": "https://udn.com//news/story/6811/8986894?from=udn-catebreaknews_ch2",
             "time": "2025-09-06 01:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/05/realtime/33072487.jpg&s=Y&x=0&y=0&sw=5599&sh=3732&exp=3600&w=300",
-            "title": "Lululemon全年財測好酸 早盤崩跌17%",
-            "link": "https://udn.com//news/story/6811/8986896?from=udn-catebreaknews_ch2",
-            "time": "2025-09-06 01:04"
         }
     ]
 }
