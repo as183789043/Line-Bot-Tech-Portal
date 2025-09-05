@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/21/98/32955712.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "非農低於預期 台指期夜盤大漲上攻24,500點",
+            "link": "https://udn.com//news/story/7255/8986737?from=udn-catebreaknews_ch2",
+            "time": "2025-09-05 21:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/19/2/32329562.jpg&s=Y&x=132&y=0&sw=1076&sh=717&exp=3600&w=300",
+            "title": "聯準會「鴿聲」響起、為台股添柴火！這兩大重量級展會將接力登場",
+            "link": "https://udn.com//news/story/7251/8986609?from=udn-catebreaknews_ch2",
+            "time": "2025-09-05 19:59"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/2/31190500.jpg&s=Y&x=20&y=0&sw=973&sh=649&exp=3600&w=300",
             "title": "上市總市值寫歷史第二高、逼近79兆元 生技股周漲逾9％最猛",
             "link": "https://udn.com//news/story/7251/8986572?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台股8月創新高 外資卻終結連三月淨匯入",
             "link": "https://udn.com//news/story/7251/8986453?from=udn-catebreaknews_ch2",
             "time": "2025-09-05 18:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/09/2/32524551.jpg&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
-            "title": "長榮營收／8月329億元、月減1.92% 運量呈月增但運價走勢偏弱",
-            "link": "https://udn.com//news/story/7252/8986448?from=udn-catebreaknews_ch2",
-            "time": "2025-09-05 18:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/05/2/33071196.jpg&s=Y&x=0&y=108&sw=1278&sh=852&exp=3600&w=300",
-            "title": "「隱形股王」康霈太會漲、市值逼近4,000億元 成功納入臺灣50成份股",
-            "link": "https://udn.com//news/story/7251/8986391?from=udn-catebreaknews_ch2",
-            "time": "2025-09-05 17:59"
         }
     ]
 }
