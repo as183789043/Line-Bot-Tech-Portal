@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/05/realtime/33071669.jpg&s=Y&x=1148&y=660&sw=5665&sh=3777&exp=3600&w=300",
+            "title": "美中台博弈／美中誰都不占優勢？川習會的預測與挑戰",
+            "link": "https://udn.com//news/story/6809/8986645?from=udn-catebreaknews_ch2",
+            "time": "2025-09-06 07:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/05/realtime/33067049.jpg&s=Y&x=0&y=0&sw=3783&sh=2522&exp=3600&w=300",
+            "title": "白宮：川普將出席觀看美網男單決賽",
+            "link": "https://udn.com//news/story/6813/8987190?from=udn-catebreaknews_ch2",
+            "time": "2025-09-06 06:49"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/04/98/33061069.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "川普稱Google遭罰不公平 威脅以關稅報復歐盟",
             "link": "https://udn.com//news/story/124373/8987142?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "美國國防部更名戰爭部 防長：未來不打沒有終點的衝突",
             "link": "https://udn.com//news/story/6813/8987137?from=udn-catebreaknews_ch2",
             "time": "2025-09-06 05:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/05/realtime/33072492.jpg&s=Y&x=0&y=0&sw=3000&sh=2000&exp=3600&w=300",
-            "title": "博通奪OpenAI百億美元大單",
-            "link": "https://udn.com//news/story/6811/8986903?from=udn-catebreaknews_ch2",
-            "time": "2025-09-06 01:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/05/realtime/33072494.jpg&s=Y&x=0&y=0&sw=3777&sh=2518&exp=3600&w=300",
-            "title": "泰國新總理 阿努廷當選",
-            "link": "https://udn.com//news/story/6809/8986910?from=udn-catebreaknews_ch2",
-            "time": "2025-09-06 01:10"
         }
     ]
 }
