@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/07/2/33082665.jpg&s=Y&x=0&y=0&sw=629&sh=419&exp=3600&w=300",
+            "title": "台股周線連兩紅 法人：非農欠佳、留意美股是否續強",
+            "link": "https://udn.com//news/story/7251/8989046?from=udn-catebreaknews_ch2",
+            "time": "2025-09-07 12:55"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/07/2/33082371.jpg&s=Y&x=0&y=0&sw=630&sh=420&exp=3600&w=300",
             "title": "受惠於主權AI與高度系統整合 麥格理提升鴻海目標價到300元",
             "link": "https://udn.com//news/story/7253/8988888?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "市值型ETF 打破存股迷思…搭上台股成長列車",
             "link": "https://udn.com//news/story/123006/8988388?from=udn-catebreaknews_ch2",
             "time": "2025-09-07 01:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
-            "title": "台股市值型ETF…伺機布局 長線釣大魚",
-            "link": "https://udn.com//news/story/123006/8988387?from=udn-catebreaknews_ch2",
-            "time": "2025-09-07 01:45"
         }
     ]
 }
