@@ -1,25 +1,13 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/08/1/33085326.jpg&s=Y&x=6&y=8&sw=299&sh=199&exp=3600&w=300",
-            "title": "本周財經焦點",
-            "link": "https://udn.com//news/story/7238/8989836?from=udn-catebreaknews_ch2",
-            "time": "2025-09-08 00:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_1.jpg&w=300",
-            "title": "美將公布8月CPI 牽動降息2碼期待",
-            "link": "https://udn.com//news/story/7238/8989830?from=udn-catebreaknews_ch2",
-            "time": "2025-09-08 00:08"
-        },
-        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/05/realtime/33071890.jpg&s=Y&x=203&y=0&sw=4911&sh=3274&exp=3600&w=300",
             "title": "政府潛藏負債破20兆創新高 勞保破產壓力愈來愈大",
             "link": "https://udn.com//news/story/7238/8989828?from=udn-catebreaknews_ch2",
             "time": "2025-09-08 00:07"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
             "title": "新聞分析／政策從買得起退到租得起 難解居住困境",
             "link": "https://udn.com//news/story/7238/8989827?from=udn-catebreaknews_ch2",
             "time": "2025-09-08 00:02"
@@ -29,6 +17,18 @@
             "title": "租賃專法修正！租屋新制 專家憂負面效果",
             "link": "https://udn.com//news/story/7238/8989824?from=udn-catebreaknews_ch2",
             "time": "2025-09-08 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/07/2/33084694.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "火車頭壽險變拖油瓶？金融三業前七月賺4866億元 寫最慘紀錄",
+            "link": "https://udn.com//news/story/7239/8989635?from=udn-catebreaknews_ch2",
+            "time": "2025-09-07 21:52"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/07/98/33084668.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "金融三業前7月稅前盈餘年減逾3成 僅銀行業寫同期新高",
+            "link": "https://udn.com//news/story/7239/8989607?from=udn-catebreaknews_ch2",
+            "time": "2025-09-07 21:44"
         }
     ]
 }
