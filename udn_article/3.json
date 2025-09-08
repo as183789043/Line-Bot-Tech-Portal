@@ -1,7 +1,19 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/09/realtime/33094682.jpg&s=Y&x=0&y=17&sw=2364&sh=1576&exp=3600&w=300",
+            "title": "川普不放棄接管芝加哥治安 國土安全部宣布新一波掃蕩行動",
+            "link": "https://udn.com//news/story/6813/8992239?from=udn-catebreaknews_ch2",
+            "time": "2025-09-09 04:03"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/09/realtime/33094681.jpg&s=Y&x=0&y=0&sw=7983&sh=5322&exp=3600&w=300",
+            "title": "美國人去年被騙百億美元 美國務院宣布制裁東南亞線上詐騙",
+            "link": "https://udn.com//news/story/6813/8992238?from=udn-catebreaknews_ch2",
+            "time": "2025-09-09 04:03"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
             "title": "信任投票難過關 法總理貝胡將下台",
             "link": "https://udn.com//news/story/6809/8992107?from=udn-catebreaknews_ch2",
             "time": "2025-09-09 00:16"
@@ -17,18 +29,6 @@
             "title": "耶路撒冷公車站爆槍響6死8傷 槍手遭擊斃 ",
             "link": "https://udn.com//news/story/6809/8992091?from=udn-catebreaknews_ch2",
             "time": "2025-09-09 00:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/08/realtime/33093181.jpg&s=Y&x=314&y=0&sw=3372&sh=2248&exp=3600&w=300",
-            "title": "韓日防長會談 允聯美抗北韓核威脅",
-            "link": "https://udn.com//news/story/6809/8992086?from=udn-catebreaknews_ch2",
-            "time": "2025-09-09 00:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/08/realtime/33088533.jpg&s=Y&x=1530&y=0&sw=5997&sh=3998&exp=3600&w=300",
-            "title": "日自民黨10/4改選黨魁 確定由百萬黨員投票",
-            "link": "https://udn.com//news/story/6809/8992078?from=udn-catebreaknews_ch2",
-            "time": "2025-09-09 00:04"
         }
     ]
 }
