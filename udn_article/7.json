@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/08/realtime/33091857.jpg&s=Y&x=0&y=0&sw=2000&sh=1333&exp=3600&w=300",
+            "title": "口袋證券解析臺灣50指數 AI成市場亮點",
+            "link": "https://udn.com//news/story/7251/8991676?from=udn-catebreaknews_ch2",
+            "time": "2025-09-08 19:43"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/17/2/31108455.jpg&s=Y&x=8&y=0&sw=1175&sh=783&exp=3600&w=300",
+            "title": "海外利基產業型續熱 7檔海內外高人氣ETF力抗9月魔咒",
+            "link": "https://udn.com//news/story/123006/8991636?from=udn-catebreaknews_ch2",
+            "time": "2025-09-08 19:03"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/08/2/33091418.jpg&s=Y&x=4&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "大研生醫9日掛牌上市 明年強攻日本市場",
             "link": "https://udn.com//news/story/7251/8991583?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "威剛8月營收寫三大驚奇 向50億元叩關並連五月寫歷年期新高",
             "link": "https://udn.com//news/story/7254/8991529?from=udn-catebreaknews_ch2",
             "time": "2025-09-08 17:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/05/2/33069258.jpg&s=Y&x=0&y=0&sw=1217&sh=811&exp=3600&w=300",
-            "title": "台股刷歷史新高 這檔零股成交量大增1,222％、台積電被擠到第七名",
-            "link": "https://udn.com//news/story/7251/8991524?from=udn-catebreaknews_ch2",
-            "time": "2025-09-08 17:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/25/realtime/32992127.jpg&s=Y&x=0&y=0&sw=1417&sh=943&exp=3600&w=300",
-            "title": "大摩看好第3季面板出貨「轉減為增」 雙虎將受惠",
-            "link": "https://udn.com//news/story/7251/8991459?from=udn-catebreaknews_ch2",
-            "time": "2025-09-08 17:29"
         }
     ]
 }
