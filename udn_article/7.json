@@ -1,13 +1,25 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/08/0/33086269.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "「永遠與台積電合作」英特爾財務長公開表態！郭哲榮：台股今就有可能突破歷史新高",
+            "link": "https://udn.com//news/story/12806/8990087?from=udn-catebreaknews_ch2",
+            "time": "2025-09-08 08:25"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/08/0/33086243.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "台股逼近25,000大關！網：年底3萬真的不是開玩笑",
+            "link": "https://udn.com//news/story/12806/8990072?from=udn-catebreaknews_ch2",
+            "time": "2025-09-08 08:03"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/05/2/33069258.jpg&s=Y&x=0&y=0&sw=1217&sh=811&exp=3600&w=300",
             "title": "台股散戶大軍回來了…融資餘額連七周成長 伴三利多挑戰新高",
             "link": "https://udn.com//news/story/7251/8989821?from=udn-catebreaknews_ch2",
             "time": "2025-09-08 02:34"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
             "title": "AI股營收亮麗 川湖、台光電等聚焦",
             "link": "https://udn.com//news/story/7251/8989822?from=udn-catebreaknews_ch2",
             "time": "2025-09-08 02:32"
@@ -17,18 +29,6 @@
             "title": "麥格理最新報告按讚鴻海 喊目標價300元",
             "link": "https://udn.com//news/story/7253/8989778?from=udn-catebreaknews_ch2",
             "time": "2025-09-08 02:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/08/2/33085479.jpg&s=Y&x=0&y=80&sw=1279&sh=853&exp=3600&w=300",
-            "title": "海纜斷線引發國安疑慮…線纜三雄 躍軍工概念股",
-            "link": "https://udn.com//news/story/7251/8989760?from=udn-catebreaknews_ch2",
-            "time": "2025-09-08 01:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/07/realtime/33084766.jpg&s=Y&x=148&y=0&sw=1593&sh=1062&exp=3600&w=300",
-            "title": "A股、港股慢牛行情確立 陸港股ETF績效驚艷",
-            "link": "https://udn.com//news/story/123006/8989661?from=udn-catebreaknews_ch2",
-            "time": "2025-09-08 00:25"
         }
     ]
 }
