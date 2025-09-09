@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/09/realtime/33101576.jpg&s=Y&x=0&y=192&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "銳澤8月營收2.01億年增21.9% 連4個月為歷年同期新高",
+            "link": "https://udn.com//news/story/7254/8993897?from=udn-catebreaknews_ch2",
+            "time": "2025-09-09 17:43"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/09/2/33101294.jpg&s=Y&x=0&y=60&sw=1280&sh=853&exp=3600&w=300",
             "title": "高股息第一檔！0056規模突破5000億大關 績效優於其他高股息",
             "link": "https://udn.com//news/story/123006/8993819?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "0050續霸定期定額冠軍、劍指50萬新里程碑 高股息ETF爆下車潮",
             "link": "https://udn.com//news/story/123006/8993624?from=udn-catebreaknews_ch2",
             "time": "2025-09-09 15:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/09/2/33100483.jpg&s=Y&x=0&y=0&sw=1265&sh=843&exp=3600&w=300",
-            "title": "外資6天買超逾千億！台股連2天創高 三大法人續注資386億",
-            "link": "https://udn.com//news/story/7251/8993612?from=udn-catebreaknews_ch2",
-            "time": "2025-09-09 15:34"
         }
     ]
 }
