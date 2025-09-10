@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/09/2/33101243.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "13家金控8月獲利578億元 年增逾7成",
+            "link": "https://udn.com//news/story/7252/8997155?from=udn-catebreaknews_ch2",
+            "time": "2025-09-10 22:25"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/10/2/33112940.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "27檔台股ETF股價與大盤一同創高 00981A漲幅、成交量雙雙稱王",
             "link": "https://udn.com//news/story/123006/8997133?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "三大金控獲利壓線公布 銀行表現亮眼",
             "link": "https://udn.com//news/story/7252/8996979?from=udn-catebreaknews_ch2",
             "time": "2025-09-10 19:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/10/2/33112620.jpg&s=Y&x=0&y=72&sw=1232&sh=821&exp=3600&w=300",
-            "title": "8月73檔個股營收創新高 這族群成最大贏家",
-            "link": "https://udn.com//news/story/7251/8996967?from=udn-catebreaknews_ch2",
-            "time": "2025-09-10 19:34"
         }
     ]
 }
