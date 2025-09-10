@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
+            "title": "就市論勢／AI 供應鏈 題材一波波",
+            "link": "https://udn.com//news/story/7251/8997029?from=udn-catebreaknews_ch2",
+            "time": "2025-09-11 00:46"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/10/realtime/33113216.jpg&s=Y&x=76&y=0&sw=2124&sh=1417&exp=3600&w=300",
+            "title": "台積領漲 台股飛越25000點新高",
+            "link": "https://udn.com//news/story/7251/8997290?from=udn-catebreaknews_ch2",
+            "time": "2025-09-10 23:46"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/09/2/33101243.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "13家金控8月獲利578億元 年增逾7成",
             "link": "https://udn.com//news/story/7252/8997155?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台積電領軍 台指期夜盤再創歷史新高",
             "link": "https://udn.com//news/story/7255/8997127?from=udn-catebreaknews_ch2",
             "time": "2025-09-10 21:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/04/realtime/32815567.jpg&s=Y&x=0&y=0&sw=1039&sh=693&exp=3600&w=300",
-            "title": "台新新光金前八月賺185.4億元、EPS 1.13元 創歷年同期新高",
-            "link": "https://udn.com//news/story/7252/8997093?from=udn-catebreaknews_ch2",
-            "time": "2025-09-10 20:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/10/realtime/33112624.jpg&s=Y&x=103&y=0&sw=4890&sh=3260&exp=3600&w=300",
-            "title": "三大金控獲利壓線公布 銀行表現亮眼",
-            "link": "https://udn.com//news/story/7252/8996979?from=udn-catebreaknews_ch2",
-            "time": "2025-09-10 19:45"
         }
     ]
 }
