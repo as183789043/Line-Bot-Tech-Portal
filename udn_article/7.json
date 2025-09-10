@@ -1,10 +1,22 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/10/2/33112940.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "27檔台股ETF股價與大盤一同創高 00981A漲幅、成交量雙雙稱王",
+            "link": "https://udn.com//news/story/123006/8997133?from=udn-catebreaknews_ch2",
+            "time": "2025-09-10 21:19"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/17/realtime/32926975.jpg&s=Y&x=0&y=0&sw=4286&sh=2822&exp=3600&w=300",
             "title": "台積電領軍 台指期夜盤再創歷史新高",
             "link": "https://udn.com//news/story/7255/8997127?from=udn-catebreaknews_ch2",
             "time": "2025-09-10 21:11"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/04/realtime/32815567.jpg&s=Y&x=0&y=0&sw=1039&sh=693&exp=3600&w=300",
+            "title": "台新新光金前八月賺185.4億元、EPS 1.13元 創歷年同期新高",
+            "link": "https://udn.com//news/story/7252/8997093?from=udn-catebreaknews_ch2",
+            "time": "2025-09-10 20:48"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/10/realtime/33112624.jpg&s=Y&x=103&y=0&sw=4890&sh=3260&exp=3600&w=300",
@@ -17,18 +29,6 @@
             "title": "8月73檔個股營收創新高 這族群成最大贏家",
             "link": "https://udn.com//news/story/7251/8996967?from=udn-catebreaknews_ch2",
             "time": "2025-09-10 19:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/10/realtime/33112463.jpg&s=Y&x=0&y=14&sw=1997&sh=1330&exp=3600&w=300",
-            "title": "宜特8月營收4.03億元 月減3.01%",
-            "link": "https://udn.com//news/story/7254/8996890?from=udn-catebreaknews_ch2",
-            "time": "2025-09-10 19:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/10/realtime/33112458.jpg&s=Y&x=0&y=180&sw=3039&sh=2026&exp=3600&w=300",
-            "title": "中探針半導體展亮三利器 8月營收創39個月新高",
-            "link": "https://udn.com//news/story/7254/8996887?from=udn-catebreaknews_ch2",
-            "time": "2025-09-10 19:04"
         }
     ]
 }
