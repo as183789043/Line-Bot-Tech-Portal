@@ -1,13 +1,19 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/11/2/33113567.jpg&s=Y&x=0&y=0&sw=1212&sh=808&exp=3600&w=300",
+            "title": "ETF規模攀峰挑戰7兆元 17檔寫新紀錄、0050突破7,000億元",
+            "link": "https://udn.com//news/story/123006/8997333?from=udn-catebreaknews_ch2",
+            "time": "2025-09-11 05:40"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
             "title": "8月營收／晶華年增14% 雲品年增5.5%",
             "link": "https://udn.com//news/story/7252/8997034?from=udn-catebreaknews_ch2",
             "time": "2025-09-11 04:55"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
             "title": "8月營收／台泥-6.1%亞泥-15%",
             "link": "https://udn.com//news/story/7252/8997035?from=udn-catebreaknews_ch2",
             "time": "2025-09-11 04:53"
@@ -23,12 +29,6 @@
             "title": "18檔股票型ETF 9月16日除息",
             "link": "https://udn.com//news/story/123006/8997229?from=udn-catebreaknews_ch2",
             "time": "2025-09-11 01:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
-            "title": "台達電股價站上800元 高含「達」量商品績效亮眼",
-            "link": "https://udn.com//news/story/10103/8997228?from=udn-catebreaknews_ch2",
-            "time": "2025-09-11 01:40"
         }
     ]
 }
