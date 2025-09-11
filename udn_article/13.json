@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/11/draft/33116360.jpeg&s=Y&x=135&y=0&sw=930&sh=620&exp=3600&w=300",
+            "title": "指揮大師杜南伊逝世",
+            "link": "https://udn.com//news/story/11184/8998337?from=udn-catebreaknews_ch2",
+            "time": "2025-09-11 13:02"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/11/draft/33116339.jpeg&s=Y&x=135&y=0&sw=930&sh=620&exp=3600&w=300",
+            "title": "古典音樂——讓人表現更好的運動良伴",
+            "link": "https://udn.com//news/story/11184/8998336?from=udn-catebreaknews_ch2",
+            "time": "2025-09-11 13:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/11/0/33115597.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "清潔隊員「回收電鍋」送拾荒嬤變貪污 同行曝黑暗內幕：別怪檢察官",
             "link": "https://udn.com//news/story/6839/8998041?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "轉職潮！行銷、作家、製片人…為什麼這麼多文組人轉行成為心理諮商師？",
             "link": "https://udn.com//news/story/6841/8998020?from=udn-catebreaknews_ch2",
             "time": "2025-09-11 10:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/10/draft/33109298.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "普發一萬 這些產業盼到活水",
-            "link": "https://udn.com//news/story/6851/8995643?from=udn-catebreaknews_ch2",
-            "time": "2025-09-10 15:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/10/draft/33109278.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "興櫃高價股掛牌強強滾 資金強勢卡位",
-            "link": "https://udn.com//news/story/6851/8995634?from=udn-catebreaknews_ch2",
-            "time": "2025-09-10 15:22"
         }
     ]
 }
