@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
+            "title": "美釋放數百韓企工人 僅有一人選擇留下來",
+            "link": "https://udn.com//news/story/6813/8999815?from=udn-catebreaknews_ch2",
+            "time": "2025-09-12 01:52"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/12/98/33121504.jpg&s=Y&x=4&y=0&sw=1241&sh=827&exp=3600&w=300",
+            "title": "川普盟友柯克遇槍擊身亡 FBI公布嫌疑人影像",
+            "link": "https://udn.com//news/story/6813/9000048?from=udn-catebreaknews_ch2",
+            "time": "2025-09-12 01:48"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
             "title": "盧特尼克：美台將達成重大協議",
             "link": "https://udn.com//news/story/124373/8999988?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2025-09-12 00:13"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/11/98/33116053.jpg&s=Y&x=0&y=0&sw=1277&sh=851&exp=3600&w=300",
-            "title": "遭美扣留韓人返國 李在明：未來韓企赴美恐受衝擊",
-            "link": "https://udn.com//news/story/6809/8999904?from=udn-catebreaknews_ch2",
-            "time": "2025-09-12 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/11/realtime/33116550.jpg&s=Y&x=0&y=0&sw=1280&sh=852&exp=3600&w=300",
-            "title": "柯克遇刺只是冰山一角...美政治暴力年增2倍 社會更撕裂",
-            "link": "https://udn.com//news/story/6809/8999901?from=udn-catebreaknews_ch2",
-            "time": "2025-09-12 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/11/98/33118038.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "從草根網紅變政治新星 柯克開創美右翼新路線",
-            "link": "https://udn.com//news/story/6809/8999894?from=udn-catebreaknews_ch2",
-            "time": "2025-09-12 00:00"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/12/1/33121170.jpg&s=Y&x=40&y=20&sw=1241&sh=828&exp=3600&w=300",
+            "title": "美8月CPI升幅符合預估 聯準會下周降息幾成定局",
+            "link": "https://udn.com//news/story/6811/8999927?from=udn-catebreaknews_ch2",
+            "time": "2025-09-12 00:03"
         }
     ]
 }
