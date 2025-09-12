@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/12/98/33127263.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "台股本週大漲980點 上市公司總市值飆破82兆創新高",
+            "link": "https://udn.com//news/story/7251/9001603?from=udn-catebreaknews_ch2",
+            "time": "2025-09-12 18:17"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/12/2/33126988.jpg&s=Y&x=0&y=0&sw=1106&sh=737&exp=3600&w=300",
+            "title": "外資單周買超1587億元 大買鴻海逾17萬張、台積電逾6萬張 誰被拋售？",
+            "link": "https://udn.com//news/story/7251/9001556?from=udn-catebreaknews_ch2",
+            "time": "2025-09-12 17:53"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "title": "台積電於高盛年度大會報喜！四大亮點撐腰、股價續戰高峰",
+            "link": "https://udn.com//news/story/7251/9001501?from=udn-catebreaknews_ch2",
+            "time": "2025-09-12 17:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/12/2/33126735.jpg&s=Y&x=80&y=0&sw=1079&sh=719&exp=3600&w=300",
             "title": "e 添富網站再升級 強化主動式ETF資訊揭露且新增跨境ETF專區",
             "link": "https://udn.com//news/story/123006/9001457?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "國泰00881進軍日本市場 拓展國泰資產管理亞洲新版圖",
             "link": "https://udn.com//news/story/123006/9001453?from=udn-catebreaknews_ch2",
             "time": "2025-09-12 17:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/12/2/33126462.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "中信金法說會／台壽保明年 ICS 目標125%  CSM 餘額將超過1200億元",
-            "link": "https://udn.com//news/story/7252/9001378?from=udn-catebreaknews_ch2",
-            "time": "2025-09-12 16:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/12/realtime/33126180.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
-            "title": "海外獲利占比36%居國銀之冠 中信銀法說會釋出五大海外新拓點計畫",
-            "link": "https://udn.com//news/story/7252/9001305?from=udn-catebreaknews_ch2",
-            "time": "2025-09-12 15:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/07/2/32850656.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
-            "title": "中信金法說會／中信銀獲利成長強勁 法人看好明年配發現金股息能力",
-            "link": "https://udn.com//news/story/7252/9001277?from=udn-catebreaknews_ch2",
-            "time": "2025-09-12 15:47"
         }
     ]
 }
