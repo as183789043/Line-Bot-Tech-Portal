@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/12/98/33127777.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "外資連9買台股 連11買台積電累計逾8.55萬張",
+            "link": "https://udn.com//news/story/7251/9001657?from=udn-catebreaknews_ch2",
+            "time": "2025-09-12 20:08"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/12/2/33127630.jpg&s=Y&x=0&y=0&sw=1272&sh=848&exp=3600&w=300",
+            "title": "台積電鉅額交易首見1,334.2元天價 多頭狂歡上看26,000大關",
+            "link": "https://udn.com//news/story/7251/9001725?from=udn-catebreaknews_ch2",
+            "time": "2025-09-12 19:25"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/12/realtime/33127391.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
             "title": "由賠轉賺！皇翔處分410張台積電股票 獲利7240萬元",
             "link": "https://udn.com//news/story/7251/9001668?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台股本週大漲980點 上市公司總市值飆破82兆創新高",
             "link": "https://udn.com//news/story/7251/9001603?from=udn-catebreaknews_ch2",
             "time": "2025-09-12 18:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/12/2/33126988.jpg&s=Y&x=0&y=0&sw=1106&sh=737&exp=3600&w=300",
-            "title": "外資單周買超1587億元 大買鴻海逾17萬張、台積電逾6萬張 誰被拋售？",
-            "link": "https://udn.com//news/story/7251/9001556?from=udn-catebreaknews_ch2",
-            "time": "2025-09-12 17:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/12/2/33126893.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台積電於高盛年度大會報喜！四大亮點撐腰、股價續戰高峰",
-            "link": "https://udn.com//news/story/7251/9001501?from=udn-catebreaknews_ch2",
-            "time": "2025-09-12 17:30"
         }
     ]
 }
