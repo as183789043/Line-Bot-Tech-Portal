@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/12/realtime/33124648.jpg&s=Y&x=0&y=0&sw=5471&sh=3647&exp=3600&w=300",
+            "title": "最新民調／42%民眾同意柯文哲冤獄、北檢偵辦表現一面倒負評 輿論兩極傳遞何種訊息",
+            "link": "https://udn.com//news/story/6839/9000875?from=udn-catebreaknews_ch2",
+            "time": "2025-09-12 14:26"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/11/0/33117765.jpg&s=Y&x=0&y=0&sw=938&sh=625&exp=3600&w=300",
             "title": "台灣無人機產業！進入十倍速成長",
             "link": "https://udn.com//news/story/6850/8998808?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "2025半導體展與中小股成多頭主力",
             "link": "https://udn.com//news/story/6850/8998791?from=udn-catebreaknews_ch2",
             "time": "2025-09-11 15:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/11/0/33117605.jpg&s=Y&x=4&y=0&sw=938&sh=625&exp=3600&w=300",
-            "title": "受惠美系客戶訂單放量的PCB股─高技",
-            "link": "https://udn.com//news/story/6850/8998784?from=udn-catebreaknews_ch2",
-            "time": "2025-09-11 15:02"
         }
     ]
 }
