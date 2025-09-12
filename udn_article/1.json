@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/13/realtime/33129562.png&s=Y&x=385&y=0&sw=1872&sh=1248&exp=3600&w=300",
+            "title": "外交事務刊文：兩岸避戰須有非正式溝通管道",
+            "link": "https://udn.com//news/story/10930/9002281?from=udn-catebreaknews_ch2",
+            "time": "2025-09-13 04:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/13/realtime/33129322.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
             "title": "年底川習會恐談到台灣？邱垂正：正面看待美中對話",
             "link": "https://udn.com//news/story/6656/9002257?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "新版全民安全指引 防敵方散布投降假訊息",
             "link": "https://udn.com//news/story/10930/9002157?from=udn-catebreaknews_ch2",
             "time": "2025-09-13 00:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
-            "title": "兩岸外長 罕見本周同時訪歐",
-            "link": "https://udn.com//news/story/6656/9002161?from=udn-catebreaknews_ch2",
-            "time": "2025-09-13 00:19"
         }
     ]
 }
