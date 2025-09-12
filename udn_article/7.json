@@ -1,9 +1,15 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/12/98/33128270.jpg&s=Y&x=0&y=67&sw=800&sh=533&exp=3600&w=300",
+            "title": "金居再爆違約交割3271萬元 今年上櫃股金額最大案",
+            "link": "https://udn.com//news/story/7251/9001936?from=udn-catebreaknews_ch2",
+            "time": "2025-09-12 22:07"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/12/2/33128061.jpg&s=Y&x=0&y=0&sw=1106&sh=737&exp=3600&w=300",
             "title": "美元、美債殖利率反彈 台指期夜盤以靜制動",
-            "link": "https://udn.com//news/story/7251/9001879?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/7255/9001879?from=udn-catebreaknews_ch2",
             "time": "2025-09-12 21:10"
         },
         {
@@ -23,12 +29,6 @@
             "title": "生技股王禾榮科下周一上市掛牌 承銷價能否守住成市場指標",
             "link": "https://udn.com//news/story/7254/9001803?from=udn-catebreaknews_ch2",
             "time": "2025-09-12 20:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/12/98/33127777.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "外資連9買台股 連11買台積電累計逾8.55萬張",
-            "link": "https://udn.com//news/story/7251/9001657?from=udn-catebreaknews_ch2",
-            "time": "2025-09-12 20:08"
         }
     ]
 }
