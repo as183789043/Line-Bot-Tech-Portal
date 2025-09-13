@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/10/realtime/33113338.jpg&s=Y&x=0&y=0&sw=1567&sh=1045&exp=3600&w=300",
+            "title": "上市櫃陸續除息…錢潮一波波 台股迎1,700億活水",
+            "link": "https://udn.com//news/story/7251/9003569?from=udn-catebreaknews_ch2",
+            "time": "2025-09-14 03:12"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/02/realtime/33050550.jpg&s=Y&x=0&y=0&sw=3500&sh=2333&exp=3600&w=300",
+            "title": "上市櫃除息…郭台銘蟬聯股息王 百億入袋",
+            "link": "https://udn.com//news/story/7251/9003571?from=udn-catebreaknews_ch2",
+            "time": "2025-09-14 03:11"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/12/2/33124777.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "台股周線連三紅高點難測…貪婪推動行情 預期下周仍會驚驚漲",
             "link": "https://udn.com//news/story/7251/9002829?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台股連5天創歷史新高 法人：聚焦17日FOMC會議",
             "link": "https://udn.com//news/story/7251/9002498?from=udn-catebreaknews_ch2",
             "time": "2025-09-13 10:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/12/realtime/33128196.jpg&s=Y&x=0&y=0&sw=1889&sh=1259&exp=3600&w=300",
-            "title": "美可望降息 債券迎轉機",
-            "link": "https://udn.com//news/story/10103/9001929?from=udn-catebreaknews_ch2",
-            "time": "2025-09-13 01:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
-            "title": "多重資產策略 穩中求勝",
-            "link": "https://udn.com//news/story/10103/9001930?from=udn-catebreaknews_ch2",
-            "time": "2025-09-13 01:18"
         }
     ]
 }
