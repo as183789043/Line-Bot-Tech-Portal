@@ -1,7 +1,19 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/13/realtime/33131934.jpg&s=Y&x=0&y=16&sw=720&sh=480&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/13/realtime/33132269.jpg&s=Y&x=0&y=480&sw=720&sh=480&exp=3600&w=300",
+            "title": "高雄永安突收手機警報 台電：興達電廠防災通報演練",
+            "link": "https://udn.com//news/story/7238/9002978?from=udn-catebreaknews_ch2",
+            "time": "2025-09-13 14:18"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/09/0/33098653.jpg&s=Y&x=0&y=0&sw=792&sh=528&exp=3600&w=300",
+            "title": "聯準會降息預期推動金價再創新高 法人：未來金價可望再創高",
+            "link": "https://udn.com//news/story/7238/9002962?from=udn-catebreaknews_ch2",
+            "time": "2025-09-13 14:04"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/13/realtime/33131934.jpg&s=Y&x=0&y=480&sw=720&sh=480&exp=3600&w=300",
             "title": "台電檢討電廠事故通報機制 今日實施在地防災通報簡訊演練",
             "link": "https://udn.com//news/story/7238/9002864?from=udn-catebreaknews_ch2",
             "time": "2025-09-13 13:13"
@@ -17,18 +29,6 @@
             "title": "品茉兒生醫美容保健品取得「清真認證」宣布進軍東協",
             "link": "https://udn.com//news/story/7241/9002828?from=udn-catebreaknews_ch2",
             "time": "2025-09-13 12:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/13/realtime/33131799.jpg&s=Y&x=0&y=10&sw=1534&sh=1022&exp=3600&w=300",
-            "title": "台電獲頒2025亞太暨台灣永續行動獎 文資保存、守護海洋生態勇奪4金",
-            "link": "https://udn.com//news/story/7238/9002827?from=udn-catebreaknews_ch2",
-            "time": "2025-09-13 12:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/13/realtime/33131495.png&s=Y&x=0&y=228&sw=678&sh=452&exp=3600&w=300",
-            "title": "機組過度操作致零件磨損？台電：振動值符合國際安全標準 未過度操作",
-            "link": "https://udn.com//news/story/7238/9002765?from=udn-catebreaknews_ch2",
-            "time": "2025-09-13 12:02"
         }
     ]
 }
