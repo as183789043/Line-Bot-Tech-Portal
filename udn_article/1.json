@@ -1,13 +1,19 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/15/realtime/33139384.jpg&s=Y&x=0&y=0&sw=5326&sh=3551&exp=3600&w=300",
+            "title": "與AIT口徑一致 美國務院：二戰文件未決台灣最終政治地位",
+            "link": "https://udn.com//news/story/6656/9005080?from=udn-catebreaknews_ch2",
+            "time": "2025-09-15 02:14"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_3.jpg&w=300",
             "title": "財劃法爭議！藍催政院版 綠要自行提案阻重北輕南",
             "link": "https://udn.com//news/story/124593/9004999?from=udn-catebreaknews_ch2",
             "time": "2025-09-15 00:13"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_1.jpg&w=300",
             "title": "今起領表！誰選藍黨魁 趙少康：郝龍斌正做民調",
             "link": "https://udn.com//news/story/122404/9004997?from=udn-catebreaknews_ch2",
             "time": "2025-09-15 00:12"
@@ -23,12 +29,6 @@
             "title": "北院今重開柯文哲羈押庭 小草聲援",
             "link": "https://udn.com//news/story/124589/9004987?from=udn-catebreaknews_ch2",
             "time": "2025-09-15 00:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/14/realtime/33138989.jpg&s=Y&x=0&y=11&sw=1474&sh=982&exp=3600&w=300",
-            "title": "周四開展！特別預算破兆元 國防展搶軍工大餅",
-            "link": "https://udn.com//news/story/10930/9004980?from=udn-catebreaknews_ch2",
-            "time": "2025-09-15 00:03"
         }
     ]
 }
