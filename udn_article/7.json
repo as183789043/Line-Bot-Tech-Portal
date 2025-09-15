@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/29/2/31949757.jpg&s=Y&x=84&y=0&sw=982&sh=655&exp=3600&w=300",
+            "title": "AI 算力革命引爆供應鏈升規需求 法人點名這二檔出線",
+            "link": "https://udn.com//news/story/7251/9006647?from=udn-catebreaknews_ch2",
+            "time": "2025-09-15 18:08"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/19/1/32935929.jpg&s=Y&x=16&y=0&sw=1164&sh=776&exp=3600&w=300",
             "title": "外資上週買超1587億創紀錄 加碼鴻海17.5萬張排第1",
             "link": "https://udn.com//news/story/7251/9006520?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "誰砍的？三大法人止步連9買、轉賣超42億元 台股拉回117點",
             "link": "https://udn.com//news/story/7251/9006259?from=udn-catebreaknews_ch2",
             "time": "2025-09-15 15:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/11/2/31839079.jpg&s=Y&x=0&y=0&sw=1022&sh=681&exp=3600&w=300",
-            "title": "外資上周大買鴻海、華邦電 狂賣這檔PCB概念股",
-            "link": "https://udn.com//news/story/7251/9006257?from=udn-catebreaknews_ch2",
-            "time": "2025-09-15 15:25"
         }
     ]
 }
