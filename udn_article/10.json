@@ -1,6 +1,12 @@
 {
     "評論": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/12/2/33121261.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
+            "title": "經濟日報社論／AI取代初階人力 改變勞資關係",
+            "link": "https://udn.com//news/story/7338/9007133?from=udn-catebreaknews_ch2",
+            "time": "2025-09-16 02:32"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/15/realtime/33146022.jpeg&s=Y&x=0&y=40&sw=3024&sh=2016&exp=3600&w=300",
             "title": "李清志／藝術家矢延憲司的作品軸線",
             "link": "https://udn.com//news/story/7341/9007229?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "聯合報黑白集／消失的黨內民主",
             "link": "https://udn.com//news/story/7338/9007146?from=udn-catebreaknews_ch2",
             "time": "2025-09-16 00:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/16/1/33146188.jpg&s=Y&x=0&y=0&sw=1073&sh=715&exp=3600&w=300",
-            "title": "闕志克／中國在AI晶片戰的反攻號角",
-            "link": "https://udn.com//news/story/7340/9007114?from=udn-catebreaknews_ch2",
-            "time": "2025-09-16 00:04"
         }
     ]
 }
