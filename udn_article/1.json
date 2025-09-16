@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/17/realtime/33157242.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "美方稱台灣政治地位未定？華府學者：美國以前沒明說",
+            "link": "https://udn.com//news/story/6656/9009861?from=udn-catebreaknews_ch2",
+            "time": "2025-09-17 06:38"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/17/realtime/33157560.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "台北航太展國防舘揭幕 擬安排層峰巡視這些亮點軍備",
+            "link": "https://udn.com//news/story/10930/9009895?from=udn-catebreaknews_ch2",
+            "time": "2025-09-17 06:34"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/17/realtime/33155672.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
             "title": "不甩民意持續搞政治 這就是最親民的賴總統？",
             "link": "https://udn.com//news/story/6656/9009796?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2025-09-17 05:50"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/17/realtime/33157242.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
-            "title": "美方稱台灣政治地位未定？華府學者：美國以前沒明說",
-            "link": "https://udn.com//news/story/6656/9009861?from=udn-catebreaknews_ch2",
-            "time": "2025-09-17 05:38"
-        },
-        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/16/realtime/33155423.jpg&s=Y&x=0&y=19&sw=2755&sh=1836&exp=3600&w=300",
             "title": "軍購特別預算逾兆元 台美合作巡弋飛彈航太國防展亮相",
             "link": "https://udn.com//news/story/10930/9009720?from=udn-catebreaknews_ch2",
             "time": "2025-09-17 00:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_6.jpg&w=300",
-            "title": "新版取消共軍識別 全民國防手冊挨批「愈改愈走鐘」",
-            "link": "https://udn.com//news/story/10930/9009721?from=udn-catebreaknews_ch2",
-            "time": "2025-09-17 00:30"
         }
     ]
 }
