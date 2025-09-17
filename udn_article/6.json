@@ -1,7 +1,13 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
+            "title": "台電機組故障 夜間供電警戒",
+            "link": "https://udn.com//news/story/7238/9012223?from=udn-catebreaknews_ch2",
+            "time": "2025-09-18 01:55"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_9.jpg&w=300",
             "title": " 大財經／美中地緣政治衝突…機器人供應鏈重構 台廠4策略切入",
             "link": "https://udn.com//news/story/7238/9012252?from=udn-catebreaknews_ch2",
             "time": "2025-09-18 00:00"
@@ -23,12 +29,6 @@
             "title": "聯準會即將降息 短期美元走貶、明年第1季有望反彈",
             "link": "https://udn.com//news/story/7239/9012277?from=udn-catebreaknews_ch2",
             "time": "2025-09-17 23:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/17/realtime/33165600.jpg&s=Y&x=227&y=0&sw=2832&sh=1889&exp=3600&w=300",
-            "title": "今年供電首亮警戒橘燈 全台電力拉警報",
-            "link": "https://udn.com//news/story/7238/9012254?from=udn-catebreaknews_ch2",
-            "time": "2025-09-17 23:41"
         }
     ]
 }
