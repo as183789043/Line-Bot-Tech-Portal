@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/17/draft/33159904.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
+            "title": "台股創新高 該買？該賣？",
+            "link": "https://udn.com//news/story/6851/9010451?from=udn-catebreaknews_ch2",
+            "time": "2025-09-17 13:11"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/17/0/33160220.jpg&s=Y&x=120&y=0&sw=1014&sh=676&exp=3600&w=300",
             "title": "核三重啟進度！經長3原則全面評估安排、支持開發再生能源 2026綠能占比20%挑戰大",
             "link": "https://udn.com//news/story/6839/9010494?from=udn-catebreaknews_ch2",
@@ -22,12 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/16/draft/33151181.jpg&s=Y&x=102&y=0&sw=1074&sh=717&exp=3600&w=300",
             "title": "AI應用拉抬 先進封裝需求水漲船高",
             "link": "https://udn.com//news/story/6871/9008565?from=udn-catebreaknews_ch2",
-            "time": "2025-09-16 15:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/16/draft/33151113.jpg&s=Y&x=0&y=7&sw=1068&sh=712&exp=3600&w=300",
-            "title": "人形機器人應用成熟落地 台灣廠商機會點為何?",
-            "link": "https://udn.com//news/story/6871/9008547?from=udn-catebreaknews_ch2",
             "time": "2025-09-16 15:09"
         }
     ]
