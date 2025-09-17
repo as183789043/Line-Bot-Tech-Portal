@@ -1,6 +1,12 @@
 {
     "評論": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/18/2/33166544.jpg&s=Y&x=4&y=0&sw=1076&sh=717&exp=3600&w=300",
+            "title": "經濟日報社論／面對算力競賽 台灣不能再遲疑",
+            "link": "https://udn.com//news/story/7338/9012205?from=udn-catebreaknews_ch2",
+            "time": "2025-09-18 03:12"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/18/1/33166103.jpg&s=Y&x=64&y=0&sw=678&sh=452&exp=3600&w=300",
             "title": "聯合報黑白集／名嘴與國師之分",
             "link": "https://udn.com//news/story/7338/9012303?from=udn-catebreaknews_ch2",
@@ -13,22 +19,16 @@
             "time": "2025-09-18 01:07"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_1.jpg&w=300",
             "title": "民進黨的心底話 才是黑白講",
             "link": "https://udn.com//news/story/7339/9012131?from=udn-catebreaknews_ch2",
             "time": "2025-09-18 00:13"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_1.jpg&w=300",
             "title": "操弄光復節 挑撥社會共識",
             "link": "https://udn.com//news/story/7339/9012133?from=udn-catebreaknews_ch2",
             "time": "2025-09-18 00:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_5.jpg&w=300",
-            "title": "陳國樑／行政院修財劃？ 更像是政治鬥爭",
-            "link": "https://udn.com//news/story/123296/9012125?from=udn-catebreaknews_ch2",
-            "time": "2025-09-18 00:12"
         }
     ]
 }
