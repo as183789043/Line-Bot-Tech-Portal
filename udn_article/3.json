@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/17/realtime/33165319.jpg&s=Y&x=0&y=0&sw=3968&sh=2646&exp=3600&w=300",
+            "title": "日本鹿兒島規模4.7地震、最大震度5弱 後續接連再現多起地震",
+            "link": "https://udn.com//news/story/6809/9012132?from=udn-catebreaknews_ch2",
+            "time": "2025-09-17 22:56"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/17/98/33165082.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "鹿兒島連震13起！規模4.7、暫無海嘯威脅",
+            "link": "https://udn.com//news/story/6812/9012049?from=udn-catebreaknews_ch2",
+            "time": "2025-09-17 22:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/17/realtime/33165068.jpg&s=Y&x=0&y=0&sw=4841&sh=3227&exp=3600&w=300",
             "title": "美股早盤／Fed決策前夕三大指數分歧 Nvidia傳遭陸封殺跌逾2%",
             "link": "https://udn.com//news/story/6811/9012044?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "6歲看女王登基、曾狂追黛妃 川普熱愛英國王室70年",
             "link": "https://udn.com//news/story/6813/9012014?from=udn-catebreaknews_ch2",
             "time": "2025-09-17 21:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/17/98/33164896.jpg&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
-            "title": "歐盟：印度買俄國石油並參與軍演 有礙印歐深化關係",
-            "link": "https://udn.com//news/story/6809/9011971?from=udn-catebreaknews_ch2",
-            "time": "2025-09-17 21:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/17/realtime/33164786.jpg&s=Y&x=0&y=0&sw=7752&sh=5168&exp=3600&w=300",
-            "title": "傳中國禁科技公司買輝達AI晶片 黃仁勳：失望",
-            "link": "https://udn.com//news/story/6811/9011977?from=udn-catebreaknews_ch2",
-            "time": "2025-09-17 21:19"
         }
     ]
 }

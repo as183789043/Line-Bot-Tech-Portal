@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/17/realtime/33165154.jpg&s=Y&x=0&y=276&sw=800&sh=533&exp=3600&w=300",
+            "title": "ETF市場再添一員大將 摩根投信跨入台灣ETF市場",
+            "link": "https://udn.com//news/story/123006/9012073?from=udn-catebreaknews_ch2",
+            "time": "2025-09-17 22:28"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/17/98/33164933.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "外資轉賣超57億！調節永豐金2.4萬張最多 敲進這十檔",
             "link": "https://udn.com//news/story/7251/9011967?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "Fed宣布利率決議前 美股、台指期夜盤多空排兵布陣",
             "link": "https://udn.com//news/story/7255/9011961?from=udn-catebreaknews_ch2",
             "time": "2025-09-17 21:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/17/realtime/33164438.jpg&s=Y&x=32&y=204&sw=1353&sh=902&exp=3600&w=300",
-            "title": "台股評價到底貴不貴？瑞銀：並非極度昂貴 2026行情仍有撐",
-            "link": "https://udn.com//news/story/7251/9011862?from=udn-catebreaknews_ch2",
-            "time": "2025-09-17 20:20"
         }
     ]
 }
