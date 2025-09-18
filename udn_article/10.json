@@ -1,6 +1,12 @@
 {
     "評論": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/19/realtime/33174991.jpg&s=Y&x=0&y=0&sw=2029&sh=1322&exp=3600&w=300",
+            "title": "【專家之眼】預判臺海和戰──從「時限論」回歸「條件論」",
+            "link": "https://udn.com//news/story/121823/9015025?from=udn-catebreaknews_ch2",
+            "time": "2025-09-19 06:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/19/1/33174305.jpg&s=Y&x=0&y=196&sw=1146&sh=764&exp=3600&w=300",
             "title": "聯合報黑白集／招式用爛的公民與學生",
             "link": "https://udn.com//news/story/7338/9014893?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "舞抖音的劍 意在川習會",
             "link": "https://udn.com//news/story/7339/9014732?from=udn-catebreaknews_ch2",
             "time": "2025-09-19 00:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_2.jpg&w=300",
-            "title": "政治網紅之死 當公共對話淪為敵我對抗",
-            "link": "https://udn.com//news/story/7339/9014723?from=udn-catebreaknews_ch2",
-            "time": "2025-09-19 00:12"
         }
     ]
 }
