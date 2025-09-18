@@ -1,7 +1,19 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/18/0/33170998.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "0050成分股納入康霈（6919）掀爭議…周冠男8點說明：最多也僅0.4％影響",
+            "link": "https://udn.com//news/story/123006/9013657?from=udn-catebreaknews_ch2",
+            "time": "2025-09-18 15:08"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/18/0/33170526.jpg&s=Y&x=56&y=276&sw=1200&sh=800&exp=3600&w=300",
+            "title": "台積電（2330）現在才進場很韭？網：3年後3千現在不買嗎",
+            "link": "https://udn.com//news/story/12806/9013594?from=udn-catebreaknews_ch2",
+            "time": "2025-09-18 14:31"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/12/2/33125221.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "台積電最後一盤爆6537張買單、以1285元創收盤新高 市值33.32兆",
             "link": "https://udn.com//news/story/7251/9013578?from=udn-catebreaknews_ch2",
             "time": "2025-09-18 14:21"
@@ -17,18 +29,6 @@
             "title": "無腦買大盤即正解？「0050長期持有就好」他不解：一堆人在白忙什麼",
             "link": "https://udn.com//news/story/123006/9013553?from=udn-catebreaknews_ch2",
             "time": "2025-09-18 14:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/16/2/33152698.jpg&s=Y&x=0&y=0&sw=1265&sh=843&exp=3600&w=300",
-            "title": "台股熱！券商8月賺逾150億元 今年以來仍衰退16％",
-            "link": "https://udn.com//news/story/7251/9013540?from=udn-catebreaknews_ch2",
-            "time": "2025-09-18 14:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/12/2/33128061.jpg&s=Y&x=0&y=0&sw=1106&sh=737&exp=3600&w=300",
-            "title": "台指期再創新高 上漲236點收25,709點",
-            "link": "https://udn.com//news/story/7255/9013536?from=udn-catebreaknews_ch2",
-            "time": "2025-09-18 14:02"
         }
     ]
 }
