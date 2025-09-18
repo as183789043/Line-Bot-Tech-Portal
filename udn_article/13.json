@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/18/0/33169503.jpg&s=Y&x=280&y=0&sw=920&sh=613&exp=3600&w=300",
+            "title": "「反川普」為什麼這麼難？川普靠什麼讓整個菁英圈都閉嘴？",
+            "link": "https://udn.com//news/story/6841/9013150?from=udn-catebreaknews_ch2",
+            "time": "2025-09-18 12:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/18/0/33169088.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "退休必備3桶金！4%法則滾安心金流 專家：醫療費、長照費這樣做轉嫁風險",
             "link": "https://udn.com//news/story/6839/9012918?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "AI將讓美國再次偉大",
             "link": "https://udn.com//news/story/6854/9012359?from=udn-catebreaknews_ch2",
             "time": "2025-09-18 10:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/21/realtime/31902858.jpg&s=Y&x=0&y=0&sw=1889&sh=1259&exp=3600&w=300",
-            "title": "美印關係陷冰點 印度股市能否振衰起敝？",
-            "link": "https://udn.com//news/story/6854/9012358?from=udn-catebreaknews_ch2",
-            "time": "2025-09-18 10:15"
         }
     ]
 }
