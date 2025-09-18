@@ -1,6 +1,18 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/08/11/32876169.png&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "美中晶片戰 央視曝光阿里巴巴AI晶片媲美輝達H20",
+            "link": "https://udn.com//news/story/7333/9013137?from=udn-catebreaknews_ch2",
+            "time": "2025-09-18 13:10"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/18/realtime/33169862.jpg&s=Y&x=0&y=7&sw=1024&sh=682&exp=3600&w=300",
+            "title": "華為AI昇騰晶片未來3年再推4款 明年初推出「Ascend 950PR」",
+            "link": "https://udn.com//news/story/7333/9013285?from=udn-catebreaknews_ch2",
+            "time": "2025-09-18 12:44"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/18/0/33169330.jpg&s=Y&x=0&y=0&sw=792&sh=528&exp=3600&w=300",
             "title": "「窮鬼消費」變快樂新密碼！陸年輕人把24小時健身房睡成大飯店",
             "link": "https://udn.com//news/story/7333/9012885?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "解放軍中將：不希望九三閱兵武器用於攻台 非要用「常規武器就夠」",
             "link": "https://udn.com//news/story/7331/9013142?from=udn-catebreaknews_ch2",
             "time": "2025-09-18 11:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/18/realtime/33169481.jpg&s=Y&x=0&y=5&sw=440&sh=292&exp=3600&w=300",
-            "title": "發表模型推理方法 梁文鋒與DeepSeek團隊論文登Nature封面",
-            "link": "https://udn.com//news/story/7332/9013139?from=udn-catebreaknews_ch2",
-            "time": "2025-09-18 11:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/18/realtime/33169320.jpg&s=Y&x=0&y=0&sw=5000&sh=3333&exp=3600&w=300",
-            "title": "應對電信網路詐騙犯罪 陸倡議建立「國際反詐聯盟」",
-            "link": "https://udn.com//news/story/7332/9013020?from=udn-catebreaknews_ch2",
-            "time": "2025-09-18 11:19"
         }
     ]
 }
