@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/19/2/33180467.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "力積電9月以來股價漲幅近四成 公告8月自結營收39.78億元",
+            "link": "https://udn.com//news/story/7253/9016777?from=udn-catebreaknews_ch2",
+            "time": "2025-09-19 19:59"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/19/realtime/33180357.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "皇翔賣完台積電改買台達電 砸4.79億買進545張",
+            "link": "https://udn.com//news/story/7251/9016757?from=udn-catebreaknews_ch2",
+            "time": "2025-09-19 19:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/19/realtime/33180231.jpg&s=Y&x=101&y=0&sw=471&sh=314&exp=3600&w=300",
             "title": "證交所攜手資誠、中信證赴矽谷 發掘優質企業來台上市",
             "link": "https://udn.com//news/story/7251/9016716?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "中信金土洋法人大對戰爆量強漲 分居今天外資賣超、投信買超第一多",
             "link": "https://udn.com//news/story/7251/9016648?from=udn-catebreaknews_ch2",
             "time": "2025-09-19 18:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/19/2/33180033.jpg&s=Y&x=0&y=244&sw=1024&sh=683&exp=3600&w=300",
-            "title": "聯準會降息市場資金充沛 法人樂觀看待台股成長趨勢不變",
-            "link": "https://udn.com//news/story/7251/9016644?from=udn-catebreaknews_ch2",
-            "time": "2025-09-19 18:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/19/realtime/33180014.jpg&s=Y&x=345&y=0&sw=1620&sh=1081&exp=3600&w=300",
-            "title": "證交所前進矽谷招商 發掘優質企業來台上市",
-            "link": "https://udn.com//news/story/7251/9016641?from=udn-catebreaknews_ch2",
-            "time": "2025-09-19 18:15"
         }
     ]
 }
