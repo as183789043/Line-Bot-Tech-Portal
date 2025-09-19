@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/19/realtime/33180014.jpg&s=Y&x=345&y=0&sw=1620&sh=1081&exp=3600&w=300",
+            "title": "證交所前進矽谷招商 發掘優質企業來台上市",
+            "link": "https://udn.com//news/story/7251/9016641?from=udn-catebreaknews_ch2",
+            "time": "2025-09-19 18:15"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "title": "里昂、高盛按讚台股12檔科技股 AI成市場高度共識主題",
+            "link": "https://udn.com//news/story/7251/9016574?from=udn-catebreaknews_ch2",
+            "time": "2025-09-19 17:52"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/19/2/33179698.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "周上市市值創歷史高、達82.66兆 今年日均量3,719億元卻稍不足",
+            "link": "https://udn.com//news/story/7251/9016567?from=udn-catebreaknews_ch2",
+            "time": "2025-09-19 17:49"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/19/98/33179419.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "力積電8月每股虧損0.11元 旺宏每股虧0.19元",
             "link": "https://udn.com//news/story/7253/9016470?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "外資匯出！新台幣貶值逾1角 收當天最低價陪伴台積電",
             "link": "https://udn.com//news/story/7251/9016397?from=udn-catebreaknews_ch2",
             "time": "2025-09-19 16:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/19/2/33179159.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "SCFI運價指數連三跌、周跌幅14.29% 美西線跌逾三成",
-            "link": "https://udn.com//news/story/7251/9016389?from=udn-catebreaknews_ch2",
-            "time": "2025-09-19 16:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/19/realtime/33179030.jpg&s=Y&x=0&y=3&sw=477&sh=318&exp=3600&w=300",
-            "title": "台股屢創新高！股息增益機制助這ETF維持策略優勢",
-            "link": "https://udn.com//news/story/123006/9016354?from=udn-catebreaknews_ch2",
-            "time": "2025-09-19 16:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/19/2/33179023.jpg&s=Y&x=0&y=0&sw=1046&sh=697&exp=3600&w=300",
-            "title": "00940配息公布！大跌以來含息報酬超過三成 勝00919、00929",
-            "link": "https://udn.com//news/story/123006/9016333?from=udn-catebreaknews_ch2",
-            "time": "2025-09-19 16:26"
         }
     ]
 }
