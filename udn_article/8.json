@@ -1,8 +1,20 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/20/realtime/33182625.png&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
+            "title": "13縣市有感 金門近海規模5.0地震 最大震度2級",
+            "link": "https://udn.com//news/story/7266/9017399?from=udn-catebreaknews_ch2",
+            "time": "2025-09-20 07:09"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/20/realtime/33182506.jpg&s=Y&x=0&y=27&sw=2750&sh=1832&exp=3600&w=300",
+            "title": "樺加沙進入快速的強度增強期 鄭明典：這個颱風需要密切關注",
+            "link": "https://udn.com//news/story/7266/9017377?from=udn-catebreaknews_ch2",
+            "time": "2025-09-20 06:19"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/20/realtime/33182382.png&s=Y&x=22&y=109&sw=887&sh=591&exp=3600&w=300",
-            "title": "樺加沙挑戰強颱 暴風圈下周一傍晚觸陸 路徑仍可能北修",
+            "title": "「樺加沙」挑戰強颱 暴風圈下周一傍晚觸陸 路徑仍可能北修",
             "link": "https://udn.com//news/story/7266/9017354?from=udn-catebreaknews_ch2",
             "time": "2025-09-20 05:52"
         },
@@ -17,18 +29,6 @@
             "title": "天氣展望 颱風外圍環流+低壓帶影響 第2周降雨趨緩",
             "link": "https://udn.com//news/story/7266/9017353?from=udn-catebreaknews_ch2",
             "time": "2025-09-20 05:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/20/realtime/33182355.jpg&s=Y&x=0&y=0&sw=3173&sh=2116&exp=3600&w=300",
-            "title": "明晚變天！吳德榮：「樺加沙」挑戰風王 下周一起恐大量致災降雨、狂風巨浪",
-            "link": "https://udn.com//news/story/7266/9017350?from=udn-catebreaknews_ch2",
-            "time": "2025-09-20 05:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/19/realtime/33180898.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
-            "title": "通訊診療法上路周年 遠端就診、照護納入健保",
-            "link": "https://udn.com//news/story/7266/9016942?from=udn-catebreaknews_ch2",
-            "time": "2025-09-20 02:09"
         }
     ]
 }
