@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/19/2/33180694.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
+            "title": "美中元首通電話、三巫日報到 美股電子盤與台指期夜盤先反彈",
+            "link": "https://udn.com//news/story/7255/9016851?from=udn-catebreaknews_ch2",
+            "time": "2025-09-19 20:57"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/19/2/33180467.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "力積電9月以來股價漲幅近四成 公告8月自結營收39.78億元",
             "link": "https://udn.com//news/story/7253/9016777?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "外資賣超157億！賣超中信金逾3萬張最多 但竟買超這檔水泥股14.43萬張",
             "link": "https://udn.com//news/story/7251/9016681?from=udn-catebreaknews_ch2",
             "time": "2025-09-19 18:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/19/2/33180042.jpg&s=Y&x=0&y=11&sw=897&sh=598&exp=3600&w=300",
-            "title": "中信金土洋法人大對戰爆量強漲 分居今天外資賣超、投信買超第一多",
-            "link": "https://udn.com//news/story/7251/9016648?from=udn-catebreaknews_ch2",
-            "time": "2025-09-19 18:21"
         }
     ]
 }
