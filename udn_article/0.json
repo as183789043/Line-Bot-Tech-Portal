@@ -1,6 +1,24 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/22/0/33191858.jpg&s=Y&x=0&y=16&sw=1280&sh=853&exp=3600&w=300",
+            "title": "凌晨3時20分南投地震規模4.8 最大震度3級",
+            "link": "https://udn.com//news/story/7266/9020279?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-09-22 03:29"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/22/98/33191847.jpg&s=Y&x=0&y=0&sw=1074&sh=716&exp=3600&w=300",
+            "title": "花滑／李宇翔獲冬奧門票爆哭 內心感動言語無法形容",
+            "link": "https://udn.com//news/story/7005/9020273?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-09-22 03:14"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/22/98/33191844.jpg&s=Y&x=0&y=92&sw=1280&sh=853&exp=3600&w=300",
+            "title": "競速溜冰／劉懿萱克服低潮 世錦賽女子馬拉松再稱霸",
+            "link": "https://udn.com//news/story/7005/9020271?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-09-22 03:12"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/22/realtime/33191753.jpeg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
             "title": "獲聯合報文學大獎 阮慶岳：921改變人生 寫小說是為了關切恐懼與療癒",
             "link": "https://udn.com//news/story/7266/9020260?from=udn-ch1_breaknews-1-0-news",
@@ -11,24 +29,6 @@
             "title": "阮慶岳：身為小說家的優勢是「記憶力差」 連代表作書名被改了都忘掉",
             "link": "https://udn.com//news/story/7266/9020255?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-09-22 02:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/22/realtime/33191653.jpg&s=Y&x=0&y=10&sw=1000&sh=666&exp=3600&w=300",
-            "title": "100盎司燒肉組、2公斤派對箱！6間中秋燒肉組合　A5和牛、牛小排上桌",
-            "link": "https://udn.com//news/story/7270/9020243?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-09-22 01:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/22/realtime/33191583.jpg&s=Y&x=815&y=1251&sw=1591&sh=1061&exp=3600&w=300",
-            "title": "強度再增！11縣市豪雨連炸3天 樺加沙將達巔峰「最新路徑曝光」",
-            "link": "https://udn.com//news/story/124569/9020223?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-09-22 00:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/21/realtime/33190027.jpeg&s=Y&x=0&y=53&sw=6842&sh=4560&exp=3600&w=300",
-            "title": "歷史上的今天／1957年法前總理皮奈抵台 參訪反共前哨",
-            "link": "https://udn.com//news/story/7314/9019529?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-09-22 00:00"
         }
     ]
 }

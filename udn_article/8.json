@@ -1,6 +1,12 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/22/0/33191858.jpg&s=Y&x=0&y=16&sw=1280&sh=853&exp=3600&w=300",
+            "title": "凌晨3時20分南投地震規模4.8 最大震度3級",
+            "link": "https://udn.com//news/story/7266/9020279?from=udn-catebreaknews_ch2",
+            "time": "2025-09-22 03:29"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/22/realtime/33191753.jpeg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
             "title": "獲聯合報文學大獎 阮慶岳：921改變人生 寫小說是為了關切恐懼與療癒",
             "link": "https://udn.com//news/story/7266/9020260?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2025-09-22 01:09"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/22/realtime/33191583.jpg&s=Y&x=815&y=1251&sw=1591&sh=1061&exp=3600&w=300",
-            "title": "強度再增！11縣市豪雨連炸3天 樺加沙將達巔峰「最新路徑曝光」",
-            "link": "https://udn.com//news/story/124569/9020223?from=udn-catebreaknews_ch2",
-            "time": "2025-09-22 00:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_6.jpg&w=300",
-            "title": "回響／綠建築防「窗殺」 將納鳥類友善設計",
-            "link": "https://udn.com//news/story/7266/9020086?from=udn-catebreaknews_ch2",
-            "time": "2025-09-22 00:14"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/21/realtime/33191355.jpeg&s=Y&x=0&y=0&sw=5257&sh=3589&exp=3600&w=300",
+            "title": "聯合報文學大獎 阮慶岳：921是我文學生命轉捩點",
+            "link": "https://udn.com//news/story/7266/9020101?from=udn-catebreaknews_ch2",
+            "time": "2025-09-22 00:25"
         }
     ]
 }
