@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/21/realtime/33189913.jpg&s=Y&x=0&y=0&sw=3675&sh=2450&exp=3600&w=300",
+            "title": "聯準會啟動降息 M&G：新興市場債資金利多熱潮湧現",
+            "link": "https://udn.com//news/story/10103/9019480?from=udn-catebreaknews_ch2",
+            "time": "2025-09-21 15:51"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/21/realtime/33189856.jpg&s=Y&x=47&y=0&sw=1794&sh=1196&exp=3600&w=300",
+            "title": "聯準會降息未完 法人預估台股趨勢續上",
+            "link": "https://udn.com//news/story/7251/9019461?from=udn-catebreaknews_ch2",
+            "time": "2025-09-21 15:38"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/21/2/33188787.jpg&s=Y&x=76&y=16&sw=1205&sh=804&exp=3600&w=300",
             "title": "台積電尾盤遭重砍、加權指數急挫跌破25,600點 周線仍連四紅",
             "link": "https://udn.com//news/story/7251/9019230?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2025-09-21 12:46"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
             "title": "關稅仍是風險 未來一周注意美股「四大觀察變數」",
             "link": "https://udn.com//news/story/7251/9019199?from=udn-catebreaknews_ch2",
             "time": "2025-09-21 12:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/18/0/33170188.jpg&s=Y&x=64&y=8&sw=1189&sh=793&exp=3600&w=300",
-            "title": "法人：FED降息有利資金環境 台股正向趨勢有望延續",
-            "link": "https://udn.com//news/story/7251/9019018?from=udn-catebreaknews_ch2",
-            "time": "2025-09-21 11:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/21/realtime/33188237.jpg&s=Y&x=0&y=26&sw=3500&sh=2332&exp=3600&w=300",
-            "title": "降息循環支撐 國銀估美股多頭不變、美債看俏",
-            "link": "https://udn.com//news/story/7251/9019081?from=udn-catebreaknews_ch2",
-            "time": "2025-09-21 11:24"
         }
     ]
 }
