@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/22/realtime/33191596.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "【總編開箱】賴總統對兩岸關係的思考 是否也該跟安倍晉三學學",
+            "link": "https://udn.com//news/story/6656/9020234?from=udn-catebreaknews_ch2",
+            "time": "2025-09-22 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/22/1/33191663.jpg&s=Y&x=0&y=44&sw=997&sh=665&exp=3600&w=300",
             "title": "嚴震生：美國「窮台」 民眾對增加軍費態度保留",
             "link": "https://udn.com//news/story/8625/9020219?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "不相信美方會派兵協防台灣 增至49%",
             "link": "https://udn.com//news/story/8625/9020208?from=udn-catebreaknews_ch2",
             "time": "2025-09-22 00:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/21/realtime/33191402.jpg&s=Y&x=0&y=6&sw=800&sh=532&exp=3600&w=300",
-            "title": "國人認兩岸經貿關係處於競爭狀態 大降8個百分點",
-            "link": "https://udn.com//news/story/8625/9020147?from=udn-catebreaknews_ch2",
-            "time": "2025-09-22 00:24"
         }
     ]
 }
