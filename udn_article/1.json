@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/22/realtime/33196617.jpg&s=Y&x=145&y=0&sw=6129&sh=4086&exp=3600&w=300",
+            "title": "接見加拿大國安訪團 蕭美琴：台海和平對全球至關重要",
+            "link": "https://udn.com//news/story/10930/9022073?from=udn-catebreaknews_ch2",
+            "time": "2025-09-22 19:25"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/22/realtime/33196623.jpg&s=Y&x=0&y=172&sw=2046&sh=1364&exp=3600&w=300",
+            "title": "台灣廣告再登時代廣場 蕭美琴：外交預算遭刪、感謝民間慷慨集資",
+            "link": "https://udn.com//news/story/6656/9022076?from=udn-catebreaknews_ch2",
+            "time": "2025-09-22 19:25"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/22/realtime/33196516.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
             "title": "影／年輕人不喜歡國民黨？羅智強：可是年輕人喜歡徐巧芯和我",
             "link": "https://udn.com//news/story/122404/9022038?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "賴總統嘉義遶境談政績 重申明年中低薪家庭免繳所得稅",
             "link": "https://udn.com//news/story/6656/9022010?from=udn-catebreaknews_ch2",
             "time": "2025-09-22 18:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/22/realtime/33196400.bmp&s=Y&x=100&y=0&sw=1080&sh=720&exp=3600&w=300",
-            "title": "賴清德推月入5萬免稅 藍委質疑：政府不是在說沒錢嗎？",
-            "link": "https://udn.com//news/story/6656/9021979?from=udn-catebreaknews_ch2",
-            "time": "2025-09-22 18:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/13/98/32899916.jpg&s=Y&x=48&y=0&sw=1202&sh=801&exp=3600&w=300",
-            "title": "副總統感謝北美台商總會集資 台灣廣告登上時代廣場",
-            "link": "https://udn.com//news/story/7314/9021817?from=udn-catebreaknews_ch2",
-            "time": "2025-09-22 17:55"
         }
     ]
 }
