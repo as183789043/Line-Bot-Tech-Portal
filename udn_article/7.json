@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/15/2/32592068.jpg&s=Y&x=36&y=0&sw=1199&sh=799&exp=3600&w=300",
+            "title": "逾5萬台股ETF股民搶下車 主動式ETF卻逆勢增5.7萬受益人",
+            "link": "https://udn.com//news/story/123006/9024504?from=udn-catebreaknews_ch2",
+            "time": "2025-09-23 18:12"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/22/2/33195942.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "外資買超106億元 買超鴻海逾5萬張最多、但竟只買台積電3,311張",
             "link": "https://udn.com//news/story/7251/9024501?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "009813打包美股「強者恆強」聚焦S&P500前50大企業！阿格力：領漲效應更明顯",
             "link": "https://udn.com//news/story/123006/9023994?from=udn-catebreaknews_ch2",
             "time": "2025-09-23 15:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/08/2/33088762.jpg&s=Y&x=0&y=0&sw=1212&sh=808&exp=3600&w=300",
-            "title": "三大法人回補123億元助陣！台積電領台股續創高 鴻海噴逾十萬張大量",
-            "link": "https://udn.com//news/story/7251/9024050?from=udn-catebreaknews_ch2",
-            "time": "2025-09-23 15:12"
         }
     ]
 }
