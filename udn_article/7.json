@@ -1,13 +1,25 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/20/realtime/32952121.jpg&s=Y&x=0&y=42&sw=5712&sh=3808&exp=3600&w=300",
+            "title": "外資潑冷水！聯發科發表新旗艦晶片 目標價、評等卻遭雙降",
+            "link": "https://udn.com//news/story/7253/9023653?from=udn-catebreaknews_ch2",
+            "time": "2025-09-23 12:46"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/23/realtime/33200008.jpg&s=Y&x=0&y=0&sw=478&sh=319&exp=3600&w=300",
+            "title": "創歷史新猷 首檔淨值站上400元的基金誕生",
+            "link": "https://udn.com//news/story/10103/9023563?from=udn-catebreaknews_ch2",
+            "time": "2025-09-23 12:21"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/23/0/33199979.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "睏飽數錢…台積電盤中噴1340元新天價！網：無腦買護國神山就對了",
             "link": "https://udn.com//news/story/12806/9023536?from=udn-catebreaknews_ch2",
             "time": "2025-09-23 12:10"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
             "title": "台積電1,500元不是夢？分析師來解密",
             "link": "https://udn.com//news/story/7253/9023537?from=udn-catebreaknews_ch2",
             "time": "2025-09-23 12:07"
@@ -17,18 +29,6 @@
             "title": "輝達砸千億挺OpenAI 台股狂飆426點、站上26,300大關刷新高",
             "link": "https://udn.com//news/story/7251/9023524?from=udn-catebreaknews_ch2",
             "time": "2025-09-23 12:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
-            "title": "「輝積」起飛！散熱跟著火 雙鴻創新高、健策衝第一",
-            "link": "https://udn.com//news/story/7253/9023495?from=udn-catebreaknews_ch2",
-            "time": "2025-09-23 12:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/23/realtime/33199798.jpg&s=Y&x=315&y=0&sw=3402&sh=2268&exp=3600&w=300",
-            "title": "東元多題材發酵、盤中強鎖漲停 買盤追捧爆量逾12萬張",
-            "link": "https://udn.com//news/story/7253/9023519?from=udn-catebreaknews_ch2",
-            "time": "2025-09-23 12:00"
         }
     ]
 }
