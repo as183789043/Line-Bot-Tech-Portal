@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/01/0/33040191.jpg&s=Y&x=96&y=24&sw=933&sh=622&exp=3600&w=300",
+            "title": "台股站上26000點 市值奔3兆美元「甩開南韓」…謝金河點台韓經濟10年分水嶺是他們",
+            "link": "https://udn.com//news/story/7251/9026582?from=udn-catebreaknews_ch2",
+            "time": "2025-09-25 05:02"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/24/2/33205589.jpg&s=Y&x=64&y=52&sw=1137&sh=758&exp=3600&w=300",
             "title": "美光財報亮眼 類股未沾光 ",
             "link": "https://udn.com//news/story/7251/9027636?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2025-09-25 02:16"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
             "title": "台股看多 拉回可進場",
             "link": "https://udn.com//news/story/10103/9027513?from=udn-catebreaknews_ch2",
             "time": "2025-09-25 02:14"
@@ -23,12 +29,6 @@
             "title": "第4季基金投資趨勢／純債券基金重押五成 降低風險",
             "link": "https://udn.com//news/story/10103/9027468?from=udn-catebreaknews_ch2",
             "time": "2025-09-25 02:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/25/2/33210068.png&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "大中華基金 績效帶勁",
-            "link": "https://udn.com//news/story/10103/9027469?from=udn-catebreaknews_ch2",
-            "time": "2025-09-25 02:11"
         }
     ]
 }
