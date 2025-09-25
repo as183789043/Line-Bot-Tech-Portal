@@ -1,6 +1,24 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/25/0/33210972.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "十年舞台刻下「DK」之名的真義 李碩珉用歌聲讓全世界記住SEVENTEEN",
+            "link": "https://udn.com//news/story/6981/9028071?from=udn-catebreaknews_ch2",
+            "time": "2025-09-25 09:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/24/draft/33208105.jpg&s=Y&x=52&y=0&sw=1176&sh=784&exp=3600&w=300",
+            "title": "彰化銀行深耕客戶服務有成  創造客戶財富價值",
+            "link": "https://udn.com//news/story/6853/9026983?from=udn-catebreaknews_ch2",
+            "time": "2025-09-25 08:19"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/24/draft/33207971.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "國際資源與在地經驗連結 渣打銀行持續為高資產客戶打造獲利方程式",
+            "link": "https://udn.com//news/story/6853/9026921?from=udn-catebreaknews_ch2",
+            "time": "2025-09-25 08:19"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/24/draft/33206290.jpg&s=Y&x=94&y=0&sw=706&sh=471&exp=3600&w=300",
             "title": "NAGOMI單店營收破2億！陳麗華領軍 日款待文化、超強「讀空氣」 孫道存都指名她",
             "link": "https://udn.com//news/story/6839/9026164?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "台灣50納虧損新藥股「康霈*」掀熱議！彩晶半年即遭剔除 ETF編納應評估獲利？",
             "link": "https://udn.com//news/story/6839/9026160?from=udn-catebreaknews_ch2",
             "time": "2025-09-24 13:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/24/draft/33206232.jpg&s=Y&x=95&y=0&sw=705&sh=470&exp=3600&w=300",
-            "title": "輝達入股英特爾、投資OPEN AI目的解讀！對台半導體與AI競爭者 有哪些衝擊？",
-            "link": "https://udn.com//news/story/6839/9026148?from=udn-catebreaknews_ch2",
-            "time": "2025-09-24 13:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/24/draft/33206224.jpg&s=Y&x=94&y=0&sw=706&sh=471&exp=3600&w=300",
-            "title": "川普對等關稅衝擊！亞洲家具王咬牙撐：利潤像擰乾的毛巾「越南若升至50％ 就玩不下去」",
-            "link": "https://udn.com//news/story/6839/9026140?from=udn-catebreaknews_ch2",
-            "time": "2025-09-24 13:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/24/draft/33205947.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "降息一碼 科技大咖上漲吃力",
-            "link": "https://udn.com//news/story/6851/9026062?from=udn-catebreaknews_ch2",
-            "time": "2025-09-24 13:13"
         }
     ]
 }
