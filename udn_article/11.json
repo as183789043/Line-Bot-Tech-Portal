@@ -1,6 +1,12 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/27/realtime/33227915.jpg&s=Y&x=0&y=0&sw=6048&sh=4024&exp=3600&w=300",
+            "title": "華郵：俄軍同意強化空降能力 有助共軍犯台",
+            "link": "https://udn.com//news/story/7331/9032826?from=udn-catebreaknews_ch2",
+            "time": "2025-09-27 05:10"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/26/realtime/33226458.png&s=Y&x=0&y=0&sw=971&sh=646&exp=3600&w=300",
             "title": "陸國產GPU第一股摩爾線程要來了 躍A股今年半導體最大IPO ",
             "link": "https://udn.com//news/story/7333/9032586?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2025-09-27 01:19"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_9.jpg&w=300",
             "title": "長鑫髮夾彎 改A股上市",
             "link": "https://udn.com//news/story/7333/9032612?from=udn-catebreaknews_ch2",
             "time": "2025-09-27 01:17"
@@ -23,12 +29,6 @@
             "title": "人行擬加強貨幣政策調控",
             "link": "https://udn.com//news/story/7333/9032613?from=udn-catebreaknews_ch2",
             "time": "2025-09-27 01:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/26/realtime/33226586.jpg&s=Y&x=0&y=0&sw=7777&sh=5185&exp=3600&w=300",
-            "title": "陸北極科考告捷 實現首次載人深潛",
-            "link": "https://udn.com//news/story/7332/9032654?from=udn-catebreaknews_ch2",
-            "time": "2025-09-27 00:26"
         }
     ]
 }
