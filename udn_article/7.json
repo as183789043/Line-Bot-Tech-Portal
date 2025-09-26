@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/26/2/33225899.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "PCE打敗川普「萬萬稅」 美股、台指期夜盤先漲再說",
+            "link": "https://udn.com//news/story/7255/9032427?from=udn-catebreaknews_ch2",
+            "time": "2025-09-26 21:02"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/26/realtime/33225592.jpg&s=Y&x=0&y=0&sw=1585&sh=1033&exp=3600&w=300",
             "title": "台股失守26000點 證期局：基本面仍有支撐",
             "link": "https://udn.com//news/story/7251/9032346?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台積電止跌回穩？鉅額交易均價高於收盤價 ADR盤前續跌",
             "link": "https://udn.com//news/story/7251/9032272?from=udn-catebreaknews_ch2",
             "time": "2025-09-26 19:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/26/2/33225312.jpg&s=Y&x=0&y=0&sw=1216&sh=811&exp=3600&w=300",
-            "title": "台股重挫逾400點 安聯投信：後市展望仍正向",
-            "link": "https://udn.com//news/story/7251/9032265?from=udn-catebreaknews_ch2",
-            "time": "2025-09-26 19:11"
         }
     ]
 }
