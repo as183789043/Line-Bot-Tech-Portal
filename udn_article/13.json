@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/25/draft/33211123.jpg&s=Y&x=0&y=7&sw=1000&sh=666&exp=3600&w=300",
+            "title": "《大都會博物館名作展》 台積電攜手時藝多媒體 為偏鄉孩子打造藝術啟蒙路",
+            "link": "https://udn.com//news/story/120681/9028160?from=udn-catebreaknews_ch2",
+            "time": "2025-09-28 10:36"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/28/0/33233817.jpg&s=Y&x=0&y=0&sw=938&sh=625&exp=3600&w=300",
             "title": "瞄準AI材料升級！環球晶低檔啟動",
             "link": "https://udn.com//news/story/6850/9034362?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "美股創高帶動 台股主流強棒輪動",
             "link": "https://udn.com//news/story/6850/9034351?from=udn-catebreaknews_ch2",
             "time": "2025-09-28 07:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/28/0/33233762.jpg&s=Y&x=320&y=0&sw=942&sh=628&exp=3600&w=300",
-            "title": "ABF載板進入漲價週期的受惠股─南電",
-            "link": "https://udn.com//news/story/6850/9034349?from=udn-catebreaknews_ch2",
-            "time": "2025-09-28 07:54"
         }
     ]
 }

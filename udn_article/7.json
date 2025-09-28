@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/27/realtime/33231197.jpg&s=Y&x=344&y=0&sw=4365&sh=2910&exp=3600&w=300",
+            "title": "本周台股／打破9月魔咒的兩道魔法 10月繼續有效？",
+            "link": "https://udn.com//news/story/7251/9033645?from=udn-catebreaknews_ch2",
+            "time": "2025-09-28 10:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/03/realtime/32809941.jpg&s=Y&x=0&y=0&sw=1889&sh=1260&exp=3600&w=300",
             "title": "十名師看台股…Q4先蹲後跳 大盤有望上攻28,500點",
             "link": "https://udn.com//news/story/7251/9034148?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股擂台Q3冠軍揭曉 陳雅頎季賺102%",
             "link": "https://udn.com//news/story/7251/9034125?from=udn-catebreaknews_ch2",
             "time": "2025-09-28 02:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/27/2/33231339.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "外資狂掃華邦電、南亞科 小摩解讀美光財報：HBM4訂單成短線焦點",
-            "link": "https://udn.com//news/story/7251/9033664?from=udn-catebreaknews_ch2",
-            "time": "2025-09-27 16:25"
         }
     ]
 }
