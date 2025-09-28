@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/09/realtime/33099552.jpg&s=Y&x=0&y=0&sw=5343&sh=3564&exp=3600&w=300",
+            "title": "誰一路抱股台積至今？台積電主管問辦公室僅1女舉手 原因非常獨特",
+            "link": "https://udn.com//news/story/12806/9035318?from=udn-catebreaknews_ch2",
+            "time": "2025-09-28 21:32"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/28/realtime/33236494.jpg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
             "title": "台股高點回檔 未來一年布局契機到來",
             "link": "https://udn.com//news/story/7251/9035199?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "中小型股補漲效應發酵 店頭市場基金績效亮",
             "link": "https://udn.com//news/story/7254/9035095?from=udn-catebreaknews_ch2",
             "time": "2025-09-28 16:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/28/realtime/33236094.jpg&s=Y&x=123&y=0&sw=543&sh=362&exp=3600&w=300",
-            "title": "野村投信第4季台股展望：基本面穩健 AI仍是關鍵驅動力",
-            "link": "https://udn.com//news/story/7251/9035094?from=udn-catebreaknews_ch2",
-            "time": "2025-09-28 16:55"
         }
     ]
 }
