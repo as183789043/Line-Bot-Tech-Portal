@@ -1,6 +1,24 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/29/1/33241765.png&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "美與台爭矽盾 圖解全球先進製程最大產地、半導體營收三級跳",
+            "link": "https://udn.com//news/story/7314/9037130?from=udn-catebreaknews_ch2",
+            "time": "2025-09-30 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/30/realtime/33242001.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "盧特尼克要拆解矽盾 我護國神山不保？",
+            "link": "https://udn.com//news/story/6656/9037218?from=udn-catebreaknews_ch2",
+            "time": "2025-09-30 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/30/realtime/33241960.jpg&s=Y&x=184&y=596&sw=1129&sh=753&exp=3600&w=300",
+            "title": "貿易磋商 副閣揆五度赴美 盧特尼克新論調…經貿辦：審慎以對",
+            "link": "https://udn.com//news/story/6656/9037039?from=udn-catebreaknews_ch2",
+            "time": "2025-09-30 02:16"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/30/1/33242137.jpg&s=Y&x=44&y=60&sw=1185&sh=790&exp=3600&w=300",
             "title": "晶片五五分… 藍委批美拆台灣護身符 籲賴總統國情報告",
             "link": "https://udn.com//news/story/6656/9037191?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "美提晶片五五分 學者：我應換取軍售護台",
             "link": "https://udn.com//news/story/6656/9037188?from=udn-catebreaknews_ch2",
             "time": "2025-09-30 01:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/30/realtime/33241960.jpg&s=Y&x=160&y=572&sw=1197&sh=798&exp=3600&w=300",
-            "title": "鄭麗君赴美第五輪關稅磋商 總統府未回應「晶片五五分」",
-            "link": "https://udn.com//news/story/6656/9037187?from=udn-catebreaknews_ch2",
-            "time": "2025-09-30 01:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/29/realtime/33241796.jpg&s=Y&x=0&y=0&sw=2550&sh=1700&exp=3600&w=300",
-            "title": "陽光行動／打造步行城市 人行道普及率、遮蔭不及格",
-            "link": "https://udn.com//news/story/124618/9037117?from=udn-catebreaknews_ch2",
-            "time": "2025-09-30 00:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/30/1/33241927.jpg&s=Y&x=168&y=0&sw=1112&sh=741&exp=3600&w=300",
-            "title": "遲未潛航測試 海鯤號整合出問題",
-            "link": "https://udn.com//news/story/10930/9037138?from=udn-catebreaknews_ch2",
-            "time": "2025-09-30 00:05"
         }
     ]
 }
