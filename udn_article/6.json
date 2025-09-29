@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/29/realtime/33241523.jpg&s=Y&x=0&y=21&sw=1780&sh=1186&exp=3600&w=300",
+            "title": "金價再漲 首逾3800美元",
+            "link": "https://udn.com//news/story/7238/9036902?from=udn-catebreaknews_ch2",
+            "time": "2025-09-30 00:43"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_3.jpg&w=300",
+            "title": "第四季投資布局 外資看好債券",
+            "link": "https://udn.com//news/story/121591/9036900?from=udn-catebreaknews_ch2",
+            "time": "2025-09-30 00:42"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/26/realtime/33225592.jpg&s=Y&x=0&y=0&sw=1585&sh=1033&exp=3600&w=300",
             "title": "富豪戶資金動了！存款降、基金衝高 債市再起風",
             "link": "https://udn.com//news/story/7239/9036895?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2025-09-29 18:14"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/29/realtime/33240670.jpg&s=Y&x=0&y=0&sw=1585&sh=1033&exp=3600&w=300",
-            "title": "億級富豪趕在降息前投資卡位 存款占比創四個月來最低",
-            "link": "https://udn.com//news/story/7239/9036556?from=udn-catebreaknews_ch2",
-            "time": "2025-09-29 16:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/29/realtime/33240545.jpg&s=Y&x=0&y=35&sw=5154&sh=3436&exp=3600&w=300",
-            "title": "美商務部提晶片製造「五五分」…台供應鏈恐加速在美布局 提前卡位",
-            "link": "https://udn.com//news/story/7240/9036519?from=udn-catebreaknews_ch2",
-            "time": "2025-09-29 16:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/29/2/33240530.jpg&s=Y&x=64&y=0&sw=1076&sh=717&exp=3600&w=300",
-            "title": "六都三房總價要多少？北市中位數破3千萬 這四都1,500萬有找",
-            "link": "https://udn.com//news/story/7241/9036492?from=udn-catebreaknews_ch2",
-            "time": "2025-09-29 16:07"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/18/2/33172687.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "美商務部長拋台美晶片五五分 經濟部：與產業界保持密切聯繫",
+            "link": "https://udn.com//news/story/7240/9036637?from=udn-catebreaknews_ch2",
+            "time": "2025-09-29 18:12"
         }
     ]
 }
