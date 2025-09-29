@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/29/98/33240273.jpg&s=Y&x=0&y=0&sw=1265&sh=843&exp=3600&w=300",
+            "title": "季底結帳及美提晶片製造「五五分」 台股短線恐震盪",
+            "link": "https://udn.com//news/story/7251/9036217?from=udn-catebreaknews_ch2",
+            "time": "2025-09-29 15:25"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/26/2/33225877.jpg&s=Y&x=0&y=0&sw=1106&sh=737&exp=3600&w=300",
+            "title": "上周五美股四大指數收紅 台股本周多頭續戰26,000點",
+            "link": "https://udn.com//news/story/7251/9036126?from=udn-catebreaknews_ch2",
+            "time": "2025-09-29 12:02"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/22/realtime/33196783.jpg&s=Y&x=0&y=0&sw=1889&sh=1259&exp=3600&w=300",
             "title": "台積電、上市櫃Q3獲利預期將繳出佳績 10月台股衝向27K",
             "link": "https://udn.com//news/story/7251/9035520?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "歷史經驗 台股10月漲多跌少",
             "link": "https://udn.com//news/story/7251/9035516?from=udn-catebreaknews_ch2",
             "time": "2025-09-29 01:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
-            "title": "華擎衝AI 永擎助陣",
-            "link": "https://udn.com//news/story/7253/9035284?from=udn-catebreaknews_ch2",
-            "time": "2025-09-28 23:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
-            "title": "錸寶攻儲能報捷 營運加溫",
-            "link": "https://udn.com//news/story/7253/9035286?from=udn-catebreaknews_ch2",
-            "time": "2025-09-28 23:34"
         }
     ]
 }
