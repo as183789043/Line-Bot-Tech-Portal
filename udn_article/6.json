@@ -1,6 +1,12 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/25/realtime/33213143.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
+            "title": "簡立峰專欄／OpenAI攜手博通自製晶片 甩開輝達依賴？",
+            "link": "https://udn.com//news/story/7238/9028996?from=udn-catebreaknews_ch2",
+            "time": "2025-09-29 09:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/27/realtime/33232256.jpg&s=Y&x=0&y=32&sw=800&sh=533&exp=3600&w=300",
             "title": "品牌聯名成行銷顯學 業者就怕代言人翻車",
             "link": "https://udn.com//news/story/7238/9034203?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2025-09-29 01:42"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
             "title": "高雄資產管理專區開辦至今 三壽險保費收入突破億元",
             "link": "https://udn.com//news/story/7239/9035518?from=udn-catebreaknews_ch2",
             "time": "2025-09-29 01:38"
@@ -23,12 +29,6 @@
             "title": "三星2奈米砍價三成…爭取輝達、高通、特斯拉下單 挖台積電牆腳",
             "link": "https://udn.com//news/story/7240/9035493?from=udn-catebreaknews_ch2",
             "time": "2025-09-29 01:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_1.jpg&w=300",
-            "title": "三星傳發動2奈米價格戰 權王三優勢...不易撼動",
-            "link": "https://udn.com//news/story/7240/9035494?from=udn-catebreaknews_ch2",
-            "time": "2025-09-29 01:33"
         }
     ]
 }
