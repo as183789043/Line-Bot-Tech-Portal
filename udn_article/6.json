@@ -1,13 +1,25 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/30/realtime/33242965.jpeg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "一早被錢砸醒！鴻海員工分紅大方給 百萬獎金今入帳",
+            "link": "https://udn.com//news/story/7240/9037432?from=udn-catebreaknews_ch2",
+            "time": "2025-09-30 09:08"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/30/98/33242648.jpg&s=Y&x=108&y=0&sw=1080&sh=720&exp=3600&w=300",
+            "title": "台美晶片製造五五分 專家：川普任內達標可能性極低",
+            "link": "https://udn.com//news/story/7240/9037346?from=udn-catebreaknews_ch2",
+            "time": "2025-09-30 07:54"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_6.jpg&w=300",
             "title": "除外責任事項投保前看清楚",
             "link": "https://udn.com//news/story/7239/9036810?from=udn-catebreaknews_ch2",
             "time": "2025-09-30 05:50"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_3.jpg&w=300",
             "title": "美台晶片產能五五分 外媒：尋求擴大與台積夥伴關係",
             "link": "https://udn.com//news/story/7240/9037089?from=udn-catebreaknews_ch2",
             "time": "2025-09-30 02:12"
@@ -17,18 +29,6 @@
             "title": "學界看「美台晶片產能五五分」論調 邱達生：包裹糖衣的勒索",
             "link": "https://udn.com//news/story/7240/9037046?from=udn-catebreaknews_ch2",
             "time": "2025-09-30 02:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/30/2/33242141.jpg&s=Y&x=0&y=88&sw=1280&sh=853&exp=3600&w=300",
-            "title": "學界看「美台晶片產能五五分」論調 詹文男：要拋棄矽盾迷思",
-            "link": "https://udn.com//news/story/7240/9037057?from=udn-catebreaknews_ch2",
-            "time": "2025-09-30 02:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/29/98/33238911.jpg&s=Y&x=52&y=36&sw=1211&sh=807&exp=3600&w=300",
-            "title": "台積電加速推進美國製造 亞利桑那三廠可望提早一年量產",
-            "link": "https://udn.com//news/story/7240/9037031?from=udn-catebreaknews_ch2",
-            "time": "2025-09-30 02:01"
         }
     ]
 }
