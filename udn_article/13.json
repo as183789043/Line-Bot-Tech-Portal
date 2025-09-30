@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/30/0/33244942.jpg&s=Y&x=276&y=0&sw=924&sh=616&exp=3600&w=300",
+            "title": "宜鼎股價飆5成！全球記憶體大廠打進輝達生態系 英特爾、高通也找上門",
+            "link": "https://udn.com//news/story/6841/9038171?from=udn-catebreaknews_ch2",
+            "time": "2025-09-30 13:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/30/0/33243639.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台積電不是一天造成的！盧特尼克喊台美晶片「五五分」 如何保持領先優勢？",
             "link": "https://udn.com//news/story/6839/9037702?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "長照3.0的關鍵解方",
             "link": "https://udn.com//news/story/6854/9037221?from=udn-catebreaknews_ch2",
             "time": "2025-09-30 10:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/25/0/33211618.jpg&s=Y&x=0&y=0&sw=1046&sh=697&exp=3600&w=300",
-            "title": "加密貨幣、黃金ETF熱度升溫",
-            "link": "https://udn.com//news/story/6854/9029904?from=udn-catebreaknews_ch2",
-            "time": "2025-09-30 09:57"
         }
     ]
 }
