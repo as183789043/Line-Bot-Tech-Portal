@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/01/realtime/33257850.jpg&s=Y&x=0&y=0&sw=1889&sh=1259&exp=3600&w=300",
+            "title": "鄭麗君：不會答應美台半導體製造「五五分」",
+            "link": "https://udn.com//news/story/124621/9044446?from=udn-catebreaknews_ch2",
+            "time": "2025-10-02 01:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/02/1/33258320.jpg&s=Y&x=104&y=68&sw=1177&sh=785&exp=3600&w=300",
             "title": "美媒：台灣若無法信任美為安全夥伴 恐討論重啟核武",
             "link": "https://udn.com//news/story/10930/9044513?from=udn-catebreaknews_ch2",
@@ -13,22 +19,16 @@
             "time": "2025-10-02 00:40"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
             "title": "國民黨主席選舉6候選人 今首同台辯論",
             "link": "https://udn.com//news/story/122404/9044512?from=udn-catebreaknews_ch2",
             "time": "2025-10-02 00:31"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
             "title": "民眾黨10月9日聯合政府研討會 稱「無意對藍出考題」　",
             "link": "https://udn.com//news/story/6656/9044515?from=udn-catebreaknews_ch2",
             "time": "2025-10-02 00:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/01/realtime/33258032.jpg&s=Y&x=111&y=0&sw=2076&sh=1385&exp=3600&w=300",
-            "title": "觀察站／鄭麗文、盧秀燕革命情 盡在不言中",
-            "link": "https://udn.com//news/story/122404/9044508?from=udn-catebreaknews_ch2",
-            "time": "2025-10-02 00:29"
         }
     ]
 }
