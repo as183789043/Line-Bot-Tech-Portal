@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/01/draft/33252091.jpg&s=Y&x=93&y=0&sw=707&sh=471&exp=3600&w=300",
+            "title": "印表機失守公司被駭！台每秒遭1.5萬次網攻 邊陲連網設備為何淪資安破口？",
+            "link": "https://udn.com//news/story/6839/9040525?from=udn-catebreaknews_ch2",
+            "time": "2025-10-01 13:16"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/11/realtime/33119998.jpeg&s=Y&x=804&y=236&sw=1532&sh=1021&exp=3600&w=300",
             "title": "力積電股價9月狂飆近60%！明明連虧8季 為何外資本月大買15萬張",
             "link": "https://udn.com//news/story/6839/9040432?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台積電不是一天造成的！盧特尼克喊台美晶片「五五分」 如何保持領先優勢？",
             "link": "https://udn.com//news/story/6839/9037702?from=udn-catebreaknews_ch2",
             "time": "2025-09-30 12:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/30/0/33243658.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "陸狂賣5千億美元美債買黃金 英拼命撿躍第2大持有國！謝金河解讀美債持倉洗牌內幕",
-            "link": "https://udn.com//news/story/6839/9037717?from=udn-catebreaknews_ch2",
-            "time": "2025-09-30 11:05"
         }
     ]
 }
