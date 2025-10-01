@@ -1,6 +1,24 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/02/2/33258278.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "蘋果折疊機 鴻海、新日興助攻",
+            "link": "https://udn.com//news/story/7240/9044405?from=udn-catebreaknews_ch2",
+            "time": "2025-10-02 06:30"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/02/2/33258316.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "金價逼近3,900美元 今年來飆漲逾47%",
+            "link": "https://udn.com//news/story/7239/9044459?from=udn-catebreaknews_ch2",
+            "time": "2025-10-02 06:10"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/02/2/33258354.jpg&s=Y&x=0&y=144&sw=1278&sh=852&exp=3600&w=300",
+            "title": "退休基金8月大賺3,325億 前八月收益率達5% ",
+            "link": "https://udn.com//news/story/7238/9044371?from=udn-catebreaknews_ch2",
+            "time": "2025-10-02 06:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_5.jpg&w=300",
             "title": "美國半導體大展 台積、日月光參與",
             "link": "https://udn.com//news/story/7240/9044039?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "壯大電子支付 金管會拋三期許",
             "link": "https://udn.com//news/story/7239/9044223?from=udn-catebreaknews_ch2",
             "time": "2025-10-02 01:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/01/realtime/33257338.jpg&s=Y&x=236&y=172&sw=1956&sh=1304&exp=3600&w=300",
-            "title": "國泰世華奪國際大獎",
-            "link": "https://udn.com//news/story/7239/9044232?from=udn-catebreaknews_ch2",
-            "time": "2025-10-02 01:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/01/realtime/33257356.jpg&s=Y&x=60&y=0&sw=1929&sh=1286&exp=3600&w=300",
-            "title": "第一金永續「綠光傳愛」",
-            "link": "https://udn.com//news/story/7239/9044239?from=udn-catebreaknews_ch2",
-            "time": "2025-10-02 01:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
-            "title": "20張台幣保單調整宣告利率",
-            "link": "https://udn.com//news/story/7239/9044230?from=udn-catebreaknews_ch2",
-            "time": "2025-10-02 01:48"
         }
     ]
 }
