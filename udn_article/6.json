@@ -1,6 +1,24 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/01/realtime/33256015.jpg&s=Y&x=0&y=152&sw=1097&sh=731&exp=3600&w=300",
+            "title": "黃曉剛出任Arm台灣總裁 持續強化與台灣科技業合作關係",
+            "link": "https://udn.com//news/story/7240/9043898?from=udn-catebreaknews_ch2",
+            "time": "2025-10-01 18:48"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/01/realtime/33255854.jpg&s=Y&x=150&y=0&sw=4596&sh=3064&exp=3600&w=300",
+            "title": "台中銀行與群聯電子跨界聯手 打造AI金融服務新平台",
+            "link": "https://udn.com//news/story/7239/9043861?from=udn-catebreaknews_ch2",
+            "time": "2025-10-01 18:28"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/01/realtime/33255849.jpg&s=Y&x=0&y=0&sw=4096&sh=2731&exp=3600&w=300",
+            "title": "2025宏碁龍騰微笑獎揭曉 神瑞人工智慧、鐙鋒氫勇奪首獎",
+            "link": "https://udn.com//news/story/7240/9043860?from=udn-catebreaknews_ch2",
+            "time": "2025-10-01 18:27"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/01/realtime/33255711.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
             "title": "台北紡織展將登場！產業亮點揭曉 中國低價競爭、美關稅壓力成隱憂",
             "link": "https://udn.com//news/story/7241/9043826?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "國泰世華榮獲《Global Finance》大獎 獲頒「台灣最佳現金管理銀行」",
             "link": "https://udn.com//news/story/7239/9043802?from=udn-catebreaknews_ch2",
             "time": "2025-10-01 18:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/01/realtime/33255338.jpg&s=Y&x=0&y=0&sw=5416&sh=3588&exp=3600&w=300",
-            "title": "台灣金聯創公股合作首例 與華南金資產共推北市興隆段都更案",
-            "link": "https://udn.com//news/story/7239/9043754?from=udn-catebreaknews_ch2",
-            "time": "2025-10-01 17:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/01/realtime/33255328.jpg&s=Y&x=0&y=0&sw=2587&sh=1724&exp=3600&w=300",
-            "title": "經濟部促AI Automotive產業大聯盟今成軍 產研攜手共組AI車電平台",
-            "link": "https://udn.com//news/story/7240/9043751?from=udn-catebreaknews_ch2",
-            "time": "2025-10-01 17:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/01/realtime/33255273.jpg&s=Y&x=0&y=0&sw=1600&sh=1066&exp=3600&w=300",
-            "title": "工研院領十家智慧醫療廠商赴日 攜手OLBA集團啟動亞太跨國合作動能",
-            "link": "https://udn.com//news/story/7238/9043734?from=udn-catebreaknews_ch2",
-            "time": "2025-10-01 17:41"
         }
     ]
 }
