@@ -1,13 +1,19 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/30/0/33254114.jpg&s=Y&x=0&y=0&sw=1022&sh=681&exp=3600&w=300",
+            "title": "「漂亮50」估值過高、本益比極不現實 雅芳、全錄和寶麗來遭到重創",
+            "link": "https://udn.com//news/story/12806/9038629?from=udn-catebreaknews_ch2",
+            "time": "2025-10-02 05:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/01/realtime/33257344.jpg&s=Y&x=32&y=0&sw=1824&sh=1216&exp=3600&w=300",
             "title": "AI新星 帶旺科技基金",
             "link": "https://udn.com//news/story/10103/9044234?from=udn-catebreaknews_ch2",
             "time": "2025-10-02 01:25"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
             "title": "第4季投資策略 瞄準「KEYS」",
             "link": "https://udn.com//news/story/10103/9044237?from=udn-catebreaknews_ch2",
             "time": "2025-10-02 01:23"
@@ -23,12 +29,6 @@
             "title": "主題型ETF  漲勢犀利",
             "link": "https://udn.com//news/story/123006/9044202?from=udn-catebreaknews_ch2",
             "time": "2025-10-02 01:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
-            "title": "台股商品放閃 資金挺",
-            "link": "https://udn.com//news/story/10103/9044204?from=udn-catebreaknews_ch2",
-            "time": "2025-10-02 01:20"
         }
     ]
 }
