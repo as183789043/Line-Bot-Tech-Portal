@@ -1,6 +1,12 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/10/02/33258339.jpeg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
+            "title": "美國聯邦政府關門 紐約數萬勞工放無薪假、自由女神謝客…",
+            "link": "https://udn.com//news/story/6813/9044537?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-10-02 00:47"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/01/realtime/33250134.jpg&s=Y&x=0&y=0&sw=4540&sh=2951&exp=3600&w=300",
             "title": "歷史上的今天／1955年北市首屆市民運動大會 師大揭幕",
             "link": "https://udn.com//news/story/7314/9039897?from=udn-ch1_breaknews-1-0-news",
@@ -13,7 +19,7 @@
             "time": "2025-10-01 23:39"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_4.jpg&w=300",
             "title": "70歲男逆齡！醫曝「年輕20歲」回春術：7大抗老習慣幫大忙",
             "link": "https://udn.com//news/story/7266/9044456?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-10-01 23:23"
@@ -21,14 +27,8 @@
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/01/realtime/33257686.png&s=Y&x=0&y=10&sw=1470&sh=980&exp=3600&w=300",
             "title": "影／上海勞力士大師賽開打 觀眾干擾比賽 揮外國護照被抬離現場",
-            "link": "https://udn.com//news/story/7333/9044352?from=udn-ch1_breaknews-1-0-news",
+            "link": "https://udn.com//news/story/7332/9044352?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-10-01 23:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/01/realtime/33257631.jpeg&s=Y&x=0&y=0&sw=4882&sh=3255&exp=3600&w=300",
-            "title": "圖輯／中職兄弟封王再等等…富邦延長賽強勢逆轉 魏全成為大功臣",
-            "link": "https://udn.com//news/story/7001/9044331?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-10-01 22:54"
         }
     ]
 }
