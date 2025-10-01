@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
+            "title": "上市公司買回庫藏股 36家執行率低於50%股票全曝光",
+            "link": "https://udn.com//news/story/7251/9044296?from=udn-catebreaknews_ch2",
+            "time": "2025-10-01 22:25"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/01/realtime/33257262.jpg&s=Y&x=0&y=42&sw=5712&sh=3808&exp=3600&w=300",
             "title": "工業電腦整合！瑞傳科入股中美萬泰科 鞏固觸控電腦版圖",
             "link": "https://udn.com//news/story/7253/9044222?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "高盛、大摩齊喊多！台積電法說會在即 目標價上看1,600元",
             "link": "https://udn.com//news/story/7251/9044146?from=udn-catebreaknews_ch2",
             "time": "2025-10-01 20:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/01/2/33256049.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "台股光輝10月來了！台積電鉅額交易連兩日創新高 站上1,435元",
-            "link": "https://udn.com//news/story/7251/9043890?from=udn-catebreaknews_ch2",
-            "time": "2025-10-01 18:45"
         }
     ]
 }
