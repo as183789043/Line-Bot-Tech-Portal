@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/26/2/33219573.jpg&s=Y&x=200&y=184&sw=1003&sh=669&exp=3600&w=300",
+            "title": "台積電1,600元前哨站 鉅額交易驚見1,450元新天價",
+            "link": "https://udn.com//news/story/7251/9046658?from=udn-catebreaknews_ch2",
+            "time": "2025-10-02 20:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/01/2/33250746.jpg&s=Y&x=4&y=12&sw=1223&sh=815&exp=3600&w=300",
             "title": "外資買超234億元 這檔人氣王獲外資買超3.49萬張、鴻海登外資買超亞軍",
             "link": "https://udn.com//news/story/7251/9046296?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股續創高！安聯：投資人要留意三風險 須多策略靈活應對",
             "link": "https://udn.com//news/story/7251/9045973?from=udn-catebreaknews_ch2",
             "time": "2025-10-02 16:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/08/2/33089599.jpg&s=Y&x=0&y=0&sw=1177&sh=785&exp=3600&w=300",
-            "title": "緯創股價一周強漲23% 原來是這個原因",
-            "link": "https://udn.com//news/story/7253/9045930?from=udn-catebreaknews_ch2",
-            "time": "2025-10-02 15:47"
         }
     ]
 }
