@@ -1,13 +1,19 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
+            "title": "台股再創高 台積站上一千四百元",
+            "link": "https://udn.com//news/story/7251/9049334?from=udn-catebreaknews_ch2",
+            "time": "2025-10-04 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/03/realtime/33277774.jpg&s=Y&x=0&y=11&sw=1479&sh=986&exp=3600&w=300",
             "title": "AI戰場邊緣化加速 擷發科第3季營收增逾四成",
             "link": "https://udn.com//news/story/7254/9049177?from=udn-catebreaknews_ch2",
             "time": "2025-10-03 22:37"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
             "title": "旺！台指期夜盤衝26,845點 再創歷史新高",
             "link": "https://udn.com//news/story/7255/9049039?from=udn-catebreaknews_ch2",
             "time": "2025-10-03 21:00"
@@ -23,12 +29,6 @@
             "title": "木頭姐旗下ARKK今年漲幅逾五成勝美股 這檔主動式ETF單月報酬飆12%",
             "link": "https://udn.com//news/story/123006/9048911?from=udn-catebreaknews_ch2",
             "time": "2025-10-03 19:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/03/2/33276584.jpg&s=Y&x=0&y=0&sw=1272&sh=848&exp=3600&w=300",
-            "title": "大小摩唱旺蘋果供應鏈！iPhone 17、PC半導體成雙優勢 點名這四台廠",
-            "link": "https://udn.com//news/story/7251/9048856?from=udn-catebreaknews_ch2",
-            "time": "2025-10-03 18:54"
         }
     ]
 }
