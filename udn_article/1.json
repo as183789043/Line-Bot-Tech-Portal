@@ -1,8 +1,20 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/04/realtime/33278278.jpg&s=Y&x=0&y=10&sw=1080&sh=720&exp=3600&w=300",
+            "title": "請假六日黨主席辯論 羅智強：我要用2周超越鄭麗文",
+            "link": "https://udn.com//news/story/6656/9049384?from=udn-catebreaknews_ch2",
+            "time": "2025-10-04 00:19"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/04/realtime/33278279.jpg&s=Y&x=0&y=0&sw=4140&sh=2749&exp=3600&w=300",
+            "title": "苗栗隨機傷人 陳菁徽：要編織起更堅固的社會安全網",
+            "link": "https://udn.com//news/story/6656/9049385?from=udn-catebreaknews_ch2",
+            "time": "2025-10-04 00:19"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/04/realtime/33278266.jpg&s=Y&x=0&y=0&sw=1567&sh=1045&exp=3600&w=300",
-            "title": "黨主席辯論場數超過總統大選 18藍委籲停止 全力投入花蓮救災",
+            "title": "黨主席辯論場數超過總統大選…18藍委籲停止 全力投入花蓮救災",
             "link": "https://udn.com//news/story/122404/9049379?from=udn-catebreaknews_ch2",
             "time": "2025-10-04 00:15"
         },
@@ -17,18 +29,6 @@
             "title": "許倬雲追思會 葉匡時感嘆「兩岸路線離許的理想愈來愈遠」",
             "link": "https://udn.com//news/story/6656/9049358?from=udn-catebreaknews_ch2",
             "time": "2025-10-04 00:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
-            "title": "卓揆：花蓮洪災補助 國賠不衝突",
-            "link": "https://udn.com//news/story/124615/9049346?from=udn-catebreaknews_ch2",
-            "time": "2025-10-04 00:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/04/1/33278228.jpg&s=Y&x=96&y=32&sw=1185&sh=790&exp=3600&w=300",
-            "title": " 查軍公教陸證常態化 明年起每半年督考1次",
-            "link": "https://udn.com//news/story/6656/9049294?from=udn-catebreaknews_ch2",
-            "time": "2025-10-04 00:07"
         }
     ]
 }
