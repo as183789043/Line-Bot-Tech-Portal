@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/03/0/33270888.jpg&s=Y&x=73&y=0&sw=653&sh=435&exp=3600&w=300",
+            "title": "迎戰蘋果2萬元筆電！手機霸主高通為何押寶AI PC",
+            "link": "https://udn.com//news/story/6837/9047203?from=udn-catebreaknews_ch2",
+            "time": "2025-10-03 07:43"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/03/0/33270896.jpg&s=Y&x=76&y=0&sw=657&sh=438&exp=3600&w=300",
+            "title": "AI取代2成人力 營收反增逾20％！她國中畢業自學AI戰勝缺工",
+            "link": "https://udn.com//news/story/6837/9047204?from=udn-catebreaknews_ch2",
+            "time": "2025-10-03 07:42"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/02/0/33264274.jpg&s=Y&x=272&y=0&sw=942&sh=628&exp=3600&w=300",
             "title": "GB300第四季放量！緯創大漲衝高",
             "link": "https://udn.com//news/story/6850/9045762?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "利基產品加持的低價飆股",
             "link": "https://udn.com//news/story/6850/9045746?from=udn-catebreaknews_ch2",
             "time": "2025-10-02 14:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/02/0/33264162.jpg&s=Y&x=108&y=0&sw=1093&sh=729&exp=3600&w=300",
-            "title": "光輝十月股市波動中仍見機會",
-            "link": "https://udn.com//news/story/6850/9045735?from=udn-catebreaknews_ch2",
-            "time": "2025-10-02 14:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/02/0/33264145.jpg&s=Y&x=321&y=0&sw=938&sh=625&exp=3600&w=300",
-            "title": "甲骨文訂單爆發的CPO股─聯鈞",
-            "link": "https://udn.com//news/story/6850/9045729?from=udn-catebreaknews_ch2",
-            "time": "2025-10-02 14:32"
         }
     ]
 }
