@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/03/2/33277019.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電沒有極限？盤後鉅額交易喜見「1,500」",
+            "link": "https://udn.com//news/story/7251/9048980?from=udn-catebreaknews_ch2",
+            "time": "2025-10-03 20:06"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/03/realtime/33276770.jpg&s=Y&x=0&y=9&sw=1174&sh=782&exp=3600&w=300",
+            "title": "木頭姐旗下ARKK今年漲幅逾五成勝美股 這檔主動式ETF單月報酬飆12%",
+            "link": "https://udn.com//news/story/123006/9048911?from=udn-catebreaknews_ch2",
+            "time": "2025-10-03 19:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/03/2/33276584.jpg&s=Y&x=0&y=0&sw=1272&sh=848&exp=3600&w=300",
             "title": "大小摩唱旺蘋果供應鏈！iPhone 17、PC半導體成雙優勢 點名這四台廠",
             "link": "https://udn.com//news/story/7251/9048856?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "玉山壯大金控版圖 啟動投信新篇章",
             "link": "https://udn.com//news/story/7252/9048764?from=udn-catebreaknews_ch2",
             "time": "2025-10-03 17:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
-            "title": "AES 營收／9月14.03億元、年增62.75% 連兩月創新高",
-            "link": "https://udn.com//news/story/7253/9048737?from=udn-catebreaknews_ch2",
-            "time": "2025-10-03 17:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/03/98/33275997.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台積電本週4個交易日急漲100元 市值激增2.59兆元",
-            "link": "https://udn.com//news/story/7251/9048727?from=udn-catebreaknews_ch2",
-            "time": "2025-10-03 17:42"
         }
     ]
 }
