@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/04/2/33278303.jpg&s=Y&x=0&y=0&sw=1217&sh=811&exp=3600&w=300",
+            "title": "美股三A超猛 大立光、家登、廣達等14檔台鏈吃香喝辣",
+            "link": "https://udn.com//news/story/7251/9050710?from=udn-catebreaknews_ch2",
+            "time": "2025-10-05 02:09"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/10/2/32539104.jpg&s=Y&x=44&y=24&sw=1200&sh=800&exp=3600&w=300",
+            "title": "大立光9日法說聚焦四議題 9月營收有望站上65億元大關",
+            "link": "https://udn.com//news/story/7251/9050701?from=udn-catebreaknews_ch2",
+            "time": "2025-10-05 00:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/04/2/33284822.jpg&s=Y&x=0&y=0&sw=1232&sh=821&exp=3600&w=300",
             "title": "獨／誰是贏家？貝萊德、摩根在台首檔ETF募集戰況出爐",
             "link": "https://udn.com//news/story/123006/9050651?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "0050根本無敵…唯一風險剩下戰爭？網：抱不住才是",
             "link": "https://udn.com//news/story/12806/9050476?from=udn-catebreaknews_ch2",
             "time": "2025-10-04 18:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/03/2/33274158.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台積電攻上1,400元推升台股挑戰27,000點 本周大漲1,180點、漲幅4.6%",
-            "link": "https://udn.com//news/story/7251/9049988?from=udn-catebreaknews_ch2",
-            "time": "2025-10-04 12:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/03/realtime/33277376.jpg&s=Y&x=0&y=0&sw=5255&sh=3503&exp=3600&w=300",
-            "title": "歷史經驗 美股不怕政府關門 先前六次統計標普500平均漲2.25%",
-            "link": "https://udn.com//news/story/10103/9049071?from=udn-catebreaknews_ch2",
-            "time": "2025-10-03 23:30"
         }
     ]
 }
