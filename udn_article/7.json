@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/18/2/32928207.jpg&s=Y&x=96&y=0&sw=1076&sh=717&exp=3600&w=300",
+            "title": "各大CSP資本支出增加AI伺服器出貨同步增長 法人看好6台廠",
+            "link": "https://udn.com//news/story/7253/9051667?from=udn-catebreaknews_ch2",
+            "time": "2025-10-05 17:08"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/05/2/33290203.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "又一家外資上調台積電目標價 麥格理喊出1620元",
+            "link": "https://udn.com//news/story/7253/9051653?from=udn-catebreaknews_ch2",
+            "time": "2025-10-05 16:59"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/14/2/32044105.jpg&s=Y&x=0&y=0&sw=1076&sh=717&exp=3600&w=300",
             "title": "高盛看台灣ODM未來三個月平均營收年增三成 點讚6台廠",
             "link": "https://udn.com//news/story/7253/9051623?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "蘋果有望2026年推出首款折疊iPhone 鴻海、富世達等供應鏈受惠",
             "link": "https://udn.com//news/story/7253/9051509?from=udn-catebreaknews_ch2",
             "time": "2025-10-05 14:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/03/2/33274356.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台積電法說會前 法人最新報告上調第3季預期",
-            "link": "https://udn.com//news/story/7253/9051507?from=udn-catebreaknews_ch2",
-            "time": "2025-10-05 14:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/05/0/33288441.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "00919表現差、一直貼息、配息下降！Ffaarr：只要有好好追蹤指數績效差不是經理人責任",
-            "link": "https://udn.com//news/story/123006/9051278?from=udn-catebreaknews_ch2",
-            "time": "2025-10-05 12:15"
         }
     ]
 }
