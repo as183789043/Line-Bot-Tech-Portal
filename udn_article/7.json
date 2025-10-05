@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/05/realtime/33290942.jpg&s=Y&x=0&y=0&sw=4747&sh=3122&exp=3600&w=300",
+            "title": "台股高點不設限 10月注意漲多拉回即買點",
+            "link": "https://udn.com//news/story/7251/9051824?from=udn-catebreaknews_ch2",
+            "time": "2025-10-05 19:55"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/05/2/33290849.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "永豐投顧：台積電股價連漲衝1400元 注意成交量",
+            "link": "https://udn.com//news/story/7251/9051793?from=udn-catebreaknews_ch2",
+            "time": "2025-10-05 19:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/05/0/33290717.jpg&s=Y&x=0&y=0&sw=1232&sh=821&exp=3600&w=300",
             "title": "股市、黃金雙創高…會怕？ 股債幣「三分法」此刻最有用",
             "link": "https://udn.com//news/story/12806/9051755?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "又一家外資上調台積電目標價 麥格理喊出1620元",
             "link": "https://udn.com//news/story/7253/9051653?from=udn-catebreaknews_ch2",
             "time": "2025-10-05 16:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/14/2/32044105.jpg&s=Y&x=0&y=0&sw=1076&sh=717&exp=3600&w=300",
-            "title": "高盛看台灣ODM未來三個月平均營收年增三成 點讚6台廠",
-            "link": "https://udn.com//news/story/7253/9051623?from=udn-catebreaknews_ch2",
-            "time": "2025-10-05 16:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/26/98/33226441.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "鴻海營收／9月8,371億元、月增38%創單月新高 第4季持續增長",
-            "link": "https://udn.com//news/story/7253/9051577?from=udn-catebreaknews_ch2",
-            "time": "2025-10-05 15:56"
         }
     ]
 }
