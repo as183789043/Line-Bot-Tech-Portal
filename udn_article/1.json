@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/02/realtime/33264091.jpg&s=Y&x=0&y=0&sw=6741&sh=4432&exp=3600&w=300",
+            "title": "華航機隊／飛美航班與經濟奇蹟一同起飛 他成首航機長",
+            "link": "https://udn.com//news/story/10930/9045734?from=udn-catebreaknews_ch2",
+            "time": "2025-10-05 07:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/04/realtime/33285100.jpg&s=Y&x=0&y=0&sw=2626&sh=1700&exp=3600&w=300",
             "title": "【專家之眼】國民黨主席參選人 誰認真當造王者？",
             "link": "https://udn.com//news/story/122404/9050814?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2025-10-05 05:50"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
             "title": "國安會官員傳赴美 探詢總統出訪可能",
             "link": "https://udn.com//news/story/6656/9050727?from=udn-catebreaknews_ch2",
             "time": "2025-10-05 02:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/05/1/33285249.jpg&s=Y&x=0&y=88&sw=1280&sh=853&exp=3600&w=300",
-            "title": "聯合報一周大事9/28~10/4",
-            "link": "https://udn.com//news/story/7314/9050789?from=udn-catebreaknews_ch2",
-            "time": "2025-10-05 00:23"
         }
     ]
 }
