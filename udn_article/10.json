@@ -1,6 +1,12 @@
 {
     "評論": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/07/2/33296987.jpg&s=Y&x=0&y=0&sw=799&sh=533&exp=3600&w=300",
+            "title": "經濟日報社論／全球化：中國版vs.美國版",
+            "link": "https://udn.com//news/story/7338/9053451?from=udn-catebreaknews_ch2",
+            "time": "2025-10-07 02:24"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/07/1/33296882.jpg&s=Y&x=0&y=96&sw=1277&sh=851&exp=3600&w=300",
             "title": "聯合報黑白集／重啟想想，先想想自己",
             "link": "https://udn.com//news/story/7338/9053554?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2025-10-07 00:58"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_6.jpg&w=300",
             "title": "經濟即安全 台灣應學習高市早苗安保戰略",
             "link": "https://udn.com//news/story/7339/9053545?from=udn-catebreaknews_ch2",
             "time": "2025-10-07 00:33"
@@ -23,12 +29,6 @@
             "title": "高市早苗勝出 日本政治座標持續右傾",
             "link": "https://udn.com//news/story/7339/9053544?from=udn-catebreaknews_ch2",
             "time": "2025-10-07 00:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_6.jpg&w=300",
-            "title": "林中斌／川普團隊 抗中靠邊",
-            "link": "https://udn.com//news/story/7340/9053548?from=udn-catebreaknews_ch2",
-            "time": "2025-10-07 00:25"
         }
     ]
 }
