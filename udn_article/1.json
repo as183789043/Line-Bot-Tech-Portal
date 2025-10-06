@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
+            "title": "美前副國務卿坎伯發文 分析家憂機艦意外導致美中衝突",
+            "link": "https://udn.com//news/story/10930/9053481?from=udn-catebreaknews_ch2",
+            "time": "2025-10-07 00:22"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_3.jpg&w=300",
+            "title": "國造雄昇飛彈 全數產製交軍方納入戰備",
+            "link": "https://udn.com//news/story/10930/9053468?from=udn-catebreaknews_ch2",
+            "time": "2025-10-07 00:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/06/realtime/33296685.jpg&s=Y&x=215&y=0&sw=2550&sh=1700&exp=3600&w=300",
             "title": "原駐金門…海龍蛙兵移防澎湖 部署紅色沙灘",
             "link": "https://udn.com//news/story/10930/9053535?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2025-10-07 00:08"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
             "title": "總預算爭議 政院稱願溝通 綠委促提對案",
             "link": "https://udn.com//news/story/6656/9053493?from=udn-catebreaknews_ch2",
             "time": "2025-10-07 00:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/07/1/33296775.jpg&s=Y&x=20&y=40&sw=1259&sh=839&exp=3600&w=300",
-            "title": "新聞分析／兩棲營移防澎湖 與兩岸敏感有關",
-            "link": "https://udn.com//news/story/10930/9053449?from=udn-catebreaknews_ch2",
-            "time": "2025-10-07 00:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/06/realtime/33296597.jpeg&s=Y&x=0&y=12&sw=944&sh=628&exp=3600&w=300",
-            "title": "國民黨主席選舉 劉兆玄挺羅 郝獲侯友宜支持",
-            "link": "https://udn.com//news/story/122404/9053497?from=udn-catebreaknews_ch2",
-            "time": "2025-10-07 00:07"
         }
     ]
 }
