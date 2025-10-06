@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/04/2/33278299.jpg&s=Y&x=0&y=0&sw=897&sh=598&exp=3600&w=300",
+            "title": "台股「三個太陽」照亮錢景 大盤後市欲小不易",
+            "link": "https://udn.com//news/story/7251/9053438?from=udn-catebreaknews_ch2",
+            "time": "2025-10-07 02:28"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/07/2/33296982.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "歷史經驗…台股中秋節後看漲 10月震盪機率高",
+            "link": "https://udn.com//news/story/7251/9053437?from=udn-catebreaknews_ch2",
+            "time": "2025-10-07 02:17"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
+            "title": "就市論勢／「賣鏟子型」企業 可留意",
+            "link": "https://udn.com//news/story/7251/9053252?from=udn-catebreaknews_ch2",
+            "time": "2025-10-07 00:04"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/06/0/33296736.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "AMD盤前暴漲35%！OpenAI入股1成…台積電ADR也跟漲",
             "link": "https://udn.com//news/story/12806/9053552?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "台股高點在哪何時要「居高思危」？網：3萬2是合理範圍",
             "link": "https://udn.com//news/story/12806/9053540?from=udn-catebreaknews_ch2",
             "time": "2025-10-06 23:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/06/0/33296674.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "台股漲到不尋常…該「該見好就收」留0050跟0056就好？網：不會重演當年泡沫",
-            "link": "https://udn.com//news/story/123006/9053528?from=udn-catebreaknews_ch2",
-            "time": "2025-10-06 23:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/06/realtime/33296084.jpg&s=Y&x=0&y=0&sw=1585&sh=1033&exp=3600&w=300",
-            "title": "8月台股大好！金融三業單月獲利1174.6億 創今年次高",
-            "link": "https://udn.com//news/story/7251/9053150?from=udn-catebreaknews_ch2",
-            "time": "2025-10-06 19:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/06/2/33296034.jpg&s=Y&x=0&y=0&sw=1217&sh=811&exp=3600&w=300",
-            "title": "大摩鎖定這些AI概念股！看好9月營收年月雙增 展現基本面實力",
-            "link": "https://udn.com//news/story/7251/9053136?from=udn-catebreaknews_ch2",
-            "time": "2025-10-06 19:18"
         }
     ]
 }
