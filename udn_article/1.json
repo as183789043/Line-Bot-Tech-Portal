@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/10/realtime/33110862.jpg&s=Y&x=296&y=0&sw=3216&sh=2144&exp=3600&w=300",
+            "title": "Meta 建新海纜連結台灣、亞太 建構強大通訊網絡 預計2028年完工",
+            "link": "https://udn.com//news/story/7314/9055847?from=udn-catebreaknews_ch2",
+            "time": "2025-10-08 01:28"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/08/realtime/33304609.jpeg&s=Y&x=213&y=0&sw=2304&sh=1536&exp=3600&w=300",
             "title": "美前副國家安全顧問博明：中共不必動武 就能讓台陷困境",
             "link": "https://udn.com//news/story/10930/9056059?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2025-10-08 00:51"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
             "title": "顧立雄：海龍蛙兵移防 考量整體防衛",
             "link": "https://udn.com//news/story/10930/9056068?from=udn-catebreaknews_ch2",
             "time": "2025-10-08 00:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
-            "title": "陸委會主委邱垂正：賴17條非拒絕兩岸交流",
-            "link": "https://udn.com//news/story/6656/9056072?from=udn-catebreaknews_ch2",
-            "time": "2025-10-08 00:49"
         }
     ]
 }
