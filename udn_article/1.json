@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/07/0/33297619.jpg&s=Y&x=0&y=72&sw=1280&sh=853&exp=3600&w=300",
+            "title": "48歲「挖土機超人」赴花蓮光復救災8天受傷感染 中秋夜離世",
+            "link": "https://udn.com//news/story/124616/9053753?from=udn-catebreaknews_ch2",
+            "time": "2025-10-07 08:51"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/06/realtime/33293833.jpg&s=Y&x=55&y=0&sw=1200&sh=800&exp=3600&w=300",
+            "title": "中科院高調官宣台美合作IBCS 台版金穹八字有一撇？",
+            "link": "https://udn.com//news/story/10930/9052602?from=udn-catebreaknews_ch2",
+            "time": "2025-10-07 07:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/07/realtime/33297370.jpg&s=Y&x=0&y=15&sw=1071&sh=714&exp=3600&w=300",
             "title": "柯文哲今天登板作證 5共犯「做球」他如何接招？",
             "link": "https://udn.com//news/story/6656/9053662?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "海龍蛙兵為何從金門移防澎湖？圖解兵力、無人艇部署",
             "link": "https://udn.com//news/story/7314/9053526?from=udn-catebreaknews_ch2",
             "time": "2025-10-07 05:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
-            "title": "美國戰爭研究所指 陸漁船冒充俄艦測試台灣反應",
-            "link": "https://udn.com//news/story/10930/9053483?from=udn-catebreaknews_ch2",
-            "time": "2025-10-07 00:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_3.jpg&w=300",
-            "title": "美前副國務卿坎伯發文 分析家憂機艦意外導致美中衝突",
-            "link": "https://udn.com//news/story/10930/9053481?from=udn-catebreaknews_ch2",
-            "time": "2025-10-07 00:22"
         }
     ]
 }
