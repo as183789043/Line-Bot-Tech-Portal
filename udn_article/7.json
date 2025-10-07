@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/07/realtime/33302687.jpg&s=Y&x=4&y=180&sw=1885&sh=1257&exp=3600&w=300",
+            "title": "旺宏9月營收寫2年半新高達29.03億元 月增13.5%",
+            "link": "https://udn.com//news/story/7253/9055455?from=udn-catebreaknews_ch2",
+            "time": "2025-10-07 18:45"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/07/realtime/33302599.jpg&s=Y&x=0&y=0&sw=5500&sh=3667&exp=3600&w=300",
+            "title": "聯電第3季營收591.26億元 寫今年單季高點",
+            "link": "https://udn.com//news/story/7253/9055430?from=udn-catebreaknews_ch2",
+            "time": "2025-10-07 18:32"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/07/2/33302269.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台積電終場1435元寫下收盤新高 但外資竟轉為賣超1.2萬張",
             "link": "https://udn.com//news/story/7253/9055355?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "獨／健喬公開收購健亞股權 傳未獲得最低15%的收購門檻",
             "link": "https://udn.com//news/story/7254/9055277?from=udn-catebreaknews_ch2",
             "time": "2025-10-07 17:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/07/2/33301821.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台積電法說行情啟動！股價再創歷史新高 外資聚焦7大議題",
-            "link": "https://udn.com//news/story/7251/9055265?from=udn-catebreaknews_ch2",
-            "time": "2025-10-07 17:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/07/2/33301215.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
-            "title": "佳世達瘦身後回歸！減資退現上路 搭台股創高順風車收紅",
-            "link": "https://udn.com//news/story/7253/9055109?from=udn-catebreaknews_ch2",
-            "time": "2025-10-07 16:14"
         }
     ]
 }
