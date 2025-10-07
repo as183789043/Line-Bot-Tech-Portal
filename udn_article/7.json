@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/07/2/33302269.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電終場1435元寫下收盤新高 但外資竟轉為賣超1.2萬張",
+            "link": "https://udn.com//news/story/7253/9055355?from=udn-catebreaknews_ch2",
+            "time": "2025-10-07 17:54"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/07/realtime/33302019.jpg&s=Y&x=0&y=0&sw=2520&sh=1682&exp=3600&w=300",
+            "title": "威剛9月營收52.44億元 衝上近19年來單月新高",
+            "link": "https://udn.com//news/story/7254/9055336?from=udn-catebreaknews_ch2",
+            "time": "2025-10-07 17:38"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/07/2/33301842.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "獨／健喬公開收購健亞股權 傳未獲得最低15%的收購門檻",
+            "link": "https://udn.com//news/story/7254/9055277?from=udn-catebreaknews_ch2",
+            "time": "2025-10-07 17:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/07/2/33301821.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台積電法說行情啟動！股價再創歷史新高 外資聚焦7大議題",
             "link": "https://udn.com//news/story/7251/9055265?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "佳世達瘦身後回歸！減資退現上路 搭台股創高順風車收紅",
             "link": "https://udn.com//news/story/7253/9055109?from=udn-catebreaknews_ch2",
             "time": "2025-10-07 16:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/07/2/33301077.jpg&s=Y&x=0&y=56&sw=1280&sh=853&exp=3600&w=300",
-            "title": "市值型ETF規模破兆元 這檔今年遽增逾七成、成交爆量",
-            "link": "https://udn.com//news/story/123006/9055060?from=udn-catebreaknews_ch2",
-            "time": "2025-10-07 16:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/07/0/33300930.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "降息周期正式開啟…00986B專家點名「金融債」成最大贏家",
-            "link": "https://udn.com//news/story/123006/9055035?from=udn-catebreaknews_ch2",
-            "time": "2025-10-07 15:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/07/2/33300954.jpg&s=Y&x=24&y=0&sw=1076&sh=717&exp=3600&w=300",
-            "title": "永豐金證券總經風向球 10月看三產業具資金吸引力",
-            "link": "https://udn.com//news/story/7251/9055029?from=udn-catebreaknews_ch2",
-            "time": "2025-10-07 15:47"
         }
     ]
 }
