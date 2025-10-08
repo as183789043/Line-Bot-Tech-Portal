@@ -1,9 +1,21 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/09/realtime/33318686.jpg&s=Y&x=0&y=0&sw=3787&sh=2524&exp=3600&w=300",
+            "title": "今起至國慶連假北東飄雨 吳德榮：雙颱共存「大迴轉閃過日本」不共舞",
+            "link": "https://udn.com//news/story/7266/9058787?from=udn-catebreaknews_ch2",
+            "time": "2025-10-09 05:09"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/09/realtime/33318653.jpg&s=Y&x=0&y=32&sw=2160&sh=1440&exp=3600&w=300",
+            "title": "南部酷熱 花東、大台北零星雨 國慶連假午後雷陣雨範圍擴大",
+            "link": "https://udn.com//news/story/7266/9058785?from=udn-catebreaknews_ch2",
+            "time": "2025-10-09 05:03"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/09/realtime/33317289.jpg&s=Y&x=0&y=34&sw=4608&sh=3072&exp=3600&w=300",
             "title": "浪貓「幾吉」化身萌療癒大使進駐桃園監獄 以陪伴和磨蹭療癒收容人",
-            "link": "https://udn.com//news/story/7266/9058736?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/7470/9058736?from=udn-catebreaknews_ch2",
             "time": "2025-10-09 01:38"
         },
         {
@@ -17,18 +29,6 @@
             "title": "秋季精油暖身通氣血 改善手腳冰冷",
             "link": "https://udn.com//news/story/7266/9058586?from=udn-catebreaknews_ch2",
             "time": "2025-10-09 00:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/08/realtime/33316195.jpg&s=Y&x=0&y=180&sw=2048&sh=1365&exp=3600&w=300",
-            "title": "慎防秋老虎 勤補水分防熱傷害",
-            "link": "https://udn.com//news/story/7266/9058578?from=udn-catebreaknews_ch2",
-            "time": "2025-10-09 00:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/08/realtime/33316184.jpg&s=Y&x=0&y=336&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "健康行動×永續未來／從餐桌到守護土地 實踐綠色生活",
-            "link": "https://udn.com//news/story/7266/9058575?from=udn-catebreaknews_ch2",
-            "time": "2025-10-09 00:44"
         }
     ]
 }
