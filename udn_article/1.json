@@ -1,6 +1,24 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/09/realtime/33328718.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "5萬的椅子與虛胖的堡壘 國防預算該花在哪",
+            "link": "https://udn.com//news/story/6656/9061302?from=udn-catebreaknews_ch2",
+            "time": "2025-10-10 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/09/1/33328669.png&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "國防報告書聚焦韌性、科技  圖解賴、蔡戰略異同",
+            "link": "https://udn.com//news/story/7314/9061297?from=udn-catebreaknews_ch2",
+            "time": "2025-10-10 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
+            "title": "總統國慶文告 揭六大關鍵力",
+            "link": "https://udn.com//news/story/124628/9061212?from=udn-catebreaknews_ch2",
+            "time": "2025-10-10 00:57"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/09/realtime/33328704.jpg&s=Y&x=0&y=0&sw=1692&sh=1145&exp=3600&w=300",
             "title": "國慶焰火登場 國道三號南投交流道中午封閉",
             "link": "https://udn.com//news/story/124628/9061286?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "賴總統：沒有台灣就沒有中華民國",
             "link": "https://udn.com//news/story/124628/9061312?from=udn-catebreaknews_ch2",
             "time": "2025-10-10 00:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/10/realtime/33328816.jpg&s=Y&x=0&y=0&sw=1847&sh=1228&exp=3600&w=300",
-            "title": "花蓮光復商工校長鞠躬 淚謝國軍與鏟子超人",
-            "link": "https://udn.com//news/story/124615/9061315?from=udn-catebreaknews_ch2",
-            "time": "2025-10-10 00:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
-            "title": "監測堰塞湖、災民安置…風災特別條例 追加250億",
-            "link": "https://udn.com//news/story/124615/9061321?from=udn-catebreaknews_ch2",
-            "time": "2025-10-10 00:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/09/98/33328046.jpg&s=Y&x=0&y=96&sw=1280&sh=853&exp=3600&w=300",
-            "title": "馬太鞍溪便道 今下午3點通車",
-            "link": "https://udn.com//news/story/124615/9061322?from=udn-catebreaknews_ch2",
-            "time": "2025-10-10 00:12"
         }
     ]
 }
