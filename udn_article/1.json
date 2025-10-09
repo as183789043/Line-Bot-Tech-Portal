@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/10/realtime/33330569.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
+            "title": "影／台南特搜拂曉前往花蓮災區 不放棄任何一線希望",
+            "link": "https://udn.com//news/story/124616/9061499?from=udn-catebreaknews_ch2",
+            "time": "2025-10-10 07:06"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/09/realtime/33328718.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
             "title": "5萬的椅子與虛胖的堡壘 國防預算該花在哪",
             "link": "https://udn.com//news/story/6656/9061302?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2025-10-10 05:50"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
             "title": "總統國慶文告 揭六大關鍵力",
             "link": "https://udn.com//news/story/124628/9061212?from=udn-catebreaknews_ch2",
             "time": "2025-10-10 00:57"
@@ -23,12 +29,6 @@
             "title": "國慶焰火登場 國道三號南投交流道中午封閉",
             "link": "https://udn.com//news/story/124628/9061286?from=udn-catebreaknews_ch2",
             "time": "2025-10-10 00:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/10/realtime/33328953.jpg&s=Y&x=0&y=18&sw=2582&sh=1720&exp=3600&w=300",
-            "title": "賴總統：沒有台灣就沒有中華民國",
-            "link": "https://udn.com//news/story/124628/9061312?from=udn-catebreaknews_ch2",
-            "time": "2025-10-10 00:33"
         }
     ]
 }
