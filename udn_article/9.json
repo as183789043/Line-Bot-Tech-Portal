@@ -1,6 +1,12 @@
 {
     "文教": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid11195_9.jpg&w=300",
+            "title": "博士帶路 深遊金門",
+            "link": "https://udn.com//news/story/6885/9061208?from=udn-catebreaknews_ch2",
+            "time": "2025-10-10 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/09/realtime/33328379.jpg&s=Y&x=0&y=24&sw=3500&sh=2332&exp=3600&w=300",
             "title": "2026世界大學排名…半導體業助攻 產學評比我大學屢奪高分",
             "link": "https://udn.com//news/story/6928/9061079?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "大學生請心理假 學團：仍取決於教師態度",
             "link": "https://udn.com//news/story/6928/9060915?from=udn-catebreaknews_ch2",
             "time": "2025-10-09 20:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/09/98/33328082.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
-            "title": "優創補習班3年來3度違法托幼 新北：加強稽查追蹤",
-            "link": "https://udn.com//news/story/6885/9060887?from=udn-catebreaknews_ch2",
-            "time": "2025-10-09 20:33"
         }
     ]
 }
