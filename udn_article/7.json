@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/28/2/33021001.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "長榮航9月營收年減10% 看好第4季客貨運轉強",
+            "link": "https://udn.com//news/story/7252/9061066?from=udn-catebreaknews_ch2",
+            "time": "2025-10-09 22:24"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/09/98/33327500.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "台股刷新11項新高紀錄！外資買超44.5億 連3賣台積電、鴻海",
             "link": "https://udn.com//news/story/7251/9060506?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "國安基金繼續護盤 4月9日進場至9月底砸122億元、投報率逼近30%",
             "link": "https://udn.com//news/story/7251/9060648?from=udn-catebreaknews_ch2",
             "time": "2025-10-09 18:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/09/realtime/33326693.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "聯發科第3季營收1421億元、季減5.4% 優於財測",
-            "link": "https://udn.com//news/story/7253/9060606?from=udn-catebreaknews_ch2",
-            "time": "2025-10-09 17:55"
         }
     ]
 }
