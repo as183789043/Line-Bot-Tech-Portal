@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/09/98/33327500.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "台股刷新11項新高紀錄！外資買超44.5億 連3賣台積電、鴻海",
+            "link": "https://udn.com//news/story/7251/9060506?from=udn-catebreaknews_ch2",
+            "time": "2025-10-09 19:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/23/realtime/33200739.jpg&s=Y&x=0&y=0&sw=2433&sh=1623&exp=3600&w=300",
             "title": "八方雲集營收／旺季火力全開！第3季22.02億元創新高 年增7.41%",
             "link": "https://udn.com//news/story/7252/9060739?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "聯發科第3季營收1421億元、季減5.4% 優於財測",
             "link": "https://udn.com//news/story/7253/9060606?from=udn-catebreaknews_ch2",
             "time": "2025-10-09 17:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/09/realtime/33326684.jpg&s=Y&x=0&y=444&sw=2079&sh=1386&exp=3600&w=300",
-            "title": "AI產業帶動高階應用訂單成長 安馳前三季營收超越去年全年",
-            "link": "https://udn.com//news/story/7253/9060595?from=udn-catebreaknews_ch2",
-            "time": "2025-10-09 17:54"
         }
     ]
 }
