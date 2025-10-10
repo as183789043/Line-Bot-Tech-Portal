@@ -1,8 +1,26 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/10/realtime/33335201.jpg&s=Y&x=0&y=17&sw=2364&sh=1576&exp=3600&w=300",
-            "title": "影／煙比火多！南投國慶焰火煙霧迷漫 觀眾打趣星雲秀 國道駕駛開霧燈",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/10/1/33335332.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "郝龍斌控被網軍攻擊 張雅屏指網戰暗流「比過去任何一場都複雜」",
+            "link": "https://udn.com//news/story/122404/9062805?from=udn-catebreaknews_ch2",
+            "time": "2025-10-10 22:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/10/98/33335255.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "國防特別預算不僅「台灣之盾」 府方人士：年底向國人報告",
+            "link": "https://udn.com//news/story/10930/9062800?from=udn-catebreaknews_ch2",
+            "time": "2025-10-10 21:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/10/realtime/33335250.jpg&s=Y&x=0&y=252&sw=1109&sh=739&exp=3600&w=300",
+            "title": "搶黨員支持…蔡志弘跑國慶活動 張亞中續邀郝龍斌辯論",
+            "link": "https://udn.com//news/story/122404/9062799?from=udn-catebreaknews_ch2",
+            "time": "2025-10-10 21:44"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/10/realtime/33335203.jpg&s=Y&x=0&y=144&sw=2048&sh=1365&exp=3600&w=300",
+            "title": "影／煙比火多！南投國慶焰火煙霧瀰漫成「星雲秀」 國道駕駛開霧燈",
             "link": "https://udn.com//news/story/124628/9062780?from=udn-catebreaknews_ch2",
             "time": "2025-10-10 21:26"
         },
@@ -11,24 +29,6 @@
             "title": "北京批賴清德國慶演說兜售台獨分裂謬論 外交部反擊兩國互不隸屬",
             "link": "https://udn.com//news/story/124628/9062735?from=udn-catebreaknews_ch2",
             "time": "2025-10-10 20:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/10/1/33335117.jpg&s=Y&x=0&y=52&sw=1279&sh=853&exp=3600&w=300",
-            "title": "賴清德、韓國瑜、許淑華同台 「七彩水墨焰火」照亮中華民國114歲生日",
-            "link": "https://udn.com//news/story/124628/9062729?from=udn-catebreaknews_ch2",
-            "time": "2025-10-10 20:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/10/realtime/33335087.jpg&s=Y&x=0&y=17&sw=2364&sh=1576&exp=3600&w=300",
-            "title": "張榮味家族動員力挺 郝龍斌拍胸脯高喊有信心當選國民黨主席",
-            "link": "https://udn.com//news/story/122404/9062716?from=udn-catebreaknews_ch2",
-            "time": "2025-10-10 20:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/10/realtime/33334916.jpg&s=Y&x=315&y=0&sw=3402&sh=2268&exp=3600&w=300",
-            "title": "花蓮光復重災 元大金將捐助200台機車供災民代步",
-            "link": "https://udn.com//news/story/124616/9062651?from=udn-catebreaknews_ch2",
-            "time": "2025-10-10 19:39"
         }
     ]
 }
