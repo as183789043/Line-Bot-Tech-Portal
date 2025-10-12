@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/13/1/33345268.jpg&s=Y&x=12&y=16&sw=1255&sh=837&exp=3600&w=300",
+            "title": "美中貿易戰再起…台股警戒 法人估今恐跌千點",
+            "link": "https://udn.com//news/story/7251/9065703?from=udn-catebreaknews_ch2",
+            "time": "2025-10-13 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/12/0/33344977.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "股市開盤你是匆匆忙忙或游刃有餘？小師傅：我死守不離場還會伺機加碼",
             "link": "https://udn.com//news/story/12806/9065517?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股恐跌1600點？散戶反向喊「全力做多」信心爆棚",
             "link": "https://udn.com//news/story/12806/9065464?from=udn-catebreaknews_ch2",
             "time": "2025-10-12 21:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/12/0/33343554.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "周一台積電（2330）恐跌停？新手急問怎麼賣…被反手回「你先掛我撿便宜」",
-            "link": "https://udn.com//news/story/12806/9065042?from=udn-catebreaknews_ch2",
-            "time": "2025-10-12 20:43"
         }
     ]
 }
