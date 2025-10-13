@@ -1,10 +1,22 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/13/2/33351954.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電鉅額交易逆勢上看1,600元大關 台股可望飆28,000關卡？",
+            "link": "https://udn.com//news/story/7251/9067535?from=udn-catebreaknews_ch2",
+            "time": "2025-10-13 19:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/13/realtime/33351688.jpg&s=Y&x=0&y=17&sw=2364&sh=1576&exp=3600&w=300",
             "title": "AI伺服器清洗需求攀升！天品9月營收3476萬元 年增359％",
             "link": "https://udn.com//news/story/7254/9067489?from=udn-catebreaknews_ch2",
             "time": "2025-10-13 18:55"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/13/2/33351996.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "南山人壽前三季賺206.6億元 二因素貢獻獲利",
+            "link": "https://udn.com//news/story/7251/9067455?from=udn-catebreaknews_ch2",
+            "time": "2025-10-13 18:31"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/13/2/33351600.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
@@ -17,18 +29,6 @@
             "title": "大同營收／9月42.52億元、年增9% 受惠電子代工、重電雙擎推升",
             "link": "https://udn.com//news/story/7253/9067435?from=udn-catebreaknews_ch2",
             "time": "2025-10-13 18:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/13/realtime/33351388.jpg&s=Y&x=0&y=0&sw=1400&sh=933&exp=3600&w=300",
-            "title": "富邦金獲利三冠王 單月獲利、前9月獲利EPS均居金控之冠",
-            "link": "https://udn.com//news/story/7252/9067415?from=udn-catebreaknews_ch2",
-            "time": "2025-10-13 18:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/13/realtime/33351383.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "濾能第3季營收年增103% 近11個季度新高",
-            "link": "https://udn.com//news/story/7254/9067412?from=udn-catebreaknews_ch2",
-            "time": "2025-10-13 18:10"
         }
     ]
 }
