@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/13/realtime/33353024.jpg&s=Y&x=0&y=0&sw=1567&sh=1045&exp=3600&w=300",
+            "title": "台新新光金控9月自結75億 新新合併公允價值重估",
+            "link": "https://udn.com//news/story/7252/9067820?from=udn-catebreaknews_ch2",
+            "time": "2025-10-13 22:31"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/13/2/33352989.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "台新新光金前九月稅後純益260.4億元、EPS 1.51元 續創歷年新高",
+            "link": "https://udn.com//news/story/7252/9067815?from=udn-catebreaknews_ch2",
+            "time": "2025-10-13 22:27"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/13/2/33352525.jpg&s=Y&x=0&y=0&sw=1046&sh=697&exp=3600&w=300",
             "title": "上車囉！台股ETF申購創近四個月新高 0050迎近百億元資金",
             "link": "https://udn.com//news/story/7251/9067708?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台積電鉅額交易逆勢上看1,600元大關 台股可望飆28,000關卡？",
             "link": "https://udn.com//news/story/7251/9067535?from=udn-catebreaknews_ch2",
             "time": "2025-10-13 19:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/13/realtime/33351688.jpg&s=Y&x=0&y=17&sw=2364&sh=1576&exp=3600&w=300",
-            "title": "AI伺服器清洗需求攀升！天品9月營收3476萬元 年增359％",
-            "link": "https://udn.com//news/story/7254/9067489?from=udn-catebreaknews_ch2",
-            "time": "2025-10-13 18:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/13/2/33351996.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "南山人壽前三季賺206.6億元 二因素貢獻獲利",
-            "link": "https://udn.com//news/story/7251/9067455?from=udn-catebreaknews_ch2",
-            "time": "2025-10-13 18:31"
         }
     ]
 }
