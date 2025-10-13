@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/13/2/33352525.jpg&s=Y&x=0&y=0&sw=1046&sh=697&exp=3600&w=300",
+            "title": "上車囉！台股ETF申購創近四個月新高 0050迎近百億元資金",
+            "link": "https://udn.com//news/story/7251/9067708?from=udn-catebreaknews_ch2",
+            "time": "2025-10-13 21:03"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/13/2/33352512.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "台指期夜盤「匆匆忙忙」到「從從容容」 一度站上27K",
+            "link": "https://udn.com//news/story/7255/9067703?from=udn-catebreaknews_ch2",
+            "time": "2025-10-13 21:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/13/2/33351954.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台積電鉅額交易逆勢上看1,600元大關 台股可望飆28,000關卡？",
             "link": "https://udn.com//news/story/7251/9067535?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "南山人壽前三季賺206.6億元 二因素貢獻獲利",
             "link": "https://udn.com//news/story/7251/9067455?from=udn-catebreaknews_ch2",
             "time": "2025-10-13 18:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/13/2/33351600.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "聯發科將於31日召開法說會 外界等待第4季營運展望",
-            "link": "https://udn.com//news/story/7253/9067448?from=udn-catebreaknews_ch2",
-            "time": "2025-10-13 18:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/13/realtime/33351445.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
-            "title": "大同營收／9月42.52億元、年增9% 受惠電子代工、重電雙擎推升",
-            "link": "https://udn.com//news/story/7253/9067435?from=udn-catebreaknews_ch2",
-            "time": "2025-10-13 18:19"
         }
     ]
 }
