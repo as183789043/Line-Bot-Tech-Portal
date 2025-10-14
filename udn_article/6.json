@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/14/realtime/33357473.jpg&s=Y&x=0&y=0&sw=2000&sh=1333&exp=3600&w=300",
+            "title": "雄獅董座王文傑領軍投3億拚數位AI升級 智能客服打造最強智慧中樞",
+            "link": "https://udn.com//news/story/7240/9068601?from=udn-catebreaknews_ch2",
+            "time": "2025-10-14 10:33"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/14/98/33356711.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "OpenAI攜手博通 2026啟動自製AI處理器",
+            "link": "https://udn.com//news/story/7240/9068385?from=udn-catebreaknews_ch2",
+            "time": "2025-10-14 09:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/14/realtime/33356680.jpg&s=Y&x=213&y=0&sw=2304&sh=1536&exp=3600&w=300",
             "title": "預售市場陷「三低」！桃園周來人寫新低、台中僅7組",
             "link": "https://udn.com//news/story/7241/9068388?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "分手價？游淑慧曝新壽一原因不對外講 建議直接送議會審",
             "link": "https://udn.com//news/story/124626/9068353?from=udn-catebreaknews_ch2",
             "time": "2025-10-14 08:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/14/realtime/33355939.png&s=Y&x=0&y=4&sw=528&sh=352&exp=3600&w=300",
-            "title": "微星於OCP 2025推出NVIDIA MGX伺服器與EdgeXpert桌上型AI超級電腦",
-            "link": "https://udn.com//news/story/7240/9068262?from=udn-catebreaknews_ch2",
-            "time": "2025-10-14 07:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/14/realtime/33355932.jpeg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "鴻海與NVIDIA在高雄導入800 VDC 電力架構 開啟AI Factory新紀元",
-            "link": "https://udn.com//news/story/7240/9068257?from=udn-catebreaknews_ch2",
-            "time": "2025-10-14 07:35"
         }
     ]
 }
