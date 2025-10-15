@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/15/2/33374678.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "獨／台灣周前夕修法通過 「市櫃互轉」新時代正式來臨",
+            "link": "https://udn.com//news/story/7251/9072863?from=udn-catebreaknews_ch2",
+            "time": "2025-10-15 22:11"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/15/2/33374386.jpg&s=Y&x=0&y=0&sw=1238&sh=825&exp=3600&w=300",
             "title": "台積電法說在即、聯準會暗示降息 台指期夜盤飆歷史新高",
             "link": "https://udn.com//news/story/7255/9072793?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台積電含量最高ETF 0052將一拆七 11月26日恢復交易",
             "link": "https://udn.com//news/story/123006/9072514?from=udn-catebreaknews_ch2",
             "time": "2025-10-15 19:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/15/2/33372846.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台積法說前股價創高…ASML助攻5檔台股ETF半年績效逾5成 這檔居冠",
-            "link": "https://udn.com//news/story/123006/9072269?from=udn-catebreaknews_ch2",
-            "time": "2025-10-15 17:20"
         }
     ]
 }
