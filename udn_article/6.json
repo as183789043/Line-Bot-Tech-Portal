@@ -1,6 +1,12 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/15/0/33372301.jpg&s=Y&x=0&y=0&sw=1031&sh=687&exp=3600&w=300",
+            "title": "32歲總經理沒學過商管沒看過損益表 她靠1信念激勵不讓無用念頭吞噬有限時間",
+            "link": "https://udn.com//news/story/121591/9072028?from=udn-catebreaknews_ch2",
+            "time": "2025-10-16 05:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/16/1/33375165.jpg&s=Y&x=48&y=44&sw=1201&sh=801&exp=3600&w=300",
             "title": "今年經濟成長率 主計長估趨近5%",
             "link": "https://udn.com//news/story/7238/9073045?from=udn-catebreaknews_ch2",
@@ -13,22 +19,16 @@
             "time": "2025-10-16 00:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_2.jpg&w=300",
-            "title": "降息預期再升溫 亞洲股匯齊揚",
-            "link": "https://udn.com//news/story/7238/9073036?from=udn-catebreaknews_ch2",
-            "time": "2025-10-15 23:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_2.jpg&w=300",
-            "title": "鮑爾暗示月底可能再降息",
-            "link": "https://udn.com//news/story/7238/9073030?from=udn-catebreaknews_ch2",
-            "time": "2025-10-15 23:58"
-        },
-        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/15/realtime/33374930.jpg&s=Y&x=0&y=0&sw=2550&sh=1700&exp=3600&w=300",
             "title": "T17、T18今動土 新壽未邀北市府",
             "link": "https://udn.com//news/story/124626/9073040?from=udn-catebreaknews_ch2",
             "time": "2025-10-15 23:57"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_1.jpg&w=300",
+            "title": "遭美祭出暫扣令後 巨大「零招聘費」擴至現職移工",
+            "link": "https://udn.com//news/story/7241/9073044?from=udn-catebreaknews_ch2",
+            "time": "2025-10-15 23:29"
         }
     ]
 }
