@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/16/realtime/33375295.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "黨魁選舉沒論述沒謀略…國民黨夸談重返執政 低估人民智商",
+            "link": "https://udn.com//news/story/122404/9073159?from=udn-catebreaknews_ch2",
+            "time": "2025-10-16 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/15/realtime/33374855.jpg&s=Y&x=0&y=13&sw=1890&sh=1260&exp=3600&w=300",
             "title": "民進黨台南初選白熱化 賴總統在中常會2問陳亭妃",
             "link": "https://udn.com//news/story/6656/9073106?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "國民黨主席選舉決勝期 郝龍斌、鄭麗文、羅智強打「萬安牌」",
             "link": "https://udn.com//news/story/122404/9073102?from=udn-catebreaknews_ch2",
             "time": "2025-10-16 00:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
-            "title": "公視董監事提名延宕 文化部：不想被辱 多人拒絕",
-            "link": "https://udn.com//news/story/6656/9073109?from=udn-catebreaknews_ch2",
-            "time": "2025-10-16 00:16"
         }
     ]
 }
