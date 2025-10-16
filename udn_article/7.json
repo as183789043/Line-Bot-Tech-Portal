@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/16/realtime/33382451.png&s=Y&x=0&y=0&sw=1855&sh=1234&exp=3600&w=300",
+            "title": "台積電又創高！第3季每股純益17.44元 在美取得第2塊地",
+            "link": "https://udn.com//news/story/7253/9075012?from=udn-catebreaknews_ch2",
+            "time": "2025-10-16 18:03"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/02/2/33267948.jpg&s=Y&x=20&y=12&sw=1245&sh=830&exp=3600&w=300",
             "title": "三商美邦人壽前三季賺9.4億元、EPS 0.16元 淨值比升至2.98%",
             "link": "https://udn.com//news/story/7252/9074884?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "高盛直指「這家公司」已不只是組裝廠了 大升目標價至400元",
             "link": "https://udn.com//news/story/7251/9074566?from=udn-catebreaknews_ch2",
             "time": "2025-10-16 15:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/16/0/33380258.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "AI永動機效應發威！00899潔淨能源ETF月漲14.1％…躍居績效前三",
-            "link": "https://udn.com//news/story/123006/9074482?from=udn-catebreaknews_ch2",
-            "time": "2025-10-16 14:47"
         }
     ]
 }
