@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/16/2/33380805.jpg&s=Y&x=0&y=0&sw=1206&sh=804&exp=3600&w=300",
+            "title": "三大法人回補235億元！逾七成個股收紅 台積電飆天價、鴻海衝8%",
+            "link": "https://udn.com//news/story/7251/9074593?from=udn-catebreaknews_ch2",
+            "time": "2025-10-16 15:26"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/16/2/33380926.jpg&s=Y&x=0&y=208&sw=1024&sh=683&exp=3600&w=300",
+            "title": "高盛直指「這家公司」已不只是組裝廠了 大升目標價至400元",
+            "link": "https://udn.com//news/story/7251/9074566?from=udn-catebreaknews_ch2",
+            "time": "2025-10-16 15:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/16/0/33380258.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "AI永動機效應發威！00899潔淨能源ETF月漲14.1％…躍居績效前三",
             "link": "https://udn.com//news/story/123006/9074482?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2025-10-16 14:35"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
             "title": "台指期勁揚 大漲逾500點收27,822點",
             "link": "https://udn.com//news/story/7255/9074336?from=udn-catebreaknews_ch2",
             "time": "2025-10-16 14:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/15/2/33371143.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台積電法說會前再創天價 台股大漲372點收27,647點同創新高",
-            "link": "https://udn.com//news/story/7251/9074308?from=udn-catebreaknews_ch2",
-            "time": "2025-10-16 13:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/14/2/33356089.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "台積電第三季每股盈餘17.44元、年增39% 毛利率59.5%",
-            "link": "https://udn.com//news/story/7251/9074275?from=udn-catebreaknews_ch2",
-            "time": "2025-10-16 13:46"
         }
     ]
 }
