@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/10/realtime/33335342.jpg&s=Y&x=0&y=0&sw=5347&sh=3565&exp=3600&w=300",
+            "title": "美對中釋出貿易和解訊號 美股反彈道瓊收漲238點",
+            "link": "https://udn.com//news/story/6811/9078112?from=udn-catebreaknews_ch2",
+            "time": "2025-10-18 06:04"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/18/realtime/33397449.jpg&s=Y&x=0&y=0&sw=3944&sh=2629&exp=3600&w=300",
+            "title": "美烏會談之後 川普避談戰斧飛彈 籲烏達成和平協議",
+            "link": "https://udn.com//news/story/122663/9078101?from=udn-catebreaknews_ch2",
+            "time": "2025-10-18 05:56"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/17/realtime/33393267.jpg&s=Y&x=0&y=0&sw=3799&sh=2532&exp=3600&w=300",
+            "title": "川普將與習近平在韓國會面 不排除提早對中國加徵100%關稅",
+            "link": "https://udn.com//news/story/124373/9078097?from=udn-catebreaknews_ch2",
+            "time": "2025-10-18 05:42"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/18/realtime/33396090.jpg&s=Y&x=0&y=0&sw=2973&sh=1982&exp=3600&w=300",
             "title": "澤倫斯基見川普：烏克蘭提議用無人機換戰斧飛彈",
             "link": "https://udn.com//news/story/122663/9078065?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "美中貿易代表擬17日晚間通話 美財長：相信情勢已緩和",
             "link": "https://udn.com//news/story/124373/9078063?from=udn-catebreaknews_ch2",
             "time": "2025-10-18 02:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/17/realtime/33394653.jpg&s=Y&x=0&y=0&sw=2551&sh=1701&exp=3600&w=300",
-            "title": "甲骨文：雲端業務營收將大增 預測2030年將增至1,660億美元",
-            "link": "https://udn.com//news/story/6811/9077875?from=udn-catebreaknews_ch2",
-            "time": "2025-10-18 02:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
-            "title": "陸對安世實施出口管控 美中糾紛波及汽車鏈",
-            "link": "https://udn.com//news/story/6811/9077877?from=udn-catebreaknews_ch2",
-            "time": "2025-10-18 02:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
-            "title": "美光停止供貨陸資料中心",
-            "link": "https://udn.com//news/story/6811/9077879?from=udn-catebreaknews_ch2",
-            "time": "2025-10-18 02:15"
         }
     ]
 }
