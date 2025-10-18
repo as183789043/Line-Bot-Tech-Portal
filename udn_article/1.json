@@ -1,9 +1,15 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/18/realtime/33404394.jpg&s=Y&x=0&y=170&sw=5040&sh=3360&exp=3600&w=300",
+            "title": "【即時短評】寧鳴而死、不默而生：鄭麗文勝出凸顯的黨員心聲",
+            "link": "https://udn.com//news/story/122404/9079640?from=udn-catebreaknews_ch2",
+            "time": "2025-10-19 06:31"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/19/realtime/33408307.jpg&s=Y&x=53&y=0&sw=1284&sh=857&exp=3600&w=300",
             "title": "鄭麗文當選 謝國樑：希望主席定期和縣市長聚會商討國策 讓民眾更有感",
-            "link": "https://udn.com//news/story/6656/9079636?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/122404/9079636?from=udn-catebreaknews_ch2",
             "time": "2025-10-19 06:13"
         },
         {
@@ -19,16 +25,10 @@
             "time": "2025-10-19 05:50"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
             "title": "綠委修核避難區 藍疑為重啟核電鋪路",
             "link": "https://udn.com//news/story/6656/9079444?from=udn-catebreaknews_ch2",
             "time": "2025-10-19 02:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/19/realtime/33406211.jpg&s=Y&x=196&y=100&sw=2400&sh=1600&exp=3600&w=300",
-            "title": "國民黨主席選舉結果揭曉 鄭麗文勝出 第二位女性黨魁",
-            "link": "https://udn.com//news/story/122404/9079439?from=udn-catebreaknews_ch2",
-            "time": "2025-10-19 02:10"
         }
     ]
 }
