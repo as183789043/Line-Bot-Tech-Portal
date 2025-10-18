@@ -1,10 +1,16 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
             "title": "綠委修核避難區 藍疑為重啟核電鋪路",
             "link": "https://udn.com//news/story/6656/9079444?from=udn-catebreaknews_ch2",
             "time": "2025-10-19 02:24"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/19/realtime/33406211.jpg&s=Y&x=196&y=100&sw=2400&sh=1600&exp=3600&w=300",
+            "title": "國民黨主席選舉結果揭曉 鄭麗文勝出 第二位女性黨魁",
+            "link": "https://udn.com//news/story/122404/9079439?from=udn-catebreaknews_ch2",
+            "time": "2025-10-19 02:10"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/18/0/33402943.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
@@ -23,12 +29,6 @@
             "title": "大陸學者：堅持一中原則 國共應能續合作",
             "link": "https://udn.com//news/story/122404/9079539?from=udn-catebreaknews_ch2",
             "time": "2025-10-19 01:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/19/1/33406289.jpg&s=Y&x=256&y=8&sw=933&sh=622&exp=3600&w=300",
-            "title": "鄭麗文嗆綠委：毀掉中華民國 誰都沒好處",
-            "link": "https://udn.com//news/story/122404/9079538?from=udn-catebreaknews_ch2",
-            "time": "2025-10-19 00:54"
         }
     ]
 }
