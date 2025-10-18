@@ -1,6 +1,12 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/17/realtime/33389829.jpg&s=Y&x=0&y=27&sw=3500&sh=2332&exp=3600&w=300",
+            "title": "輝達總部5個月急轉直下 北市府與新壽不明講的如意算盤",
+            "link": "https://udn.com//news/story/7238/9076806?from=udn-catebreaknews_ch2",
+            "time": "2025-10-18 09:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/17/realtime/33393361.jpg&s=Y&x=0&y=0&sw=2126&sh=1417&exp=3600&w=300",
             "title": "怕買到爛尾樓 買預售屋前了解6項指標",
             "link": "https://udn.com//news/story/121591/9077966?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2025-10-18 05:50"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_1.jpg&w=300",
             "title": "農業願景 讓台灣米找回光榮感",
             "link": "https://udn.com//news/story/7241/9077749?from=udn-catebreaknews_ch2",
             "time": "2025-10-18 04:55"
@@ -23,12 +29,6 @@
             "title": "定存單利率探低 2年期下滑至1.244%一年半來低點",
             "link": "https://udn.com//news/story/7239/9077833?from=udn-catebreaknews_ch2",
             "time": "2025-10-18 01:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_3.jpg&w=300",
-            "title": "外銀攻8兆美元財管市場",
-            "link": "https://udn.com//news/story/7239/9077845?from=udn-catebreaknews_ch2",
-            "time": "2025-10-18 01:36"
         }
     ]
 }
