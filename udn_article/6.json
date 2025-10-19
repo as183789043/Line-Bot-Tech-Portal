@@ -1,15 +1,9 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/1/33414398.jpg&s=Y&x=9&y=8&sw=306&sh=204&exp=3600&w=300",
-            "title": "本周財經焦點",
-            "link": "https://udn.com//news/story/7238/9080931?from=udn-catebreaknews_ch2",
-            "time": "2025-10-20 00:16"
-        },
-        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/1/33414363.jpg&s=Y&x=84&y=4&sw=1021&sh=681&exp=3600&w=300",
-            "title": "進口車關稅遲未定 今年車市40萬輛目標恐難保",
-            "link": "https://udn.com//news/story/7238/9080903?from=udn-catebreaknews_ch2",
+            "title": "進口車關稅遲未定…今年車市 40萬輛目標恐難保",
+            "link": "https://udn.com//news/story/7241/9080903?from=udn-catebreaknews_ch2",
             "time": "2025-10-20 00:13"
         },
         {
@@ -26,8 +20,14 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/19/realtime/33414171.jpg&s=Y&x=178&y=0&sw=3144&sh=2097&exp=3600&w=300",
-            "title": "關鍵一周！輝達進駐北士科用地 新壽擬三方協商",
+            "title": "關鍵一周…輝達進駐北士科用地 新壽擬三方協商",
             "link": "https://udn.com//news/story/124626/9080885?from=udn-catebreaknews_ch2",
+            "time": "2025-10-20 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_1.jpg&w=300",
+            "title": "北士科T17、T18地上權價值 估價師：取決3要素",
+            "link": "https://udn.com//news/story/124626/9080893?from=udn-catebreaknews_ch2",
             "time": "2025-10-20 00:00"
         }
     ]
