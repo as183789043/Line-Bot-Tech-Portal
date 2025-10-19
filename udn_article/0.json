@@ -1,6 +1,18 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/realtime/33414407.jpg&s=Y&x=0&y=2&sw=360&sh=240&exp=3600&w=300",
+            "title": "風神颱風共伴效應 北市文山累積雨量88.5毫米 平地豪雨特報",
+            "link": "https://udn.com//news/story/7266/9081015?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-10-20 00:21"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/realtime/33414404.jpg&s=Y&x=0&y=0&sw=8256&sh=5504&exp=3600&w=300",
+            "title": "美中貿易情勢升溫 川普：我沒有尋求摧毀中國",
+            "link": "https://udn.com//news/story/6813/9081014?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-10-20 00:21"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/19/realtime/33412237.jpg&s=Y&x=0&y=0&sw=4522&sh=2937&exp=3600&w=300",
             "title": "歷史上的今天／1977年首列電氣化列車 楊梅-新竹段試駛",
             "link": "https://udn.com//news/story/7314/9080254?from=udn-ch1_breaknews-1-0-news",
@@ -13,22 +25,10 @@
             "time": "2025-10-19 23:37"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_0.jpg&w=300",
             "title": "中央前進協調所：花蓮光復鄉40公里側溝及下水道完成清理",
             "link": "https://udn.com//news/story/124616/9080866?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-10-19 23:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/19/realtime/33414144.jpg&s=Y&x=0&y=0&sw=1889&sh=1260&exp=3600&w=300",
-            "title": "川普再提到台灣：晶片正從台灣回流美國生產",
-            "link": "https://udn.com//news/story/124373/9080852?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-10-19 23:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/19/realtime/33414128.jpg&s=Y&x=0&y=0&sw=2062&sh=1375&exp=3600&w=300",
-            "title": "習電賀鄭麗文提增強做中國人骨氣 環時：民進黨對美卑躬屈膝",
-            "link": "https://udn.com//news/story/122404/9080825?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-10-19 23:01"
         }
     ]
 }
