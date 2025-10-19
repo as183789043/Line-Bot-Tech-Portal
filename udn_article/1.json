@@ -1,8 +1,14 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/19/realtime/33413092.jpg&s=Y&x=0&y=332&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "花蓮光復重災區調整撤離策略 季連成：採全面疏散模式",
+            "link": "https://udn.com//news/story/124616/9080455?from=udn-catebreaknews_ch2",
+            "time": "2025-10-19 17:46"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/19/realtime/33412930.jpg&s=Y&x=0&y=30&sw=4080&sh=2720&exp=3600&w=300",
-            "title": "聯合內閣師法日本經驗 柯文哲：別人做得好的 自己不用再去多發明什麼",
+            "title": "聯合政府師法日本經驗…柯文哲：別人做得好的 自己不用再去多發明什麼",
             "link": "https://udn.com//news/story/6656/9080410?from=udn-catebreaknews_ch2",
             "time": "2025-10-19 17:11"
         },
@@ -23,12 +29,6 @@
             "title": "鄭麗文當選讓黨內焦慮？朱立倫籲黨團結 祝福未來更團結",
             "link": "https://udn.com//news/story/122404/9080336?from=udn-catebreaknews_ch2",
             "time": "2025-10-19 16:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/19/realtime/33412523.jpeg&s=Y&x=0&y=0&sw=4955&sh=3303&exp=3600&w=300",
-            "title": "影／朱立倫：期許在鄭麗文的帶領下國民黨能更團結、更好、更強",
-            "link": "https://udn.com//news/story/122404/9080320?from=udn-catebreaknews_ch2",
-            "time": "2025-10-19 16:02"
         }
     ]
 }
