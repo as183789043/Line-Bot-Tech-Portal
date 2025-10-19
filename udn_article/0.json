@@ -1,9 +1,21 @@
 {
     "即時": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/19/realtime/33412237.jpg&s=Y&x=0&y=0&sw=4522&sh=2937&exp=3600&w=300",
+            "title": "歷史上的今天／1977年首列電氣化列車 楊梅-新竹段試駛",
+            "link": "https://udn.com//news/story/7314/9080254?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-10-20 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/30/0/33244815.jpg&s=Y&x=24&y=16&sw=1255&sh=837&exp=3600&w=300",
+            "title": "NBA／ESPN：杜蘭特與火箭續2年約 NBA生涯總薪資創歷史新高",
+            "link": "https://udn.com//news/story/7002/9080820?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-10-19 23:37"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
             "title": "中央前進協調所：花蓮光復鄉40公里側溝及下水道完成清理",
-            "link": "https://udn.com//news/story/6656/9080866?from=udn-ch1_breaknews-1-0-news",
+            "link": "https://udn.com//news/story/124616/9080866?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-10-19 23:10"
         },
         {
@@ -15,20 +27,8 @@
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/19/realtime/33414128.jpg&s=Y&x=0&y=0&sw=2062&sh=1375&exp=3600&w=300",
             "title": "習電賀鄭麗文提增強做中國人骨氣 環時：民進黨對美卑躬屈膝",
-            "link": "https://udn.com//news/story/7331/9080825?from=udn-ch1_breaknews-1-0-news",
+            "link": "https://udn.com//news/story/122404/9080825?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-10-19 23:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7227_8.jpg&w=300",
-            "title": "全運會／張暐堂成新蛙王 名古屋亞運門票也入袋",
-            "link": "https://udn.com//news/story/7005/9080807?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-10-19 22:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/19/98/33414045.jpg&s=Y&x=0&y=52&sw=1151&sh=767&exp=3600&w=300",
-            "title": "北北基防豪雨 桃園及東半部留意局部大雨",
-            "link": "https://udn.com//news/story/7266/9080759?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-10-19 22:32"
         }
     ]
 }
