@@ -1,6 +1,24 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/draft/33416746.jpg&s=Y&x=63&y=0&sw=675&sh=450&exp=3600&w=300",
+            "title": "生活方式通膨毒害 高盛：賺愈多愈容易淪月光族",
+            "link": "https://udn.com//news/story/6897/9081375?from=udn-catebreaknews_ch2",
+            "time": "2025-10-20 11:19"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/0/33417196.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "半導體晶片照亮資本市場 台股躍全球第18大！謝金河：晶片力就是國力",
+            "link": "https://udn.com//news/story/6839/9081531?from=udn-catebreaknews_ch2",
+            "time": "2025-10-20 11:18"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/0/33417259.jpg&s=Y&x=176&y=0&sw=1002&sh=668&exp=3600&w=300",
+            "title": "台積電是頂尖車手 但要全球協力！熊本廠對日本多重要？「台日半導體同盟」能做啥",
+            "link": "https://udn.com//news/story/6839/9081573?from=udn-catebreaknews_ch2",
+            "time": "2025-10-20 11:15"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/17/draft/33388851.jpg&s=Y&x=102&y=0&sw=1077&sh=719&exp=3600&w=300",
             "title": "玉井果香、中埔風光、大埔樂章一場自南臺灣展開的旅行交響曲",
             "link": "https://udn.com//news/story/12677/9076455?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "豐FOOD自助餐推出「美式嘉年華」肉食控準備暴動！身分證藏寶藏　對中3碼送「美式牛小排」加碼為「鏟子超人」補充能量款待龍蝦料理",
             "link": "https://udn.com//news/story/12677/9073992?from=udn-catebreaknews_ch2",
             "time": "2025-10-19 09:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/13/draft/33351424.jpg&s=Y&x=0&y=12&sw=1280&sh=852&exp=3600&w=300",
-            "title": "Repetto CEO Charlotte首度來台！親自揭示品牌背後的法式節奏與靈魂",
-            "link": "https://udn.com//news/story/12677/9067433?from=udn-catebreaknews_ch2",
-            "time": "2025-10-19 09:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/16/draft/33379413.jpg&s=Y&x=0&y=240&sw=684&sh=456&exp=3600&w=300",
-            "title": "老街新魂 西服新風 凱恩洋服 裁剪大稻埕的未來",
-            "link": "https://udn.com//news/story/120681/9074168?from=udn-catebreaknews_ch2",
-            "time": "2025-10-19 09:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/17/draft/33388734.jpg&s=Y&x=118&y=0&sw=1044&sh=697&exp=3600&w=300",
-            "title": "市場一致看好台積電Q3財報 外資券商目標價上調1600元以上",
-            "link": "https://udn.com//news/story/6848/9076386?from=udn-catebreaknews_ch2",
-            "time": "2025-10-19 07:50"
         }
     ]
 }
