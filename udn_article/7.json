@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/realtime/33426657.jpg&s=Y&x=0&y=0&sw=6000&sh=3954&exp=3600&w=300",
+            "title": "台積電領軍的AI外溢效應發酵 以AI為核心的中小型股跑贏大盤",
+            "link": "https://udn.com//news/story/7251/9083211?from=udn-catebreaknews_ch2",
+            "time": "2025-10-20 22:06"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/2/33425914.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "美股電子盤、黃金高歌 台指期夜盤獨憔悴",
             "link": "https://udn.com//news/story/7255/9083125?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "財報周牽動AI情緒…台積電盤中觸頂 ADR市值1.53兆美元、換位戰開打",
             "link": "https://udn.com//news/story/7251/9082857?from=udn-catebreaknews_ch2",
             "time": "2025-10-20 19:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/realtime/33424385.jpg&s=Y&x=31&y=0&sw=735&sh=490&exp=3600&w=300",
-            "title": "亞洲創新籌資平台推出 證交所將再次鬆綁創新板及外國企業上市制度",
-            "link": "https://udn.com//news/story/7251/9082839?from=udn-catebreaknews_ch2",
-            "time": "2025-10-20 19:06"
         }
     ]
 }
