@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/2/33425914.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "美股電子盤、黃金高歌 台指期夜盤獨憔悴",
+            "link": "https://udn.com//news/story/7255/9083125?from=udn-catebreaknews_ch2",
+            "time": "2025-10-20 21:04"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/realtime/33425640.jpg&s=Y&x=0&y=42&sw=5712&sh=3808&exp=3600&w=300",
+            "title": "府院期望2年內40家以上創新板公司掛牌 證交所：三方向、四修法衝刺",
+            "link": "https://udn.com//news/story/7251/9083087?from=udn-catebreaknews_ch2",
+            "time": "2025-10-20 20:46"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/2/33425111.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "外資短短一周提款台股近千億、逼近全年賣超金額 美中變數下反手調節",
             "link": "https://udn.com//news/story/7251/9082954?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "亞洲創新籌資平台推出 證交所將再次鬆綁創新板及外國企業上市制度",
             "link": "https://udn.com//news/story/7251/9082839?from=udn-catebreaknews_ch2",
             "time": "2025-10-20 19:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/realtime/33424297.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "童子賢抱「孫公司」 永擎衝AI伺服器藍海！和碩集團輕資產策略出擊",
-            "link": "https://udn.com//news/story/7254/9082835?from=udn-catebreaknews_ch2",
-            "time": "2025-10-20 19:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/realtime/33424017.jpg&s=Y&x=0&y=0&sw=516&sh=344&exp=3600&w=300",
-            "title": "全球最大品牌iShares來了 貝萊德投信首檔ETF上市交易",
-            "link": "https://udn.com//news/story/123006/9082804?from=udn-catebreaknews_ch2",
-            "time": "2025-10-20 18:38"
         }
     ]
 }
