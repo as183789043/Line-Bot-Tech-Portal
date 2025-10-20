@@ -1,6 +1,18 @@
 {
     "文教": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid11195_8.jpg&w=300",
+            "title": "縣市紛推喝鮮乳 桃園未就讀幼生也納入",
+            "link": "https://udn.com//news/story/6898/9083476?from=udn-catebreaknews_ch2",
+            "time": "2025-10-21 00:26"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/realtime/33427767.jpeg&s=Y&x=0&y=0&sw=6048&sh=4032&exp=3600&w=300",
+            "title": "生生喝鮮乳 桃園、台中擬明年2月上路",
+            "link": "https://udn.com//news/story/6898/9083472?from=udn-catebreaknews_ch2",
+            "time": "2025-10-21 00:21"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/realtime/33427778.jpg&s=Y&x=0&y=11&sw=1511&sh=1006&exp=3600&w=300",
             "title": "開學月餘 台南國中小仍缺代理教師",
             "link": "https://udn.com//news/story/6898/9083475?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2025-10-21 00:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid11195_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid11195_5.jpg&w=300",
             "title": "代理教師採計年資 留才利多",
             "link": "https://udn.com//news/story/6898/9083477?from=udn-catebreaknews_ch2",
             "time": "2025-10-21 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/realtime/33425092.jpg&s=Y&x=0&y=9&sw=1322&sh=880&exp=3600&w=300",
-            "title": "美年輕男性瘋電玩 有害社交？看法兩極",
-            "link": "https://udn.com//news/story/6904/9082956?from=udn-catebreaknews_ch2",
-            "time": "2025-10-20 23:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/realtime/33425123.jpg&s=Y&x=0&y=0&sw=2362&sh=1575&exp=3600&w=300",
-            "title": "瘋電玩有害社交？ 男更易沉迷電玩 女更易社群成癮",
-            "link": "https://udn.com//news/story/6904/9082966?from=udn-catebreaknews_ch2",
-            "time": "2025-10-20 23:46"
         }
     ]
 }
