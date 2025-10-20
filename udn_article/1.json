@@ -1,9 +1,21 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/21/realtime/33433040.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "打造台灣之盾 鍾樹明：盼美國助整合台防空系統",
+            "link": "https://udn.com//news/story/10930/9083651?from=udn-catebreaknews_ch2",
+            "time": "2025-10-21 07:06"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/21/realtime/33433030.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "國民黨新主席出爐 綠委籲台灣安全優先於見習近平",
+            "link": "https://udn.com//news/story/122404/9083650?from=udn-catebreaknews_ch2",
+            "time": "2025-10-21 07:04"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/21/realtime/33432486.jpg&s=Y&x=0&y=36&sw=4411&sh=2940&exp=3600&w=300",
             "title": "【專家之眼】走在鋼索上的國民黨新主席",
-            "link": "https://udn.com//news/story/6656/9083636?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/122404/9083636?from=udn-catebreaknews_ch2",
             "time": "2025-10-21 06:14"
         },
         {
@@ -17,18 +29,6 @@
             "title": "羅浮宮驚天竊案 圖解嫌犯7分鐘得手動線、失竊珠寶清單",
             "link": "https://udn.com//news/story/7314/9083501?from=udn-catebreaknews_ch2",
             "time": "2025-10-21 05:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/21/realtime/33429685.jpg&s=Y&x=25&y=0&sw=918&sh=613&exp=3600&w=300",
-            "title": "美台國防工業會議 副防長籲打造無人機非紅供應鏈",
-            "link": "https://udn.com//news/story/10930/9083566?from=udn-catebreaknews_ch2",
-            "time": "2025-10-21 02:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
-            "title": "新造潛艦11月交付 有挑戰",
-            "link": "https://udn.com//news/story/10930/9083365?from=udn-catebreaknews_ch2",
-            "time": "2025-10-21 02:11"
         }
     ]
 }
