@@ -1,6 +1,24 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/realtime/33416139.jpg&s=Y&x=0&y=9&sw=1200&sh=800&exp=3600&w=300",
+            "title": "18秒震動創造燕子口堰塞湖 太魯閣一地標消失了",
+            "link": "https://udn.com//news/story/124616/9081202?from=udn-catebreaknews_ch2",
+            "time": "2025-10-20 08:52"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/realtime/33415992.jpeg&s=Y&x=0&y=15&sw=2048&sh=1364&exp=3600&w=300",
+            "title": "美台國防工業會議明開幕 聚焦美台共同發展無人機",
+            "link": "https://udn.com//news/story/10930/9081148?from=udn-catebreaknews_ch2",
+            "time": "2025-10-20 08:06"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/19/1/33411724.jpg&s=Y&x=157&y=0&sw=843&sh=562&exp=3600&w=300",
+            "title": "國共內戰／東北覆滅之謎 廖耀湘部隊不打仗忙盜賣糧食",
+            "link": "https://udn.com//news/story/10930/9080183?from=udn-catebreaknews_ch2",
+            "time": "2025-10-20 07:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/realtime/33415721.jpg&s=Y&x=0&y=0&sw=4522&sh=2933&exp=3600&w=300",
             "title": "【專家之眼】臺灣光復八十周年的省思",
             "link": "https://udn.com//news/story/6656/9081092?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "美中台間諜大戰 賴政府的國安團隊能受檢驗？",
             "link": "https://udn.com//news/story/6656/9081019?from=udn-catebreaknews_ch2",
             "time": "2025-10-20 05:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/19/1/33414238.png&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "洗腎王國水很深？圖解腎透析人數 哪家醫院腎移植最多",
-            "link": "https://udn.com//news/story/7314/9080940?from=udn-catebreaknews_ch2",
-            "time": "2025-10-20 05:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/19/realtime/33412248.jpg&s=Y&x=0&y=0&sw=1198&sh=798&exp=3600&w=300",
-            "title": "國民黨黨主席出爐 中共總書記習近平電賀鄭麗文當選",
-            "link": "https://udn.com//news/story/122404/9080849?from=udn-catebreaknews_ch2",
-            "time": "2025-10-20 01:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
-            "title": "台中、桃園議員選區席次變動 提前引燃戰火",
-            "link": "https://udn.com//news/story/6656/9080932?from=udn-catebreaknews_ch2",
-            "time": "2025-10-20 00:47"
         }
     ]
 }
