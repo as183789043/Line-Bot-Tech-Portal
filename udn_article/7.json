@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/21/realtime/33446787.jpg&s=Y&x=0&y=27&sw=2648&sh=1764&exp=3600&w=300",
+            "title": "力積電第3季每股虧損0.65元 11月調漲代工價",
+            "link": "https://udn.com//news/story/7253/9086352?from=udn-catebreaknews_ch2",
+            "time": "2025-10-21 21:19"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/21/2/33446675.jpg&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
+            "title": "美股電子盤黑翻紅 台指期夜盤向上衝",
+            "link": "https://udn.com//news/story/7255/9086331?from=udn-catebreaknews_ch2",
+            "time": "2025-10-21 21:03"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/21/2/33445172.jpg&s=Y&x=0&y=64&sw=1280&sh=853&exp=3600&w=300",
             "title": "富田電機創新板上市 證交所23日審議",
             "link": "https://udn.com//news/story/7251/9086082?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台股今最高衝27,969點！外資賣超2.41億元 砍「這檔」逾6萬張最多",
             "link": "https://udn.com//news/story/7251/9085738?from=udn-catebreaknews_ch2",
             "time": "2025-10-21 17:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/21/2/33443158.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "力積電法說會／第3季記憶體動能轉強 本季量價齊揚、11月起反映",
-            "link": "https://udn.com//news/story/7253/9085617?from=udn-catebreaknews_ch2",
-            "time": "2025-10-21 17:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/21/0/33442057.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "台積電盤中創1500歷史新天價！股添樂「當時60幾塊入手」…出場價差曝光",
-            "link": "https://udn.com//news/story/7251/9085315?from=udn-catebreaknews_ch2",
-            "time": "2025-10-21 16:14"
         }
     ]
 }
