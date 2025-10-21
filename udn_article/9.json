@@ -1,7 +1,25 @@
 {
     "文教": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid11195_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/07/0/33299358.jpg&s=Y&x=0&y=143&sw=643&sh=429&exp=3600&w=300",
+            "title": "科學人／金窩銀窩不如樹上猴窩",
+            "link": "https://udn.com//news/story/6904/9054446?from=udn-catebreaknews_ch2",
+            "time": "2025-10-21 08:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/1/33424908.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "高教貧窮／政治干預學術？國科會預算失衡學界喊監督",
+            "link": "https://udn.com//news/story/6928/9082918?from=udn-catebreaknews_ch2",
+            "time": "2025-10-21 07:30"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/realtime/33427892.jpg&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "文科碩博生數量較沒衰退 為何教授有擔憂？",
+            "link": "https://udn.com//news/story/6928/9083500?from=udn-catebreaknews_ch2",
+            "time": "2025-10-21 07:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid11195_7.jpg&w=300",
             "title": "縣市紛推喝鮮乳 桃園未就讀幼生也納入",
             "link": "https://udn.com//news/story/6898/9083476?from=udn-catebreaknews_ch2",
             "time": "2025-10-21 00:26"
@@ -11,24 +29,6 @@
             "title": "生生喝鮮乳 桃園、台中擬明年2月上路",
             "link": "https://udn.com//news/story/6898/9083472?from=udn-catebreaknews_ch2",
             "time": "2025-10-21 00:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/realtime/33427778.jpg&s=Y&x=0&y=11&sw=1511&sh=1006&exp=3600&w=300",
-            "title": "開學月餘 台南國中小仍缺代理教師",
-            "link": "https://udn.com//news/story/6898/9083475?from=udn-catebreaknews_ch2",
-            "time": "2025-10-21 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/realtime/33427817.jpg&s=Y&x=0&y=0&sw=6229&sh=4153&exp=3600&w=300",
-            "title": "明星養老院2.0 11月高雄登台",
-            "link": "https://udn.com//news/story/6885/9083486?from=udn-catebreaknews_ch2",
-            "time": "2025-10-21 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid11195_8.jpg&w=300",
-            "title": "代理教師採計年資 留才利多",
-            "link": "https://udn.com//news/story/6898/9083477?from=udn-catebreaknews_ch2",
-            "time": "2025-10-21 00:00"
         }
     ]
 }
