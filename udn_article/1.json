@@ -1,10 +1,22 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/22/realtime/33453290.jpg&s=Y&x=0&y=6&sw=800&sh=532&exp=3600&w=300",
+            "title": "馬太鞍新堰塞湖昨晚溢流 便道待水退評估開放通車時間",
+            "link": "https://udn.com//news/story/7314/9086862?from=udn-catebreaknews_ch2",
+            "time": "2025-10-22 06:48"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/21/realtime/33448674.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
             "title": "【總編開箱】中美博弈夾縫中 賴政府搞清楚台灣該怎麼走了嗎",
             "link": "https://udn.com//news/story/6656/9086724?from=udn-catebreaknews_ch2",
             "time": "2025-10-22 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
+            "title": "賴總統致賀高市早苗當選首相 期待深化合作",
+            "link": "https://udn.com//news/story/6656/9086593?from=udn-catebreaknews_ch2",
+            "time": "2025-10-22 03:02"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/21/realtime/33448376.jpg&s=Y&x=0&y=0&sw=4141&sh=2699&exp=3600&w=300",
@@ -13,22 +25,10 @@
             "time": "2025-10-22 00:02"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
             "title": "防軍人躺平投敵 擬修法加重刑責",
             "link": "https://udn.com//news/story/10930/9086679?from=udn-catebreaknews_ch2",
             "time": "2025-10-22 00:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
-            "title": "吳釗燮：第一島鏈可能成戰場 台灣非唯一目標",
-            "link": "https://udn.com//news/story/6656/9086628?from=udn-catebreaknews_ch2",
-            "time": "2025-10-22 00:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/21/realtime/33448437.jpg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
-            "title": "總統交付林信義APEC任務 分享半導體經驗",
-            "link": "https://udn.com//news/story/6656/9086641?from=udn-catebreaknews_ch2",
-            "time": "2025-10-22 00:01"
         }
     ]
 }
