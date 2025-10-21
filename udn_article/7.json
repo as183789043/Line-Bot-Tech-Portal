@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/10/21/33435692.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電一度攻上1,500元 台股最高衝上27,969點 離28,000點僅一步之遙",
+            "link": "https://udn.com//news/story/7251/9084484?from=udn-catebreaknews_ch2",
+            "time": "2025-10-21 12:52"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/09/2/33102368.jpg&s=Y&x=0&y=56&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股「4千金」齊創高！緯穎攻4,130元天價 穩坐股后、拉近股王",
+            "link": "https://udn.com//news/story/7251/9084406?from=udn-catebreaknews_ch2",
+            "time": "2025-10-21 12:28"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/98/33427507.jpg&s=Y&x=0&y=76&sw=1280&sh=853&exp=3600&w=300",
             "title": "熱呼呼的被動元件怎麼看？分析師：故事剛開始…",
             "link": "https://udn.com//news/story/7251/9084316?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "「高市交易」再啟 日圓貶破151 日股鎖定5萬點大關",
             "link": "https://udn.com//news/story/7251/9084164?from=udn-catebreaknews_ch2",
             "time": "2025-10-21 11:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/17/2/33390070.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "00878+00919+00713累積300張！瑞奇媽：高股息任務不是長大、是生股息",
-            "link": "https://udn.com//news/story/123006/9084134?from=udn-catebreaknews_ch2",
-            "time": "2025-10-21 11:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/21/0/33436433.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "沒有利空就是做多！直雲：台積電今天1500元、台股邁向28,000",
-            "link": "https://udn.com//news/story/12806/9084083?from=udn-catebreaknews_ch2",
-            "time": "2025-10-21 11:01"
         }
     ]
 }
