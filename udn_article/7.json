@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/21/2/33447085.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "大摩看OCP全球高峰會：輝達網通技術升級成為焦點 看好九檔台股",
+            "link": "https://udn.com//news/story/7253/9086376?from=udn-catebreaknews_ch2",
+            "time": "2025-10-21 21:39"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/21/realtime/33446787.jpg&s=Y&x=0&y=27&sw=2648&sh=1764&exp=3600&w=300",
             "title": "力積電第3季每股虧損0.65元 11月調漲代工價",
             "link": "https://udn.com//news/story/7253/9086352?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股閃現24千金！雙鴻1000元大關沒站穩…收在993元",
             "link": "https://udn.com//news/story/7251/9085789?from=udn-catebreaknews_ch2",
             "time": "2025-10-21 17:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/21/98/33443672.jpg&s=Y&x=0&y=0&sw=1262&sh=841&exp=3600&w=300",
-            "title": "台股今最高衝27,969點！外資賣超2.41億元 砍「這檔」逾6萬張最多",
-            "link": "https://udn.com//news/story/7251/9085738?from=udn-catebreaknews_ch2",
-            "time": "2025-10-21 17:47"
         }
     ]
 }
