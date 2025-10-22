@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/22/realtime/33465354.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "【總編開箱】鄭麗文「蝴蝶效應」 振出藍軍2個太陽？",
+            "link": "https://udn.com//news/story/122404/9090902?from=udn-catebreaknews_ch2",
+            "time": "2025-10-23 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/22/realtime/33465370.jpg&s=Y&x=144&y=0&sw=1770&sh=1181&exp=3600&w=300",
             "title": "花蓮光復洪災滿月／中央洪災前撤離人數評估 1小時增至13倍",
             "link": "https://udn.com//news/story/124616/9090776?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2025-10-23 00:32"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_6.jpg&w=300",
             "title": "花蓮光復洪災滿月／避免多頭馬車 專家籲設防災總署",
             "link": "https://udn.com//news/story/124616/9090792?from=udn-catebreaknews_ch2",
             "time": "2025-10-23 00:32"
@@ -23,12 +29,6 @@
             "title": "花蓮光復洪災滿月／優先撤離長者 須先解決數位落差",
             "link": "https://udn.com//news/story/124616/9090809?from=udn-catebreaknews_ch2",
             "time": "2025-10-23 00:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/23/1/33465749.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "美擬提全球指引 助我加速獲防衛技術",
-            "link": "https://udn.com//news/story/10930/9090867?from=udn-catebreaknews_ch2",
-            "time": "2025-10-23 00:15"
         }
     ]
 }
