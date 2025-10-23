@@ -1,9 +1,21 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/24/realtime/33477357.jpg&s=Y&x=0&y=0&sw=1089&sh=728&exp=3600&w=300",
+            "title": "美俄領袖峰會取消？白宮：未完全排除 但不能浪費時間",
+            "link": "https://udn.com//news/story/6813/9093628?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-10-24 03:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/24/realtime/33477356.jpg&s=Y&x=77&y=0&sw=870&sh=580&exp=3600&w=300",
+            "title": "川普亞洲行明啟程 擬30日上午與習近平會面",
+            "link": "https://udn.com//news/story/6813/9093627?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-10-24 03:12"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/24/realtime/33477167.jpg&s=Y&x=0&y=48&sw=6400&sh=4266&exp=3600&w=300",
             "title": "確定了！ 美國與中國大陸「川習會」下周四南韓登場",
-            "link": "https://udn.com//news/story/6813/9093613?from=udn-ch1_breaknews-1-0-news",
+            "link": "https://udn.com//news/story/6809/9093613?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-10-24 02:22"
         },
         {
@@ -17,18 +29,6 @@
             "title": "台北國際藝術博覽會登場 120家畫廊參加 首設客家、兒童專區",
             "link": "https://udn.com//news/story/7270/9093593?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-10-24 01:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/23/realtime/33468879.jpg&s=Y&x=270&y=0&sw=4014&sh=2677&exp=3600&w=300",
-            "title": "歷史上的今天／1954年西部縱貫公路高級路面通車",
-            "link": "https://udn.com//news/story/7314/9091280?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-10-24 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/23/realtime/33476340.jpg&s=Y&x=0&y=19&sw=859&sh=572&exp=3600&w=300",
-            "title": "國健署加熱菸載具展示規定大轉彎 反菸團體：整件事「荒腔走板」",
-            "link": "https://udn.com//news/story/7266/9093496?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-10-23 23:37"
         }
     ]
 }
