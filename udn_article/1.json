@@ -1,7 +1,13 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/25/realtime/33483187.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "【總編開箱】管制公務員赴陸都要搞認知戰 鄭麗文能破解嗎？",
+            "link": "https://udn.com//news/story/124636/9095126?from=udn-catebreaknews_ch2",
+            "time": "2025-10-25 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
             "title": "賴清德是「魯莽」領導人？美「時代」雜誌指控",
             "link": "https://udn.com//news/story/6656/9095139?from=udn-catebreaknews_ch2",
             "time": "2025-10-25 02:02"
@@ -23,12 +29,6 @@
             "title": "鄭麗文第二波人事 藍副主席張榮恭、蕭旭岑",
             "link": "https://udn.com//news/story/122404/9095097?from=udn-catebreaknews_ch2",
             "time": "2025-10-25 00:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/25/1/33483085.jpg&s=Y&x=8&y=260&sw=1260&sh=840&exp=3600&w=300",
-            "title": "監測花蓮堰塞湖 燕子口昨降挖導流",
-            "link": "https://udn.com//news/story/124616/9095008?from=udn-catebreaknews_ch2",
-            "time": "2025-10-25 00:14"
         }
     ]
 }
