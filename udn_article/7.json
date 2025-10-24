@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/16/2/33380805.jpg&s=Y&x=0&y=0&sw=1206&sh=804&exp=3600&w=300",
+            "title": "下週美股財報匯集！法人：多頭不變 指數區間看26,500點至28,000點",
+            "link": "https://udn.com//news/story/7251/9094544?from=udn-catebreaknews_ch2",
+            "time": "2025-10-24 16:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/17/2/33388207.jpg&s=Y&x=0&y=0&sw=705&sh=470&exp=3600&w=300",
             "title": "奧丁丁（OWLS）上市一周股價崩近9成！網酸：步上狗狗肉後路的台灣之光",
             "link": "https://udn.com//news/story/7251/9094461?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2025-10-24 01:56"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
             "title": "投信海外商品 牛市助攻",
             "link": "https://udn.com//news/story/10103/9093259?from=udn-catebreaknews_ch2",
             "time": "2025-10-24 01:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/24/2/33477040.png&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "美債ETF  吸引避險買盤",
-            "link": "https://udn.com//news/story/123006/9093309?from=udn-catebreaknews_ch2",
-            "time": "2025-10-24 01:54"
         }
     ]
 }
