@@ -1,6 +1,24 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/24/realtime/33479105.jpg&s=Y&x=0&y=10&sw=1417&sh=944&exp=3600&w=300",
+            "title": "柯志恩宣布選市長 旗津首面看板宣示光復高雄、旗開得勝",
+            "link": "https://udn.com//news/story/6656/9093766?from=udn-catebreaknews_ch2",
+            "time": "2025-10-24 08:42"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/23/1/33473739.jpg&s=Y&x=0&y=24&sw=1272&sh=848&exp=3600&w=300",
+            "title": "綠營「女戰神」王美惠迎戰黃敏惠 嘉義地方山頭暗潮起",
+            "link": "https://udn.com//news/story/6656/9092801?from=udn-catebreaknews_ch2",
+            "time": "2025-10-24 08:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/23/realtime/33471286.jpg&s=Y&x=0&y=11&sw=1520&sh=1012&exp=3600&w=300",
+            "title": "國共內戰／徐蚌會戰全軍覆沒 國民黨不願說的大敗真相",
+            "link": "https://udn.com//news/story/10930/9092134?from=udn-catebreaknews_ch2",
+            "time": "2025-10-24 07:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/23/realtime/33475064.jpg&s=Y&x=0&y=0&sw=5001&sh=3385&exp=3600&w=300",
             "title": "AIT賀當選 鄭麗文：保持合作",
             "link": "https://udn.com//news/story/122404/9093552?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "F-16明年全交機？顧立雄坦言挑戰",
             "link": "https://udn.com//news/story/10930/9093546?from=udn-catebreaknews_ch2",
             "time": "2025-10-24 01:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/24/2/33476902.jpg&s=Y&x=0&y=0&sw=1211&sh=807&exp=3600&w=300",
-            "title": "普發現金最快11月12日入帳 11月5日開放分流預先登記",
-            "link": "https://udn.com//news/story/124539/9093445?from=udn-catebreaknews_ch2",
-            "time": "2025-10-24 01:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/23/realtime/33476323.jpg&s=Y&x=0&y=11&sw=1595&sh=1062&exp=3600&w=300",
-            "title": "普發1萬來了 最快11月12日入帳 5管道發放",
-            "link": "https://udn.com//news/story/124539/9093491?from=udn-catebreaknews_ch2",
-            "time": "2025-10-24 00:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/24/realtime/33476512.jpg&s=Y&x=167&y=0&sw=1842&sh=1228&exp=3600&w=300",
-            "title": "顧立雄：M1A2T戰車 31日成軍",
-            "link": "https://udn.com//news/story/10930/9093550?from=udn-catebreaknews_ch2",
-            "time": "2025-10-24 00:09"
         }
     ]
 }
