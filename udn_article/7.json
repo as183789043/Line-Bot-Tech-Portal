@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/25/1/33486413.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "本周台股／台股2萬8只差臨門一腳？10月底看2大關鍵",
+            "link": "https://udn.com//news/story/7251/9095960?from=udn-catebreaknews_ch2",
+            "time": "2025-10-26 10:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/04/2/33278146.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "市值狂飆股扮攻堅要角 華邦電、鴻海等上漲動能不墜",
             "link": "https://udn.com//news/story/7251/9096348?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "輝達力拱800VDC 台達電光寶科等台廠扮要角",
             "link": "https://udn.com//news/story/7253/9095465?from=udn-catebreaknews_ch2",
             "time": "2025-10-25 11:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/25/0/33484981.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "鴻海（2317）外資喊400非不可能？杜金龍：台積電EPS若180元股價3000也合理",
-            "link": "https://udn.com//news/story/12806/9095547?from=udn-catebreaknews_ch2",
-            "time": "2025-10-25 11:21"
         }
     ]
 }
