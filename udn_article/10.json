@@ -1,6 +1,12 @@
 {
     "評論": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/28/2/33505125.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "經濟日報社論／大國角力下 產業轉型刻不容緩",
+            "link": "https://udn.com//news/story/7338/9100052?from=udn-catebreaknews_ch2",
+            "time": "2025-10-28 03:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/27/realtime/33501360.jpg&s=Y&x=82&y=0&sw=1416&sh=944&exp=3600&w=300",
             "title": "于國華／泥土的芬芳、天人的和諧：犬香薷",
             "link": "https://udn.com//news/story/7341/9099625?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2025-10-28 00:48"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_2.jpg&w=300",
             "title": "李清志／追求城市永恆的價值",
             "link": "https://udn.com//news/story/7340/9100068?from=udn-catebreaknews_ch2",
             "time": "2025-10-28 00:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_8.jpg&w=300",
-            "title": "讓我們大家一起來做「和平志工」",
-            "link": "https://udn.com//news/story/7339/9100066?from=udn-catebreaknews_ch2",
-            "time": "2025-10-28 00:25"
         }
     ]
 }
