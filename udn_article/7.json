@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/27/98/33499419.jpg&s=Y&x=0&y=0&sw=1046&sh=697&exp=3600&w=300",
+            "title": "外資買超326億元終止連3賣 大買DRAM和高息ETF",
+            "link": "https://udn.com//news/story/123006/9099272?from=udn-catebreaknews_ch2",
+            "time": "2025-10-27 17:01"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/27/realtime/33499096.jpg&s=Y&x=0&y=42&sw=5712&sh=3808&exp=3600&w=300",
+            "title": "佐茂10月30日登錄興櫃 低軌衛星、無人機新業務帶動今明年營收成長",
+            "link": "https://udn.com//news/story/7254/9099229?from=udn-catebreaknews_ch2",
+            "time": "2025-10-27 16:32"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/27/2/33498966.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "寶雅財報／前三季獲利21.8億元、EPS 20.56元 單季、累季創歷史新高",
             "link": "https://udn.com//news/story/7254/9099156?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "日股突破50,000點里程碑！三大利多驅動 這檔半導體ETF單日漲近5%最猛",
             "link": "https://udn.com//news/story/123006/9099078?from=udn-catebreaknews_ch2",
             "time": "2025-10-27 15:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/27/2/33498275.jpg&s=Y&x=0&y=0&sw=1250&sh=833&exp=3600&w=300",
-            "title": "今年外資大賣台股1,500億元 上周回補華邦電、鴻海最積極",
-            "link": "https://udn.com//news/story/7251/9099060?from=udn-catebreaknews_ch2",
-            "time": "2025-10-27 15:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/27/2/33498235.jpg&s=Y&x=0&y=0&sw=1274&sh=849&exp=3600&w=300",
-            "title": "外資、自營商大手筆回補！三大法人買超510億元 三大族群助攻台股創高",
-            "link": "https://udn.com//news/story/7251/9099049?from=udn-catebreaknews_ch2",
-            "time": "2025-10-27 15:20"
         }
     ]
 }
