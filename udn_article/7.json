@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/28/2/33518461.jpg&s=Y&x=0&y=0&sw=1232&sh=821&exp=3600&w=300",
+            "title": "大盤搶攻28,000點功敗垂成 仍有九檔台股ETF逆勢收歷史新高",
+            "link": "https://udn.com//news/story/123006/9102673?from=udn-catebreaknews_ch2",
+            "time": "2025-10-28 22:05"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/28/2/33518193.jpg&s=Y&x=0&y=64&sw=1279&sh=853&exp=3600&w=300",
+            "title": "AI發動機再+1 台指期夜盤大漲逾百點",
+            "link": "https://udn.com//news/story/7255/9102621?from=udn-catebreaknews_ch2",
+            "time": "2025-10-28 21:32"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/28/realtime/33517636.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
             "title": "精測第3季每股純益寫8.41元 寫今年單季新高",
             "link": "https://udn.com//news/story/7254/9102509?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "新加坡SPETA參訪證交所 東南亞創新資本平台交流",
             "link": "https://udn.com//news/story/7251/9102381?from=udn-catebreaknews_ch2",
             "time": "2025-10-28 20:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/28/2/33517072.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "證交所鬆綁上市法規、板塊互轉 5大重點整理一次看",
-            "link": "https://udn.com//news/story/7251/9102321?from=udn-catebreaknews_ch2",
-            "time": "2025-10-28 19:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/28/realtime/33516509.jpg&s=Y&x=0&y=220&sw=3021&sh=2014&exp=3600&w=300",
-            "title": "2025創櫃菁英選拔優勝名單出爐 展現臺灣新創實力",
-            "link": "https://udn.com//news/story/7251/9102248?from=udn-catebreaknews_ch2",
-            "time": "2025-10-28 18:52"
         }
     ]
 }
