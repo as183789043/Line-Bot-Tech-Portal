@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/28/realtime/33512443.jpg&s=Y&x=0&y=0&sw=7948&sh=5301&exp=3600&w=300",
+            "title": "是方財報／前三季大賺11.7元創同期新高 TPIX 全球排名提升至57名",
+            "link": "https://udn.com//news/story/7253/9101330?from=udn-catebreaknews_ch2",
+            "time": "2025-10-28 13:54"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/20/realtime/32952490.jpg&s=Y&x=0&y=9&sw=1417&sh=944&exp=3600&w=300",
+            "title": "台指期拉回整理 下跌217點 仍穩站28,000點整數關卡",
+            "link": "https://udn.com//news/story/7251/9101324?from=udn-catebreaknews_ch2",
+            "time": "2025-10-28 13:52"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/27/2/33498208.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "台股漲勢休息 下跌44點、收27,949點 台積電下跌5元收1,475元 ",
+            "link": "https://udn.com//news/story/7251/9101307?from=udn-catebreaknews_ch2",
+            "time": "2025-10-28 13:43"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/22/realtime/33465008.jpg&s=Y&x=172&y=0&sw=1545&sh=1030&exp=3600&w=300",
             "title": "006208、00878存股3年！大芥「不含息報酬78%、30%」：不用比誰跑快",
             "link": "https://udn.com//news/story/123006/9100961?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "台積電休息、中小接棒！直雲「多頭趨勢」：散熱需求強勁、看好奇鋐",
             "link": "https://udn.com//news/story/7251/9100980?from=udn-catebreaknews_ch2",
             "time": "2025-10-28 11:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/28/0/33510750.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "台積電（2330）是外國公司？阿格力：外資持股逾七成、創始股東幾乎全數退出",
-            "link": "https://udn.com//news/story/7252/9100876?from=udn-catebreaknews_ch2",
-            "time": "2025-10-28 11:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/28/realtime/33510752.jpg&s=Y&x=172&y=0&sw=1545&sh=1030&exp=3600&w=300",
-            "title": "10檔含積量4成以上台股ETF 周漲幅排名曝光",
-            "link": "https://udn.com//news/story/123006/9100952?from=udn-catebreaknews_ch2",
-            "time": "2025-10-28 11:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/28/realtime/33510446.jpg&s=Y&x=0&y=0&sw=5259&sh=3506&exp=3600&w=300",
-            "title": "台股開高震盪 一度失守2萬8千點",
-            "link": "https://udn.com//news/story/7251/9100877?from=udn-catebreaknews_ch2",
-            "time": "2025-10-28 11:20"
         }
     ]
 }
