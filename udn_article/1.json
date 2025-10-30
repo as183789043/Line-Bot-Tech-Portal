@@ -1,9 +1,15 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/31/realtime/33538504.jpg&s=Y&x=0&y=0&sw=5760&sh=3840&exp=3600&w=300",
+            "title": "M1A2T戰車營今成軍 賴總統親赴新竹湖口主持",
+            "link": "https://udn.com//news/story/10930/9108215?from=udn-catebreaknews_ch2",
+            "time": "2025-10-31 05:02"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/31/realtime/33538427.jpg&s=Y&x=0&y=0&sw=3922&sh=2614&exp=3600&w=300",
             "title": "川習會未談台灣 美學者：大陸可能怕籌碼不夠",
-            "link": "https://udn.com//news/story/6656/9108206?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124643/9108206?from=udn-catebreaknews_ch2",
             "time": "2025-10-31 04:03"
         },
         {
@@ -23,12 +29,6 @@
             "title": "川習會未觸及兩岸議題 「經濟優先、政治延後」 台灣面臨被邊緣化風險",
             "link": "https://udn.com//news/story/124643/9108041?from=udn-catebreaknews_ch2",
             "time": "2025-10-31 01:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_3.jpg&w=300",
-            "title": "APEC代表團成員分析 北京要談台海 沒成功",
-            "link": "https://udn.com//news/story/124643/9108061?from=udn-catebreaknews_ch2",
-            "time": "2025-10-31 01:07"
         }
     ]
 }
