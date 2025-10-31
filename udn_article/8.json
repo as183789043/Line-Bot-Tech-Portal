@@ -1,13 +1,25 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/01/realtime/33546741.jpg&s=Y&x=0&y=15&sw=1512&sh=1008&exp=3600&w=300",
+            "title": "天氣展望 氣溫先降後升這時起全台有雨 仍有熱帶擾動生成訊號",
+            "link": "https://udn.com//news/story/7266/9110462?from=udn-catebreaknews_ch2",
+            "time": "2025-11-01 05:59"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/01/realtime/33546719.jpg&s=Y&x=0&y=0&sw=2465&sh=1681&exp=3600&w=300",
+            "title": "高雄內門18.7度 吳德榮：兩波東北季風接力影響 熱帶系統對台影響曝",
+            "link": "https://udn.com//news/story/7266/9110460?from=udn-catebreaknews_ch2",
+            "time": "2025-11-01 05:44"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_3.jpg&w=300",
             "title": "橘世代／【悲傷療癒─AI復活親人】專家：誰能動用數位遺物 仍存灰色地帶",
             "link": "https://udn.com//news/story/7266/9110363?from=udn-catebreaknews_ch2",
             "time": "2025-11-01 04:23"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_0.jpg&w=300",
             "title": "橘世代／【悲傷療癒─AI復活親人】打造AI重生商模 致力平價服務",
             "link": "https://udn.com//news/story/7266/9110362?from=udn-catebreaknews_ch2",
             "time": "2025-11-01 04:21"
@@ -17,18 +29,6 @@
             "title": "橘世代／【悲傷療癒─AI復活親人】寄託AI 將女兒「做回來」",
             "link": "https://udn.com//news/story/7266/9110361?from=udn-catebreaknews_ch2",
             "time": "2025-11-01 04:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/01/realtime/33545341.jpg&s=Y&x=0&y=0&sw=5407&sh=3605&exp=3600&w=300",
-            "title": "橘世代／【悲傷療癒─AI復活親人】轉換悲傷 用AI對話愛女",
-            "link": "https://udn.com//news/story/7266/9110360?from=udn-catebreaknews_ch2",
-            "time": "2025-11-01 04:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/01/realtime/33545403.jpg&s=Y&x=0&y=0&sw=2480&sh=1653&exp=3600&w=300",
-            "title": "院長講堂／三總院長陳元皓 解除病人苦痛 堅守醫者仁心",
-            "link": "https://udn.com//news/story/7266/9110382?from=udn-catebreaknews_ch2",
-            "time": "2025-11-01 01:43"
         }
     ]
 }

@@ -1,6 +1,24 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/01/realtime/33546727.jpg&s=Y&x=315&y=0&sw=3402&sh=2268&exp=3600&w=300",
+            "title": "從小白兔變大肥貓 台肥董座吳音寧上、李孫榮下",
+            "link": "https://udn.com//news/story/6656/9110461?from=udn-catebreaknews_ch2",
+            "time": "2025-11-01 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/31/1/33545192.png&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "南韓拚主權AI 圖解全球算力強國 台灣排第幾名",
+            "link": "https://udn.com//news/story/7314/9110302?from=udn-catebreaknews_ch2",
+            "time": "2025-11-01 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/01/realtime/33545551.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "【總編開箱】黃仁勳助韓AI、習近平穿梭峰會…APEC曝台灣經濟、外交諸多挑戰",
+            "link": "https://udn.com//news/story/6656/9110402?from=udn-catebreaknews_ch2",
+            "time": "2025-11-01 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/01/1/33545698.jpg&s=Y&x=40&y=48&sw=1207&sh=805&exp=3600&w=300",
             "title": "川習未談台灣 環球時報：於無聲處聽驚雷",
             "link": "https://udn.com//news/story/124643/9110373?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "東協會議上…中美防長會談 台灣成重點",
             "link": "https://udn.com//news/story/124643/9110370?from=udn-catebreaknews_ch2",
             "time": "2025-11-01 01:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
-            "title": "財劃法影響 精障服務恐斷炊",
-            "link": "https://udn.com//news/story/6656/9110341?from=udn-catebreaknews_ch2",
-            "time": "2025-11-01 00:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/01/1/33545269.jpg&s=Y&x=68&y=44&sw=1014&sh=676&exp=3600&w=300",
-            "title": "謝龍介台南首掛看板 吳怡農遞選台北市長意願書",
-            "link": "https://udn.com//news/story/6656/9110207?from=udn-catebreaknews_ch2",
-            "time": "2025-11-01 00:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/31/realtime/33545268.jpg&s=Y&x=0&y=18&sw=2500&sh=1666&exp=3600&w=300",
-            "title": "我代表現身APEC 韓媒秀TAIWAN、國旗",
-            "link": "https://udn.com//news/story/6656/9110338?from=udn-catebreaknews_ch2",
-            "time": "2025-11-01 00:14"
         }
     ]
 }
