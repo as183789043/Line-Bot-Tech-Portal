@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/01/1/33549637.jpg&s=Y&x=0&y=0&sw=1259&sh=839&exp=3600&w=300",
+            "title": "本周台股／史上最佳10月 台股能笑到聖誕節？看Fed臉色",
+            "link": "https://udn.com//news/story/7251/9111197?from=udn-catebreaknews_ch2",
+            "time": "2025-11-02 10:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/24/2/33476972.jpg&s=Y&x=0&y=0&sw=1274&sh=849&exp=3600&w=300",
             "title": "美科技巨頭帶旺股 鴻海、廣達等持續受惠AI軍備競賽",
             "link": "https://udn.com//news/story/7251/9111702?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2025-11-02 01:50"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
             "title": "PCB設備商揪伴轉型 大搶商機",
             "link": "https://udn.com//news/story/7251/9111719?from=udn-catebreaknews_ch2",
             "time": "2025-11-02 01:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
-            "title": "鐵礦價有撐 鋼價利多",
-            "link": "https://udn.com//news/story/7252/9111720?from=udn-catebreaknews_ch2",
-            "time": "2025-11-02 01:46"
         }
     ]
 }
