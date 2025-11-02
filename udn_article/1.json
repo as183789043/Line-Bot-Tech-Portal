@@ -1,9 +1,21 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/27/realtime/33501574.jpg&s=Y&x=315&y=0&sw=3402&sh=2268&exp=3600&w=300",
+            "title": "陸勝一號操演重啟「火力值」 戰場驗證邁向數據化",
+            "link": "https://udn.com//news/story/10930/9112505?from=udn-catebreaknews_ch2",
+            "time": "2025-11-02 15:11"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/02/realtime/33555523.jpg&s=Y&x=0&y=0&sw=3806&sh=2537&exp=3600&w=300",
+            "title": "「比蔣萬安強逾100個」張景森曝1條件賴清德一手好牌",
+            "link": "https://udn.com//news/story/6656/9112480?from=udn-catebreaknews_ch2",
+            "time": "2025-11-02 14:42"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/02/realtime/33555418.jpg&s=Y&x=0&y=0&sw=5032&sh=3355&exp=3600&w=300",
             "title": "鄭麗文操盤2026 陸空戰老將搭新秀、地方黨部留懸念",
-            "link": "https://udn.com//news/story/6656/9112462?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/122404/9112462?from=udn-catebreaknews_ch2",
             "time": "2025-11-02 14:23"
         },
         {
@@ -17,18 +29,6 @@
             "title": "鄭麗文就任國民黨主席 胡錫進：台灣政治生態新風向標",
             "link": "https://udn.com//news/story/122404/9112336?from=udn-catebreaknews_ch2",
             "time": "2025-11-02 13:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/02/realtime/33555057.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "綠高雄市長初選有團隊要選民「自稱28歲」 遭質疑公然作弊",
-            "link": "https://udn.com//news/story/6656/9112312?from=udn-catebreaknews_ch2",
-            "time": "2025-11-02 12:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/02/realtime/33555049.jpg&s=Y&x=89&y=0&sw=954&sh=636&exp=3600&w=300",
-            "title": "林岱樺造勢創政壇驚奇 游盈隆：為綠高雄市長投下變數",
-            "link": "https://udn.com//news/story/6656/9112307?from=udn-catebreaknews_ch2",
-            "time": "2025-11-02 12:44"
         }
     ]
 }
