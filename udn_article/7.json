@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/02/2/33556524.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "CoWoS產能擴張！外資點讚2檔台鏈 目標價最高調升54%",
+            "link": "https://udn.com//news/story/7253/9112683?from=udn-catebreaknews_ch2",
+            "time": "2025-11-02 17:57"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/28/realtime/33510447.jpg&s=Y&x=240&y=0&sw=3045&sh=2031&exp=3600&w=300",
             "title": "台股光輝10月漲逾2千點 法人：「看回不回、驚驚漲」 有望月線連七紅",
             "link": "https://udn.com//news/story/7251/9112682?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "蘋果高階iPad Pro導入均熱板技術 法人估「這檔」明年EPS上看70元",
             "link": "https://udn.com//news/story/7253/9112293?from=udn-catebreaknews_ch2",
             "time": "2025-11-02 12:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/01/1/33549637.jpg&s=Y&x=0&y=0&sw=1259&sh=839&exp=3600&w=300",
-            "title": "本周台股／史上最佳10月 台股能笑到聖誕節？看Fed臉色",
-            "link": "https://udn.com//news/story/7251/9111197?from=udn-catebreaknews_ch2",
-            "time": "2025-11-02 10:00"
         }
     ]
 }
