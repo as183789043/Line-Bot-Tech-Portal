@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/05/realtime/33580329.jpg&s=Y&x=0&y=484&sw=3648&sh=2432&exp=3600&w=300",
+            "title": "長科季配息上修至每股0.45元 長華上半年每股配息0.71元",
+            "link": "https://udn.com//news/story/7254/9120461?from=udn-catebreaknews_ch2",
+            "time": "2025-11-05 22:02"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/13/realtime/33347950.jpg&s=Y&x=0&y=0&sw=5100&sh=3443&exp=3600&w=300",
+            "title": "押寶進場卡位跌深反彈 台指期夜盤翻紅",
+            "link": "https://udn.com//news/story/7255/9120424?from=udn-catebreaknews_ch2",
+            "time": "2025-11-05 21:32"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/27/realtime/33013275.jpg&s=Y&x=0&y=372&sw=2783&sh=1855&exp=3600&w=300",
             "title": "奕力財報／第3季EPS 0.62元 季增2117%獲利飆升",
             "link": "https://udn.com//news/story/7253/9120271?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "玉山金併購三商壽成定局 用0.2486股玉山金換1股三商壽",
             "link": "https://udn.com//news/story/7252/9119940?from=udn-catebreaknews_ch2",
             "time": "2025-11-05 17:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/05/2/33578545.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "外資揮今年第三大刀砍575億元！三大ETF慘遭提款 台積電也賣逾3萬張",
-            "link": "https://udn.com//news/story/7251/9119751?from=udn-catebreaknews_ch2",
-            "time": "2025-11-05 16:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/05/realtime/33578501.jpg&s=Y&x=0&y=0&sw=7380&sh=4896&exp=3600&w=300",
-            "title": "旅遊好旺 雄獅前三季EPS 13.31元創新高",
-            "link": "https://udn.com//news/story/7252/9119737?from=udn-catebreaknews_ch2",
-            "time": "2025-11-05 16:33"
         }
     ]
 }
