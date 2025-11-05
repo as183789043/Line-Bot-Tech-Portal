@@ -1,13 +1,25 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
+            "title": "閃兵藝人三金獎項撤不撤 文化部研議中",
+            "link": "https://udn.com//news/story/6656/9120637?from=udn-catebreaknews_ch2",
+            "time": "2025-11-06 00:25"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/05/realtime/33580653.jpg&s=Y&x=0&y=0&sw=1700&sh=1133&exp=3600&w=300",
+            "title": "閃兵爭議延燒 薛仕凌、阿達到案",
+            "link": "https://udn.com//news/story/6656/9120647?from=udn-catebreaknews_ch2",
+            "time": "2025-11-06 00:24"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_6.jpg&w=300",
             "title": "年金停砍 銓敘部長示警 基金「水庫」更早破產",
             "link": "https://udn.com//news/story/10903/9120697?from=udn-catebreaknews_ch2",
             "time": "2025-11-06 00:07"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
             "title": "民進黨批背離當年立場 黃國昌：不看法條細節就抹黑",
             "link": "https://udn.com//news/story/10903/9120692?from=udn-catebreaknews_ch2",
             "time": "2025-11-06 00:07"
@@ -17,18 +29,6 @@
             "title": "公務人員年金停砍案 立院火速送出委員會",
             "link": "https://udn.com//news/story/10903/9120683?from=udn-catebreaknews_ch2",
             "time": "2025-11-06 00:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/05/realtime/33580731.jpg&s=Y&x=44&y=0&sw=1020&sh=681&exp=3600&w=300",
-            "title": "年金停砍最終生效時間 藍白待協商",
-            "link": "https://udn.com//news/story/10903/9120687?from=udn-catebreaknews_ch2",
-            "time": "2025-11-06 00:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/06/1/33580865.jpg&s=Y&x=0&y=0&sw=1266&sh=844&exp=3600&w=300",
-            "title": "新聞眼／雙城奇謀 暗藏朝野角力",
-            "link": "https://udn.com//news/story/6656/9120721?from=udn-catebreaknews_ch2",
-            "time": "2025-11-06 00:06"
         }
     ]
 }

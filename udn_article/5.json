@@ -1,6 +1,18 @@
 {
     "地方": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/05/realtime/33580702.jpg&s=Y&x=890&y=0&sw=2709&sh=1806&exp=3600&w=300",
+            "title": "台南捷運綠線 核心市區段地下化遭質疑",
+            "link": "https://udn.com//news/story/7326/9120674?from=udn-catebreaknews_ch2",
+            "time": "2025-11-06 00:26"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6641_2.jpg&w=300",
+            "title": "嘉義輕軌經費卡關 黃敏惠批中央 王美惠：是卓揆口誤",
+            "link": "https://udn.com//news/story/7326/9120677?from=udn-catebreaknews_ch2",
+            "time": "2025-11-06 00:24"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/05/realtime/33580496.jpg&s=Y&x=468&y=708&sw=1425&sh=950&exp=3600&w=300",
             "title": "今年水域違規新北零開罰 侯友宜：再犯就罰",
             "link": "https://udn.com//news/story/7323/9120521?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2025-11-06 00:20"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6641_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6641_3.jpg&w=300",
             "title": "新北水域管理措施 專家批僵化、學者籲導入智慧警示",
             "link": "https://udn.com//news/story/7323/9120522?from=udn-catebreaknews_ch2",
             "time": "2025-11-06 00:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/06/1/33580879.jpg&s=Y&x=12&y=24&sw=1093&sh=729&exp=3600&w=300",
-            "title": "翡翠水庫擬收發電補償費 台電回應被批挑撥",
-            "link": "https://udn.com//news/story/7323/9120673?from=udn-catebreaknews_ch2",
-            "time": "2025-11-06 00:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/05/realtime/33580503.jpg&s=Y&x=1008&y=376&sw=1653&sh=1102&exp=3600&w=300",
-            "title": "中繼屋周六開放看房！花蓮403震災戶 最快年底有房住",
-            "link": "https://udn.com//news/story/7328/9120524?from=udn-catebreaknews_ch2",
-            "time": "2025-11-06 00:09"
         }
     ]
 }
