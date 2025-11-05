@@ -1,9 +1,15 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/27/realtime/33013275.jpg&s=Y&x=0&y=372&sw=2783&sh=1855&exp=3600&w=300",
+            "title": "奕力財報／第3季EPS 0.62元 季增2117%獲利飆升",
+            "link": "https://udn.com//news/story/7253/9120271?from=udn-catebreaknews_ch2",
+            "time": "2025-11-05 20:17"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/05/realtime/33579847.jpg&s=Y&x=0&y=0&sw=1567&sh=1055&exp=3600&w=300",
             "title": "台股重挫400點、融資餘額飆高 這4檔高股息ETF逆勢收紅",
-            "link": "https://udn.com//news/story/7251/9120255?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/123006/9120255?from=udn-catebreaknews_ch2",
             "time": "2025-11-05 20:07"
         },
         {
@@ -23,12 +29,6 @@
             "title": "旅遊好旺 雄獅前三季EPS 13.31元創新高",
             "link": "https://udn.com//news/story/7252/9119737?from=udn-catebreaknews_ch2",
             "time": "2025-11-05 16:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/26/realtime/31930288.png&s=Y&x=0&y=0&sw=1434&sh=948&exp=3600&w=300",
-            "title": "大立光營收／10月62.61億元、月增0.4% 為近一年來最佳",
-            "link": "https://udn.com//news/story/7253/9119656?from=udn-catebreaknews_ch2",
-            "time": "2025-11-05 16:11"
         }
     ]
 }
