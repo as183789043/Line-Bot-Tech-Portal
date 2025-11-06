@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/06/draft/33583318.jpg&s=Y&x=0&y=0&sw=624&sh=415&exp=3600&w=300",
+            "title": "美國小費文化失控 批評：變相幫企業負擔員工薪水",
+            "link": "https://udn.com//news/story/6897/9121139?from=udn-catebreaknews_ch2",
+            "time": "2025-11-06 13:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/06/0/33584597.jpg&s=Y&x=160&y=108&sw=1117&sh=745&exp=3600&w=300",
+            "title": "破解睡眠迷思 哈佛教授：人不需要每天睡8小時",
+            "link": "https://udn.com//news/story/6841/9121592?from=udn-catebreaknews_ch2",
+            "time": "2025-11-06 12:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/06/0/33584177.jpg&s=Y&x=232&y=0&sw=938&sh=625&exp=3600&w=300",
             "title": "迎接漲價效益！被動元件衝鋒",
             "link": "https://udn.com//news/story/6850/9121499?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "雙利多的封測大飆股",
             "link": "https://udn.com//news/story/6850/9121487?from=udn-catebreaknews_ch2",
             "time": "2025-11-06 11:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/06/0/33584121.jpg&s=Y&x=196&y=0&sw=938&sh=625&exp=3600&w=300",
-            "title": "台積轉單＋3D感測雙引擎啟動：精材",
-            "link": "https://udn.com//news/story/6850/9121483?from=udn-catebreaknews_ch2",
-            "time": "2025-11-06 11:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/06/0/33584109.jpg&s=Y&x=224&y=0&sw=938&sh=625&exp=3600&w=300",
-            "title": "進入漲價週期的ABF龍頭─南電",
-            "link": "https://udn.com//news/story/6850/9121478?from=udn-catebreaknews_ch2",
-            "time": "2025-11-06 11:49"
         }
     ]
 }
