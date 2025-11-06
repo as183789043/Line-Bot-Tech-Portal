@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/06/realtime/33589430.jpg&s=Y&x=150&y=0&sw=1620&sh=1080&exp=3600&w=300",
+            "title": "Taiwan Plus遭爆台灣腔英文禁播報 監院批歧視要求檢討",
+            "link": "https://udn.com//news/story/6656/9123104?from=udn-catebreaknews_ch2",
+            "time": "2025-11-06 22:42"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/06/98/33589289.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "歧視口音？監院指播音排除台灣腔 TaiwanPlus：台籍主播達7成",
             "link": "https://udn.com//news/story/7314/9123030?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "1.6萬替代役115年起學操作無人機 增科技防救災能力",
             "link": "https://udn.com//news/story/10930/9122877?from=udn-catebreaknews_ch2",
             "time": "2025-11-06 21:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/06/98/33588847.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "「追夢事務所」開張 賴總統任街舞評審坦言滿緊張",
-            "link": "https://udn.com//news/story/7314/9122654?from=udn-catebreaknews_ch2",
-            "time": "2025-11-06 20:50"
         }
     ]
 }
