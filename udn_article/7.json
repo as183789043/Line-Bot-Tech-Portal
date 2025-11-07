@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/07/2/33596118.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "股價顯著波動 證交所：玉山金、三商壽違反重大訊息規定各開罰20萬元",
+            "link": "https://udn.com//news/story/7251/9124831?from=udn-catebreaknews_ch2",
+            "time": "2025-11-07 17:08"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/07/realtime/33595859.jpg&s=Y&x=0&y=8&sw=1049&sh=698&exp=3600&w=300",
+            "title": "尖點財報／前三季每股賺1.69元 鑽針新產能明年首季到位",
+            "link": "https://udn.com//news/story/7253/9124759?from=udn-catebreaknews_ch2",
+            "time": "2025-11-07 16:38"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/07/realtime/33595666.jpg&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
             "title": "騰輝財報／前三季 EPS 3.46元 因應泰國蓋新廠擬發債籌資10億元",
             "link": "https://udn.com//news/story/7253/9124681?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "00940「史上最慘高股息」媒體嚇人標題？女子曝真相：看數據不看情緒",
             "link": "https://udn.com//news/story/123006/9124620?from=udn-catebreaknews_ch2",
             "time": "2025-11-07 15:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
-            "title": "三大ODM同步公告10月營收 最強者竟是他",
-            "link": "https://udn.com//news/story/7253/9124618?from=udn-catebreaknews_ch2",
-            "time": "2025-11-07 15:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/07/2/33595509.jpg&s=Y&x=0&y=104&sw=1024&sh=683&exp=3600&w=300",
-            "title": "台股11月首周竟下跌581點 分析師強調要先站穩5日線否則…",
-            "link": "https://udn.com//news/story/7251/9124610?from=udn-catebreaknews_ch2",
-            "time": "2025-11-07 15:41"
         }
     ]
 }
