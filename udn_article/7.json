@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/07/2/33597549.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "祥碩營收／10月11.9億元、月減16.3% 收購Techpoint認列",
+            "link": "https://udn.com//news/story/7253/9125294?from=udn-catebreaknews_ch2",
+            "time": "2025-11-07 21:28"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/07/2/33597433.jpg&s=Y&x=0&y=0&sw=1024&sh=683&exp=3600&w=300",
             "title": "美股電子盤腿軟 台指期夜盤上半場再跌百點",
             "link": "https://udn.com//news/story/7255/9125267?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股大盤失守月線 本周成交市值縮減1.8兆、一周跌2.06％",
             "link": "https://udn.com//news/story/7251/9125135?from=udn-catebreaknews_ch2",
             "time": "2025-11-07 19:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/07/realtime/33597019.jpg&s=Y&x=0&y=42&sw=5712&sh=3808&exp=3600&w=300",
-            "title": "華立財報／前三季EPS 6.28元 半導體材料事業動能強",
-            "link": "https://udn.com//news/story/7253/9125123?from=udn-catebreaknews_ch2",
-            "time": "2025-11-07 19:18"
         }
     ]
 }
