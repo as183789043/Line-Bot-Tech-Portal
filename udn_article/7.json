@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/07/2/33597433.jpg&s=Y&x=0&y=0&sw=1024&sh=683&exp=3600&w=300",
+            "title": "美股電子盤腿軟 台指期夜盤上半場再跌百點",
+            "link": "https://udn.com//news/story/7255/9125267?from=udn-catebreaknews_ch2",
+            "time": "2025-11-07 20:58"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/07/2/33597160.jpg&s=Y&x=0&y=0&sw=1232&sh=821&exp=3600&w=300",
             "title": "台股雜音干擾 法人：不改AI、資本支出及相關正向展望",
             "link": "https://udn.com//news/story/7251/9125161?from=udn-catebreaknews_ch2",
@@ -13,22 +19,16 @@
             "time": "2025-11-07 19:40"
         },
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/07/realtime/33597037.jpg&s=Y&x=0&y=0&sw=5471&sh=3647&exp=3600&w=300",
+            "title": "台股大盤失守月線 本周成交市值縮減1.8兆、一周跌2.06％",
+            "link": "https://udn.com//news/story/7251/9125135?from=udn-catebreaknews_ch2",
+            "time": "2025-11-07 19:24"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/07/realtime/33597019.jpg&s=Y&x=0&y=42&sw=5712&sh=3808&exp=3600&w=300",
             "title": "華立財報／前三季EPS 6.28元 半導體材料事業動能強",
             "link": "https://udn.com//news/story/7253/9125123?from=udn-catebreaknews_ch2",
             "time": "2025-11-07 19:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/07/2/33596996.jpg&s=Y&x=124&y=0&sw=1076&sh=717&exp=3600&w=300",
-            "title": "AI 熱潮延燒千金股 大摩看好這五大潛力王",
-            "link": "https://udn.com//news/story/7251/9125106?from=udn-catebreaknews_ch2",
-            "time": "2025-11-07 19:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/07/realtime/33596857.jpg&s=Y&x=0&y=0&sw=1417&sh=944&exp=3600&w=300",
-            "title": "敦泰法說會／OLED顯示產品 估明年第2、3季可量產",
-            "link": "https://udn.com//news/story/7253/9125075?from=udn-catebreaknews_ch2",
-            "time": "2025-11-07 18:51"
         }
     ]
 }
