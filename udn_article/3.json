@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
+            "title": "美核能新創 泡沫跡象浮現",
+            "link": "https://udn.com//news/story/6811/9126928?from=udn-catebreaknews_ch2",
+            "time": "2025-11-09 04:24"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/03/realtime/33558843.jpg&s=Y&x=0&y=0&sw=1889&sh=1259&exp=3600&w=300",
             "title": "那斯達克周跌3% AI 股慘烈 Meta、甲骨文等受創",
             "link": "https://udn.com//news/story/6811/9127000?from=udn-catebreaknews_ch2",
@@ -14,21 +20,15 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
+            "title": "OpenAI執行長喊話川普政府 奧特曼籲AI基建享投資抵減",
+            "link": "https://udn.com//news/story/6811/9127011?from=udn-catebreaknews_ch2",
+            "time": "2025-11-09 02:53"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
             "title": "亞馬遜低價電商 強襲台港",
             "link": "https://udn.com//news/story/6811/9126994?from=udn-catebreaknews_ch2",
             "time": "2025-11-09 02:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
-            "title": "奧特曼籲美政府 放寬AI投資抵減",
-            "link": "https://udn.com//news/story/6811/9127027?from=udn-catebreaknews_ch2",
-            "time": "2025-11-09 00:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/08/realtime/33603360.jpg&s=Y&x=0&y=14&sw=1061&sh=706&exp=3600&w=300",
-            "title": "川普會匈牙利總理 念念不忘見普亭「俄烏戰爭很快結束」",
-            "link": "https://udn.com//news/story/122663/9126956?from=udn-catebreaknews_ch2",
-            "time": "2025-11-09 00:00"
         }
     ]
 }
