@@ -1,13 +1,25 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_0.jpg&w=300",
+            "title": "新聞眼／國軍人力不足 隱患變危機",
+            "link": "https://udn.com//news/story/10930/9126972?from=udn-catebreaknews_ch2",
+            "time": "2025-11-09 00:19"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/08/realtime/33603369.jpg&s=Y&x=312&y=0&sw=2169&sh=1446&exp=3600&w=300",
+            "title": "美防長：要求美國防部改進軍售交付速度效率",
+            "link": "https://udn.com//news/story/10930/9126977?from=udn-catebreaknews_ch2",
+            "time": "2025-11-09 00:19"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/08/realtime/33603384.jpg&s=Y&x=0&y=14&sw=2021&sh=1346&exp=3600&w=300",
             "title": "鄭麗文：悼白色恐怖受難者 無關吳石",
             "link": "https://udn.com//news/story/6656/9127002?from=udn-catebreaknews_ch2",
             "time": "2025-11-09 00:19"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
             "title": "觀察站／鄭主席黨內先溝通 爭取更多社會共識",
             "link": "https://udn.com//news/story/6656/9127003?from=udn-catebreaknews_ch2",
             "time": "2025-11-09 00:19"
@@ -16,18 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/08/realtime/33603389.jpg&s=Y&x=0&y=0&sw=1133&sh=755&exp=3600&w=300",
             "title": "蕭美琴赴歐IPAC演說 賴總統稱「台歐堅決捍衛民主」陸反彈",
             "link": "https://udn.com//news/story/6656/9127007?from=udn-catebreaknews_ch2",
-            "time": "2025-11-09 00:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
-            "title": "蕭美琴赴歐IPAC演說 副學者：過分誇飾 恐招中共封鎖",
-            "link": "https://udn.com//news/story/6656/9127009?from=udn-catebreaknews_ch2",
-            "time": "2025-11-09 00:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
-            "title": "總預算尚未付委 17年來最晚一次",
-            "link": "https://udn.com//news/story/6656/9127012?from=udn-catebreaknews_ch2",
             "time": "2025-11-09 00:19"
         }
     ]
