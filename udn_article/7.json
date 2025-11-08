@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/08/2/33602754.jpg&s=Y&x=0&y=0&sw=1206&sh=804&exp=3600&w=300",
+            "title": "AI算力引爆電力商機 高盛、大摩看資料中心、散熱產業成長潛力",
+            "link": "https://udn.com//news/story/7251/9126659?from=udn-catebreaknews_ch2",
+            "time": "2025-11-08 18:05"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/08/0/33600888.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "補充保費惹怒存股族！漲健保費、掛號費都比亂課補充保費合理",
             "link": "https://udn.com//news/story/12806/9126126?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "基金長扣 vs.停利 專家教戰",
             "link": "https://udn.com//news/story/10103/9125417?from=udn-catebreaknews_ch2",
             "time": "2025-11-08 00:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
-            "title": "定期定額嚴守四大金律 累積收益",
-            "link": "https://udn.com//news/story/10103/9125418?from=udn-catebreaknews_ch2",
-            "time": "2025-11-08 00:52"
         }
     ]
 }
