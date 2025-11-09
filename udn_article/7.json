@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/09/realtime/33607366.jpg&s=Y&x=0&y=0&sw=5100&sh=3443&exp=3600&w=300",
+            "title": "國內外變動因素高 本周台股2萬7000-2萬8000震盪",
+            "link": "https://udn.com//news/story/7251/9128035?from=udn-catebreaknews_ch2",
+            "time": "2025-11-09 18:39"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/09/2/33606044.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "美國政府關門風險擴大影響…台股周線翻黑 台股本周恐延續弱勢格局",
             "link": "https://udn.com//news/story/7251/9127618?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "「他來台是要更多晶片！」黃仁勳現身台積電運動會、魏哲家一句話掀台股熱議",
             "link": "https://udn.com//news/story/12806/9127324?from=udn-catebreaknews_ch2",
             "time": "2025-11-09 10:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/09/0/33605100.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "陳時中鬆口「補充保費沒轉彎」！2萬門檻太低…恐改門檻再推一次？",
-            "link": "https://udn.com//news/story/12806/9127291?from=udn-catebreaknews_ch2",
-            "time": "2025-11-09 10:21"
         }
     ]
 }
