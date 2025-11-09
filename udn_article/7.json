@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/09/2/33606044.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "美國政府關門風險擴大影響…台股周線翻黑 台股本周恐延續弱勢格局",
+            "link": "https://udn.com//news/story/7251/9127618?from=udn-catebreaknews_ch2",
+            "time": "2025-11-09 13:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/09/0/33605238.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "鈊象（3293）崩跌警報…毛利97％也救不了股價？網喊話：700以下慢慢接",
             "link": "https://udn.com//news/story/12806/9127357?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "陳時中鬆口「補充保費沒轉彎」！2萬門檻太低…恐改門檻再推一次？",
             "link": "https://udn.com//news/story/12806/9127291?from=udn-catebreaknews_ch2",
             "time": "2025-11-09 10:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/08/realtime/33602468.jpg&s=Y&x=0&y=0&sw=5471&sh=3647&exp=3600&w=300",
-            "title": "本周台股／大盤9月以來首破月線 回檔整理現哪些曙光？",
-            "link": "https://udn.com//news/story/7251/9126679?from=udn-catebreaknews_ch2",
-            "time": "2025-11-09 10:00"
         }
     ]
 }
