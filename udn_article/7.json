@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
+            "title": "台積電季配息漲至6元 173萬股東受惠",
+            "link": "https://udn.com//news/story/7251/9133176?from=udn-catebreaknews_ch2",
+            "time": "2025-11-12 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/11/realtime/33622796.jpg&s=Y&x=0&y=42&sw=5712&sh=3808&exp=3600&w=300",
             "title": "榮惠財報／第3季每股賺1.52元 將買庫藏股300張",
             "link": "https://udn.com//news/story/7253/9133161?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "榮惠-KY董事會通過實施庫藏股買回 每股價格介於40至75元間",
             "link": "https://udn.com//news/story/7253/9133048?from=udn-catebreaknews_ch2",
             "time": "2025-11-11 21:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/11/2/33622402.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "美眾院有望投票開門帶動道瓊電子盤翻紅 台指期掃陰霾",
-            "link": "https://udn.com//news/story/7255/9133047?from=udn-catebreaknews_ch2",
-            "time": "2025-11-11 21:05"
         }
     ]
 }

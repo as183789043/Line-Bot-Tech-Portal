@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
+            "title": "嘉義縣長綠初選 蔡易餘、黃榮利再競爭",
+            "link": "https://udn.com//news/story/124652/9133372?from=udn-catebreaknews_ch2",
+            "time": "2025-11-12 00:19"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/11/realtime/33616421.jpg&s=Y&x=0&y=0&sw=4413&sh=2871&exp=3600&w=300",
+            "title": "歷史上的今天／1964年國父誕辰紀念 蔣中正率百官與會",
+            "link": "https://udn.com//news/story/7314/9131065?from=udn-catebreaknews_ch2",
+            "time": "2025-11-12 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/11/realtime/33622561.jpg&s=Y&x=0&y=76&sw=1080&sh=720&exp=3600&w=300",
             "title": "鳳凰颱風影響…陳亭妃原12日登記綠營黨內初選 改由辦公室主任代理",
             "link": "https://udn.com//news/story/124652/9133091?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "國防部：全軍編現比79.2% 預判年底可提升至80%",
             "link": "https://udn.com//news/story/10930/9133073?from=udn-catebreaknews_ch2",
             "time": "2025-11-11 21:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/11/realtime/33622114.jpg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
-            "title": "曝國人網路行為資料受業者宰制 監院批政院不積極、應檢討",
-            "link": "https://udn.com//news/story/7314/9132945?from=udn-catebreaknews_ch2",
-            "time": "2025-11-11 20:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/11/realtime/33622089.jpg&s=Y&x=387&y=0&sw=4818&sh=3213&exp=3600&w=300",
-            "title": "普發現金1萬創造多少效益？林祖嘉估：GDP成長0.2%至0.5%",
-            "link": "https://udn.com//news/story/124539/9132925?from=udn-catebreaknews_ch2",
-            "time": "2025-11-11 20:02"
         }
     ]
 }
