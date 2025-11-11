@@ -1,9 +1,15 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
             "title": "台積電季配息漲至6元 173萬股東受惠",
             "link": "https://udn.com//news/story/7251/9133176?from=udn-catebreaknews_ch2",
+            "time": "2025-11-12 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/11/realtime/33622940.jpg&s=Y&x=0&y=0&sw=1228&sh=815&exp=3600&w=300",
+            "title": "台股熱絡 證交稅收連3紅",
+            "link": "https://udn.com//news/story/7251/9133175?from=udn-catebreaknews_ch2",
             "time": "2025-11-12 00:00"
         },
         {
@@ -23,12 +29,6 @@
             "title": "臻鼎前三季每股純益3.79元 積極布局高階AI應用推升長期成長",
             "link": "https://udn.com//news/story/7253/9133065?from=udn-catebreaknews_ch2",
             "time": "2025-11-11 21:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/11/realtime/33622408.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "榮惠-KY董事會通過實施庫藏股買回 每股價格介於40至75元間",
-            "link": "https://udn.com//news/story/7253/9133048?from=udn-catebreaknews_ch2",
-            "time": "2025-11-11 21:08"
         }
     ]
 }
