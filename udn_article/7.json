@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/13/realtime/33643123.jpg&s=Y&x=0&y=9&sw=1357&sh=904&exp=3600&w=300",
+            "title": "森崴虧121億 總座胡惠森請辭",
+            "link": "https://udn.com//news/story/7252/9138650?from=udn-catebreaknews_ch2",
+            "time": "2025-11-13 23:57"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/13/realtime/33642669.jpg&s=Y&x=0&y=100&sw=3858&sh=2572&exp=3600&w=300",
             "title": "承攬台電離岸風電工程導致鉅額虧損 森崴能源總經理胡惠森請辭",
             "link": "https://udn.com//news/story/7252/9138433?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "下周一起新增21檔股票可當沖交易",
             "link": "https://udn.com//news/story/7251/9138218?from=udn-catebreaknews_ch2",
             "time": "2025-11-13 20:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/13/2/33641750.jpg&s=Y&x=0&y=64&sw=1281&sh=854&exp=3600&w=300",
-            "title": "森崴虧損風暴延燒、高層請辭 正崴集團3家公司14日復牌",
-            "link": "https://udn.com//news/story/7252/9138103?from=udn-catebreaknews_ch2",
-            "time": "2025-11-13 19:05"
         }
     ]
 }
