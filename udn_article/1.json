@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/13/realtime/33642032.jpg&s=Y&x=0&y=0&sw=2048&sh=1366&exp=3600&w=300",
+            "title": "健康外交展現軟實力 台北榮總攜友邦克國深化雙方醫療合作",
+            "link": "https://udn.com//news/story/7314/9138219?from=udn-catebreaknews_ch2",
+            "time": "2025-11-13 20:19"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/13/realtime/33641753.jpg&s=Y&x=0&y=0&sw=2650&sh=1767&exp=3600&w=300",
+            "title": "詐欺犯罪防治條例修正 桃園副市長蘇俊賓：加強平台管理",
+            "link": "https://udn.com//news/story/6656/9138124?from=udn-catebreaknews_ch2",
+            "time": "2025-11-13 19:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/13/98/33641585.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "「挑戰張善政不簡單」桃園市長選戰怎安排 許信良揭決戰關鍵",
             "link": "https://udn.com//news/story/124652/9138063?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "政院修正防詐條例 葛如鈞憂「金融戒嚴」會更加擾民",
             "link": "https://udn.com//news/story/6656/9138095?from=udn-catebreaknews_ch2",
             "time": "2025-11-13 19:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/13/realtime/33641586.jpeg&s=Y&x=0&y=0&sw=4000&sh=2666&exp=3600&w=300",
-            "title": "G7外長會議發聯合聲明 賴總統：維護台海和平已是國際共識",
-            "link": "https://udn.com//news/story/6656/9138091?from=udn-catebreaknews_ch2",
-            "time": "2025-11-13 19:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/13/realtime/33641526.jpg&s=Y&x=0&y=0&sw=3653&sh=2435&exp=3600&w=300",
-            "title": "國民黨副主席張榮恭將赴陸與會影展 牛煦庭：接任前已敲定",
-            "link": "https://udn.com//news/story/6656/9138071?from=udn-catebreaknews_ch2",
-            "time": "2025-11-13 18:53"
         }
     ]
 }
