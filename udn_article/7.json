@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
+            "title": "雲豹能源決自14日起買回3000張庫藏股 買回上限達48.25億元",
+            "link": "https://udn.com//news/story/7251/9140820?from=udn-catebreaknews_ch2",
+            "time": "2025-11-14 23:25"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/14/2/33652935.jpg&s=Y&x=0&y=0&sw=1216&sh=811&exp=3600&w=300",
             "title": "降息恐遭按暫停鍵 台指期夜盤上半場大跌逾300點",
             "link": "https://udn.com//news/story/7255/9140583?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "保瑞董座盛保熙：明年持續尋找併購標的 美國需要更多廠",
             "link": "https://udn.com//news/story/7252/9140398?from=udn-catebreaknews_ch2",
             "time": "2025-11-14 18:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/14/98/33651650.jpg&s=Y&x=0&y=0&sw=1024&sh=683&exp=3600&w=300",
-            "title": "台股本週跌253點 上市公司總市值未能站回90兆元",
-            "link": "https://udn.com//news/story/7251/9140305?from=udn-catebreaknews_ch2",
-            "time": "2025-11-14 18:09"
         }
     ]
 }
