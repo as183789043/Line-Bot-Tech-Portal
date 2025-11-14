@@ -1,6 +1,12 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/15/98/33654858.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "瑞典首都驚傳公車衝撞行人事件 造成多人死傷",
+            "link": "https://udn.com//news/story/6809/9140961?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-11-15 02:08"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/15/realtime/33654421.jpg&s=Y&x=0&y=0&sw=4943&sh=3295&exp=3600&w=300",
             "title": "Super Junior 首登大巨蛋開唱！台北金豬食堂又包場  網嗨：SJ要來了",
             "link": "https://udn.com//news/story/7270/9140941?from=udn-ch1_breaknews-1-0-news",
@@ -23,12 +29,6 @@
             "title": "中日衝突升溫！大陸外交部突發「暫勿前往日本」通告",
             "link": "https://udn.com//news/story/7331/9140892?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-11-14 23:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/14/realtime/33654045.jpg&s=Y&x=150&y=0&sw=1620&sh=1080&exp=3600&w=300",
-            "title": "年輕人偏好雞肉牛肉使豬肉市場萎縮？ 新竹肉品市場：將化危機成轉機",
-            "link": "https://udn.com//news/story/7324/9140890?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-11-14 23:58"
         }
     ]
 }
