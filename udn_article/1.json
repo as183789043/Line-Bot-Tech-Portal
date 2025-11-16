@@ -1,7 +1,19 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/17/realtime/33672926.png&s=Y&x=69&y=0&sw=741&sh=495&exp=3600&w=300",
+            "title": "【專家之眼】2,350億元的煙火秀：激情幻滅後的財政隱憂",
+            "link": "https://udn.com//news/story/6656/9143724?from=udn-catebreaknews_ch2",
+            "time": "2025-11-17 05:58"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/17/realtime/33672170.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "【總編開箱】撒錢設兒少專責單位 解決「台灣病」挑戰仍大",
+            "link": "https://udn.com//news/story/124657/9143683?from=udn-catebreaknews_ch2",
+            "time": "2025-11-17 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_1.jpg&w=300",
             "title": "醫界樂見：時機慢了 但比不做好",
             "link": "https://udn.com//news/story/124657/9143604?from=udn-catebreaknews_ch2",
             "time": "2025-11-17 02:20"
@@ -17,18 +29,6 @@
             "title": "DeepSeek攻占非洲、拉美 但美、歐多國下架或禁用",
             "link": "https://udn.com//news/story/6656/9143664?from=udn-catebreaknews_ch2",
             "time": "2025-11-17 01:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/16/realtime/33671947.jpg&s=Y&x=0&y=14&sw=1893&sh=1262&exp=3600&w=300",
-            "title": "兒少及家庭支持署幕後推手 呂鴻基：沒有兒童就沒有國家",
-            "link": "https://udn.com//news/story/124657/9143601?from=udn-catebreaknews_ch2",
-            "time": "2025-11-17 01:38"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/17/1/33672244.jpg&s=Y&x=0&y=84&sw=1279&sh=853&exp=3600&w=300",
-            "title": "在野酸國安局認知作戰：AI都要主張台獨？",
-            "link": "https://udn.com//news/story/6656/9143663?from=udn-catebreaknews_ch2",
-            "time": "2025-11-17 01:36"
         }
     ]
 }
