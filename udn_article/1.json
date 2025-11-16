@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/16/realtime/33671417.jpg&s=Y&x=0&y=24&sw=3621&sh=2414&exp=3600&w=300",
+            "title": "彰化縣長選舉升溫 藍綠營參選人動作加大爭取出線",
+            "link": "https://udn.com//news/story/124652/9143240?from=udn-catebreaknews_ch2",
+            "time": "2025-11-16 19:42"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/16/realtime/33671057.jpg&s=Y&x=0&y=30&sw=4080&sh=2720&exp=3600&w=300",
             "title": "黃國昌稱基隆是地方聯合治理示範 綠營：是利益交換結果",
             "link": "https://udn.com//news/story/6656/9143165?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "翻轉彰化低薪困局 彰化市長林世賢宣布爭取民進黨提名選縣長",
             "link": "https://udn.com//news/story/124652/9143110?from=udn-catebreaknews_ch2",
             "time": "2025-11-16 17:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/16/realtime/33670775.jpeg&s=Y&x=0&y=0&sw=4000&sh=2666&exp=3600&w=300",
-            "title": "優化兒童醫療照顧 賴清德宣布衛福部增設「兒童及家庭署」",
-            "link": "https://udn.com//news/story/7314/9143074?from=udn-catebreaknews_ch2",
-            "time": "2025-11-16 16:36"
         }
     ]
 }
