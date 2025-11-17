@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/17/98/33679659.jpg&s=Y&x=0&y=64&sw=1280&sh=853&exp=3600&w=300",
+            "title": "證交所：高福撤回申請股票上市案",
+            "link": "https://udn.com//news/story/7254/9145403?from=udn-catebreaknews_ch2",
+            "time": "2025-11-17 19:46"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/17/98/33680473.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "外資連6賣！上周賣超981億元 砍長榮航7.6萬張排第一",
+            "link": "https://udn.com//news/story/7251/9145268?from=udn-catebreaknews_ch2",
+            "time": "2025-11-17 19:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/17/realtime/33164732.png&s=Y&x=116&y=0&sw=1224&sh=816&exp=3600&w=300",
             "title": "矽光子紅通通 華星光、波若威大漲原來是這原因",
             "link": "https://udn.com//news/story/7253/9145301?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "10檔海內外股票ETF雙優 績效、人數雙成長",
             "link": "https://udn.com//news/story/123006/9145122?from=udn-catebreaknews_ch2",
             "time": "2025-11-17 17:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
-            "title": "上櫃公司2025年前三季營收持續成長 近六成七公司獲利…這家獲利最高",
-            "link": "https://udn.com//news/story/7254/9145068?from=udn-catebreaknews_ch2",
-            "time": "2025-11-17 16:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/17/0/33678314.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "通膨非經濟問題而是「分配問題」？錢沒變少：是該怎麼讓錢流向你",
-            "link": "https://udn.com//news/story/7251/9144933?from=udn-catebreaknews_ch2",
-            "time": "2025-11-17 15:57"
         }
     ]
 }
