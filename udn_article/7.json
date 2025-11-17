@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/17/realtime/33682018.jpg&s=Y&x=82&y=0&sw=1725&sh=1151&exp=3600&w=300",
+            "title": "0050受益人接近200萬人次大關 定期定額族比重近3成",
+            "link": "https://udn.com//news/story/123006/9145675?from=udn-catebreaknews_ch2",
+            "time": "2025-11-17 22:40"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/17/98/33681553.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "外資終結連11賣回補73億元 敲進南亞1.9萬張",
             "link": "https://udn.com//news/story/7251/9145309?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "證交所：高福撤回申請股票上市案",
             "link": "https://udn.com//news/story/7254/9145403?from=udn-catebreaknews_ch2",
             "time": "2025-11-17 19:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/17/98/33680473.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "外資連6賣！上周賣超981億元 砍長榮航7.6萬張排第一",
-            "link": "https://udn.com//news/story/7251/9145268?from=udn-catebreaknews_ch2",
-            "time": "2025-11-17 19:20"
         }
     ]
 }
