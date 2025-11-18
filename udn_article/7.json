@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/05/23/98/32105630.jpg&s=Y&x=80&y=0&sw=1080&sh=720&exp=3600&w=300",
+            "title": "興櫃股王轉上市申購現賺88萬元 改寫台股歷史「三高」新標竿",
+            "link": "https://udn.com//news/story/7254/9147897?from=udn-catebreaknews_ch2",
+            "time": "2025-11-18 19:16"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/18/realtime/33695777.jpg&s=Y&x=0&y=39&sw=5474&sh=3648&exp=3600&w=300",
             "title": "天下武功唯快不破 群益預估2026年台股挑戰3萬4、低點落這",
             "link": "https://udn.com//news/story/7251/9147836?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "外資賣超485億元…大拋0050 買超這檔記憶體代工居冠",
             "link": "https://udn.com//news/story/7251/9147618?from=udn-catebreaknews_ch2",
             "time": "2025-11-18 17:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/16/2/33375264.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "大摩示警DDR4被低估！台廠迎補漲行情 4檔目標價全面調升",
-            "link": "https://udn.com//news/story/7253/9147446?from=udn-catebreaknews_ch2",
-            "time": "2025-11-18 16:08"
         }
     ]
 }
