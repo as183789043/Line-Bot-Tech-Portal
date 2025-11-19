@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/19/0/33706897.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "美股版0050大戰…科技濃度爆表！棒棒：009813規模追過上市更早的009811",
+            "link": "https://udn.com//news/story/123006/9149554?from=udn-catebreaknews_ch2",
+            "time": "2025-11-19 14:12"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/19/2/33706749.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股收盤下跌176點收26,580點 台積電下跌10元失守1,400",
+            "link": "https://udn.com//news/story/7251/9149559?from=udn-catebreaknews_ch2",
+            "time": "2025-11-19 13:56"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/19/2/33706767.jpg&s=Y&x=0&y=0&sw=627&sh=418&exp=3600&w=300",
+            "title": "台積電最後一盤爆4,122張賣單失1,400元 收1,395元市值36.17兆",
+            "link": "https://udn.com//news/story/7251/9149527?from=udn-catebreaknews_ch2",
+            "time": "2025-11-19 13:45"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/19/0/33706419.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "FED暗藏「隱形降息」＋QT提前終止！美債大轉折來了？00959B受惠度拉滿",
             "link": "https://udn.com//news/story/123006/9149415?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "台股連跌外資大賣 莊翠雲：國安基金規模5千億足支應",
             "link": "https://udn.com//news/story/7251/9149376?from=udn-catebreaknews_ch2",
             "time": "2025-11-19 12:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
-            "title": "台積電甜甜價來了嗎？上演1,400元保衛戰之下法人這麼看…",
-            "link": "https://udn.com//news/story/7253/9149288?from=udn-catebreaknews_ch2",
-            "time": "2025-11-19 12:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/19/realtime/33706029.jpg&s=Y&x=0&y=7&sw=1049&sh=698&exp=3600&w=300",
-            "title": "半導體 AI 測試 SLT 設備供不應求 致茂獲得法人青睞逆勢走高",
-            "link": "https://udn.com//news/story/7253/9149292?from=udn-catebreaknews_ch2",
-            "time": "2025-11-19 12:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
-            "title": "三大助力曝光！來億領跑 製鞋族群動起來",
-            "link": "https://udn.com//news/story/7252/9149263?from=udn-catebreaknews_ch2",
-            "time": "2025-11-19 12:08"
         }
     ]
 }
