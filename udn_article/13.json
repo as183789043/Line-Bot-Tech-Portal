@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/31/0/33541167.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "輝達財報太瘋狂 營收創新高 盤後股價漲6%！黃仁勳：雲端GPU賣光 Blackwell業績爆表",
+            "link": "https://udn.com//news/story/6839/9151457?from=udn-catebreaknews_ch2",
+            "time": "2025-11-20 11:04"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/19/draft/33705979.jpg&s=Y&x=94&y=0&sw=706&sh=471&exp=3600&w=300",
             "title": "AI伺服器大廠法說會釋樂觀訊號 為何喜憂參半？輝達擬調代工模式 供應鏈面臨2天險",
             "link": "https://udn.com//news/story/6839/9149272?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "解鎖AI新台鏈！電子五哥、環球晶⋯砸3千億進駐德州金三角 最完整製造聚落",
             "link": "https://udn.com//news/story/6839/9149211?from=udn-catebreaknews_ch2",
             "time": "2025-11-19 13:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/19/draft/33705413.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "無人載具標案上看千億元",
-            "link": "https://udn.com//news/story/6851/9149114?from=udn-catebreaknews_ch2",
-            "time": "2025-11-19 13:30"
         }
     ]
 }
