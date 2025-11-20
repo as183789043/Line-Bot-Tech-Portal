@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/19/2/33706735.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "台股逾千億套牢賣壓蠢動 金管會喊「基本面穩健」全網酸爆",
+            "link": "https://udn.com//news/story/12806/9149895?from=udn-catebreaknews_ch2",
+            "time": "2025-11-20 15:01"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/19/2/33703993.jpg&s=Y&x=0&y=0&sw=1274&sh=849&exp=3600&w=300",
+            "title": "台股漲846點創單日第2大漲點 AI族群強勢",
+            "link": "https://udn.com//news/story/7251/9152161?from=udn-catebreaknews_ch2",
+            "time": "2025-11-20 14:44"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/12/2/33125257.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "台指期大漲逾800點 台積電期勁揚收1460元、上漲60元",
             "link": "https://udn.com//news/story/7255/9152058?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "輝達財報給力！電子權值紅通通 台股大漲846點收27,426點",
             "link": "https://udn.com//news/story/7251/9152008?from=udn-catebreaknews_ch2",
             "time": "2025-11-20 13:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/16/realtime/33671370.jpg&s=Y&x=0&y=27&sw=4091&sh=2726&exp=3600&w=300",
-            "title": "台股強彈逾800點 大摩卻因「這原因」喊減碼 末升段到了？",
-            "link": "https://udn.com//news/story/7251/9151967?from=udn-catebreaknews_ch2",
-            "time": "2025-11-20 13:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/20/realtime/33715845.jpg&s=Y&x=0&y=42&sw=5712&sh=3808&exp=3600&w=300",
-            "title": "華碩「小金雞」台智雲規劃2026年第2季興櫃 揮軍日本、越南、中東市場",
-            "link": "https://udn.com//news/story/7253/9151831?from=udn-catebreaknews_ch2",
-            "time": "2025-11-20 12:56"
         }
     ]
 }
