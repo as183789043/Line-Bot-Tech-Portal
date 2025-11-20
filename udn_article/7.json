@@ -1,10 +1,22 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/20/98/33720569.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "輝達財報助攻！台股大漲846點 法人：AI題材加持看好動能",
+            "link": "https://udn.com//news/story/7251/9152944?from=udn-catebreaknews_ch2",
+            "time": "2025-11-20 19:59"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/20/realtime/33720231.jpg&s=Y&x=0&y=124&sw=1477&sh=985&exp=3600&w=300",
             "title": "不經營商場了 大魯閣將處分台中新時代購物中心、新竹湳雅廣場",
             "link": "https://udn.com//news/story/7252/9152874?from=udn-catebreaknews_ch2",
             "time": "2025-11-20 19:14"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/20/2/33720250.jpg&s=Y&x=0&y=272&sw=1108&sh=739&exp=3600&w=300",
+            "title": "無縫接軌！大魯閣釋出兩商場最快Q4入帳 遠雄睽違10年重啟商場布局",
+            "link": "https://udn.com//news/story/7252/9152784?from=udn-catebreaknews_ch2",
+            "time": "2025-11-20 18:33"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/20/realtime/33719633.jpg&s=Y&x=0&y=0&sw=3608&sh=2401&exp=3600&w=300",
@@ -17,18 +29,6 @@
             "title": "大魯閣10億出手2商場 遠雄將接手台中新時代購物中心、新竹湳雅廣場",
             "link": "https://udn.com//news/story/7252/9152664?from=udn-catebreaknews_ch2",
             "time": "2025-11-20 17:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/20/2/33719085.jpg&s=Y&x=128&y=0&sw=1106&sh=737&exp=3600&w=300",
-            "title": "輝達消除AI烏雲！0050規模站上9,000億元 兆元大關蓄勢待發",
-            "link": "https://udn.com//news/story/123006/9152564?from=udn-catebreaknews_ch2",
-            "time": "2025-11-20 17:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/20/2/33719088.jpg&s=Y&x=0&y=0&sw=1259&sh=839&exp=3600&w=300",
-            "title": "台股大漲846點外資僅買超131億元 買賣超冠軍竟「都是金融股」",
-            "link": "https://udn.com//news/story/7251/9152555?from=udn-catebreaknews_ch2",
-            "time": "2025-11-20 17:07"
         }
     ]
 }
