@@ -1,6 +1,12 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/21/98/33724542.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "凌晨3：43雲林縣古坑規模4.3地震 最大震度4級",
+            "link": "https://udn.com//news/story/7266/9153541?from=udn-catebreaknews_ch2",
+            "time": "2025-11-21 04:19"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/21/realtime/33722923.jpg&s=Y&x=0&y=46&sw=3382&sh=2254&exp=3600&w=300",
             "title": "冠心病、糖友腎病變 AI判讀準度高",
             "link": "https://udn.com//news/story/7266/9153464?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "健康主題館／長時間戴耳機 恐增聽損風險",
             "link": "https://udn.com//news/story/7266/9153470?from=udn-catebreaknews_ch2",
             "time": "2025-11-21 00:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/21/realtime/33722959.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "暖身加收操 避免天冷運動傷害",
-            "link": "https://udn.com//news/story/7266/9153471?from=udn-catebreaknews_ch2",
-            "time": "2025-11-21 00:38"
         }
     ]
 }
