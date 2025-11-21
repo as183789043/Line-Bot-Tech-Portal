@@ -1,8 +1,26 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/21/realtime/33730520.jpg&s=Y&x=133&y=0&sw=1440&sh=960&exp=3600&w=300",
+            "title": "張嘉郡表態爭取提名接棒縣長 張麗善說話了",
+            "link": "https://udn.com//news/story/124652/9154557?from=udn-catebreaknews_ch2",
+            "time": "2025-11-21 14:23"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/21/realtime/33730454.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "雲林縣長張麗善任期屆滿誰接棒 張嘉郡今鬆口爭取國民黨提名",
+            "link": "https://udn.com//news/story/124652/9154538?from=udn-catebreaknews_ch2",
+            "time": "2025-11-21 14:17"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/21/realtime/33730117.jpg&s=Y&x=0&y=0&sw=5521&sh=3601&exp=3600&w=300",
+            "title": "影／台股重挫近千點 賴清德總統：馬英九政權移轉時僅8000點",
+            "link": "https://udn.com//news/story/6656/9154428?from=udn-catebreaknews_ch2",
+            "time": "2025-11-21 13:47"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/21/realtime/33729750.jpg&s=Y&x=133&y=0&sw=1440&sh=960&exp=3600&w=300",
-            "title": "影／賴清德雲林贈匾談經濟 馬時代台股8000點...現在最高28000點",
+            "title": "影／賴清德總統雲林贈匾談經濟 馬時代台股8000點...現在最高28000點",
             "link": "https://udn.com//news/story/6656/9154326?from=udn-catebreaknews_ch2",
             "time": "2025-11-21 13:09"
         },
@@ -11,24 +29,6 @@
             "title": "俞大㵢「國防花多少錢不是問題」 馬文君：恐向美傳遞錯誤訊息",
             "link": "https://udn.com//news/story/10930/9154322?from=udn-catebreaknews_ch2",
             "time": "2025-11-21 13:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/20/realtime/33716369.jpg&s=Y&x=0&y=0&sw=4584&sh=3114&exp=3600&w=300",
-            "title": "桑默斯形象崩壞 反揭知識菁英背後「倫理裂縫」暗黑面",
-            "link": "https://udn.com//news/story/6656/9152009?from=udn-catebreaknews_ch2",
-            "time": "2025-11-21 13:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/21/realtime/33729289.png&s=Y&x=0&y=5&sw=800&sh=532&exp=3600&w=300",
-            "title": "財劃法大戰 李四川喊話傾聽縣市意見 卓揆籲快審政院版",
-            "link": "https://udn.com//news/story/7314/9154260?from=udn-catebreaknews_ch2",
-            "time": "2025-11-21 12:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/21/realtime/33729212.jpg&s=Y&x=0&y=42&sw=5712&sh=3808&exp=3600&w=300",
-            "title": "竹市普發5000行政費高達7500萬 議員劉崇顯批浮編預算",
-            "link": "https://udn.com//news/story/6656/9154233?from=udn-catebreaknews_ch2",
-            "time": "2025-11-21 12:11"
         }
     ]
 }
