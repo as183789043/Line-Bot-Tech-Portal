@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/21/realtime/33722795.jpg&s=Y&x=87&y=0&sw=2550&sh=1700&exp=3600&w=300",
+            "title": "聯合報一周大事 11/16~11/22",
+            "link": "https://udn.com//news/story/7314/9157161?from=udn-catebreaknews_ch2",
+            "time": "2025-11-23 03:49"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/23/1/33746840.jpg&s=Y&x=308&y=0&sw=973&sh=649&exp=3600&w=300",
             "title": "新聞眼／綠營端出財劃法 玩離間計製造更多紛擾",
             "link": "https://udn.com//news/story/124401/9157160?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "政院版財劃法出爐 藍營陷兩難…擬採拖字訣",
             "link": "https://udn.com//news/story/124401/9157157?from=udn-catebreaknews_ch2",
             "time": "2025-11-23 01:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_0.jpg&w=300",
-            "title": "新聞眼／輝達王牌在手 藍白協調不能再拖",
-            "link": "https://udn.com//news/story/124652/9157089?from=udn-catebreaknews_ch2",
-            "time": "2025-11-23 00:23"
         }
     ]
 }
