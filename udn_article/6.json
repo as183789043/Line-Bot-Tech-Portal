@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/22/98/33741894.jpg&s=Y&x=28&y=56&sw=1252&sh=835&exp=3600&w=300",
+            "title": "鴻海：打造AI智慧製造生態系 攻AI機器人解決方案",
+            "link": "https://udn.com//news/story/7240/9156203?from=udn-catebreaknews_ch2",
+            "time": "2025-11-22 12:16"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/22/98/33741538.jpg&s=Y&x=36&y=4&sw=1244&sh=829&exp=3600&w=300",
+            "title": "鴻海科技日開放民眾參觀 人形機器人應用成焦點",
+            "link": "https://udn.com//news/story/7240/9156111?from=udn-catebreaknews_ch2",
+            "time": "2025-11-22 11:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/22/realtime/33741222.jpg&s=Y&x=0&y=31&sw=4591&sh=3060&exp=3600&w=300",
             "title": "影／與新壽完成解約 蔣萬安：最快農曆年前與輝達簽約",
             "link": "https://udn.com//news/story/7238/9156074?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "晶片戰爭作者：台灣想確保優勢 AI技術堆疊至關重要",
             "link": "https://udn.com//news/story/7240/9155947?from=udn-catebreaknews_ch2",
             "time": "2025-11-22 09:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/21/realtime/33728118.jpg&s=Y&x=0&y=18&sw=2730&sh=1820&exp=3600&w=300",
-            "title": "金融業AI防詐「變聰明但更多疑」 現階段仍需人工保母",
-            "link": "https://udn.com//news/story/7238/9154022?from=udn-catebreaknews_ch2",
-            "time": "2025-11-22 09:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/22/98/33740349.jpg&s=Y&x=28&y=0&sw=1248&sh=832&exp=3600&w=300",
-            "title": "防堵駭客挾持衛星 資策會築「太空級資安防火牆」",
-            "link": "https://udn.com//news/story/7240/9155915?from=udn-catebreaknews_ch2",
-            "time": "2025-11-22 09:02"
         }
     ]
 }
