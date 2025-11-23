@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/22/realtime/33743781.jpg&s=Y&x=0&y=0&sw=5471&sh=3647&exp=3600&w=300",
+            "title": "輝達救世神話破功？台股周線連三黑 所幸上周五美股四大指數全數收紅",
+            "link": "https://udn.com//news/story/7251/9157672?from=udn-catebreaknews_ch2",
+            "time": "2025-11-23 13:07"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/23/0/33750801.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "大盤震盪到失真…台股開盤是否該直接停損？網神回覆：你賣才會漲",
+            "link": "https://udn.com//news/story/12806/9157606?from=udn-catebreaknews_ch2",
+            "time": "2025-11-23 12:36"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/23/0/33750739.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "穩起來…大摩將台積電（2330）目標價開到1688元！網酸：一路拜拜",
             "link": "https://udn.com//news/story/12806/9157598?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "美股收漲 法人：美利率政策與AI股表現牽動台股後市",
             "link": "https://udn.com//news/story/7251/9157545?from=udn-catebreaknews_ch2",
             "time": "2025-11-23 12:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/23/0/33750630.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "輝達內部會議大吐苦水…黃仁勳喊「怎麼做都不對」！網：壓力真的大",
-            "link": "https://udn.com//news/story/12806/9157572?from=udn-catebreaknews_ch2",
-            "time": "2025-11-23 12:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/22/realtime/33743781.jpg&s=Y&x=0&y=0&sw=5471&sh=3647&exp=3600&w=300",
-            "title": "本周台股／聯準會降息升溫 美股反彈台股有望？",
-            "link": "https://udn.com//news/story/7251/9156759?from=udn-catebreaknews_ch2",
-            "time": "2025-11-23 10:00"
         }
     ]
 }
