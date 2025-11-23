@@ -1,13 +1,19 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/22/realtime/33743781.jpg&s=Y&x=0&y=0&sw=5471&sh=3647&exp=3600&w=300",
+            "title": "本周台股／聯準會降息升溫 美股反彈台股有望？",
+            "link": "https://udn.com//news/story/7251/9156759?from=udn-catebreaknews_ch2",
+            "time": "2025-11-23 10:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
             "title": "投顧觀點／富邦陶治瑋：選散熱、紡織",
             "link": "https://udn.com//news/story/7251/9157053?from=udn-catebreaknews_ch2",
             "time": "2025-11-23 04:29"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
             "title": "投顧觀點／中信陳豊丰：盤勢未反轉",
             "link": "https://udn.com//news/story/7251/9157051?from=udn-catebreaknews_ch2",
             "time": "2025-11-23 04:29"
@@ -23,12 +29,6 @@
             "title": "信驊業績發表將談新品 說明相關市場需求及營運展望",
             "link": "https://udn.com//news/story/7254/9157010?from=udn-catebreaknews_ch2",
             "time": "2025-11-23 00:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/24/2/33209091.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "金融法說周聚焦五看點 法人關注股利、匯率等議題",
-            "link": "https://udn.com//news/story/7251/9157014?from=udn-catebreaknews_ch2",
-            "time": "2025-11-23 00:45"
         }
     ]
 }
