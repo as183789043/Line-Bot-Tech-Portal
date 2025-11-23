@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/23/realtime/33752192.jpg&s=Y&x=0&y=0&sw=5471&sh=3647&exp=3600&w=300",
+            "title": "台股後市 法人：股市短線清理浮額有益長線AI仍是產業亮點",
+            "link": "https://udn.com//news/story/7251/9157880?from=udn-catebreaknews_ch2",
+            "time": "2025-11-23 16:08"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/22/realtime/33743781.jpg&s=Y&x=0&y=0&sw=5471&sh=3647&exp=3600&w=300",
             "title": "輝達救世神話破功？台股周線連三黑 所幸上周五美股四大指數全數收紅",
             "link": "https://udn.com//news/story/7251/9157672?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "周冠男：0050、006208一次All in勝率較高？定期定額只是心理工具！",
             "link": "https://udn.com//news/story/123006/9157589?from=udn-catebreaknews_ch2",
             "time": "2025-11-23 12:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/21/realtime/33732760.jpg&s=Y&x=0&y=0&sw=5023&sh=3349&exp=3600&w=300",
-            "title": "美股收漲 法人：美利率政策與AI股表現牽動台股後市",
-            "link": "https://udn.com//news/story/7251/9157545?from=udn-catebreaknews_ch2",
-            "time": "2025-11-23 12:14"
         }
     ]
 }
