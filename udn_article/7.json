@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/19/2/33709753.jpg&s=Y&x=0&y=64&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股違約交割示警 「買賣相抵」2,455萬元 創歷史第九高紀錄",
+            "link": "https://udn.com//news/story/7251/9160330?from=udn-catebreaknews_ch2",
+            "time": "2025-11-24 21:25"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/24/2/33759380.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "富邦金法說會／總座韓蔚廷樂觀看明年經濟動能 但提「一變數」需留意",
             "link": "https://udn.com//news/story/7252/9160149?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "外資賣超299億...這檔晶圓代工被賣最多 台積電、鴻海、富邦金齊遭大賣",
             "link": "https://udn.com//news/story/7251/9159929?from=udn-catebreaknews_ch2",
             "time": "2025-11-24 17:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/24/realtime/33762653.jpg&s=Y&x=0&y=0&sw=1500&sh=1000&exp=3600&w=300",
-            "title": "富邦金法說：前9月稅後淨利 每股盈餘居金控業之冠",
-            "link": "https://udn.com//news/story/7252/9159792?from=udn-catebreaknews_ch2",
-            "time": "2025-11-24 16:14"
         }
     ]
 }
