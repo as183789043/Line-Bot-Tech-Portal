@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/21/2/33735464.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "費半大漲 台積電最高上漲50元 台股一度大漲613點 法人：需站回季線",
+            "link": "https://udn.com//news/story/7251/9161542?from=udn-catebreaknews_ch2",
+            "time": "2025-11-25 12:44"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/19/2/33710286.jpg&s=Y&x=0&y=80&sw=1280&sh=853&exp=3600&w=300",
             "title": "美系外資目標價喊上4,000元 鴻勁掛牌前飆天價 中籤者賣不賣好為難？",
             "link": "https://udn.com//news/story/7253/9161433?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "家人勸買房⋯他想200全買ETF！保守派曝風險：配息不穩、股災害夢想更遠",
             "link": "https://udn.com//news/story/123006/9159823?from=udn-catebreaknews_ch2",
             "time": "2025-11-25 11:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/25/realtime/33771442.png&s=Y&x=0&y=0&sw=1536&sh=1024&exp=3600&w=300",
-            "title": "ETF資金流向震盪、降息前景引市場關注 比特幣跌破8.5萬美元　",
-            "link": "https://udn.com//news/story/123006/9161262?from=udn-catebreaknews_ch2",
-            "time": "2025-11-25 11:13"
         }
     ]
 }
