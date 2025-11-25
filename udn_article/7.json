@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/25/2/33214953.jpg&s=Y&x=80&y=152&sw=1182&sh=788&exp=3600&w=300",
+            "title": "兆豐金法說會／總座：股利以現金為主 與近年發放率75%相當",
+            "link": "https://udn.com//news/story/7252/9162215?from=udn-catebreaknews_ch2",
+            "time": "2025-11-25 16:52"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/10/realtime/32871516.png&s=Y&x=256&y=0&sw=2304&sh=1536&exp=3600&w=300",
+            "title": "「小台積」ETF 0052 26日恢復交易 受益人暴增4萬人、入手價不用4萬元",
+            "link": "https://udn.com//news/story/123006/9162141?from=udn-catebreaknews_ch2",
+            "time": "2025-11-25 16:29"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/25/realtime/33775122.jpg&s=Y&x=315&y=0&sw=3402&sh=2268&exp=3600&w=300",
             "title": "MSCI題材難敵賣壓 東元修正不止…跌破90元關卡",
             "link": "https://udn.com//news/story/7252/9162126?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台股大漲407點 台積電領軍這9檔 AI 股貢獻大盤逾400點",
             "link": "https://udn.com//news/story/7251/9161891?from=udn-catebreaknews_ch2",
             "time": "2025-11-25 14:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/23/0/33750801.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "記憶體缺貨南亞科、華邦電受惠...但電腦廠要完？專家：若真缺貨到2027不樂觀",
-            "link": "https://udn.com//news/story/7251/9161827?from=udn-catebreaknews_ch2",
-            "time": "2025-11-25 14:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/26/2/33224220.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "中鋼（2002）跌到十年新低…股東人數反創高！股民兩派激辯：春燕還會回來嗎？",
-            "link": "https://udn.com//news/story/12806/9161840?from=udn-catebreaknews_ch2",
-            "time": "2025-11-25 14:34"
         }
     ]
 }
