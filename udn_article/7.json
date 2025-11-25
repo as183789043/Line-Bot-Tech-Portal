@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/16/realtime/31099431.jpg&s=Y&x=0&y=0&sw=5255&sh=3524&exp=3600&w=300",
+            "title": "00940預估每單位配發升至0.045元 單月配息率0.49%、年化配息率約5.9%",
+            "link": "https://udn.com//news/story/123006/9162364?from=udn-catebreaknews_ch2",
+            "time": "2025-11-25 17:55"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/25/realtime/33775863.jpg&s=Y&x=0&y=0&sw=1585&sh=1033&exp=3600&w=300",
+            "title": "AI效應發威！前三季上市櫃公司營收、上市獲利 雙創十年來新高、次高",
+            "link": "https://udn.com//news/story/7251/9162279?from=udn-catebreaknews_ch2",
+            "time": "2025-11-25 17:27"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/25/2/33214953.jpg&s=Y&x=80&y=152&sw=1182&sh=788&exp=3600&w=300",
             "title": "兆豐金法說會／總座：股利以現金為主 與近年發放率75%相當",
             "link": "https://udn.com//news/story/7252/9162215?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "MSCI題材難敵賣壓 東元修正不止…跌破90元關卡",
             "link": "https://udn.com//news/story/7252/9162126?from=udn-catebreaknews_ch2",
             "time": "2025-11-25 16:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/25/2/33774555.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "三大法人回補近77億元 「這些大咖」尾盤翻黑、台股2萬7得而復失",
-            "link": "https://udn.com//news/story/7251/9161961?from=udn-catebreaknews_ch2",
-            "time": "2025-11-25 15:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/24/2/33759098.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "台股大漲407點 台積電領軍這9檔 AI 股貢獻大盤逾400點",
-            "link": "https://udn.com//news/story/7251/9161891?from=udn-catebreaknews_ch2",
-            "time": "2025-11-25 14:53"
         }
     ]
 }
