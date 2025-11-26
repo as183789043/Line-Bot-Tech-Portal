@@ -1,6 +1,12 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/27/realtime/33792804.png&s=Y&x=0&y=0&sw=7132&sh=4754&exp=3600&w=300",
+            "title": "香港大火增至13死30傷 傷者7人命危12人傷勢嚴重",
+            "link": "https://udn.com//news/story/7331/9165679?from=udn-catebreaknews_ch2",
+            "time": "2025-11-27 00:31"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/26/realtime/33792345.jpg&s=Y&x=0&y=22&sw=3000&sh=2000&exp=3600&w=300",
             "title": "香港17年來最嚴重惡火 至少13死23傷",
             "link": "https://udn.com//news/story/7331/9165536?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "傳瑞幸咖啡來台 經濟部：未核准投資",
             "link": "https://udn.com//news/story/7331/9165534?from=udn-catebreaknews_ch2",
             "time": "2025-11-27 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/26/realtime/33792049.jpg&s=Y&x=320&y=0&sw=3456&sh=2304&exp=3600&w=300",
-            "title": "香港大火13死15傷 習近平要求「全力撲滅火災」",
-            "link": "https://udn.com//news/story/7331/9165421?from=udn-catebreaknews_ch2",
-            "time": "2025-11-26 22:33"
         }
     ]
 }
