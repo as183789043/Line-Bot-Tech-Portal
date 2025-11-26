@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/26/1/33792573.png&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "【總編開箱】「民主海鮮 」 總統吃壽司是人民不能承受的輕還是重？",
+            "link": "https://udn.com//news/story/6656/9165670?from=udn-catebreaknews_ch2",
+            "time": "2025-11-27 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/27/realtime/33793525.jpg&s=Y&x=0&y=0&sw=1107&sh=738&exp=3600&w=300",
             "title": "歡迎台灣提1.25兆國防預算 美國務院重申：支持兩岸對話",
             "link": "https://udn.com//news/story/124662/9165720?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "綠營誰選台北市長抗蔣 中間選票成決勝關鍵",
             "link": "https://udn.com//news/story/124652/9165426?from=udn-catebreaknews_ch2",
             "time": "2025-11-27 00:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_3.jpg&w=300",
-            "title": "國民黨立委：國防預算占總預算近半 要戰爭了？",
-            "link": "https://udn.com//news/story/124662/9165657?from=udn-catebreaknews_ch2",
-            "time": "2025-11-27 00:23"
         }
     ]
 }
