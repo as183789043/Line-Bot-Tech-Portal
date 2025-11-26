@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/27/realtime/33793525.jpg&s=Y&x=0&y=0&sw=1107&sh=738&exp=3600&w=300",
+            "title": "歡迎台灣提1.25兆國防預算 美國務院重申：支持兩岸對話",
+            "link": "https://udn.com//news/story/124662/9165720?from=udn-catebreaknews_ch2",
+            "time": "2025-11-27 03:14"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/27/realtime/33792667.jpg&s=Y&x=82&y=0&sw=3336&sh=2225&exp=3600&w=300",
             "title": "新聞幕後／1.25兆國防預算 府院精選時間點公布",
             "link": "https://udn.com//news/story/124662/9165655?from=udn-catebreaknews_ch2",
@@ -13,22 +19,16 @@
             "time": "2025-11-27 00:25"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/26/realtime/33792062.jpg&s=Y&x=0&y=11&sw=1565&sh=1042&exp=3600&w=300",
+            "title": "綠營誰選台北市長抗蔣 中間選票成決勝關鍵",
+            "link": "https://udn.com//news/story/124652/9165426?from=udn-catebreaknews_ch2",
+            "time": "2025-11-27 00:25"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
             "title": "國民黨立委：國防預算占總預算近半 要戰爭了？",
             "link": "https://udn.com//news/story/124662/9165657?from=udn-catebreaknews_ch2",
             "time": "2025-11-27 00:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
-            "title": "學者：只增軍費 不溝通化解危機 困在死胡同",
-            "link": "https://udn.com//news/story/124662/9165659?from=udn-catebreaknews_ch2",
-            "time": "2025-11-27 00:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
-            "title": "我提升國防預算 AIT歡迎 中國抨擊",
-            "link": "https://udn.com//news/story/124662/9165663?from=udn-catebreaknews_ch2",
-            "time": "2025-11-27 00:19"
         }
     ]
 }
