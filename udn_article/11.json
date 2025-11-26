@@ -1,6 +1,12 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/27/realtime/33793138.jpeg&s=Y&x=0&y=0&sw=4000&sh=2668&exp=3600&w=300",
+            "title": "香港大火已造成36死 另有279人失聯",
+            "link": "https://udn.com//news/story/7331/9165701?from=udn-catebreaknews_ch2",
+            "time": "2025-11-27 01:48"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/27/realtime/33792804.png&s=Y&x=0&y=0&sw=7132&sh=4754&exp=3600&w=300",
             "title": "香港大火增至13死30傷 傷者7人命危12人傷勢嚴重",
             "link": "https://udn.com//news/story/7331/9165679?from=udn-catebreaknews_ch2",
@@ -22,12 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/26/realtime/33784600.jpg&s=Y&x=0&y=0&sw=4352&sh=2904&exp=3600&w=300",
             "title": "陸國台辦：建金廈大橋實現「四通」",
             "link": "https://udn.com//news/story/7331/9165557?from=udn-catebreaknews_ch2",
-            "time": "2025-11-27 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/26/realtime/33792344.jpg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
-            "title": "傳瑞幸咖啡來台 經濟部：未核准投資",
-            "link": "https://udn.com//news/story/7331/9165534?from=udn-catebreaknews_ch2",
             "time": "2025-11-27 00:00"
         }
     ]
