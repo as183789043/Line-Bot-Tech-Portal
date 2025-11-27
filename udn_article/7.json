@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/26/1/33789245.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電盤後鉅額交易溢價8％ 帶動台股目標價28,560點超越歷史高點",
+            "link": "https://udn.com//news/story/7251/9167739?from=udn-catebreaknews_ch2",
+            "time": "2025-11-27 20:12"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/27/2/33802320.jpg&s=Y&x=20&y=20&sw=1237&sh=825&exp=3600&w=300",
+            "title": "南亞科大漲近7%卻再爆違約交割 兩日高達7,033.05萬元",
+            "link": "https://udn.com//news/story/7251/9167666?from=udn-catebreaknews_ch2",
+            "time": "2025-11-27 19:48"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/27/realtime/33801681.jpg&s=Y&x=0&y=8&sw=1015&sh=676&exp=3600&w=300",
             "title": "合庫金總座談明年股利配發政策 現金為主、股票為輔",
             "link": "https://udn.com//news/story/7252/9167512?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "外資買超134億元 這檔人氣股果然高居個股冠軍",
             "link": "https://udn.com//news/story/7251/9167291?from=udn-catebreaknews_ch2",
             "time": "2025-11-27 17:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/27/realtime/33800768.jpg&s=Y&x=0&y=0&sw=1585&sh=1033&exp=3600&w=300",
-            "title": "權證投資人40歲以下占比逾4成  金管會提醒小資族注意投資安全",
-            "link": "https://udn.com//news/story/7255/9167284?from=udn-catebreaknews_ch2",
-            "time": "2025-11-27 17:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/13/2/33351600.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "Meta採購Google TPU  聯發科受惠？小摩台灣區主管哈戈谷這樣看",
-            "link": "https://udn.com//news/story/7251/9167174?from=udn-catebreaknews_ch2",
-            "time": "2025-11-27 16:28"
         }
     ]
 }
