@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/19/2/33703993.jpg&s=Y&x=0&y=0&sw=1274&sh=849&exp=3600&w=300",
+            "title": "2026年台股 已有這四家機構法人上看3萬點以上",
+            "link": "https://udn.com//news/story/7251/9167814?from=udn-catebreaknews_ch2",
+            "time": "2025-11-27 20:52"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/26/1/33789245.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台積電盤後鉅額交易溢價8％ 帶動台股目標價28,560點超越歷史高點",
             "link": "https://udn.com//news/story/7251/9167739?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "合庫金法說會／估台股明年上看29200 說AI泡沫化「太沉重」",
             "link": "https://udn.com//news/story/7252/9167376?from=udn-catebreaknews_ch2",
             "time": "2025-11-27 17:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/16/realtime/33671370.jpg&s=Y&x=0&y=27&sw=4091&sh=2726&exp=3600&w=300",
-            "title": "外資買超134億元 這檔人氣股果然高居個股冠軍",
-            "link": "https://udn.com//news/story/7251/9167291?from=udn-catebreaknews_ch2",
-            "time": "2025-11-27 17:09"
         }
     ]
 }
