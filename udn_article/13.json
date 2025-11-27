@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/27/0/33796841.jpg&s=Y&x=264&y=36&sw=1013&sh=675&exp=3600&w=300",
+            "title": "不愛白領工作！Z世代新夢幻職業：豪門保母",
+            "link": "https://udn.com//news/story/6841/9166167?from=udn-catebreaknews_ch2",
+            "time": "2025-11-27 10:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/26/draft/33785144.jpg&s=Y&x=96&y=7&sw=699&sh=466&exp=3600&w=300",
             "title": "非洲豬瘟清零 專訪陳時中、陳駿季！一鍋廚餘打破7年防線 若挑戰再來如何全面防堵",
             "link": "https://udn.com//news/story/6839/9163609?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "不甩關稅震盪 台股主動ETF成績亮眼！靠科技股集中度與調整能力決勝負",
             "link": "https://udn.com//news/story/6839/9163704?from=udn-catebreaknews_ch2",
             "time": "2025-11-26 14:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/26/draft/33785178.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "NVIDIA財報好到爆表 地表上最強的AI之王",
-            "link": "https://udn.com//news/story/6851/9163772?from=udn-catebreaknews_ch2",
-            "time": "2025-11-26 12:22"
         }
     ]
 }
