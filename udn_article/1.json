@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/29/2/33815043.jpg&s=Y&x=40&y=0&sw=1087&sh=725&exp=3600&w=300",
+            "title": "非核家園轉彎！經部核准台電報告 重啟核電時程 最快2027",
+            "link": "https://udn.com//news/story/123808/9170295?from=udn-catebreaknews_ch2",
+            "time": "2025-11-29 01:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/29/1/33814732.jpg&s=Y&x=8&y=112&sw=1272&sh=848&exp=3600&w=300",
             "title": "誰來接棒盧秀燕 鄭麗文：以勝選為原則",
             "link": "https://udn.com//news/story/124652/9170219?from=udn-catebreaknews_ch2",
@@ -13,22 +19,16 @@
             "time": "2025-11-29 00:18"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
             "title": "綠營誰攻彰化縣長 12月中旬民調決定",
             "link": "https://udn.com//news/story/124652/9170223?from=udn-catebreaknews_ch2",
             "time": "2025-11-29 00:17"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/28/realtime/33806763.jpg&s=Y&x=0&y=976&sw=6682&sh=4455&exp=3600&w=300",
-            "title": "歷史上的今天／1959年空軍英雄與教師結婚 總司令證婚",
-            "link": "https://udn.com//news/story/7314/9168391?from=udn-catebreaknews_ch2",
-            "time": "2025-11-29 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
-            "title": "吳音寧辭台肥董事",
-            "link": "https://udn.com//news/story/6656/9170336?from=udn-catebreaknews_ch2",
-            "time": "2025-11-29 00:00"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_0.jpg&w=300",
+            "title": "核綠共存 太陽能業者喊要有配套",
+            "link": "https://udn.com//news/story/123808/9170380?from=udn-catebreaknews_ch2",
+            "time": "2025-11-29 00:13"
         }
     ]
 }
