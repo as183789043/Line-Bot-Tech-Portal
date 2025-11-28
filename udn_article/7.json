@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/28/realtime/33814102.jpg&s=Y&x=0&y=508&sw=1080&sh=720&exp=3600&w=300",
+            "title": "CME暫停交易衝擊玩家 台灣期貨商晚間緊急通知：這時間開始接受掛單",
+            "link": "https://udn.com//news/story/7255/9170218?from=udn-catebreaknews_ch2",
+            "time": "2025-11-28 22:46"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/28/2/33813547.jpg&s=Y&x=200&y=0&sw=1076&sh=717&exp=3600&w=300",
             "title": "CME出包、無礙感恩節派對 台指期夜盤上半場續漲",
             "link": "https://udn.com//news/story/7255/9170097?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "00918宣布配息0.565元！12/17最後買進日…AI需求實在、非2000年泡沫",
             "link": "https://udn.com//news/story/123006/9169875?from=udn-catebreaknews_ch2",
             "time": "2025-11-28 18:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/28/realtime/33812525.jpg&s=Y&x=0&y=14&sw=1419&sh=946&exp=3600&w=300",
-            "title": "林維俊：台新新光金合併後 新壽ICS最高拉至150%、年底前CSM超過600億",
-            "link": "https://udn.com//news/story/7252/9169857?from=udn-catebreaknews_ch2",
-            "time": "2025-11-28 18:27"
         }
     ]
 }
