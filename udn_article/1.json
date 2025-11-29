@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/30/realtime/33823330.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "修國籍法護陸配參政權，拿香跟拜的國民黨沒出息",
+            "link": "https://udn.com//news/story/6656/9171852?from=udn-catebreaknews_ch2",
+            "time": "2025-11-30 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/29/realtime/33822780.jpg&s=Y&x=92&y=144&sw=2024&sh=1349&exp=3600&w=300",
             "title": "新聞眼／兩岸對抗不對話 和平恐淪奢望",
             "link": "https://udn.com//news/story/124662/9171766?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2025-11-30 01:33"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
             "title": "福衛八號「齊柏林衛星」發射成功 賴總統：打造新護台神山",
             "link": "https://udn.com//news/story/124664/9171755?from=udn-catebreaknews_ch2",
             "time": "2025-11-30 01:30"
@@ -23,12 +29,6 @@
             "title": "賴總統：核電廠是否延役交給專業",
             "link": "https://udn.com//news/story/123808/9171811?from=udn-catebreaknews_ch2",
             "time": "2025-11-30 00:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/30/1/33823032.jpg&s=Y&x=28&y=36&sw=1225&sh=817&exp=3600&w=300",
-            "title": "藍委：賴政府反核、擁核票都要",
-            "link": "https://udn.com//news/story/123808/9171810?from=udn-catebreaknews_ch2",
-            "time": "2025-11-30 00:24"
         }
     ]
 }
