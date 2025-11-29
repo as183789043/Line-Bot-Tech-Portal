@@ -1,8 +1,26 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/29/realtime/33820226.jpg&s=Y&x=0&y=0&sw=2508&sh=1672&exp=3600&w=300",
-            "title": "綠營彰化縣長類初選四強開戰 角色及經歷論戰掀火花",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/29/realtime/33820464.jpeg&s=Y&x=300&y=0&sw=3240&sh=2160&exp=3600&w=300",
+            "title": "高層知情仍下令玩命測試？海鯤艦遭爆5次出海缺船錨 海軍：無安全顧慮",
+            "link": "https://udn.com//news/story/10930/9171266?from=udn-catebreaknews_ch2",
+            "time": "2025-11-29 16:01"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/29/realtime/33820310.jpg&s=Y&x=0&y=112&sw=2000&sh=1333&exp=3600&w=300",
+            "title": "賴總統2條件願國情報告 黃國昌：若不應答「留總統府開記者會就好」",
+            "link": "https://udn.com//news/story/124662/9171232?from=udn-catebreaknews_ch2",
+            "time": "2025-11-29 15:32"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/29/realtime/33820202.png&s=Y&x=0&y=9&sw=1218&sh=812&exp=3600&w=300",
+            "title": "無人機軍購失序？指管系統難整合 戰時恐傷腦筋",
+            "link": "https://udn.com//news/story/124662/9171224?from=udn-catebreaknews_ch2",
+            "time": "2025-11-29 15:17"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/29/1/33820243.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "民進黨彰化縣長類初選四強開戰 角色及經歷論戰掀火花",
             "link": "https://udn.com//news/story/124652/9171220?from=udn-catebreaknews_ch2",
             "time": "2025-11-29 15:13"
         },
@@ -11,24 +29,6 @@
             "title": "赴立院國情報告？ 賴清德：若符憲政程序願向人民報告",
             "link": "https://udn.com//news/story/124662/9171210?from=udn-catebreaknews_ch2",
             "time": "2025-11-29 15:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/29/realtime/33820181.jpg&s=Y&x=133&y=0&sw=1440&sh=960&exp=3600&w=300",
-            "title": "批台南民進黨長期執政、綠能破壞生態與貪汙 鄭麗文：下夕下井",
-            "link": "https://udn.com//news/story/124652/9171207?from=udn-catebreaknews_ch2",
-            "time": "2025-11-29 15:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/29/1/33820182.jpg&s=Y&x=0&y=160&sw=1280&sh=853&exp=3600&w=300",
-            "title": "核電可能重啟 黃國昌批賴總統：髮夾彎轉成這樣不會臉紅？",
-            "link": "https://udn.com//news/story/123808/9171206?from=udn-catebreaknews_ch2",
-            "time": "2025-11-29 15:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/29/1/33820164.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "1.25兆軍費藍委喊國情報告 賴總統提「2條件」願赴國會",
-            "link": "https://udn.com//news/story/124662/9171201?from=udn-catebreaknews_ch2",
-            "time": "2025-11-29 15:01"
         }
     ]
 }
