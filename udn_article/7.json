@@ -1,13 +1,25 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/10/2/33613669.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "利空？台新新光金控前十月獲利下修15％ 法人曝目標價",
+            "link": "https://udn.com//news/story/7252/9171335?from=udn-catebreaknews_ch2",
+            "time": "2025-11-29 17:03"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/29/realtime/33820612.jpg&s=Y&x=0&y=0&sw=2042&sh=1371&exp=3600&w=300",
+            "title": "AI泡沫化？富蘭克林稱斷言過早「經濟效益足支撐數兆美元投資周期」",
+            "link": "https://udn.com//news/story/7251/9171293?from=udn-catebreaknews_ch2",
+            "time": "2025-11-29 16:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/28/realtime/33813677.jpg&s=Y&x=0&y=0&sw=2551&sh=1700&exp=3600&w=300",
             "title": "台股商品11強 今年賺五成",
             "link": "https://udn.com//news/story/10103/9170129?from=udn-catebreaknews_ch2",
             "time": "2025-11-29 01:35"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
             "title": "高股息標的 人氣不墜",
             "link": "https://udn.com//news/story/10103/9170126?from=udn-catebreaknews_ch2",
             "time": "2025-11-29 01:32"
@@ -17,18 +29,6 @@
             "title": "基金特蒐／新興股基金 重拾「升」機",
             "link": "https://udn.com//news/story/10103/9170127?from=udn-catebreaknews_ch2",
             "time": "2025-11-29 01:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/29/2/33815092.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台股12月有望衝關3萬點！三大名師預期台積重返1,500元、Fed降息等利多",
-            "link": "https://udn.com//news/story/7251/9170293?from=udn-catebreaknews_ch2",
-            "time": "2025-11-29 01:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/28/realtime/33814128.jpg&s=Y&x=0&y=0&sw=944&sh=629&exp=3600&w=300",
-            "title": "國泰金總座李長庚：台股未來幾年都樂觀 挑戰3萬點並非毫無根據",
-            "link": "https://udn.com//news/story/7251/9170230?from=udn-catebreaknews_ch2",
-            "time": "2025-11-29 01:07"
         }
     ]
 }
