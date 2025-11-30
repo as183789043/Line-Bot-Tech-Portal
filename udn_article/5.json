@@ -1,6 +1,12 @@
 {
     "地方": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/30/98/33830084.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台南市城西掩埋場起火 環保局：未波及石棉瓦堆置區",
+            "link": "https://udn.com//news/story/7326/9173076?from=udn-catebreaknews_ch2",
+            "time": "2025-11-30 22:24"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/30/realtime/33829697.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
             "title": "基隆河受油汙汙染 台水：已排除異味 民眾可安心使用",
             "link": "https://udn.com//news/story/7328/9172985?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "基隆自來水油汙染惹民怨 童子瑋、謝國樑向民眾報告水公司處理進度",
             "link": "https://udn.com//news/story/7328/9172912?from=udn-catebreaknews_ch2",
             "time": "2025-11-30 19:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/30/realtime/33828496.jpg&s=Y&x=0&y=524&sw=1109&sh=739&exp=3600&w=300",
-            "title": "淡北道路施工挖破管線停水 新北：已恢復供水",
-            "link": "https://udn.com//news/story/7323/9172859?from=udn-catebreaknews_ch2",
-            "time": "2025-11-30 19:02"
         }
     ]
 }
