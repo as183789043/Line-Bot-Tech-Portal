@@ -1,7 +1,19 @@
 {
     "生活": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/01/realtime/33832050.jpg&s=Y&x=0&y=0&sw=4651&sh=3101&exp=3600&w=300",
+            "title": "早晚仍涼零星飄雨 吳德榮：周三冷空氣南下 北台灣急探12度低溫",
+            "link": "https://udn.com//news/story/7266/9173360?from=udn-catebreaknews_ch2",
+            "time": "2025-12-01 05:45"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/01/realtime/33832029.png&s=Y&x=0&y=8&sw=1135&sh=756&exp=3600&w=300",
+            "title": "凌晨2時48分台東成功規模3.2地震 最大震度1級",
+            "link": "https://udn.com//news/story/7266/9173357?from=udn-catebreaknews_ch2",
+            "time": "2025-12-01 05:39"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_5.jpg&w=300",
             "title": "健康名人堂／真實老化：在有限裡活出平靜與智慧",
             "link": "https://udn.com//news/story/7266/9173289?from=udn-catebreaknews_ch2",
             "time": "2025-12-01 00:51"
@@ -17,18 +29,6 @@
             "title": "沉默殺手...52歲女腹痛 竟是胰臟癌末期",
             "link": "https://udn.com//news/story/7266/9173268?from=udn-catebreaknews_ch2",
             "time": "2025-12-01 00:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/30/realtime/33830433.jpg&s=Y&x=0&y=0&sw=1889&sh=1259&exp=3600&w=300",
-            "title": "健康主題館／吃黃豆脹氣過敏 浸泡煮熟去隱患",
-            "link": "https://udn.com//news/story/7266/9173265?from=udn-catebreaknews_ch2",
-            "time": "2025-12-01 00:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/01/1/33830653.jpg&s=Y&x=0&y=108&sw=1278&sh=852&exp=3600&w=300",
-            "title": "高雄單車違規闖交通公園 台南最長溜滑梯磨破褲子",
-            "link": "https://udn.com//news/story/7266/9173235?from=udn-catebreaknews_ch2",
-            "time": "2025-12-01 00:17"
         }
     ]
 }
