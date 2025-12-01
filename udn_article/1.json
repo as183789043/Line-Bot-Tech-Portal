@@ -1,13 +1,25 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
+            "title": "海鯤號無錨出海 藍批政治海測",
+            "link": "https://udn.com//news/story/6656/9175605?from=udn-catebreaknews_ch2",
+            "time": "2025-12-02 00:32"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
+            "title": "日專家：川普「無償軍援台灣」歸零",
+            "link": "https://udn.com//news/story/124662/9175606?from=udn-catebreaknews_ch2",
+            "time": "2025-12-02 00:31"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
             "title": "彭博示警 北京恐向川普提「28點台灣方案」",
             "link": "https://udn.com//news/story/6656/9175607?from=udn-catebreaknews_ch2",
             "time": "2025-12-02 00:24"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
             "title": "學者：陸不認為台灣能類比烏克蘭",
             "link": "https://udn.com//news/story/6656/9175608?from=udn-catebreaknews_ch2",
             "time": "2025-12-02 00:22"
@@ -17,18 +29,6 @@
             "title": "顧立雄：全面檢討「戰鬥部隊」定義",
             "link": "https://udn.com//news/story/124662/9175591?from=udn-catebreaknews_ch2",
             "time": "2025-12-02 00:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/01/realtime/33840914.jpg&s=Y&x=0&y=0&sw=4000&sh=2667&exp=3600&w=300",
-            "title": "台美談判 降關稅不疊加？楊珍妮：機率非常高",
-            "link": "https://udn.com//news/story/6656/9175562?from=udn-catebreaknews_ch2",
-            "time": "2025-12-02 00:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_0.jpg&w=300",
-            "title": "受美關稅影響 無薪假又變多 上月底增697人",
-            "link": "https://udn.com//news/story/6656/9175563?from=udn-catebreaknews_ch2",
-            "time": "2025-12-02 00:03"
         }
     ]
 }
