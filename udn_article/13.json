@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/02/draft/33845570.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
+            "title": "一起搖滾吧！ 台灣重金屬樂團震撼芬蘭",
+            "link": "https://udn.com//news/story/6845/9176232?from=udn-catebreaknews_ch2",
+            "time": "2025-12-02 12:46"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/02/draft/33845550.jpg&s=Y&x=0&y=0&sw=800&sh=532&exp=3600&w=300",
+            "title": "島嶼的外交力 從文化出發與世界對話",
+            "link": "https://udn.com//news/story/6845/9176223?from=udn-catebreaknews_ch2",
+            "time": "2025-12-02 12:28"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/01/draft/33837104.jpg&s=Y&x=0&y=6&sw=800&sh=532&exp=3600&w=300",
             "title": "綠色轉型 創新引航 共築台灣淨零新未來",
             "link": "https://udn.com//news/story/6853/9174679?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "順勢革新扎根未來 康和證券的轉型關鍵時刻",
             "link": "https://udn.com//news/story/6853/9174670?from=udn-catebreaknews_ch2",
             "time": "2025-12-02 12:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/01/draft/33836993.jpg&s=Y&x=0&y=6&sw=800&sh=532&exp=3600&w=300",
-            "title": "從在地深耕到國際磐石 磐石集團打造華人市場金融中介領導品牌",
-            "link": "https://udn.com//news/story/6853/9174643?from=udn-catebreaknews_ch2",
-            "time": "2025-12-02 12:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/02/draft/33845576.jpg&s=Y&x=0&y=0&sw=1024&sh=683&exp=3600&w=300",
-            "title": "新的CDR維修條款對備件市場的影響 － 3：備品原廠與副廠的適用與結論",
-            "link": "https://udn.com//news/story/6871/9176233?from=udn-catebreaknews_ch2",
-            "time": "2025-12-02 12:26"
         }
     ]
 }
