@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
+            "title": "車用PCB廠競國4日起買庫藏股2,500張護盤",
+            "link": "https://udn.com//news/story/7251/9180402?from=udn-catebreaknews_ch2",
+            "time": "2025-12-03 20:57"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/23/2/33475343.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "美國小非農數據將出爐 台指期夜盤先蹲後跳",
             "link": "https://udn.com//news/story/7255/9180350?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "證交所：創控4日起可融資券交易",
             "link": "https://udn.com//news/story/7251/9180185?from=udn-catebreaknews_ch2",
             "time": "2025-12-03 19:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/03/2/33863315.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "Google自研TPU點火AI市場！大摩：台積電、聯發科等12台廠受矚目",
-            "link": "https://udn.com//news/story/7251/9180179?from=udn-catebreaknews_ch2",
-            "time": "2025-12-03 19:14"
         }
     ]
 }
