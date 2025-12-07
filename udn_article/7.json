@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/07/2/33902350.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "壽險業橫掃逾4000億、銀行業也急補千億 債市訊號出現？",
+            "link": "https://udn.com//news/story/7251/9187883?from=udn-catebreaknews_ch2",
+            "time": "2025-12-07 18:51"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/07/2/33902149.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "宏碁子公司「老虎隊」11月營收出爐 這五隻老虎表現最強",
+            "link": "https://udn.com//news/story/7253/9187854?from=udn-catebreaknews_ch2",
+            "time": "2025-12-07 18:08"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/07/realtime/33901499.jpg&s=Y&x=0&y=27&sw=4091&sh=2726&exp=3600&w=300",
             "title": "年底作帳行情AI續帶動 台股仍有機會上攻創高點",
             "link": "https://udn.com//news/story/7251/9187756?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "上市櫃年獲利、股息拚雙高 緯穎、大立光、信驊有望奪EPS前三名",
             "link": "https://udn.com//news/story/7251/9186818?from=udn-catebreaknews_ch2",
             "time": "2025-12-07 02:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
-            "title": "台積、川湖配息受期待",
-            "link": "https://udn.com//news/story/7253/9186819?from=udn-catebreaknews_ch2",
-            "time": "2025-12-07 02:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/07/2/33895761.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "台塑四寶揭曉上月營收 外界關注集團低碳、能源等五大轉型進展",
-            "link": "https://udn.com//news/story/7252/9186863?from=udn-catebreaknews_ch2",
-            "time": "2025-12-07 01:29"
         }
     ]
 }
