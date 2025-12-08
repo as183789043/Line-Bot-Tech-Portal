@@ -1,21 +1,27 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
-            "title": "泰柬衝突再起 收貝東塔爛攤子…泰總理阿努廷乘勢拚選舉",
-            "link": "https://udn.com//news/story/6809/9190566?from=udn-catebreaknews_ch2",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/09/1/33912700.jpg&s=Y&x=0&y=0&sw=1256&sh=837&exp=3600&w=300",
+            "title": "共機雷達照射事件…陸反控日機滋擾 日：非事實",
+            "link": "https://udn.com//news/story/124658/9190626?from=udn-catebreaknews_ch2",
+            "time": "2025-12-09 00:20"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/09/1/33912490.jpg&s=Y&x=268&y=0&sw=993&sh=662&exp=3600&w=300",
+            "title": "泰海陸空戰力輾壓柬…空軍東南亞最強 還擁有航艦",
+            "link": "https://udn.com//news/story/6809/9190560?from=udn-catebreaknews_ch2",
             "time": "2025-12-09 00:00"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/08/realtime/33912414.jpg&s=Y&x=0&y=0&sw=2268&sh=1512&exp=3600&w=300",
-            "title": "衝突再起！泰軍空襲柬國 逾40萬人撤離",
+            "title": "衝突再起…泰軍空襲柬國 逾40萬人撤離",
             "link": "https://udn.com//news/story/6809/9190561?from=udn-catebreaknews_ch2",
             "time": "2025-12-09 00:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/09/1/33912490.jpg&s=Y&x=268&y=0&sw=993&sh=662&exp=3600&w=300",
-            "title": "泰海陸空戰力輾壓柬 空軍東南亞最強！還擁有航艦",
-            "link": "https://udn.com//news/story/6809/9190560?from=udn-catebreaknews_ch2",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
+            "title": "泰柬衝突再起 收貝東塔爛攤子…泰總理阿努廷乘勢拚選舉",
+            "link": "https://udn.com//news/story/6809/9190566?from=udn-catebreaknews_ch2",
             "time": "2025-12-09 00:00"
         },
         {
@@ -23,12 +29,6 @@
             "title": "日本青森縣發生強震 周邊核電廠與核設施未受影響",
             "link": "https://udn.com//news/story/6809/9190613?from=udn-catebreaknews_ch2",
             "time": "2025-12-08 23:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/08/realtime/33912436.jpg&s=Y&x=0&y=0&sw=5000&sh=3333&exp=3600&w=300",
-            "title": "日本青森縣外海地震 首相高市早苗坐鎮官邸",
-            "link": "https://udn.com//news/story/6809/9190575?from=udn-catebreaknews_ch2",
-            "time": "2025-12-08 23:26"
         }
     ]
 }
