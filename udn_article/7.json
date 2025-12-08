@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/08/2/33906116.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股早盤勁揚百點重登2萬8千點 台積電漲5元開1,465元",
+            "link": "https://udn.com//news/story/7251/9188529?from=udn-catebreaknews_ch2",
+            "time": "2025-12-08 09:07"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/08/0/33905978.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "0056可以借1000萬炒股但0050不行？肥羊：規模和每個月的自備款上實在差太多",
+            "link": "https://udn.com//news/story/123006/9188511?from=udn-catebreaknews_ch2",
+            "time": "2025-12-08 09:06"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/08/0/33905618.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "00878突破200張…根本沒想到張數會增加得這麼快！存股哥：自律跟紀律",
+            "link": "https://udn.com//news/story/123006/9188441?from=udn-catebreaknews_ch2",
+            "time": "2025-12-08 07:51"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/15/2/33654688.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "台股年終行情上攻29K Fed本周公布利率決策…法人推演三劇本",
             "link": "https://udn.com//news/story/7251/9188170?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "台股明年最高衝34,000點 專家：股優於債、AI進入硬體決戰高峰",
             "link": "https://udn.com//news/story/7251/9188241?from=udn-catebreaknews_ch2",
             "time": "2025-12-08 02:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
-            "title": "台股攻28,554點歷史新高 上市櫃11月營收扮催化劑",
-            "link": "https://udn.com//news/story/7251/9188248?from=udn-catebreaknews_ch2",
-            "time": "2025-12-08 02:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/27/2/33799080.jpg&s=Y&x=0&y=0&sw=1224&sh=816&exp=3600&w=300",
-            "title": "台股科技基金搶鋒頭 27檔今年來平均報酬率逾33% 優於大盤",
-            "link": "https://udn.com//news/story/10103/9188083?from=udn-catebreaknews_ch2",
-            "time": "2025-12-08 00:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
-            "title": "被動市值型 有錢景",
-            "link": "https://udn.com//news/story/10103/9188033?from=udn-catebreaknews_ch2",
-            "time": "2025-12-08 00:22"
         }
     ]
 }
