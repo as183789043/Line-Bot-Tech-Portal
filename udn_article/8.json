@@ -1,6 +1,18 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/08/realtime/33912337.jpg&s=Y&x=0&y=9&sw=1384&sh=922&exp=3600&w=300",
+            "title": "日本北海道發生規模7.6地震 氣象署緊急發布海嘯消息",
+            "link": "https://udn.com//news/story/7266/9190477?from=udn-catebreaknews_ch2",
+            "time": "2025-12-08 23:03"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/08/realtime/33912248.jpg&s=Y&x=300&y=0&sw=3240&sh=2160&exp=3600&w=300",
+            "title": "獨家專訪／Apple健身科技副總裁：用1支iPhone隨時享受世界級運動體驗",
+            "link": "https://udn.com//news/story/7270/9190425?from=udn-catebreaknews_ch2",
+            "time": "2025-12-08 22:54"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/08/realtime/33911982.jpg&s=Y&x=0&y=0&sw=8000&sh=5339&exp=3600&w=300",
             "title": "身份證中4碼「免費吃三商巧福牛肉麵」 吉豚屋「套餐、炸雞」買1送1",
             "link": "https://udn.com//news/story/124378/9190366?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "老翁喪妻遭兒子趕出家！女兒居父房屋拒收留 他1招提告奪回房子",
             "link": "https://udn.com//news/story/7272/9190335?from=udn-catebreaknews_ch2",
             "time": "2025-12-08 21:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/08/realtime/33911724.jpg&s=Y&x=0&y=0&sw=2976&sh=1984&exp=3600&w=300",
-            "title": "突發事件造成列車誤點惹怒通勤族 謝國樑會台鐵提升緊急運輸調度效能",
-            "link": "https://udn.com//news/story/7266/9190323?from=udn-catebreaknews_ch2",
-            "time": "2025-12-08 21:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/08/1/33911635.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "花蓮近海發生規模5.7地震 氣象署：未來3天不排除有「規模5.5餘震」",
-            "link": "https://udn.com//news/story/7266/9190282?from=udn-catebreaknews_ch2",
-            "time": "2025-12-08 20:59"
         }
     ]
 }
