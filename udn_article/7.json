@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/03/2/33862194.jpg&s=Y&x=0&y=0&sw=512&sh=341&exp=3600&w=300",
+            "title": "台股上漲322點！外資買超玉山金4.9萬張最多 台積電也獲連五買",
+            "link": "https://udn.com//news/story/7251/9189864?from=udn-catebreaknews_ch2",
+            "time": "2025-12-08 17:22"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/08/2/33906981.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "玉山金前十一月獲利322億元、首度登300億元大關 每股賺2元",
+            "link": "https://udn.com//news/story/7252/9189746?from=udn-catebreaknews_ch2",
+            "time": "2025-12-08 16:36"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/08/2/33907699.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "資產隨大盤上漲...人生躺平就贏？內行提「4點」別放掉：有錢不是逃避藉口",
             "link": "https://udn.com//news/story/7251/9189597?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台積電除息行情啟動！股價收1495元、上漲35元 市值衝達38.76兆",
             "link": "https://udn.com//news/story/7251/9189475?from=udn-catebreaknews_ch2",
             "time": "2025-12-08 14:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/08/0/33908732.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "90歲阿伯靠1200張00878季領48 萬！不敗教主亮明細：股利買回真的會越滾越大",
-            "link": "https://udn.com//news/story/123006/9189430?from=udn-catebreaknews_ch2",
-            "time": "2025-12-08 14:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/08/realtime/33908727.jpg&s=Y&x=0&y=0&sw=465&sh=310&exp=3600&w=300",
-            "title": "閎康營收／11月4.88億元 月增1.17%、年增14.19%",
-            "link": "https://udn.com//news/story/7254/9189433?from=udn-catebreaknews_ch2",
-            "time": "2025-12-08 14:44"
         }
     ]
 }
