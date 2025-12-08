@@ -1,7 +1,13 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
+            "title": "南亞科期貨保證金調高",
+            "link": "https://udn.com//news/story/7255/9190064?from=udn-catebreaknews_ch2",
+            "time": "2025-12-09 06:39"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
             "title": "摩根士丹利美國增長 發燒",
             "link": "https://udn.com//news/story/10103/9190334?from=udn-catebreaknews_ch2",
             "time": "2025-12-09 05:44"
@@ -23,12 +29,6 @@
             "title": "台股重返28,000大關 16檔市值增胖股吸引布局",
             "link": "https://udn.com//news/story/7251/9190546?from=udn-catebreaknews_ch2",
             "time": "2025-12-09 01:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/09/1/33913027.jpg&s=Y&x=40&y=0&sw=1237&sh=825&exp=3600&w=300",
-            "title": "台股重返2萬8 市值挑戰百兆元大關",
-            "link": "https://udn.com//news/story/7251/9190652?from=udn-catebreaknews_ch2",
-            "time": "2025-12-09 01:44"
         }
     ]
 }
