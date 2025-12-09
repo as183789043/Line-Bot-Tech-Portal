@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/10/realtime/33923463.jpg&s=Y&x=0&y=0&sw=3000&sh=2000&exp=3600&w=300",
+            "title": "美智庫：新版安全戰略脫離大國競爭 對中態度不一",
+            "link": "https://udn.com//news/story/6813/9193241?from=udn-catebreaknews_ch2",
+            "time": "2025-12-10 06:59"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/09/1/33921610.png&s=Y&x=0&y=12&sw=801&sh=534&exp=3600&w=300",
             "title": "美抽成25%台灣吞定了？川普批准 圖解輝達H200晶片銷陸流程",
             "link": "https://udn.com//news/story/6811/9193050?from=udn-catebreaknews_ch2",
@@ -13,22 +19,16 @@
             "time": "2025-12-10 01:37"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
             "title": "歐盟擬放寬企業ESG要求",
             "link": "https://udn.com//news/story/6811/9192923?from=udn-catebreaknews_ch2",
             "time": "2025-12-10 01:37"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
             "title": "川普喊打高物價 民調回升",
             "link": "https://udn.com//news/story/6813/9192925?from=udn-catebreaknews_ch2",
             "time": "2025-12-10 01:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/10/2/33922085.png&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "IBM、微軟加碼投資AI基建",
-            "link": "https://udn.com//news/story/6811/9192980?from=udn-catebreaknews_ch2",
-            "time": "2025-12-10 01:34"
         }
     ]
 }
