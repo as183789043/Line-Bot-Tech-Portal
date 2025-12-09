@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/09/98/33920445.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "外資賣超58.88億元…終止「台股權王」連5買 敲進力積電",
+            "link": "https://udn.com//news/story/7251/9192472?from=udn-catebreaknews_ch2",
+            "time": "2025-12-09 19:36"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/09/2/33324715.jpg&s=Y&x=20&y=0&sw=1115&sh=743&exp=3600&w=300",
+            "title": "面板雙虎11月營收兩樣情 友達雙增、群創雙減",
+            "link": "https://udn.com//news/story/7253/9192526?from=udn-catebreaknews_ch2",
+            "time": "2025-12-09 19:06"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/09/realtime/33920228.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
             "title": "遠雄營收／11月111億元、年增501％ 受惠兩大百億元案交屋入帳",
             "link": "https://udn.com//news/story/7252/9192514?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "大摩看液冷動能至明年首季 散熱三雄點名奇鋐、富世達",
             "link": "https://udn.com//news/story/7253/9192454?from=udn-catebreaknews_ch2",
             "time": "2025-12-09 18:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/09/realtime/33919594.jpg&s=Y&x=0&y=212&sw=1427&sh=951&exp=3600&w=300",
-            "title": "環球晶上半年每股配息2元 SOI晶圓啟動測試",
-            "link": "https://udn.com//news/story/7254/9192322?from=udn-catebreaknews_ch2",
-            "time": "2025-12-09 17:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/09/realtime/33919469.jpg&s=Y&x=0&y=0&sw=1585&sh=1033&exp=3600&w=300",
-            "title": "台商大陸獲利前3季創近十年同期新高 投資卻首度衰退",
-            "link": "https://udn.com//news/story/7251/9192290?from=udn-catebreaknews_ch2",
-            "time": "2025-12-09 17:24"
         }
     ]
 }
