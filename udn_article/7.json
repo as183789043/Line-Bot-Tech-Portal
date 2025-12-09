@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/13/2/33633002.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "AI伺服器需求旺！大摩上調GB系列機架出貨量 點名鴻海等3台廠",
+            "link": "https://udn.com//news/story/7253/9192745?from=udn-catebreaknews_ch2",
+            "time": "2025-12-09 20:59"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/21/2/33730279.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "靜待OpenAI新模型 美股期貨、台指期夜盤以靜制動",
+            "link": "https://udn.com//news/story/7255/9192710?from=udn-catebreaknews_ch2",
+            "time": "2025-12-09 20:36"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/09/98/33920445.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "外資賣超58.88億元…終止「台股權王」連5買 敲進力積電",
             "link": "https://udn.com//news/story/7251/9192472?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "遠雄營收／11月111億元、年增501％ 受惠兩大百億元案交屋入帳",
             "link": "https://udn.com//news/story/7252/9192514?from=udn-catebreaknews_ch2",
             "time": "2025-12-09 18:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/09/realtime/33920186.jpg&s=Y&x=0&y=0&sw=1417&sh=941&exp=3600&w=300",
-            "title": "日月光投控前11月營收5865.23億元 歷年同期次高",
-            "link": "https://udn.com//news/story/7253/9192492?from=udn-catebreaknews_ch2",
-            "time": "2025-12-09 18:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/20/2/32341498.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "大摩看液冷動能至明年首季 散熱三雄點名奇鋐、富世達",
-            "link": "https://udn.com//news/story/7253/9192454?from=udn-catebreaknews_ch2",
-            "time": "2025-12-09 18:27"
         }
     ]
 }
