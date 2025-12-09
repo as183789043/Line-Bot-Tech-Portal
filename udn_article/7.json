@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/09/realtime/33920228.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "遠雄營收／11月111億元、年增501％ 受惠兩大百億元案交屋入帳",
+            "link": "https://udn.com//news/story/7252/9192514?from=udn-catebreaknews_ch2",
+            "time": "2025-12-09 18:59"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/09/realtime/33920186.jpg&s=Y&x=0&y=0&sw=1417&sh=941&exp=3600&w=300",
+            "title": "日月光投控前11月營收5865.23億元 歷年同期次高",
+            "link": "https://udn.com//news/story/7253/9192492?from=udn-catebreaknews_ch2",
+            "time": "2025-12-09 18:51"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/06/20/2/32341498.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "大摩看液冷動能至明年首季 散熱三雄點名奇鋐、富世達",
+            "link": "https://udn.com//news/story/7253/9192454?from=udn-catebreaknews_ch2",
+            "time": "2025-12-09 18:27"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/09/realtime/33919594.jpg&s=Y&x=0&y=212&sw=1427&sh=951&exp=3600&w=300",
             "title": "環球晶上半年每股配息2元 SOI晶圓啟動測試",
             "link": "https://udn.com//news/story/7254/9192322?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "台商大陸獲利前3季創近十年同期新高 投資卻首度衰退",
             "link": "https://udn.com//news/story/7251/9192290?from=udn-catebreaknews_ch2",
             "time": "2025-12-09 17:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/17/98/33673252.jpg&s=Y&x=0&y=0&sw=1265&sh=843&exp=3600&w=300",
-            "title": "川普開放輝達H200輸陸 大摩看好台積電再衝一波",
-            "link": "https://udn.com//news/story/7253/9192249?from=udn-catebreaknews_ch2",
-            "time": "2025-12-09 17:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/26/realtime/33225168.jpg&s=Y&x=0&y=14&sw=1889&sh=1258&exp=3600&w=300",
-            "title": "環球晶上半年每股賺6.56元 董事會通過配發2元免稅現金股利",
-            "link": "https://udn.com//news/story/7254/9192147?from=udn-catebreaknews_ch2",
-            "time": "2025-12-09 16:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/03/2/33863425.jpg&s=Y&x=140&y=0&sw=1004&sh=669&exp=3600&w=300",
-            "title": "華碩營收／11月668億元、年增20.61% 看淡第4季業績表現",
-            "link": "https://udn.com//news/story/7253/9192043?from=udn-catebreaknews_ch2",
-            "time": "2025-12-09 15:45"
         }
     ]
 }
