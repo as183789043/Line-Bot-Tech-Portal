@@ -1,9 +1,21 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/12/1/33940915.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "1.25兆元國防預算闖關國會…學者：政府仰賴谷立言 易被人民瞧不起",
+            "link": "https://udn.com//news/story/6656/9198163?from=udn-catebreaknews_ch2",
+            "time": "2025-12-12 01:21"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/12/1/33940895.jpg&s=Y&x=240&y=8&sw=937&sh=625&exp=3600&w=300",
+            "title": "美眾院通過國防授權法 撥10億美元挺台灣安全",
+            "link": "https://udn.com//news/story/6656/9198160?from=udn-catebreaknews_ch2",
+            "time": "2025-12-12 01:08"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/11/realtime/33940532.jpg&s=Y&x=0&y=14&sw=1889&sh=1258&exp=3600&w=300",
-            "title": "5.9億炸藥標案 挨批超思翻版",
-            "link": "https://udn.com//news/story/6656/9198147?from=udn-catebreaknews_ch2",
+            "title": "福麥5.9億炸藥標案 挨批超思翻版 藍委：還附9億開口合約",
+            "link": "https://udn.com//news/story/10930/9198147?from=udn-catebreaknews_ch2",
             "time": "2025-12-12 00:05"
         },
         {
@@ -16,18 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/11/realtime/33940512.jpg&s=Y&x=0&y=0&sw=2550&sh=1700&exp=3600&w=300",
             "title": "公教年金停砍表決大戰 最快今三讀",
             "link": "https://udn.com//news/story/6656/9198136?from=udn-catebreaknews_ch2",
-            "time": "2025-12-12 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
-            "title": "農退儲金 農民負擔降至4成…政府支出多6億",
-            "link": "https://udn.com//news/story/6656/9198138?from=udn-catebreaknews_ch2",
-            "time": "2025-12-12 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_1.jpg&w=300",
-            "title": "新聞眼／經濟亮眼？稅收短徵還舉債…財政韌性大挑戰",
-            "link": "https://udn.com//news/story/6656/9198140?from=udn-catebreaknews_ch2",
             "time": "2025-12-12 00:00"
         }
     ]
