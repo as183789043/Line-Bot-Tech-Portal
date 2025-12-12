@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/08/realtime/33912219.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
+            "title": "美股收黑 博通重挫引發AI投資疑慮、台積電ADR大跌4.2%",
+            "link": "https://udn.com//news/story/6811/9200422?from=udn-catebreaknews_ch2",
+            "time": "2025-12-13 06:10"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/12/11/33934100.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "川普宣布：泰國與柬埔寨同意停止邊境交火",
             "link": "https://udn.com//news/story/6809/9200368?from=udn-catebreaknews_ch2",
@@ -19,15 +25,9 @@
             "time": "2025-12-13 01:34"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
             "title": "川普拍板 統一監管全國AI",
             "link": "https://udn.com//news/story/6813/9200162?from=udn-catebreaknews_ch2",
-            "time": "2025-12-13 01:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
-            "title": "Fed重新任命11位聯準銀總裁",
-            "link": "https://udn.com//news/story/6811/9200163?from=udn-catebreaknews_ch2",
             "time": "2025-12-13 01:33"
         }
     ]
