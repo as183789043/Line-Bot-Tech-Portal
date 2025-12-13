@@ -1,19 +1,25 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/09/30/0/33246699.jpg&s=Y&x=0&y=0&sw=1022&sh=681&exp=3600&w=300",
+            "title": "投資0050不如買台積電？內行人點破關鍵：目的不同",
+            "link": "https://udn.com//news/story/12806/9200565?from=udn-catebreaknews_ch2",
+            "time": "2025-12-13 11:42"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/13/2/33949860.jpg&s=Y&x=0&y=0&sw=1217&sh=811&exp=3600&w=300",
             "title": "電金發威 台股將戰新高！法人看好下周攻28,568歷史高點",
             "link": "https://udn.com//news/story/7251/9200238?from=udn-catebreaknews_ch2",
             "time": "2025-12-13 01:14"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
             "title": "美光將公布財報 資金卡位 記憶體族群滿血復活",
             "link": "https://udn.com//news/story/7251/9200241?from=udn-catebreaknews_ch2",
             "time": "2025-12-13 01:12"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
             "title": "台新新光金董娘加碼自家股",
             "link": "https://udn.com//news/story/7252/9200233?from=udn-catebreaknews_ch2",
             "time": "2025-12-13 00:58"
@@ -23,12 +29,6 @@
             "title": "精挑科技基金 安度AI亂流",
             "link": "https://udn.com//news/story/10103/9200028?from=udn-catebreaknews_ch2",
             "time": "2025-12-13 00:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
-            "title": "台股科技基金逢低布局 長線有賺頭",
-            "link": "https://udn.com//news/story/10103/9200011?from=udn-catebreaknews_ch2",
-            "time": "2025-12-13 00:42"
         }
     ]
 }
