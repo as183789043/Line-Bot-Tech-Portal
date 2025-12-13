@@ -1,7 +1,13 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_1.jpg&w=300",
+            "title": "傳我參加夏威夷多國演訓 專家：有助未來台美互相支援",
+            "link": "https://udn.com//news/story/10930/9201642?from=udn-catebreaknews_ch2",
+            "time": "2025-12-14 02:32"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
             "title": "顧立雄明赴立院報告 火藥採購須3資格",
             "link": "https://udn.com//news/story/10930/9201638?from=udn-catebreaknews_ch2",
             "time": "2025-12-14 00:11"
@@ -13,22 +19,16 @@
             "time": "2025-12-14 00:10"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/06/realtime/33894765.jpeg&s=Y&x=300&y=0&sw=3240&sh=2160&exp=3600&w=300",
             "title": "新聞眼／台船「蓋牌」 海鯤艦到底還有什麼麻煩沒說？",
             "link": "https://udn.com//news/story/10930/9201640?from=udn-catebreaknews_ch2",
             "time": "2025-12-14 00:08"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
             "title": "華爾街日報：台灣上月參加夏威夷多國演訓 聚焦無人機戰法",
             "link": "https://udn.com//news/story/10930/9201641?from=udn-catebreaknews_ch2",
             "time": "2025-12-14 00:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/13/realtime/33956719.jpg&s=Y&x=0&y=42&sw=5712&sh=3808&exp=3600&w=300",
-            "title": "福麥2.0？凌濤揭台南鞋商得標2億元軍火生意",
-            "link": "https://udn.com//news/story/10930/9201637?from=udn-catebreaknews_ch2",
-            "time": "2025-12-14 00:05"
         }
     ]
 }
