@@ -1,14 +1,13 @@
-# ENV Parameter
+# lambda_function.py
+
 import os
-from .lambda_fn import reply,read_metedata
 import ujson
 
-from linebot.v3 import (
-    WebhookHandler
-)
-from linebot.v3.exceptions import (
-    InvalidSignatureError
-)
+# ✅ 改為絕對匯入
+from lambda_fn import reply, read_metedata
+
+from linebot.v3 import WebhookHandler
+from linebot.v3.exceptions import InvalidSignatureError
 from linebot.v3.messaging import (
     Configuration,
     ApiClient,
@@ -28,33 +27,30 @@ from linebot.v3.webhooks import (
 configuration = Configuration(access_token=os.environ['CHANNEL_ACCESS_TOKEN'])
 handler = WebhookHandler(os.environ['CHANNEL_SECRET'])
 
-
-##讀入爬蟲內容
-topic_index,topic_url=read_metedata('./function_file/udn_metadata/topic_index.json','utf-8'),read_metedata('./function_file/udn_metadata/topic_mapping_url.json','utf-8')
+# ✅ 修正路徑：移除 function_file/
+topic_index = read_metedata('./udn_metadata/topic_index.json', 'utf-8')
+topic_url = read_metedata('./udn_metadata/topic_mapping_url.json', 'utf-8')
 topic_index_check = list(topic_index.values())
-topic_index_check = list(topic_index.values())
-
 
 @handler.add(MessageEvent)
 def handle_message(event):
-
     with ApiClient(configuration) as api_client:
         line_bot_api = MessagingApi(api_client)
         
-
-
         # 處理文字消息
         if isinstance(event.message, TextMessageContent):
             if event.message.text in topic_index_check:
-                with open(f'./function_file/udn_article/{topic_index_check.index(event.message.text)}.json','r',encoding='utf-8') as f:
-                    news=ujson.load(f)
+                # ✅ 修正路徑
+                article_index = topic_index_check.index(event.message.text)
+                with open(f'./udn_article/{article_index}.json', 'r', encoding='utf-8') as f:
+                    news = ujson.load(f)
 
-                    #輪播模板
+                    # 輪播模板
                     carousel_template = CarouselTemplate(
                         columns=[
                             CarouselColumn(
                                 thumbnail_image_url=news[event.message.text][0]['img_url'],
-                                title=news[event.message.text][0]['title'][:40],  ## Title  must not be longer than 40 characters
+                                title=news[event.message.text][0]['title'][:40],
                                 text=f'發佈時間: {news[event.message.text][0]["time"]}',
                                 actions=[
                                     URIAction(
@@ -99,7 +95,7 @@ def handle_message(event):
                             CarouselColumn(
                                 thumbnail_image_url=news[event.message.text][4]['img_url'],
                                 title=news[event.message.text][4]['title'][:40],
-                                   text=f'發佈時間: {news[event.message.text][4]["time"]}',
+                                text=f'發佈時間: {news[event.message.text][4]["time"]}',
                                 actions=[
                                     URIAction(
                                         label='網頁連結',
@@ -110,33 +106,31 @@ def handle_message(event):
                         ]
                     )
 
-
-
                     line_bot_api.reply_message_with_http_info(
                         ReplyMessageRequest(
                             reply_token=event.reply_token,
                             messages=[
-                            TemplateMessage(
-                            alt_text='Carousel template',
-                            template=carousel_template
-                            )
-                             ]
+                                TemplateMessage(
+                                    alt_text='Carousel template',
+                                    template=carousel_template
+                                )
+                            ]
                         )
                     )
 
-
-            elif event.message.text in ['新聞','news','主題','topic']:
-                with open(f'./function_file/udn_metadata/topic_index.json','r',encoding='utf-8') as f:
-                    news=ujson.load(f)
-                    news_list=list(news.values())
-                    news_topic='輸入以下主題文字查看新聞\n'+('\n。'.join(news_list))
+            elif event.message.text in ['新聞', 'news', '主題', 'topic']:
+                # ✅ 修正路徑
+                with open('./udn_metadata/topic_index.json', 'r', encoding='utf-8') as f:
+                    news = ujson.load(f)
+                    news_list = list(news.values())
+                    news_topic = '輸入以下主題文字查看新聞\n' + ('\n。'.join(news_list))
                 
                     line_bot_api.reply_message_with_http_info(
-                    ReplyMessageRequest(
-                        reply_token=event.reply_token,
-                        messages=[TextMessage(text=news_topic)]
+                        ReplyMessageRequest(
+                            reply_token=event.reply_token,
+                            messages=[TextMessage(text=news_topic)]
+                        )
                     )
-                )
 
             else:
                 line_bot_api.reply_message_with_http_info(
@@ -155,8 +149,6 @@ def handle_message(event):
                 )
             )
 
-            
-
 def lambda_handler(event, context):
     try: 
         body = event['body']
@@ -168,6 +160,9 @@ def lambda_handler(event, context):
             'body': ujson.dumps('Hello from Lambda!')
         }
     except Exception as e:
+        print(f"Error: {str(e)}")
+        import traceback
+        traceback.print_exc()
         return {
             'statusCode': 500,
             'body': ujson.dumps(str(e))
