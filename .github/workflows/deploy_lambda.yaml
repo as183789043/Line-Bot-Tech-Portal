@@ -1,4 +1,6 @@
 name: AWS CLI Workflow
+permissions:
+  contents: read
 on:
   push:
     branches:
