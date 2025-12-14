@@ -37,6 +37,7 @@ jobs:
           
           # 複製你的程式碼
           cp lambda_function.py ./package/ 2>/dev/null || true
+          cp lambda_fn.py ./package/ 2>/dev/null || true
           cp app_fn.py ./package/ 2>/dev/null || true
           cp udn_crawler.py ./package/ 2>/dev/null || true
           cp udn_article.py ./package/ 2>/dev/null || true
