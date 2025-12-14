@@ -1,10 +1,15 @@
-name: AWS CLI Workflow
+name: Deploy Lambda Code
+
 permissions:
   contents: read
+
 on:
   push:
     branches:
       - main
+    paths-ignore:
+      - 'requirements.txt'  # requirements.txt 改變由 deploy_layer.yaml 處理
+      
   workflow_run:
     workflows: ["Crawler Udn News per Hour"]
     types:
@@ -14,6 +19,7 @@ jobs:
   deploy-lambda:
     runs-on: ubuntu-latest
     environment: AWS_Personsal_Token
+    
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -30,32 +36,89 @@ jobs:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
 
-      - name: Install Dependencies and Package Lambda
+      - name: Check Layer Status
+        id: check_layer
         run: |
-          # 安裝依賴到 package 目錄
+          echo "🔍 Checking if Lambda has Layer attached..."
+          
+          # 檢查 Lambda 是否已附加 Layer
+          LAYER_COUNT=$(aws lambda get-function-configuration \
+            --function-name LineBot-News \
+            --region ap-northeast-1 \
+            --query 'length(Layers)' \
+            --output text 2>/dev/null || echo "0")
+          
+          if [ "$LAYER_COUNT" = "0" ] || [ -z "$LAYER_COUNT" ]; then
+            echo "deployment_mode=full" >> $GITHUB_OUTPUT
+            echo "⚠️  No Layer detected"
+            echo "📦 Will deploy WITH dependencies (full package)"
+          else
+            echo "deployment_mode=lightweight" >> $GITHUB_OUTPUT
+            echo "✅ Layer detected (Count: $LAYER_COUNT)"
+            echo "📦 Will deploy WITHOUT dependencies (lightweight package)"
+          fi
+
+      - name: Package Lambda (Full - with dependencies)
+        if: steps.check_layer.outputs.deployment_mode == 'full'
+        run: |
+          echo "📦 Creating FULL package (with dependencies)..."
+          
+          # 建立 package 目錄
+          mkdir package
+          
+          # 安裝依賴
+          echo "  → Installing dependencies from requirements.txt..."
           pip install -r requirements.txt -t ./package
           
-          # 複製你的程式碼
-          cp lambda_function.py ./package/ 2>/dev/null || true
-          cp lambda_fn.py ./package/ 2>/dev/null || true
-          cp app_fn.py ./package/ 2>/dev/null || true
-          cp udn_crawler.py ./package/ 2>/dev/null || true
-          cp udn_article.py ./package/ 2>/dev/null || true
+          # 複製程式碼
+          echo "  → Copying Python files..."
+          cp lambda_function.py ./package/
+          cp lambda_fn.py ./package/
           
           # 複製資料目錄
-          cp -r udn_article ./package/ 2>/dev/null || true
-          cp -r udn_metadata ./package/ 2>/dev/null || true
+          echo "  → Copying data directories..."
+          cp -r udn_article ./package/
+          cp -r udn_metadata ./package/
           
-          # 打包（排除不需要的檔案）
+          # 打包
+          echo "  → Creating zip file..."
           cd package
           zip -r ../lambda_function.zip . -x "*.pyc" -x "*__pycache__*" -x "*.git*"
           cd ..
           
-          # 顯示打包大小
-          du -h lambda_function.zip
+          echo "📊 Package size: $(du -h lambda_function.zip | cut -f1)"
+          echo "⚠️  Tip: Run 'deploy_layer.yaml' workflow to enable lightweight deployments"
+
+      - name: Package Lambda (Lightweight - code only)
+        if: steps.check_layer.outputs.deployment_mode == 'lightweight'
+        run: |
+          echo "📦 Creating LIGHTWEIGHT package (code only)..."
+          
+          # 建立 package 目錄
+          mkdir package
+          
+          # 只複製程式碼（不安裝依賴）
+          echo "  → Copying Python files..."
+          cp lambda_function.py ./package/
+          cp lambda_fn.py ./package/
+          
+          # 複製資料目錄
+          echo "  → Copying data directories..."
+          cp -r udn_article ./package/
+          cp -r udn_metadata ./package/
+          
+          # 打包
+          echo "  → Creating zip file..."
+          cd package
+          zip -r ../lambda_function.zip . -x "*.pyc" -x "*__pycache__*" -x "*.git*"
+          cd ..
+          
+          echo "📊 Package size: $(du -h lambda_function.zip | cut -f1)"
+          echo "✅ Dependencies loaded from Layer"
 
       - name: Update Lambda Function Code
         run: |
+          echo "🚀 Uploading to Lambda..."
           aws lambda update-function-code \
             --function-name LineBot-News \
             --zip-file fileb://lambda_function.zip \
@@ -63,9 +126,33 @@ jobs:
 
       - name: Wait for Function Update
         run: |
+          echo "⏳ Waiting for Lambda to update..."
           aws lambda wait function-updated \
             --function-name LineBot-News \
             --region ap-northeast-1
 
+      - name: Verify Deployment
+        run: |
+          echo "🔍 Verifying deployment..."
+          
+          FUNCTION_INFO=$(aws lambda get-function-configuration \
+            --function-name LineBot-News \
+            --region ap-northeast-1 \
+            --query '{CodeSize:CodeSize,Layers:length(Layers),Runtime:Runtime,LastModified:LastModified}' \
+            --output json)
+          
+          echo "Function details:"
+          echo $FUNCTION_INFO | jq '.'
+
       - name: Deploy Completed
-        run: echo '✅ Deploy to AWS Lambda completed successfully!'
+        run: |
+          echo "✅ Lambda deployment completed successfully!"
+          echo "🔗 Test your LINE Bot now!"
+          
+          if [ "${{ steps.check_layer.outputs.deployment_mode }}" = "full" ]; then
+            echo ""
+            echo "💡 Next steps:"
+            echo "   1. Go to GitHub Actions"
+            echo "   2. Run 'Update Lambda Layer' workflow"
+            echo "   3. Future deployments will be 5x faster!"
+          fi
