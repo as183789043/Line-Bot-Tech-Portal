@@ -11,10 +11,18 @@ on:
       - completed
 
 jobs:
-  setup-aws-cli:
+  deploy-lambda:
     runs-on: ubuntu-latest
     environment: AWS_Personsal_Token
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5.1.1
+        with:
+          python-version: '3.14'
+          
       - name: Setup AWS CLI
         uses: aws-actions/configure-aws-credentials@v4
         with:
@@ -22,28 +30,41 @@ jobs:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
 
-      - name: Setup Python
-        uses: actions/setup-python@v5.1.1
-        with:
-          python-version: 3.14
-          
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Upload Python package to Lambda Layer
+      - name: Install Dependencies and Package Lambda
         run: |
-          #zip  lambda function
-          mkdir function_file
-          rsync -av --exclude='function_file' . function_file/
-          zip -r function_file.zip function_file/  
+          # 安裝依賴到 package 目錄
+          pip install -r requirements.txt -t ./package
+          
+          # 複製你的程式碼
+          cp lambda_function.py ./package/ 2>/dev/null || true
+          cp app_fn.py ./package/ 2>/dev/null || true
+          cp udn_crawler.py ./package/ 2>/dev/null || true
+          cp udn_article.py ./package/ 2>/dev/null || true
+          
+          # 複製資料目錄
+          cp -r udn_article ./package/ 2>/dev/null || true
+          cp -r udn_metadata ./package/ 2>/dev/null || true
+          
+          # 打包（排除不需要的檔案）
+          cd package
+          zip -r ../lambda_function.zip . -x "*.pyc" -x "*__pycache__*" -x "*.git*"
+          cd ..
+          
+          # 顯示打包大小
+          du -h lambda_function.zip
 
-
-          #update lambda function code
+      - name: Update Lambda Function Code
+        run: |
           aws lambda update-function-code \
-          --function-name arn:aws:lambda:ap-northeast-1:614916122187:function:LineBot-News \
-          --zip-file fileb://function_file.zip \
-          --region ap-northeast-1 \
+            --function-name LineBot-News \
+            --zip-file fileb://lambda_function.zip \
+            --region ap-northeast-1
 
+      - name: Wait for Function Update
+        run: |
+          aws lambda wait function-updated \
+            --function-name LineBot-News \
+            --region ap-northeast-1
 
-      - name: AWS CLI Setting Finish
-        run: echo ' Deploy to AWS Lambda ok'
+      - name: Deploy Completed
+        run: echo '✅ Deploy to AWS Lambda completed successfully!'
