@@ -1,0 +1,108 @@
+name: Update Lambda Layer
+
+on:
+  # 手動觸發
+  workflow_dispatch:
+  
+  # requirements.txt 改變時自動執行
+  push:
+    paths:
+      - 'requirements.txt'
+      - '.github/workflows/deploy_layer.yaml'
+    branches:
+      - main
+
+jobs:
+  update-layer:
+    runs-on: ubuntu-latest
+    environment: AWS_Personsal_Token
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5.1.1
+        with:
+          python-version: '3.14'
+          
+      - name: Setup AWS CLI
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-region: 'ap-northeast-1'
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+
+      - name: Build Lambda Layer
+        run: |
+          echo "📦 Building Lambda Layer..."
+          
+          # 建立 Layer 目錄結構
+          mkdir -p layer/python
+          
+          # 安裝所有依賴
+          pip install -r requirements.txt -t layer/python/
+          
+          # 打包
+          cd layer
+          zip -r ../layer.zip python/ -x "*.pyc" -x "*__pycache__*"
+          cd ..
+          
+          echo "📊 Layer size: $(du -h layer.zip | cut -f1)"
+
+      - name: Publish Layer Version
+        id: publish_layer
+        run: |
+          echo "🚀 Publishing Layer to AWS..."
+          
+          LAYER_OUTPUT=$(aws lambda publish-layer-version \
+            --layer-name line-bot-dependencies \
+            --description "LINE Bot SDK and dependencies - Auto-updated from requirements.txt" \
+            --zip-file fileb://layer.zip \
+            --compatible-runtimes python3.14 \
+            --region ap-northeast-1 \
+            --output json)
+          
+          LAYER_ARN=$(echo $LAYER_OUTPUT | jq -r '.LayerVersionArn')
+          LAYER_VERSION=$(echo $LAYER_OUTPUT | jq -r '.Version')
+          
+          echo "✅ Published Layer Version: $LAYER_VERSION"
+          echo "Layer ARN: $LAYER_ARN"
+          
+          echo "LAYER_ARN=$LAYER_ARN" >> $GITHUB_OUTPUT
+          echo "LAYER_VERSION=$LAYER_VERSION" >> $GITHUB_OUTPUT
+
+      - name: Attach Layer to Lambda
+        run: |
+          echo "🔗 Attaching Layer to Lambda function..."
+          
+          aws lambda update-function-configuration \
+            --function-name LineBot-News \
+            --layers ${{ steps.publish_layer.outputs.LAYER_ARN }} \
+            --region ap-northeast-1
+
+      - name: Wait for Configuration Update
+        run: |
+          echo "⏳ Waiting for Lambda configuration update..."
+          aws lambda wait function-updated \
+            --function-name LineBot-News \
+            --region ap-northeast-1
+
+      - name: Verify Layer Attachment
+        run: |
+          echo "🔍 Verifying Layer attachment..."
+          
+          aws lambda get-function-configuration \
+            --function-name LineBot-News \
+            --region ap-northeast-1 \
+            --query 'Layers[*].Arn' \
+            --output table
+
+      - name: Layer Update Completed
+        run: |
+          echo "🎉 Lambda Layer update completed!"
+          echo ""
+          echo "📌 Summary:"
+          echo "  Layer Name: line-bot-dependencies"
+          echo "  Layer Version: ${{ steps.publish_layer.outputs.LAYER_VERSION }}"
+          echo "  Layer ARN: ${{ steps.publish_layer.outputs.LAYER_ARN }}"
