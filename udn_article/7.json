@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/20/2/33422993.jpg&s=Y&x=0&y=0&sw=1046&sh=697&exp=3600&w=300",
+            "title": "台股ETF受益人「連六周」刷新紀錄！這七檔人氣王股民搶買",
+            "link": "https://udn.com//news/story/123006/9204748?from=udn-catebreaknews_ch2",
+            "time": "2025-12-15 19:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/26/realtime/33782547.jpg&s=Y&x=0&y=0&sw=7401&sh=4811&exp=3600&w=300",
             "title": "蘋果供應鏈穩了？大摩最新iPhone出貨量預測：超乎季節性",
             "link": "https://udn.com//news/story/7251/9204580?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "外資上週買超254億元連2買 敲進金融股",
             "link": "https://udn.com//news/story/7251/9204271?from=udn-catebreaknews_ch2",
             "time": "2025-12-15 15:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/26/0/33785237.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "美債光利息支出超過1兆！專家「2關鍵仍具吸引力」：00679B迎轉折點",
-            "link": "https://udn.com//news/story/123006/9204263?from=udn-catebreaknews_ch2",
-            "time": "2025-12-15 15:25"
         }
     ]
 }
