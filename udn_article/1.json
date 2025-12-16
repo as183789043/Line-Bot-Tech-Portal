@@ -1,6 +1,24 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/16/realtime/33983302.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "長照3.0預算超過1100億元 衛福部將強化獨老、孤老照護",
+            "link": "https://udn.com//news/story/6656/9207602?from=udn-catebreaknews_ch2",
+            "time": "2025-12-16 23:12"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/16/realtime/33983092.jpg&s=Y&x=0&y=0&sw=1417&sh=945&exp=3600&w=300",
+            "title": "海纜七法全數三讀 中華電信導入AI戰略升級國家資安防禦",
+            "link": "https://udn.com//news/story/7314/9207538?from=udn-catebreaknews_ch2",
+            "time": "2025-12-16 22:41"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/16/realtime/33982951.jpg&s=Y&x=0&y=30&sw=4300&sh=2866&exp=3600&w=300",
+            "title": "財劃法再修正版將舉債5,638億元 賴總統：違反《公共債務法》上限",
+            "link": "https://udn.com//news/story/124680/9207512?from=udn-catebreaknews_ch2",
+            "time": "2025-12-16 22:24"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/16/98/33982923.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "政院：立院阻斷溝通可能 停砍公教年金修法不提覆議",
             "link": "https://udn.com//news/story/124680/9207498?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "朝野僵局…大法官缺額與評議門檻成關鍵 憲法法庭困境一次看",
             "link": "https://udn.com//news/story/7314/9207451?from=udn-catebreaknews_ch2",
             "time": "2025-12-16 21:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/16/98/33982716.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "賴總統肯定記帳士守護國家財政秩序 打造更進步的台灣",
-            "link": "https://udn.com//news/story/6656/9207471?from=udn-catebreaknews_ch2",
-            "time": "2025-12-16 21:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/16/98/33982515.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "民團籲捷運聯開案兼顧社宅 內政部：社宅採多元興辦",
-            "link": "https://udn.com//news/story/7314/9207436?from=udn-catebreaknews_ch2",
-            "time": "2025-12-16 21:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/16/realtime/33982502.jpg&s=Y&x=0&y=0&sw=4300&sh=2805&exp=3600&w=300",
-            "title": "影／賴總統出席社會福利總盟聯合感恩餐會 以「影片」再批立法院",
-            "link": "https://udn.com//news/story/124680/9207440?from=udn-catebreaknews_ch2",
-            "time": "2025-12-16 21:03"
         }
     ]
 }
