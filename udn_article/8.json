@@ -1,6 +1,12 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/19/realtime/34003758.jpg&s=Y&x=116&y=0&sw=4581&sh=3055&exp=3600&w=300",
+            "title": "今天全台冬雨過境 1地區雨量最多",
+            "link": "https://udn.com//news/story/7266/9212966?from=udn-catebreaknews_ch2",
+            "time": "2025-12-19 06:27"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/19/realtime/34003719.jpeg&s=Y&x=0&y=0&sw=2619&sh=1746&exp=3600&w=300",
             "title": "冬雨來了！ 明天高山零星降雪 周日「冬至」東北季風增強3地區恐大雨",
             "link": "https://udn.com//news/story/7266/9212945?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2025-12-19 01:07"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_5.jpg&w=300",
             "title": "振興醫院年終平均6個月 普發2萬",
             "link": "https://udn.com//news/story/7269/9212705?from=udn-catebreaknews_ch2",
             "time": "2025-12-19 00:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/19/1/34002869.jpg&s=Y&x=0&y=12&sw=1176&sh=784&exp=3600&w=300",
-            "title": "明年最低工資補貼製造業 納入移工",
-            "link": "https://udn.com//news/story/7269/9212698?from=udn-catebreaknews_ch2",
-            "time": "2025-12-19 00:20"
         }
     ]
 }
