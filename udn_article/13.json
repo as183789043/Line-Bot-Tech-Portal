@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/18/0/33997356.jpg&s=Y&x=228&y=0&sw=1049&sh=699&exp=3600&w=300",
+            "title": "Z世代約會殺手：不是貧富差距 而是「潮度差距」",
+            "link": "https://udn.com//news/story/6841/9211083?from=udn-catebreaknews_ch2",
+            "time": "2025-12-18 12:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/18/0/33996558.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "台積電600→400元以為躲過泡沫 卻眼睜睜見1500…心癢想進場不想當韭菜 3建議必看",
             "link": "https://udn.com//news/story/6839/9210770?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "狠甩廣達 緯創晉升電子二哥 AI伺服器推動版圖翻轉",
             "link": "https://udn.com//news/story/6851/9208520?from=udn-catebreaknews_ch2",
             "time": "2025-12-17 14:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/17/draft/33987759.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "降息後震盪加劇 操作策略 拿捏槓桿與風險控管",
-            "link": "https://udn.com//news/story/6851/9208515?from=udn-catebreaknews_ch2",
-            "time": "2025-12-17 14:33"
         }
     ]
 }
