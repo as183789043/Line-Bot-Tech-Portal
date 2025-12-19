@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
+            "title": "日銀升息1碼 利率30年新高",
+            "link": "https://udn.com//news/story/6811/9215049?from=udn-catebreaknews_ch2",
+            "time": "2025-12-20 00:31"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/10/realtime/33926566.jpg&s=Y&x=0&y=0&sw=5192&sh=3461&exp=3600&w=300",
             "title": "專家：川普封鎖委國油輪 中對台恐有樣學樣",
             "link": "https://udn.com//news/story/6809/9215112?from=udn-catebreaknews_ch2",
@@ -15,7 +21,7 @@
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/20/realtime/34008985.jpg&s=Y&x=0&y=0&sw=2126&sh=1417&exp=3600&w=300",
             "title": "美版TikTok真的賣了？出售內容運營權 與甲骨文成立合資公司",
-            "link": "https://udn.com//news/story/6809/9215103?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/6811/9215103?from=udn-catebreaknews_ch2",
             "time": "2025-12-20 00:23"
         },
         {
@@ -23,12 +29,6 @@
             "title": "美股早盤／AI股重振旗鼓！四大指數走高 甲骨文因TikTok交易強漲5.6%",
             "link": "https://udn.com//news/story/6813/9214933?from=udn-catebreaknews_ch2",
             "time": "2025-12-19 22:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/19/98/34008782.jpg&s=Y&x=164&y=0&sw=960&sh=640&exp=3600&w=300",
-            "title": "關係修復變數？陸駭客疑入侵英外交部 數萬筆機敏資料遭竊",
-            "link": "https://udn.com//news/story/6809/9214924?from=udn-catebreaknews_ch2",
-            "time": "2025-12-19 22:43"
         }
     ]
 }
