@@ -1,6 +1,12 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/20/realtime/34011314.jpg&s=Y&x=0&y=0&sw=1720&sh=1120&exp=3600&w=300",
+            "title": "摩爾線程發布「華山」「廬山」晶片   產品明年亮相",
+            "link": "https://udn.com//news/story/7333/9215760?from=udn-catebreaknews_ch2",
+            "time": "2025-12-20 12:53"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/20/realtime/34010952.jpg&s=Y&x=0&y=15&sw=2164&sh=1442&exp=3600&w=300",
             "title": "摩爾線程發布新一代GPU架構「花港」 算力密度提升50%能效提升10倍　",
             "link": "https://udn.com//news/story/7333/9215677?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "「大陸版OpenAI」智譜披露招股書  將成「全球大模型第一股」",
             "link": "https://udn.com//news/story/7333/9215397?from=udn-catebreaknews_ch2",
             "time": "2025-12-20 09:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/20/realtime/34010315.jpg&s=Y&x=0&y=0&sw=5500&sh=3666&exp=3600&w=300",
-            "title": "今年創紀錄！彭博：字節跳動利潤達500億美元 盈利接近Meta",
-            "link": "https://udn.com//news/story/7333/9215394?from=udn-catebreaknews_ch2",
-            "time": "2025-12-20 09:53"
         }
     ]
 }
