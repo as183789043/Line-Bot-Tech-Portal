@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/19/realtime/34005536.jpg&s=Y&x=0&y=0&sw=4200&sh=2800&exp=3600&w=300",
+            "title": "日經民調：高市早苗內閣支持率75％ 連3個月突破7成",
+            "link": "https://udn.com//news/story/6809/9217471?from=udn-catebreaknews_ch2",
+            "time": "2025-12-21 19:01"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/21/98/34014825.jpg&s=Y&x=0&y=72&sw=1277&sh=851&exp=3600&w=300",
+            "title": "烏克蘭：俄軍連續空襲敖德薩 擊中葵花籽油儲存設施",
+            "link": "https://udn.com//news/story/122663/9217451?from=udn-catebreaknews_ch2",
+            "time": "2025-12-21 18:40"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/21/realtime/34017164.jpg&s=Y&x=0&y=0&sw=6434&sh=4290&exp=3600&w=300",
+            "title": "全球記憶體荒 傳南韓2大廠擴產滿足AI伺服器的需求",
+            "link": "https://udn.com//news/story/6809/9217445?from=udn-catebreaknews_ch2",
+            "time": "2025-12-21 18:26"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/16/98/33982616.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "澳洲邦代海灘槍擊滿一週 全國降半旗燭光追悼默哀",
             "link": "https://udn.com//news/story/6809/9217388?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "美俄邁阿密會談「具建設性」 克宮：烏歐修改美版方案未增進和平機會",
             "link": "https://udn.com//news/story/122663/9217382?from=udn-catebreaknews_ch2",
             "time": "2025-12-21 17:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/21/98/34016666.jpg&s=Y&x=0&y=0&sw=1257&sh=838&exp=3600&w=300",
-            "title": "巴基斯坦前總理夫婦涉非法購回國禮 各遭判刑17年",
-            "link": "https://udn.com//news/story/6809/9217303?from=udn-catebreaknews_ch2",
-            "time": "2025-12-21 16:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/02/98/31200506.jpg&s=Y&x=0&y=0&sw=823&sh=549&exp=3600&w=300",
-            "title": "南非酒吧槍擊案下修至9死 約12人做案警方緝凶中",
-            "link": "https://udn.com//news/story/6809/9217280?from=udn-catebreaknews_ch2",
-            "time": "2025-12-21 16:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/20/98/33714093.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "加薩停火談判 美卡達埃及土耳其籲各方保持克制",
-            "link": "https://udn.com//news/story/6813/9217262?from=udn-catebreaknews_ch2",
-            "time": "2025-12-21 15:37"
         }
     ]
 }
