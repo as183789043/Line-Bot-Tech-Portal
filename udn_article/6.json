@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/21/98/34015273.jpg&s=Y&x=0&y=0&sw=1265&sh=843&exp=3600&w=300",
+            "title": "美媒：台積電帶動「矽沙漠」經濟 豪宅成房市主力",
+            "link": "https://udn.com//news/story/7240/9216810?from=udn-catebreaknews_ch2",
+            "time": "2025-12-21 11:15"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/20/realtime/34012304.jpg&s=Y&x=0&y=0&sw=4953&sh=3304&exp=3600&w=300",
+            "title": "本周台股／拉回是修正還是泡沫？專家有一眼辨識法則",
+            "link": "https://udn.com//news/story/7238/9216069?from=udn-catebreaknews_ch2",
+            "time": "2025-12-21 10:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/20/realtime/34010537.jpg&s=Y&x=51&y=0&sw=2880&sh=1920&exp=3600&w=300",
             "title": "流通商戰／超商咖啡渣黑金變綠金 製商品還省垃圾處理費",
             "link": "https://udn.com//news/story/7238/9215485?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "輝達GB300出貨將爆發 帶旺台積、鴻海等營運",
             "link": "https://udn.com//news/story/7240/9216456?from=udn-catebreaknews_ch2",
             "time": "2025-12-21 02:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_3.jpg&w=300",
-            "title": "輝達入股英特爾 美國核准",
-            "link": "https://udn.com//news/story/7240/9216458?from=udn-catebreaknews_ch2",
-            "time": "2025-12-21 01:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
-            "title": "ASIC伺服器鏈 業績添動能",
-            "link": "https://udn.com//news/story/7240/9216464?from=udn-catebreaknews_ch2",
-            "time": "2025-12-21 01:57"
         }
     ]
 }
