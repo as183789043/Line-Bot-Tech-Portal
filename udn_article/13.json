@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/22/draft/34019895.jpeg&s=Y&x=135&y=0&sw=930&sh=620&exp=3600&w=300",
+            "title": "連吹25.5小時 奈及利亞小號手創世界紀錄",
+            "link": "https://udn.com//news/story/11184/9218394?from=udn-catebreaknews_ch2",
+            "time": "2025-12-22 11:14"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/22/draft/34019913.jpeg&s=Y&x=135&y=0&sw=930&sh=620&exp=3600&w=300",
+            "title": "普立茲獎得主工作室操刀 河內「音樂之島」歌劇院動工",
+            "link": "https://udn.com//news/story/11184/9218407?from=udn-catebreaknews_ch2",
+            "time": "2025-12-22 11:14"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/18/draft/33999563.jpg&s=Y&x=41&y=0&sw=519&sh=346&exp=3600&w=300",
             "title": "3D列印重新定義設備與製程",
             "link": "https://udn.com//news/story/11726/9211785?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "從封裝到測試 毫米波通訊關鍵與挑戰",
             "link": "https://udn.com//news/story/6903/9211712?from=udn-catebreaknews_ch2",
             "time": "2025-12-21 09:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/18/draft/33999254.jpg&s=Y&x=0&y=5&sw=392&sh=260&exp=3600&w=300",
-            "title": "SoIC引領後摩爾定律時代：重塑晶片計算架構的關鍵力量",
-            "link": "https://udn.com//news/story/6903/9211690?from=udn-catebreaknews_ch2",
-            "time": "2025-12-21 09:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/18/draft/33999404.jpg&s=Y&x=0&y=0&sw=700&sh=466&exp=3600&w=300",
-            "title": "世界機器人高峰會 臺灣勇奪亞軍",
-            "link": "https://udn.com//news/story/6905/9211743?from=udn-catebreaknews_ch2",
-            "time": "2025-12-21 09:01"
         }
     ]
 }
