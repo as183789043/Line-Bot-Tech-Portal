@@ -1,6 +1,18 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/22/realtime/34019819.jpg&s=Y&x=89&y=0&sw=2358&sh=1572&exp=3600&w=300",
+            "title": "歷史上的今天／1955年光復大陸委員會議開幕 陳誠主持",
+            "link": "https://udn.com//news/story/7314/9218380?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-12-23 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/22/realtime/34023596.png&s=Y&x=0&y=7&sw=1000&sh=666&exp=3600&w=300",
+            "title": "網友大推「香菜＋花生冰淇淋」美味　蔡英文親回：不確定擁有社會共識",
+            "link": "https://udn.com//news/story/7270/9220068?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-12-22 23:38"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/22/realtime/34023506.jpg&s=Y&x=291&y=0&sw=2409&sh=1606&exp=3600&w=300",
             "title": "「憲法法庭成失控憲政怪獸」國民黨團提案：憲法判決可交人民公投複決",
             "link": "https://udn.com//news/story/124686/9219983?from=udn-ch1_breaknews-1-0-news",
@@ -9,7 +21,7 @@
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/22/realtime/34023498.png&s=Y&x=0&y=0&sw=1840&sh=1232&exp=3600&w=300",
             "title": "【即時短評】「早知如此 何必當初」中選會人事 賴政府開始尊重在野？",
-            "link": "https://udn.com//news/story/124680/9219967?from=udn-ch1_breaknews-1-0-news",
+            "link": "https://udn.com//news/story/6656/9219967?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-12-22 23:03"
         },
         {
@@ -17,18 +29,6 @@
             "title": "高雄惡男吃霸王豬血湯不滿被索錢 反稱湯裡有蟑螂痛毆麵店闆娘",
             "link": "https://udn.com//news/story/7320/9219916?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-12-22 22:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/22/realtime/34023453.jpg&s=Y&x=0&y=17&sw=1151&sh=766&exp=3600&w=300",
-            "title": "中捷電力異常近3小時排除狀況 全線恢復營運",
-            "link": "https://udn.com//news/story/7266/9219912?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-12-22 22:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/22/1/34023457.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "北車無差別攻擊事件…法務部啟動全國應變行動 嚴防模仿攻擊擴散",
-            "link": "https://udn.com//news/story/124687/9219913?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-12-22 22:48"
         }
     ]
 }
