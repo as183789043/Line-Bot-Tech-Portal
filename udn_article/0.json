@@ -1,13 +1,25 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/25/realtime/34036664.png&s=Y&x=72&y=116&sw=1056&sh=704&exp=3600&w=300",
+            "title": "台東凌晨連2起顯著有感地震 凌晨4時40分卑南規模4.2地震 最大震度4級",
+            "link": "https://udn.com//news/story/7266/9225155?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-12-25 05:05"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/12/22/34019746.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "華郵：倉庫改建收容所 川普擬像快遞包裹遣返移民",
+            "link": "https://udn.com//news/story/6813/9225137?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-12-25 04:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/25/realtime/34036406.jpg&s=Y&x=152&y=0&sw=5475&sh=3650&exp=3600&w=300",
             "title": "用一個夜晚回望20年的初心 紙風車兒童藝術工程20週年特別演出啟售",
             "link": "https://udn.com//news/story/7270/9225139?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-12-25 03:46"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
             "title": "耶誕行情發酵 美股收紅標普道瓊創新高",
             "link": "https://udn.com//news/story/6811/9225131?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-12-25 03:05"
@@ -17,18 +29,6 @@
             "title": "一出生就有5萬元資產 兒團談「國民帳戶」需考慮經費穩定與排擠問題",
             "link": "https://udn.com//news/story/124691/9225124?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-12-25 02:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/25/realtime/34036339.jpg&s=Y&x=0&y=18&sw=2008&sh=1338&exp=3600&w=300",
-            "title": "有馬也有神獸 明年的故宮會很「動物」 翠玉白菜這個時間點將滿血歸隊",
-            "link": "https://udn.com//news/story/7266/9225123?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-12-25 02:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/25/realtime/34036200.jpeg&s=Y&x=323&y=0&sw=3483&sh=2322&exp=3600&w=300",
-            "title": "要讓全台南分隊都有一台水霧車...消防局前局長李明峯涉貪瀆 南檢聲押",
-            "link": "https://udn.com//news/story/7321/9225100?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-12-25 01:03"
         }
     ]
 }
