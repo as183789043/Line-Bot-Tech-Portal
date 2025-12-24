@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/05/realtime/33885050.jpg&s=Y&x=0&y=0&sw=5000&sh=3333&exp=3600&w=300",
+            "title": "就算台積電赴美 美國還是會護台！他來自中國、8年前曾入川普政府：護台利他也利己",
+            "link": "https://udn.com//news/story/6839/9223365?from=udn-catebreaknews_ch2",
+            "time": "2025-12-24 12:16"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/23/realtime/34025842.jpg&s=Y&x=0&y=0&sw=4915&sh=3276&exp=3600&w=300",
+            "title": "7藍委赴中回台就擋國防預算、鄭麗文喊不一定等得到2028選舉…學者憂和2027攻台有關",
+            "link": "https://udn.com//news/story/6839/9223316?from=udn-catebreaknews_ch2",
+            "time": "2025-12-24 12:12"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/23/0/34026637.jpg&s=Y&x=152&y=104&sw=1125&sh=750&exp=3600&w=300",
             "title": "少子化政策8年大撒幣 為什麼愈補愈不生？台灣生育率還可以怎麼救？",
             "link": "https://udn.com//news/story/6841/9221121?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台灣要認份走向核綠共存！童子賢喊冷氣該開就開 它們才須減碳...看地緣政治",
             "link": "https://udn.com//news/story/6839/9220893?from=udn-catebreaknews_ch2",
             "time": "2025-12-23 13:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/22/0/34020093.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "從存股到買0050 他35歲開始開外掛！轉戰期貨選擇權 6年資產成長600%",
-            "link": "https://udn.com//news/story/6839/9218487?from=udn-catebreaknews_ch2",
-            "time": "2025-12-22 11:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/22/0/34020116.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "AI泡沫何時來…當Gemini超車ChatGPT 軍備競賽進尾聲！他點2科技廠壓力爆大",
-            "link": "https://udn.com//news/story/6839/9218510?from=udn-catebreaknews_ch2",
-            "time": "2025-12-22 11:57"
         }
     ]
 }
