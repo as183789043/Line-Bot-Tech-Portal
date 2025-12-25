@@ -1,9 +1,21 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/26/1/34040951.jpg&s=Y&x=0&y=32&sw=1231&sh=821&exp=3600&w=300",
+            "title": "台宏恢復邦交？外交部：立場務實開放",
+            "link": "https://udn.com//news/story/6656/9226605?from=udn-catebreaknews_ch2",
+            "time": "2025-12-26 01:36"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/26/1/34040920.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "宏都拉斯新總統親台 選前說「將恢復與台灣邦交」",
+            "link": "https://udn.com//news/story/6656/9226606?from=udn-catebreaknews_ch2",
+            "time": "2025-12-26 01:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/26/realtime/34040911.jpg&s=Y&x=0&y=23&sw=2876&sh=1916&exp=3600&w=300",
             "title": "民調顯示陳亭妃領先謝龍介38.6個百分點 對外優勢顯著",
-            "link": "https://udn.com//news/story/6656/9226635?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124652/9226635?from=udn-catebreaknews_ch2",
             "time": "2025-12-26 01:04"
         },
         {
@@ -16,18 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/25/realtime/34037041.jpg&s=Y&x=0&y=27&sw=4036&sh=2690&exp=3600&w=300",
             "title": "歷史上的今天／1965年西門首家假髮店開幕 路人好奇圍觀",
             "link": "https://udn.com//news/story/7314/9225276?from=udn-catebreaknews_ch2",
-            "time": "2025-12-26 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_1.jpg&w=300",
-            "title": "觀察站／柯志恩揭弊助攻 謝龍介鐵漢拚戰",
-            "link": "https://udn.com//news/story/124652/9226465?from=udn-catebreaknews_ch2",
-            "time": "2025-12-26 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/25/realtime/34040677.jpg&s=Y&x=0&y=88&sw=1509&sh=1006&exp=3600&w=300",
-            "title": "藍拚南二都 柯志恩、謝龍介起跑",
-            "link": "https://udn.com//news/story/124652/9226460?from=udn-catebreaknews_ch2",
             "time": "2025-12-26 00:00"
         }
     ]
