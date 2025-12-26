@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
+            "title": "首檔動態調整股債比 ETF 今掛牌 00982T持有台積電、鴻海等指標股",
+            "link": "https://udn.com//news/story/123006/9227387?from=udn-catebreaknews_ch2",
+            "time": "2025-12-26 13:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "title": "台股元月挑戰3萬點？投信：靠AI帶動台灣供應鏈",
+            "link": "https://udn.com//news/story/7251/9227315?from=udn-catebreaknews_ch2",
+            "time": "2025-12-26 13:12"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/26/realtime/34043215.png&s=Y&x=0&y=26&sw=1206&sh=804&exp=3600&w=300",
             "title": "榮昌明年 EPS 衝4元 股價登漲停",
             "link": "https://udn.com//news/story/7253/9227299?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台股觸28590點新高後震盪　銅價漲帶動族群走揚",
             "link": "https://udn.com//news/story/7251/9227145?from=udn-catebreaknews_ch2",
             "time": "2025-12-26 12:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/26/2/34043154.jpg&s=Y&x=0&y=0&sw=1076&sh=717&exp=3600&w=300",
-            "title": "當華邦電、南亞科、力積電休息時 這2檔記憶體接棒飆漲停",
-            "link": "https://udn.com//news/story/7251/9227264?from=udn-catebreaknews_ch2",
-            "time": "2025-12-26 12:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/19/realtime/34008034.jpg&s=Y&x=0&y=0&sw=4341&sh=2893&exp=3600&w=300",
-            "title": "南韓製造業薪資高出台灣26％！網直指「慣老闆太多」：被傳產拖累",
-            "link": "https://udn.com//news/story/12806/9224784?from=udn-catebreaknews_ch2",
-            "time": "2025-12-26 12:06"
         }
     ]
 }
