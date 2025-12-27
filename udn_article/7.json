@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/28/2/34051438.jpg&s=Y&x=0&y=0&sw=1076&sh=717&exp=3600&w=300",
+            "title": "AI 集團股市值大躍升 台積電今年來增11.3兆稱冠",
+            "link": "https://udn.com//news/story/7251/9229819?from=udn-catebreaknews_ch2",
+            "time": "2025-12-28 03:16"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/28/2/34051311.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "台股擂台Q4冠軍揭曉 高維緒季賺38%",
+            "link": "https://udn.com//news/story/7251/9229823?from=udn-catebreaknews_ch2",
+            "time": "2025-12-28 02:49"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/25/realtime/34040658.jpeg&s=Y&x=0&y=13&sw=1889&sh=1258&exp=3600&w=300",
+            "title": "台積電、日月光等14檔 外資「安心加碼股」將領漲",
+            "link": "https://udn.com//news/story/7251/9229826?from=udn-catebreaknews_ch2",
+            "time": "2025-12-28 02:45"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/27/0/34048524.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "00894表現真讓人跌破眼鏡！陳重銘：買進等於參與台股當下最具爆發力的個股",
             "link": "https://udn.com//news/story/123006/9229088?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "珍惜生命遠離0056、00878、00919…高股息ETF？郭哲榮從數學、稅負看0050為何更有優勢",
             "link": "https://udn.com//news/story/123006/9229035?from=udn-catebreaknews_ch2",
             "time": "2025-12-27 11:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/24/2/34032215.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "距離 AI 泡沫還早？法人點名唱旺台積電等六檔半導體股",
-            "link": "https://udn.com//news/story/7251/9229038?from=udn-catebreaknews_ch2",
-            "time": "2025-12-27 11:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/27/0/34048097.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "00981A「主動龍頭ETF」改季配…2個利多！直雲：對個人所得稅偏高者是利空",
-            "link": "https://udn.com//news/story/123006/9228967?from=udn-catebreaknews_ch2",
-            "time": "2025-12-27 11:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/26/2/34046303.jfif&s=Y&x=0&y=0&sw=621&sh=414&exp=3600&w=300",
-            "title": "央行：2022年AI應用興起 台股漲幅領先日韓",
-            "link": "https://udn.com//news/story/7251/9228796?from=udn-catebreaknews_ch2",
-            "time": "2025-12-27 10:21"
         }
     ]
 }
