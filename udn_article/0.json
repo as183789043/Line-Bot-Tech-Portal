@@ -1,6 +1,12 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/27/98/34051380.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "瓜地馬拉泛美公路段1輛客運墜谷 至少15死19傷",
+            "link": "https://udn.com//news/story/6812/9229845?from=udn-ch1_breaknews-1-0-news",
+            "time": "2025-12-28 03:45"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/28/realtime/34051211.png&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
             "title": "北市最大震度4級 已傳20多起零星災情",
             "link": "https://udn.com//news/story/124692/9229952?from=udn-ch1_breaknews-1-0-news",
@@ -13,7 +19,7 @@
             "time": "2025-12-28 01:37"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_4.jpg&w=300",
             "title": "宜蘭外海規模7強震 賴總統籲注意自身安全提高警覺",
             "link": "https://udn.com//news/story/124692/9229935?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-12-28 01:33"
@@ -23,12 +29,6 @@
             "title": "宜蘭外海規模7強震大亂交通！雙鐵停駛列車陸續恢復營運 時間曝光",
             "link": "https://udn.com//news/story/124692/9229948?from=udn-ch1_breaknews-1-0-news",
             "time": "2025-12-28 01:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_5.jpg&w=300",
-            "title": "1227強震影響 台鐵暫停駛四列次陸續恢復行車",
-            "link": "https://udn.com//news/story/124692/9229942?from=udn-ch1_breaknews-1-0-news",
-            "time": "2025-12-28 01:20"
         }
     ]
 }
