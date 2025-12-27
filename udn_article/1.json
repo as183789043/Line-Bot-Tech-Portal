@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/27/realtime/34050840.jpg&s=Y&x=0&y=0&sw=4140&sh=2749&exp=3600&w=300",
+            "title": "國民黨中央委員選舉結果出爐 當選率近9成 陳菁徽得第一",
+            "link": "https://udn.com//news/story/6656/9229748?from=udn-catebreaknews_ch2",
+            "time": "2025-12-27 23:06"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/27/realtime/34050599.jpg&s=Y&x=0&y=0&sw=2508&sh=1672&exp=3600&w=300",
             "title": "綠營台南市長初選政見會 陳亭妃、林俊憲被問對方優點尷尬「這樣說」",
             "link": "https://udn.com//news/story/124652/9229667?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "出席新北市雲林同鄉會活動 賴清德強調守護國家安全維護台灣民主",
             "link": "https://udn.com//news/story/124680/9229554?from=udn-catebreaknews_ch2",
             "time": "2025-12-27 19:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/27/realtime/34050252.jpg&s=Y&x=0&y=6&sw=873&sh=582&exp=3600&w=300",
-            "title": "林岱樺鳳山造勢 提出高雄港「纜車雙塔」政見",
-            "link": "https://udn.com//news/story/124652/9229531?from=udn-catebreaknews_ch2",
-            "time": "2025-12-27 18:48"
         }
     ]
 }
