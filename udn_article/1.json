@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/28/realtime/34051153.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "【總編開箱】賴總統若指控在野黨主席 證據也不能缺席",
+            "link": "https://udn.com//news/story/6656/9229943?from=udn-catebreaknews_ch2",
+            "time": "2025-12-28 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/27/realtime/34050972.jpg&s=Y&x=0&y=0&sw=2550&sh=1700&exp=3600&w=300",
             "title": "竹市禮讓高虹安？ 藍營爆雜音",
             "link": "https://udn.com//news/story/124652/9229866?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2025-12-28 00:19"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
             "title": "游盈隆人事案 府院積極與綠委溝通",
             "link": "https://udn.com//news/story/124680/9229886?from=udn-catebreaknews_ch2",
             "time": "2025-12-28 00:15"
@@ -23,12 +29,6 @@
             "title": "補足大法官 參考中選會提名模式",
             "link": "https://udn.com//news/story/124680/9229891?from=udn-catebreaknews_ch2",
             "time": "2025-12-28 00:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/27/realtime/34048062.jpg&s=Y&x=76&y=0&sw=4536&sh=3024&exp=3600&w=300",
-            "title": "觀察站／藍白合若破局 恐重蹈2024覆轍",
-            "link": "https://udn.com//news/story/124652/9229885?from=udn-catebreaknews_ch2",
-            "time": "2025-12-28 00:12"
         }
     ]
 }
