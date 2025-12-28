@@ -1,18 +1,6 @@
 {
     "地方": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/28/realtime/34055154.jpg&s=Y&x=0&y=0&sw=1700&sh=1133&exp=3600&w=300",
-            "title": "教師申請加班費被拒 只能補休 北市：協助學校調整預算",
-            "link": "https://udn.com//news/story/7323/9231139?from=udn-catebreaknews_ch2",
-            "time": "2025-12-29 00:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/29/1/34055344.jpg&s=Y&x=16&y=96&sw=1157&sh=771&exp=3600&w=300",
-            "title": "減少教師兼任 北市試辦國小約聘行政",
-            "link": "https://udn.com//news/story/7323/9231132?from=udn-catebreaknews_ch2",
-            "time": "2025-12-29 00:25"
-        },
-        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/28/realtime/34055149.jpg&s=Y&x=0&y=42&sw=5712&sh=3808&exp=3600&w=300",
             "title": "新北打造視障友善路口 App報燈號",
             "link": "https://udn.com//news/story/7323/9231127?from=udn-catebreaknews_ch2",
@@ -25,10 +13,22 @@
             "time": "2025-12-29 00:21"
         },
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/28/realtime/34055326.jpg&s=Y&x=0&y=344&sw=4092&sh=2728&exp=3600&w=300",
+            "title": "明霸克露橋改名 祈南橫「公鹿」暢行無阻",
+            "link": "https://udn.com//news/story/7327/9231297?from=udn-catebreaknews_ch2",
+            "time": "2025-12-29 00:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/29/1/34055338.jpg&s=Y&x=12&y=56&sw=1211&sh=807&exp=3600&w=300",
             "title": "廚餘新政衝擊餐飲業 處理費暴漲數倍",
             "link": "https://udn.com//news/story/7325/9231052?from=udn-catebreaknews_ch2",
             "time": "2025-12-29 00:12"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/28/realtime/34055068.jpg&s=Y&x=0&y=11&sw=1494&sh=996&exp=3600&w=300",
+            "title": "廚餘新制將上路 台中收運狀況百出",
+            "link": "https://udn.com//news/story/7325/9231050?from=udn-catebreaknews_ch2",
+            "time": "2025-12-29 00:11"
         }
     ]
 }
