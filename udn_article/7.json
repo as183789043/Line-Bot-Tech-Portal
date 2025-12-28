@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/23/2/34027912.jpg&s=Y&x=60&y=48&sw=1183&sh=789&exp=3600&w=300",
+            "title": "長榮營收／11月276億元、年減23% 12月將迎來旺季",
+            "link": "https://udn.com//news/story/7252/9230800?from=udn-catebreaknews_ch2",
+            "time": "2025-12-28 17:49"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/28/realtime/34054013.jpg&s=Y&x=0&y=6&sw=800&sh=532&exp=3600&w=300",
             "title": "台灣IPO市場今年再創高 半導體領軍上市櫃籌資突破千億",
             "link": "https://udn.com//news/story/7251/9230713?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "證券公司月薪2萬開戶小妹不用盯盤 靠1條均線找到200％飆股",
             "link": "https://udn.com//news/story/12806/9230618?from=udn-catebreaknews_ch2",
             "time": "2025-12-28 15:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/28/0/34053050.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "0050狂勝0056、00878、00919…高股息ETF卡關！郭哲榮分析：明年市值型仍占結構優勢",
-            "link": "https://udn.com//news/story/123006/9230397?from=udn-catebreaknews_ch2",
-            "time": "2025-12-28 12:41"
         }
     ]
 }
