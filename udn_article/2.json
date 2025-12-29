@@ -1,10 +1,16 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
             "title": "謝衣鳯參選彰縣長 政界：仍須整合家族派系",
             "link": "https://udn.com//news/story/124652/9233551?from=udn-catebreaknews_ch2",
             "time": "2025-12-30 00:43"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/29/realtime/34062003.jpg&s=Y&x=148&y=0&sw=4416&sh=2945&exp=3600&w=300",
+            "title": "國防部速提「堅韌台灣」短片 反制中共軍演",
+            "link": "https://udn.com//news/story/10930/9233491?from=udn-catebreaknews_ch2",
+            "time": "2025-12-30 00:38"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/30/realtime/34062193.jpg&s=Y&x=0&y=65&sw=9111&sh=6074&exp=3600&w=300",
@@ -13,22 +19,16 @@
             "time": "2025-12-30 00:31"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
             "title": "觀察站／鄭主席太自信 把新北當囊中物？",
             "link": "https://udn.com//news/story/124652/9233484?from=udn-catebreaknews_ch2",
             "time": "2025-12-30 00:16"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/30/1/34062180.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "新北徵召李四川？藍急滅火",
-            "link": "https://udn.com//news/story/124652/9233485?from=udn-catebreaknews_ch2",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/30/1/34062150.jpeg&s=Y&x=20&y=24&sw=1182&sh=788&exp=3600&w=300",
+            "title": "緊盯共機艦 國防部批陸窮兵黷武",
+            "link": "https://udn.com//news/story/10930/9233494?from=udn-catebreaknews_ch2",
             "time": "2025-12-30 00:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
-            "title": "白營轟賴造謠 限時道歉否則提告求償",
-            "link": "https://udn.com//news/story/6656/9233487?from=udn-catebreaknews_ch2",
-            "time": "2025-12-30 00:12"
         }
     ]
 }
