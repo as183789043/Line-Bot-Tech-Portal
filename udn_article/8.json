@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/24/2/34033135.jpg&s=Y&x=0&y=0&sw=1274&sh=849&exp=3600&w=300",
+            "title": "靜待FOMC會議紀錄…金銀銅先反彈 台指期夜盤震盪翻紅",
+            "link": "https://udn.com//news/story/7251/9235630?from=udn-catebreaknews_ch2",
+            "time": "2025-12-30 21:07"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/30/realtime/34068753.jpg&s=Y&x=0&y=4&sw=426&sh=284&exp=3600&w=300",
             "title": "澳債3A*真魅力 野村推出全台首檔澳債ETF",
             "link": "https://udn.com//news/story/123006/9235527?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "證交所精進ETF分割制度 縮短暫停交易時程以提升市場效率",
             "link": "https://udn.com//news/story/7251/9235277?from=udn-catebreaknews_ch2",
             "time": "2025-12-30 17:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/30/2/34068492.jpg&s=Y&x=0&y=40&sw=1280&sh=853&exp=3600&w=300",
-            "title": "00992A掛牌首日寫驚奇 創主動式台股ETF三項新紀錄",
-            "link": "https://udn.com//news/story/123006/9235258?from=udn-catebreaknews_ch2",
-            "time": "2025-12-30 17:49"
         }
     ]
 }
