@@ -1,13 +1,25 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/01/realtime/34079192.jpeg&s=Y&x=0&y=19&sw=2777&sh=1850&exp=3600&w=300",
+            "title": "豪雨襲元旦又迎首波強烈冷氣團 吳德榮：下周強冷空氣 不排除升級寒流",
+            "link": "https://udn.com//news/story/7266/9238335?from=udn-catebreaknews_ch2",
+            "time": "2026-01-01 05:39"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/01/realtime/34079138.jpg&s=Y&x=0&y=16&sw=1600&sh=1066&exp=3600&w=300",
+            "title": "季長期天氣展望 1月上旬偏冷訊號明顯 這時有受寒流影響機會",
+            "link": "https://udn.com//news/story/7266/9238331?from=udn-catebreaknews_ch2",
+            "time": "2026-01-01 05:27"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/01/realtime/34079108.jpg&s=Y&x=0&y=0&sw=4651&sh=3101&exp=3600&w=300",
             "title": "元旦急凍！ 強烈冷氣團來了又濕又冷 下周一「小寒」還有冷氣團接力",
             "link": "https://udn.com//news/story/7266/9238328?from=udn-catebreaknews_ch2",
             "time": "2026-01-01 05:14"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_7.jpg&w=300",
             "title": "動保法修正擇期再審 民團：放養管制未受重視",
             "link": "https://udn.com//news/story/7266/9238078?from=udn-catebreaknews_ch2",
             "time": "2026-01-01 02:13"
@@ -17,18 +29,6 @@
             "title": "彰基「沐恩廊道」揭幕 陳穆寬續任總院長矢志讓窮人看得起病",
             "link": "https://udn.com//news/story/7266/9238278?from=udn-catebreaknews_ch2",
             "time": "2026-01-01 01:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/01/realtime/34077976.jpeg&s=Y&x=0&y=27&sw=1741&sh=1160&exp=3600&w=300",
-            "title": "影／北101、中麗寶、南義大世界 跨年煙火迎新年",
-            "link": "https://udn.com//news/story/7266/9238260?from=udn-catebreaknews_ch2",
-            "time": "2026-01-01 00:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/01/realtime/34077955.jpg&s=Y&x=0&y=24&sw=1678&sh=1118&exp=3600&w=300",
-            "title": "廣角鏡／101煙火迎2026",
-            "link": "https://udn.com//news/story/7266/9238255?from=udn-catebreaknews_ch2",
-            "time": "2026-01-01 00:42"
         }
     ]
 }
