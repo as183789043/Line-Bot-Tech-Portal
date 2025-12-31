@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/31/realtime/34077574.jpg&s=Y&x=0&y=15&sw=1240&sh=826&exp=3600&w=300",
+            "title": "台股封關指數創新高 非雨露均霑",
+            "link": "https://udn.com//news/story/7251/9238153?from=udn-catebreaknews_ch2",
+            "time": "2026-01-01 00:06"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/31/realtime/34077638.jpg&s=Y&x=0&y=17&sw=2489&sh=1658&exp=3600&w=300",
+            "title": "台股封關…收28963創新高 上市櫃總市值突破百兆元",
+            "link": "https://udn.com//news/story/7251/9238186?from=udn-catebreaknews_ch2",
+            "time": "2025-12-31 23:34"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/31/2/34076851.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "無畏白金、白銀跳水 台指期夜盤再創歷史新高",
             "link": "https://udn.com//news/story/7255/9237889?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "這檔AI伺服器股今年營收年增已逾7成 法人估2026年再增逾6成",
             "link": "https://udn.com//news/story/7253/9237679?from=udn-catebreaknews_ch2",
             "time": "2025-12-31 18:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/31/realtime/34076010.jpg&s=Y&x=0&y=12&sw=1889&sh=1258&exp=3600&w=300",
-            "title": "「鉅亨買基金」最新調查出爐！96%認同AI續領2026投資",
-            "link": "https://udn.com//news/story/7255/9237681?from=udn-catebreaknews_ch2",
-            "time": "2025-12-31 18:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/31/2/34075941.jpg&s=Y&x=0&y=0&sw=1216&sh=811&exp=3600&w=300",
-            "title": "外資全年賣超5995億…唯獨買超這檔逾74萬張 華邦電、力積電也獲大買",
-            "link": "https://udn.com//news/story/7251/9237639?from=udn-catebreaknews_ch2",
-            "time": "2025-12-31 18:05"
         }
     ]
 }
