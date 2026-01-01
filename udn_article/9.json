@@ -1,13 +1,19 @@
 {
     "生活": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/02/realtime/34086406.jpg&s=Y&x=0&y=15&sw=1587&sh=1058&exp=3600&w=300",
+            "title": "未來10天3波強冷空氣接力 今強烈冷氣團發威 新竹湖口10.5度",
+            "link": "https://udn.com//news/story/7266/9239858?from=udn-catebreaknews_ch2",
+            "time": "2026-01-02 04:56"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_2.jpg&w=300",
             "title": "非聽不可／高齡疾病的預防與保健 智慧醫療的現況與發展",
             "link": "https://udn.com//news/story/7266/9239811?from=udn-catebreaknews_ch2",
             "time": "2026-01-02 02:24"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_2.jpg&w=300",
             "title": "1月徵文主題：我的元氣早餐",
             "link": "https://udn.com//news/story/7266/9239813?from=udn-catebreaknews_ch2",
             "time": "2026-01-02 02:06"
@@ -23,12 +29,6 @@
             "title": "晚期攝護腺癌復發…精準放射標靶療法 延長存活期、減疼痛",
             "link": "https://udn.com//news/story/7266/9239810?from=udn-catebreaknews_ch2",
             "time": "2026-01-02 02:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/02/1/34085768.jpg&s=Y&x=0&y=100&sw=1029&sh=686&exp=3600&w=300",
-            "title": "專業觀點／連續血糖監測儀 更精準管控血糖",
-            "link": "https://udn.com//news/story/7266/9239809?from=udn-catebreaknews_ch2",
-            "time": "2026-01-02 01:55"
         }
     ]
 }
