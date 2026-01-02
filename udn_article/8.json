@@ -1,6 +1,18 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/03/realtime/34093287.jpg&s=Y&x=0&y=0&sw=4910&sh=3274&exp=3600&w=300",
+            "title": "強烈冷氣團正在籠罩 恐探8度嚴寒低溫 最寒冷時刻曝",
+            "link": "https://udn.com//news/story/7266/9241914?from=udn-catebreaknews_ch2",
+            "time": "2026-01-03 05:59"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/03/realtime/34093274.jpg&s=Y&x=0&y=0&sw=4306&sh=2871&exp=3600&w=300",
+            "title": "高雄內門8.1度 強烈冷氣團全台急凍 吳德榮：下周三首波寒流機率極高",
+            "link": "https://udn.com//news/story/7266/9241907?from=udn-catebreaknews_ch2",
+            "time": "2026-01-03 05:35"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/03/realtime/34093244.jpg&s=Y&x=0&y=16&sw=1600&sh=1066&exp=3600&w=300",
             "title": "氣象署天氣展望 未來2周冷氣團影響時間長 注意保暖",
             "link": "https://udn.com//news/story/7266/9241902?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "高雄內門8.1度、台南關廟8.5度 鄭明典曝明顯低溫反應關鍵原因",
             "link": "https://udn.com//news/story/7266/9241899?from=udn-catebreaknews_ch2",
             "time": "2026-01-03 04:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/03/realtime/34093023.png&s=Y&x=0&y=8&sw=1128&sh=752&exp=3600&w=300",
-            "title": "凌晨2時14分台灣東部海域規模3.8淺層地震 最大震度2級",
-            "link": "https://udn.com//news/story/7266/9241897?from=udn-catebreaknews_ch2",
-            "time": "2026-01-03 04:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/03/realtime/34092838.jpg&s=Y&x=0&y=0&sw=4349&sh=2899&exp=3600&w=300",
-            "title": "朱宗慶打擊樂團過40歲生日 朱宗慶強調「共好」從演出團隊轉化為平台",
-            "link": "https://udn.com//news/story/7270/9241870?from=udn-catebreaknews_ch2",
-            "time": "2026-01-03 02:31"
         }
     ]
 }
