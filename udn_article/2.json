@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/25/realtime/34037924.jpg&s=Y&x=0&y=0&sw=4256&sh=2837&exp=3600&w=300",
+            "title": "2026高雄、台南綠營內戰廝殺 卻也是藍白合或分試煉場",
+            "link": "https://udn.com//news/story/6656/9225603?from=udn-catebreaknews_ch2",
+            "time": "2026-01-04 07:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/03/realtime/34096733.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
             "title": "【總編開箱】誰在推動兩國論入法？ 賴清德不能置身事外",
             "link": "https://udn.com//news/story/6656/9243070?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2026-01-04 03:37"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
             "title": "藍白版未來帳戶 明日提案",
             "link": "https://udn.com//news/story/6656/9243047?from=udn-catebreaknews_ch2",
             "time": "2026-01-04 02:04"
@@ -23,12 +29,6 @@
             "title": "納管民代、公務員赴陸 在野黨將提版本",
             "link": "https://udn.com//news/story/6656/9243110?from=udn-catebreaknews_ch2",
             "time": "2026-01-04 00:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/04/1/34096906.jpg&s=Y&x=0&y=0&sw=1230&sh=820&exp=3600&w=300",
-            "title": "兩岸改兩國…陸委會：高度政治敏感 須社會多數共識",
-            "link": "https://udn.com//news/story/6656/9243109?from=udn-catebreaknews_ch2",
-            "time": "2026-01-04 00:32"
         }
     ]
 }
