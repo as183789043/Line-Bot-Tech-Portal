@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/04/realtime/34099988.jpeg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
+            "title": "美國對委內瑞拉出手 台股高檔恐引出獲利賣壓",
+            "link": "https://udn.com//news/story/7251/9243968?from=udn-catebreaknews_ch2",
+            "time": "2026-01-04 18:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/04/0/34099895.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "AI股沒泡沫只是修正 億級投資人：看4個指標找出安心強勢股",
+            "link": "https://udn.com//news/story/12806/9243915?from=udn-catebreaknews_ch2",
+            "time": "2026-01-04 17:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/04/2/34099711.jpg&s=Y&x=88&y=0&sw=1080&sh=720&exp=3600&w=300",
             "title": "低軌衛星迎來爆發 法人：台廠5檔相關供應鏈價量齊揚",
             "link": "https://udn.com//news/story/7251/9243868?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2026-01-04 13:05"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
             "title": "台積目標價 外資喊2,400",
             "link": "https://udn.com//news/story/7251/9243060?from=udn-catebreaknews_ch2",
             "time": "2026-01-04 02:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/31/2/34084837.jpg&s=Y&x=0&y=0&sw=897&sh=598&exp=3600&w=300",
-            "title": "六大族群引爆2026多頭行情 群聯、華星光等市場聚焦",
-            "link": "https://udn.com//news/story/7251/9243056?from=udn-catebreaknews_ch2",
-            "time": "2026-01-04 02:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/05/2/33876320.jpg&s=Y&x=124&y=0&sw=1080&sh=720&exp=3600&w=300",
-            "title": "半導體化工廠掀擴產潮 中華化、勝一等樂觀今年接單動能",
-            "link": "https://udn.com//news/story/7252/9243045?from=udn-catebreaknews_ch2",
-            "time": "2026-01-04 02:06"
         }
     ]
 }
