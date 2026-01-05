@@ -1,7 +1,19 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/05/1/34106412.png&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "台股站上3萬點！圖解3次萬點時刻 前2次關鍵不是台積電",
+            "link": "https://udn.com//news/story/7314/9246477?from=udn-catebreaknews_ch2",
+            "time": "2026-01-06 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/06/realtime/34106742.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "股市破3萬新高，只是台積「一個人的武林」？",
+            "link": "https://udn.com//news/story/6656/9246721?from=udn-catebreaknews_ch2",
+            "time": "2026-01-06 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_1.jpg&w=300",
             "title": "巨蛋扮城市引擎 學者：發展演唱會展+旅遊模式",
             "link": "https://udn.com//news/story/7314/9246666?from=udn-catebreaknews_ch2",
             "time": "2026-01-06 00:55"
@@ -17,18 +29,6 @@
             "title": "陽光行動／明年電動公車電池汰換潮 急缺回收規範",
             "link": "https://udn.com//news/story/124700/9246489?from=udn-catebreaknews_ch2",
             "time": "2026-01-06 00:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/05/realtime/34106374.jpg&s=Y&x=0&y=12&sw=1637&sh=1090&exp=3600&w=300",
-            "title": "陽光行動／廢電池綠金 如城市礦山",
-            "link": "https://udn.com//news/story/124700/9246492?from=udn-catebreaknews_ch2",
-            "time": "2026-01-06 00:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/05/realtime/34106565.jpg&s=Y&x=0&y=0&sw=2267&sh=1511&exp=3600&w=300",
-            "title": "陽光行動／電動車激增 廢電池難處理",
-            "link": "https://udn.com//news/story/124700/9246643?from=udn-catebreaknews_ch2",
-            "time": "2026-01-06 00:19"
         }
     ]
 }
