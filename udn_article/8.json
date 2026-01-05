@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/05/realtime/34106570.jpg&s=Y&x=0&y=17&sw=2463&sh=1642&exp=3600&w=300",
+            "title": "廣角鏡／台股站上3萬點 產業失衡未解",
+            "link": "https://udn.com//news/story/7251/9246649?from=udn-catebreaknews_ch2",
+            "time": "2026-01-06 00:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/05/realtime/34106401.jpeg&s=Y&x=0&y=0&sw=4303&sh=2869&exp=3600&w=300",
             "title": "獨／改善台股結構失衡 證交所將推出「價值提升計畫」",
             "link": "https://udn.com//news/story/7251/9246511?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "AI 泡沫化？就怕沒選對基金 可觀察三指標",
             "link": "https://udn.com//news/story/10103/9246396?from=udn-catebreaknews_ch2",
             "time": "2026-01-05 22:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/05/realtime/34106125.jpg&s=Y&x=83&y=0&sw=882&sh=589&exp=3600&w=300",
-            "title": "華通營收／去年12月72.28億元 創近三個月新高",
-            "link": "https://udn.com//news/story/7253/9246362?from=udn-catebreaknews_ch2",
-            "time": "2026-01-05 21:42"
         }
     ]
 }
