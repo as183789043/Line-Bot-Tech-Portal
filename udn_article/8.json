@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/05/realtime/34106401.jpeg&s=Y&x=0&y=0&sw=4303&sh=2869&exp=3600&w=300",
+            "title": "獨／改善台股結構失衡 證交所將推出「價值提升計畫」",
+            "link": "https://udn.com//news/story/7251/9246511?from=udn-catebreaknews_ch2",
+            "time": "2026-01-05 23:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/05/realtime/34106250.jpg&s=Y&x=44&y=0&sw=908&sh=605&exp=3600&w=300",
             "title": "高盛上調台積電目標價至2,330元 法說會行情半導體ETF股價積情秀上路",
             "link": "https://udn.com//news/story/7251/9246405?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "華通營收／去年12月72.28億元 創近三個月新高",
             "link": "https://udn.com//news/story/7253/9246362?from=udn-catebreaknews_ch2",
             "time": "2026-01-05 21:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/05/2/34106077.jpg&s=Y&x=0&y=208&sw=1024&sh=683&exp=3600&w=300",
-            "title": "大盤衝上3萬大關創新高 台股ETF規模「四兆元」達陣",
-            "link": "https://udn.com//news/story/123006/9246348?from=udn-catebreaknews_ch2",
-            "time": "2026-01-05 21:24"
         }
     ]
 }
