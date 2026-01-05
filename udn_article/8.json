@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/05/2/34105874.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "台積電鉅額交易一天內刷新歷史十大天價 拉抬台股成交值首破8,000億元",
+            "link": "https://udn.com//news/story/7251/9246171?from=udn-catebreaknews_ch2",
+            "time": "2026-01-05 19:37"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/05/2/34105788.jpg&s=Y&x=0&y=0&sw=1250&sh=833&exp=3600&w=300",
             "title": "華邦電處分華東5,000張股票 處分利益2.88億元",
             "link": "https://udn.com//news/story/7253/9246130?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "里昂：GPU、AI AISC雙引擎加持 台光電目標價上看2,130元",
             "link": "https://udn.com//news/story/7253/9246080?from=udn-catebreaknews_ch2",
             "time": "2026-01-05 18:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/05/2/34105636.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "投資人看過來！2026年布局高盛喊買這25檔",
-            "link": "https://udn.com//news/story/7251/9246073?from=udn-catebreaknews_ch2",
-            "time": "2026-01-05 18:22"
         }
     ]
 }
