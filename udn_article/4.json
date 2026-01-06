@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/06/realtime/34110924.jpg&s=Y&x=510&y=0&sw=4680&sh=3120&exp=3600&w=300",
+            "title": "蘋果等科技大廠瘋搶DRAM 為何讓南韓飯店業者樂開懷？",
+            "link": "https://udn.com//news/story/6811/9248255?from=udn-catebreaknews_ch2",
+            "time": "2026-01-06 16:54"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/06/98/34110896.jpg&s=Y&x=96&y=0&sw=1058&sh=705&exp=3600&w=300",
+            "title": "超微AI領域迎戰輝達 蘇姿丰秀台積電2奈米加速器",
+            "link": "https://udn.com//news/story/6811/9248217?from=udn-catebreaknews_ch2",
+            "time": "2026-01-06 16:48"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/06/2/34110925.jpg&s=Y&x=0&y=60&sw=672&sh=448&exp=3600&w=300",
+            "title": "成功帶貨？馬杜洛「被捕照」曝光竟成時尚網紅 身上行頭賣到缺貨",
+            "link": "https://udn.com//news/story/124698/9248242?from=udn-catebreaknews_ch2",
+            "time": "2026-01-06 16:48"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/06/realtime/34110715.jpg&s=Y&x=0&y=0&sw=5415&sh=3659&exp=3600&w=300",
             "title": "美媒：川普政府向羅德里格斯提3要求 否則恐步馬杜洛後塵",
             "link": "https://udn.com//news/story/124698/9248185?from=udn-catebreaknews_ch2",
@@ -8,27 +26,9 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/06/realtime/34110697.png&s=Y&x=0&y=0&sw=1396&sh=928&exp=3600&w=300",
-            "title": "馬杜洛被逮 陸外交部：應尊重他國人民自主選擇的道路",
+            "title": "馬杜洛被逮…陸外交部：應尊重他國人民自主選擇的道路",
             "link": "https://udn.com//news/story/124698/9248175?from=udn-catebreaknews_ch2",
             "time": "2026-01-06 16:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/06/1/34110512.jpg&s=Y&x=0&y=32&sw=1280&sh=853&exp=3600&w=300",
-            "title": "馬杜洛自稱「戰俘」有盤算？法學者：待遇較優 戳川普「執法說」",
-            "link": "https://udn.com//news/story/124698/9248053?from=udn-catebreaknews_ch2",
-            "time": "2026-01-06 15:38"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/06/98/34110285.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "遭美押解…馬杜洛面對鏡頭比「2手勢」 專家分析背後含意",
-            "link": "https://udn.com//news/story/124698/9247975?from=udn-catebreaknews_ch2",
-            "time": "2026-01-06 15:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/06/98/34110222.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "馬杜洛戲劇性下台 委國民眾自緊張中恢復正常生活",
-            "link": "https://udn.com//news/story/124698/9247909?from=udn-catebreaknews_ch2",
-            "time": "2026-01-06 15:03"
         }
     ]
 }
