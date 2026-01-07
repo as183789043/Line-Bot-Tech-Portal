@@ -1,6 +1,24 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_6.jpg&w=300",
+            "title": "台東財力跳級與北市並列　主計總處：因統籌稅款大幅增加220％",
+            "link": "https://udn.com//news/story/6656/9251268?from=udn-catebreaknews_ch2",
+            "time": "2026-01-07 22:20"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/07/realtime/34120405.jpg&s=Y&x=135&y=0&sw=2730&sh=1820&exp=3600&w=300",
+            "title": "賴總統：AI新十大建設 拚2040年前創造15兆產值",
+            "link": "https://udn.com//news/story/6656/9251269?from=udn-catebreaknews_ch2",
+            "time": "2026-01-07 22:20"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/07/realtime/34120412.jpg&s=Y&x=0&y=0&sw=1920&sh=1280&exp=3600&w=300",
+            "title": "F-16飛官失事 國民黨：民進黨國防失政的結構性後果",
+            "link": "https://udn.com//news/story/6656/9251275?from=udn-catebreaknews_ch2",
+            "time": "2026-01-07 22:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/07/98/34120010.jpg&s=Y&x=20&y=28&sw=1209&sh=806&exp=3600&w=300",
             "title": "學者：代表權被中共繼承 中華民國無法重返聯合國",
             "link": "https://udn.com//news/story/6656/9251190?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "石崇良改口為「少子女化辦公室」滅火 黃國昌：賴政府容不下講實話的人",
             "link": "https://udn.com//news/story/6656/9251193?from=udn-catebreaknews_ch2",
             "time": "2026-01-07 21:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/07/realtime/34119778.jpeg&s=Y&x=0&y=0&sw=5197&sh=3465&exp=3600&w=300",
-            "title": "立院明審議人工生殖法修法 立委陳昭姿：代孕入法是一生最大的願望",
-            "link": "https://udn.com//news/story/124680/9251152?from=udn-catebreaknews_ch2",
-            "time": "2026-01-07 20:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/07/realtime/34119507.jpg&s=Y&x=133&y=0&sw=1440&sh=960&exp=3600&w=300",
-            "title": "【重磅快評】國民黨彰化姊弟競合 能破「8年魔咒」？",
-            "link": "https://udn.com//news/story/124652/9251096?from=udn-catebreaknews_ch2",
-            "time": "2026-01-07 20:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/07/98/34119338.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "F-16V飛官失聯 18架次航空器13艘艦艇投入救援",
-            "link": "https://udn.com//news/story/10930/9251020?from=udn-catebreaknews_ch2",
-            "time": "2026-01-07 19:54"
         }
     ]
 }
