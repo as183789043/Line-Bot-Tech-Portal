@@ -1,6 +1,18 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/09/realtime/34136177.png&s=Y&x=0&y=8&sw=1138&sh=758&exp=3600&w=300",
+            "title": "凌晨0時30分新竹尖石規模3.9淺層地震 最大震度3級",
+            "link": "https://udn.com//news/story/7266/9254087?from=udn-catebreaknews_ch2",
+            "time": "2026-01-09 05:01"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/09/realtime/34136136.png&s=Y&x=0&y=8&sw=1128&sh=752&exp=3600&w=300",
+            "title": "凌晨4時26分宜蘭縣近海規模3.3地震 最大震度3級",
+            "link": "https://udn.com//news/story/7266/9254085?from=udn-catebreaknews_ch2",
+            "time": "2026-01-09 04:58"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/09/realtime/34135846.jpg&s=Y&x=0&y=30&sw=4000&sh=2666&exp=3600&w=300",
             "title": "日本舞踏極致幽美之作 山海塾「影見」登場北藝中心致敬天兒牛大",
             "link": "https://udn.com//news/story/7270/9254069?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "萬波「3款草莓系飲品」、發發×乖乖「草莓煉乳優格」酸甜新登場",
             "link": "https://udn.com//news/story/7270/9254027?from=udn-catebreaknews_ch2",
             "time": "2026-01-09 00:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/08/realtime/34134032.jpg&s=Y&x=273&y=0&sw=3156&sh=2104&exp=3600&w=300",
-            "title": "風景區向旅客強行推銷 可罰30萬",
-            "link": "https://udn.com//news/story/7266/9253934?from=udn-catebreaknews_ch2",
-            "time": "2026-01-09 00:15"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_9.jpg&w=300",
-            "title": "青壯年免費心理諮商 去年轉介28%",
-            "link": "https://udn.com//news/story/7266/9253939?from=udn-catebreaknews_ch2",
-            "time": "2026-01-09 00:12"
         }
     ]
 }
