@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/08/19/2/32936319.jpg&s=Y&x=0&y=46&sw=720&sh=480&exp=3600&w=300",
+            "title": "美股雲霄飛車行情前 台指期夜盤上半場先衝一波",
+            "link": "https://udn.com//news/story/7255/9255985?from=udn-catebreaknews_ch2",
+            "time": "2026-01-09 21:04"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/07/realtime/34117823.jpg&s=Y&x=0&y=0&sw=4903&sh=3314&exp=3600&w=300",
+            "title": "外資賣超台股84億元 調節0050與台積電",
+            "link": "https://udn.com//news/story/7251/9255943?from=udn-catebreaknews_ch2",
+            "time": "2026-01-09 20:41"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/09/realtime/34144614.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
             "title": "中信金去年獲利破800億元 EPS 4.08元",
             "link": "https://udn.com//news/story/7252/9255848?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "上市市值本周增胖3.22%達98.69兆元 電器電纜補漲近7%最猛",
             "link": "https://udn.com//news/story/7251/9255758?from=udn-catebreaknews_ch2",
             "time": "2026-01-09 18:38"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/09/realtime/34144253.jpg&s=Y&x=0&y=0&sw=5171&sh=3447&exp=3600&w=300",
-            "title": "文曄營收／去年1.17兆元創新高 首破兆元大關",
-            "link": "https://udn.com//news/story/7253/9255736?from=udn-catebreaknews_ch2",
-            "time": "2026-01-09 18:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/02/realtime/34092541.jpg&s=Y&x=0&y=10&sw=1417&sh=944&exp=3600&w=300",
-            "title": "中信金去年獲利突破800億元再創新高 EPS達4.08元",
-            "link": "https://udn.com//news/story/7252/9255715?from=udn-catebreaknews_ch2",
-            "time": "2026-01-09 18:14"
         }
     ]
 }
