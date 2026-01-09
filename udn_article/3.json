@@ -1,7 +1,13 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
+            "title": "伊朗司法部門誓言對示威者處以「最嚴厲」的懲罰",
+            "link": "https://udn.com//news/story/6809/9256103?from=udn-catebreaknews_ch2",
+            "time": "2026-01-10 06:42"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
             "title": "美就業降溫 利率估不動",
             "link": "https://udn.com//news/story/6811/9256214?from=udn-catebreaknews_ch2",
             "time": "2026-01-10 06:09"
@@ -23,12 +29,6 @@
             "title": "川普挺房貸族 找「二房」救援",
             "link": "https://udn.com//news/story/6811/9256176?from=udn-catebreaknews_ch2",
             "time": "2026-01-10 01:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
-            "title": "Meta 拚 AI 競賽 大買核電",
-            "link": "https://udn.com//news/story/6811/9256172?from=udn-catebreaknews_ch2",
-            "time": "2026-01-10 00:59"
         }
     ]
 }
