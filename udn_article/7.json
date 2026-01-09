@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/09/realtime/34144614.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
+            "title": "中信金去年獲利破800億元 EPS 4.08元",
+            "link": "https://udn.com//news/story/7252/9255848?from=udn-catebreaknews_ch2",
+            "time": "2026-01-09 19:44"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/15/2/33964733.jpg&s=Y&x=0&y=0&sw=1076&sh=717&exp=3600&w=300",
+            "title": "AI伺服器拉貨潮噴發 緯創、鴻海、廣達「出貨激戰」數據曝光",
+            "link": "https://udn.com//news/story/7251/9255810?from=udn-catebreaknews_ch2",
+            "time": "2026-01-09 19:14"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/07/2/34116601.jpg&s=Y&x=0&y=0&sw=1272&sh=848&exp=3600&w=300",
             "title": "上市市值本周增胖3.22%達98.69兆元 電器電纜補漲近7%最猛",
             "link": "https://udn.com//news/story/7251/9255758?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "中信金去年獲利突破800億元再創新高 EPS達4.08元",
             "link": "https://udn.com//news/story/7252/9255715?from=udn-catebreaknews_ch2",
             "time": "2026-01-09 18:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/31/98/34074288.jpg&s=Y&x=28&y=52&sw=1201&sh=801&exp=3600&w=300",
-            "title": "長榮航營收／2025年12月202億元 創歷史單月新高",
-            "link": "https://udn.com//news/story/7252/9255706?from=udn-catebreaknews_ch2",
-            "time": "2026-01-09 18:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/05/realtime/34106570.jpg&s=Y&x=0&y=17&sw=2463&sh=1642&exp=3600&w=300",
-            "title": "台股單周大漲逾900點 晶圓龍頭大廠法說替紅包行情加溫",
-            "link": "https://udn.com//news/story/7251/9255679?from=udn-catebreaknews_ch2",
-            "time": "2026-01-09 18:01"
         }
     ]
 }
