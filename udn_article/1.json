@@ -1,13 +1,19 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/11/realtime/34151335.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "【總編開箱】綠營必打抹紅戰 藍營更不該放棄兩岸主場",
+            "link": "https://udn.com//news/story/6656/9257683?from=udn-catebreaknews_ch2",
+            "time": "2026-01-11 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
             "title": "文資公共財 學者：政府應協助",
             "link": "https://udn.com//news/story/7314/9257575?from=udn-catebreaknews_ch2",
             "time": "2026-01-11 02:22"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
             "title": "化南新村案…政大提訟解套 台大想效法",
             "link": "https://udn.com//news/story/7314/9257579?from=udn-catebreaknews_ch2",
             "time": "2026-01-11 02:22"
@@ -20,15 +26,9 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/10/realtime/34150804.jpg&s=Y&x=0&y=11&sw=1510&sh=1006&exp=3600&w=300",
-            "title": "新竹縣長戰 陳見賢、徐欣瑩爭國民黨提名 輪番造勢",
+            "title": "新竹縣長戰…陳見賢、徐欣瑩爭國民黨提名 輪番造勢",
             "link": "https://udn.com//news/story/124652/9257511?from=udn-catebreaknews_ch2",
             "time": "2026-01-11 00:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/10/realtime/34148197.jpg&s=Y&x=0&y=0&sw=4433&sh=2921&exp=3600&w=300",
-            "title": "歷史上的今天／1966年肉雞大比拚 精選10隻「雞明星」",
-            "link": "https://udn.com//news/story/7314/9256875?from=udn-catebreaknews_ch2",
-            "time": "2026-01-11 00:00"
         }
     ]
 }
