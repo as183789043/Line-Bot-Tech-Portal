@@ -1,6 +1,12 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/11/1/34151250.jpg&s=Y&x=4&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "新聞眼／輔具補助悖離現實 淪無效藥方",
+            "link": "https://udn.com//news/story/7266/9257598?from=udn-catebreaknews_ch2",
+            "time": "2026-01-11 00:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/10/realtime/34150940.jpg&s=Y&x=0&y=0&sw=1700&sh=1133&exp=3600&w=300",
             "title": "輔具補助難滿足需求 違規醫材橫行",
             "link": "https://udn.com//news/story/7266/9257595?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "公路客運衰退 啟動路網大瘦身",
             "link": "https://udn.com//news/story/7266/9257601?from=udn-catebreaknews_ch2",
             "time": "2026-01-11 00:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/11/1/34151124.jpg&s=Y&x=12&y=4&sw=1269&sh=846&exp=3600&w=300",
-            "title": "劉珒鋼琴獨奏會 早鳥優惠",
-            "link": "https://udn.com//news/story/7266/9257603?from=udn-catebreaknews_ch2",
-            "time": "2026-01-11 00:01"
         }
     ]
 }
