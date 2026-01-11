@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/31/2/34069938.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "台積電目標價上修潮一波波 最新數字都是2,000元起跳",
+            "link": "https://udn.com//news/story/7251/9258923?from=udn-catebreaknews_ch2",
+            "time": "2026-01-12 02:05"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/11/2/34156567.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "AI伺服器、ASIC需求強！法人：台光電今年營收1,244億、EPS逾60元",
             "link": "https://udn.com//news/story/7255/9258546?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "零股、興櫃納入抵繳擔保品！網嗨喊小資福音 卻也憂「零股制度來了」",
             "link": "https://udn.com//news/story/12806/9252910?from=udn-catebreaknews_ch2",
             "time": "2026-01-11 15:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/11/realtime/34154849.jpg&s=Y&x=0&y=0&sw=2000&sh=1334&exp=3600&w=300",
-            "title": "台股漲破3萬！永豐金證券「投資動物屬性」2025年度回顧盛大登場",
-            "link": "https://udn.com//news/story/7251/9258255?from=udn-catebreaknews_ch2",
-            "time": "2026-01-11 13:54"
         }
     ]
 }
