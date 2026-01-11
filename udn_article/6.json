@@ -1,6 +1,24 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/11/realtime/34155002.jpeg&s=Y&x=0&y=42&sw=5712&sh=3808&exp=3600&w=300",
+            "title": "四位台積電美國年輕工程師 幫遠赴外打拚同仁找回故鄉味",
+            "link": "https://udn.com//news/story/7240/9258290?from=udn-catebreaknews_ch2",
+            "time": "2026-01-11 14:20"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/11/realtime/34154922.jpg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
+            "title": "影／賴清德總統：醫療結合科技成下一座護國神山",
+            "link": "https://udn.com//news/story/7238/9258268?from=udn-catebreaknews_ch2",
+            "time": "2026-01-11 14:02"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/11/realtime/34154659.jpg&s=Y&x=0&y=0&sw=1195&sh=812&exp=3600&w=300",
+            "title": "用AI辨識感測、誘捕管理流浪犬 提高效率並保障安全",
+            "link": "https://udn.com//news/story/7240/9258202?from=udn-catebreaknews_ch2",
+            "time": "2026-01-11 13:05"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/11/realtime/34154512.jpg&s=Y&x=0&y=14&sw=1109&sh=738&exp=3600&w=300",
             "title": "全台土方之亂建商哀號 流標工程終結者：土方是珍貴資源",
             "link": "https://udn.com//news/story/7241/9258160?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "本周台股／台股強勢站穩3萬點 挑戰百兆市值大關",
             "link": "https://udn.com//news/story/7238/9257057?from=udn-catebreaknews_ch2",
             "time": "2026-01-11 10:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/10/realtime/34148628.jpg&s=Y&x=0&y=0&sw=4987&sh=3325&exp=3600&w=300",
-            "title": "2026 CES產業邏輯徹底翻轉 宣告全面進入AI化時代",
-            "link": "https://udn.com//news/story/7238/9257038?from=udn-catebreaknews_ch2",
-            "time": "2026-01-11 09:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/11/98/34152865.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "NPU晶片市場受矚 耐能執行長：台灣能做核心研發",
-            "link": "https://udn.com//news/story/7240/9257770?from=udn-catebreaknews_ch2",
-            "time": "2026-01-11 08:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/11/realtime/34152521.jpg&s=Y&x=0&y=0&sw=4469&sh=2979&exp=3600&w=300",
-            "title": "【專家之眼】桃花源裡的台灣，官方數據看不見的悲慘世界",
-            "link": "https://udn.com//news/story/7238/9257749?from=udn-catebreaknews_ch2",
-            "time": "2026-01-11 06:21"
         }
     ]
 }
