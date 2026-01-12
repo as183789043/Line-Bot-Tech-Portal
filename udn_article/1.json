@@ -1,13 +1,25 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/13/realtime/34167768.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "北宜高鐵即將上軌前行，為何還要狗吠火車？",
+            "link": "https://udn.com//news/story/124706/9261243?from=udn-catebreaknews_ch2",
+            "time": "2026-01-13 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/12/1/34167404.png&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
+            "title": "北宜高鐵太貴挨轟 與直鐵經費差距有多大？一圖看懂",
+            "link": "https://udn.com//news/story/7314/9261132?from=udn-catebreaknews_ch2",
+            "time": "2026-01-13 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/12/realtime/34167510.jpg&s=Y&x=51&y=0&sw=2550&sh=1700&exp=3600&w=300",
             "title": "北宜高鐵案經費暴增到4千億 綠藍前部長籲政府喊停",
             "link": "https://udn.com//news/story/124706/9261170?from=udn-catebreaknews_ch2",
             "time": "2026-01-13 00:13"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
             "title": "李鴻源籲取消總統府三大委員會",
             "link": "https://udn.com//news/story/6656/9261206?from=udn-catebreaknews_ch2",
             "time": "2026-01-13 00:05"
@@ -16,18 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/12/realtime/34167469.jpg&s=Y&x=0&y=156&sw=944&sh=629&exp=3600&w=300",
             "title": "南投縣長選戰 綠推「學長」温世政挑戰許淑華",
             "link": "https://udn.com//news/story/124652/9261144?from=udn-catebreaknews_ch2",
-            "time": "2026-01-13 00:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
-            "title": "監院出手 調查北宜高鐵案程序、溝通不足問題",
-            "link": "https://udn.com//news/story/124706/9261205?from=udn-catebreaknews_ch2",
-            "time": "2026-01-13 00:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
-            "title": "國民黨團批社宅政見跳票 要劉世芳下台",
-            "link": "https://udn.com//news/story/6656/9261165?from=udn-catebreaknews_ch2",
             "time": "2026-01-13 00:05"
         }
     ]
