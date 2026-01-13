@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/08/realtime/34124346.jpg&s=Y&x=0&y=6&sw=799&sh=532&exp=3600&w=300",
+            "title": "走進電影院觀賞冠軍之路 蔡英文：台灣一定會再迎來光榮時刻",
+            "link": "https://udn.com//news/story/6656/9263497?from=udn-catebreaknews_ch2",
+            "time": "2026-01-13 22:14"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/13/98/34177441.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "首位綠營立法院長！蘇嘉全掌海基會「背景曝」 兩岸民間交流能否春暖花開",
             "link": "https://udn.com//news/story/6656/9263377?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台美談判進入尾聲？傳台積電再投資5座美廠「換關稅15%」 江啟臣：早失先機",
             "link": "https://udn.com//news/story/6656/9263341?from=udn-catebreaknews_ch2",
             "time": "2026-01-13 20:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/13/realtime/34176978.jpg&s=Y&x=0&y=0&sw=3695&sh=2463&exp=3600&w=300",
-            "title": "確定接棒！總統任命蘇嘉全出任海基會董事長 盼持續推進兩岸正面交流",
-            "link": "https://udn.com//news/story/6656/9263269?from=udn-catebreaknews_ch2",
-            "time": "2026-01-13 19:51"
         }
     ]
 }
