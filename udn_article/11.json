@@ -1,21 +1,9 @@
 {
     "兩岸": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/13/realtime/34178249.jpg&s=Y&x=0&y=0&sw=5000&sh=3335&exp=3600&w=300",
-            "title": "我方招待訪台 卡尼同黨議員提前離台挨轟",
-            "link": "https://udn.com//news/story/7331/9263571?from=udn-catebreaknews_ch2",
-            "time": "2026-01-14 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/13/realtime/34178237.jpg&s=Y&x=0&y=0&sw=3695&sh=2463&exp=3600&w=300",
-            "title": "蘇嘉全接海基會董座 府：盼推進兩岸正面健康交流",
-            "link": "https://udn.com//news/story/7331/9263566?from=udn-catebreaknews_ch2",
-            "time": "2026-01-14 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/13/realtime/34178231.jpg&s=Y&x=0&y=0&sw=6906&sh=4604&exp=3600&w=300",
-            "title": "陸拿歐洲法律「建議」歐洲 應禁我政治人物訪歐",
-            "link": "https://udn.com//news/story/7331/9263562?from=udn-catebreaknews_ch2",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/14/1/34178561.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "加拿大總理今訪陸 「破冰的第一步」",
+            "link": "https://udn.com//news/story/7331/9263567?from=udn-catebreaknews_ch2",
             "time": "2026-01-14 00:00"
         },
         {
@@ -25,9 +13,21 @@
             "time": "2026-01-14 00:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/14/1/34178561.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "加拿大總理今訪陸 「破冰的第一步」",
-            "link": "https://udn.com//news/story/7331/9263567?from=udn-catebreaknews_ch2",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/13/realtime/34178231.jpg&s=Y&x=0&y=0&sw=6906&sh=4604&exp=3600&w=300",
+            "title": "陸拿歐洲法律「建議」歐洲 應禁我政治人物訪歐",
+            "link": "https://udn.com//news/story/7331/9263562?from=udn-catebreaknews_ch2",
+            "time": "2026-01-14 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/13/realtime/34178237.jpg&s=Y&x=0&y=0&sw=3695&sh=2463&exp=3600&w=300",
+            "title": "蘇嘉全接海基會董座 府：盼推進兩岸正面健康交流",
+            "link": "https://udn.com//news/story/7331/9263566?from=udn-catebreaknews_ch2",
+            "time": "2026-01-14 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/13/realtime/34178249.jpg&s=Y&x=0&y=0&sw=5000&sh=3335&exp=3600&w=300",
+            "title": "我方招待訪台 卡尼同黨議員提前離台挨轟",
+            "link": "https://udn.com//news/story/7331/9263571?from=udn-catebreaknews_ch2",
             "time": "2026-01-14 00:00"
         }
     ]
