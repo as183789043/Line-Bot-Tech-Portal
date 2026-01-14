@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/14/draft/34184539.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
+            "title": "AI雙雄競速 台灣硬體紅利再起",
+            "link": "https://udn.com//news/story/6851/9264804?from=udn-catebreaknews_ch2",
+            "time": "2026-01-14 15:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/14/draft/34183363.jpg&s=Y&x=95&y=0&sw=705&sh=470&exp=3600&w=300",
             "title": "門外漢變堅果專家 同興讓麵包冠軍買單！80年老字號逆襲 台灣市占第一",
             "link": "https://udn.com//news/story/6839/9264489?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "關小黑屋毒打、站銬5天不准睡！他被拐到緬甸當「豬仔」奇蹟生還：詐團最愛台灣人",
             "link": "https://udn.com//news/story/6839/9264454?from=udn-catebreaknews_ch2",
             "time": "2026-01-14 13:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/14/draft/34183226.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "低軌衛星進入商轉新階段",
-            "link": "https://udn.com//news/story/6851/9264431?from=udn-catebreaknews_ch2",
-            "time": "2026-01-14 13:08"
         }
     ]
 }

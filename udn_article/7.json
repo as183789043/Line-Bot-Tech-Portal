@@ -1,8 +1,14 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
-            "title": "台積電法說會倒計時 最後一盤爆5,046張買單拉升股價收平盤",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/14/2/34185508.jpg&s=Y&x=0&y=0&sw=1206&sh=804&exp=3600&w=300",
+            "title": "三大法人買超近140億元助攻台股飆雙高 1,502檔上漲、77檔齊亮燈",
+            "link": "https://udn.com//news/story/7251/9265023?from=udn-catebreaknews_ch2",
+            "time": "2026-01-14 15:09"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/14/2/34185507.jpg&s=Y&x=64&y=0&sw=1127&sh=751&exp=3600&w=300",
+            "title": "台積電法說會倒數計時！最後一盤爆5,046張買單 拉升股價收平盤",
             "link": "https://udn.com//news/story/7251/9264889?from=udn-catebreaknews_ch2",
             "time": "2026-01-14 14:20"
         },
@@ -23,12 +29,6 @@
             "title": "傳美對台關稅可調降 工具機業者「鬆口氣」 機械股同步大漲",
             "link": "https://udn.com//news/story/7251/9264620?from=udn-catebreaknews_ch2",
             "time": "2026-01-14 12:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/14/realtime/34183938.png&s=Y&x=245&y=0&sw=195&sh=130&exp=3600&w=300",
-            "title": "台股第1季上漲機率高 主動基金搶攻超過七成的上漲率",
-            "link": "https://udn.com//news/story/7251/9264614?from=udn-catebreaknews_ch2",
-            "time": "2026-01-14 12:33"
         }
     ]
 }
