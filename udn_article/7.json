@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "title": "台積電法說會倒計時 最後一盤爆5,046張買單拉升股價收平盤",
+            "link": "https://udn.com//news/story/7251/9264889?from=udn-catebreaknews_ch2",
+            "time": "2026-01-14 14:20"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/12/realtime/34166464.jpg&s=Y&x=0&y=17&sw=2427&sh=1618&exp=3600&w=300",
+            "title": "他2檔慘虧13萬⋯套牢5年攤平愈攤愈痛！網勸：停損轉進0050",
+            "link": "https://udn.com//news/story/7251/9262761?from=udn-catebreaknews_ch2",
+            "time": "2026-01-14 13:58"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/14/2/34184641.jpg&s=Y&x=0&y=0&sw=1098&sh=732&exp=3600&w=300",
+            "title": "台股三天狂漲652點！收30,941點再創新高 台積電收平盤",
+            "link": "https://udn.com//news/story/7251/9264818?from=udn-catebreaknews_ch2",
+            "time": "2026-01-14 13:51"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
             "title": "傳美對台關稅可調降 工具機業者「鬆口氣」 機械股同步大漲",
             "link": "https://udn.com//news/story/7251/9264620?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "台股第1季上漲機率高 主動基金搶攻超過七成的上漲率",
             "link": "https://udn.com//news/story/7251/9264614?from=udn-catebreaknews_ch2",
             "time": "2026-01-14 12:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
-            "title": "8吋晶圓漲風點火！矽晶圓3檔漲停 環球晶重返500元、合晶衝人氣王",
-            "link": "https://udn.com//news/story/7251/9264597?from=udn-catebreaknews_ch2",
-            "time": "2026-01-14 12:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
-            "title": "8吋晶圓代工價喊漲二成 3檔受惠股中世界漲最大、聯電卻翻黑",
-            "link": "https://udn.com//news/story/7251/9264574?from=udn-catebreaknews_ch2",
-            "time": "2026-01-14 12:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/14/realtime/34183195.jpg&s=Y&x=86&y=0&sw=627&sh=418&exp=3600&w=300",
-            "title": "台積電法說會倒數計時 暖身尾聲股價1,710元平盤遊走",
-            "link": "https://udn.com//news/story/7251/9264423?from=udn-catebreaknews_ch2",
-            "time": "2026-01-14 11:31"
         }
     ]
 }
