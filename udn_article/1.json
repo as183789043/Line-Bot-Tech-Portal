@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/15/realtime/34189457.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "【總編開箱】3股氣旋騷動朝國民黨撲來",
+            "link": "https://udn.com//news/story/124652/9266125?from=udn-catebreaknews_ch2",
+            "time": "2026-01-15 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/15/realtime/34189329.jpg&s=Y&x=584&y=676&sw=1819&sh=1213&exp=3600&w=300",
             "title": "賴總統接見鳳凰城市長 盼台美盡早簽「免雙重課稅」協定",
             "link": "https://udn.com//news/story/6656/9266102?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "民進黨台南「妃憲之爭」今揭曉 徐國勇喊選後整合",
             "link": "https://udn.com//news/story/124652/9266048?from=udn-catebreaknews_ch2",
             "time": "2026-01-15 00:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/14/realtime/34187773.jpg&s=Y&x=0&y=372&sw=4320&sh=2880&exp=3600&w=300",
-            "title": "國民黨竹縣初選不採全民調 徐欣瑩指不公",
-            "link": "https://udn.com//news/story/124652/9266054?from=udn-catebreaknews_ch2",
-            "time": "2026-01-15 00:05"
         }
     ]
 }
