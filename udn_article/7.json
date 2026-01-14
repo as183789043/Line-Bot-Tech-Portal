@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/14/2/34188101.jpg&s=Y&x=0&y=0&sw=1277&sh=851&exp=3600&w=300",
+            "title": "國際金融、地緣政治詭譎 美股電子盤、台指期夜盤摔跤",
+            "link": "https://udn.com//news/story/7255/9265726?from=udn-catebreaknews_ch2",
+            "time": "2026-01-14 20:23"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/13/realtime/34170623.jpg&s=Y&x=0&y=0&sw=5000&sh=3333&exp=3600&w=300",
+            "title": "外資不演了！台積電法說前夕「急行軍」 大摩解析最新晶圓代工動態",
+            "link": "https://udn.com//news/story/7251/9265690?from=udn-catebreaknews_ch2",
+            "time": "2026-01-14 20:12"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/24/2/34031956.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "總金額4.08億！大立光再買回168張庫藏股 達成率46.5%",
             "link": "https://udn.com//news/story/7252/9265547?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台股屢創高峰 25檔台股ETF市價同創新高",
             "link": "https://udn.com//news/story/123006/9265454?from=udn-catebreaknews_ch2",
             "time": "2026-01-14 18:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/14/2/34186998.jpg&s=Y&x=116&y=0&sw=1106&sh=737&exp=3600&w=300",
-            "title": "績效王00988A低檔強彈16% 重倉布局記憶體、光通訊雙主流",
-            "link": "https://udn.com//news/story/123006/9265415?from=udn-catebreaknews_ch2",
-            "time": "2026-01-14 17:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/14/0/34185935.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "不需配息卻買00919？網酸邏輯死亡：市值型早噴飛30％…領息繳稅不如改009816",
-            "link": "https://udn.com//news/story/123006/9265148?from=udn-catebreaknews_ch2",
-            "time": "2026-01-14 16:45"
         }
     ]
 }
