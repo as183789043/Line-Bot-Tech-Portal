@@ -1,13 +1,19 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/15/98/34190549.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "伊朗電視台釋暗殺川普訊息 威脅「這次子彈不會飛偏」",
+            "link": "https://udn.com//news/story/6809/9266173?from=udn-catebreaknews_ch2",
+            "time": "2026-01-15 05:04"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/14/realtime/34188939.jpg&s=Y&x=0&y=21&sw=2170&sh=1446&exp=3600&w=300",
             "title": "美去年11月零售銷售成績 優於預期",
             "link": "https://udn.com//news/story/6811/9265911?from=udn-catebreaknews_ch2",
             "time": "2026-01-15 02:12"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
             "title": "美國12月關稅收入連二月下滑",
             "link": "https://udn.com//news/story/124373/9265914?from=udn-catebreaknews_ch2",
             "time": "2026-01-15 02:10"
@@ -23,12 +29,6 @@
             "title": "末日博士羅比尼：AI效益抵銷關稅衝擊 轉彎看好科技力量",
             "link": "https://udn.com//news/story/6811/9265953?from=udn-catebreaknews_ch2",
             "time": "2026-01-15 02:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
-            "title": "美高檔百貨母公司聲請破產",
-            "link": "https://udn.com//news/story/6811/9265925?from=udn-catebreaknews_ch2",
-            "time": "2026-01-15 02:06"
         }
     ]
 }
