@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/14/realtime/34187508.jpg&s=Y&x=0&y=24&sw=3264&sh=2176&exp=3600&w=300",
+            "title": "台灣鯛銷美大減30% 嘉南產區「價崩砍半」爆發滯銷危機",
+            "link": "https://udn.com//news/story/6656/9265535?from=udn-catebreaknews_ch2",
+            "time": "2026-01-15 07:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/15/realtime/34189457.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
             "title": "【總編開箱】3股氣旋騷動朝國民黨撲來",
             "link": "https://udn.com//news/story/124652/9266125?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "觀察站／「反明文」恩怨浮出 綠票倉隱憂",
             "link": "https://udn.com//news/story/124652/9266038?from=udn-catebreaknews_ch2",
             "time": "2026-01-15 00:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/14/realtime/34189146.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
-            "title": "民進黨台南「妃憲之爭」今揭曉 徐國勇喊選後整合",
-            "link": "https://udn.com//news/story/124652/9266048?from=udn-catebreaknews_ch2",
-            "time": "2026-01-15 00:06"
         }
     ]
 }
