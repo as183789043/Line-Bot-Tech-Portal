@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/08/realtime/34125028.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "台積電夠熱 那斯達克電子盤上揚、台指期夜盤觀望",
+            "link": "https://udn.com//news/story/7255/9270678?from=udn-catebreaknews_ch2",
+            "time": "2026-01-16 21:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/16/realtime/34205193.jpg&s=Y&x=0&y=9&sw=967&sh=644&exp=3600&w=300",
             "title": "台積電法說太驚人！高盛、瑞銀、大摩等八大外資同步上修目標價",
             "link": "https://udn.com//news/story/7251/9270662?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台積電鉅額交易一次刷新歷史十大天價 1,760元換算台股劍指32K大關",
             "link": "https://udn.com//news/story/7251/9270511?from=udn-catebreaknews_ch2",
             "time": "2026-01-16 19:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/16/0/34204330.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "最後買進日2/2！00959B、00983B、00984B配息金額出爐…債券殖利率優於股票",
-            "link": "https://udn.com//news/story/123006/9270376?from=udn-catebreaknews_ch2",
-            "time": "2026-01-16 18:06"
         }
     ]
 }
