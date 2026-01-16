@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/06/2/34110664.jpg&s=Y&x=0&y=0&sw=1217&sh=811&exp=3600&w=300",
+            "title": "上市市值本周突破百兆、達102.35兆元 玻陶股勁揚17.3%漲勢凌厲",
+            "link": "https://udn.com//news/story/7251/9270520?from=udn-catebreaknews_ch2",
+            "time": "2026-01-16 19:34"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/16/2/34202663.jpg&s=Y&x=0&y=0&sw=1265&sh=843&exp=3600&w=300",
+            "title": "台積電鉅額交易一次刷新歷史十大天價 1,760元換算台股劍指32K大關",
+            "link": "https://udn.com//news/story/7251/9270511?from=udn-catebreaknews_ch2",
+            "time": "2026-01-16 19:25"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/16/0/34204330.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "最後買進日2/2！00959B、00983B、00984B配息金額出爐…債券殖利率優於股票",
             "link": "https://udn.com//news/story/123006/9270376?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "記憶體產業將迎五至十年黃金循環 法人：四台廠具備戰略優勢",
             "link": "https://udn.com//news/story/7251/9270201?from=udn-catebreaknews_ch2",
             "time": "2026-01-16 16:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/16/realtime/34203620.jpg&s=Y&x=0&y=9&sw=1082&sh=720&exp=3600&w=300",
-            "title": "8,200億量能噴發！台積電925億資金強攻、金寶40萬張巨量領題材股衝鋒",
-            "link": "https://udn.com//news/story/7251/9270195?from=udn-catebreaknews_ch2",
-            "time": "2026-01-16 16:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/07/2/34119997.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "外資買超399億元 買超聯電7.7萬張最多、今年首度買超台積終止連十賣",
-            "link": "https://udn.com//news/story/7251/9270183?from=udn-catebreaknews_ch2",
-            "time": "2026-01-16 16:34"
         }
     ]
 }
