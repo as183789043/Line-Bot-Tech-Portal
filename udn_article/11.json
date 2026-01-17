@@ -1,13 +1,19 @@
 {
     "兩岸": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_5.jpg&w=300",
+            "title": "陸去年GDP 有望保五",
+            "link": "https://udn.com//news/story/7333/9272096?from=udn-catebreaknews_ch2",
+            "time": "2026-01-18 00:45"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_4.jpg&w=300",
             "title": "陸核融合產業 2030年有望商業化",
             "link": "https://udn.com//news/story/7333/9272117?from=udn-catebreaknews_ch2",
             "time": "2026-01-18 00:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_8.jpg&w=300",
             "title": "陸去年用電量 突破10兆度",
             "link": "https://udn.com//news/story/7333/9272118?from=udn-catebreaknews_ch2",
             "time": "2026-01-18 00:00"
@@ -23,12 +29,6 @@
             "title": "以醫療級AI為目標 京東健康上架逾1500名醫生AI代理人",
             "link": "https://udn.com//news/story/7332/9272077?from=udn-catebreaknews_ch2",
             "time": "2026-01-17 21:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/17/realtime/34211804.jpg&s=Y&x=0&y=0&sw=8099&sh=5464&exp=3600&w=300",
-            "title": "德銀報告：陸IP零售市場需求疲軟 泡泡瑪特恐面臨增長壓力",
-            "link": "https://udn.com//news/story/7333/9272003?from=udn-catebreaknews_ch2",
-            "time": "2026-01-17 20:28"
         }
     ]
 }
