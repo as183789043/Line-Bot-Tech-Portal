@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/17/realtime/34208522.jpg&s=Y&x=0&y=0&sw=1069&sh=715&exp=3600&w=300",
+            "title": "彰化漁港啟動ROT暨BOT招商 打造海洋休閒與能源運維新核心",
+            "link": "https://udn.com//news/story/7238/9271275?from=udn-catebreaknews_ch2",
+            "time": "2026-01-17 10:48"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/17/realtime/34206010.jpg&s=Y&x=98&y=0&sw=3297&sh=2199&exp=3600&w=300",
+            "title": "台股淪少數人的牛市 投資人站錯隊如何解套",
+            "link": "https://udn.com//news/story/121591/9270984?from=udn-catebreaknews_ch2",
+            "time": "2026-01-17 06:10"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/16/realtime/34205710.jpg&s=Y&x=0&y=0&sw=1417&sh=945&exp=3600&w=300",
             "title": "中保科營收創高 今年會更好 去年繳出190億元佳績",
             "link": "https://udn.com//news/story/7241/9270870?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2026-01-17 01:06"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_6.jpg&w=300",
             "title": "中保科旺年會…大秀 AI 助理",
             "link": "https://udn.com//news/story/7241/9270873?from=udn-catebreaknews_ch2",
             "time": "2026-01-17 01:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/11/2/33939468.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "壽險2025年新保費突破兆元 攀三年新高",
-            "link": "https://udn.com//news/story/7239/9270882?from=udn-catebreaknews_ch2",
-            "time": "2026-01-17 01:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_1.jpg&w=300",
-            "title": "股市熱 帶旺投資型保單",
-            "link": "https://udn.com//news/story/7239/9270883?from=udn-catebreaknews_ch2",
-            "time": "2026-01-17 01:01"
         }
     ]
 }
