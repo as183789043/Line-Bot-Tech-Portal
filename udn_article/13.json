@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/16/draft/34200389.png&s=Y&x=0&y=6&sw=800&sh=532&exp=3600&w=300",
+            "title": "巴西一群超級人瑞 可能掌握人類健康長壽關鍵基因",
+            "link": "https://udn.com//news/story/6897/9269072?from=udn-catebreaknews_ch2",
+            "time": "2026-01-18 13:27"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/15/draft/34196034.jpg&s=Y&x=0&y=424&sw=1280&sh=853&exp=3600&w=300",
             "title": "舞動百年的台灣獅 從武團到藝陣的獅藝文化",
             "link": "https://udn.com//news/story/6961/9267706?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "自然漫遊 沉浸春日浪漫風光",
             "link": "https://udn.com//news/story/6961/9267480?from=udn-catebreaknews_ch2",
             "time": "2026-01-18 09:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/15/draft/34195041.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "都會漫步 體驗街區多元精彩",
-            "link": "https://udn.com//news/story/6961/9267437?from=udn-catebreaknews_ch2",
-            "time": "2026-01-18 08:59"
         }
     ]
 }
