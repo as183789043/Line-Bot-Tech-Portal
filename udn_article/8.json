@@ -1,7 +1,25 @@
 {
     "生活": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/20/realtime/34238230.jpg&s=Y&x=0&y=23&sw=2333&sh=1554&exp=3600&w=300",
+            "title": "今「大寒」強烈冷氣團南侵愈晚愈冷 強度直逼寒流 這一波冷得很有感",
+            "link": "https://udn.com//news/story/7266/9276018?from=udn-catebreaknews_ch2",
+            "time": "2026-01-20 06:11"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/20/realtime/34237861.jpeg&s=Y&x=0&y=0&sw=4246&sh=2831&exp=3600&w=300",
+            "title": "台東東河11.1度 今「大寒」濕冷 吳德榮：探8度低溫 高山這2天追雪",
+            "link": "https://udn.com//news/story/7266/9275980?from=udn-catebreaknews_ch2",
+            "time": "2026-01-20 05:32"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/20/realtime/34237775.jpeg&s=Y&x=0&y=0&sw=2619&sh=1746&exp=3600&w=300",
+            "title": "今「大寒」強烈冷氣團+大雨特報 急凍至周五晨 探10度以下低溫",
+            "link": "https://udn.com//news/story/7266/9275978?from=udn-catebreaknews_ch2",
+            "time": "2026-01-20 05:23"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_4.jpg&w=300",
             "title": "2月徵文主題 難忘的團圓飯",
             "link": "https://udn.com//news/story/7266/9275880?from=udn-catebreaknews_ch2",
             "time": "2026-01-20 00:54"
@@ -11,24 +29,6 @@
             "title": "健康主題館／吃東西嗆咳 不要急拍背恐窒息",
             "link": "https://udn.com//news/story/7266/9275877?from=udn-catebreaknews_ch2",
             "time": "2026-01-20 00:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/20/realtime/34234943.jpg&s=Y&x=0&y=0&sw=2507&sh=1673&exp=3600&w=300",
-            "title": "大寒養生…3部位保暖 勿過度進補",
-            "link": "https://udn.com//news/story/7266/9275863?from=udn-catebreaknews_ch2",
-            "time": "2026-01-20 00:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/20/realtime/34235081.jpg&s=Y&x=0&y=0&sw=2508&sh=1672&exp=3600&w=300",
-            "title": "吃健康餐、規律運動仍脹氣 腸道不正常發酵作祟",
-            "link": "https://udn.com//news/story/7266/9275862?from=udn-catebreaknews_ch2",
-            "time": "2026-01-20 00:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/19/realtime/34234838.jpg&s=Y&x=0&y=9&sw=720&sh=480&exp=3600&w=300",
-            "title": "健康你我他／中西式輪番上桌 豐富的早餐畫作",
-            "link": "https://udn.com//news/story/7266/9275854?from=udn-catebreaknews_ch2",
-            "time": "2026-01-20 00:44"
         }
     ]
 }
