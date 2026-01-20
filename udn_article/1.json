@@ -1,9 +1,27 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/20/realtime/34243504.jpg&s=Y&x=0&y=0&sw=4547&sh=3066&exp=3600&w=300",
+            "title": "鄭麗君：美方同意啟動避免雙重課稅協定對談",
+            "link": "https://udn.com//news/story/6656/9276852?from=udn-catebreaknews_ch2",
+            "time": "2026-01-20 13:06"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/20/realtime/34243436.jpg&s=Y&x=0&y=11&sw=1478&sh=984&exp=3600&w=300",
+            "title": "宏都拉斯新總統下周就職 外交部重申開放交往立場",
+            "link": "https://udn.com//news/story/6656/9276845?from=udn-catebreaknews_ch2",
+            "time": "2026-01-20 13:03"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/20/realtime/34243476.jpg&s=Y&x=0&y=0&sw=1566&sh=1044&exp=3600&w=300",
+            "title": "顧立雄指預算決定軍購內容 馬文君批簽空白支票",
+            "link": "https://udn.com//news/story/10930/9276849?from=udn-catebreaknews_ch2",
+            "time": "2026-01-20 13:03"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/20/realtime/34243034.jpg&s=Y&x=144&y=0&sw=1809&sh=1206&exp=3600&w=300",
             "title": "陳亭妃拜會南市議會民進黨團盼破冰 黨團要求切割郭信良未獲承諾",
-            "link": "https://udn.com//news/story/6656/9276768?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124652/9276768?from=udn-catebreaknews_ch2",
             "time": "2026-01-20 12:36"
         },
         {
@@ -11,24 +29,6 @@
             "title": "影／趙少康新書發表會談亮票遭判拘役55天 是否上訴尚未定案",
             "link": "https://udn.com//news/story/6656/9276717?from=udn-catebreaknews_ch2",
             "time": "2026-01-20 12:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/20/realtime/34242624.jpg&s=Y&x=0&y=0&sw=930&sh=620&exp=3600&w=300",
-            "title": "對美投資台灣模式 卓揆指為企業投資、政府信保各2500億美元",
-            "link": "https://udn.com//news/story/7314/9276733?from=udn-catebreaknews_ch2",
-            "time": "2026-01-20 12:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/20/realtime/34242739.jpg&s=Y&x=393&y=0&sw=4212&sh=2808&exp=3600&w=300",
-            "title": "美最高法院將宣判關稅爭議 鄭麗君：台美232磋商機制持續爭取優惠",
-            "link": "https://udn.com//news/story/6656/9276713?from=udn-catebreaknews_ch2",
-            "time": "2026-01-20 12:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/20/realtime/34242690.jpeg&s=Y&x=0&y=0&sw=4711&sh=3141&exp=3600&w=300",
-            "title": "昔為選黨主席廝殺 趙少康曝上周與鄭麗文、郝龍斌吃和解飯",
-            "link": "https://udn.com//news/story/6656/9276697?from=udn-catebreaknews_ch2",
-            "time": "2026-01-20 12:13"
         }
     ]
 }
