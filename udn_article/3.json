@@ -1,19 +1,25 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/16/realtime/34205532.jpg&s=Y&x=0&y=0&sw=4507&sh=3005&exp=3600&w=300",
+            "title": "川普對歐關稅威脅 美股道瓊大跌870點、台積電ADR挫逾4%",
+            "link": "https://udn.com//news/story/6811/9278384?from=udn-catebreaknews_ch2",
+            "time": "2026-01-21 05:46"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
             "title": "法國總統拒絕加入和平理事會 川普嗆：香檳課稅200%",
             "link": "https://udn.com//news/story/124373/9278176?from=udn-catebreaknews_ch2",
             "time": "2026-01-21 02:41"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
             "title": "達沃斯論壇 美代表團陣仗大 川普發表演說受關注",
             "link": "https://udn.com//news/story/6809/9278177?from=udn-catebreaknews_ch2",
             "time": "2026-01-21 02:40"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
             "title": "美銀調查：投資人「超樂觀」 須加強避險",
             "link": "https://udn.com//news/story/6811/9278180?from=udn-catebreaknews_ch2",
             "time": "2026-01-21 02:40"
@@ -23,12 +29,6 @@
             "title": "德智庫：川普關稅成本 美民眾埋單",
             "link": "https://udn.com//news/story/124373/9278181?from=udn-catebreaknews_ch2",
             "time": "2026-01-21 02:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/20/realtime/34251185.jpg&s=Y&x=0&y=0&sw=1889&sh=1259&exp=3600&w=300",
-            "title": "南韓AI競賽催生開源模型 外界形容為「魷魚遊戲」翻版",
-            "link": "https://udn.com//news/story/6811/9278078?from=udn-catebreaknews_ch2",
-            "time": "2026-01-21 02:37"
         }
     ]
 }

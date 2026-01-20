@@ -1,8 +1,14 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/20/realtime/34240759.jpg&s=Y&x=0&y=0&sw=3385&sh=2256&exp=3600&w=300",
+            "title": "丁學文專欄／韌性是否續保今年繁榮？政治擾亂商業決策",
+            "link": "https://udn.com//news/story/7238/9276305?from=udn-catebreaknews_ch2",
+            "time": "2026-01-21 06:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/10/2/33922021.jpg&s=Y&x=0&y=0&sw=1146&sh=764&exp=3600&w=300",
-            "title": "AI 發威！去年外銷訂單創高 金額7,437億美元...成長26%",
+            "title": "AI發威！去年外銷訂單創高 金額7,437億美元...成長26%",
             "link": "https://udn.com//news/story/7238/9278184?from=udn-catebreaknews_ch2",
             "time": "2026-01-21 02:09"
         },
@@ -19,16 +25,10 @@
             "time": "2026-01-21 02:07"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_9.jpg&w=300",
             "title": "黃金國際行情 衝上4,700美元",
             "link": "https://udn.com//news/story/7239/9278092?from=udn-catebreaknews_ch2",
             "time": "2026-01-21 02:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_7.jpg&w=300",
-            "title": "國票證人事 牽動國票金改選",
-            "link": "https://udn.com//news/story/7239/9278089?from=udn-catebreaknews_ch2",
-            "time": "2026-01-21 02:01"
         }
     ]
 }
