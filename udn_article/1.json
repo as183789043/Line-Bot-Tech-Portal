@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/20/98/34250387.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "外交部、數發部合作 整合AI及數位實力推「總合外交」",
+            "link": "https://udn.com//news/story/6656/9277966?from=udn-catebreaknews_ch2",
+            "time": "2026-01-20 21:21"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/20/1/34250313.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "遭黃國昌嗆回去重讀法律 詹晉鑒：洩密責任不在時間長短",
+            "link": "https://udn.com//news/story/6656/9277963?from=udn-catebreaknews_ch2",
+            "time": "2026-01-20 21:08"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/20/98/34249076.jpg&s=Y&x=0&y=28&sw=1280&sh=853&exp=3600&w=300",
             "title": "陳時中：啟動長照3.0 深化醫養結合、導入智慧醫療",
             "link": "https://udn.com//news/story/6656/9277771?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "張勝德爭取宜蘭縣長提名 拋重陽敬老金降至65歲發",
             "link": "https://udn.com//news/story/124652/9277768?from=udn-catebreaknews_ch2",
             "time": "2026-01-20 19:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/20/realtime/34248810.jpg&s=Y&x=0&y=17&sw=2364&sh=1576&exp=3600&w=300",
-            "title": "賴總統遭提案彈劾「拒赴審查會」 國民黨團：等同默認人民的質疑",
-            "link": "https://udn.com//news/story/6656/9277759?from=udn-catebreaknews_ch2",
-            "time": "2026-01-20 19:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/20/realtime/34248661.jpg&s=Y&x=0&y=0&sw=5000&sh=3333&exp=3600&w=300",
-            "title": "台美敲定貿易協定 巴克萊大幅調升台灣成長展望",
-            "link": "https://udn.com//news/story/124621/9277734?from=udn-catebreaknews_ch2",
-            "time": "2026-01-20 18:51"
         }
     ]
 }
