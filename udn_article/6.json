@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/20/98/34239850.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "OpenAI營收破200億美元 運算能力擴大與用戶創新高",
+            "link": "https://udn.com//news/story/7240/9276068?from=udn-catebreaknews_ch2",
+            "time": "2026-01-20 09:09"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/18/realtime/34217403.jpeg&s=Y&x=0&y=0&sw=4000&sh=2666&exp=3600&w=300",
+            "title": "打破台積電迷思 ETF報酬率不見得光靠「含積量」",
+            "link": "https://udn.com//news/story/7238/9272976?from=udn-catebreaknews_ch2",
+            "time": "2026-01-20 08:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/16/98/34204034.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "從賠光第1桶金 到年化報酬30%！ 他屢敗屢戰：淬練一套「可複製獲利模式」",
             "link": "https://udn.com//news/story/121591/9274848?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2026-01-20 02:02"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_1.jpg&w=300",
             "title": "壽險今年新保費估增一成",
             "link": "https://udn.com//news/story/7239/9275779?from=udn-catebreaknews_ch2",
             "time": "2026-01-20 02:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/20/2/34236053.png&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "機器人理財規模 寫新高",
-            "link": "https://udn.com//news/story/7239/9275772?from=udn-catebreaknews_ch2",
-            "time": "2026-01-20 02:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_2.jpg&w=300",
-            "title": "2年期公債得標利率下滑",
-            "link": "https://udn.com//news/story/7239/9275789?from=udn-catebreaknews_ch2",
-            "time": "2026-01-20 01:59"
         }
     ]
 }
