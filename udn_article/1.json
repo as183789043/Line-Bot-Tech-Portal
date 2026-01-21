@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/22/2/34263108.jpg&s=Y&x=0&y=0&sw=1229&sh=819&exp=3600&w=300",
+            "title": "關稅效應 四成企業將投資美國 52%台灣CEO對關鍵人才感到焦慮",
+            "link": "https://udn.com//news/story/124621/9280665?from=udn-catebreaknews_ch2",
+            "time": "2026-01-22 00:57"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/22/1/34262975.jpg&s=Y&x=0&y=108&sw=1278&sh=852&exp=3600&w=300",
             "title": "外界質疑博士學位 而非碩士學位…台肥背書陳右欣學歷 藍批偷換概念",
             "link": "https://udn.com//news/story/6656/9280811?from=udn-catebreaknews_ch2",
@@ -13,22 +19,16 @@
             "time": "2026-01-22 00:12"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
-            "title": "冷眼集／團結變一團心結 妃憲之爭2.0延長賽",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/16/realtime/34201608.png&s=Y&x=0&y=0&sw=1552&sh=1034&exp=3600&w=300",
+            "title": "冷眼集／團結變一團心結 「妃憲之爭」2.0延長賽",
             "link": "https://udn.com//news/story/124652/9280810?from=udn-catebreaknews_ch2",
             "time": "2026-01-22 00:10"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_3.jpg&w=300",
             "title": "備戰九合一 鄭麗文：提名規則不因人改變",
             "link": "https://udn.com//news/story/124652/9280812?from=udn-catebreaknews_ch2",
             "time": "2026-01-22 00:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/21/realtime/34262801.jpg&s=Y&x=0&y=28&sw=4085&sh=2722&exp=3600&w=300",
-            "title": "立院彈劾審查 在野舉袁世凱立牌 諷總統缺席",
-            "link": "https://udn.com//news/story/6656/9280788?from=udn-catebreaknews_ch2",
-            "time": "2026-01-22 00:07"
         }
     ]
 }
