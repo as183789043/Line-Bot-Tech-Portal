@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/12/98/34160515.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "危機落幕？黃金大漲 美股電子盤、台指期夜盤上沖下洗",
+            "link": "https://udn.com//news/story/7251/9280504?from=udn-catebreaknews_ch2",
+            "time": "2026-01-21 21:35"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/21/98/34261902.png&s=Y&x=157&y=34&sw=561&sh=374&exp=3600&w=300",
             "title": "光寶科重訊宣布「公開收購宇智網通」 瞄準AI帶動網路流量成長",
             "link": "https://udn.com//news/story/7251/9280374?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股太熱！全體券商去年賺1,102.54億元 連兩年破千億元創歷史新高",
             "link": "https://udn.com//news/story/7251/9280140?from=udn-catebreaknews_ch2",
             "time": "2026-01-21 18:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/21/realtime/34260797.jpeg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
-            "title": "元進莊22日登錄興櫃、參考價每股55元 將拓展新業務、提升契作比例",
-            "link": "https://udn.com//news/story/7254/9280071?from=udn-catebreaknews_ch2",
-            "time": "2026-01-21 17:49"
         }
     ]
 }
