@@ -1,6 +1,24 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/21/draft/34259757.jpg&s=Y&x=84&y=0&sw=900&sh=601&exp=3600&w=300",
+            "title": "當AI擁抱實體：從CES 2026看物理人工智慧崛起",
+            "link": "https://udn.com//news/story/6871/9279739?from=udn-catebreaknews_ch2",
+            "time": "2026-01-22 07:10"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/21/draft/34259803.jpg&s=Y&x=75&y=0&sw=1128&sh=753&exp=3600&w=300",
+            "title": "中國數位核心產業專利申請趨勢：人工智慧、量子技術佈局最積極",
+            "link": "https://udn.com//news/story/6871/9279754?from=udn-catebreaknews_ch2",
+            "time": "2026-01-22 07:09"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/21/draft/34260020.png&s=Y&x=0&y=7&sw=1068&sh=712&exp=3600&w=300",
+            "title": "全球技術標準之爭：從USPTO成立SEP工作小組到美、歐、中專利救濟政策博弈分析",
+            "link": "https://udn.com//news/story/6871/9279827?from=udn-catebreaknews_ch2",
+            "time": "2026-01-22 07:09"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/21/draft/34257784.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
             "title": "土方新制 廢棄物概念股暴衝",
             "link": "https://udn.com//news/story/6851/9279136?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "AOI檢測需求大噴發",
             "link": "https://udn.com//news/story/6851/9279124?from=udn-catebreaknews_ch2",
             "time": "2026-01-21 15:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/21/draft/34257556.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
-            "title": "權值強勢股共振 強震別怕！解密主流股DNA",
-            "link": "https://udn.com//news/story/6851/9279091?from=udn-catebreaknews_ch2",
-            "time": "2026-01-21 15:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/03/0/33560256.jpg&s=Y&x=72&y=0&sw=1205&sh=804&exp=3600&w=300",
-            "title": "謝金河：台股的新外溢效應 新的選股思維",
-            "link": "https://udn.com//news/story/6851/9279078?from=udn-catebreaknews_ch2",
-            "time": "2026-01-21 15:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/21/draft/34258575.jpg&s=Y&x=0&y=0&sw=1024&sh=683&exp=3600&w=300",
-            "title": "從液冷鼻祖IBM 497號專利看現代液冷伺服器",
-            "link": "https://udn.com//news/story/6871/9279409?from=udn-catebreaknews_ch2",
-            "time": "2026-01-21 15:08"
         }
     ]
 }
