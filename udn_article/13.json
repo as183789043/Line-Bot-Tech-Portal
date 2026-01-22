@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/22/draft/34265609.jpg&s=Y&x=0&y=0&sw=800&sh=534&exp=3600&w=300",
+            "title": "AI 帶來失業是誤解 黃仁勳：人們混淆工作「任務」與「目標」",
+            "link": "https://udn.com//news/story/6897/9281250?from=udn-catebreaknews_ch2",
+            "time": "2026-01-22 12:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/22/0/34265982.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "藍白8度封殺1.25兆國防特別預算 7成民眾認台灣國防不足！立院頻阻擋合適嗎？",
             "link": "https://udn.com//news/story/6839/9281416?from=udn-catebreaknews_ch2",
@@ -22,12 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/21/draft/34259803.jpg&s=Y&x=75&y=0&sw=1128&sh=753&exp=3600&w=300",
             "title": "中國數位核心產業專利申請趨勢：人工智慧、量子技術佈局最積極",
             "link": "https://udn.com//news/story/6871/9279754?from=udn-catebreaknews_ch2",
-            "time": "2026-01-22 07:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/21/draft/34260020.png&s=Y&x=0&y=7&sw=1068&sh=712&exp=3600&w=300",
-            "title": "全球技術標準之爭：從USPTO成立SEP工作小組到美、歐、中專利救濟政策博弈分析",
-            "link": "https://udn.com//news/story/6871/9279827?from=udn-catebreaknews_ch2",
             "time": "2026-01-22 07:09"
         }
     ]
