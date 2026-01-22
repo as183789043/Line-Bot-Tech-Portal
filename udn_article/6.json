@@ -1,7 +1,19 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/22/realtime/34268651.jpg&s=Y&x=0&y=6&sw=627&sh=418&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/22/1/34263410.jpg&s=Y&x=0&y=76&sw=1280&sh=853&exp=3600&w=300",
+            "title": "護國神山也認證 電力基建成AI競爭關鍵",
+            "link": "https://udn.com//news/story/7240/9282630?from=udn-catebreaknews_ch2",
+            "time": "2026-01-22 17:59"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/22/2/34268823.jpg&s=Y&x=20&y=152&sw=1236&sh=824&exp=3600&w=300",
+            "title": "台美汽車關稅談判未定 小客車進口值年減17.5％",
+            "link": "https://udn.com//news/story/7238/9282604?from=udn-catebreaknews_ch2",
+            "time": "2026-01-22 17:47"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/22/realtime/34268652.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
             "title": "台積電首度披露嘉義先進封裝廠 導入AI與跨國經驗",
             "link": "https://udn.com//news/story/7240/9282552?from=udn-catebreaknews_ch2",
             "time": "2026-01-22 17:27"
@@ -17,18 +29,6 @@
             "title": "台積電工安事故後強化管理 將成立半導體營建安全協會",
             "link": "https://udn.com//news/story/7240/9282513?from=udn-catebreaknews_ch2",
             "time": "2026-01-22 17:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/22/realtime/34268492.jpg&s=Y&x=0&y=0&sw=755&sh=492&exp=3600&w=300",
-            "title": "金管會再對壽險開罰 新壽不動產取得與開發違反內控遭罰395萬元",
-            "link": "https://udn.com//news/story/7239/9282482?from=udn-catebreaknews_ch2",
-            "time": "2026-01-22 17:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/22/realtime/34268491.jpg&s=Y&x=0&y=0&sw=1567&sh=1045&exp=3600&w=300",
-            "title": "台積電嘉義AP7工地安全宣言 侯永清：擴產再快仍然是「工安優先」",
-            "link": "https://udn.com//news/story/7240/9282481?from=udn-catebreaknews_ch2",
-            "time": "2026-01-22 16:58"
         }
     ]
 }
