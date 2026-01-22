@@ -1,6 +1,12 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/22/98/34269314.jpg&s=Y&x=22&y=24&sw=924&sh=616&exp=3600&w=300",
+            "title": "蔗田轉為矽田 嘉義七廠將成台積電最大先進封測廠區",
+            "link": "https://udn.com//news/story/7240/9282762?from=udn-catebreaknews_ch2",
+            "time": "2026-01-22 19:09"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/22/1/34263410.jpg&s=Y&x=0&y=76&sw=1280&sh=853&exp=3600&w=300",
             "title": "護國神山也認證 電力基建成AI競爭關鍵",
             "link": "https://udn.com//news/story/7240/9282630?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "年末勞動市場穩定 失業率寫25年新低、勞參率創36年新高",
             "link": "https://udn.com//news/story/7238/9282517?from=udn-catebreaknews_ch2",
             "time": "2026-01-22 17:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/22/realtime/34268559.jpg&s=Y&x=0&y=42&sw=5712&sh=3808&exp=3600&w=300",
-            "title": "台積電工安事故後強化管理 將成立半導體營建安全協會",
-            "link": "https://udn.com//news/story/7240/9282513?from=udn-catebreaknews_ch2",
-            "time": "2026-01-22 17:09"
         }
     ]
 }
