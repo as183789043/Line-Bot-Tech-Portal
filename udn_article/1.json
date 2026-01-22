@@ -1,19 +1,25 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/23/realtime/34270386.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "【總編開箱】台灣利益鑲嵌在美國利益裡…我們會跟著偉大？",
+            "link": "https://udn.com//news/story/6656/9283406?from=udn-catebreaknews_ch2",
+            "time": "2026-01-23 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/14/realtime/34184255.jpg&s=Y&x=0&y=15&sw=2100&sh=1400&exp=3600&w=300",
             "title": "施俊吉示警：對美投資 未來潛在GDP扣15兆",
             "link": "https://udn.com//news/story/124621/9283396?from=udn-catebreaknews_ch2",
             "time": "2026-01-23 03:04"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
             "title": "朝野協商破局…TPASS等新興預算 最快3月初通過",
             "link": "https://udn.com//news/story/124680/9283398?from=udn-catebreaknews_ch2",
             "time": "2026-01-23 00:47"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
             "title": "學者看對美投資：加廠房設備 影響逾20兆未來潛在GDP",
             "link": "https://udn.com//news/story/124621/9283397?from=udn-catebreaknews_ch2",
             "time": "2026-01-23 00:45"
@@ -23,12 +29,6 @@
             "title": "冷眼集／綠固票算計 燃煤成非核代價",
             "link": "https://udn.com//news/story/7314/9283393?from=udn-catebreaknews_ch2",
             "time": "2026-01-23 00:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/23/realtime/34270309.jpeg&s=Y&x=0&y=0&sw=4850&sh=3194&exp=3600&w=300",
-            "title": "超額用煤2309萬噸 環團轟減煤跳票「虧欠人民給民進黨3次執政」",
-            "link": "https://udn.com//news/story/7314/9283392?from=udn-catebreaknews_ch2",
-            "time": "2026-01-23 00:41"
         }
     ]
 }
