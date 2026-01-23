@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/20/0/34241627.jpg&s=Y&x=0&y=0&sw=1208&sh=805&exp=3600&w=300",
+            "title": "輝達、AMD、台積電ADR領頭 台指期夜盤抗跌",
+            "link": "https://udn.com//news/story/7255/9285252?from=udn-catebreaknews_ch2",
+            "time": "2026-01-23 21:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/21/2/34255961.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "台股上市市值飆104.18兆元 玻陶股狂漲逾17%攻頂",
             "link": "https://udn.com//news/story/7251/9285046?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "外資買超232億元 買超這檔面板股9.5萬張最多、終止連九賣",
             "link": "https://udn.com//news/story/7251/9284947?from=udn-catebreaknews_ch2",
             "time": "2026-01-23 17:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/23/realtime/34274150.jpg&s=Y&x=0&y=10&sw=951&sh=634&exp=3600&w=300",
-            "title": "台股成交值、量前十解析！權值股穩盤撐高 南亞科出關首日最吸睛",
-            "link": "https://udn.com//news/story/7251/9284758?from=udn-catebreaknews_ch2",
-            "time": "2026-01-23 16:28"
         }
     ]
 }
