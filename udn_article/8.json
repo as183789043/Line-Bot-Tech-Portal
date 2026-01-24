@@ -1,13 +1,19 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/24/draft/34281679.png&s=Y&x=0&y=12&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台南21:32發生規模3.7地震 最大震度3級、3縣市有感搖晃",
+            "link": "https://udn.com//news/story/7266/9286711?from=udn-catebreaknews_ch2",
+            "time": "2026-01-24 21:42"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/24/realtime/34281564.jpg&s=Y&x=0&y=0&sw=4811&sh=3207&exp=3600&w=300",
             "title": "昨才稱「勸導並制止用行動電源」 北捷遭罵爆今道歉：溝通落差",
             "link": "https://udn.com//news/story/7266/9286688?from=udn-catebreaknews_ch2",
             "time": "2026-01-24 20:56"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/24/realtime/34281400.jpg&s=Y&x=0&y=964&sw=2754&sh=1836&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/24/1/34281685.jpg&s=Y&x=0&y=0&sw=1146&sh=764&exp=3600&w=300",
             "title": "文字遊戲遭罵爆道歉！北捷解釋「希望」別用行動電源 並非「禁用」",
             "link": "https://udn.com//news/story/7266/9286622?from=udn-catebreaknews_ch2",
             "time": "2026-01-24 19:59"
@@ -23,12 +29,6 @@
             "title": "台積電美國擴廠害病例暴增？ 台大研究：球黴菌患者多為半導體勞工",
             "link": "https://udn.com//news/story/7266/9286572?from=udn-catebreaknews_ch2",
             "time": "2026-01-24 18:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/24/realtime/34281092.jpg&s=Y&x=0&y=28&sw=4000&sh=2666&exp=3600&w=300",
-            "title": "芭樂配泰式酸辣醬！7-ELEVEN「東南亞美食」新貨到　首推「就醬吃芭樂」",
-            "link": "https://udn.com//news/story/7266/9286554?from=udn-catebreaknews_ch2",
-            "time": "2026-01-24 18:22"
         }
     ]
 }
