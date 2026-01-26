@@ -1,8 +1,20 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/26/98/34297812.jpg&s=Y&x=0&y=0&sw=1272&sh=848&exp=3600&w=300",
+            "title": "總預算卡關影響屏東治水 綠委徐富癸籲藍白速審",
+            "link": "https://udn.com//news/story/124680/9289944?from=udn-catebreaknews_ch2",
+            "time": "2026-01-26 21:26"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/26/realtime/34297610.jpg&s=Y&x=0&y=0&sw=2048&sh=1365&exp=3600&w=300",
+            "title": "民眾黨提軍購條例「1.25兆砍到4千億」 政院列4缺點：使台美軍購窒礙難行",
+            "link": "https://udn.com//news/story/10930/9290030?from=udn-catebreaknews_ch2",
+            "time": "2026-01-26 20:52"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/26/realtime/34297572.jpg&s=Y&x=202&y=0&sw=2298&sh=1533&exp=3600&w=300",
-            "title": "海鯤號第六度出海 執行「潛航前置」測試",
+            "title": "海鯤號第六度出海 執行「潛航前置」測試…評估後再安排淺水潛航",
             "link": "https://udn.com//news/story/10930/9290026?from=udn-catebreaknews_ch2",
             "time": "2026-01-26 20:43"
         },
@@ -17,18 +29,6 @@
             "title": "民眾黨版軍購條例草案 國防部4聲明批：內容不完整 缺乏專業評估",
             "link": "https://udn.com//news/story/10930/9289997?from=udn-catebreaknews_ch2",
             "time": "2026-01-26 20:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/26/realtime/34297150.jpg&s=Y&x=0&y=17&sw=2364&sh=1576&exp=3600&w=300",
-            "title": "立法院本會期周五休會 國民黨團：賴總統先為詐騙向全民道歉",
-            "link": "https://udn.com//news/story/124680/9289909?from=udn-catebreaknews_ch2",
-            "time": "2026-01-26 19:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/26/realtime/34297143.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
-            "title": "不在籍投票立法公聽會 學者專家樂見…但對期程、推動細節意見分歧",
-            "link": "https://udn.com//news/story/6656/9289907?from=udn-catebreaknews_ch2",
-            "time": "2026-01-26 19:36"
         }
     ]
 }
