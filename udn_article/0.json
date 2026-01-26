@@ -1,10 +1,22 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/26/realtime/34290819.jpg&s=Y&x=0&y=0&sw=4482&sh=2910&exp=3600&w=300",
+            "title": "歷史上的今天／1962年新竹玻璃第三廠破土 成外銷典範",
+            "link": "https://udn.com//news/story/7314/9288468?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-01-27 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/26/0/34298501.jfif&s=Y&x=64&y=0&sw=1136&sh=757&exp=3600&w=300",
             "title": "蘋果AirTag 2無預警登場！晶片、藍牙翻新、叫聲更大 尋找暗處錢包超容易",
             "link": "https://udn.com//news/story/7266/9290245?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-01-26 23:15"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/26/realtime/34298524.jpg&s=Y&x=0&y=0&sw=5568&sh=3712&exp=3600&w=300",
+            "title": "冰風暴周一持續肆虐全美 造成大停電 上萬航班遭取消",
+            "link": "https://udn.com//news/story/6813/9290213?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-01-26 23:07"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/26/realtime/34298493.jpg&s=Y&x=0&y=0&sw=8192&sh=5464&exp=3600&w=300",
@@ -17,18 +29,6 @@
             "title": "台積電再度加碼美國布局 亞利桑那北鳳凰城房市受矚目",
             "link": "https://udn.com//news/story/7240/9290172?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-01-26 22:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/26/realtime/34298389.png&s=Y&x=0&y=10&sw=1390&sh=926&exp=3600&w=300",
-            "title": "過了臘八就是年！上海豫園馬年燈會登場 打造跨時代光影走廊",
-            "link": "https://udn.com//news/story/7332/9290170?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-01-26 22:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/26/realtime/34298344.jpeg&s=Y&x=0&y=160&sw=3832&sh=2555&exp=3600&w=300",
-            "title": "鑰匙又掉進黑洞？Apple驚喜推新版AirTag 偵測距離更遠且支援手錶定位",
-            "link": "https://udn.com//news/story/7270/9290161?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-01-26 22:42"
         }
     ]
 }
