@@ -1,6 +1,18 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/27/realtime/34300486.jpg&s=Y&x=0&y=11&sw=849&sh=566&exp=3600&w=300",
+            "title": "台中「借問站」退場或改名...官網沒即時更新 民眾霧煞煞",
+            "link": "https://udn.com//news/story/7325/9290443?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-01-27 04:49"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/27/realtime/34300481.png&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
+            "title": "深夜地牛搖晃！屏東近海凌晨2:48發生規模4.6地震 最大震度3級",
+            "link": "https://udn.com//news/story/7266/9290442?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-01-27 04:48"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/27/draft/34299891.gif&s=Y&x=0&y=4&sw=640&sh=426&exp=3600&w=300",
             "title": "凌晨2時48分屏東近海規模4.6地震 墾丁南灣震度達3級",
             "link": "https://udn.com//news/story/7266/9290429?from=udn-ch1_breaknews-1-0-news",
@@ -17,18 +29,6 @@
             "title": "蘋果AirTag 2無預警登場！晶片、藍牙翻新、叫聲更大 尋找暗處錢包超容易",
             "link": "https://udn.com//news/story/7266/9290245?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-01-26 23:15"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/26/realtime/34298524.jpg&s=Y&x=0&y=0&sw=5568&sh=3712&exp=3600&w=300",
-            "title": "冰風暴周一持續肆虐全美 造成大停電 上萬航班遭取消",
-            "link": "https://udn.com//news/story/6813/9290213?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-01-26 23:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/26/realtime/34298493.jpg&s=Y&x=0&y=0&sw=8192&sh=5464&exp=3600&w=300",
-            "title": "美股早盤／三大指數齊揚 CoreWeave獲輝達加碼投資 股價大漲15%",
-            "link": "https://udn.com//news/story/6811/9290201?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-01-26 23:02"
         }
     ]
 }

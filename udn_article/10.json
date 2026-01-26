@@ -1,6 +1,12 @@
 {
     "評論": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/26/realtime/34291211.jpg&s=Y&x=0&y=60&sw=3200&sh=2133&exp=3600&w=300",
+            "title": "經濟日報社論／川普對加拿大強硬 給台灣的警示",
+            "link": "https://udn.com//news/story/7338/9290211?from=udn-catebreaknews_ch2",
+            "time": "2026-01-27 01:38"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/27/1/34299350.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "聯合報黑白集／兩種從一○一看見台灣",
             "link": "https://udn.com//news/story/7338/9290375?from=udn-catebreaknews_ch2",
@@ -13,22 +19,16 @@
             "time": "2026-01-27 01:04"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_9.jpg&w=300",
             "title": "大寒中出擊 高市內閣的豪賭",
             "link": "https://udn.com//news/story/7339/9290277?from=udn-catebreaknews_ch2",
             "time": "2026-01-27 00:04"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_3.jpg&w=300",
             "title": "掌握川習戰略 續謀和平紅利",
             "link": "https://udn.com//news/story/7339/9290261?from=udn-catebreaknews_ch2",
             "time": "2026-01-27 00:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_7.jpg&w=300",
-            "title": "科技．人文聯合講座／影響力投資引領韌性城市新典範",
-            "link": "https://udn.com//news/story/7339/9290254?from=udn-catebreaknews_ch2",
-            "time": "2026-01-27 00:00"
         }
     ]
 }

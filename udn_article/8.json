@@ -1,13 +1,25 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/26/0/34292226.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "影／霍諾德91分鐘 徒手攻頂101！曾說「沒想像中難」：掉下去不一定會死",
+            "link": "https://udn.com//news/story/124745/9289414?from=udn-catebreaknews_ch2",
+            "time": "2026-01-27 05:21"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/27/realtime/34300481.png&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
+            "title": "深夜地牛搖晃！屏東近海凌晨2:48發生規模4.6地震 最大震度3級",
+            "link": "https://udn.com//news/story/7266/9290442?from=udn-catebreaknews_ch2",
+            "time": "2026-01-27 04:48"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/27/draft/34299891.gif&s=Y&x=0&y=4&sw=640&sh=426&exp=3600&w=300",
             "title": "凌晨2時48分屏東近海規模4.6地震 墾丁南灣震度達3級",
             "link": "https://udn.com//news/story/7266/9290429?from=udn-catebreaknews_ch2",
             "time": "2026-01-27 03:05"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_9.jpg&w=300",
             "title": "環境部、衛福部 爭取氣候弱勢健康預算",
             "link": "https://udn.com//news/story/7266/9290365?from=udn-catebreaknews_ch2",
             "time": "2026-01-27 00:57"
@@ -17,18 +29,6 @@
             "title": "900萬國際客跳票 去年觀光逆差7千億元",
             "link": "https://udn.com//news/story/7266/9290362?from=udn-catebreaknews_ch2",
             "time": "2026-01-27 00:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_3.jpg&w=300",
-            "title": "初代羅茱最後合體 雙人票9折",
-            "link": "https://udn.com//news/story/7266/9290367?from=udn-catebreaknews_ch2",
-            "time": "2026-01-27 00:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_5.jpg&w=300",
-            "title": "客運業者盼運價反映成本 促政府補助",
-            "link": "https://udn.com//news/story/7266/9290359?from=udn-catebreaknews_ch2",
-            "time": "2026-01-27 00:55"
         }
     ]
 }
