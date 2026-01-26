@@ -1,6 +1,12 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/27/draft/34299891.gif&s=Y&x=0&y=4&sw=640&sh=426&exp=3600&w=300",
+            "title": "凌晨2時48分屏東近海規模4.6地震 墾丁南灣震度達3級",
+            "link": "https://udn.com//news/story/7266/9290429?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-01-27 03:05"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/26/realtime/34290819.jpg&s=Y&x=0&y=0&sw=4482&sh=2910&exp=3600&w=300",
             "title": "歷史上的今天／1962年新竹玻璃第三廠破土 成外銷典範",
             "link": "https://udn.com//news/story/7314/9288468?from=udn-ch1_breaknews-1-0-news",
@@ -23,12 +29,6 @@
             "title": "美股早盤／三大指數齊揚 CoreWeave獲輝達加碼投資 股價大漲15%",
             "link": "https://udn.com//news/story/6811/9290201?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-01-26 23:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/26/realtime/34298422.jpg&s=Y&x=0&y=17&sw=2315&sh=1542&exp=3600&w=300",
-            "title": "台積電再度加碼美國布局 亞利桑那北鳳凰城房市受矚目",
-            "link": "https://udn.com//news/story/7240/9290172?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-01-26 22:54"
         }
     ]
 }
