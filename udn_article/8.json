@@ -1,6 +1,12 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/28/realtime/34310639.jpg&s=Y&x=0&y=16&sw=991&sh=660&exp=3600&w=300",
+            "title": "藝博會引進AI 和COMPUTEX合作 畫廊協會：今年是台灣科技島藝術元年",
+            "link": "https://udn.com//news/story/7270/9292852?from=udn-catebreaknews_ch2",
+            "time": "2026-01-28 02:36"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/27/realtime/34310224.jpg&s=Y&x=0&y=0&sw=1133&sh=755&exp=3600&w=300",
             "title": "健康主題館／春節何處買藥 上網查、電話確認",
             "link": "https://udn.com//news/story/7266/9292779?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "健康你我他 ／地瓜當早餐主食 連皮吃更益健康",
             "link": "https://udn.com//news/story/7266/9292802?from=udn-catebreaknews_ch2",
             "time": "2026-01-28 00:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/27/realtime/34305263.jpg&s=Y&x=0&y=32&sw=4680&sh=3120&exp=3600&w=300",
-            "title": "連假退國內機票 手續費最高30%",
-            "link": "https://udn.com//news/story/7266/9292789?from=udn-catebreaknews_ch2",
-            "time": "2026-01-28 00:24"
         }
     ]
 }
