@@ -1,10 +1,22 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_3.jpg&w=300",
+            "title": "豐興暫停接單 鋼筋價蠢動",
+            "link": "https://udn.com//news/story/7241/9292642?from=udn-catebreaknews_ch2",
+            "time": "2026-01-28 02:04"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_1.jpg&w=300",
             "title": "營造業：土方之亂問題在法規錯亂",
             "link": "https://udn.com//news/story/7238/9292648?from=udn-catebreaknews_ch2",
             "time": "2026-01-28 02:02"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_1.jpg&w=300",
+            "title": "政府衝刺光電 茂迪、元晶利多",
+            "link": "https://udn.com//news/story/7240/9292635?from=udn-catebreaknews_ch2",
+            "time": "2026-01-28 02:01"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/19/realtime/34223593.jpg&s=Y&x=0&y=0&sw=3500&sh=2333&exp=3600&w=300",
@@ -13,22 +25,10 @@
             "time": "2026-01-28 01:32"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/28/2/34310506.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "微軟最強AI晶片「Maia 200」亮相 台積電助陣",
-            "link": "https://udn.com//news/story/7240/9292697?from=udn-catebreaknews_ch2",
-            "time": "2026-01-28 01:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
-            "title": "微軟秀最強AI晶片 伺服器代工廠迎新訂單",
-            "link": "https://udn.com//news/story/7240/9292712?from=udn-catebreaknews_ch2",
-            "time": "2026-01-28 01:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/28/2/34310515.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "微軟秀最強AI晶片 光通訊族群有望分杯羹",
-            "link": "https://udn.com//news/story/7240/9292714?from=udn-catebreaknews_ch2",
-            "time": "2026-01-28 01:01"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/09/2/33603812.jfif&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "國銀拚亞資中心 跨境金融需求大",
+            "link": "https://udn.com//news/story/7239/9292472?from=udn-catebreaknews_ch2",
+            "time": "2026-01-28 01:24"
         }
     ]
 }
