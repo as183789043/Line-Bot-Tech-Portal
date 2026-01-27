@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/27/0/34304961.jpg&s=Y&x=104&y=108&sw=1123&sh=749&exp=3600&w=300",
+            "title": "最新大學排名出爐：哈佛下滑、中國高教強勢超車 怎麼回事？",
+            "link": "https://udn.com//news/story/6841/9291378?from=udn-catebreaknews_ch2",
+            "time": "2026-01-27 13:25"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/27/0/34304275.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "道奇挖2球星被批毀大聯盟？勇敢投資才會贏！謝金河：台股企業敢衝、股價爆發力就強",
             "link": "https://udn.com//news/story/6839/9291175?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "長榮交響樂團聘請旅德小提琴家張庭碩擔任樂團首席",
             "link": "https://udn.com//news/story/11184/9289583?from=udn-catebreaknews_ch2",
             "time": "2026-01-27 07:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/26/draft/34292992.jpg&s=Y&x=0&y=6&sw=800&sh=532&exp=3600&w=300",
-            "title": "瑞典47年追蹤研究 身體素質35歲就開始下降",
-            "link": "https://udn.com//news/story/6897/9288982?from=udn-catebreaknews_ch2",
-            "time": "2026-01-26 15:02"
         }
     ]
 }
