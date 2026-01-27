@@ -1,9 +1,15 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/26/2/34045898.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "美股續強比特幣轉弱？網熱議「股幣脫勾」：資金改投真金白銀",
+            "link": "https://udn.com//news/story/12806/9289543?from=udn-catebreaknews_ch2",
+            "time": "2026-01-27 12:52"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/27/realtime/34304531.jpg&s=Y&x=0&y=0&sw=3840&sh=2560&exp=3600&w=300",
             "title": "0056掌握AI題材價揚 三個交易日完成填息續漲",
-            "link": "https://udn.com//news/story/7251/9291258?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/123006/9291258?from=udn-catebreaknews_ch2",
             "time": "2026-01-27 12:27"
         },
         {
@@ -23,12 +29,6 @@
             "title": "金價衝破5000元、白銀同步暴衝  投資人加速撤離美債",
             "link": "https://udn.com//news/story/7251/9291024?from=udn-catebreaknews_ch2",
             "time": "2026-01-27 11:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/27/0/34303614.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "2026台股封關日懶人包…休市11天怎麼算？期貨夜盤這時間才收工",
-            "link": "https://udn.com//news/story/12806/9290965?from=udn-catebreaknews_ch2",
-            "time": "2026-01-27 11:23"
         }
     ]
 }
