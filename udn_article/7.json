@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "title": "紅包袋換特大號！台積電衝1810、台股連五天創歷史新高",
+            "link": "https://udn.com//news/story/7251/9293605?from=udn-catebreaknews_ch2",
+            "time": "2026-01-28 12:03"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/28/realtime/34312238.jpg&s=Y&x=173&y=0&sw=1413&sh=942&exp=3600&w=300",
             "title": "「ETF觀測站」再升級 揭露收益分配占比",
             "link": "https://udn.com//news/story/123006/9293421?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "009816「不配息」市場買單…募集約90億元！2／3掛牌、息利滾入拚資本利得",
             "link": "https://udn.com//news/story/123006/9293269?from=udn-catebreaknews_ch2",
             "time": "2026-01-28 10:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/23/2/34271963.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "華邦電漲停、台股多頭不回頭！直雲「續抱做多」：沒有利空就是漲",
-            "link": "https://udn.com//news/story/7251/9293263?from=udn-catebreaknews_ch2",
-            "time": "2026-01-28 10:49"
         }
     ]
 }
