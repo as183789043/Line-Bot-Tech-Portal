@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/29/realtime/34317635.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
+            "title": "台船證實 「海鯤艦」今日進行首次潛航測試",
+            "link": "https://udn.com//news/story/10930/9295338?from=udn-catebreaknews_ch2",
+            "time": "2026-01-29 06:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/29/realtime/34317649.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
             "title": "【總編開箱】卓榮泰「台灣101」？ 民進黨在台北市為何失落28年",
             "link": "https://udn.com//news/story/124652/9295341?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "人物側寫／菊系縱橫港都 南霸天毀譽相隨",
             "link": "https://udn.com//news/story/124752/9295317?from=udn-catebreaknews_ch2",
             "time": "2026-01-29 01:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/29/realtime/34317544.jpg&s=Y&x=12&y=68&sw=1896&sh=1264&exp=3600&w=300",
-            "title": "府原盼陳菊康復歸位…李鴻鈞未真除院長 高層防監院「綠轉藍」",
-            "link": "https://udn.com//news/story/124752/9295318?from=udn-catebreaknews_ch2",
-            "time": "2026-01-29 01:39"
         }
     ]
 }
