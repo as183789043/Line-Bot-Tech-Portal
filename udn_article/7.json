@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/28/realtime/34315912.jpg&s=Y&x=0&y=336&sw=3551&sh=2367&exp=3600&w=300",
+            "title": "聯電去年第4季每股純益0.81元 有信心今年迎來持續成長",
+            "link": "https://udn.com//news/story/7253/9294691?from=udn-catebreaknews_ch2",
+            "time": "2026-01-28 18:38"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/28/2/34315850.jpg&s=Y&x=0&y=0&sw=1256&sh=837&exp=3600&w=300",
+            "title": "台積電鉅額交易再指路？ADR盤前先漲2.5％ 台股明日決戰33,000大關",
+            "link": "https://udn.com//news/story/7251/9294667?from=udn-catebreaknews_ch2",
+            "time": "2026-01-28 18:25"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/28/2/34315388.jpg&s=Y&x=0&y=0&sw=1272&sh=848&exp=3600&w=300",
             "title": "台股寫歷史新高…外資也當「記憶卡哇」 竟狂掃力積電5.8萬張",
             "link": "https://udn.com//news/story/7251/9294534?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "聯電法說會／22奈米營收季增31%創新高 2026成長有信心",
             "link": "https://udn.com//news/story/7253/9294457?from=udn-catebreaknews_ch2",
             "time": "2026-01-28 17:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/28/98/34314967.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "再創新天價！台積電今年來累計勁揚270元 貢獻大盤逾2000點",
-            "link": "https://udn.com//news/story/7251/9294346?from=udn-catebreaknews_ch2",
-            "time": "2026-01-28 16:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/28/2/34314772.jpg&s=Y&x=0&y=0&sw=1229&sh=819&exp=3600&w=300",
-            "title": "記憶體還是夯！外資大買「這兩檔傳產股」 擠進成交量前十名",
-            "link": "https://udn.com//news/story/7251/9294351?from=udn-catebreaknews_ch2",
-            "time": "2026-01-28 16:32"
         }
     ]
 }
