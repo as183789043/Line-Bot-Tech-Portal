@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_6.jpg&w=300",
+            "title": "海鯤艦首度潛航 測試聲納、動力",
+            "link": "https://udn.com//news/story/10930/9297673?from=udn-catebreaknews_ch2",
+            "time": "2026-01-29 23:29"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/29/realtime/34326101.jpeg&s=Y&x=0&y=0&sw=3875&sh=2583&exp=3600&w=300",
             "title": "最大豪賭？經濟學人專訪鄭麗文 她親解釋擋軍購、想見習近平原因",
             "link": "https://udn.com//news/story/124680/9297526?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "海鯤艦完成首次潛航測試 台船：海軍造艦史的歷史性時刻",
             "link": "https://udn.com//news/story/10930/9297490?from=udn-catebreaknews_ch2",
             "time": "2026-01-29 21:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/29/realtime/34325748.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
-            "title": "基隆海巡隊新型百噸巡防艇成軍！高壓水砲射程95公尺 提升救災驅離能力",
-            "link": "https://udn.com//news/story/10930/9297421?from=udn-catebreaknews_ch2",
-            "time": "2026-01-29 21:11"
         }
     ]
 }
