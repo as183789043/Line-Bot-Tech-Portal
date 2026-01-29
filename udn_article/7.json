@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/26/2/34291171.jpg&s=Y&x=0&y=0&sw=1274&sh=849&exp=3600&w=300",
+            "title": "擺脫淺碟型結構 彭金隆：台股是受國際矚目資本市場",
+            "link": "https://udn.com//news/story/7251/9297062?from=udn-catebreaknews_ch2",
+            "time": "2026-01-29 18:36"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/24/2/34031956.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "大立光再買回自家股票208張 平均每股成本2,413.96元",
             "link": "https://udn.com//news/story/7252/9297066?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "中鋼大漲超過半根停板 原來是這三個原因",
             "link": "https://udn.com//news/story/7252/9296951?from=udn-catebreaknews_ch2",
             "time": "2026-01-29 16:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/29/98/34323964.jpg&s=Y&x=64&y=24&sw=1099&sh=733&exp=3600&w=300",
-            "title": "晶圓代工報價沒漲 聯電、世界先進股價跌停",
-            "link": "https://udn.com//news/story/7253/9296904?from=udn-catebreaknews_ch2",
-            "time": "2026-01-29 16:44"
         }
     ]
 }
