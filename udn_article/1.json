@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/29/realtime/34326513.png&s=Y&x=0&y=5&sw=800&sh=532&exp=3600&w=300",
+            "title": "海鯤艦首度潛航 圖解潛艦測試有哪些項目 各國工期比一比",
+            "link": "https://udn.com//news/story/10930/9297819?from=udn-catebreaknews_ch2",
+            "time": "2026-01-30 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/30/1/34327151.jpg&s=Y&x=0&y=52&sw=1158&sh=772&exp=3600&w=300",
             "title": "立院今本會期最終日 法案清倉朝野大戰",
             "link": "https://udn.com//news/story/124680/9297820?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "鄭麗文提和平框架 藍委：兩岸更多接觸、化解敵意",
             "link": "https://udn.com//news/story/6656/9297814?from=udn-catebreaknews_ch2",
             "time": "2026-01-30 01:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/30/1/34326962.jpg&s=Y&x=180&y=36&sw=1015&sh=677&exp=3600&w=300",
-            "title": "冷眼集／綠營換黨鞭能朝野和解？恐畫錯重點",
-            "link": "https://udn.com//news/story/6656/9297813?from=udn-catebreaknews_ch2",
-            "time": "2026-01-30 01:29"
         }
     ]
 }
