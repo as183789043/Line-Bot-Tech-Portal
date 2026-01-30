@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/12/realtime/34167446.jpg&s=Y&x=50&y=0&sw=1317&sh=879&exp=3600&w=300",
+            "title": "上市櫃236家虧損卻升董監酬金 台塑友達力積電上榜",
+            "link": "https://udn.com//news/story/7251/9299338?from=udn-catebreaknews_ch2",
+            "time": "2026-01-30 17:59"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/28/2/34315127.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "彎腰撿鑽石！聯電跌回月線 外資大買逾5萬張",
+            "link": "https://udn.com//news/story/7251/9299351?from=udn-catebreaknews_ch2",
+            "time": "2026-01-30 17:43"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/21/2/34255961.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "外資連三天買超群創逾16萬張 竟然一天就快賣光",
             "link": "https://udn.com//news/story/7251/9299308?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "ETF也能一個月漲逾五成？ 前15強ETF今年漲幅兩成起跳",
             "link": "https://udn.com//news/story/123006/9299084?from=udn-catebreaknews_ch2",
             "time": "2026-01-30 15:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/24/2/34031956.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "大立光再買回自家股票239張 買回每股價格2,389.14元",
-            "link": "https://udn.com//news/story/7253/9299036?from=udn-catebreaknews_ch2",
-            "time": "2026-01-30 15:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/28/realtime/34312315.jpg&s=Y&x=0&y=0&sw=5000&sh=3333&exp=3600&w=300",
-            "title": "大賣單又來了！台積電最後一盤爆14,289張賣單 收1,775元、市值46兆元",
-            "link": "https://udn.com//news/story/7251/9299031?from=udn-catebreaknews_ch2",
-            "time": "2026-01-30 15:25"
         }
     ]
 }
