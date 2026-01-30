@@ -1,15 +1,21 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/31/realtime/34333899.jpg&s=Y&x=292&y=92&sw=1956&sh=1304&exp=3600&w=300",
+            "title": "黨產條例修正三讀…救國團被排除政黨附隨組織",
+            "link": "https://udn.com//news/story/11730/9299987?from=udn-catebreaknews_ch2",
+            "time": "2026-01-31 01:22"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/30/realtime/34333668.jpg&s=Y&x=0&y=0&sw=1206&sh=789&exp=3600&w=300",
             "title": "新聞眼／藍白著急 執政反不急？一場荒謬審查鬧劇",
-            "link": "https://udn.com//news/story/11730/9299935?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124680/9299935?from=udn-catebreaknews_ch2",
             "time": "2026-01-31 00:36"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/31/1/34333992.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "憲政首例 總預算未能付委審查",
-            "link": "https://udn.com//news/story/11730/9299933?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124680/9299933?from=udn-catebreaknews_ch2",
             "time": "2026-01-31 00:34"
         },
         {
@@ -23,12 +29,6 @@
             "title": "國會助理費案三讀 下屆適用",
             "link": "https://udn.com//news/story/11730/9299942?from=udn-catebreaknews_ch2",
             "time": "2026-01-31 00:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/30/realtime/34333817.jpg&s=Y&x=0&y=0&sw=3544&sh=2363&exp=3600&w=300",
-            "title": "黃國昌、黃珊珊 回歸律師本業",
-            "link": "https://udn.com//news/story/6656/9299941?from=udn-catebreaknews_ch2",
-            "time": "2026-01-31 00:28"
         }
     ]
 }
