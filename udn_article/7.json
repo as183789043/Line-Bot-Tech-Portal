@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/30/98/34333670.png&s=Y&x=44&y=0&sw=986&sh=657&exp=3600&w=300",
+            "title": "瀚荃公開收購全宇昕15%股權 每股104元溢價逾2成",
+            "link": "https://udn.com//news/story/7253/9299799?from=udn-catebreaknews_ch2",
+            "time": "2026-01-30 22:33"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/30/realtime/34333565.jpg&s=Y&x=96&y=0&sw=5055&sh=3371&exp=3600&w=300",
+            "title": "景碩去2025年EPS 3.51元、配息1.75元 拍板235億元資本支出",
+            "link": "https://udn.com//news/story/7253/9299753?from=udn-catebreaknews_ch2",
+            "time": "2026-01-30 21:53"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/11/realtime/33934972.jpg&s=Y&x=0&y=0&sw=4953&sh=3304&exp=3600&w=300",
+            "title": "黑色星期五？金、銀跳水 美股電子盤、台指期夜盤受累",
+            "link": "https://udn.com//news/story/7255/9299736?from=udn-catebreaknews_ch2",
+            "time": "2026-01-30 21:36"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/28/2/34314441.jpg&s=Y&x=108&y=0&sw=1163&sh=775&exp=3600&w=300",
             "title": "不畏台股回檔！本周油電燃氣股大漲逾10% 綠能股下挫5.5%最慘",
             "link": "https://udn.com//news/story/7251/9299547?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "AI投資不回頭！大摩點兵半導體配置「重雲輕PC」 這些台廠慘降目標價",
             "link": "https://udn.com//news/story/7251/9299465?from=udn-catebreaknews_ch2",
             "time": "2026-01-30 18:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/12/realtime/34167446.jpg&s=Y&x=50&y=0&sw=1317&sh=879&exp=3600&w=300",
-            "title": "上市櫃236家虧損卻升董監酬金 台塑友達力積電上榜",
-            "link": "https://udn.com//news/story/7251/9299338?from=udn-catebreaknews_ch2",
-            "time": "2026-01-30 17:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/28/2/34315127.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "彎腰撿鑽石！聯電跌回月線 外資大買逾5萬張",
-            "link": "https://udn.com//news/story/7251/9299351?from=udn-catebreaknews_ch2",
-            "time": "2026-01-30 17:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/21/2/34255961.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "外資連三天買超群創逾16萬張 竟然一天就快賣光",
-            "link": "https://udn.com//news/story/7251/9299308?from=udn-catebreaknews_ch2",
-            "time": "2026-01-30 17:27"
         }
     ]
 }
