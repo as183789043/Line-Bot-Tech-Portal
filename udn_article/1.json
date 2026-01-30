@@ -1,9 +1,21 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/30/realtime/34333751.jpg&s=Y&x=133&y=0&sw=1440&sh=960&exp=3600&w=300",
+            "title": "海鯤艦展開潛航測試   專家：關鍵驗證科目還未登場",
+            "link": "https://udn.com//news/story/10930/9299855?from=udn-catebreaknews_ch2",
+            "time": "2026-01-30 23:11"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/30/realtime/34333745.jpg&s=Y&x=0&y=0&sw=2048&sh=1365&exp=3600&w=300",
+            "title": "立院通過中天條款等法案  政院批倒退式修法  將採合法合憲救濟手段",
+            "link": "https://udn.com//news/story/11730/9299853?from=udn-catebreaknews_ch2",
+            "time": "2026-01-30 23:11"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/30/realtime/34333668.jpg&s=Y&x=0&y=0&sw=1206&sh=789&exp=3600&w=300",
-            "title": "立院創紀錄 預算會期總預算案一字未審",
-            "link": "https://udn.com//news/story/6656/9299804?from=udn-catebreaknews_ch2",
+            "title": "立院創紀錄！藍白聯手封殺 預算會期「總預算案一字未審」",
+            "link": "https://udn.com//news/story/124680/9299804?from=udn-catebreaknews_ch2",
             "time": "2026-01-30 22:32"
         },
         {
@@ -15,20 +27,8 @@
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/30/realtime/34333567.jpg&s=Y&x=0&y=29&sw=3499&sh=2332&exp=3600&w=300",
             "title": "防缺藥重演…立院三讀藥事法、藥害救濟法 保障民眾用藥權益",
-            "link": "https://udn.com//news/story/6656/9299755?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/11730/9299755?from=udn-catebreaknews_ch2",
             "time": "2026-01-30 21:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/30/realtime/34333501.jpg&s=Y&x=0&y=30&sw=4486&sh=2990&exp=3600&w=300",
-            "title": "立院組織法三讀！助理費為立委補助下屆適用 藍委：盼受到更多尊重",
-            "link": "https://udn.com//news/story/6656/9299729?from=udn-catebreaknews_ch2",
-            "time": "2026-01-30 21:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/30/98/34333492.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
-            "title": "台灣海纜屢遭斷 義大利專家：大陸恐藉此發動認知戰",
-            "link": "https://udn.com//news/story/10930/9299610?from=udn-catebreaknews_ch2",
-            "time": "2026-01-30 21:24"
         }
     ]
 }
