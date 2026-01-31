@@ -1,9 +1,15 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/31/realtime/34335167.jpg&s=Y&x=232&y=212&sw=2468&sh=1645&exp=3600&w=300",
-            "title": "歷史上的今天／1964年北區名鳥展 南非「金剛」身價2萬",
-            "link": "https://udn.com//news/story/7314/9300295?from=udn-catebreaknews_ch2",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/31/realtime/34337897.jpg&s=Y&x=0&y=12&sw=1549&sh=1033&exp=3600&w=300",
+            "title": "綠營台南市議員初選爭出線 陳亭妃站台林建南",
+            "link": "https://udn.com//news/story/124652/9301193?from=udn-catebreaknews_ch2",
+            "time": "2026-02-01 00:21"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/28/realtime/34312525.jpg&s=Y&x=84&y=836&sw=2652&sh=1768&exp=3600&w=300",
+            "title": "李劉會未成 新北黨部：年前確認人選",
+            "link": "https://udn.com//news/story/124652/9301172?from=udn-catebreaknews_ch2",
             "time": "2026-02-01 00:00"
         },
         {
@@ -13,22 +19,16 @@
             "time": "2026-02-01 00:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/31/realtime/34335167.jpg&s=Y&x=232&y=212&sw=2468&sh=1645&exp=3600&w=300",
+            "title": "歷史上的今天／1964年北區名鳥展 南非「金剛」身價2萬",
+            "link": "https://udn.com//news/story/7314/9300295?from=udn-catebreaknews_ch2",
+            "time": "2026-02-01 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
             "title": "「中天條款」修法爭議 學者：藍白應再研議補正溯及既往",
             "link": "https://udn.com//news/story/6656/9301286?from=udn-catebreaknews_ch2",
             "time": "2026-01-31 23:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
-            "title": "藍營新竹縣長初選擬採73制 黨員投票成關鍵",
-            "link": "https://udn.com//news/story/124652/9301215?from=udn-catebreaknews_ch2",
-            "time": "2026-01-31 23:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
-            "title": "「中天條款」修法爭議 藍委：法從新從優",
-            "link": "https://udn.com//news/story/6656/9301284?from=udn-catebreaknews_ch2",
-            "time": "2026-01-31 23:36"
         }
     ]
 }
