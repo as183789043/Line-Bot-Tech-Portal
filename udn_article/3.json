@@ -1,19 +1,25 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
+            "title": "美俄烏三方會談推遲 關鍵分歧仍無解",
+            "link": "https://udn.com//news/story/6809/9302708?from=udn-catebreaknews_ch2",
+            "time": "2026-02-02 05:52"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
             "title": "川普：歡迎中國買委國石油",
             "link": "https://udn.com//news/story/6809/9302266?from=udn-catebreaknews_ch2",
             "time": "2026-02-02 04:29"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/01/realtime/34342919.jpg&s=Y&x=0&y=0&sw=4000&sh=2668&exp=3600&w=300",
-            "title": "比特幣跌 一度失守7.6萬美元 「數位黃金」信念崩解",
+            "title": "比特幣跌…一度失守7.6萬美元 數位黃金信念崩解",
             "link": "https://udn.com//news/story/6811/9302607?from=udn-catebreaknews_ch2",
             "time": "2026-02-02 02:38"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
             "title": "非法穩定幣交易 漸增",
             "link": "https://udn.com//news/story/6811/9302612?from=udn-catebreaknews_ch2",
             "time": "2026-02-02 02:36"
@@ -23,12 +29,6 @@
             "title": "印度衝刺經濟強攻半導體 瞄準資料中心、稀土加工等戰略產業",
             "link": "https://udn.com//news/story/6811/9302592?from=udn-catebreaknews_ch2",
             "time": "2026-02-02 01:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/01/realtime/34343426.jpg&s=Y&x=0&y=0&sw=1889&sh=1257&exp=3600&w=300",
-            "title": "南韓1月出口額年增三成 晶片外銷助攻 衝上658億美元",
-            "link": "https://udn.com//news/story/6811/9302593?from=udn-catebreaknews_ch2",
-            "time": "2026-02-02 01:51"
         }
     ]
 }

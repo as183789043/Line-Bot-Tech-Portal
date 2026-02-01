@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/01/realtime/34343496.png&s=Y&x=0&y=11&sw=1667&sh=1110&exp=3600&w=300",
+            "title": "AI引爆記憶體缺貨 圖解3C通膨 手機、電腦影響多大",
+            "link": "https://udn.com//news/story/7314/9302739?from=udn-catebreaknews_ch2",
+            "time": "2026-02-02 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/02/realtime/34343790.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "林聰賢掌兆豐金子公司 政治背後的盤算更值探究",
+            "link": "https://udn.com//news/story/6656/9302788?from=udn-catebreaknews_ch2",
+            "time": "2026-02-02 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/02/realtime/34343872.jpeg&s=Y&x=0&y=23&sw=3004&sh=2002&exp=3600&w=300",
             "title": "前農委會主委林聰賢  轉戰兆豐資產管理公司董事長",
             "link": "https://udn.com//news/story/6656/9302792?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2026-02-02 00:32"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_0.jpg&w=300",
             "title": "高市議長之爭 新系、湧言會角力",
             "link": "https://udn.com//news/story/124652/9302663?from=udn-catebreaknews_ch2",
             "time": "2026-02-02 00:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_1.jpg&w=300",
-            "title": "新聞眼／南高議長之爭 綠營茶壺風暴",
-            "link": "https://udn.com//news/story/124652/9302670?from=udn-catebreaknews_ch2",
-            "time": "2026-02-02 00:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/01/realtime/34343523.jpg&s=Y&x=0&y=9&sw=1122&sh=748&exp=3600&w=300",
-            "title": "公開表態 胡志強稱8年前就挺江啟臣",
-            "link": "https://udn.com//news/story/124652/9302646?from=udn-catebreaknews_ch2",
-            "time": "2026-02-02 00:13"
         }
     ]
 }
