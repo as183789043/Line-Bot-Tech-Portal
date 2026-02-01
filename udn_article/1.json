@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/01/realtime/34342956.jpg&s=Y&x=0&y=0&sw=1568&sh=1046&exp=3600&w=300",
+            "title": "中科院銳指專案確定「復活」 新購142套數位微波機",
+            "link": "https://udn.com//news/story/10930/9302425?from=udn-catebreaknews_ch2",
+            "time": "2026-02-01 20:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/01/98/34342251.jpg&s=Y&x=0&y=36&sw=346&sh=231&exp=3600&w=300",
             "title": "李貞秀遞補立委 內政部：應繳喪失中國籍證明給立院",
             "link": "https://udn.com//news/story/6656/9302299?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "蕭敬嚴宣布參選新北議員 喊出「為你發言」爭取汐金萬鄉親支持",
             "link": "https://udn.com//news/story/124652/9302249?from=udn-catebreaknews_ch2",
             "time": "2026-02-01 17:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/10/31/realtime/33541363.jpg&s=Y&x=0&y=0&sw=3779&sh=2493&exp=3600&w=300",
-            "title": "國防部官員：第3批M1A2T戰車將運返台灣 第2批第2季成軍",
-            "link": "https://udn.com//news/story/10930/9302152?from=udn-catebreaknews_ch2",
-            "time": "2026-02-01 16:34"
         }
     ]
 }
