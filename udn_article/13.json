@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/02/draft/34345076.jpg&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
+            "title": "年輕人真的不喝酒了 專家：社交退縮更讓人擔心",
+            "link": "https://udn.com//news/story/6897/9302949?from=udn-catebreaknews_ch2",
+            "time": "2026-02-02 11:36"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/27/draft/34302627.jpg&s=Y&x=0&y=16&sw=1280&sh=852&exp=3600&w=300",
             "title": "心流",
             "link": "https://udn.com//news/story/7025/9290718?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "世界從來不是靠一代人推動的",
             "link": "https://udn.com//news/story/7025/9290660?from=udn-catebreaknews_ch2",
             "time": "2026-02-01 08:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/01/0/34339379.jpg&s=Y&x=88&y=0&sw=1191&sh=794&exp=3600&w=300",
-            "title": "萬寶投資論壇 AI全面擴散之投資契機",
-            "link": "https://udn.com//news/story/6850/9301485?from=udn-catebreaknews_ch2",
-            "time": "2026-02-01 08:07"
         }
     ]
 }
