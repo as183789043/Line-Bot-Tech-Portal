@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/02/2/34350091.jpg&s=Y&x=0&y=0&sw=1254&sh=836&exp=3600&w=300",
+            "title": "台股三個交易日高低點震盪逾1600點 金管會這樣說",
+            "link": "https://udn.com//news/story/7251/9304462?from=udn-catebreaknews_ch2",
+            "time": "2026-02-02 19:10"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/02/2/34350023.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股崩盤考驗主動式ETF選股能力 這檔最抗跌、關鍵在這裡",
+            "link": "https://udn.com//news/story/123006/9304455?from=udn-catebreaknews_ch2",
+            "time": "2026-02-02 19:02"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/02/2/34349903.jpg&s=Y&x=0&y=0&sw=1106&sh=737&exp=3600&w=300",
+            "title": "00982A最新配息0.377元創新高 預估年化配息率逾10%",
+            "link": "https://udn.com//news/story/123006/9304421?from=udn-catebreaknews_ch2",
+            "time": "2026-02-02 18:38"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/02/2/34349795.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台股連三跌 創意股價逆勢走揚…原來是外資圈這樣看",
             "link": "https://udn.com//news/story/7253/9304397?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "「金控股王」盤後鉅額驚見300張漲停價 仙人指路問鼎百元大關？",
             "link": "https://udn.com//news/story/7252/9304393?from=udn-catebreaknews_ch2",
             "time": "2026-02-02 18:15"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/02/realtime/34349432.jpg&s=Y&x=344&y=0&sw=4365&sh=2910&exp=3600&w=300",
-            "title": "0050規模破兆 青壯年投資人數半年大增21.1萬人",
-            "link": "https://udn.com//news/story/123006/9304331?from=udn-catebreaknews_ch2",
-            "time": "2026-02-02 17:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/02/realtime/34349174.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
-            "title": "迅得營收／1月5.66億元優於去年同期 全年續拚成長",
-            "link": "https://udn.com//news/story/7253/9304260?from=udn-catebreaknews_ch2",
-            "time": "2026-02-02 17:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/02/2/34349167.jpg&s=Y&x=0&y=0&sw=1046&sh=697&exp=3600&w=300",
-            "title": "最後搶進日曝光！00982A配息0.377元創高 年化殖利率上看10%",
-            "link": "https://udn.com//news/story/123006/9304256?from=udn-catebreaknews_ch2",
-            "time": "2026-02-02 17:14"
         }
     ]
 }
