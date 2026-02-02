@@ -1,6 +1,12 @@
 {
     "地方": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/03/realtime/34351783.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
+            "title": "國門最速逃脫術！旅館與消防員聯手「抗火大作戰」 守護旅客安全",
+            "link": "https://udn.com//news/story/7324/9304976?from=udn-catebreaknews_ch2",
+            "time": "2026-02-03 02:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/02/realtime/34351174.jpg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
             "title": "無菸城 台北燈節擬跟進",
             "link": "https://udn.com//news/story/7323/9304839?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "白沙屯媽北港進香 4月12日出發",
             "link": "https://udn.com//news/story/7325/9304939?from=udn-catebreaknews_ch2",
             "time": "2026-02-03 00:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6641_1.jpg&w=300",
-            "title": "彰化濕地畫設 卡16年挨轟",
-            "link": "https://udn.com//news/story/7325/9304918?from=udn-catebreaknews_ch2",
-            "time": "2026-02-03 00:20"
         }
     ]
 }
