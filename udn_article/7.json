@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/02/2/34350707.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
+            "title": "報復性反彈行情起跑！台指期夜盤大漲300點",
+            "link": "https://udn.com//news/story/7255/9304639?from=udn-catebreaknews_ch2",
+            "time": "2026-02-02 21:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/02/0/34350231.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "難怪台積電跌不下去！網指009816建倉護盤…運氣好買在相對低點？",
             "link": "https://udn.com//news/story/123006/9304513?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股崩盤考驗主動式ETF選股能力 這檔最抗跌、關鍵在這裡",
             "link": "https://udn.com//news/story/123006/9304455?from=udn-catebreaknews_ch2",
             "time": "2026-02-02 19:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/02/2/34349903.jpg&s=Y&x=0&y=0&sw=1106&sh=737&exp=3600&w=300",
-            "title": "00982A最新配息0.377元創新高 預估年化配息率逾10%",
-            "link": "https://udn.com//news/story/123006/9304421?from=udn-catebreaknews_ch2",
-            "time": "2026-02-02 18:38"
         }
     ]
 }
