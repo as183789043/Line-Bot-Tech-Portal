@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/02/2/34351031.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "兩檔台股ETF新兵明掛牌 00993A和009816含台積電、聯電、聯發科等",
+            "link": "https://udn.com//news/story/123006/9304748?from=udn-catebreaknews_ch2",
+            "time": "2026-02-02 22:45"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/02/2/34350707.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
             "title": "報復性反彈行情起跑！台指期夜盤大漲300點",
             "link": "https://udn.com//news/story/7255/9304639?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股三個交易日高低點震盪逾1600點 金管會這樣說",
             "link": "https://udn.com//news/story/7251/9304462?from=udn-catebreaknews_ch2",
             "time": "2026-02-02 19:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/02/2/34350023.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台股崩盤考驗主動式ETF選股能力 這檔最抗跌、關鍵在這裡",
-            "link": "https://udn.com//news/story/123006/9304455?from=udn-catebreaknews_ch2",
-            "time": "2026-02-02 19:02"
         }
     ]
 }
