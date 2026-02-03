@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/23/2/34274163.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股首見32千金創紀錄 還有五檔蓄勢待發",
+            "link": "https://udn.com//news/story/7251/9307009?from=udn-catebreaknews_ch2",
+            "time": "2026-02-03 21:48"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/23/0/34271713.jpg&s=Y&x=0&y=0&sw=1202&sh=801&exp=3600&w=300",
+            "title": "慶祝行情登場！黃金、白銀、台指期夜盤同步反彈",
+            "link": "https://udn.com//news/story/7251/9306987?from=udn-catebreaknews_ch2",
+            "time": "2026-02-03 21:31"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/03/2/34357754.jpg&s=Y&x=0&y=16&sw=1232&sh=821&exp=3600&w=300",
             "title": "搶搭複利列車 009816進入百億元俱樂部、00993A也同樣續胖",
             "link": "https://udn.com//news/story/123006/9306811?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "騰輝營收／1月4.1億元、年增29% 航空航太材料訂單需求旺",
             "link": "https://udn.com//news/story/7253/9306734?from=udn-catebreaknews_ch2",
             "time": "2026-02-03 18:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/03/2/34357520.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台股收盤首見32千金 行情強勢反彈7千金漲停板",
-            "link": "https://udn.com//news/story/7251/9306716?from=udn-catebreaknews_ch2",
-            "time": "2026-02-03 18:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/03/2/34357569.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "基米拚創新板上市 證交所通過",
-            "link": "https://udn.com//news/story/7251/9306705?from=udn-catebreaknews_ch2",
-            "time": "2026-02-03 18:25"
         }
     ]
 }
