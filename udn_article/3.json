@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/04/2/34359929.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電ADR跌1.6% 較台北交易溢價縮為17.6%",
+            "link": "https://udn.com//news/story/6811/9307451?from=udn-catebreaknews_ch2",
+            "time": "2026-02-04 07:12"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/04/realtime/34358977.jpg&s=Y&x=0&y=0&sw=3000&sh=2001&exp=3600&w=300",
+            "title": "OpenAI優先優化ChatGPT 多位高階研究人員不滿走人",
+            "link": "https://udn.com//news/story/6811/9307346?from=udn-catebreaknews_ch2",
+            "time": "2026-02-04 06:48"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/04/realtime/34358950.jpg&s=Y&x=0&y=0&sw=5072&sh=3381&exp=3600&w=300",
+            "title": "「兆美元市值俱樂部」迎來新會員 雖非科技業者但也是靠AI",
+            "link": "https://udn.com//news/story/6811/9307342?from=udn-catebreaknews_ch2",
+            "time": "2026-02-04 06:34"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/03/realtime/34358544.jpg&s=Y&x=0&y=0&sw=3000&sh=2000&exp=3600&w=300",
             "title": "黃仁勳：輝達將考慮參與OpenAI下一輪募資和IPO",
             "link": "https://udn.com//news/story/6811/9307409?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "2026全球名家瞭望／中國贏不了 AI 工業革命",
             "link": "https://udn.com//news/story/6811/9307107?from=udn-catebreaknews_ch2",
             "time": "2026-02-04 02:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/03/realtime/34358621.jpg&s=Y&x=0&y=0&sw=3000&sh=2000&exp=3600&w=300",
-            "title": "美伊敲定協商 油價震盪",
-            "link": "https://udn.com//news/story/6811/9307207?from=udn-catebreaknews_ch2",
-            "time": "2026-02-04 02:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
-            "title": "美國將退出…WHO經費大縮水 裁撤人力",
-            "link": "https://udn.com//news/story/6809/9307208?from=udn-catebreaknews_ch2",
-            "time": "2026-02-04 02:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
-            "title": "決戰期中選舉 美共和黨募得157億資金",
-            "link": "https://udn.com//news/story/6813/9307210?from=udn-catebreaknews_ch2",
-            "time": "2026-02-04 02:17"
         }
     ]
 }
