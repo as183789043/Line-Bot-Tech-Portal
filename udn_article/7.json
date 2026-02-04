@@ -1,7 +1,13 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/04/2/34362538.jpg&s=Y&x=0&y=0&sw=1224&sh=816&exp=3600&w=300",
+            "title": "記憶體回神！台股開低走高上揚94點 台積電收跌15元",
+            "link": "https://udn.com//news/story/7251/9308448?from=udn-catebreaknews_ch2",
+            "time": "2026-02-04 13:49"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
             "title": "黃仁勳稱台積電要「非常努力工作」特化供應鏈動了、永光帶量漲停",
             "link": "https://udn.com//news/story/7251/9308294?from=udn-catebreaknews_ch2",
             "time": "2026-02-04 12:57"
@@ -23,12 +29,6 @@
             "title": "1月績效王出爐…00964飆12.69％奪高股息冠軍！配息「連5升」年化穩站8％",
             "link": "https://udn.com//news/story/123006/9308024?from=udn-catebreaknews_ch2",
             "time": "2026-02-04 11:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/04/realtime/34361405.jpg&s=Y&x=30&y=0&sw=648&sh=433&exp=3600&w=300",
-            "title": "卡位搶賺年後紅包！00934、00961年化配息超越7%",
-            "link": "https://udn.com//news/story/7251/9307987?from=udn-catebreaknews_ch2",
-            "time": "2026-02-04 11:29"
         }
     ]
 }
