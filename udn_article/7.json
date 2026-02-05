@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/28/2/34315127.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "聯電營收／1月208億元、年增5.3% 續為今年開局營運增添支撐",
+            "link": "https://udn.com//news/story/7253/9311219?from=udn-catebreaknews_ch2",
+            "time": "2026-02-05 15:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/03/2/34357520.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "外資大砍726億元！台股下跌488.54點 三大法人賣超903億元",
+            "link": "https://udn.com//news/story/7251/9311204?from=udn-catebreaknews_ch2",
+            "time": "2026-02-05 15:09"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/02/2/34350461.jpg&s=Y&x=340&y=104&sw=937&sh=625&exp=3600&w=300",
+            "title": "外資圈第一槍！這家華爾街大型投行降評台股至「中立」 原因有這些",
+            "link": "https://udn.com//news/story/7251/9311180?from=udn-catebreaknews_ch2",
+            "time": "2026-02-05 15:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/05/0/34368646.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "怕年終獎金變不見？009816一張僅1萬元左右…林艾比：不配息再投入讓複利自動滾雪球",
             "link": "https://udn.com//news/story/123006/9311046?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "聯電營收／1月208億元 月增8.2%、年增5.3%",
             "link": "https://udn.com//news/story/7253/9311043?from=udn-catebreaknews_ch2",
             "time": "2026-02-05 14:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/02/2/34347465.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台股收盤下跌488點再探月線 台積電收低20元",
-            "link": "https://udn.com//news/story/7251/9310927?from=udn-catebreaknews_ch2",
-            "time": "2026-02-05 13:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/03/2/34357520.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "AI軍備競賽...企業成本下滑支出卻增加？專家示警：報酬只靠多頭牛市很危險",
-            "link": "https://udn.com//news/story/7251/9310865?from=udn-catebreaknews_ch2",
-            "time": "2026-02-05 13:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/05/0/34368138.jpg&s=Y&x=0&y=152&sw=1024&sh=683&exp=3600&w=300",
-            "title": "台股下單眉角多！券商理專揭最兇猛時刻：容易被洗出去 3大保命符曝",
-            "link": "https://udn.com//news/story/12806/9310714?from=udn-catebreaknews_ch2",
-            "time": "2026-02-05 13:20"
         }
     ]
 }
