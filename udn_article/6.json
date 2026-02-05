@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/06/1/34371842.jpg&s=Y&x=0&y=16&sw=943&sh=629&exp=3600&w=300",
+            "title": "台積電市值冠亞洲…彭博：台灣財富極端不均 埋政治風險",
+            "link": "https://udn.com//news/story/7240/9312350?from=udn-catebreaknews_ch2",
+            "time": "2026-02-06 01:56"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/06/1/34371839.jpg&s=Y&x=149&y=29&sw=534&sh=356&exp=3600&w=300",
+            "title": "台積熊本廠攻3奈米…藍委：矽盾破窗 經長：最先進製程留台",
+            "link": "https://udn.com//news/story/7240/9312352?from=udn-catebreaknews_ch2",
+            "time": "2026-02-06 01:49"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/06/1/34371769.jpg&s=Y&x=92&y=88&sw=1056&sh=704&exp=3600&w=300",
             "title": "台積德國廠量產「以拖待變」 因大陸車殺價影響車用晶片庫存",
             "link": "https://udn.com//news/story/7240/9312349?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2026-02-06 00:58"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
             "title": "年底綠電占比2成 龔明鑫承認再跳票",
             "link": "https://udn.com//news/story/7238/9312262?from=udn-catebreaknews_ch2",
             "time": "2026-02-06 00:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_8.jpg&w=300",
-            "title": "市場波動未必全因華許！美元轉強 日圓也有助攻",
-            "link": "https://udn.com//news/story/7238/9312261?from=udn-catebreaknews_ch2",
-            "time": "2026-02-06 00:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_6.jpg&w=300",
-            "title": "華許遇上善變川普 蜜月期備受關注",
-            "link": "https://udn.com//news/story/7238/9312257?from=udn-catebreaknews_ch2",
-            "time": "2026-02-06 00:05"
         }
     ]
 }
