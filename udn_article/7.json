@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/31/2/34334369.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "三大法人賣超台股192億元 外資逆勢加碼DRAM股",
+            "link": "https://udn.com//news/story/7251/9313840?from=udn-catebreaknews_ch2",
+            "time": "2026-02-06 17:03"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/04/11/0/31835080.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "外資大幅回補萬張記憶體 但僅買超旺宏433張",
+            "link": "https://udn.com//news/story/7251/9313833?from=udn-catebreaknews_ch2",
+            "time": "2026-02-06 16:53"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/02/2/34346683.jpg&s=Y&x=0&y=0&sw=1281&sh=854&exp=3600&w=300",
             "title": "記憶體族群急殺修正！宜鼎跌停 Counterpoint仍看報價強勢上行",
             "link": "https://udn.com//news/story/7251/9313752?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "面對股災的10條守則！世界末日只會發生一次…別在恐慌時砍在阿呆谷",
             "link": "https://udn.com//news/story/7251/9313602?from=udn-catebreaknews_ch2",
             "time": "2026-02-06 15:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/02/2/34350461.jpg&s=Y&x=340&y=104&sw=937&sh=625&exp=3600&w=300",
-            "title": "台股周線止步連6紅翻黑！漲幅冠亞軍搶搭太空題材 跌幅榜指向這族群",
-            "link": "https://udn.com//news/story/7251/9313591?from=udn-catebreaknews_ch2",
-            "time": "2026-02-06 15:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/03/2/34357520.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "投信護盤…台股下跌18點 三大法人賣超192億元",
-            "link": "https://udn.com//news/story/7251/9313583?from=udn-catebreaknews_ch2",
-            "time": "2026-02-06 15:09"
         }
     ]
 }
