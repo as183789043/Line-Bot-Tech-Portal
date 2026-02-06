@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/07/realtime/34378448.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "【總編開箱】疑美論響徹全球 蕭旭岑、黃國昌真心話大冒險",
+            "link": "https://udn.com//news/story/123025/9314648?from=udn-catebreaknews_ch2",
+            "time": "2026-02-07 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/07/1/34378566.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "川普簽撥款法案 14億美元挺台灣國防",
             "link": "https://udn.com//news/story/10930/9314613?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "最後通牒？國防部：軍售效期至3月15日 美提3項武器發價書",
             "link": "https://udn.com//news/story/10930/9314607?from=udn-catebreaknews_ch2",
             "time": "2026-02-07 01:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
-            "title": "台中3月底全民調 江啟臣斥違反協議",
-            "link": "https://udn.com//news/story/124652/9314506?from=udn-catebreaknews_ch2",
-            "time": "2026-02-07 00:23"
         }
     ]
 }

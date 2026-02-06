@@ -1,6 +1,24 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/07/realtime/34379156.jpg&s=Y&x=0&y=6&sw=880&sh=586&exp=3600&w=300",
+            "title": "寒流今強勢入侵 專家：冷空氣強且深厚 春節先暖後降溫",
+            "link": "https://udn.com//news/story/7266/9314717?from=udn-catebreaknews_ch2",
+            "time": "2026-02-07 06:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/07/realtime/34379127.jpg&s=Y&x=0&y=0&sw=3705&sh=2469&exp=3600&w=300",
+            "title": "寒流南下全台冷爆 吳德榮：愈晚愈凍 今夜北部8度低溫",
+            "link": "https://udn.com//news/story/7266/9314713?from=udn-catebreaknews_ch2",
+            "time": "2026-02-07 05:42"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/07/realtime/34379086.jpg&s=Y&x=0&y=16&sw=1600&sh=1066&exp=3600&w=300",
+            "title": "氣象署最新天氣展望 先冷後回暖 注意氣溫起伏",
+            "link": "https://udn.com//news/story/7266/9314706?from=udn-catebreaknews_ch2",
+            "time": "2026-02-07 05:29"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/07/realtime/34379080.jpg&s=Y&x=0&y=0&sw=1050&sh=680&exp=3600&w=300",
             "title": "今年最強寒流南下 降溫三部曲 明晚全台急凍探8度低溫",
             "link": "https://udn.com//news/story/7266/9314704?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "科普好健康／霍諾德杏仁核幾乎沒反應…爬101無懼 關鍵在前額葉",
             "link": "https://udn.com//news/story/7266/9314629?from=udn-catebreaknews_ch2",
             "time": "2026-02-07 01:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/07/realtime/34378342.jpg&s=Y&x=0&y=196&sw=1919&sh=1279&exp=3600&w=300",
-            "title": "最新研究 心臟曾放支架再繞道 死亡風險增",
-            "link": "https://udn.com//news/story/7266/9314623?from=udn-catebreaknews_ch2",
-            "time": "2026-02-07 01:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_7.jpg&w=300",
-            "title": "愛肝達人站／「醫師，我這個瘤，是好的或壞的？」",
-            "link": "https://udn.com//news/story/7266/9314619?from=udn-catebreaknews_ch2",
-            "time": "2026-02-07 01:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/07/realtime/34378324.jpg&s=Y&x=32&y=176&sw=912&sh=608&exp=3600&w=300",
-            "title": "健康你我他／邀好友家中圍爐 笑聲狗聲皆難忘",
-            "link": "https://udn.com//news/story/7266/9314618?from=udn-catebreaknews_ch2",
-            "time": "2026-02-07 01:48"
         }
     ]
 }
