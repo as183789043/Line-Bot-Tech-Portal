@@ -1,6 +1,12 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/08/realtime/34384869.jpg&s=Y&x=0&y=16&sw=980&sh=652&exp=3600&w=300",
+            "title": "高雄保泰路透天厝火警2樓竄出火舌 1男困火場成焦屍家屬崩潰",
+            "link": "https://udn.com//news/story/7320/9316049?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-02-08 03:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/08/realtime/34384526.jpg&s=Y&x=0&y=0&sw=4724&sh=3216&exp=3600&w=300",
             "title": "侯漢廷力挺藍白嚴審國防預算：擋的是貪腐與黑箱 拒絕美國予取予求",
             "link": "https://udn.com//news/story/10930/9316032?from=udn-ch1_breaknews-1-0-news",
@@ -19,16 +25,10 @@
             "time": "2026-02-08 00:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7227_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7227_6.jpg&w=300",
             "title": "木棒聯賽／林宗賓、林顗勳開轟 東體擊退嘉中",
             "link": "https://udn.com//news/story/7001/9315505?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-02-07 23:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/07/realtime/34383959.jpg&s=Y&x=0&y=0&sw=1080&sh=719&exp=3600&w=300",
-            "title": "74年前在台遭槍決 福州共諜林祥熹今回歸故里",
-            "link": "https://udn.com//news/story/7332/9315983?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-02-07 23:32"
         }
     ]
 }
