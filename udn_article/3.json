@@ -1,9 +1,21 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
-            "title": "美伊能否達協議 零是關鍵字",
-            "link": "https://udn.com//news/story/6809/9315906?from=udn-catebreaknews_ch2",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/08/1/34383957.jpg&s=Y&x=176&y=40&sw=1101&sh=734&exp=3600&w=300",
+            "title": "核武議題 美伊會談「非常好」 本周續談",
+            "link": "https://udn.com//news/story/6809/9315904?from=udn-catebreaknews_ch2",
+            "time": "2026-02-08 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/07/realtime/34383848.jpg&s=Y&x=0&y=0&sw=2128&sh=1417&exp=3600&w=300",
+            "title": "日本今眾議員大選 高市旋風對決強烈寒流",
+            "link": "https://udn.com//news/story/6809/9315934?from=udn-catebreaknews_ch2",
+            "time": "2026-02-08 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
+            "title": "日本2在野黨可能與自民黨合作",
+            "link": "https://udn.com//news/story/6809/9315910?from=udn-catebreaknews_ch2",
             "time": "2026-02-08 00:00"
         },
         {
@@ -13,21 +25,9 @@
             "time": "2026-02-08 00:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
-            "title": "日本2在野黨可能與自民黨合作",
-            "link": "https://udn.com//news/story/6809/9315910?from=udn-catebreaknews_ch2",
-            "time": "2026-02-08 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/07/realtime/34383848.jpg&s=Y&x=0&y=0&sw=2128&sh=1417&exp=3600&w=300",
-            "title": "日今大選 高市旋風對決強烈寒流",
-            "link": "https://udn.com//news/story/6809/9315934?from=udn-catebreaknews_ch2",
-            "time": "2026-02-08 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/08/1/34383957.jpg&s=Y&x=176&y=40&sw=1101&sh=734&exp=3600&w=300",
-            "title": "核武議題 美伊會談「非常好」 本周續談",
-            "link": "https://udn.com//news/story/6809/9315904?from=udn-catebreaknews_ch2",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
+            "title": "美伊能否達協議 零是關鍵字",
+            "link": "https://udn.com//news/story/6809/9315906?from=udn-catebreaknews_ch2",
             "time": "2026-02-08 00:00"
         }
     ]
