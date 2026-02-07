@@ -1,13 +1,19 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/07/realtime/34382400.jpg&s=Y&x=81&y=0&sw=2679&sh=1787&exp=3600&w=300",
+            "title": "有錢人占用資源 社宅淪跑車聚會所？住都中心搬法規急澄清",
+            "link": "https://udn.com//news/story/7238/9315511?from=udn-catebreaknews_ch2",
+            "time": "2026-02-07 16:56"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/07/realtime/34381538.jpg&s=Y&x=78&y=0&sw=843&sh=562&exp=3600&w=300",
             "title": "抗暑更要防寒！環境部與衛福部聯手 強化調適因應氣候變遷挑戰",
             "link": "https://udn.com//news/story/7241/9315336?from=udn-catebreaknews_ch2",
             "time": "2026-02-07 14:29"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_2.jpg&w=300",
             "title": "日本國會改選在即 國銀示警日圓短線偏弱",
             "link": "https://udn.com//news/story/7239/9315221?from=udn-catebreaknews_ch2",
             "time": "2026-02-07 13:24"
@@ -23,12 +29,6 @@
             "title": "伺服器CPU也傳供應吃緊 英特爾、超微傳已通知大陸客戶拉長交貨期程",
             "link": "https://udn.com//news/story/7240/9314448?from=udn-catebreaknews_ch2",
             "time": "2026-02-07 01:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_1.jpg&w=300",
-            "title": "Anthropic 再推金融模型",
-            "link": "https://udn.com//news/story/7239/9314445?from=udn-catebreaknews_ch2",
-            "time": "2026-02-07 01:42"
         }
     ]
 }
