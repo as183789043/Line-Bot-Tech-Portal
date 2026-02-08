@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/08/realtime/34389940.jpg&s=Y&x=0&y=24&sw=3500&sh=2332&exp=3600&w=300",
+            "title": "日本大選投票結束 NHK出口民調顯示自民黨大勝",
+            "link": "https://udn.com//news/story/6809/9316978?from=udn-catebreaknews_ch2",
+            "time": "2026-02-08 19:15"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/07/98/34383168.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "美國持續制裁 伊朗外長稱德黑蘭對美缺乏信任",
+            "link": "https://udn.com//news/story/6809/9316943?from=udn-catebreaknews_ch2",
+            "time": "2026-02-08 18:52"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/08/realtime/34389822.jpg&s=Y&x=0&y=97&sw=11379&sh=7586&exp=3600&w=300",
+            "title": "有錢人對可延壽的奢華服務不手軟 帶動最貴飯店房價創新高",
+            "link": "https://udn.com//news/story/6812/9316938?from=udn-catebreaknews_ch2",
+            "time": "2026-02-08 18:34"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/08/realtime/34389746.jpg&s=Y&x=0&y=0&sw=8192&sh=5464&exp=3600&w=300",
             "title": "韓媒：韓股市值已超越台灣與德國 全球第八",
             "link": "https://udn.com//news/story/6811/9316921?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "哈瑪斯高層拒解除武裝 反對外國勢力干涉加薩事務",
             "link": "https://udn.com//news/story/6809/9316894?from=udn-catebreaknews_ch2",
             "time": "2026-02-08 17:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/08/realtime/34389360.jpg&s=Y&x=0&y=0&sw=7979&sh=5235&exp=3600&w=300",
-            "title": "泰柬衝突激發民族主義 「鷹派」執政黨泰自豪黨有望保住政權",
-            "link": "https://udn.com//news/story/6809/9316849?from=udn-catebreaknews_ch2",
-            "time": "2026-02-08 17:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/07/98/34383168.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "伊朗外長稱即使美國軍事威脅 絕不放棄核子計畫",
-            "link": "https://udn.com//news/story/6809/9316842?from=udn-catebreaknews_ch2",
-            "time": "2026-02-08 16:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/08/realtime/34389020.jpg&s=Y&x=0&y=0&sw=5500&sh=3666&exp=3600&w=300",
-            "title": "台海衝突新保單！WSJ：美軍未來幾年增派潛艦前進澳洲 鎖定嚇阻大陸",
-            "link": "https://udn.com//news/story/6809/9316777?from=udn-catebreaknews_ch2",
-            "time": "2026-02-08 15:56"
         }
     ]
 }
