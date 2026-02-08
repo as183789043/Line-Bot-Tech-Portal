@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/08/realtime/34390052.jpg&s=Y&x=0&y=0&sw=1585&sh=1033&exp=3600&w=300",
+            "title": "台股飆高！銀行業持股市值首度破兆 壽險業4個月來賣股近5千億",
+            "link": "https://udn.com//news/story/7251/9317015?from=udn-catebreaknews_ch2",
+            "time": "2026-02-08 19:52"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/08/realtime/34389842.jpg&s=Y&x=245&y=0&sw=443&sh=295&exp=3600&w=300",
             "title": "AI教父黃仁勳再開金口！新工業化開端00830追紅利",
             "link": "https://udn.com//news/story/123006/9316945?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股年前調整 法人：信心仍在 加碼AI邏輯不變",
             "link": "https://udn.com//news/story/7251/9316691?from=udn-catebreaknews_ch2",
             "time": "2026-02-08 14:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/08/2/34388021.jpg&s=Y&x=172&y=0&sw=1106&sh=737&exp=3600&w=300",
-            "title": "台股周線連六紅後轉收黑 三萬點成多空試金石 美股大漲定錨 台股安心",
-            "link": "https://udn.com//news/story/7251/9316573?from=udn-catebreaknews_ch2",
-            "time": "2026-02-08 13:25"
         }
     ]
 }
