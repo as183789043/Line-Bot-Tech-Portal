@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/08/realtime/34386803.jpg&s=Y&x=182&y=0&sw=3669&sh=2446&exp=3600&w=300",
+            "title": "志聖元月營收9.94億元 月增64.6%、年大增124.1%刷新單月歷史新高",
+            "link": "https://udn.com//news/story/7253/9316277?from=udn-catebreaknews_ch2",
+            "time": "2026-02-08 10:39"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/08/realtime/34386792.jpg&s=Y&x=0&y=42&sw=5712&sh=3808&exp=3600&w=300",
+            "title": "先進封裝需求持續發酵 志聖工業1月營收創新高",
+            "link": "https://udn.com//news/story/7253/9316267?from=udn-catebreaknews_ch2",
+            "time": "2026-02-08 10:37"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/08/0/34386657.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "009816主打「不配息利滾利」掛牌首日爆量36萬張！解析強在哪",
             "link": "https://udn.com//news/story/123006/9316222?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "股息加碼潛力股多頭明燈 廣達、華固等吸引存股族",
             "link": "https://udn.com//news/story/7251/9315925?from=udn-catebreaknews_ch2",
             "time": "2026-02-08 01:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/08/2/34383907.jpg&s=Y&x=0&y=0&sw=966&sh=644&exp=3600&w=300",
-            "title": "台股\b金蛇年封關 五大驚奇",
-            "link": "https://udn.com//news/story/7251/9315905?from=udn-catebreaknews_ch2",
-            "time": "2026-02-08 00:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
-            "title": "友達、中光電法說 營運聚光",
-            "link": "https://udn.com//news/story/7253/9315911?from=udn-catebreaknews_ch2",
-            "time": "2026-02-08 00:35"
         }
     ]
 }
