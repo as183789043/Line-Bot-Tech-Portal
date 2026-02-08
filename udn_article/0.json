@@ -1,6 +1,12 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/09/98/34392216.jpg&s=Y&x=0&y=0&sw=1008&sh=672&exp=3600&w=300",
+            "title": "泰國大選阿努廷宣布勝選 泰自豪黨將繼續執政",
+            "link": "https://udn.com//news/story/6809/9317523?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-02-09 05:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/09/realtime/34391407.jpg&s=Y&x=0&y=30&sw=4000&sh=2666&exp=3600&w=300",
             "title": "台北國際書展煉成「體驗閱讀最好的氣場」 開啟紙電互補共榮的時代",
             "link": "https://udn.com//news/story/7270/9317508?from=udn-ch1_breaknews-1-0-news",
@@ -23,12 +29,6 @@
             "title": "五股超商深夜驚傳搶案 男子持刀脅店員強搶2萬元 警鎖定追緝中",
             "link": "https://udn.com//news/story/7320/9317487?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-02-09 00:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/08/98/34391241.jpg&s=Y&x=0&y=72&sw=1280&sh=853&exp=3600&w=300",
-            "title": "泰國大選泰自豪黨領先 總理阿努廷料將繼續執政",
-            "link": "https://udn.com//news/story/6809/9317367?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-02-09 00:20"
         }
     ]
 }

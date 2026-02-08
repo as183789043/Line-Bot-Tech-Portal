@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/04/2/34365325.webp&s=Y&x=0&y=0&sw=629&sh=419&exp=3600&w=300",
+            "title": "台股當沖比 衝今年高點",
+            "link": "https://udn.com//news/story/7251/9317294?from=udn-catebreaknews_ch2",
+            "time": "2026-02-09 02:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/09/2/34389978.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "南亞迎轉單春節不停機 AI相關業務比重將拉升",
             "link": "https://udn.com//news/story/7252/9316987?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "10檔雙金鎖碼紅包股聚光 華航、聯電等抱股過年意味濃",
             "link": "https://udn.com//news/story/7251/9317029?from=udn-catebreaknews_ch2",
             "time": "2026-02-09 01:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/10/2/33928619.jpg&s=Y&x=124&y=0&sw=942&sh=628&exp=3600&w=300",
-            "title": "聯發科目標價升至2,000元 法人建議靜待進場時機",
-            "link": "https://udn.com//news/story/7253/9317030?from=udn-catebreaknews_ch2",
-            "time": "2026-02-09 01:03"
         }
     ]
 }
