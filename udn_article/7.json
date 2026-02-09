@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/09/2/34400477.jpg&s=Y&x=0&y=0&sw=1050&sh=700&exp=3600&w=300",
+            "title": "美銀：金像電產能擴張優於預期 目標價上調19.2%到900元",
+            "link": "https://udn.com//news/story/7253/9319532?from=udn-catebreaknews_ch2",
+            "time": "2026-02-09 20:55"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/09/98/34400097.jpg&s=Y&x=0&y=108&sw=1278&sh=852&exp=3600&w=300",
+            "title": "潤弘5.9億買潤泰營造 科技業擴廠加持估今年營運走揚",
+            "link": "https://udn.com//news/story/7252/9319469?from=udn-catebreaknews_ch2",
+            "time": "2026-02-09 20:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/09/2/34399728.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
             "title": "宏碁營收／1月210億元、年增39.8% 創疫後同期新高",
             "link": "https://udn.com//news/story/7253/9319396?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "文曄併購效益再發威 單月營收近副2000億元、月增98%",
             "link": "https://udn.com//news/story/7253/9319330?from=udn-catebreaknews_ch2",
             "time": "2026-02-09 18:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/09/2/34399360.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "長榮營收／1月318億元 月增3.8%、年減24.5%",
-            "link": "https://udn.com//news/story/7252/9319316?from=udn-catebreaknews_ch2",
-            "time": "2026-02-09 18:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/09/2/34399137.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "旅行社寒假買氣提前發動 雄獅、五福、山富元月營收穩居高檔",
-            "link": "https://udn.com//news/story/7251/9319312?from=udn-catebreaknews_ch2",
-            "time": "2026-02-09 18:34"
         }
     ]
 }
