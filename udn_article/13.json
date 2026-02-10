@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/10/draft/34413367.jpeg&s=Y&x=135&y=0&sw=930&sh=620&exp=3600&w=300",
+            "title": "匈牙利鋼琴名家瓦薩里辭世",
+            "link": "https://udn.com//news/story/11184/9321674?from=udn-catebreaknews_ch2",
+            "time": "2026-02-11 07:24"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/10/draft/34413414.jpeg&s=Y&x=135&y=0&sw=930&sh=620&exp=3600&w=300",
+            "title": "史卡拉歌劇院2025年票房收入創新高",
+            "link": "https://udn.com//news/story/11184/9321683?from=udn-catebreaknews_ch2",
+            "time": "2026-02-11 07:24"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/10/0/34410554.jpg&s=Y&x=164&y=112&sw=1113&sh=742&exp=3600&w=300",
             "title": "微軟暴跌！軟體股金融海嘯以來最慘 為何慘遭拋售？",
             "link": "https://udn.com//news/story/6841/9321119?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "愈早買房 愈早取得資產增值門票？政大教授：留意台偏鄉變日「萎縮城市」",
             "link": "https://udn.com//news/story/6839/9320671?from=udn-catebreaknews_ch2",
             "time": "2026-02-10 11:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/09/draft/34398008.jpg&s=Y&x=0&y=0&sw=1260&sh=844&exp=3600&w=300",
-            "title": "台灣用電壓力有解嗎？曾文生：供電規劃像打棒球延長賽 要把佈局時間拉長",
-            "link": "https://udn.com//news/story/6841/9319146?from=udn-catebreaknews_ch2",
-            "time": "2026-02-10 09:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/09/draft/34397942.jpg&s=Y&x=0&y=0&sw=1260&sh=840&exp=3600&w=300",
-            "title": "擺脫Google導航 一位建築學者的迷路旅行 李清志：不走最快的直線",
-            "link": "https://udn.com//news/story/6841/9319132?from=udn-catebreaknews_ch2",
-            "time": "2026-02-10 09:28"
         }
     ]
 }
