@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/10/1/34418482.png&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
+            "title": "兒少深偽照片流竄 圖解AI「一鍵脫衣」加劇性剝削",
+            "link": "https://udn.com//news/story/7314/9322463?from=udn-catebreaknews_ch2",
+            "time": "2026-02-11 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/10/realtime/34418899.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "【總編開箱】不抓共諜查助理費 調局國安站大砲打小鳥",
+            "link": "https://udn.com//news/story/124761/9322533?from=udn-catebreaknews_ch2",
+            "time": "2026-02-11 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/11/realtime/34421409.jpg&s=Y&x=100&y=0&sw=1080&sh=720&exp=3600&w=300",
             "title": "檢調偵辦高金案 縣議員陳政宗遭約談19小時今凌晨請回",
             "link": "https://udn.com//news/story/124761/9322584?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2026-02-11 01:58"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_0.jpg&w=300",
             "title": "台美對等貿易協定談判團隊赴美 拚六個目標",
             "link": "https://udn.com//news/story/123025/9322328?from=udn-catebreaknews_ch2",
             "time": "2026-02-11 01:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/11/1/34420467.jpg&s=Y&x=0&y=0&sw=1219&sh=813&exp=3600&w=300",
-            "title": "高金素梅開庭發燒身體不適 檢方諭知限制出境 緊急送醫 擇日再訊問",
-            "link": "https://udn.com//news/story/124761/9322563?from=udn-catebreaknews_ch2",
-            "time": "2026-02-11 01:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/06/realtime/34372385.jpg&s=Y&x=0&y=0&sw=5000&sh=3333&exp=3600&w=300",
-            "title": "台積電免關稅晶片將分配美企 川普拿台美協議當籌碼",
-            "link": "https://udn.com//news/story/123025/9322324?from=udn-catebreaknews_ch2",
-            "time": "2026-02-11 01:52"
         }
     ]
 }
