@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/10/0/34410554.jpg&s=Y&x=164&y=112&sw=1113&sh=742&exp=3600&w=300",
+            "title": "微軟暴跌！軟體股金融海嘯以來最慘 為何慘遭拋售？",
+            "link": "https://udn.com//news/story/6841/9321119?from=udn-catebreaknews_ch2",
+            "time": "2026-02-10 15:10"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/10/0/34408636.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "高市勝選！微信、微博全噤聲…川普加速世界重新選邊站 謝金河：這些人會有大考驗",
             "link": "https://udn.com//news/story/6839/9320646?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "擺脫Google導航 一位建築學者的迷路旅行 李清志：不走最快的直線",
             "link": "https://udn.com//news/story/6841/9319132?from=udn-catebreaknews_ch2",
             "time": "2026-02-10 09:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/10/draft/34406462.jpg&s=Y&x=0&y=0&sw=624&sh=416&exp=3600&w=300",
-            "title": "消費與勞動薪資脫鉤 經濟學家：AI破滅對一般人有利",
-            "link": "https://udn.com//news/story/6897/9320169?from=udn-catebreaknews_ch2",
-            "time": "2026-02-10 09:27"
         }
     ]
 }
