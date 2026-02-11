@@ -1,9 +1,21 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/11/98/34438466.jpg&s=Y&x=0&y=0&sw=1260&sh=840&exp=3600&w=300",
+            "title": "泰國校園槍擊案釀3傷 18歲槍手遭逮",
+            "link": "https://udn.com//news/story/6809/9325118?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-02-12 00:41"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/11/realtime/34425124.jpg&s=Y&x=0&y=0&sw=4464&sh=2934&exp=3600&w=300",
+            "title": "歷史上的今天／1960年國際獅子會第一副會長戴維斯訪台",
+            "link": "https://udn.com//news/story/7314/9322792?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-02-12 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/11/realtime/34437999.jpg&s=Y&x=0&y=0&sw=4000&sh=2668&exp=3600&w=300",
             "title": "7-ELEVEN線上線下好康齊發！「CITY系列」春節開工優惠組合限時5折起",
-            "link": "https://udn.com//news/story/7266/9325212?from=udn-ch1_breaknews-1-0-news",
+            "link": "https://udn.com//news/story/124378/9325212?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-02-11 23:55"
         },
         {
@@ -17,18 +29,6 @@
             "title": "高金素梅助理犯6罪羈押 裁定曝「犯行期間非短」",
             "link": "https://udn.com//news/story/124761/9325162?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-02-11 23:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/11/98/34437625.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "TPBL／丁聖儒轟29分白搭 海神退戰神終止5連敗",
-            "link": "https://udn.com//news/story/7003/9325036?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-02-11 23:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/11/realtime/34437603.jpg&s=Y&x=0&y=0&sw=5500&sh=3711&exp=3600&w=300",
-            "title": "德州艾爾帕索機場空域關閉又突解除 官員稱墨毒梟無人機侵入",
-            "link": "https://udn.com//news/story/6813/9325089?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-02-11 23:13"
         }
     ]
 }
