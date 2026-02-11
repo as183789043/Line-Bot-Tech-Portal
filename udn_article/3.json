@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/12/98/34441010.jpg&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
+            "title": "和平獎得主穆哈瑪迪獄中受虐 諾獎委員會促伊朗放人",
+            "link": "https://udn.com//news/story/6809/9325372?from=udn-catebreaknews_ch2",
+            "time": "2026-02-12 06:08"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/11/realtime/34437436.jpg&s=Y&x=0&y=0&sw=1889&sh=1259&exp=3600&w=300",
+            "title": "2026全球名家瞭望／重訂國際新秩序",
+            "link": "https://udn.com//news/story/6811/9325010?from=udn-catebreaknews_ch2",
+            "time": "2026-02-12 02:55"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/15/realtime/34196429.jpg&s=Y&x=0&y=0&sw=4070&sh=2713&exp=3600&w=300",
             "title": "印尼暗示減產 鎳價漲不停",
             "link": "https://udn.com//news/story/6811/9324998?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2026-02-12 02:33"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
             "title": "亞股湧錢潮 指數衝高",
             "link": "https://udn.com//news/story/6811/9325003?from=udn-catebreaknews_ch2",
             "time": "2026-02-12 02:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
-            "title": "加密貨幣動能疲弱",
-            "link": "https://udn.com//news/story/6811/9325006?from=udn-catebreaknews_ch2",
-            "time": "2026-02-12 02:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/11/realtime/34437505.jpg&s=Y&x=0&y=38&sw=5000&sh=3332&exp=3600&w=300",
-            "title": "馬斯克新點子 月球蓋工廠規劃製造AI衛星",
-            "link": "https://udn.com//news/story/6811/9325049?from=udn-catebreaknews_ch2",
-            "time": "2026-02-12 02:31"
         }
     ]
 }
