@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/11/realtime/34437300.jpg&s=Y&x=0&y=30&sw=3569&sh=2378&exp=3600&w=300",
+            "title": "耕興2025全年度每股純益10.77元 擬每股配息12元",
+            "link": "https://udn.com//news/story/7254/9324990?from=udn-catebreaknews_ch2",
+            "time": "2026-02-11 22:39"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/11/2/34436898.jpg&s=Y&x=0&y=0&sw=1216&sh=811&exp=3600&w=300",
+            "title": "非農數據沒有驚嚇 美股電子盤、台指期夜盤快速反彈",
+            "link": "https://udn.com//news/story/7255/9324898?from=udn-catebreaknews_ch2",
+            "time": "2026-02-11 21:47"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/11/98/34436603.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "今日封關！台股金蛇擺尾 蛇年創漲點、市值等13項新高紀錄",
+            "link": "https://udn.com//news/story/7251/9324864?from=udn-catebreaknews_ch2",
+            "time": "2026-02-11 21:27"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/11/2/34434928.jpg&s=Y&x=0&y=0&sw=1199&sh=799&exp=3600&w=300",
             "title": "金蛇年封關！外資買超523.6億元 買超「這檔面板股」12.39萬張最多",
             "link": "https://udn.com//news/story/7251/9324573?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "台股封關周資金回流半導體 漲幅逾7.6%帶動上市市值逼近110兆元",
             "link": "https://udn.com//news/story/7251/9324565?from=udn-catebreaknews_ch2",
             "time": "2026-02-11 18:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/11/2/34434742.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "金蛇年台股上漲逾10,080點、漲幅高達42.85％ 馬年開紅盤漲率上看七成",
-            "link": "https://udn.com//news/story/7251/9324533?from=udn-catebreaknews_ch2",
-            "time": "2026-02-11 17:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/11/2/34434478.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "金蛇年台股圓滿封關、大漲逾萬點 市值突破百兆大關",
-            "link": "https://udn.com//news/story/7251/9324485?from=udn-catebreaknews_ch2",
-            "time": "2026-02-11 17:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/11/2/34433131.jpg&s=Y&x=0&y=0&sw=1254&sh=836&exp=3600&w=300",
-            "title": "封關日瘋搶什麼？台積電770億元稱王、友達噴50萬巨量、旺宏量價封后",
-            "link": "https://udn.com//news/story/7251/9324241?from=udn-catebreaknews_ch2",
-            "time": "2026-02-11 16:23"
         }
     ]
 }
