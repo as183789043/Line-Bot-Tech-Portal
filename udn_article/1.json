@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/11/realtime/34432113.jpg&s=Y&x=0&y=140&sw=4776&sh=3184&exp=3600&w=300",
+            "title": "賴清德總統喊話立法院 速審軍購條例 遲未通過恐跌出優先名單",
+            "link": "https://udn.com//news/story/124680/9325164?from=udn-catebreaknews_ch2",
+            "time": "2026-02-12 00:57"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/12/1/34438282.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "觀察站／穩固雙北 蔣萬安、李四川雙母雞助攻台灣尾",
             "link": "https://udn.com//news/story/124652/9325139?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2026-02-12 00:18"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_0.jpg&w=300",
             "title": "新北選戰啟動 藍小雞鬆口氣",
             "link": "https://udn.com//news/story/124652/9325148?from=udn-catebreaknews_ch2",
             "time": "2026-02-12 00:17"
@@ -23,12 +29,6 @@
             "title": "高金素梅限制出海出境 助理張俊傑羈押",
             "link": "https://udn.com//news/story/124761/9325159?from=udn-catebreaknews_ch2",
             "time": "2026-02-12 00:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
-            "title": "羅智強：賴總統辦高金只要莫須有三字 王世堅：讓高金加入台灣派有何不對",
-            "link": "https://udn.com//news/story/124761/9325165?from=udn-catebreaknews_ch2",
-            "time": "2026-02-12 00:13"
         }
     ]
 }
