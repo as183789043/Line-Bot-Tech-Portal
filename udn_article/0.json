@@ -1,6 +1,18 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/13/realtime/34452466.jpg&s=Y&x=0&y=0&sw=4222&sh=2782&exp=3600&w=300",
+            "title": "小年夜前晴朗溫暖好天氣 除夕至初三北部及宜蘭轉濕涼",
+            "link": "https://udn.com//news/story/7266/9327829?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-02-13 05:22"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/13/realtime/34452436.png&s=Y&x=0&y=8&sw=1130&sh=752&exp=3600&w=300",
+            "title": "凌晨3時28分台東海端規模3.5地震 最大震度3級",
+            "link": "https://udn.com//news/story/7266/9327826?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-02-13 05:09"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/13/realtime/34451773.jpg&s=Y&x=0&y=21&sw=2897&sh=1930&exp=3600&w=300",
             "title": "商場變身救命教室！ 桃市消防員走進站前2大百貨傳授CPR救命神技",
             "link": "https://udn.com//news/story/7320/9327782?from=udn-ch1_breaknews-1-0-news",
@@ -17,18 +29,6 @@
             "title": "鋼鐵海防全面啟動！北部海巡重兵壓境 岸海空立體殲擊",
             "link": "https://udn.com//news/story/10930/9327751?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-02-13 00:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/13/realtime/34451405.jpg&s=Y&x=0&y=0&sw=3104&sh=2064&exp=3600&w=300",
-            "title": "新款AirTag開箱！尋找距離更遠、音效更大聲 不只防丟更是旅行神隊友",
-            "link": "https://udn.com//news/story/7270/9327744?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-02-13 00:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/13/realtime/34451315.jpg&s=Y&x=0&y=0&sw=3000&sh=2000&exp=3600&w=300",
-            "title": "大師兄銷魂麵舖「滿額抽iPhone 17」！湊湊火鍋春節不打烊　宵夜享9折",
-            "link": "https://udn.com//news/story/7266/9327711?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-02-13 00:04"
         }
     ]
 }
