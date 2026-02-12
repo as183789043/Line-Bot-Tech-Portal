@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/23/0/34025992.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "謝金河：馬年迎來兩大順風車 台股今年喜氣洋洋",
+            "link": "https://udn.com//news/story/7251/9326240?from=udn-catebreaknews_ch2",
+            "time": "2026-02-13 07:15"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/13/2/34451634.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台美貿易協定預期帶來利多 台股年後迎慶祝行情",
             "link": "https://udn.com//news/story/7251/9327564?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "日股商品 紅光滿面",
             "link": "https://udn.com//news/story/10103/9327354?from=udn-catebreaknews_ch2",
             "time": "2026-02-13 01:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
-            "title": "三低一高優質股 抗震",
-            "link": "https://udn.com//news/story/10103/9327355?from=udn-catebreaknews_ch2",
-            "time": "2026-02-13 01:01"
         }
     ]
 }
