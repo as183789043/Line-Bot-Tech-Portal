@@ -1,6 +1,12 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2026/01/11/34153613.jpg&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "中國公布首個汽車價格合規指南 汽車反內捲制度化",
+            "link": "https://udn.com//news/story/7333/9329547?from=udn-catebreaknews_ch2",
+            "time": "2026-02-13 19:56"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/14/realtime/34183260.jpg&s=Y&x=0&y=0&sw=799&sh=533&exp=3600&w=300",
             "title": "華為內部反腐通報 前研發高層涉受賄被批捕",
             "link": "https://udn.com//news/story/7333/9329490?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "香港廉署歲晚行動拘捕涉大廈維修工程貪汙嫌犯",
             "link": "https://udn.com//news/story/7332/9329435?from=udn-catebreaknews_ch2",
             "time": "2026-02-13 18:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/13/realtime/34457240.jpg&s=Y&x=0&y=0&sw=5500&sh=3666&exp=3600&w=300",
-            "title": "不再受制於美方斷供 字節跳動自研晶片團隊已超千人",
-            "link": "https://udn.com//news/story/7333/9329382?from=udn-catebreaknews_ch2",
-            "time": "2026-02-13 17:58"
         }
     ]
 }
