@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/13/realtime/34457123.jpg&s=Y&x=8&y=0&sw=540&sh=360&exp=3600&w=300",
+            "title": "主動式台股ETF規模創高、達1,739.29億元 九檔同創新高",
+            "link": "https://udn.com//news/story/123006/9329345?from=udn-catebreaknews_ch2",
+            "time": "2026-02-13 17:41"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/13/realtime/34456418.jpg&s=Y&x=0&y=10&sw=1111&sh=740&exp=3600&w=300",
             "title": "蛇年投信十大提款名單曝光！日月光大砍346億元卻翻倍創高 誰在撐腰？",
             "link": "https://udn.com//news/story/7251/9329129?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "主動式台股 ETF 規模1,739億元創高 00982A 年化配息率10%、息利雙收",
             "link": "https://udn.com//news/story/123006/9328832?from=udn-catebreaknews_ch2",
             "time": "2026-02-13 14:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/13/0/34455474.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "賴總統定調「台積電赴美是自主決定」！網不解反酸：那政府幹嘛幫企業發布？",
-            "link": "https://udn.com//news/story/12806/9328778?from=udn-catebreaknews_ch2",
-            "time": "2026-02-13 14:05"
         }
     ]
 }
