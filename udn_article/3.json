@@ -1,20 +1,26 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
+            "title": "婚姻欺詐…假結婚，真犯罪",
+            "link": "https://udn.com//news/story/6813/9331192?from=udn-catebreaknews_ch2",
+            "time": "2026-02-15 05:27"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/06/realtime/34373238.jpg&s=Y&x=0&y=0&sw=3500&sh=2333&exp=3600&w=300",
             "title": "美銀報告 「美元以外都好」交易成形",
             "link": "https://udn.com//news/story/6811/9331040?from=udn-catebreaknews_ch2",
             "time": "2026-02-15 01:29"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
-            "title": "方舟投資研究報告 五創新領域賺升級財",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
+            "title": "方舟投資研究報告…五創新領域 賺升級財",
             "link": "https://udn.com//news/story/6811/9331019?from=udn-catebreaknews_ch2",
             "time": "2026-02-15 00:49"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/14/realtime/34464319.jpg&s=Y&x=0&y=0&sw=5160&sh=3440&exp=3600&w=300",
-            "title": "AI 顛覆產業 美股上周嚇跌 指數寫下近三個月來最差表現",
+            "title": "AI顛覆產業 美股上周嚇跌",
             "link": "https://udn.com//news/story/6811/9331034?from=udn-catebreaknews_ch2",
             "time": "2026-02-15 00:37"
         },
@@ -23,12 +29,6 @@
             "title": "德總理：美國領導力受挑戰 梅爾茨提出「自由方案」改革",
             "link": "https://udn.com//news/story/6809/9331037?from=udn-catebreaknews_ch2",
             "time": "2026-02-15 00:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
-            "title": "川普施壓伊朗 美擬展開數周軍事行動",
-            "link": "https://udn.com//news/story/6809/9331032?from=udn-catebreaknews_ch2",
-            "time": "2026-02-15 00:33"
         }
     ]
 }

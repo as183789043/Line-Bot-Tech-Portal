@@ -1,13 +1,25 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/15/realtime/34464705.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "降關稅vs.築壁壘 中美貿易戰的台灣戰略",
+            "link": "https://udn.com//news/story/6656/9331168?from=udn-catebreaknews_ch2",
+            "time": "2026-02-15 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/14/realtime/34464375.png&s=Y&x=0&y=5&sw=800&sh=532&exp=3600&w=300",
+            "title": "國防預算買哪些武器？盤點我軍購清單 各項金額一次看",
+            "link": "https://udn.com//news/story/7314/9331077?from=udn-catebreaknews_ch2",
+            "time": "2026-02-15 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/14/realtime/34462786.jpg&s=Y&x=0&y=0&sw=1569&sh=1044&exp=3600&w=300",
             "title": "卓揆：百工百業再衝一波",
             "link": "https://udn.com//news/story/123025/9331043?from=udn-catebreaknews_ch2",
             "time": "2026-02-15 01:25"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
             "title": "藍營：財政韌性挑戰空前",
             "link": "https://udn.com//news/story/123025/9331044?from=udn-catebreaknews_ch2",
             "time": "2026-02-15 01:21"
@@ -17,18 +29,6 @@
             "title": "聯合報一周大事2/8~2/14",
             "link": "https://udn.com//news/story/7314/9331096?from=udn-catebreaknews_ch2",
             "time": "2026-02-15 00:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/14/realtime/34464329.jpg&s=Y&x=0&y=0&sw=2267&sh=1511&exp=3600&w=300",
-            "title": "藍智庫指台美貿易協定報喜不報憂…20兆換15% 立院應嚴審",
-            "link": "https://udn.com//news/story/123025/9331048?from=udn-catebreaknews_ch2",
-            "time": "2026-02-15 00:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/15/1/34464624.jpg&s=Y&x=44&y=84&sw=1135&sh=757&exp=3600&w=300",
-            "title": "北市議員缺額新高 藍綠白參選新人多",
-            "link": "https://udn.com//news/story/124652/9331072?from=udn-catebreaknews_ch2",
-            "time": "2026-02-15 00:09"
         }
     ]
 }
