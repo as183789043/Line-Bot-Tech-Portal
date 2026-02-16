@@ -1,6 +1,12 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/17/1/34471929.jpg&s=Y&x=64&y=0&sw=1145&sh=763&exp=3600&w=300",
+            "title": "馬年央視春晚 機器人「趕場」",
+            "link": "https://udn.com//news/story/7331/9332655?from=udn-catebreaknews_ch2",
+            "time": "2026-02-17 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/16/0/34471487.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "感冒才知懷孕…醫檢查見「已開6指」 陸女產下男嬰驚：以為只是胖了",
             "link": "https://udn.com//news/story/7335/9332595?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "大陸國產大模型春節新熱潮 AI爭奪戰劇烈",
             "link": "https://udn.com//news/story/7332/9332520?from=udn-catebreaknews_ch2",
             "time": "2026-02-16 15:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2026/02/09/34396771.jpg&s=Y&x=0&y=0&sw=1280&sh=872&exp=3600&w=300",
-            "title": "AI領航… 中國累計建4.3萬智能工廠 樹立轉型標竿",
-            "link": "https://udn.com//news/story/7333/9318800?from=udn-catebreaknews_ch2",
-            "time": "2026-02-16 14:30"
         }
     ]
 }
