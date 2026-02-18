@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/18/realtime/34482073.png&s=Y&x=0&y=5&sw=799&sh=532&exp=3600&w=300",
+            "title": "馬年在野黨需步步為營 才能跑得穩奔得久",
+            "link": "https://udn.com//news/story/6656/9334138?from=udn-catebreaknews_ch2",
+            "time": "2026-02-19 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/18/realtime/34481960.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
             "title": "賴總統回台南發放福袋 再提國防特別預算",
             "link": "https://udn.com//news/story/10930/9334111?from=udn-catebreaknews_ch2",
@@ -19,15 +25,9 @@
             "time": "2026-02-19 00:10"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
             "title": "台灣接軌五眼聯盟 台版「松樹谷」添想像",
             "link": "https://udn.com//news/story/10930/9334107?from=udn-catebreaknews_ch2",
-            "time": "2026-02-19 00:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/19/1/34482966.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "美國國會推動「對台6項保證」法制化",
-            "link": "https://udn.com//news/story/10930/9334118?from=udn-catebreaknews_ch2",
             "time": "2026-02-19 00:10"
         }
     ]
