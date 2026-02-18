@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/18/realtime/34481960.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
+            "title": "賴總統回台南發放福袋 再提國防特別預算",
+            "link": "https://udn.com//news/story/10930/9334111?from=udn-catebreaknews_ch2",
+            "time": "2026-02-18 22:17"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/18/realtime/34481688.jpg&s=Y&x=0&y=0&sw=5000&sh=3333&exp=3600&w=300",
+            "title": "賴總統祝賀高市早苗連任首相 盼推動台日關係新里程碑",
+            "link": "https://udn.com//news/story/6656/9334077?from=udn-catebreaknews_ch2",
+            "time": "2026-02-18 21:08"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/18/realtime/34481284.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
             "title": "影／韓國瑜、謝龍介台南合體發春聯！謝：軍購一定要買 但要嚴格審查",
             "link": "https://udn.com//news/story/6656/9334044?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "影／蕭美琴宜蘭拜廟展現高人氣 粉絲同款「TAIWAN」紅帽T搶拍入鏡",
             "link": "https://udn.com//news/story/6656/9334031?from=udn-catebreaknews_ch2",
             "time": "2026-02-18 18:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/18/realtime/34480616.jpeg&s=Y&x=0&y=0&sw=4544&sh=3029&exp=3600&w=300",
-            "title": "影／卓榮泰三重參拜發福袋 盼朝野合作推動總預算",
-            "link": "https://udn.com//news/story/6656/9333992?from=udn-catebreaknews_ch2",
-            "time": "2026-02-18 17:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/18/realtime/34480514.jpg&s=Y&x=0&y=7&sw=917&sh=610&exp=3600&w=300",
-            "title": "「羨慕醫師工作」…賴總統伸援手救人次數政壇無敵 現場救人紀錄曝光",
-            "link": "https://udn.com//news/story/6656/9333975?from=udn-catebreaknews_ch2",
-            "time": "2026-02-18 17:27"
         }
     ]
 }
