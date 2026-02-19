@@ -1,9 +1,15 @@
 {
     "即時": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/20/realtime/34490233.jpg&s=Y&x=0&y=0&sw=1567&sh=1045&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/20/98/34490349.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "智利首都卡車失控撞護欄爆炸 釀3死10傷",
+            "link": "https://udn.com//news/story/6812/9335022?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-02-20 01:31"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/20/realtime/34490236.jpg&s=Y&x=0&y=0&sw=1567&sh=1045&exp=3600&w=300",
             "title": "張惇涵陪童子瑋拜廟 組「基隆囡仔連線」 中央地方合作創造市民福祉",
-            "link": "https://udn.com//news/story/6656/9335015?from=udn-ch1_breaknews-1-0-news",
+            "link": "https://udn.com//news/story/124652/9335015?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-02-20 00:29"
         },
         {
@@ -23,12 +29,6 @@
             "title": "「維多利亞秘密」創辦人：艾普斯坦是世界級騙徒",
             "link": "https://udn.com//news/story/6813/9334404?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-02-19 23:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/19/realtime/34489895.jpg&s=Y&x=0&y=10&sw=571&sh=380&exp=3600&w=300",
-            "title": "桃園男子持鐮刀當街咆哮 警重裝防北市隨機攻擊重演",
-            "link": "https://udn.com//news/story/7320/9334945?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-02-19 23:22"
         }
     ]
 }
