@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/19/realtime/34486949.jpg&s=Y&x=0&y=14&sw=1440&sh=960&exp=3600&w=300",
+            "title": "蔡英文初三鄰居菜園拔菜 為自己補充綠色蔬菜",
+            "link": "https://udn.com//news/story/6656/9334636?from=udn-catebreaknews_ch2",
+            "time": "2026-02-19 14:26"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/19/realtime/34486681.jpeg&s=Y&x=0&y=0&sw=4479&sh=2986&exp=3600&w=300",
             "title": "賴總統分享馬年冷笑話自稱「高手」 夫人吐槽：10個只有2個好笑",
             "link": "https://udn.com//news/story/6656/9334613?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "影／再提國防預算 賴總統：不要因為中國的威脅 我們的後腳就軟了",
             "link": "https://udn.com//news/story/124680/9334585?from=udn-catebreaknews_ch2",
             "time": "2026-02-19 12:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/19/realtime/34486427.jpg&s=Y&x=315&y=0&sw=3402&sh=2268&exp=3600&w=300",
-            "title": "影／武廟嘔吐事件後…賴總統今握手改擊掌 到鹿港天后宮消失5分鐘為這事",
-            "link": "https://udn.com//news/story/6656/9334576?from=udn-catebreaknews_ch2",
-            "time": "2026-02-19 12:41"
         }
     ]
 }
