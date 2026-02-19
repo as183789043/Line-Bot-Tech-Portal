@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/19/realtime/34489355.jpg&s=Y&x=0&y=19&sw=2638&sh=1758&exp=3600&w=300",
+            "title": "蘇巧慧邀蔡其昌發送「台灣尚勇」福袋 民眾排隊等待領取…1500份全送出",
+            "link": "https://udn.com//news/story/6656/9334850?from=udn-catebreaknews_ch2",
+            "time": "2026-02-19 21:38"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/19/98/34488959.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "蕭副總統高雄發福袋 盼國家興盛、人民團結",
             "link": "https://udn.com//news/story/6656/9334776?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "綠營誰選新竹縣長？范雲、鄭朝方被點名…2人鬆口回應",
             "link": "https://udn.com//news/story/124652/9334779?from=udn-catebreaknews_ch2",
             "time": "2026-02-19 18:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/19/realtime/34488223.jpg&s=Y&x=0&y=11&sw=1477&sh=984&exp=3600&w=300",
-            "title": "綠熱門縣長黑馬鄭朝方陪參香 賴總統：盼竹縣有新局",
-            "link": "https://udn.com//news/story/6656/9334764?from=udn-catebreaknews_ch2",
-            "time": "2026-02-19 17:58"
         }
     ]
 }
