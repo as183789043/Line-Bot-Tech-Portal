@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/21/realtime/34496455.jpg&s=Y&x=0&y=3&sw=468&sh=312&exp=3600&w=300",
+            "title": "獨／國造首款高階電戰系統 玄風電戰測試成功首曝光",
+            "link": "https://udn.com//news/story/10930/9336780?from=udn-catebreaknews_ch2",
+            "time": "2026-02-21 17:37"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/21/realtime/34496428.jpg&s=Y&x=0&y=0&sw=4480&sh=2966&exp=3600&w=300",
+            "title": "美川普關稅違法 機械業疾呼：盼政府盡速確認台美關稅協議是否有效？",
+            "link": "https://udn.com//news/story/124621/9336779?from=udn-catebreaknews_ch2",
+            "time": "2026-02-21 17:34"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/21/1/34496389.jpg&s=Y&x=0&y=212&sw=1144&sh=763&exp=3600&w=300",
             "title": "為市長選戰暖身？李四川明將同框江啟臣 一起到新店發小紅包",
             "link": "https://udn.com//news/story/124652/9336757?from=udn-catebreaknews_ch2",
@@ -15,20 +27,8 @@
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/21/realtime/34495112.jpg&s=Y&x=0&y=46&sw=6269&sh=4178&exp=3600&w=300",
             "title": "美最高法院推翻川普關稅 民眾黨籲政府說明因應對策",
-            "link": "https://udn.com//news/story/6656/9336728?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124621/9336728?from=udn-catebreaknews_ch2",
             "time": "2026-02-21 16:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/21/realtime/34496222.jpg&s=Y&x=0&y=92&sw=1776&sh=1184&exp=3600&w=300",
-            "title": "川普關稅違法 民眾黨團總召：20兆採購還要兌現嗎？",
-            "link": "https://udn.com//news/story/6656/9336723?from=udn-catebreaknews_ch2",
-            "time": "2026-02-21 16:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/21/realtime/34496122.jpg&s=Y&x=84&y=0&sw=4833&sh=3222&exp=3600&w=300",
-            "title": "【重磅快評】美大法官判川普關稅無效 台灣真要當「冤大頭」？",
-            "link": "https://udn.com//news/story/6656/9336686?from=udn-catebreaknews_ch2",
-            "time": "2026-02-21 15:45"
         }
     ]
 }
