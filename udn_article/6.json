@@ -1,8 +1,26 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/21/2/34496085.jpg&s=Y&x=0&y=220&sw=851&sh=568&exp=3600&w=300",
+            "title": "「帶領開創前所未有榮景」 南僑會長陳飛龍辭世",
+            "link": "https://udn.com//news/story/7241/9336679?from=udn-catebreaknews_ch2",
+            "time": "2026-02-21 15:24"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/21/1/34496079.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "南僑董座陳飛龍逝世 享壽89歲",
+            "link": "https://udn.com//news/story/7241/9336675?from=udn-catebreaknews_ch2",
+            "time": "2026-02-21 15:19"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/21/98/34496057.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
+            "title": "美最高法院裁定無效 川普關稅武器恐升級？學者：台灣別誤判情勢",
+            "link": "https://udn.com//news/story/7238/9336637?from=udn-catebreaknews_ch2",
+            "time": "2026-02-21 14:37"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/21/realtime/34495783.jpg&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "川普𨶹稅無效 機械業盼政府盡速確認台美協議是否有效",
+            "title": "川普關稅無效 機械業盼政府盡速確認台美協議是否有效",
             "link": "https://udn.com//news/story/7238/9336621?from=udn-catebreaknews_ch2",
             "time": "2026-02-21 14:07"
         },
@@ -11,24 +29,6 @@
             "title": "川普對等關稅被判違法 李鎮宇：台灣兩大關稅優勢降低很可惜",
             "link": "https://udn.com//news/story/7238/9336520?from=udn-catebreaknews_ch2",
             "time": "2026-02-21 12:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/12/realtime/34446046.jpg&s=Y&x=0&y=35&sw=4440&sh=2960&exp=3600&w=300",
-            "title": "對等關稅改課10%臨時關稅 政院：衝擊有限、持續確保232談判結果",
-            "link": "https://udn.com//news/story/7238/9336503?from=udn-catebreaknews_ch2",
-            "time": "2026-02-21 12:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/13/2/34455659.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "美國法院判對等關稅違法 學者：間接加劇傳產競爭壓力",
-            "link": "https://udn.com//news/story/7238/9336489?from=udn-catebreaknews_ch2",
-            "time": "2026-02-21 12:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/21/realtime/34495419.jpg&s=Y&x=0&y=0&sw=2550&sh=1700&exp=3600&w=300",
-            "title": "川普對等關稅因違法失效 大型金控：對美元和美債衝擊高於美股",
-            "link": "https://udn.com//news/story/7238/9336484?from=udn-catebreaknews_ch2",
-            "time": "2026-02-21 12:19"
         }
     ]
 }
