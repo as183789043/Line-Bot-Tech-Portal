@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/22/2/34500448.jpg&s=Y&x=196&y=0&sw=1065&sh=710&exp=3600&w=300",
+            "title": "美銀將2026年TPU出貨預期從400萬顆上修至460萬顆 看好七檔台股",
+            "link": "https://udn.com//news/story/7251/9337921?from=udn-catebreaknews_ch2",
+            "time": "2026-02-22 18:58"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/22/realtime/34500124.jpg&s=Y&x=47&y=0&sw=1794&sh=1196&exp=3600&w=300",
             "title": "半導體、記憶體族群領漲…台股明日開紅盤 法人看補漲機率升溫",
             "link": "https://udn.com//news/story/7251/9337857?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台積電ADR漲2.38% 分析師估美新關稅對台股影響有限",
             "link": "https://udn.com//news/story/7253/9337421?from=udn-catebreaknews_ch2",
             "time": "2026-02-22 12:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/22/0/34499090.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "竹科離職工程師買台指期！740萬滾出3.85億…坦言代價是睡不好",
-            "link": "https://udn.com//news/story/12806/9337552?from=udn-catebreaknews_ch2",
-            "time": "2026-02-22 12:12"
         }
     ]
 }
