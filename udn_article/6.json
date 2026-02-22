@@ -1,6 +1,24 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/1/34501110.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "輝達25日公布財報 牽動全球AI股",
+            "link": "https://udn.com//news/story/7240/9338134?from=udn-catebreaknews_ch2",
+            "time": "2026-02-23 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/22/realtime/34500960.jpg&s=Y&x=391&y=0&sw=4218&sh=2813&exp=3600&w=300",
+            "title": "全球迎接手機直連衛星元年 飛機上也能用",
+            "link": "https://udn.com//news/story/7240/9338129?from=udn-catebreaknews_ch2",
+            "time": "2026-02-23 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/1/34501096.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "MWC焦點 低軌衛星夯 SpaceX、亞馬遜領跑",
+            "link": "https://udn.com//news/story/7240/9338130?from=udn-catebreaknews_ch2",
+            "time": "2026-02-23 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/22/2/34500878.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "力積電出頭天！扛起台美日攜手打造下世代AI記憶體 試產與製造重任",
             "link": "https://udn.com//news/story/7240/9338090?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "紅包放大術！最新一波國銀新台幣高利存款 年利率衝15%",
             "link": "https://udn.com//news/story/7239/9338079?from=udn-catebreaknews_ch2",
             "time": "2026-02-22 21:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/22/0/34499947.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "從土城鐵皮屋起家…到打造「世界工廠」！郭台銘如何替台商打開紅色大門？",
-            "link": "https://udn.com//news/story/7240/9337794?from=udn-catebreaknews_ch2",
-            "time": "2026-02-22 18:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/21/0/34500092.jpg&s=Y&x=0&y=0&sw=1014&sh=676&exp=3600&w=300",
-            "title": "現在主流消費者更偏愛買筆電？ ChatGPT分析顧客需求 行銷人也驚嘆了",
-            "link": "https://udn.com//news/story/121591/9336689?from=udn-catebreaknews_ch2",
-            "time": "2026-02-22 17:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/22/2/34500118.jpg&s=Y&x=0&y=0&sw=399&sh=266&exp=3600&w=300",
-            "title": "南科廠年初五發生工安事故 群創：以人員安全與照護優先",
-            "link": "https://udn.com//news/story/7240/9337853?from=udn-catebreaknews_ch2",
-            "time": "2026-02-22 16:55"
         }
     ]
 }
