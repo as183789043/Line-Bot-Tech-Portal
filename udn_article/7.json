@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/2/34508199.jpg&s=Y&x=0&y=0&sw=1194&sh=796&exp=3600&w=300",
+            "title": "關稅陰霾衝擊…美股電子盤走跌 台指期夜盤34,100多空拉鋸",
+            "link": "https://udn.com//news/story/7255/9340134?from=udn-catebreaknews_ch2",
+            "time": "2026-02-23 21:30"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/2/34508109.jpg&s=Y&x=0&y=0&sw=1106&sh=737&exp=3600&w=300",
+            "title": "金馬年首周將有22檔台股ETF除息 00891、00923等四檔年化配息率逾10%",
+            "link": "https://udn.com//news/story/123006/9340116?from=udn-catebreaknews_ch2",
+            "time": "2026-02-23 21:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/2/34507865.jpg&s=Y&x=0&y=0&sw=1250&sh=833&exp=3600&w=300",
             "title": "華邦電擬處分華東千萬股 按62.2元估算套現6.22億元",
             "link": "https://udn.com//news/story/7251/9340015?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "這檔將成台達電100%子公司 3月27日股票終止上市",
             "link": "https://udn.com//news/story/7253/9339957?from=udn-catebreaknews_ch2",
             "time": "2026-02-23 19:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/2/34507619.webp&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
-            "title": "永冠未如期償還可轉債 24日起打入全額交割並採分盤交易",
-            "link": "https://udn.com//news/story/7251/9339947?from=udn-catebreaknews_ch2",
-            "time": "2026-02-23 19:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/2/34507455.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "金馬開紅盤日再傳投信高層異動 華南永昌投信代理董座李耀卿退休",
-            "link": "https://udn.com//news/story/7251/9339921?from=udn-catebreaknews_ch2",
-            "time": "2026-02-23 18:45"
         }
     ]
 }
