@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/1/34509354.jpg&s=Y&x=52&y=0&sw=1209&sh=806&exp=3600&w=300",
+            "title": "新聞眼／政府還在「跳針」 未說清楚新關稅衝擊",
+            "link": "https://udn.com//news/story/124621/9340400?from=udn-catebreaknews_ch2",
+            "time": "2026-02-24 02:23"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/1/34509337.jpg&s=Y&x=176&y=56&sw=877&sh=585&exp=3600&w=300",
+            "title": "因應關稅變局 鄭麗君今親上火線說明",
+            "link": "https://udn.com//news/story/124621/9340399?from=udn-catebreaknews_ch2",
+            "time": "2026-02-24 02:10"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34508869.jpg&s=Y&x=0&y=0&sw=2641&sh=1761&exp=3600&w=300",
             "title": "金融時報：台灣用數千億美元換降稅 如今回原點",
             "link": "https://udn.com//news/story/124621/9340395?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2026-02-24 00:21"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
             "title": "民進黨討論台北市長參選人 未納賈永婕",
             "link": "https://udn.com//news/story/124652/9340371?from=udn-catebreaknews_ch2",
             "time": "2026-02-24 00:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
-            "title": "年底選舉 鄭麗文喊「台灣頭贏到台灣尾」",
-            "link": "https://udn.com//news/story/124652/9340370?from=udn-catebreaknews_ch2",
-            "time": "2026-02-24 00:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_6.jpg&w=300",
-            "title": "戒嚴時期政治檔案 國安局全解密移交檔案局",
-            "link": "https://udn.com//news/story/6656/9340369?from=udn-catebreaknews_ch2",
-            "time": "2026-02-24 00:20"
         }
     ]
 }
