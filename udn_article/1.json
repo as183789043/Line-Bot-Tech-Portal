@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/1/34508760.jpg&s=Y&x=40&y=20&sw=1237&sh=825&exp=3600&w=300",
+            "title": "藍白促「國情報告」 總統有問有答、實問實答",
+            "link": "https://udn.com//news/story/6656/9340322?from=udn-catebreaknews_ch2",
+            "time": "2026-02-23 23:40"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34508636.jpg&s=Y&x=0&y=0&sw=3346&sh=2173&exp=3600&w=300",
+            "title": "新聞分析／史上首例 總統赴國會報告成局或破局？",
+            "link": "https://udn.com//news/story/6656/9340319?from=udn-catebreaknews_ch2",
+            "time": "2026-02-23 23:37"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/98/34508058.jpg&s=Y&x=0&y=40&sw=1280&sh=853&exp=3600&w=300",
             "title": "荷蘭新任總理葉騰就職 外交部：持續深化各領域合作",
             "link": "https://udn.com//news/story/6656/9340089?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "賈永婕被封「民主油罐車」 藍議員諷像青鳥：覺醒就多批判當權者",
             "link": "https://udn.com//news/story/6656/9340049?from=udn-catebreaknews_ch2",
             "time": "2026-02-23 20:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34507760.jpeg&s=Y&x=12&y=568&sw=1052&sh=701&exp=3600&w=300",
-            "title": "外媒專訪談兩岸局勢 鄭麗文指「須互信」：否則只剩武器替我們發言",
-            "link": "https://udn.com//news/story/6656/9339997?from=udn-catebreaknews_ch2",
-            "time": "2026-02-23 19:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/22/realtime/34498603.jpg&s=Y&x=0&y=0&sw=5472&sh=3648&exp=3600&w=300",
-            "title": "2026縣市長選戰民眾黨怎開打？ 苦苓指黃國昌1條件換退選",
-            "link": "https://udn.com//news/story/124652/9339850?from=udn-catebreaknews_ch2",
-            "time": "2026-02-23 19:51"
         }
     ]
 }
