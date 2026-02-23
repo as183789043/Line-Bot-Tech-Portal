@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/2/34507637.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "這檔將成台達電100%子公司 3月27日股票終止上市",
+            "link": "https://udn.com//news/story/7253/9339957?from=udn-catebreaknews_ch2",
+            "time": "2026-02-23 19:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/2/34507619.webp&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
+            "title": "永冠未如期償還可轉債 24日起打入全額交割並採分盤交易",
+            "link": "https://udn.com//news/story/7251/9339947?from=udn-catebreaknews_ch2",
+            "time": "2026-02-23 19:08"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/2/34507455.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "金馬開紅盤日再傳投信高層異動 華南永昌投信代理董座李耀卿退休",
+            "link": "https://udn.com//news/story/7251/9339921?from=udn-catebreaknews_ch2",
+            "time": "2026-02-23 18:45"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34507316.jpg&s=Y&x=0&y=30&sw=4032&sh=2688&exp=3600&w=300",
             "title": "景美25日登錄興櫃 AI高針數測試帶旺結構件需求、訂單能見度達兩季",
             "link": "https://udn.com//news/story/7254/9339889?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "永冠短期營運資金陷緊縮 啟動CB4債務協商",
             "link": "https://udn.com//news/story/7251/9339885?from=udn-catebreaknews_ch2",
             "time": "2026-02-23 18:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/2/34507315.jpg&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
-            "title": "ABF明年將供給短缺 大摩估這二檔獲利將倍增、大升目標價",
-            "link": "https://udn.com//news/story/7251/9339869?from=udn-catebreaknews_ch2",
-            "time": "2026-02-23 18:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34507075.jpg&s=Y&x=0&y=13&sw=1670&sh=1112&exp=3600&w=300",
-            "title": "金馬年首周22檔台股ETF除息 有4檔年化配息率逾10%",
-            "link": "https://udn.com//news/story/123006/9339859?from=udn-catebreaknews_ch2",
-            "time": "2026-02-23 17:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34506894.jpg&s=Y&x=0&y=10&sw=890&sh=592&exp=3600&w=300",
-            "title": "台積電噴1333億元成交值竟收最低！量價榜曝外資「棄權值」轉愛這些股",
-            "link": "https://udn.com//news/story/7251/9339796?from=udn-catebreaknews_ch2",
-            "time": "2026-02-23 17:30"
         }
     ]
 }
