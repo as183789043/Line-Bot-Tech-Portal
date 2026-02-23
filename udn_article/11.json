@@ -1,6 +1,12 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34508575.jpg&s=Y&x=0&y=0&sw=1700&sh=1133&exp=3600&w=300",
+            "title": "科技年貨夯 深圳華強北營收增35%",
+            "link": "https://udn.com//news/story/7332/9340257?from=udn-catebreaknews_ch2",
+            "time": "2026-02-24 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34508178.jpg&s=Y&x=0&y=10&sw=1376&sh=916&exp=3600&w=300",
             "title": "北上廣春節文旅成績單出爐！旅遊收入皆有雙位數增長",
             "link": "https://udn.com//news/story/7333/9340138?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "再度回應高市早苗 北京：應撤回涉台錯誤言論",
             "link": "https://udn.com//news/story/7331/9340082?from=udn-catebreaknews_ch2",
             "time": "2026-02-23 20:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/realtime/34507850.jpg&s=Y&x=0&y=0&sw=2097&sh=1399&exp=3600&w=300",
-            "title": "春節AI入口戰異軍突起！螞蟻集團兩App用戶均破億",
-            "link": "https://udn.com//news/story/7333/9340026?from=udn-catebreaknews_ch2",
-            "time": "2026-02-23 20:16"
         }
     ]
 }
