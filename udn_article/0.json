@@ -1,8 +1,14 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/25/draft/34517764.png&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
+            "title": "台南南化凌晨1時48分規模3.6地震 有感搖晃持續監測",
+            "link": "https://udn.com//news/story/7266/9342773?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-02-25 03:12"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/25/draft/34517682.gif&s=Y&x=0&y=4&sw=640&sh=426&exp=3600&w=300",
-            "title": "台南南化區發生規模4.3地震 有感搖晃持續時間短",
+            "title": "台南南化凌晨1時23分發生規模4.3地震 有感搖晃持續時間短",
             "link": "https://udn.com//news/story/7266/9342763?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-02-25 01:32"
         },
@@ -23,12 +29,6 @@
             "title": "歷史上的今天／1958年伊朗駐華大使艾蘭慕抵台上任",
             "link": "https://udn.com//news/story/7314/9340655?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-02-25 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/2/34515874.jpg&s=Y&x=0&y=0&sw=1241&sh=827&exp=3600&w=300",
-            "title": "該降溫了？台積電連日創高 遭證交所列入注意股票",
-            "link": "https://udn.com//news/story/7251/9342614?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-02-24 23:15"
         }
     ]
 }
