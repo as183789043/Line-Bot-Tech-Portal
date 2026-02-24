@@ -1,10 +1,22 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/25/realtime/34518827.jpg&s=Y&x=0&y=0&sw=6000&sh=4000&exp=3600&w=300",
+            "title": "美股隨AI信心逆轉反彈 超微奪Meta大單飆漲 8.8%軟體股擺脫拋售潮",
+            "link": "https://udn.com//news/story/6811/9342856?from=udn-catebreaknews_ch2",
+            "time": "2026-02-25 07:28"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/0/34511694.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "高市早苗內閣2.0就任 陸又崩潰！日因自民黨陷戰爭危機？回顧防衛、經濟安保大臣打臉流言",
             "link": "https://udn.com//news/story/6809/9341685?from=udn-catebreaknews_ch2",
             "time": "2026-02-25 06:11"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/25/realtime/34517392.jpg&s=Y&x=0&y=0&sw=5582&sh=3721&exp=3600&w=300",
+            "title": "不要笑拜登 美國民調：川普年紀愈大愈反覆無常",
+            "link": "https://udn.com//news/story/6813/9342726?from=udn-catebreaknews_ch2",
+            "time": "2026-02-25 06:03"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/07/0/34379068.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
@@ -17,18 +29,6 @@
             "title": "高市對升息保留 日圓重貶",
             "link": "https://udn.com//news/story/6811/9342576?from=udn-catebreaknews_ch2",
             "time": "2026-02-25 03:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
-            "title": "美眾院選區募款 民主黨領先",
-            "link": "https://udn.com//news/story/6813/9342581?from=udn-catebreaknews_ch2",
-            "time": "2026-02-25 03:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
-            "title": "小摩擔憂金融危機重演 批評同業「做蠢事」",
-            "link": "https://udn.com//news/story/6811/9342582?from=udn-catebreaknews_ch2",
-            "time": "2026-02-25 03:26"
         }
     ]
 }
