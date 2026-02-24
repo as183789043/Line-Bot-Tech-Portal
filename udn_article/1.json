@@ -1,13 +1,25 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/1/34517276.png&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "【總編開箱】蔡其昌接總召 賴意志更貫徹 化得開朝野僵局？",
+            "link": "https://udn.com//news/story/6656/9342727?from=udn-catebreaknews_ch2",
+            "time": "2026-02-25 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/1/34517134.png&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "美對等關稅變數多 細數川普5種法律工具 台灣最怕哪一招",
+            "link": "https://udn.com//news/story/124621/9342621?from=udn-catebreaknews_ch2",
+            "time": "2026-02-25 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34517169.jpg&s=Y&x=154&y=0&sw=1581&sh=1055&exp=3600&w=300",
             "title": "副閣揆回應川普全球加徵關稅 鄭麗君：鞏固 ART 既有優惠",
             "link": "https://udn.com//news/story/124621/9342651?from=udn-catebreaknews_ch2",
             "time": "2026-02-25 02:40"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
             "title": "台灣471項輸美 不在122條款豁免清單當中 暫無豁免",
             "link": "https://udn.com//news/story/124621/9342655?from=udn-catebreaknews_ch2",
             "time": "2026-02-25 02:39"
@@ -17,18 +29,6 @@
             "title": "鄭麗君：我方立場非重啟談判 持續爭取最佳待遇",
             "link": "https://udn.com//news/story/124621/9342648?from=udn-catebreaknews_ch2",
             "time": "2026-02-25 02:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
-            "title": "關稅變局 在野黨：「違法」談判進立院是笑話",
-            "link": "https://udn.com//news/story/124621/9342615?from=udn-catebreaknews_ch2",
-            "time": "2026-02-25 01:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
-            "title": "關稅變局 卓揆：爭取美台ART續有效",
-            "link": "https://udn.com//news/story/124621/9342616?from=udn-catebreaknews_ch2",
-            "time": "2026-02-25 01:27"
         }
     ]
 }
