@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/2/34516690.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電期向2,000元叩關 台指期夜盤登頂35K",
+            "link": "https://udn.com//news/story/7255/9342406?from=udn-catebreaknews_ch2",
+            "time": "2026-02-24 21:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/2/34516025.jpg&s=Y&x=0&y=0&sw=1272&sh=848&exp=3600&w=300",
             "title": "無懼美國軟體股估值下修！這檔海外月配高股息ETF近一周漲8% 配息也香",
             "link": "https://udn.com//news/story/123006/9342193?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "大象要醒了 外資連五買、合計買超鴻海逾10萬張",
             "link": "https://udn.com//news/story/7251/9342057?from=udn-catebreaknews_ch2",
             "time": "2026-02-24 17:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/2/34515107.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "科技ETF吸金力再現 「小台積」0052規模正式突破千億元",
-            "link": "https://udn.com//news/story/123006/9341992?from=udn-catebreaknews_ch2",
-            "time": "2026-02-24 17:15"
         }
     ]
 }
