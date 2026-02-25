@@ -1,6 +1,12 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/26/draft/34559040.png&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
+            "title": "雲林麥寮凌晨2時53分規模3.4地震 最大震度2級",
+            "link": "https://udn.com//news/story/7266/9345342?from=udn-catebreaknews_ch2",
+            "time": "2026-02-26 05:28"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/26/realtime/34556296.jpg&s=Y&x=0&y=0&sw=3000&sh=2000&exp=3600&w=300",
             "title": "三星Galaxy Buds4系列俐落登場 強化降噪功能 深度整合3大AI服務",
             "link": "https://udn.com//news/story/7270/9345331?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "勞保入不敷出 收支逆差擴大至707億元",
             "link": "https://udn.com//news/story/7269/9345259?from=udn-catebreaknews_ch2",
             "time": "2026-02-26 00:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/25/realtime/34549963.jpg&s=Y&x=234&y=0&sw=3564&sh=2376&exp=3600&w=300",
-            "title": "勞保年金 去年平均月領1萬9312元",
-            "link": "https://udn.com//news/story/7269/9345262?from=udn-catebreaknews_ch2",
-            "time": "2026-02-26 00:27"
         }
     ]
 }
