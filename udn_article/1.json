@@ -1,6 +1,18 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/26/realtime/34625861.jpg&s=Y&x=0&y=30&sw=2730&sh=1820&exp=3600&w=300",
+            "title": "賴政府公布新人事 陳勇勝將出任財政部政務次長",
+            "link": "https://udn.com//news/story/6656/9347390?from=udn-catebreaknews_ch2",
+            "time": "2026-02-26 22:06"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/26/98/34624910.jpg&s=Y&x=120&y=0&sw=1076&sh=717&exp=3600&w=300",
+            "title": "OpenAI報告「中共利用AI擴大網攻」 學者：台灣應與美日合作反制",
+            "link": "https://udn.com//news/story/7314/9347351?from=udn-catebreaknews_ch2",
+            "time": "2026-02-26 21:54"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/26/realtime/34619292.jpg&s=Y&x=43&y=0&sw=765&sh=510&exp=3600&w=300",
             "title": "【即時短評】面對大陸「常態巡查」 台灣只能麻木以對？",
             "link": "https://udn.com//news/story/10930/9347246?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "避談訪美？盧秀燕神隱3日無公開行程 下次露面是228追思會",
             "link": "https://udn.com//news/story/6656/9347108?from=udn-catebreaknews_ch2",
             "time": "2026-02-26 19:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/26/realtime/34613887.jpg&s=Y&x=0&y=31&sw=2376&sh=1584&exp=3600&w=300",
-            "title": "賴苡任遭檢舉「出賣黃呂錦茹」 市黨部考紀會：對黨形象已造成傷害",
-            "link": "https://udn.com//news/story/6656/9347110?from=udn-catebreaknews_ch2",
-            "time": "2026-02-26 19:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/26/realtime/34611483.png&s=Y&x=0&y=0&sw=1855&sh=1234&exp=3600&w=300",
-            "title": "財產申報曝光！卓榮泰存款921萬元 林佳龍夫婦存款破億",
-            "link": "https://udn.com//news/story/7314/9347082?from=udn-catebreaknews_ch2",
-            "time": "2026-02-26 18:46"
         }
     ]
 }
