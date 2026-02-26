@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/23/2/34508179.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "近半年最強台股ETF換股 00947一進一出、記憶體占比維持三成",
+            "link": "https://udn.com//news/story/123006/9346889?from=udn-catebreaknews_ch2",
+            "time": "2026-02-26 17:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/realtime/34517122.jpg&s=Y&x=188&y=0&sw=2832&sh=1889&exp=3600&w=300",
             "title": "馬年紅盤周飆1,808點！十大飆股周漲40％起跳 換手最熱標的曝光",
             "link": "https://udn.com//news/story/7251/9346751?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "三大法人賣超近140億元 台積電失守2000元、台股爆1.13兆天量驚險收紅",
             "link": "https://udn.com//news/story/7251/9346577?from=udn-catebreaknews_ch2",
             "time": "2026-02-26 15:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/26/2/34598710.jpg&s=Y&x=4&y=28&sw=1221&sh=814&exp=3600&w=300",
-            "title": "聯邦銀法說會／114年資產規模突破兆元關 EPS達1.27元再創新高",
-            "link": "https://udn.com//news/story/7252/9346573?from=udn-catebreaknews_ch2",
-            "time": "2026-02-26 15:12"
         }
     ]
 }
