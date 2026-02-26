@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/26/draft/34585046.jpg&s=Y&x=20&y=0&sw=585&sh=391&exp=3600&w=300",
+            "title": "超越自我有代價 研究：超馬跑者紅血球加速老化",
+            "link": "https://udn.com//news/story/6897/9345945?from=udn-catebreaknews_ch2",
+            "time": "2026-02-26 14:57"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/26/0/34583949.jpg&s=Y&x=0&y=0&sw=1146&sh=764&exp=3600&w=300",
             "title": "春晚機器人噱頭十足 中國AI完勝美國？謝金河：中美戰略不同、別太早下結論！",
             "link": "https://udn.com//news/story/6839/9345831?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "2025台灣醫療科技展登場 智慧科技再造醫療現場",
             "link": "https://udn.com//news/story/6905/9345592?from=udn-catebreaknews_ch2",
             "time": "2026-02-26 11:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/26/draft/34578323.jpg&s=Y&x=0&y=0&sw=700&sh=466&exp=3600&w=300",
-            "title": "AI走入醫療核心 從數據到臨床AI重構醫療價值鏈",
-            "link": "https://udn.com//news/story/6905/9345570?from=udn-catebreaknews_ch2",
-            "time": "2026-02-26 11:49"
         }
     ]
 }
