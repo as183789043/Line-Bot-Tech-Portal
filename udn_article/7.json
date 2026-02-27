@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/27/realtime/34701915.jpg&s=Y&x=0&y=0&sw=3984&sh=2656&exp=3600&w=300",
+            "title": "台股正熱…融資買股 專家：3招控管風險",
+            "link": "https://udn.com//news/story/7251/9349160?from=udn-catebreaknews_ch2",
+            "time": "2026-02-27 23:48"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/27/0/34697377.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "滿手現金反而被通膨吃掉！黃鐙輝抱緊0050：大跌就當年終大拍賣撿便宜",
             "link": "https://udn.com//news/story/123006/9348866?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "投資人出清手中持股常犯「相同」錯誤 巴菲特1經典名言驗證了",
             "link": "https://udn.com//news/story/12806/9344219?from=udn-catebreaknews_ch2",
             "time": "2026-02-27 13:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/25/2/34524369.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "AI浪潮推升台股市值翻倍 國銀分析二關鍵可望推升台股",
-            "link": "https://udn.com//news/story/7251/9348247?from=udn-catebreaknews_ch2",
-            "time": "2026-02-27 12:31"
         }
     ]
 }
