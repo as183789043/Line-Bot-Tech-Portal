@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/25/2/34541253.jpg&s=Y&x=0&y=0&sw=1184&sh=789&exp=3600&w=300",
+            "title": "志聖受惠AI需求 法人看今年獲利有望成長近倍",
+            "link": "https://udn.com//news/story/7253/9348196?from=udn-catebreaknews_ch2",
+            "time": "2026-02-27 11:58"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/25/0/34674752.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "想等大拍賣…股價跌到谷底再撿便宜 知名理財網站創辦人踩雷：報酬率-92%",
+            "link": "https://udn.com//news/story/12806/9343497?from=udn-catebreaknews_ch2",
+            "time": "2026-02-27 11:07"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/24/0/34669195.jpg&s=Y&x=0&y=0&sw=1205&sh=803&exp=3600&w=300",
             "title": "除了輝達或好市多…1表掌握30年內表現最強股票清單 治療睡眠呼吸終止症也上榜",
             "link": "https://udn.com//news/story/12806/9341820?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2026-02-27 01:32"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
             "title": "新興市場債 投資寵兒",
             "link": "https://udn.com//news/story/10103/9347398?from=udn-catebreaknews_ch2",
             "time": "2026-02-27 01:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/26/realtime/34626379.jpg&s=Y&x=0&y=0&sw=1889&sh=1248&exp=3600&w=300",
-            "title": "多重資產基金 攻守兼備",
-            "link": "https://udn.com//news/story/10103/9347410?from=udn-catebreaknews_ch2",
-            "time": "2026-02-27 01:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/27/2/34639017.png&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "台股 ETF 生力軍 紅火",
-            "link": "https://udn.com//news/story/10103/9347408?from=udn-catebreaknews_ch2",
-            "time": "2026-02-27 01:29"
         }
     ]
 }
