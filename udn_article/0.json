@@ -1,6 +1,12 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/01/34720224.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "美國與以色列聯手攻擊伊朗 外媒：伊最高領袖哈米尼身亡",
+            "link": "https://udn.com//news/story/6809/9351169?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-03-01 04:56"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/03/01/realtime/34719975.jpg&s=Y&x=0&y=10&sw=1080&sh=720&exp=3600&w=300",
             "title": "影／汐止、南港注意空氣汙染…汐止深夜大火 建物陷火海濃煙飄散",
             "link": "https://udn.com//news/story/7320/9350554?from=udn-ch1_breaknews-1-0-news",
@@ -23,12 +29,6 @@
             "title": "影／汐止深夜傳火警 2層樓建物全面陷入火海",
             "link": "https://udn.com//news/story/7320/9350531?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-03-01 00:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/03/01/realtime/34719860.jpg&s=Y&x=36&y=0&sw=819&sh=547&exp=3600&w=300",
-            "title": "王陽明、韓哥在北市車聚造成壅塞 警方一口氣取締53件交通違規",
-            "link": "https://udn.com//news/story/7320/9350529?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-03-01 00:20"
         }
     ]
 }
