@@ -1,6 +1,12 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/28/realtime/34714406.jpg&s=Y&x=0&y=41&sw=6000&sh=4000&exp=3600&w=300",
+            "title": "代工陸AI晶片關鍵組件傳觸美出口管制紅線 台積電回應了",
+            "link": "https://udn.com//news/story/7240/9349548?from=udn-catebreaknews_ch2",
+            "time": "2026-02-28 11:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/27/realtime/34683278.jpg&s=Y&x=128&y=0&sw=945&sh=630&exp=3600&w=300",
             "title": "AI訂位平台AutoReserve詐騙消費者 晶華等集團求助無門",
             "link": "https://udn.com//news/story/7238/9348399?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "晶圓一哥財報揭密／台積美國廠轉盈 亞利桑那子公司獲利逾161億元",
             "link": "https://udn.com//news/story/7240/9349148?from=udn-catebreaknews_ch2",
             "time": "2026-02-28 02:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/28/2/34704953.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "晶圓一哥財報揭密／台積2025年最大客戶換人做 輝達躍最大客戶",
-            "link": "https://udn.com//news/story/7240/9349146?from=udn-catebreaknews_ch2",
-            "time": "2026-02-28 02:19"
         }
     ]
 }
