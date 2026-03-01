@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/02/34722432.png&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "哈米尼遭斬首 圖解美伊戰況 伊朗權力核心還剩誰",
+            "link": "https://udn.com//news/story/7314/9353081?from=udn-catebreaknews_ch2",
+            "time": "2026-03-02 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/02/34722444.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "蔡易餘獲阿里山頭目取鄒族名 回家一查大驚：蝦米！竟然是山豬",
             "link": "https://udn.com//news/story/124652/9353031?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2026-03-02 00:22"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
             "title": "觀察站／藍版軍購硬加罰則 當心賠掉好棋",
             "link": "https://udn.com//news/story/10930/9352978?from=udn-catebreaknews_ch2",
             "time": "2026-03-02 00:17"
@@ -23,12 +29,6 @@
             "title": "藍版軍購罰則入法 專家示警：恐難成案",
             "link": "https://udn.com//news/story/10930/9352977?from=udn-catebreaknews_ch2",
             "time": "2026-03-02 00:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/01/34722362.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "紀念228 柯文哲、黃國昌一日北高達陣",
-            "link": "https://udn.com//news/story/124772/9352984?from=udn-catebreaknews_ch2",
-            "time": "2026-03-02 00:08"
         }
     ]
 }
