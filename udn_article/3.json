@@ -1,8 +1,14 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/01/34722026.jpg&M=1&s=Y&x=0&y=0&sw=1277&sh=851&exp=3600&w=300",
+            "title": "晶片需求旺！南韓2月出口創同期新高 緩解央行降息壓力",
+            "link": "https://udn.com//news/story/6811/9352550?from=udn-catebreaknews_ch2",
+            "time": "2026-03-01 17:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/01/34721955.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "MWC將登場 輝達宣布攜手Nokia軟銀搶攻6G 力推AI原生無線網路",
+            "title": "MWC將登場！輝達宣布攜手Nokia軟銀搶攻6G 力推AI原生無線網路",
             "link": "https://udn.com//news/story/6811/9352521?from=udn-catebreaknews_ch2",
             "time": "2026-03-01 17:25"
         },
@@ -23,12 +29,6 @@
             "title": "哈米尼身亡伊朗空前飄搖 心腹拉里賈尼臨危受命",
             "link": "https://udn.com//news/story/124061/9352437?from=udn-catebreaknews_ch2",
             "time": "2026-03-01 16:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/01/34721737.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "伊朗遭美以空襲 國家電視台：參謀總長及防長身亡",
-            "link": "https://udn.com//news/story/124061/9352415?from=udn-catebreaknews_ch2",
-            "time": "2026-03-01 16:04"
         }
     ]
 }
