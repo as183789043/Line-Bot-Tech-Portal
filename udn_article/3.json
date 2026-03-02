@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/03/34725650.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
+            "title": "攻擊伊朗擬持續4至5周 川普：美國有能力更久",
+            "link": "https://udn.com//news/story/124061/9355329?from=udn-catebreaknews_ch2",
+            "time": "2026-03-03 02:59"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/02/34725386.jpg&M=1&s=Y&x=2&y=355&sw=734&sh=489&exp=3600&w=300",
             "title": "油市震盪 原油恐飆破120美元",
             "link": "https://udn.com//news/story/124061/9355135?from=udn-catebreaknews_ch2",
@@ -13,22 +19,16 @@
             "time": "2026-03-03 00:17"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
             "title": "「卡達能源」停產 影響台灣天然氣進口",
             "link": "https://udn.com//news/story/124061/9355148?from=udn-catebreaknews_ch2",
             "time": "2026-03-03 00:16"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
             "title": "股匯雙挫 台股守住3萬5千點關卡",
             "link": "https://udn.com//news/story/124061/9355151?from=udn-catebreaknews_ch2",
             "time": "2026-03-03 00:15"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
-            "title": "荷姆茲危機 最糟將拖垮全球經濟",
-            "link": "https://udn.com//news/story/124061/9355146?from=udn-catebreaknews_ch2",
-            "time": "2026-03-03 00:14"
         }
     ]
 }
