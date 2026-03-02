@@ -1,8 +1,20 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/02/34724655.png&M=1&s=Y&x=0&y=0&sw=1277&sh=851&exp=3600&w=300",
+            "title": "數架美軍戰機在科威特墜毀、飛官生還 原因尚待調查",
+            "link": "https://udn.com//news/story/7314/9354491?from=udn-catebreaknews_ch2",
+            "time": "2026-03-02 17:28"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/02/34724593.jpg&M=1&s=Y&x=0&y=0&sw=1214&sh=809&exp=3600&w=300",
+            "title": "接見美國訪團 賴總統：台美合作打造可信任供應鏈",
+            "link": "https://udn.com//news/story/6656/9354402?from=udn-catebreaknews_ch2",
+            "time": "2026-03-02 16:49"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/02/34724533.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "軍官「摘星」意願降？ 戰院入學考試差點改為推薦入學",
+            "title": "軍官「摘星」意願降？戰院入學考試差點改為推薦入學",
             "link": "https://udn.com//news/story/10930/9354357?from=udn-catebreaknews_ch2",
             "time": "2026-03-02 16:35"
         },
@@ -17,18 +29,6 @@
             "title": "不滿被納民調名單 葉耀輝控國民黨花蓮縣黨部程序不公",
             "link": "https://udn.com//news/story/124652/9354322?from=udn-catebreaknews_ch2",
             "time": "2026-03-02 16:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/02/34724474.jpg&M=1&s=Y&x=0&y=0&sw=1226&sh=818&exp=3600&w=300",
-            "title": "清理海漂垃圾讓馬祖大喊吃不消…環團：對岸管理有一套 要設法促其出手",
-            "link": "https://udn.com//news/story/7314/9354321?from=udn-catebreaknews_ch2",
-            "time": "2026-03-02 16:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/02/34724389.jpg&M=1&s=Y&x=0&y=0&sw=1218&sh=812&exp=3600&w=300",
-            "title": "盧秀燕訪美前再度與蔣萬安「同框」賞燈會 引政壇關注",
-            "link": "https://udn.com//news/story/6656/9354266?from=udn-catebreaknews_ch2",
-            "time": "2026-03-02 16:01"
         }
     ]
 }
