@@ -1,7 +1,13 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/02/34724992.jpg&M=1&s=Y&x=0&y=0&sw=1089&sh=726&exp=3600&w=300",
+            "title": "聯昌2025年虧損擴大淨損2.32億元 擬減資27.23%彌補虧損",
+            "link": "https://udn.com//news/story/7253/9354757?from=udn-catebreaknews_ch2",
+            "time": "2026-03-02 19:40"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
             "title": "匯率關稅影響 軸承廠信錦、新日興去年獲利縮水",
             "link": "https://udn.com//news/story/7252/9354591?from=udn-catebreaknews_ch2",
             "time": "2026-03-02 19:08"
@@ -23,12 +29,6 @@
             "title": "台積電盤後鉅額交易刷新高、指路台股37K？ADR盤前與期貨夜盤卻變調",
             "link": "https://udn.com//news/story/7251/9354634?from=udn-catebreaknews_ch2",
             "time": "2026-03-02 18:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/02/34724715.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "勤凱去全年EPS 7.05元創新高  每股股利4.7元同寫新猷",
-            "link": "https://udn.com//news/story/7254/9354533?from=udn-catebreaknews_ch2",
-            "time": "2026-03-02 17:41"
         }
     ]
 }
