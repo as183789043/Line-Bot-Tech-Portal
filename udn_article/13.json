@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/03/34727048.jpg&M=1&s=Y&x=160&y=106&sw=1120&sh=747&exp=3600&w=300",
+            "title": "全民瘋搶白銀！銀樓老闆卻苦勸「別碰這波高風險」",
+            "link": "https://udn.com//news/story/6841/9356288?from=udn-catebreaknews_ch2",
+            "time": "2026-03-03 13:21"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/03/34726252.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "台積電一直創新高 還能進場? 股海老牛：2000元是合理價！定期定額不停扣",
             "link": "https://udn.com//news/story/6839/9355805?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "工研院攜手錼創、追風 國內首發彩色高解析Micro LED AI智慧眼鏡",
             "link": "https://udn.com//news/story/6905/9354332?from=udn-catebreaknews_ch2",
             "time": "2026-03-03 09:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/02/34724473.jpg&M=1&s=Y&x=0&y=0&sw=1068&sh=712&exp=3600&w=300",
-            "title": "CES 2026直擊AI由虛轉實",
-            "link": "https://udn.com//news/story/6905/9354320?from=udn-catebreaknews_ch2",
-            "time": "2026-03-03 09:58"
         }
     ]
 }
