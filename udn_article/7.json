@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/03/34728922.jpg&M=1&s=Y&x=0&y=0&sw=1264&sh=842&exp=3600&w=300",
+            "title": "外資出逃！股匯雙殺 台積電淪提款機",
+            "link": "https://udn.com//news/story/7251/9357609?from=udn-catebreaknews_ch2",
+            "time": "2026-03-04 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/03/34728699.jpg&M=1&s=Y&x=0&y=66&sw=1280&sh=853&exp=3600&w=300",
             "title": "中東戰火壓力測試下 0050、00922等6檔ETF創高",
             "link": "https://udn.com//news/story/123006/9357427?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "南亞科馬年營收狂飆 2月營收衝上156億元續創新高",
             "link": "https://udn.com//news/story/7253/9357365?from=udn-catebreaknews_ch2",
             "time": "2026-03-03 20:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/03/34728614.jpg&M=1&s=Y&x=32&y=0&sw=1205&sh=803&exp=3600&w=300",
-            "title": "定期定額投資人最青睞的五檔台股基金 每人每月扣款最高3.3萬元",
-            "link": "https://udn.com//news/story/7255/9357359?from=udn-catebreaknews_ch2",
-            "time": "2026-03-03 20:47"
         }
     ]
 }
