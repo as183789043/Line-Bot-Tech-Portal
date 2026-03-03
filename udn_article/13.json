@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/03/34727703.jpg&M=1&s=Y&x=0&y=0&sw=1085&sh=723&exp=3600&w=300",
+            "title": "全美創投近2成資金被它吸走  a16z怎靠說故事登上矽谷新王者",
+            "link": "https://udn.com//news/story/6837/9356658?from=udn-catebreaknews_ch2",
+            "time": "2026-03-03 15:33"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/03/34727615.jpg&M=1&s=Y&x=0&y=0&sw=1085&sh=723&exp=3600&w=300",
+            "title": "AI創新百強／72％員工已開發AI工具！台灣大「斷奶令」逼出全員AI超人",
+            "link": "https://udn.com//news/story/6837/9356615?from=udn-catebreaknews_ch2",
+            "time": "2026-03-03 15:29"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/03/34727048.jpg&M=1&s=Y&x=160&y=106&sw=1120&sh=747&exp=3600&w=300",
             "title": "全民瘋搶白銀！銀樓老闆卻苦勸「別碰這波高風險」",
             "link": "https://udn.com//news/story/6841/9356288?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "「1家緯創就能和HP、Dell平起平坐」聯發科市值有機會追上高通…謝金河：台灣企業悄悄變大了",
             "link": "https://udn.com//news/story/6839/9355787?from=udn-catebreaknews_ch2",
             "time": "2026-03-03 11:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/02/34724544.jpg&M=1&s=Y&x=0&y=0&sw=1273&sh=848&exp=3600&w=300",
-            "title": "科研成果嵌入永續目標 工研院獲永續獎肯定",
-            "link": "https://udn.com//news/story/6905/9354369?from=udn-catebreaknews_ch2",
-            "time": "2026-03-03 10:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/02/34724493.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
-            "title": "工研院攜手錼創、追風 國內首發彩色高解析Micro LED AI智慧眼鏡",
-            "link": "https://udn.com//news/story/6905/9354332?from=udn-catebreaknews_ch2",
-            "time": "2026-03-03 09:59"
         }
     ]
 }
