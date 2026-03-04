@@ -1,9 +1,21 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
+            "title": "台積電ADR反攻1.2% 止住連四日頹勢",
+            "link": "https://udn.com//news/story/6811/9360339?from=udn-catebreaknews_ch2",
+            "time": "2026-03-05 07:19"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/05/34732735.jpg&M=1&s=Y&x=0&y=0&sw=1067&sh=711&exp=3600&w=300",
+            "title": "那指領軍美股反彈 經濟數據亮眼凌駕地緣政治恐慌 ",
+            "link": "https://udn.com//news/story/6811/9360336?from=udn-catebreaknews_ch2",
+            "time": "2026-03-05 07:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/05/34732695.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "美軍部署地面部隊等川普決定 美官員難給答案",
-            "link": "https://udn.com//news/story/6809/9360315?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124061/9360315?from=udn-catebreaknews_ch2",
             "time": "2026-03-05 06:15"
         },
         {
@@ -17,18 +29,6 @@
             "title": "OpenAI上市在即 黃仁勳：1000億美元投資計畫恐告吹",
             "link": "https://udn.com//news/story/6811/9360265?from=udn-catebreaknews_ch2",
             "time": "2026-03-05 05:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/05/34732669.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "白宮聲稱西班牙同意與美軍合作 西班牙外長否認",
-            "link": "https://udn.com//news/story/124061/9360280?from=udn-catebreaknews_ch2",
-            "time": "2026-03-05 05:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/05/34732667.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "川普出兵伊朗憑感覺？白宮：基於事實的感覺",
-            "link": "https://udn.com//news/story/124061/9360274?from=udn-catebreaknews_ch2",
-            "time": "2026-03-05 05:22"
         }
     ]
 }

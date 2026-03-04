@@ -1,7 +1,13 @@
 {
     "兩岸": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/04/34730664.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "中國漫記／喝茶民族變心 陸咖啡品牌飛速跨越萬店門檻",
+            "link": "https://udn.com//news/story/7332/9360334?from=udn-catebreaknews_ch2",
+            "time": "2026-03-05 07:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_7.jpg&w=300",
             "title": "人大釋放中美關係趨穩訊號",
             "link": "https://udn.com//news/story/7331/9360098?from=udn-catebreaknews_ch2",
             "time": "2026-03-05 03:35"
@@ -19,16 +25,10 @@
             "time": "2026-03-05 03:31"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_5.jpg&w=300",
             "title": "陸製造業PMI 連2月低於榮枯線",
             "link": "https://udn.com//news/story/7333/9360107?from=udn-catebreaknews_ch2",
             "time": "2026-03-05 03:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_9.jpg&w=300",
-            "title": "陸AI模型使用量超車美國",
-            "link": "https://udn.com//news/story/7333/9360110?from=udn-catebreaknews_ch2",
-            "time": "2026-03-05 03:28"
         }
     ]
 }
