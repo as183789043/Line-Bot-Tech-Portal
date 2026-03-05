@@ -1,10 +1,22 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
+            "title": "台股收盤強彈844點收33,672點 台積電收高35元站回1,900元",
+            "link": "https://udn.com//news/story/7254/9361282?from=udn-catebreaknews_ch2",
+            "time": "2026-03-05 13:45"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/05/34733949.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "傳伊朗喊停戰！台股一度暴漲1,490點 台積電盤中一度大漲95元",
             "link": "https://udn.com//news/story/7251/9360985?from=udn-catebreaknews_ch2",
             "time": "2026-03-05 12:07"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/05/34734018.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "受中東情勢影響台股波動 金管會喊話「基本面尚稱穩健」",
+            "link": "https://udn.com//news/story/7251/9360967?from=udn-catebreaknews_ch2",
+            "time": "2026-03-05 12:04"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/05/34733901.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
@@ -17,18 +29,6 @@
             "title": "台股回神、記憶體族群點火！台積電撐盤 南亞科、旺宏跳空漲停",
             "link": "https://udn.com//news/story/7251/9360866?from=udn-catebreaknews_ch2",
             "time": "2026-03-05 11:38"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/05/34733599.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "台積電股價反彈重返1,900元關卡以上 市值逾49.7兆",
-            "link": "https://udn.com//news/story/7251/9360838?from=udn-catebreaknews_ch2",
-            "time": "2026-03-05 11:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/05/34733552.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "2330是股號還是目標價？投顧老董這麼說…",
-            "link": "https://udn.com//news/story/7251/9360815?from=udn-catebreaknews_ch2",
-            "time": "2026-03-05 11:28"
         }
     ]
 }
