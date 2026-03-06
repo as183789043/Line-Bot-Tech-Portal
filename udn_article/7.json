@@ -1,10 +1,22 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
             "title": "大田5.63元 派息4.3元\n",
             "link": "https://udn.com//news/story/7254/9364789?from=udn-catebreaknews_ch2",
             "time": "2026-03-07 00:24"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
+            "title": "軒郁財報／去年賺近一個股本 董事會決議去年下半年擬發放5.8元股利",
+            "link": "https://udn.com//news/story/7254/9364780?from=udn-catebreaknews_ch2",
+            "time": "2026-03-06 23:36"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
+            "title": "晶呈科技財報／2025年全年稅後純益1,868萬元 EPS 0.39元",
+            "link": "https://udn.com//news/story/7254/9364691?from=udn-catebreaknews_ch2",
+            "time": "2026-03-06 23:17"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/03/34728337.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
@@ -17,18 +29,6 @@
             "title": "台塑發配股利每股0.5元 擬再賣61,972張南亞科股票",
             "link": "https://udn.com//news/story/7251/9364495?from=udn-catebreaknews_ch2",
             "time": "2026-03-06 21:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/05/2/33880282.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "散戶過年不打烊 2月台股定期定額金額創史上第二高",
-            "link": "https://udn.com//news/story/7251/9364404?from=udn-catebreaknews_ch2",
-            "time": "2026-03-06 19:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/04/34731994.jpg&M=1&s=Y&x=0&y=0&sw=1247&sh=832&exp=3600&w=300",
-            "title": "台股本週大跌1814點 上市總市值降至109.5兆元",
-            "link": "https://udn.com//news/story/7251/9364361?from=udn-catebreaknews_ch2",
-            "time": "2026-03-06 19:27"
         }
     ]
 }
