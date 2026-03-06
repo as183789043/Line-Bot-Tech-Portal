@@ -1,9 +1,27 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/07/34739976.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "周末天氣東北季風主導 北台灣明天氣溫稍回升 新竹以南陽光燦爛",
+            "link": "https://udn.com//news/story/7266/9364966?from=udn-catebreaknews_ch2",
+            "time": "2026-03-07 06:09"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/07/34739946.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "氣象署天氣展望 未來2周東北季風接力影響 北東偏涼",
+            "link": "https://udn.com//news/story/7266/9364929?from=udn-catebreaknews_ch2",
+            "time": "2026-03-07 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/07/34739948.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "東北季風影響北台灣降雨微冷 吳德榮：下周二鋒面掠過 這天才放晴回暖",
+            "link": "https://udn.com//news/story/7266/9364934?from=udn-catebreaknews_ch2",
+            "time": "2026-03-07 05:48"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/07/34739944.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "未來1周3波東北季風接連南下 北東雨多降溫 中南部日夜溫差大",
-            "link": "https://udn.com//news/story/124378/9364927?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/7266/9364927?from=udn-catebreaknews_ch2",
             "time": "2026-03-07 05:09"
         },
         {
@@ -11,24 +29,6 @@
             "title": "科普好健康／「深腦刺激術」治巴金森 也跨足治重度癲癇、憂鬱",
             "link": "https://udn.com//news/story/7266/9364828?from=udn-catebreaknews_ch2",
             "time": "2026-03-07 02:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_6.jpg&w=300",
-            "title": "愛肝達人站／當細胞也開始叫外送",
-            "link": "https://udn.com//news/story/7266/9364830?from=udn-catebreaknews_ch2",
-            "time": "2026-03-07 02:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/07/34739748.jpg&M=2&s=Y&x=0&y=378&sw=1115&sh=743&exp=3600&w=300",
-            "title": "健康你我他／加入窈窕減重社團 天天上傳數據督促",
-            "link": "https://udn.com//news/story/7266/9364843?from=udn-catebreaknews_ch2",
-            "time": "2026-03-07 02:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_6.jpg&w=300",
-            "title": "非聽不可／先進空中交通創新服務論壇",
-            "link": "https://udn.com//news/story/7266/9364844?from=udn-catebreaknews_ch2",
-            "time": "2026-03-07 02:23"
         }
     ]
 }
