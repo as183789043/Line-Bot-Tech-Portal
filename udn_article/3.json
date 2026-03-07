@@ -1,8 +1,14 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/07/34741325.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "伊朗攻擊擾亂航班 杜拜機場一度暫停後部分重啟",
+            "link": "https://udn.com//news/story/124061/9365808?from=udn-catebreaknews_ch2",
+            "time": "2026-03-07 18:15"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/07/34741259.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "伊朗總統為襲擊鄰國道歉並中止攻擊 暗示原因恐是軍隊溝通不良",
+            "title": "為襲擊鄰國道歉並宣布停止攻擊 伊朗總統暗示「恐是軍隊溝通不良」",
             "link": "https://udn.com//news/story/124061/9365748?from=udn-catebreaknews_ch2",
             "time": "2026-03-07 17:21"
         },
@@ -23,12 +29,6 @@
             "title": "烽火延燒多日…川普發文要求「無條件投降」 伊朗總統反嗆絕不",
             "link": "https://udn.com//news/story/124061/9365717?from=udn-catebreaknews_ch2",
             "time": "2026-03-07 16:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/07/34741191.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "出動逾80架戰機！以軍空襲伊朗 德黑蘭機場傳發生爆炸、飛機起火",
-            "link": "https://udn.com//news/story/124061/9365711?from=udn-catebreaknews_ch2",
-            "time": "2026-03-07 16:47"
         }
     ]
 }
