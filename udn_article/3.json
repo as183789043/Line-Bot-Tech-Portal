@@ -1,8 +1,14 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/07/34741591.png&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
+            "title": "中東戰火燒8天 圖解伊朗無人機如何影響戰局",
+            "link": "https://udn.com//news/story/124061/9366228?from=udn-catebreaknews_ch2",
+            "time": "2026-03-08 05:51"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/02/34725320.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "費半暴跌 台積 ADR 重挫 本周聚焦中東戰事發展、能源供應衝擊",
+            "title": "費半暴跌 台積ADR重挫…本周聚焦中東戰事發展、能源供應衝擊",
             "link": "https://udn.com//news/story/6811/9366098?from=udn-catebreaknews_ch2",
             "time": "2026-03-08 02:50"
         },
@@ -19,16 +25,10 @@
             "time": "2026-03-08 02:33"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
             "title": "專家估油價本周漲破100美元",
             "link": "https://udn.com//news/story/6811/9366051?from=udn-catebreaknews_ch2",
             "time": "2026-03-08 02:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
-            "title": "川普速戰速決 盤算落空",
-            "link": "https://udn.com//news/story/124061/9366053?from=udn-catebreaknews_ch2",
-            "time": "2026-03-08 02:28"
         }
     ]
 }
