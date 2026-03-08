@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/08/34742175.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "AI成平價手機新標竿 專家：Pixel 10a挑戰入門定義",
+            "link": "https://udn.com//news/story/7240/9366379?from=udn-catebreaknews_ch2",
+            "time": "2026-03-08 11:11"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/07/34741105.jpg&M=1&s=Y&x=0&y=0&sw=1218&sh=812&exp=3600&w=300",
+            "title": "本周台股／美伊戰事延長股市重摔 真正的利空將現身？",
+            "link": "https://udn.com//news/story/7238/9366384?from=udn-catebreaknews_ch2",
+            "time": "2026-03-08 10:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/07/34741613.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
             "title": "中油吸收價差 汽油周一漲1.5元",
             "link": "https://udn.com//news/story/7241/9366104?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "甲骨文資料中心擴建喊卡 傳 Meta考慮接手承租",
             "link": "https://udn.com//news/story/7240/9366107?from=udn-catebreaknews_ch2",
             "time": "2026-03-08 02:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_1.jpg&w=300",
-            "title": "三星NAND 傳Q2漲價一倍",
-            "link": "https://udn.com//news/story/7240/9366112?from=udn-catebreaknews_ch2",
-            "time": "2026-03-08 02:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/07/34741069.jpg&M=1&s=Y&x=0&y=25&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台積徵才工程師年薪220萬 對碩士畢業祭出優渥薪資 整體招募8,000人",
-            "link": "https://udn.com//news/story/7240/9366095?from=udn-catebreaknews_ch2",
-            "time": "2026-03-08 02:11"
         }
     ]
 }
