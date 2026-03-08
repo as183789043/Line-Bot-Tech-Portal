@@ -1,9 +1,21 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/08/34743431.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "日本東北地方外海發生極淺層地震 震源深度僅10公里、規模達6",
+            "link": "https://udn.com//news/story/6812/9367254?from=udn-catebreaknews_ch2",
+            "time": "2026-03-08 22:11"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/08/34743389.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "能源業主管與石油貿易商警告 百元油價指日可待",
+            "link": "https://udn.com//news/story/6811/9367222?from=udn-catebreaknews_ch2",
+            "time": "2026-03-08 21:44"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/08/34743388.jpg&M=1&s=Y&x=0&y=0&sw=1255&sh=836&exp=3600&w=300",
             "title": "伊朗最高領袖傳已選出 「專家會議」教士暗示是哈米尼次子穆吉塔巴",
-            "link": "https://udn.com//news/story/6812/9367216?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124061/9367216?from=udn-catebreaknews_ch2",
             "time": "2026-03-08 21:35"
         },
         {
@@ -17,18 +29,6 @@
             "title": "三星工會9日啟動罷工投票 市場憂：罷工恐影響HBM生產",
             "link": "https://udn.com//news/story/6811/9367000?from=udn-catebreaknews_ch2",
             "time": "2026-03-08 17:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/08/34743100.jpg&M=1&s=Y&x=0&y=0&sw=959&sh=639&exp=3600&w=300",
-            "title": "最高領袖哈米尼被擊殺後 伊朗專家會議成員曝「接班人差不多選定了」",
-            "link": "https://udn.com//news/story/124061/9366966?from=udn-catebreaknews_ch2",
-            "time": "2026-03-08 17:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/08/34743088.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "確保濃縮鈾安全 川普不排除派地面部隊進入伊朗",
-            "link": "https://udn.com//news/story/6812/9366914?from=udn-catebreaknews_ch2",
-            "time": "2026-03-08 17:15"
         }
     ]
 }
