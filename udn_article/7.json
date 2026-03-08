@@ -1,7 +1,13 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/08/34743042.jpg&M=1&s=Y&x=0&y=0&sw=1187&sh=791&exp=3600&w=300",
+            "title": "凱基證券歡慶ETF競賽連三年奪冠 新戶優惠好評延長",
+            "link": "https://udn.com//news/story/123006/9366912?from=udn-catebreaknews_ch2",
+            "time": "2026-03-08 16:33"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
             "title": "聯德控股營收／2月5.34億元、年增22% 前二月11.87億元、年增16.3%",
             "link": "https://udn.com//news/story/7253/9366863?from=udn-catebreaknews_ch2",
             "time": "2026-03-08 15:51"
@@ -13,22 +19,16 @@
             "time": "2026-03-08 14:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
             "title": "欣興2025年EPS 4.38元 法人看好今年倍數成長至10.4元",
             "link": "https://udn.com//news/story/7253/9366728?from=udn-catebreaknews_ch2",
             "time": "2026-03-08 13:44"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
             "title": "安碁資訊營收／2月月減3.6%、符合預期 法人估全年 EPS 11.2元",
             "link": "https://udn.com//news/story/7254/9366725?from=udn-catebreaknews_ch2",
             "time": "2026-03-08 13:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/08/34742576.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "費半大跌3.9%、台指期夜盤跌3.0% 中東戰火升溫 周一開盤壓力沉重",
-            "link": "https://udn.com//news/story/7251/9366629?from=udn-catebreaknews_ch2",
-            "time": "2026-03-08 12:30"
         }
     ]
 }
