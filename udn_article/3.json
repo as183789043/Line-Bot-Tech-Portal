@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/11/34750708.jpg&M=1&s=Y&x=0&y=0&sw=1250&sh=833&exp=3600&w=300",
+            "title": "伊朗恐部署水雷擋油輪 川普警告：軍事後果前所未見",
+            "link": "https://udn.com//news/story/124061/9372308?from=udn-catebreaknews_ch2",
+            "time": "2026-03-11 05:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/11/34750695.jpg&M=1&s=Y&x=0&y=0&sw=1194&sh=796&exp=3600&w=300",
             "title": "美軍擬方案保荷莫茲海峽暢通 白宮：川普不怕動用軍事選項",
             "link": "https://udn.com//news/story/124061/9372297?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2026-03-11 03:02"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
             "title": "亞太金融人才爭奪戰升溫",
             "link": "https://udn.com//news/story/6811/9372065?from=udn-catebreaknews_ch2",
             "time": "2026-03-11 03:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
-            "title": "亞洲私募基金悄悄崛起",
-            "link": "https://udn.com//news/story/6811/9372062?from=udn-catebreaknews_ch2",
-            "time": "2026-03-11 03:00"
         }
     ]
 }
