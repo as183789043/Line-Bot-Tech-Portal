@@ -1,6 +1,12 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/11/34750679.jpg&M=1&s=Y&x=306&y=45&sw=687&sh=570&exp=3600&w=300",
+            "title": "影／經典賽中華隊返台 台灣隊長陳傑憲壓軸入境",
+            "link": "https://udn.com//news/story/7001/9372286?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-03-11 04:17"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/11/34750671.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "經典賽／中華隊返台 逾300球迷接機力挺Team Taiwan",
             "link": "https://udn.com//news/story/10785/9372273?from=udn-ch1_breaknews-1-0-news",
@@ -13,22 +19,16 @@
             "time": "2026-03-11 02:04"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
             "title": "財政部邀公股行庫開會 聚焦美伊衝突局勢、房市等議題",
             "link": "https://udn.com//news/story/7239/9372245?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-03-11 00:32"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/11/34750503.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "vivo人像旗艦V70系列攜手泡泡瑪特時尚變身！挑戰同級最強戰將",
+            "title": "vivo人像旗艦V70系列攜手泡泡瑪特時尚變身 挑戰同級最強戰將",
             "link": "https://udn.com//news/story/7270/9372230?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-03-11 00:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/10/34750463.jpg&M=1&s=Y&x=0&y=0&sw=1277&sh=851&exp=3600&w=300",
-            "title": "聯發科發布全新MediaTek Genio®平台 提供強大邊緣AI運算力",
-            "link": "https://udn.com//news/story/7240/9372203?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-03-10 23:47"
         }
     ]
 }
