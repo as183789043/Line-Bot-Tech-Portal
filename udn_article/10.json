@@ -1,7 +1,19 @@
 {
     "評論": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34754306.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "聯合報黑白集／說「突破」太矯情",
+            "link": "https://udn.com//news/story/7338/9374805?from=udn-catebreaknews_ch2",
+            "time": "2026-03-12 00:57"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34754287.jpg&M=1&s=Y&x=0&y=12&sw=1209&sh=806&exp=3600&w=300",
+            "title": "聯合報社論／川普想結束戰爭，但以色列和伊朗不肯停",
+            "link": "https://udn.com//news/story/7338/9374797?from=udn-catebreaknews_ch2",
+            "time": "2026-03-12 00:51"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_2.jpg&w=300",
             "title": "孫中山是永續發展先行者",
             "link": "https://udn.com//news/story/7339/9374779?from=udn-catebreaknews_ch2",
             "time": "2026-03-12 00:16"
@@ -17,18 +29,6 @@
             "title": "不討論重啟核四 新核能恐淪政治語言",
             "link": "https://udn.com//news/story/7339/9374777?from=udn-catebreaknews_ch2",
             "time": "2026-03-12 00:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_1.jpg&w=300",
-            "title": "讀家觀點／從中美科技戰 看人才問題",
-            "link": "https://udn.com//news/story/7339/9374781?from=udn-catebreaknews_ch2",
-            "time": "2026-03-12 00:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_6.jpg&w=300",
-            "title": "名家縱論／當AI創立宗教",
-            "link": "https://udn.com//news/story/123296/9374786?from=udn-catebreaknews_ch2",
-            "time": "2026-03-12 00:10"
         }
     ]
 }
