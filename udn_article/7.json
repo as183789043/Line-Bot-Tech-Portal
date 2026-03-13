@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
+            "title": "不確定升高 投資要掌握3重點",
+            "link": "https://udn.com//news/story/10103/9379307?from=udn-catebreaknews_ch2",
+            "time": "2026-03-14 00:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/12/34757178.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "先蹲後跳 台指期上半場由黑翻紅",
             "link": "https://udn.com//news/story/7255/9379044?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "61萬股東注意！玉山金今年現金股利1.4元 殖利率4.2%",
             "link": "https://udn.com//news/story/7252/9378924?from=udn-catebreaknews_ch2",
             "time": "2026-03-13 19:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/13/34761056.jpg&M=1&s=Y&x=0&y=125&sw=960&sh=640&exp=3600&w=300",
-            "title": "微星法說會／今年AI伺服器將成長50%到100% 衝刺中高階PC降低衝擊",
-            "link": "https://udn.com//news/story/7253/9378911?from=udn-catebreaknews_ch2",
-            "time": "2026-03-13 19:41"
         }
     ]
 }
