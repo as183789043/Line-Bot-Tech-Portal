@@ -1,6 +1,12 @@
 {
     "社會": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/17/34768805.jpg&M=1&s=Y&x=0&y=0&sw=1037&sh=691&exp=3600&w=300",
+            "title": "嘉義市自強街凌晨民宅火警 消防員救出2名民眾脫困",
+            "link": "https://udn.com//news/story/7320/9384196?from=udn-catebreaknews_ch2",
+            "time": "2026-03-17 03:25"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/17/34768769.jpg&M=1&s=Y&x=0&y=0&sw=559&sh=373&exp=3600&w=300",
             "title": "高雄2通緝犯駕車未開大燈拒檢逃 網友直擊「熊貓」加入警圍捕行列",
             "link": "https://udn.com//news/story/7315/9384174?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "竹科變電所起火…台電緊急隔離 未影響廠商生產",
             "link": "https://udn.com//news/story/7320/9384089?from=udn-catebreaknews_ch2",
             "time": "2026-03-17 00:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/16/34768623.jpg&M=1&s=Y&x=0&y=156&sw=720&sh=480&exp=3600&w=300",
-            "title": "竹科變電所爆炸起火  釀1死2重傷",
-            "link": "https://udn.com//news/story/7320/9384088?from=udn-catebreaknews_ch2",
-            "time": "2026-03-17 00:00"
         }
     ]
 }
