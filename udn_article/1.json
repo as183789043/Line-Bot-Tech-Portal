@@ -1,13 +1,19 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/18/34772412.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "美國對台軍售延遲 國務院官員：致力解決問題",
+            "link": "https://udn.com//news/story/10930/9386632?from=udn-catebreaknews_ch2",
+            "time": "2026-03-18 02:55"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/18/34772247.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600&w=300",
             "title": "相對論／方英海要武統「中華民國統一大陸」 李文忠憶姊夫「前線30年當然愛台」",
             "link": "https://udn.com//news/story/6656/9386573?from=udn-catebreaknews_ch2",
             "time": "2026-03-18 00:32"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_1.jpg&w=300",
             "title": "相對論／老兵故事 成為兩人共同的語言",
             "link": "https://udn.com//news/story/6656/9386570?from=udn-catebreaknews_ch2",
             "time": "2026-03-18 00:28"
@@ -23,12 +29,6 @@
             "title": "陳亭妃看齊高市 自稱「透明人」要改變台南",
             "link": "https://udn.com//news/story/124652/9386372?from=udn-catebreaknews_ch2",
             "time": "2026-03-18 00:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/18/34772261.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "陳亭妃：我來做桶箍 撐住賴總統本命區",
-            "link": "https://udn.com//news/story/124652/9386374?from=udn-catebreaknews_ch2",
-            "time": "2026-03-18 00:10"
         }
     ]
 }
