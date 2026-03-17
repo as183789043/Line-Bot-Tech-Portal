@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/11/34750934.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "月琴伴奏的古老街頭演唱會",
+            "link": "https://udn.com//news/story/6966/9372507?from=udn-catebreaknews_ch2",
+            "time": "2026-03-17 22:47"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/11/34750868.jpg&M=1&s=Y&x=0&y=0&sw=1140&sh=760&exp=3600&w=300",
+            "title": "百年香火遇上潮流舞台！廟宇演唱會經濟學",
+            "link": "https://udn.com//news/story/6966/9372461?from=udn-catebreaknews_ch2",
+            "time": "2026-03-17 22:47"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/17/34770568.jpg&M=1&s=Y&x=224&y=0&sw=1056&sh=704&exp=3600&w=300",
             "title": "救生育率不能只靠撒錢 瑞典生育率維持1.5的祕訣：拿鐵爸爸",
             "link": "https://udn.com//news/story/6841/9385181?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "矽盛世來了！台美合組艦隊 能讓台變經濟日不落國？未來20年最強戰略架構曝光",
             "link": "https://udn.com//news/story/6839/9384819?from=udn-catebreaknews_ch2",
             "time": "2026-03-17 13:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/17/34769475.jpg&M=1&s=Y&x=0&y=213&sw=960&sh=640&exp=3600&w=300",
-            "title": "仲恩喜事連連 取得科技事業函啟動IPO、美國二期臨床、台日取證、加快全球商業化量產",
-            "link": "https://udn.com//news/story/6850/9384511?from=udn-catebreaknews_ch2",
-            "time": "2026-03-17 10:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/16/34767693.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "從傳統代工走向永續品牌 deya背起夢想也背起社會責任",
-            "link": "https://udn.com//news/story/6846/9383256?from=udn-catebreaknews_ch2",
-            "time": "2026-03-17 07:39"
         }
     ]
 }
