@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/19/34776242.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "Fed 決策／3月18日會議聲明全文",
+            "link": "https://udn.com//news/story/6811/9389193?from=udn-catebreaknews_ch2",
+            "time": "2026-03-19 05:29"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
+            "title": "經濟快評：Fed選擇先「望穿」油價上漲的可能衝擊",
+            "link": "https://udn.com//news/story/6811/9389183?from=udn-catebreaknews_ch2",
+            "time": "2026-03-19 04:34"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/19/34776210.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "Fed決策／一如預期按兵不動 僅米倫持異議 聲明提及伊朗戰爭不確定性",
             "link": "https://udn.com//news/story/6811/9389153?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2026-03-19 02:21"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
             "title": "美歐貿易協議批准程序 重啟",
             "link": "https://udn.com//news/story/124373/9388967?from=udn-catebreaknews_ch2",
             "time": "2026-03-19 02:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
-            "title": "晶片出口擴增 日本2月貿易由逆差轉順差",
-            "link": "https://udn.com//news/story/6811/9388966?from=udn-catebreaknews_ch2",
-            "time": "2026-03-19 02:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/19/34776198.png&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "無人機黑馬Swarmer掛牌 股價飆520%",
-            "link": "https://udn.com//news/story/6811/9388944?from=udn-catebreaknews_ch2",
-            "time": "2026-03-19 02:15"
         }
     ]
 }
