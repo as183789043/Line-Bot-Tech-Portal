@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/19/34776187.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "台股若改「1股」交易 業者看法兩極",
+            "link": "https://udn.com//news/story/7251/9388942?from=udn-catebreaknews_ch2",
+            "time": "2026-03-19 00:09"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/18/34775912.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
+            "title": "借鏡美國…台股交易單位 評估1張改1股",
+            "link": "https://udn.com//news/story/7251/9388939?from=udn-catebreaknews_ch2",
+            "time": "2026-03-19 00:09"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/18/34775850.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "高鐵擬配現金股利1.15元 近六年來新高",
             "link": "https://udn.com//news/story/7252/9388869?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台股高檔震盪 法人看好上漲動能至這季底",
             "link": "https://udn.com//news/story/7251/9388581?from=udn-catebreaknews_ch2",
             "time": "2026-03-18 19:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/18/34775521.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "37%當沖狂飆！立委憂「台股變賭場」 金管會：長短線都要兼顧",
-            "link": "https://udn.com//news/story/7251/9388560?from=udn-catebreaknews_ch2",
-            "time": "2026-03-18 19:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/18/34775494.jpg&M=1&s=Y&x=0&y=0&sw=1269&sh=846&exp=3600&w=300",
-            "title": "中小型股狂飆！這檔ETF成分股近2成列注意或被處置 飆破掛牌新高",
-            "link": "https://udn.com//news/story/123006/9388522?from=udn-catebreaknews_ch2",
-            "time": "2026-03-18 19:02"
         }
     ]
 }

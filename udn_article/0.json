@@ -1,7 +1,13 @@
 {
     "即時": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/19/34776181.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "白宮：中國同意川普北京行延期",
+            "link": "https://udn.com//news/story/6813/9389138?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-03-19 01:44"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
             "title": "天然氣田遭攻擊 伊朗誓言報復 布蘭特油價直逼110美元",
             "link": "https://udn.com//news/story/6811/9389125?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-03-19 00:34"
@@ -23,12 +29,6 @@
             "title": "警逮「拖吊蟑螂」6人  首腦「小崔」逃亡 北檢聲押禁見2業者  ",
             "link": "https://udn.com//news/story/7321/9389035?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-03-18 23:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/18/34776005.jpg&M=1&s=Y&x=0&y=0&sw=1204&sh=803&exp=3600&w=300",
-            "title": "遠百美麗購物節 化妝品回饋最高達15%  精品同步放送優惠",
-            "link": "https://udn.com//news/story/7270/9389032?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-03-18 23:43"
         }
     ]
 }
