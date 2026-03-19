@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/19/34777727.jpg&M=1&s=Y&x=225&y=0&sw=1055&sh=704&exp=3600&w=300",
+            "title": "憂鬱時找ChatGPT談心？專家：兩件事別告訴它",
+            "link": "https://udn.com//news/story/6841/9390044?from=udn-catebreaknews_ch2",
+            "time": "2026-03-19 13:10"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/19/34777217.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
             "title": "2026《富比世》富豪榜！「鞋王」張聰淵是誰？為何AI霸榜仍擠進台灣前10",
             "link": "https://udn.com//news/story/6839/9389758?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "快充站數超車特斯拉！源點科技開充電站像開餐廳 揭「台灣快充王」年收增3倍的獲利公式",
             "link": "https://udn.com//news/story/6839/9387416?from=udn-catebreaknews_ch2",
             "time": "2026-03-18 13:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/18/34773684.jpg&M=1&s=Y&x=152&y=0&sw=1048&sh=725&exp=3600&w=300",
-            "title": "中國太內捲了！鮮活果汁老董放棄老師 西進30年站穩「果汁原料王」砸2億回屏東設廠為哪樁？",
-            "link": "https://udn.com//news/story/6839/9387403?from=udn-catebreaknews_ch2",
-            "time": "2026-03-18 13:14"
         }
     ]
 }
