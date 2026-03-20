@@ -1,16 +1,22 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/20/34781861.jpg&M=2&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "川普當著高市開珍珠港玩笑 東大教授警告：下一步恐連原子彈都敢說",
+            "link": "https://udn.com//news/story/6809/9392863?from=udn-catebreaknews_ch2",
+            "time": "2026-03-20 15:19"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/20/34781785.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "航空業拉警報！航空燃油價格翻倍上漲 全球航班縮減壓力升溫",
+            "link": "https://udn.com//news/story/6811/9392827?from=udn-catebreaknews_ch2",
+            "time": "2026-03-20 15:02"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/20/34781719.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "影／南韓汽車零件工廠大火釀50人輕重傷 下令「全國消防動員」",
             "link": "https://udn.com//news/story/6812/9392781?from=udn-catebreaknews_ch2",
             "time": "2026-03-20 14:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/20/34780756.jpg&M=1&s=Y&x=2&y=90&sw=850&sh=567&exp=3600&w=300",
-            "title": "被控非法轉運售中Nvidia晶片伺服器 美超微高層被起訴",
-            "link": "https://udn.com//news/story/6811/9392151?from=udn-catebreaknews_ch2",
-            "time": "2026-03-20 14:30"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/20/34781483.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
@@ -19,16 +25,10 @@
             "time": "2026-03-20 14:30"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/20/34781359.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "安檢排隊錯過航班 機票不退款 某些情況可能給代金券",
-            "link": "https://udn.com//news/story/6812/9392532?from=udn-catebreaknews_ch2",
-            "time": "2026-03-20 14:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/20/34781502.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "高市訪白宮重申「開放與中對話」 川普承諾向習近平轉達",
-            "link": "https://udn.com//news/story/6809/9392632?from=udn-catebreaknews_ch2",
-            "time": "2026-03-20 14:29"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/20/34780756.jpg&M=1&s=Y&x=2&y=90&sw=850&sh=567&exp=3600&w=300",
+            "title": "被控非法轉運售中Nvidia晶片伺服器 美超微高層被起訴",
+            "link": "https://udn.com//news/story/6811/9392151?from=udn-catebreaknews_ch2",
+            "time": "2026-03-20 14:30"
         }
     ]
 }
