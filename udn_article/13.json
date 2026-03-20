@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/20/34781030.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台灣經典賽贏韓國、委內瑞拉擊退美國 謝金河：棒球場上比拚 背後也可能代表著國運",
+            "link": "https://udn.com//news/story/6839/9392330?from=udn-catebreaknews_ch2",
+            "time": "2026-03-20 12:40"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/20/34781060.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "全台最美餐廳「飛花落院」！江振誠包場幫母慶生 故事要從8年前說起",
+            "link": "https://udn.com//news/story/6839/9392343?from=udn-catebreaknews_ch2",
+            "time": "2026-03-20 12:38"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/20/34780415.jpg&M=1&s=Y&x=128&y=0&sw=1085&sh=723&exp=3600&w=300",
             "title": "AI創新百強》從3坪辦公室攻進中職5球團 兩位棒球痴靠AI變數據翻譯官",
             "link": "https://udn.com//news/story/6837/9391900?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "記憶體低價庫存誰最靚：威剛",
             "link": "https://udn.com//news/story/6850/9390360?from=udn-catebreaknews_ch2",
             "time": "2026-03-19 14:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/19/34778123.png&M=1&s=Y&x=253&y=0&sw=938&sh=625&exp=3600&w=300",
-            "title": "邊緣運算成為未來焦點：鈺創科技",
-            "link": "https://udn.com//news/story/6850/9390350?from=udn-catebreaknews_ch2",
-            "time": "2026-03-19 14:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/19/34778104.jpg&M=1&s=Y&x=0&y=0&sw=1238&sh=825&exp=3600&w=300",
-            "title": "找出藥物新應用 華安旗下源華智醫「智慧協奏」AI新藥平台GTC展示",
-            "link": "https://udn.com//news/story/6850/9390333?from=udn-catebreaknews_ch2",
-            "time": "2026-03-19 14:23"
         }
     ]
 }
