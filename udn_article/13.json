@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/20/34780415.jpg&M=1&s=Y&x=128&y=0&sw=1085&sh=723&exp=3600&w=300",
+            "title": "AI創新百強》從3坪辦公室攻進中職5球團 兩位棒球痴靠AI變數據翻譯官",
+            "link": "https://udn.com//news/story/6837/9391900?from=udn-catebreaknews_ch2",
+            "time": "2026-03-20 08:28"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/20/34780429.jpg&M=1&s=Y&x=112&y=0&sw=1085&sh=723&exp=3600&w=300",
+            "title": "股價跌八成、四年換三次CEO！為何甩麵和美甲成海底撈最大考驗",
+            "link": "https://udn.com//news/story/6837/9391911?from=udn-catebreaknews_ch2",
+            "time": "2026-03-20 08:21"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/19/34778135.png&M=1&s=Y&x=232&y=0&sw=938&sh=625&exp=3600&w=300",
             "title": "記憶體低價庫存誰最靚：威剛",
             "link": "https://udn.com//news/story/6850/9390360?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "找出藥物新應用 華安旗下源華智醫「智慧協奏」AI新藥平台GTC展示",
             "link": "https://udn.com//news/story/6850/9390333?from=udn-catebreaknews_ch2",
             "time": "2026-03-19 14:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/19/34778075.png&M=1&s=Y&x=224&y=0&sw=938&sh=625&exp=3600&w=300",
-            "title": "取得輝達AI大單低價飆股",
-            "link": "https://udn.com//news/story/6850/9390323?from=udn-catebreaknews_ch2",
-            "time": "2026-03-19 14:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/19/34778058.png&M=1&s=Y&x=200&y=0&sw=939&sh=626&exp=3600&w=300",
-            "title": "AI半導體建廠潮迎來黃金十年：巨漢(6903)",
-            "link": "https://udn.com//news/story/6850/9390317?from=udn-catebreaknews_ch2",
-            "time": "2026-03-19 14:17"
         }
     ]
 }
