@@ -1,7 +1,19 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/21/34785142.jpg&M=1&s=Y&x=0&y=0&sw=1203&sh=802&exp=3600&w=300",
+            "title": "亞洲大學25周年 魏哲家獲頒名譽博士",
+            "link": "https://udn.com//news/story/7240/9395016?from=udn-catebreaknews_ch2",
+            "time": "2026-03-22 01:45"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/21/34785100.jpg&M=1&s=Y&x=0&y=0&sw=1203&sh=802&exp=3600&w=300",
+            "title": "技術助攻 魏哲家：台積讓AI加速發展",
+            "link": "https://udn.com//news/story/7240/9395014?from=udn-catebreaknews_ch2",
+            "time": "2026-03-22 01:44"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_3.jpg&w=300",
             "title": "英學者：依賴伊朗氦氣 台韓半導體受影響",
             "link": "https://udn.com//news/story/7240/9394930?from=udn-catebreaknews_ch2",
             "time": "2026-03-22 00:21"
@@ -17,18 +29,6 @@
             "title": "雄獅砸2千萬辦春酒！包場兒童新樂園、4千人嗨翻夜空",
             "link": "https://udn.com//news/story/7241/9394844?from=udn-catebreaknews_ch2",
             "time": "2026-03-21 21:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/21/34784878.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600&w=300",
-            "title": "金融業盛事！國泰金控號召萬人齊步走 打造全齡共樂健走派對",
-            "link": "https://udn.com//news/story/7239/9394804?from=udn-catebreaknews_ch2",
-            "time": "2026-03-21 20:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/21/34784791.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "雄獅家庭日《世界真有趣。雄獅帶你去》業績再創佳績",
-            "link": "https://udn.com//news/story/7241/9394725?from=udn-catebreaknews_ch2",
-            "time": "2026-03-21 19:30"
         }
     ]
 }
