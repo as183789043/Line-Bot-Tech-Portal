@@ -1,8 +1,14 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_9.jpg&w=300",
+            "title": "英學者：依賴伊朗氦氣 台韓半導體受影響",
+            "link": "https://udn.com//news/story/7240/9394930?from=udn-catebreaknews_ch2",
+            "time": "2026-03-22 00:21"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/21/34785133.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600&w=300",
-            "title": "中油難撐 吸收34億 油價仍得大漲",
+            "title": "中油難撐…吸收34億 油價仍得大漲",
             "link": "https://udn.com//news/story/7238/9395052?from=udn-catebreaknews_ch2",
             "time": "2026-03-22 00:00"
         },
@@ -23,12 +29,6 @@
             "title": "雄獅家庭日《世界真有趣。雄獅帶你去》業績再創佳績",
             "link": "https://udn.com//news/story/7241/9394725?from=udn-catebreaknews_ch2",
             "time": "2026-03-21 19:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/21/34784728.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "台數科廖紫岑接磐石會長 承襲磐石韌性啟動AI時代新局",
-            "link": "https://udn.com//news/story/7241/9394697?from=udn-catebreaknews_ch2",
-            "time": "2026-03-21 18:38"
         }
     ]
 }
