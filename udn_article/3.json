@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/23/34787662.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "本周開盤前 五件國際事不可不知",
+            "link": "https://udn.com//news/story/6811/9396497?from=udn-catebreaknews_ch2",
+            "time": "2026-03-23 07:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/20/34781896.jpg&M=2&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "讀者QA／川普逼盟友護航失靈 2大關鍵變數牽動戰局走向",
+            "link": "https://udn.com//news/story/124068/9396491?from=udn-catebreaknews_ch2",
+            "time": "2026-03-23 07:01"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/22/34787288.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "CNN：伊朗正推動在荷莫茲海峽索取「買路錢」",
+            "link": "https://udn.com//news/story/124061/9396251?from=udn-catebreaknews_ch2",
+            "time": "2026-03-23 06:45"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/04/34731669.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
             "title": "中東出發的運輸船恐在十天後驟止…全球 LNG 瀕臨供應懸崖",
             "link": "https://udn.com//news/story/6811/9396254?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "川普下48小時通牒重啟荷莫茲 市場警戒「黑色星期一」",
             "link": "https://udn.com//news/story/124061/9396289?from=udn-catebreaknews_ch2",
             "time": "2026-03-23 02:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
-            "title": "能源震撼 投資人繫緊安全帶",
-            "link": "https://udn.com//news/story/6811/9396302?from=udn-catebreaknews_ch2",
-            "time": "2026-03-23 02:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
-            "title": "外媒報導 美籌備與伊朗下階段談判",
-            "link": "https://udn.com//news/story/124061/9396307?from=udn-catebreaknews_ch2",
-            "time": "2026-03-23 02:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/16/34768228.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=852&exp=3600&w=300",
-            "title": "Anthropic 調查：比起失業 人工智慧幻覺引發用戶擔憂",
-            "link": "https://udn.com//news/story/6811/9396337?from=udn-catebreaknews_ch2",
-            "time": "2026-03-23 01:52"
         }
     ]
 }

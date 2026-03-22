@@ -1,13 +1,19 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/21/34784820.jpg&M=1&s=Y&x=0&y=0&sw=1040&sh=694&exp=3600&w=300",
+            "title": "中東開戰盤點天然氣存量 台輸日韓曝露雙重危機",
+            "link": "https://udn.com//news/story/7238/9396492?from=udn-catebreaknews_ch2",
+            "time": "2026-03-23 07:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/22/34787294.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "綠色行動力論壇4月23日登場／國發會副主委高仙桂：兩大支柱 衝多元綠能",
             "link": "https://udn.com//news/story/7241/9396256?from=udn-catebreaknews_ch2",
             "time": "2026-03-23 02:56"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_7.jpg&w=300",
             "title": "台積電美國四廠產能全被包了",
             "link": "https://udn.com//news/story/7240/9396267?from=udn-catebreaknews_ch2",
             "time": "2026-03-23 02:31"
@@ -23,12 +29,6 @@
             "title": "AI 巨擘有意簽記憶體長約 固料三星、美光高階產品 南亞科、華邦等受惠",
             "link": "https://udn.com//news/story/7240/9396273?from=udn-catebreaknews_ch2",
             "time": "2026-03-23 02:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_5.jpg&w=300",
-            "title": "AI 催動儲存需求激增 群聯：七成單接不了",
-            "link": "https://udn.com//news/story/7240/9396276?from=udn-catebreaknews_ch2",
-            "time": "2026-03-23 02:23"
         }
     ]
 }
