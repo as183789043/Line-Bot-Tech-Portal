@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/23/34790476.png&M=1&s=Y&x=66&y=0&sw=1076&sh=717&exp=3600&w=300",
+            "title": "3月初中東戰爭以來 台股外資狂賣215億美元、居新興亞股之冠",
+            "link": "https://udn.com//news/story/7251/9398248?from=udn-catebreaknews_ch2",
+            "time": "2026-03-23 21:35"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/23/34790407.jpg&M=1&s=Y&x=90&y=0&sw=1127&sh=752&exp=3600&w=300",
             "title": "美伊羅生門？川普喊會談良好、伊朗秒否認…台指期夜盤剉咧等",
             "link": "https://udn.com//news/story/7251/9398197?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "鄉林每股淨值回到票面之上 24日起恢復融資券交易",
             "link": "https://udn.com//news/story/7251/9398029?from=udn-catebreaknews_ch2",
             "time": "2026-03-23 19:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
-            "title": "茂生法說會／今年續朝一條龍垂直整合挺進 推動營收與獲利成長",
-            "link": "https://udn.com//news/story/7254/9398019?from=udn-catebreaknews_ch2",
-            "time": "2026-03-23 19:07"
         }
     ]
 }
