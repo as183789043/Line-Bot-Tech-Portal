@@ -1,7 +1,19 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/25/34796867.png&M=1&s=Y&x=327&y=0&sw=910&sh=607&exp=3600&w=300",
+            "title": "台股連年多頭但選股難度接連攀升 2025年僅15%贏大盤",
+            "link": "https://udn.com//news/story/123006/9402539?from=udn-catebreaknews_ch2",
+            "time": "2026-03-25 16:07"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/25/34796701.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "王道銀行2025年配發現金股利0.52元 創掛牌以來新高",
+            "link": "https://udn.com//news/story/7252/9402455?from=udn-catebreaknews_ch2",
+            "time": "2026-03-25 15:39"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/25/34796539.jpg&M=1&s=Y&x=0&y=0&sw=1184&sh=789&exp=3600&w=300",
             "title": "美伊周四有機會談判？台股大漲826點 三大法人買超507億元",
             "link": "https://udn.com//news/story/7251/9402348?from=udn-catebreaknews_ch2",
             "time": "2026-03-25 15:03"
@@ -17,18 +29,6 @@
             "title": "市場持續波動 美股基金淨流入力道加速",
             "link": "https://udn.com//news/story/10103/9402319?from=udn-catebreaknews_ch2",
             "time": "2026-03-25 14:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/25/34796443.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "誰買的？鴻海最後一盤爆3,302張買單 股價收復200元、市值2.79兆元",
-            "link": "https://udn.com//news/story/7251/9402317?from=udn-catebreaknews_ch2",
-            "time": "2026-03-25 14:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
-            "title": "主動兆豐台灣豐收 ETF 00996A 掛牌首日大漲6.11%",
-            "link": "https://udn.com//news/story/123006/9402312?from=udn-catebreaknews_ch2",
-            "time": "2026-03-25 14:50"
         }
     ]
 }
