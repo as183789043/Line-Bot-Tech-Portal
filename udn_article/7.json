@@ -1,7 +1,25 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/25/34796043.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "多頭強力回擊！台股收盤上漲826點收33,439點 台積電上漲35元",
+            "link": "https://udn.com//news/story/7251/9402134?from=udn-catebreaknews_ch2",
+            "time": "2026-03-25 13:42"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/25/34795950.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "別把巴菲特理論套用買大盤！破除擇時迷思…持續買進才是獲利王道",
+            "link": "https://udn.com//news/story/12806/9402081?from=udn-catebreaknews_ch2",
+            "time": "2026-03-25 13:29"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/25/34795901.jpg&M=1&s=Y&x=0&y=0&sw=1193&sh=795&exp=3600&w=300",
+            "title": "美伊談判有進展？台股開高走高 盤中一度大漲逾千點",
+            "link": "https://udn.com//news/story/7251/9402048?from=udn-catebreaknews_ch2",
+            "time": "2026-03-25 13:11"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
             "title": "物價上漲、AI 需求增 玻纖布價格下不來 富喬一度漲停亮燈",
             "link": "https://udn.com//news/story/7251/9401987?from=udn-catebreaknews_ch2",
             "time": "2026-03-25 12:51"
@@ -11,24 +29,6 @@
             "title": "台股重返3萬3 台積電穩盤領軍 世界、南電等晶圓代工與載板 CCL 點火",
             "link": "https://udn.com//news/story/7251/9401959?from=udn-catebreaknews_ch2",
             "time": "2026-03-25 12:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
-            "title": "資金都躲進這裡？美股光通訊族群大漲 10檔矽光子概念股衝漲停",
-            "link": "https://udn.com//news/story/7251/9401910?from=udn-catebreaknews_ch2",
-            "time": "2026-03-25 12:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/25/34795675.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "信驊回神集結38千金！8檔漲停股揭資金流向「3大主線」",
-            "link": "https://udn.com//news/story/7251/9401837?from=udn-catebreaknews_ch2",
-            "time": "2026-03-25 12:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/25/34795451.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "009803重壓AI最強供應鏈！輝達大會點火台股…累積報酬狂飆70％",
-            "link": "https://udn.com//news/story/123006/9401730?from=udn-catebreaknews_ch2",
-            "time": "2026-03-25 11:34"
         }
     ]
 }
