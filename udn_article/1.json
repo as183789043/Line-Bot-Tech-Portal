@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/24/34792765.jpg&M=2&s=Y&x=0&y=0&sw=1031&sh=687&exp=3600&w=300",
+            "title": "美軍不再至金門協訓 我陸軍特戰任務轉型 海龍入山訓練",
+            "link": "https://udn.com//news/story/10930/9403676?from=udn-catebreaknews_ch2",
+            "time": "2026-03-26 07:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/25/34797989.png&M=1&s=Y&x=0&y=0&sw=1278&sh=853&exp=3600&w=300",
             "title": "宣判前夕 柯文哲為何想起2000年前的蘇格拉底？",
             "link": "https://udn.com//news/story/124199/9403599?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2026-03-26 00:34"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
             "title": "柯文哲批檢方 已故岳父帳簿都要查",
             "link": "https://udn.com//news/story/124199/9403454?from=udn-catebreaknews_ch2",
             "time": "2026-03-26 00:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_6.jpg&w=300",
-            "title": "京華城案被批「偵查大公開」 檢偵辦程序瑕疵多",
-            "link": "https://udn.com//news/story/124199/9403456?from=udn-catebreaknews_ch2",
-            "time": "2026-03-26 00:29"
         }
     ]
 }
