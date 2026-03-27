@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/27/34802678.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
+            "title": "油價破30元！怎麼加油最省 不可以加滿、早上晚上加油有差？破除省錢迷思",
+            "link": "https://udn.com//news/story/6839/9406378?from=udn-catebreaknews_ch2",
+            "time": "2026-03-27 12:05"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/27/34802718.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台海戰爭也不怕！IP廠力旺今年股價大漲6成 公司揭打入輝達供應鏈：我們是真正的AI",
+            "link": "https://udn.com//news/story/6839/9406406?from=udn-catebreaknews_ch2",
+            "time": "2026-03-27 12:02"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/27/34802044.png&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "為何不該把新人培訓丟給AI？大藥廠用「高管聊天日」換來百億營收",
             "link": "https://udn.com//news/story/6837/9406019?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "少子化的隱藏元凶是天天打卡？38國研究證實：一週一天WFH 生育率暴增14%",
             "link": "https://udn.com//news/story/6841/9404657?from=udn-catebreaknews_ch2",
             "time": "2026-03-26 15:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/26/34799114.jpg&M=1&s=Y&x=0&y=0&sw=992&sh=661&exp=3600&w=300",
-            "title": "職業傷害也分性別 女性小提琴家的「上肢耐力賽」",
-            "link": "https://udn.com//news/story/11184/9404118?from=udn-catebreaknews_ch2",
-            "time": "2026-03-26 12:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/26/34799113.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "「國臺交是非常愛音樂的樂團，也是我一生中最重要的樂團之一」 指揮家水藍與國臺交再續三年情緣",
-            "link": "https://udn.com//news/story/11184/9404117?from=udn-catebreaknews_ch2",
-            "time": "2026-03-26 12:00"
         }
     ]
 }
