@@ -1,7 +1,13 @@
 {
     "即時": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/29/34807338.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "沙烏地美軍基地遇襲E-3預警機受損 陸戰隊抵中東",
+            "link": "https://udn.com//news/story/124061/9409354?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-03-29 03:27"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
             "title": "中東佔全球鋁供應量9% 阿聯最大鋁廠遭伊朗空襲",
             "link": "https://udn.com//news/story/124061/9409338?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-03-29 01:59"
@@ -23,12 +29,6 @@
             "title": "路跑／PUMA螢光夜跑熱鬧登場 萬名跑者點亮台北夜空",
             "link": "https://udn.com//news/story/7001/9409294?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-03-28 23:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/28/34807137.png&M=1&s=Y&x=0&y=0&sw=1071&sh=714&exp=3600&w=300",
-            "title": "影／曳引車漏油釀連環摔 桃園龜山3騎士1行人受傷險象環生",
-            "link": "https://udn.com//news/story/7320/9409285?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-03-28 23:28"
         }
     ]
 }
