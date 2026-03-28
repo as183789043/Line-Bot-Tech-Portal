@@ -1,10 +1,16 @@
 {
     "地方": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/28/34807172.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/28/34807172.jpg&M=1&s=Y&x=0&y=104&sw=1280&sh=854&exp=3600&w=300",
             "title": "提升偏鄉就醫、就學便利 高雄「幸福巴士」跑遍大旗美9區",
             "link": "https://udn.com//news/story/7327/9409241?from=udn-catebreaknews_ch2",
             "time": "2026-03-29 00:02"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/28/34807108.jpg&M=1&s=Y&x=86&y=79&sw=962&sh=641&exp=3600&w=300",
+            "title": "廣角鏡／大甲媽會樓厝媽 信眾嗨鑽雙轎腳",
+            "link": "https://udn.com//news/story/7327/9409228?from=udn-catebreaknews_ch2",
+            "time": "2026-03-29 00:00"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/28/34807112.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
@@ -22,12 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/28/34807090.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "交通難題 水湳蓋超巨蛋 藍綠都質疑",
             "link": "https://udn.com//news/story/7325/9409202?from=udn-catebreaknews_ch2",
-            "time": "2026-03-29 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/28/34807082.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "廣角鏡／北捷木柵線通車30年 紀念展看見演進史",
-            "link": "https://udn.com//news/story/7323/9409198?from=udn-catebreaknews_ch2",
             "time": "2026-03-29 00:00"
         }
     ]
