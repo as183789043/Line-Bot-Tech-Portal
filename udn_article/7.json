@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/24/34793817.jpg&M=1&s=Y&x=0&y=52&sw=1280&sh=853&exp=3600&w=300",
+            "title": "油價動盪疊加美伊談判存在變數 台股面臨補跌回檔壓力增",
+            "link": "https://udn.com//news/story/7251/9409896?from=udn-catebreaknews_ch2",
+            "time": "2026-03-29 13:14"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/29/34807823.jpg&M=1&s=Y&x=0&y=70&sw=1280&sh=853&exp=3600&w=300",
             "title": "每月被動收入3萬！36歲上班族只買這3檔 一票網友跪了：穩領9％以上年化利息",
             "link": "https://udn.com//news/story/123006/9409588?from=udn-catebreaknews_ch2",
@@ -8,27 +14,21 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/28/34805305.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "市場缺方向 安聯投信：關注變動指標，逢波動布 AI 供應鏈",
+            "title": "市場缺方向 安聯投信：關注變動指標，逢波動布 AI供應鏈",
             "link": "https://udn.com//news/story/7251/9409679?from=udn-catebreaknews_ch2",
             "time": "2026-03-29 10:41"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/29/34808384.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "年輕人不再只買ETF 台股基金逆勢崛起",
+            "link": "https://udn.com//news/story/10103/9409666?from=udn-catebreaknews_ch2",
+            "time": "2026-03-29 10:38"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/28/34806524.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "本周台股／清明變盤前奏？本周決戰季線及馬其諾防線",
             "link": "https://udn.com//news/story/7251/9409562?from=udn-catebreaknews_ch2",
             "time": "2026-03-29 10:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/01/06/2/31223684.jpg&s=Y&x=54&y=3&sw=1189&sh=793&exp=3600&w=300",
-            "title": "四類戰爭受惠股有利可圖 台聚、華夏等獲買盤追捧",
-            "link": "https://udn.com//news/story/7251/9409231?from=udn-catebreaknews_ch2",
-            "time": "2026-03-29 02:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/16/2/34198485.jpg&s=Y&x=114&y=0&sw=1080&sh=720&exp=3600&w=300",
-            "title": "五大趨勢主流股資金匯聚 臻鼎、順達等可伺機切入",
-            "link": "https://udn.com//news/story/7251/9409261?from=udn-catebreaknews_ch2",
-            "time": "2026-03-29 02:17"
         }
     ]
 }
