@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/29/34808645.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=853&exp=3600&w=300",
+            "title": "本周10檔股債ETF除息 年化配息率最高達7.58%",
+            "link": "https://udn.com//news/story/123006/9410070?from=udn-catebreaknews_ch2",
+            "time": "2026-03-29 16:24"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/29/34808547.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "AI仍為主流 指數高點看個股表現",
+            "link": "https://udn.com//news/story/7251/9410008?from=udn-catebreaknews_ch2",
+            "time": "2026-03-29 15:25"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/24/34793817.jpg&M=1&s=Y&x=0&y=52&sw=1280&sh=853&exp=3600&w=300",
             "title": "油價動盪疊加美伊談判存在變數 台股面臨補跌回檔壓力增",
             "link": "https://udn.com//news/story/7251/9409896?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "市場缺方向 安聯投信：關注變動指標，逢波動布 AI供應鏈",
             "link": "https://udn.com//news/story/7251/9409679?from=udn-catebreaknews_ch2",
             "time": "2026-03-29 10:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/29/34808384.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "年輕人不再只買ETF 台股基金逆勢崛起",
-            "link": "https://udn.com//news/story/10103/9409666?from=udn-catebreaknews_ch2",
-            "time": "2026-03-29 10:38"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/28/34806524.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "本周台股／清明變盤前奏？本周決戰季線及馬其諾防線",
-            "link": "https://udn.com//news/story/7251/9409562?from=udn-catebreaknews_ch2",
-            "time": "2026-03-29 10:01"
         }
     ]
 }
