@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/30/34810844.jpg&M=1&s=Y&x=24&y=20&sw=1250&sh=834&exp=3600&w=300",
+            "title": "京站年省100萬度電、百事可樂增產20%！西門子揭：不用1年就回本、比ChatGPT更精準",
+            "link": "https://udn.com//news/story/6839/9411444?from=udn-catebreaknews_ch2",
+            "time": "2026-03-30 13:12"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/30/34810810.jpg&M=1&s=Y&x=68&y=24&sw=1178&sh=785&exp=3600&w=300",
+            "title": "中美未來科技角力 AI算力版圖重分配？半導體零關稅 專家解析台最惠國利多",
+            "link": "https://udn.com//news/story/6839/9411427?from=udn-catebreaknews_ch2",
+            "time": "2026-03-30 13:11"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/28/34806537.jpg&M=1&s=Y&x=68&y=0&sw=1161&sh=534&exp=3600&w=300",
             "title": "卓榮泰虛榮之旅 為何烏煙瘴氣",
             "link": "https://udn.com//news/story/11596/9408844?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "破除AI焦慮 請停止撒胡椒粉！",
             "link": "https://udn.com//news/story/6853/9404977?from=udn-catebreaknews_ch2",
             "time": "2026-03-29 09:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/26/34800634.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600&w=300",
-            "title": "卓越媒體集團打造「西太平洋戰情室」",
-            "link": "https://udn.com//news/story/6853/9404971?from=udn-catebreaknews_ch2",
-            "time": "2026-03-29 09:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/26/34800627.jpg&M=1&s=Y&x=0&y=144&sw=823&sh=549&exp=3600&w=300",
-            "title": "賴凱萱出任卓越農經社社長 為農漁產業搭起新的溝通橋梁",
-            "link": "https://udn.com//news/story/6853/9404967?from=udn-catebreaknews_ch2",
-            "time": "2026-03-29 09:19"
         }
     ]
 }
