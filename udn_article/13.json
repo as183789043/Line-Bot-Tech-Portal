@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/31/34814177.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=853&exp=3600&w=300",
+            "title": "光通訊產業喜迎大浪 這檔股價「33.85元→2540元」 謝金河：業者充滿信心加速前進",
+            "link": "https://udn.com//news/story/6839/9413637?from=udn-catebreaknews_ch2",
+            "time": "2026-03-31 13:05"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/31/34814159.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股大跌時該搶誰？「這檔」3月人氣大勝 楊倩琳拆解：為何小資族的心變了",
+            "link": "https://udn.com//news/story/6839/9413618?from=udn-catebreaknews_ch2",
+            "time": "2026-03-31 13:04"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/30/34810844.jpg&M=1&s=Y&x=24&y=20&sw=1250&sh=834&exp=3600&w=300",
             "title": "京站年省100萬度電、百事可樂增產20%！西門子揭：不用1年就回本、比ChatGPT更精準",
             "link": "https://udn.com//news/story/6839/9411444?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "卓榮泰虛榮之旅 為何烏煙瘴氣",
             "link": "https://udn.com//news/story/11596/9408844?from=udn-catebreaknews_ch2",
             "time": "2026-03-29 09:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/26/34800676.png&M=1&s=Y&x=0&y=0&sw=1137&sh=758&exp=3600&w=300",
-            "title": "隱性通膨持續滲透 悄然推升民生經濟",
-            "link": "https://udn.com//news/story/6853/9404996?from=udn-catebreaknews_ch2",
-            "time": "2026-03-29 09:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/26/34800644.jpg&M=1&s=Y&x=0&y=110&sw=852&sh=568&exp=3600&w=300",
-            "title": "破除AI焦慮 請停止撒胡椒粉！",
-            "link": "https://udn.com//news/story/6853/9404977?from=udn-catebreaknews_ch2",
-            "time": "2026-03-29 09:21"
         }
     ]
 }
