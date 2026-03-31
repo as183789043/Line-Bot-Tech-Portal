@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/01/34816387.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "川普向盟國表不滿 美防長不願重申對北約的防衛承諾",
+            "link": "https://udn.com//news/story/124061/9415341?from=udn-catebreaknews_ch2",
+            "time": "2026-04-01 06:02"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/01/34816372.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "市場傳美伊戰事降溫 美股道瓊強彈逾千點、台積電ADR大漲6.78%",
             "link": "https://udn.com//news/story/6811/9415316?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2026-04-01 02:50"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
             "title": "大馬小幅上修GDP成長預測",
             "link": "https://udn.com//news/story/6811/9415090?from=udn-catebreaknews_ch2",
             "time": "2026-04-01 02:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
-            "title": "美科技股過熱疑慮漸消除",
-            "link": "https://udn.com//news/story/6811/9415088?from=udn-catebreaknews_ch2",
-            "time": "2026-04-01 02:48"
         }
     ]
 }
