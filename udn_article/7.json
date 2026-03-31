@@ -1,13 +1,25 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/04/34730772.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "台股下跌795點收31,722點失守季線 今年3月下挫3,642點",
+            "link": "https://udn.com//news/story/7251/9414008?from=udn-catebreaknews_ch2",
+            "time": "2026-03-31 13:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/31/34814671.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "台積電（2330）跌破1800元能進？閉眼隨便買…多頭總司令張錫：明年上看3000元",
+            "link": "https://udn.com//news/story/12806/9413991?from=udn-catebreaknews_ch2",
+            "time": "2026-03-31 13:43"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
             "title": "出貨翻倍成長 法人調高這檔低軌衛星供應鏈目標價",
             "link": "https://udn.com//news/story/7251/9413833?from=udn-catebreaknews_ch2",
             "time": "2026-03-31 12:48"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
             "title": "找不到輔導券商 國鼎公告4月10日起終止興櫃買賣、股價剩4元",
             "link": "https://udn.com//news/story/7254/9413554?from=udn-catebreaknews_ch2",
             "time": "2026-03-31 11:29"
@@ -17,18 +29,6 @@
             "title": "台積電（2330）跌破季線外資卻喊上2800元！PTT酸爆：出貨文你倒是買啊",
             "link": "https://udn.com//news/story/12806/9413481?from=udn-catebreaknews_ch2",
             "time": "2026-03-31 11:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/23/34788356.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "AI熱潮能救記憶體？陳重銘看戲示警「歷史重演」：增產恐引發殺價競爭",
-            "link": "https://udn.com//news/story/7251/9413504?from=udn-catebreaknews_ch2",
-            "time": "2026-03-31 11:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/19/34778494.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "投資沒有最好、只有最適合！杉本點009816推薦3類人存股：長期參與成長",
-            "link": "https://udn.com//news/story/123006/9413364?from=udn-catebreaknews_ch2",
-            "time": "2026-03-31 10:46"
         }
     ]
 }
