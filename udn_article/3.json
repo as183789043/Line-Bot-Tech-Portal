@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/01/34816289.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "伊朗總統重申停戰意願 道瓊噴漲逾1,000點 台積ADR飆升5%",
+            "link": "https://udn.com//news/story/6811/9415264?from=udn-catebreaknews_ch2",
+            "time": "2026-04-01 01:14"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/31/34816150.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600&w=300",
+            "title": "難題甩鍋… 川普想抽腿 要盟友打通荷莫茲海峽",
+            "link": "https://udn.com//news/story/124061/9415190?from=udn-catebreaknews_ch2",
+            "time": "2026-04-01 00:16"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
+            "title": "IMF示警 全球高物價、低成長",
+            "link": "https://udn.com//news/story/6811/9415175?from=udn-catebreaknews_ch2",
+            "time": "2026-04-01 00:05"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/31/34816074.jpg&M=1&s=Y&x=0&y=281&sw=854&sh=569&exp=3600&w=300",
             "title": "中巴外長發布中東和平5倡議 促開啟談判、盡快復航荷莫茲海峽",
             "link": "https://udn.com//news/story/124061/9415072?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "3艘陸大型貨輪過航荷莫茲海峽 美伊戰後頭一遭",
             "link": "https://udn.com//news/story/124061/9415079?from=udn-catebreaknews_ch2",
             "time": "2026-04-01 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/31/34816080.jpg&M=1&s=Y&x=0&y=0&sw=1206&sh=804&exp=3600&w=300",
-            "title": "威攝共軍 日兩地首度部署長程飛彈",
-            "link": "https://udn.com//news/story/6809/9415086?from=udn-catebreaknews_ch2",
-            "time": "2026-04-01 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/31/34816132.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "戰事難收場 川普似已「沒牌」",
-            "link": "https://udn.com//news/story/6809/9415155?from=udn-catebreaknews_ch2",
-            "time": "2026-04-01 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/31/34816192.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "川普宣稱不會在伊朗待太久 美防長則說未來幾天戰局進入決定性階段",
-            "link": "https://udn.com//news/story/124061/9415224?from=udn-catebreaknews_ch2",
-            "time": "2026-03-31 23:53"
         }
     ]
 }
