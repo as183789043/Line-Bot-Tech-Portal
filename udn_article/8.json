@@ -1,13 +1,19 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/01/34816348.png&M=1&s=Y&x=0&y=0&sw=1212&sh=808&exp=3600&w=300",
+            "title": "威尼斯雙年展台灣館 「鬱卒的平面」 李亦凡解讀手機世代的扁平與焦慮",
+            "link": "https://udn.com//news/story/7266/9415300?from=udn-catebreaknews_ch2",
+            "time": "2026-04-01 03:12"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_9.jpg&w=300",
             "title": "【慢慢讀．詩】洪淑苓／車過台東大橋──給敻虹",
             "link": "https://udn.com//news/story/7272/9414378?from=udn-catebreaknews_ch2",
             "time": "2026-04-01 00:29"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/31/34816191.jpg&M=1&s=Y&x=0&y=0&sw=959&sh=640&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/31/34816191.jpg&M=1&s=Y&x=0&y=284&sw=959&sh=640&exp=3600&w=300",
             "title": "健康你我他／閱讀三國演義 發掘競合智慧",
             "link": "https://udn.com//news/story/7266/9415223?from=udn-catebreaknews_ch2",
             "time": "2026-04-01 00:23"
@@ -23,12 +29,6 @@
             "title": "食在營養／菠菜助抗氧化 結石體質不宜多吃",
             "link": "https://udn.com//news/story/7266/9415214?from=udn-catebreaknews_ch2",
             "time": "2026-04-01 00:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/31/34816176.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600&w=300",
-            "title": "健康主題館／國人缺牙危機 年紀愈大愈嚴重",
-            "link": "https://udn.com//news/story/7266/9415209?from=udn-catebreaknews_ch2",
-            "time": "2026-04-01 00:20"
         }
     ]
 }
