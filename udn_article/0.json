@@ -1,6 +1,18 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/02/34820179.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "今雨勢趨緩北部回溫 清明時節雨紛紛 兩波鋒面影響防劇烈天氣",
+            "link": "https://udn.com//news/story/7266/9417923?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-04-02 06:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/02/34820149.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "嘉義濃霧今明回溫 吳德榮：清明連假雷雨突襲 周六強對流威脅大降溫",
+            "link": "https://udn.com//news/story/7266/9417892?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-04-02 05:48"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/02/34820147.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=853&exp=3600&w=300",
             "title": "健康苗條女打猛健樂瘋狂嘔吐 酮酸中毒急住院 蘇一峰曝原因和解方",
             "link": "https://udn.com//news/story/7266/9417890?from=udn-ch1_breaknews-1-0-news",
@@ -17,18 +29,6 @@
             "title": "1張圖秒懂清明連假天氣 周六鋒面正式報到 全台恐大雷雨",
             "link": "https://udn.com//news/story/7266/9417885?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-04-02 05:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/02/34820132.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "中東終戰現曙光 美股收高、道瓊漲224點",
-            "link": "https://udn.com//news/story/6811/9417880?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-04-02 04:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/02/34820133.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "伊朗總統致信美國民眾 溫情攻勢質疑川普師出無名",
-            "link": "https://udn.com//news/story/124061/9417877?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-04-02 04:54"
         }
     ]
 }
