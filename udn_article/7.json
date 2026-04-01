@@ -1,13 +1,19 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/30/34812647.jpg&M=2&s=Y&x=0&y=0&sw=1201&sh=801&exp=3600&w=300",
+            "title": "高算力AI基建潮爆發 高階晶圓檢測與先進封測股受惠大！9檔逢低布局設備股",
+            "link": "https://udn.com//news/story/12806/9416689?from=udn-catebreaknews_ch2",
+            "time": "2026-04-02 07:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/02/34820058.jpg&M=1&s=Y&x=0&y=0&sw=1216&sh=810&exp=3600&w=300",
             "title": "15檔台股ETF配息 揭曉",
             "link": "https://udn.com//news/story/123006/9417597?from=udn-catebreaknews_ch2",
             "time": "2026-04-02 01:27"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
             "title": "越南、陸股 上周創佳績",
             "link": "https://udn.com//news/story/10103/9417599?from=udn-catebreaknews_ch2",
             "time": "2026-04-02 01:24"
@@ -23,12 +29,6 @@
             "title": "海外股票型 美股人氣旺",
             "link": "https://udn.com//news/story/10103/9417512?from=udn-catebreaknews_ch2",
             "time": "2026-04-02 01:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
-            "title": "全球基建商品 抗波動",
-            "link": "https://udn.com//news/story/10103/9417504?from=udn-catebreaknews_ch2",
-            "time": "2026-04-02 01:22"
         }
     ]
 }

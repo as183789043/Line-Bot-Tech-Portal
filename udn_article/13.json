@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/01/34818642.jpg&M=1&s=Y&x=0&y=0&sw=992&sh=661&exp=3600&w=300",
+            "title": "音樂課：提升孩子學習表現的秘密武器？",
+            "link": "https://udn.com//news/story/11184/9416725?from=udn-catebreaknews_ch2",
+            "time": "2026-04-02 07:10"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/01/34818689.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600&w=300",
+            "title": "40年的想望成真 朱宗慶打擊樂團「新居」落腳北投製片廠",
+            "link": "https://udn.com//news/story/11184/9416738?from=udn-catebreaknews_ch2",
+            "time": "2026-04-02 07:10"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/01/34817218.jpg&M=1&s=Y&x=0&y=0&sw=1075&sh=717&exp=3600&w=300",
             "title": "高效救災科技×回收再生解方 科技應用實踐公益價值",
             "link": "https://udn.com//news/story/6905/9415863?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "工研院電光系統所所長張世杰：布局臺灣半導體下一個50年",
             "link": "https://udn.com//news/story/6905/9415810?from=udn-catebreaknews_ch2",
             "time": "2026-04-01 15:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/01/34817057.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
-            "title": "臺灣12吋先進半導體研發基地動土",
-            "link": "https://udn.com//news/story/6905/9415777?from=udn-catebreaknews_ch2",
-            "time": "2026-04-01 15:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/01/34817298.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
-            "title": "E-CUBE供電×再生筆電募集 丹娜絲救災科技志工力挺前線",
-            "link": "https://udn.com//news/story/6905/9415905?from=udn-catebreaknews_ch2",
-            "time": "2026-04-01 15:37"
         }
     ]
 }
