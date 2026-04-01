@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/30/34812062.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=762&exp=3600&w=300",
+            "title": "柯文哲不選 才是最大咖",
+            "link": "https://udn.com//news/story/11596/9412141?from=udn-catebreaknews_ch2",
+            "time": "2026-04-01 10:24"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/31/34814621.jpg&M=1&s=Y&x=0&y=106&sw=1126&sh=752&exp=3600&w=300",
             "title": "塑膠袋喊漲掀掃貨潮 伊朗石油危機從衣鞋到機械 誰最慘？",
             "link": "https://udn.com//news/story/6841/9413918?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "京站年省100萬度電、百事可樂增產20%！西門子揭：不用1年就回本、比ChatGPT更精準",
             "link": "https://udn.com//news/story/6839/9411444?from=udn-catebreaknews_ch2",
             "time": "2026-03-30 13:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/30/34810810.jpg&M=1&s=Y&x=68&y=24&sw=1178&sh=785&exp=3600&w=300",
-            "title": "中美未來科技角力 AI算力版圖重分配？半導體零關稅 專家解析台最惠國利多",
-            "link": "https://udn.com//news/story/6839/9411427?from=udn-catebreaknews_ch2",
-            "time": "2026-03-30 13:11"
         }
     ]
 }
