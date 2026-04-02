@@ -1,8 +1,14 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/02/34823407.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "又是川普這張嘴！台指期夜盤翻黑 專家解析「死貓跳」恐回測3萬點",
+            "link": "https://udn.com//news/story/7255/9419857?from=udn-catebreaknews_ch2",
+            "time": "2026-04-02 21:21"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/02/34823384.png&M=1&s=Y&x=130&y=0&sw=1151&sh=767&exp=3600&w=300",
-            "title": "台積電鉅額交易溢價8.2％多頭看好利空出盡？ADR盤前卻重挫4%不給面子",
+            "title": "台積電鉅額交易溢價10.8％多頭看好利空出盡？ADR盤前卻重挫4%不給面子",
             "link": "https://udn.com//news/story/7253/9419839?from=udn-catebreaknews_ch2",
             "time": "2026-04-02 21:02"
         },
@@ -23,12 +29,6 @@
             "title": "南亞科3月營收再衝新高達181.7億元 年增5.6倍",
             "link": "https://udn.com//news/story/7253/9419608?from=udn-catebreaknews_ch2",
             "time": "2026-04-02 18:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/02/34823020.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "戰事多變波動加劇…台股2日由紅翻黑 清明後上演季線保衛戰",
-            "link": "https://udn.com//news/story/7251/9419534?from=udn-catebreaknews_ch2",
-            "time": "2026-04-02 17:58"
         }
     ]
 }
