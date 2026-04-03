@@ -1,13 +1,25 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/02/34820058.jpg&M=1&s=Y&x=0&y=0&sw=1216&sh=810&exp=3600&w=300",
+            "title": "15檔台股ETF配息 揭曉",
+            "link": "https://udn.com//news/story/7253/9417597?from=udn-catebreaknews_ch2",
+            "time": "2026-04-04 05:22"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/02/34820056.png&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "千億台股ETF 再添一檔",
+            "link": "https://udn.com//news/story/7253/9417526?from=udn-catebreaknews_ch2",
+            "time": "2026-04-04 05:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/01/34816242.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台股四題材 點燃多頭火種 有利提振市場信心",
             "link": "https://udn.com//news/story/7251/9421502?from=udn-catebreaknews_ch2",
             "time": "2026-04-04 01:36"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
             "title": "活水來了 2,275億股息助攻台股",
             "link": "https://udn.com//news/story/7251/9421444?from=udn-catebreaknews_ch2",
             "time": "2026-04-04 01:26"
@@ -17,18 +29,6 @@
             "title": "Q2基金操作 繫好安全帶",
             "link": "https://udn.com//news/story/10103/9421455?from=udn-catebreaknews_ch2",
             "time": "2026-04-03 23:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
-            "title": "四大金律 拉高報酬率",
-            "link": "https://udn.com//news/story/10103/9421461?from=udn-catebreaknews_ch2",
-            "time": "2026-04-03 23:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/03/34825714.jpg&M=2&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "巴西基金 中長線看俏",
-            "link": "https://udn.com//news/story/10103/9421465?from=udn-catebreaknews_ch2",
-            "time": "2026-04-03 23:46"
         }
     ]
 }
