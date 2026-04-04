@@ -1,6 +1,12 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/04/34826121.jpg&M=2&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "兩岸觀策／鄭麗文「頂壓前行」 北京應釋3大和平紅利",
+            "link": "https://udn.com//news/story/7331/9422960?from=udn-catebreaknews_ch2",
+            "time": "2026-04-05 07:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/04/34827586.png&M=1&s=Y&x=0&y=0&sw=1184&sh=789&exp=3600&w=300",
             "title": "DeepSeek 新模型將採華為晶片 捨棄輝達 重塑全球競爭格局",
             "link": "https://udn.com//news/story/7333/9422801?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2026-04-05 01:19"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_1.jpg&w=300",
             "title": "京東攜榮耀 攻海外市場",
             "link": "https://udn.com//news/story/7333/9422808?from=udn-catebreaknews_ch2",
             "time": "2026-04-05 01:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_1.jpg&w=300",
-            "title": "美擴大封殺陸設備進口",
-            "link": "https://udn.com//news/story/7331/9422807?from=udn-catebreaknews_ch2",
-            "time": "2026-04-05 01:13"
         }
     ]
 }
