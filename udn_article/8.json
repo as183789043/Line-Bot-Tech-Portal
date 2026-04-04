@@ -1,6 +1,12 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/05/34827799.jpg&M=1&s=Y&x=0&y=0&sw=1081&sh=721&exp=3600&w=300",
+            "title": "花蓮規模5.7地震「今年最大」 氣象署：未來3天恐有規模5.5餘震",
+            "link": "https://udn.com//news/story/7266/9422905?from=udn-catebreaknews_ch2",
+            "time": "2026-04-05 05:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/05/34827770.png&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
             "title": "深夜地牛晃動…花蓮凌晨1:14規模5.7地震 18縣市有感",
             "link": "https://udn.com//news/story/7266/9422883?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2026-04-05 00:17"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_5.jpg&w=300",
             "title": "鐘點移工服務 申請長時數居多",
             "link": "https://udn.com//news/story/7266/9422790?from=udn-catebreaknews_ch2",
             "time": "2026-04-05 00:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/04/34827578.jpg&M=1&s=Y&x=0&y=45&sw=1280&sh=853&exp=3600&w=300",
-            "title": "來台奉獻一甲子、宜蘭童玩節推手 秘克琳神父91歲辭世",
-            "link": "https://udn.com//news/story/7266/9422779?from=udn-catebreaknews_ch2",
-            "time": "2026-04-05 00:08"
         }
     ]
 }
