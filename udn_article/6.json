@@ -1,13 +1,19 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/03/34824546.jpg&M=2&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "半導體風雲／晶片關鍵「ABF載板」成牽動AI算力隱形瓶頸",
+            "link": "https://udn.com//news/story/7240/9425525?from=udn-catebreaknews_ch2",
+            "time": "2026-04-07 07:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/06/34830976.jpg&M=1&s=Y&x=42&y=0&sw=1138&sh=759&exp=3600&w=300",
             "title": "穩定供電！台電調度燃煤機組 5月起麥寮一號、三號機恢復運轉三個月",
             "link": "https://udn.com//news/story/7238/9425347?from=udn-catebreaknews_ch2",
             "time": "2026-04-07 02:48"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_9.jpg&w=300",
             "title": "蘋果 Mac 算力進化 新創助攻",
             "link": "https://udn.com//news/story/7240/9425298?from=udn-catebreaknews_ch2",
             "time": "2026-04-07 02:40"
@@ -19,16 +25,10 @@
             "time": "2026-04-07 02:38"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
             "title": "輝達拚 AI-RAN 商業化落地 進入關鍵期",
             "link": "https://udn.com//news/story/7240/9425300?from=udn-catebreaknews_ch2",
             "time": "2026-04-07 02:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/27/34801861.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "群聯「養龍蝦神器」上架電商平台兩小時就賣光 客戶大追單",
-            "link": "https://udn.com//news/story/7240/9425296?from=udn-catebreaknews_ch2",
-            "time": "2026-04-07 02:33"
         }
     ]
 }
