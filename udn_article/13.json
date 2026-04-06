@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/03/34823757.jpg&M=1&s=Y&x=0&y=0&sw=1064&sh=710&exp=3600&w=300",
+            "title": "兩岸和平再破冰 期許「賴鄭會」開好局",
+            "link": "https://udn.com//news/story/11596/9420188?from=udn-catebreaknews_ch2",
+            "time": "2026-04-06 14:45"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/31/34813425.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "今天 你獨自就餐了嗎？",
             "link": "https://udn.com//news/story/7025/9413176?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "我們會成為海鞘嗎",
             "link": "https://udn.com//news/story/7025/9413143?from=udn-catebreaknews_ch2",
             "time": "2026-04-05 11:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/05/34827901.jpg&M=1&s=Y&x=51&y=0&sw=1085&sh=723&exp=3600&w=300",
-            "title": "AI創新百強》面試率多2倍、企業找人更快 104怎用AI破解履歷通膨時代？",
-            "link": "https://udn.com//news/story/6837/9423016?from=udn-catebreaknews_ch2",
-            "time": "2026-04-05 09:09"
         }
     ]
 }
