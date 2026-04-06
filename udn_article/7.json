@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
+            "title": "日韓股市雙雙走揚 站上重要關卡",
+            "link": "https://udn.com//news/story/7251/9424556?from=udn-catebreaknews_ch2",
+            "time": "2026-04-06 12:34"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/06/34829864.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "台股3月暴跌「現金為王」成主流 一年期存款利率最高衝1.81%",
+            "link": "https://udn.com//news/story/7251/9424362?from=udn-catebreaknews_ch2",
+            "time": "2026-04-06 10:51"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/13/34758242.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台股法說行情有影 有望催動報復性反彈攻勢",
             "link": "https://udn.com//news/story/7251/9423943?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2026-04-06 00:28"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
             "title": "一周盤前股市解析／光通訊、CCL、散熱 聚焦",
             "link": "https://udn.com//news/story/7251/9423702?from=udn-catebreaknews_ch2",
             "time": "2026-04-06 00:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
-            "title": "就市論勢／太空衛星、AI 可短打",
-            "link": "https://udn.com//news/story/7251/9423704?from=udn-catebreaknews_ch2",
-            "time": "2026-04-06 00:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
-            "title": "順達3月營收月增68% 衝刺 BBU",
-            "link": "https://udn.com//news/story/7254/9423713?from=udn-catebreaknews_ch2",
-            "time": "2026-04-06 00:23"
         }
     ]
 }
