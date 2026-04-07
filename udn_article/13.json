@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/07/34832558.jpg&M=1&s=Y&x=162&y=108&sw=1118&sh=746&exp=3600&w=300",
+            "title": "跟ChatGPT愈聊愈笨？MIT科學家罕見提前公開研究",
+            "link": "https://udn.com//news/story/6841/9426382?from=udn-catebreaknews_ch2",
+            "time": "2026-04-07 13:17"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/07/34832103.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "每年這時 世界都有大事！謝金河揭去年清明「關稅秘辛」：這次川普會給驚喜還驚嚇？",
             "link": "https://udn.com//news/story/6839/9426095?from=udn-catebreaknews_ch2",
@@ -22,12 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/31/34813425.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "今天 你獨自就餐了嗎？",
             "link": "https://udn.com//news/story/7025/9413176?from=udn-catebreaknews_ch2",
-            "time": "2026-04-05 11:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/31/34813403.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600&w=300",
-            "title": "立大功的小字條",
-            "link": "https://udn.com//news/story/7025/9413160?from=udn-catebreaknews_ch2",
             "time": "2026-04-05 11:05"
         }
     ]
