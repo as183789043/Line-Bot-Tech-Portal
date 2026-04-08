@@ -1,13 +1,25 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/08/34837542.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "美伊停火注入強心針…台股開趴 衝出三亮點",
+            "link": "https://udn.com//news/story/7251/9430204?from=udn-catebreaknews_ch2",
+            "time": "2026-04-09 02:08"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/01/34817601.jpg&M=1&s=Y&x=0&y=78&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積目標價 高盛喊2,750元",
+            "link": "https://udn.com//news/story/7251/9430256?from=udn-catebreaknews_ch2",
+            "time": "2026-04-09 01:21"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/08/34837719.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "永笙暫定承銷價21元、4月下旬上市 細胞三箭助攻營運…今年拚授權",
             "link": "https://udn.com//news/story/7254/9430081?from=udn-catebreaknews_ch2",
             "time": "2026-04-08 22:23"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
             "title": "旺矽投資20億擴產 首季營收創新高",
             "link": "https://udn.com//news/story/7254/9430001?from=udn-catebreaknews_ch2",
             "time": "2026-04-08 22:10"
@@ -17,18 +29,6 @@
             "title": "台積電法說會行情上路 半導體ETF 4月績效馬力夯",
             "link": "https://udn.com//news/story/123006/9430043?from=udn-catebreaknews_ch2",
             "time": "2026-04-08 22:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
-            "title": "喬山營收／受惠全球健身市場需求增溫 3月及首季雙創同期新高",
-            "link": "https://udn.com//news/story/7252/9430023?from=udn-catebreaknews_ch2",
-            "time": "2026-04-08 21:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/08/34837680.jpg&M=1&s=Y&x=0&y=63&sw=1280&sh=853&exp=3600&w=300",
-            "title": "大盤飆「台股被動ETF嗨翻」！前十強單日大漲逾6% 00947 、00894衝前二",
-            "link": "https://udn.com//news/story/123006/9430019?from=udn-catebreaknews_ch2",
-            "time": "2026-04-08 21:57"
         }
     ]
 }
