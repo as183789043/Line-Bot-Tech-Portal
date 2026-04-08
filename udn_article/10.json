@@ -1,6 +1,12 @@
 {
     "評論": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/05/34829258.jpg&M=2&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
+            "title": "經濟日報社論／從小龍蝦熱潮 看 AI 創新機會與挑戰",
+            "link": "https://udn.com//news/story/7338/9430167?from=udn-catebreaknews_ch2",
+            "time": "2026-04-09 01:59"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/09/34837975.jpg&M=1&s=Y&x=18&y=47&sw=1209&sh=806&exp=3600&w=300",
             "title": "聯合報黑白集／賴清德看看李在明",
             "link": "https://udn.com//news/story/7338/9430269?from=udn-catebreaknews_ch2",
@@ -13,22 +19,16 @@
             "time": "2026-04-09 00:56"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_6.jpg&w=300",
             "title": "憲法現狀 維持台海安全最可行",
             "link": "https://udn.com//news/story/7339/9430139?from=udn-catebreaknews_ch2",
             "time": "2026-04-09 00:06"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_8.jpg&w=300",
             "title": "美伊如寇讎猶可談 兩岸怎不能談？",
             "link": "https://udn.com//news/story/11091/9430144?from=udn-catebreaknews_ch2",
             "time": "2026-04-09 00:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_4.jpg&w=300",
-            "title": "文化認同 才是兩岸融合最深層、持久力量 以書同文 迎和平未來",
-            "link": "https://udn.com//news/story/7339/9430151?from=udn-catebreaknews_ch2",
-            "time": "2026-04-09 00:04"
         }
     ]
 }
