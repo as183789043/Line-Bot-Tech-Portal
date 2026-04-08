@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/09/34838168.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "【專家之眼】月球歸來，人類未竟的旅程",
+            "link": "https://udn.com//news/story/6809/9430429?from=udn-catebreaknews_ch2",
+            "time": "2026-04-09 06:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/09/34838093.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "埋怨北約不支援美軍 川普：他們沒有通過考驗",
             "link": "https://udn.com//news/story/124061/9430365?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2026-04-09 02:53"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
             "title": "日軟性飲料販賣機數量下滑",
             "link": "https://udn.com//news/story/6811/9430183?from=udn-catebreaknews_ch2",
             "time": "2026-04-09 02:12"
@@ -23,12 +29,6 @@
             "title": "川普髮夾彎 12小時 TACO 從「文明消亡」威脅變宣布停火兩周",
             "link": "https://udn.com//news/story/124061/9430160?from=udn-catebreaknews_ch2",
             "time": "2026-04-09 01:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
-            "title": "美伊同意暫時停火 伊朗獲准收荷莫茲通行費",
-            "link": "https://udn.com//news/story/124061/9430163?from=udn-catebreaknews_ch2",
-            "time": "2026-04-09 01:50"
         }
     ]
 }
