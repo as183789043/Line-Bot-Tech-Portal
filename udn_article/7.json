@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/09/34841262.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=853&exp=3600&w=300",
+            "title": "騰雲營收／3月8,171萬元年增22.44% 第1季2.1億元、淡季不淡年增35.4%",
+            "link": "https://udn.com//news/story/7254/9432458?from=udn-catebreaknews_ch2",
+            "time": "2026-04-09 22:02"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/09/34841187.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "市場聚焦美伊談判！台指期夜盤震盪翻黑 關鍵變數一次看",
             "link": "https://udn.com//news/story/7255/9432400?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台積電、緯穎領銜AI族群飆漲 證交所將33檔列入注意股",
             "link": "https://udn.com//news/story/7251/9432236?from=udn-catebreaknews_ch2",
             "time": "2026-04-09 19:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/09/34841028.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "天品營收／迎產能滿載盛況 3月狂飆至1.8億元、年增22倍",
-            "link": "https://udn.com//news/story/7254/9432213?from=udn-catebreaknews_ch2",
-            "time": "2026-04-09 19:29"
         }
     ]
 }
