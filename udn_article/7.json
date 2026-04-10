@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/11/34844887.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "史上最強 台積電首季營收衝上1.1兆元",
+            "link": "https://udn.com//news/story/7253/9434810?from=udn-catebreaknews_ch2",
+            "time": "2026-04-11 00:03"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/10/34844712.jpg&M=1&s=Y&x=0&y=0&sw=1249&sh=832&exp=3600&w=300",
             "title": "00981A 規模連兩日超車高股息 ETF 攀升至台股第七大",
             "link": "https://udn.com//news/story/123006/9434699?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "利多消息不斷 台指期夜盤由黑翻紅",
             "link": "https://udn.com//news/story/7255/9434630?from=udn-catebreaknews_ch2",
             "time": "2026-04-10 21:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/10/34844570.jpg&M=1&s=Y&x=0&y=0&sw=1081&sh=721&exp=3600&w=300",
-            "title": "集雅社營收／3月3.61億元年增3.15% 第1季12.28億元續創歷史同期新高",
-            "link": "https://udn.com//news/story/7254/9434546?from=udn-catebreaknews_ch2",
-            "time": "2026-04-10 20:23"
         }
     ]
 }
