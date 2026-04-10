@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/10/34844690.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "金價難測 專家喊適度持有",
+            "link": "https://udn.com//news/story/10103/9434686?from=udn-catebreaknews_ch2",
+            "time": "2026-04-11 01:17"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
+            "title": "錢進礦業基金 布局更廣泛",
+            "link": "https://udn.com//news/story/10103/9434682?from=udn-catebreaknews_ch2",
+            "time": "2026-04-11 01:16"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/11/34844949.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "基金特蒐／AI 收益成長基金 迎豐收",
+            "link": "https://udn.com//news/story/10103/9434679?from=udn-catebreaknews_ch2",
+            "time": "2026-04-11 01:16"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/11/34844887.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "史上最強 台積電首季營收衝上1.1兆元",
             "link": "https://udn.com//news/story/7253/9434810?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "00981A 規模連兩日超車高股息 ETF 攀升至台股第七大",
             "link": "https://udn.com//news/story/123006/9434699?from=udn-catebreaknews_ch2",
             "time": "2026-04-10 22:15"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/09/2/34144785.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "國發基金要賣聯合再生了 10日申報轉讓逾4,200張",
-            "link": "https://udn.com//news/story/7251/9434667?from=udn-catebreaknews_ch2",
-            "time": "2026-04-10 21:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/10/34843594.jpg&M=1&s=Y&x=0&y=0&sw=1191&sh=794&exp=3600&w=300",
-            "title": "台塑四寶首季獲利全轉盈 3月營收年、月雙增",
-            "link": "https://udn.com//news/story/7251/9434659?from=udn-catebreaknews_ch2",
-            "time": "2026-04-10 21:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/31/2/34070663.jpg&s=Y&x=0&y=0&sw=1238&sh=825&exp=3600&w=300",
-            "title": "利多消息不斷 台指期夜盤由黑翻紅",
-            "link": "https://udn.com//news/story/7255/9434630?from=udn-catebreaknews_ch2",
-            "time": "2026-04-10 21:14"
         }
     ]
 }
