@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/11/34846075.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "本周台股／戰火喊停台股強彈 外資真認錯開始回補了？",
+            "link": "https://udn.com//news/story/7238/9436404?from=udn-catebreaknews_ch2",
+            "time": "2026-04-12 10:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/11/34846061.jpg&M=2&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "半導體風雲／不只4大廠入股南亞科？AI記憶體戰局成形",
+            "link": "https://udn.com//news/story/7240/9436323?from=udn-catebreaknews_ch2",
+            "time": "2026-04-12 09:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/10/34844046.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "匯市最前線／台幣31.65~31.85元波動",
             "link": "https://udn.com//news/story/7239/9436097?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2026-04-12 02:01"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_5.jpg&w=300",
             "title": "群聯感謝員工 加發4億獎金",
             "link": "https://udn.com//news/story/7240/9436119?from=udn-catebreaknews_ch2",
             "time": "2026-04-12 01:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_8.jpg&w=300",
-            "title": "油價凍漲 中油已吸收百億",
-            "link": "https://udn.com//news/story/7238/9436147?from=udn-catebreaknews_ch2",
-            "time": "2026-04-12 01:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/12/34846951.jpg&M=1&s=Y&x=0&y=28&sw=1280&sh=852&exp=3600&w=300",
-            "title": "財政部將公布3月稅收",
-            "link": "https://udn.com//news/story/7243/9436106?from=udn-catebreaknews_ch2",
-            "time": "2026-04-12 00:52"
         }
     ]
 }
