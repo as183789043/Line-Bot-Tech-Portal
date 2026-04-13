@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/14/34852157.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "川普稱伊朗致電 想與美國達成協議",
+            "link": "https://udn.com//news/story/6809/9439757?from=udn-catebreaknews_ch2",
+            "time": "2026-04-14 02:29"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/14/34852147.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "美國封鎖荷莫茲海峽 川普：伊方致電迫切希望達成協議",
+            "link": "https://udn.com//news/story/124061/9439749?from=udn-catebreaknews_ch2",
+            "time": "2026-04-14 02:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
             "title": "貪腐體系拖累匈牙利經濟 大陸商界：奧班下台可能更好",
             "link": "https://udn.com//news/story/6809/9439705?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "封鎖荷莫茲海峽 恐更不利美方",
             "link": "https://udn.com//news/story/124061/9439701?from=udn-catebreaknews_ch2",
             "time": "2026-04-14 00:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/14/34852076.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "美擬對船舶登檢 專家：執行難度高",
-            "link": "https://udn.com//news/story/124061/9439699?from=udn-catebreaknews_ch2",
-            "time": "2026-04-14 00:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/13/34852026.jpg&M=1&s=Y&x=73&y=0&sw=1081&sh=720&exp=3600&w=300",
-            "title": "川普封鎖荷莫茲海峽 僅限進出伊朗船隻",
-            "link": "https://udn.com//news/story/124061/9439695?from=udn-catebreaknews_ch2",
-            "time": "2026-04-14 00:19"
         }
     ]
 }
