@@ -1,19 +1,25 @@
 {
     "評論": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/15/34855593.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/25/0/34538861.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "經濟日報社論／美中在AI競賽的決勝關鍵",
+            "link": "https://udn.com//news/story/7338/9441940?from=udn-catebreaknews_ch2",
+            "time": "2026-04-15 01:34"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/15/34855593.jpg&M=1&s=Y&x=48&y=0&sw=1106&sh=737&exp=3600&w=300",
             "title": "聯合報社論／綠營助理、網軍都當共諜，才是玩火過頭",
             "link": "https://udn.com//news/story/7338/9441911?from=udn-catebreaknews_ch2",
             "time": "2026-04-15 00:27"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/15/34855591.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/15/34855591.jpg&M=1&s=Y&x=0&y=91&sw=1280&sh=854&exp=3600&w=300",
             "title": "聯合報黑白集／習近平的新人設",
             "link": "https://udn.com//news/story/7338/9441912?from=udn-catebreaknews_ch2",
             "time": "2026-04-15 00:14"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_4.jpg&w=300",
             "title": "薛承泰／生育率破世界紀錄了！",
             "link": "https://udn.com//news/story/7340/9442042?from=udn-catebreaknews_ch2",
             "time": "2026-04-15 00:08"
@@ -23,12 +29,6 @@
             "title": "電視新聞浮現結構危機",
             "link": "https://udn.com//news/story/7339/9442058?from=udn-catebreaknews_ch2",
             "time": "2026-04-15 00:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_0.jpg&w=300",
-            "title": "鞭刑公投 社會安全的集體思辨",
-            "link": "https://udn.com//news/story/7339/9442060?from=udn-catebreaknews_ch2",
-            "time": "2026-04-15 00:04"
         }
     ]
 }
