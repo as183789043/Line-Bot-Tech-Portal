@@ -1,16 +1,22 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/15/34858822.jpg&M=1&s=Y&x=1&y=1&sw=1279&sh=853&exp=3600&w=300",
+            "title": "披綠袍戰竹市 莊競程：不再「找安」要找回新竹光榮",
+            "link": "https://udn.com//news/story/124652/9444083?from=udn-catebreaknews_ch2",
+            "time": "2026-04-15 19:33"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/15/34858803.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "藍白宜蘭縣長民調全市話5月出爐 新北市長手機市話三七比、4月底決勝",
+            "link": "https://udn.com//news/story/124652/9444068?from=udn-catebreaknews_ch2",
+            "time": "2026-04-15 19:25"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/15/34858749.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
             "title": "民調最後一夜羅智強、徐巧芯掃街搶救 何元楷：有信心",
             "link": "https://udn.com//news/story/124652/9444021?from=udn-catebreaknews_ch2",
             "time": "2026-04-15 18:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/15/34858720.png&M=1&s=Y&x=0&y=0&sw=1085&sh=724&exp=3600&w=300",
-            "title": "剴剴虐死案追女社工刑責！陳尚潔涉過失致死罪明宣判",
-            "link": "https://udn.com//news/story/6656/9444004?from=udn-catebreaknews_ch2",
-            "time": "2026-04-15 18:43"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/15/34858670.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
@@ -23,12 +29,6 @@
             "title": "民眾黨台中北屯區議員提名誰？江和樹火大要求黨中央給答案",
             "link": "https://udn.com//news/story/124652/9443966?from=udn-catebreaknews_ch2",
             "time": "2026-04-15 18:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/15/34858637.jpg&M=1&s=Y&x=0&y=0&sw=1080&sh=720&exp=3600&w=300",
-            "title": "對美軍購或納入商購仍陷僵局 韓國瑜下周再召集協商軍購條例",
-            "link": "https://udn.com//news/story/6656/9443963?from=udn-catebreaknews_ch2",
-            "time": "2026-04-15 18:21"
         }
     ]
 }
