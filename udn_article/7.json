@@ -1,13 +1,19 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/15/34856860.jpg&M=1&s=Y&x=150&y=0&sw=1130&sh=738&exp=3600&w=300",
+            "title": "3月營收大爆發 台股迎史上最旺第1季！廣達、緯創…成長強勁、本益比仍低的10檔出列",
+            "link": "https://udn.com//news/story/12806/9443435?from=udn-catebreaknews_ch2",
+            "time": "2026-04-16 07:07"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/10/34844472.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台股閃現 37K 再創新高…權王收2,080元天價",
             "link": "https://udn.com//news/story/7251/9444488?from=udn-catebreaknews_ch2",
             "time": "2026-04-16 02:18"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
             "title": "千金股氣盛 櫃買指數攻頂",
             "link": "https://udn.com//news/story/7251/9444496?from=udn-catebreaknews_ch2",
             "time": "2026-04-16 02:15"
@@ -15,20 +21,14 @@
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/16/34859542.png&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "日月光、京元電 四檔靚",
-            "link": "https://udn.com//news/story/7253/9444579?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/7255/9444579?from=udn-catebreaknews_ch2",
             "time": "2026-04-16 01:13"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/16/34859541.png&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "雙鴻、富世達 選逾60天",
-            "link": "https://udn.com//news/story/7253/9444582?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/7255/9444582?from=udn-catebreaknews_ch2",
             "time": "2026-04-16 01:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/16/34859539.png&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "亞翔 聚焦長天期",
-            "link": "https://udn.com//news/story/7253/9444546?from=udn-catebreaknews_ch2",
-            "time": "2026-04-16 01:11"
         }
     ]
 }
