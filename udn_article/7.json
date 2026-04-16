@@ -1,8 +1,20 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
-            "title": "台指期夜盤回檔震盪 多空交戰37,000點大關！",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/16/34862915.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電：估今年伺服器物聯網成長 電腦、智慧手機恐衰退",
+            "link": "https://udn.com//news/story/7253/9446637?from=udn-catebreaknews_ch2",
+            "time": "2026-04-16 22:07"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/16/34862879.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電魏哲家致股東報告書：有信心持續優於產業成長 最大化股東價值",
+            "link": "https://udn.com//news/story/7253/9446719?from=udn-catebreaknews_ch2",
+            "time": "2026-04-16 21:31"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/16/34862844.jpg&M=1&s=Y&x=0&y=0&sw=1266&sh=844&exp=3600&w=300",
+            "title": "台指期夜盤回檔震盪 多空交戰37,000點大關",
             "link": "https://udn.com//news/story/7255/9446698?from=udn-catebreaknews_ch2",
             "time": "2026-04-16 21:22"
         },
@@ -17,18 +29,6 @@
             "title": "台新證券系統交易出包 證交所依法可先裁罰10萬元",
             "link": "https://udn.com//news/story/7251/9446452?from=udn-catebreaknews_ch2",
             "time": "2026-04-16 18:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/16/34862534.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台新證券錯帳風暴擴大！未如期完成申報 恐吞10萬罰金",
-            "link": "https://udn.com//news/story/7251/9446431?from=udn-catebreaknews_ch2",
-            "time": "2026-04-16 18:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/16/34862417.jpg&M=1&s=Y&x=0&y=0&sw=1125&sh=750&exp=3600&w=300",
-            "title": "台股再創新高 外資買超440億元加碼高股息ETF…拋面板雙虎",
-            "link": "https://udn.com//news/story/7251/9446307?from=udn-catebreaknews_ch2",
-            "time": "2026-04-16 18:22"
         }
     ]
 }
