@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/17/34864366.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "馬斯克與英特爾合作挑戰台積電？魏哲家「晶圓代工沒有速成」 謝金河：技術的生根必須千錘百鍊",
+            "link": "https://udn.com//news/story/6839/9447722?from=udn-catebreaknews_ch2",
+            "time": "2026-04-17 13:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/17/34863489.jpg&M=1&s=Y&x=99&y=0&sw=1080&sh=723&exp=3600&w=300",
             "title": "一招「精品快閃」讓對的人更想買，貴婦百貨打破同業低迷衝130億",
             "link": "https://udn.com//news/story/6837/9447209?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "現在適合買房？第二戶可貸6成、新青安縮寬限期…專家解讀央行信用管制",
             "link": "https://udn.com//news/story/6839/9445124?from=udn-catebreaknews_ch2",
             "time": "2026-04-16 11:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/16/34860442.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "標榜「台股五十大」12檔ETF比一比 主動式、被動式、多因子…投資人怎麼選？",
-            "link": "https://udn.com//news/story/6839/9445169?from=udn-catebreaknews_ch2",
-            "time": "2026-04-16 11:08"
         }
     ]
 }
