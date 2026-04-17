@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/17/34865612.jpg&M=1&s=Y&x=0&y=255&sw=1280&sh=853&exp=3600&w=300",
+            "title": "威聯通法說會／1月下旬調漲產品售價 後續看好AI NAS動能",
+            "link": "https://udn.com//news/story/7254/9448506?from=udn-catebreaknews_ch2",
+            "time": "2026-04-17 17:40"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/10/34842559.png&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "資金輪動加速…ETF橫掃人氣榜6席 聯電、富喬外資加持量價齊飆",
             "link": "https://udn.com//news/story/123006/9448368?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "頌勝訂5月7日以258元上市掛牌交易 衝刺半導體應用營收",
             "link": "https://udn.com//news/story/7254/9448241?from=udn-catebreaknews_ch2",
             "time": "2026-04-17 15:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/15/2/32592068.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "美台股市強勢 國泰兩ETF填息",
-            "link": "https://udn.com//news/story/123006/9448194?from=udn-catebreaknews_ch2",
-            "time": "2026-04-17 15:21"
         }
     ]
 }
