@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/20/34870893.jpg&M=1&s=Y&x=0&y=0&sw=1080&sh=720&exp=3600&w=300",
+            "title": "本周開盤前 五件國際事不可不知",
+            "link": "https://udn.com//news/story/6811/9451846?from=udn-catebreaknews_ch2",
+            "time": "2026-04-20 07:02"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/18/34867978.jpg&M=2&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "讀者QA／16年奧班體制終結 匈牙利新政府的3道難題",
+            "link": "https://udn.com//news/story/124068/9451843?from=udn-catebreaknews_ch2",
+            "time": "2026-04-20 07:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/20/34870848.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "伊朗官媒報導稱德黑蘭拒絕參加第2輪美伊談判 伊朗政府尚未證實",
             "link": "https://udn.com//news/story/124061/9451792?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "中東戰爭！石油損失500億美元 分析師預期餘震將持續數月甚至數年",
             "link": "https://udn.com//news/story/6811/9451593?from=udn-catebreaknews_ch2",
             "time": "2026-04-20 02:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
-            "title": "美軍擬擴大對伊朗海上打擊",
-            "link": "https://udn.com//news/story/124061/9451600?from=udn-catebreaknews_ch2",
-            "time": "2026-04-20 02:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
-            "title": "川普表面強硬 內心憂慮",
-            "link": "https://udn.com//news/story/124061/9451603?from=udn-catebreaknews_ch2",
-            "time": "2026-04-20 02:33"
         }
     ]
 }
