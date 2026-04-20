@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/20/34871204.jpg&M=1&s=Y&x=0&y=0&sw=1277&sh=851&exp=3600&w=300",
+            "title": "經濟型汽車消亡 普通收入者再也買不起車",
+            "link": "https://udn.com//news/story/6897/9452009?from=udn-catebreaknews_ch2",
+            "time": "2026-04-20 09:58"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/13/34851046.jpg&M=1&s=Y&x=0&y=0&sw=1277&sh=851&exp=3600&w=300",
             "title": "幸福進行式 從寶貝孩子們開始",
             "link": "https://udn.com//news/story/6964/9438827?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "展覽進行式 散步台中 走進藝文風景",
             "link": "https://udn.com//news/story/6964/9438766?from=udn-catebreaknews_ch2",
             "time": "2026-04-19 11:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/13/34850897.jpg&M=1&s=Y&x=0&y=0&sw=1277&sh=851&exp=3600&w=300",
-            "title": "從醬菜工變身漆器大師 廖勝文從傳統漆藝走出現代新意",
-            "link": "https://udn.com//news/story/6964/9438741?from=udn-catebreaknews_ch2",
-            "time": "2026-04-19 11:33"
         }
     ]
 }
