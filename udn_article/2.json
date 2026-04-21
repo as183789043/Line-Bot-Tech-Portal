@@ -1,10 +1,22 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/22/34877795.jpg&M=1&s=Y&x=0&y=0&sw=1262&sh=841&exp=3600&w=300",
+            "title": "賴總統出訪非洲遭阻 美國多位參眾議員發文挺台",
+            "link": "https://udn.com//news/story/124844/9456420?from=udn-catebreaknews_ch2",
+            "time": "2026-04-22 06:55"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/22/34877790.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
             "title": "【專家之眼】從外媒對鄭習會的報導 看台海和平「機會之窗」",
-            "link": "https://udn.com//news/story/6656/9456412?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124802/9456412?from=udn-catebreaknews_ch2",
             "time": "2026-04-22 06:18"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/22/34877615.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "IPAC譴責中國打壓賴總統出訪 台灣共同主席范雲致謝「德不孤必有鄰」",
+            "link": "https://udn.com//news/story/124844/9456299?from=udn-catebreaknews_ch2",
+            "time": "2026-04-22 06:07"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/21/34877557.png&M=1&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
@@ -13,22 +25,10 @@
             "time": "2026-04-22 05:51"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/21/34877494.png&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "台師大霸凌案 撕開「服從即紀律」的遮羞布",
-            "link": "https://udn.com//news/story/6656/9456378?from=udn-catebreaknews_ch2",
-            "time": "2026-04-22 05:51"
-        },
-        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/22/34877712.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "國防部揭軍購7大類 無人機21萬架",
             "link": "https://udn.com//news/story/10930/9456212?from=udn-catebreaknews_ch2",
             "time": "2026-04-22 02:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/22/34877708.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "終於付委 總預算最快6月三讀",
-            "link": "https://udn.com//news/story/6656/9456210?from=udn-catebreaknews_ch2",
-            "time": "2026-04-22 01:57"
         }
     ]
 }
