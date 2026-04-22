@@ -1,15 +1,27 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/22/34881132.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "恐唱空城 政院提名NCC委員 無進展",
+            "link": "https://udn.com//news/story/6656/9458671?from=udn-catebreaknews_ch2",
+            "time": "2026-04-23 01:35"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/23/34881270.jpg&M=1&s=Y&x=0&y=0&sw=1262&sh=841&exp=3600&w=300",
+            "title": "賴總統專機遭撤飛航許可 美國務院：這些國家在中國要求下行事",
+            "link": "https://udn.com//news/story/124844/9458777?from=udn-catebreaknews_ch2",
+            "time": "2026-04-23 01:14"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_6.jpg&w=300",
             "title": "美印太司令：台國防預算應展現防衛決心",
-            "link": "https://udn.com//news/story/6656/9458682?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/10930/9458682?from=udn-catebreaknews_ch2",
             "time": "2026-04-23 00:36"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/23/34881221.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "新聞幕後／軍購條例協商 藍憂不加碼恐遭綠卸責甩鍋",
-            "link": "https://udn.com//news/story/6656/9458600?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/10930/9458600?from=udn-catebreaknews_ch2",
             "time": "2026-04-23 00:35"
         },
         {
@@ -17,18 +29,6 @@
             "title": "谷立言拜會鄭麗文 指兩岸關係應透過對話與和平發展推進",
             "link": "https://udn.com//news/story/6656/9458714?from=udn-catebreaknews_ch2",
             "time": "2026-04-23 00:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/23/34881215.jpg&M=1&s=Y&x=65&y=0&sw=1215&sh=810&exp=3600&w=300",
-            "title": "軍購協商 藍白黨團已對接「方向、金額將會一致」",
-            "link": "https://udn.com//news/story/6656/9458590?from=udn-catebreaknews_ch2",
-            "time": "2026-04-23 00:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_6.jpg&w=300",
-            "title": "觀察站／陸搭橋又收索 恐引發反作用力",
-            "link": "https://udn.com//news/story/124844/9458724?from=udn-catebreaknews_ch2",
-            "time": "2026-04-23 00:24"
         }
     ]
 }

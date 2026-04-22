@@ -1,6 +1,18 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/23/34881328.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
+            "title": "花蓮近海1時26分規模4.6地震 最大震度3級",
+            "link": "https://udn.com//news/story/7266/9458782?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-04-23 01:57"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/23/34881270.jpg&M=1&s=Y&x=0&y=0&sw=1262&sh=841&exp=3600&w=300",
+            "title": "賴總統專機遭撤飛航許可 美國務院：這些國家在中國要求下行事",
+            "link": "https://udn.com//news/story/124844/9458777?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-04-23 01:14"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/23/34881246.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "牛小排倉餅、蝦捲乾拌麵上桌！東區精緻小吃「倉廩」免服務費、無低消",
             "link": "https://udn.com//news/story/7270/9458766?from=udn-ch1_breaknews-1-0-news",
@@ -17,18 +29,6 @@
             "title": "美官員透露：川普再給伊朗幾天時間提出和平方案 但保留動武選項",
             "link": "https://udn.com//news/story/124061/9458637?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-04-22 23:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/22/34881038.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "大蒜被美國列為「國家安全威脅」 大陸駐美大使謝鋒：做夢也沒想過",
-            "link": "https://udn.com//news/story/7333/9458592?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-04-22 23:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/22/34881023.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "泰外長：翁山蘇姬受到良好照顧 緬甸新總統稱考慮「一些好消息」",
-            "link": "https://udn.com//news/story/6809/9458552?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-04-22 22:58"
         }
     ]
 }
