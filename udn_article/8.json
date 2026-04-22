@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/22/34880819.jpg&M=1&s=Y&x=0&y=0&sw=1175&sh=783&exp=3600&w=300",
+            "title": "油價、美股電子盤雙漲 台指期夜盤上半場卻軟腳",
+            "link": "https://udn.com//news/story/7255/9458406?from=udn-catebreaknews_ch2",
+            "time": "2026-04-22 21:04"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/22/34880686.png&M=1&s=Y&x=0&y=0&sw=1076&sh=717&exp=3600&w=300",
+            "title": "聯茂、誠美材等6檔個股飆悍遭關禁閉 明起列入處置股",
+            "link": "https://udn.com//news/story/7251/9458270?from=udn-catebreaknews_ch2",
+            "time": "2026-04-22 19:56"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/22/34880642.jpg&M=1&s=Y&x=0&y=0&sw=1197&sh=798&exp=3600&w=300",
+            "title": "AI/HPC需求上揚 高盛將萬潤及弘塑目標價大幅上調到1,800元、4,500元",
+            "link": "https://udn.com//news/story/7251/9458209?from=udn-catebreaknews_ch2",
+            "time": "2026-04-22 19:15"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/22/34880489.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "費半15連漲、ASIC點火 主動式台股ETF不掉隊跟漲",
             "link": "https://udn.com//news/story/123006/9458118?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "股東快看！王品股東會紀念品揭曉 發出3000元大禮包",
             "link": "https://udn.com//news/story/7252/9458112?from=udn-catebreaknews_ch2",
             "time": "2026-04-22 18:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/22/34880477.png&M=1&s=Y&x=0&y=49&sw=1280&sh=853&exp=3600&w=300",
-            "title": "穿越地緣政治迷霧 科技ETF鎖定AI長線動能",
-            "link": "https://udn.com//news/story/123006/9458110?from=udn-catebreaknews_ch2",
-            "time": "2026-04-22 18:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/22/34880460.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台新證券頻出包…證交所出手開鍘「過怠金+違約金」131萬元 資安內控另立案調查",
-            "link": "https://udn.com//news/story/7251/9458108?from=udn-catebreaknews_ch2",
-            "time": "2026-04-22 18:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/22/34880458.jpg&M=1&s=Y&x=0&y=29&sw=1280&sh=853&exp=3600&w=300",
-            "title": "證交所成為英國稅務海關總署認證國外交易所 有助提升投資誘因",
-            "link": "https://udn.com//news/story/7251/9458013?from=udn-catebreaknews_ch2",
-            "time": "2026-04-22 17:56"
         }
     ]
 }
