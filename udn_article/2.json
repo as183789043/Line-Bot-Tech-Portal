@@ -1,9 +1,27 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/23/34881480.jpg&M=1&s=Y&x=0&y=0&sw=1117&sh=745&exp=3600&w=300",
+            "title": "太平島南援操演海巡特勤隊模擬扣下貨船 宣示南沙主權",
+            "link": "https://udn.com//news/story/10930/9458902?from=udn-catebreaknews_ch2",
+            "time": "2026-04-23 06:37"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/22/34881152.png&M=1&s=Y&x=0&y=0&sw=1278&sh=853&exp=3600&w=300",
+            "title": "彰化藍白不能輸 綠立必贏軍令狀的原因是這個？",
+            "link": "https://udn.com//news/story/124652/9458866?from=udn-catebreaknews_ch2",
+            "time": "2026-04-23 05:51"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/22/34881124.png&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
+            "title": "海龜為何無法潛水？圖解瀕死「司康」678天復健之路",
+            "link": "https://udn.com//news/story/7314/9458865?from=udn-catebreaknews_ch2",
+            "time": "2026-04-23 05:51"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/22/34879950.jpg&M=2&s=Y&x=36&y=229&sw=872&sh=581&exp=3600&w=300",
             "title": "九合一風雲／花蓮第三選區議員大洗牌 小黨爭取上位",
-            "link": "https://udn.com//news/story/6656/9458842?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124652/9458842?from=udn-catebreaknews_ch2",
             "time": "2026-04-23 05:01"
         },
         {
@@ -11,24 +29,6 @@
             "title": "恐唱空城 政院提名NCC委員 無進展",
             "link": "https://udn.com//news/story/6656/9458671?from=udn-catebreaknews_ch2",
             "time": "2026-04-23 01:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/23/34881270.jpg&M=1&s=Y&x=0&y=0&sw=1262&sh=841&exp=3600&w=300",
-            "title": "賴總統專機遭撤飛航許可 美國務院：這些國家在中國要求下行事",
-            "link": "https://udn.com//news/story/124844/9458777?from=udn-catebreaknews_ch2",
-            "time": "2026-04-23 01:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
-            "title": "美印太司令：台國防預算應展現防衛決心",
-            "link": "https://udn.com//news/story/10930/9458682?from=udn-catebreaknews_ch2",
-            "time": "2026-04-23 00:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/23/34881221.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "新聞幕後／軍購條例協商 藍憂不加碼恐遭綠卸責甩鍋",
-            "link": "https://udn.com//news/story/10930/9458600?from=udn-catebreaknews_ch2",
-            "time": "2026-04-23 00:35"
         }
     ]
 }
