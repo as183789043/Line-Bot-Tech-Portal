@@ -1,7 +1,25 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/03/2/34351295.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "009819交易熱絡導致「溢價率偏高」幅度高達23.9% 提醒投資人不要追",
+            "link": "https://udn.com//news/story/123006/9460759?from=udn-catebreaknews_ch2",
+            "time": "2026-04-23 20:31"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/15/2/32592068.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "複委託買賣虛擬資產ETF將開放一般投資人？ 金管會這樣說",
+            "link": "https://udn.com//news/story/123006/9460756?from=udn-catebreaknews_ch2",
+            "time": "2026-04-23 20:30"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/23/34881192.jpg&M=1&s=Y&x=0&y=0&sw=1270&sh=846&exp=3600&w=300",
+            "title": "台股爆1.4兆天量等多項紀錄 法人關注美伊戰事發展",
+            "link": "https://udn.com//news/story/7251/9460630?from=udn-catebreaknews_ch2",
+            "time": "2026-04-23 19:37"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/16/34860434.jpg&M=1&s=Y&x=0&y=0&sw=1270&sh=847&exp=3600&w=300",
             "title": "百萬股東小確幸來了 合庫金、彰銀、台企銀皆發放這項紀念品",
             "link": "https://udn.com//news/story/7251/9460614?from=udn-catebreaknews_ch2",
             "time": "2026-04-23 19:04"
@@ -11,24 +29,6 @@
             "title": "摩根：投資回歸基本面 台股獲利年增上修至35%",
             "link": "https://udn.com//news/story/7251/9460610?from=udn-catebreaknews_ch2",
             "time": "2026-04-23 19:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/14/34854979.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "創新高！台新新光金宣布擬配發每股現金股利1元 殖利率4.2％",
-            "link": "https://udn.com//news/story/7252/9460577?from=udn-catebreaknews_ch2",
-            "time": "2026-04-23 18:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/2/30657696.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "南茂公告2月自結 單月獲利8,600萬元、年增15倍",
-            "link": "https://udn.com//news/story/7253/9460572?from=udn-catebreaknews_ch2",
-            "time": "2026-04-23 18:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/2/31191387.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "台積電迎買盤！金管會大開台股基金、主動ETF限制 台股利多",
-            "link": "https://udn.com//news/story/7251/9460562?from=udn-catebreaknews_ch2",
-            "time": "2026-04-23 18:39"
         }
     ]
 }
