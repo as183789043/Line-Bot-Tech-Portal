@@ -1,9 +1,15 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/24/34885097.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "【專家之眼】外交受阻下 回看賴總統的國安論述",
+            "link": "https://udn.com//news/story/124844/9461290?from=udn-catebreaknews_ch2",
+            "time": "2026-04-24 06:03"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/23/34881595.jpg&M=1&s=Y&x=1&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "九合一風雲／嘉市張啓楷出戰王惠美 藍白合暗潮洶湧",
-            "link": "https://udn.com//news/story/6656/9461258?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124652/9461258?from=udn-catebreaknews_ch2",
             "time": "2026-04-24 05:00"
         },
         {
@@ -23,12 +29,6 @@
             "title": "國家定位…鄭麗文籲賴總統嚴肅面對",
             "link": "https://udn.com//news/story/124844/9461154?from=udn-catebreaknews_ch2",
             "time": "2026-04-24 01:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/24/34884743.jpg&M=1&s=Y&x=56&y=27&sw=1106&sh=737&exp=3600&w=300",
-            "title": "華府發聲…中國阻賴總統出訪 「威嚇整個國際安全」",
-            "link": "https://udn.com//news/story/124844/9461153?from=udn-catebreaknews_ch2",
-            "time": "2026-04-24 00:53"
         }
     ]
 }
