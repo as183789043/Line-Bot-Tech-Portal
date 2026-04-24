@@ -1,7 +1,13 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "title": "台股偏離基本面？ 學者：AI不會泡沫",
+            "link": "https://udn.com//news/story/7251/9463223?from=udn-catebreaknews_ch2",
+            "time": "2026-04-25 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
             "title": "上市市值本周狂增5.7％接近127兆元 受惠電零組類股狂漲11％拉抬",
             "link": "https://udn.com//news/story/7251/9463220?from=udn-catebreaknews_ch2",
             "time": "2026-04-24 23:32"
@@ -23,12 +29,6 @@
             "title": "聯發科強什麼？大摩三原因列為「首選」、目標價上看2,588元",
             "link": "https://udn.com//news/story/7253/9462937?from=udn-catebreaknews_ch2",
             "time": "2026-04-24 20:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/24/34886653.jpg&M=1&s=Y&x=0&y=0&sw=1194&sh=796&exp=3600&w=300",
-            "title": "仙人指路再顯神威！台積電鉅額交易價格驚見「漲停板」指數挑戰40K",
-            "link": "https://udn.com//news/story/12806/9462855?from=udn-catebreaknews_ch2",
-            "time": "2026-04-24 19:00"
         }
     ]
 }
