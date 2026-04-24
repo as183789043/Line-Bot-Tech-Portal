@@ -1,6 +1,18 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/25/34888369.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "氣象署最新天氣展望 未來2周鋒面接力 北東降溫全台防大雨",
+            "link": "https://udn.com//news/story/7266/9463393?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-04-25 05:43"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/25/34888345.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "今晨大雨濃霧 吳德榮：明天轉晴熱 下周三又有鋒面挾雷雨",
+            "link": "https://udn.com//news/story/7266/9463387?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-04-25 05:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/25/34888263.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "美方代表團25日上午前往巴基斯坦 是否與伊朗外長談判眾說紛紜",
             "link": "https://udn.com//news/story/124061/9463353?from=udn-ch1_breaknews-1-0-news",
@@ -17,18 +29,6 @@
             "title": "美元當心了？外國金融機構大舉發行人民幣債券 強化人民幣國際地位",
             "link": "https://udn.com//news/story/7333/9463267?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-04-24 23:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/24/34888075.jpg&M=1&s=Y&x=0&y=0&sw=1232&sh=821&exp=3600&w=300",
-            "title": "獨／鄭習會引發國際關注 鄭麗文與40多名駐外代表茶敘暢聊細節",
-            "link": "https://udn.com//news/story/6656/9463264?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-04-24 23:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/24/34888069.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "英特爾表現亮眼 但分析師認為「這家晶片大廠」前景更優",
-            "link": "https://udn.com//news/story/6811/9463262?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-04-24 23:50"
         }
     ]
 }
