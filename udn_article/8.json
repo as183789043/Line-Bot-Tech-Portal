@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/16/34860569.jpg&M=1&s=Y&x=0&y=0&sw=1216&sh=810&exp=3600&w=300",
+            "title": "台積電ADR突拔高大漲 台指期夜盤向40K衝關",
+            "link": "https://udn.com//news/story/7255/9463011?from=udn-catebreaknews_ch2",
+            "time": "2026-04-24 21:04"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/03/2/34357754.jpg&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "換股囉！今年最強台股ETF 00892六進六出",
+            "link": "https://udn.com//news/story/123006/9462976?from=udn-catebreaknews_ch2",
+            "time": "2026-04-24 20:40"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/24/34885892.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "聯發科強什麼？大摩三原因列為「首選」、目標價上看2,588元",
+            "link": "https://udn.com//news/story/7253/9462937?from=udn-catebreaknews_ch2",
+            "time": "2026-04-24 20:14"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/24/34886653.jpg&M=1&s=Y&x=0&y=0&sw=1194&sh=796&exp=3600&w=300",
             "title": "仙人指路再顯神威！台積電鉅額交易價格驚見「漲停板」指數挑戰40K",
             "link": "https://udn.com//news/story/12806/9462855?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "28歲上班族無腦存0050！3年滾出300萬…網狂讚：只要開始就不晚",
             "link": "https://udn.com//news/story/123006/9462831?from=udn-catebreaknews_ch2",
             "time": "2026-04-24 18:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/24/34884780.jpg&M=1&s=Y&x=0&y=0&sw=1204&sh=803&exp=3600&w=300",
-            "title": "台股週線大漲2128點連3紅 上市公司總市值近127兆",
-            "link": "https://udn.com//news/story/7251/9462815?from=udn-catebreaknews_ch2",
-            "time": "2026-04-24 18:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/24/34887503.jpg&M=1&s=Y&x=0&y=0&sw=1250&sh=833&exp=3600&w=300",
-            "title": "整零股交易報告出爐！金管會：優先同步開盤 零股委託交易提前10分鐘",
-            "link": "https://udn.com//news/story/7251/9462800?from=udn-catebreaknews_ch2",
-            "time": "2026-04-24 18:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/04/34731428.png&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "聯發科一周三紅燈、4月來大漲逾六成 這檔半導體ETF權值雙王占比逾五成",
-            "link": "https://udn.com//news/story/123006/9462780?from=udn-catebreaknews_ch2",
-            "time": "2026-04-24 18:13"
         }
     ]
 }
