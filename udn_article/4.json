@@ -1,13 +1,19 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/26/34890161.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "川普取消美伊會談後 稱收到新提案、內容更好",
+            "link": "https://udn.com//news/story/124061/9464639?from=udn-catebreaknews_ch2",
+            "time": "2026-04-26 04:48"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/22/34880906.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "費半連18紅 台積 ADR 創高 本周科技巨擘財報、Fed 會議聚焦",
             "link": "https://udn.com//news/story/6811/9464497?from=udn-catebreaknews_ch2",
             "time": "2026-04-26 02:15"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
             "title": "大賣空本尊潑冷水 押晶片股跌入熊市",
             "link": "https://udn.com//news/story/6811/9464498?from=udn-catebreaknews_ch2",
             "time": "2026-04-26 02:13"
@@ -23,12 +29,6 @@
             "title": "美斬斷伊朗金脈 制裁中國一家煉油大廠",
             "link": "https://udn.com//news/story/124061/9464593?from=udn-catebreaknews_ch2",
             "time": "2026-04-26 02:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
-            "title": "美將與波灣國家建換匯額度",
-            "link": "https://udn.com//news/story/6811/9464535?from=udn-catebreaknews_ch2",
-            "time": "2026-04-26 02:01"
         }
     ]
 }
