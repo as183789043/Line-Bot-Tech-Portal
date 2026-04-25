@@ -1,13 +1,19 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/25/34889464.jpg&M=1&s=Y&x=41&y=0&sw=1197&sh=798&exp=3600&w=300",
+            "title": "「一片紅通通」美國半導體股續飆 法人看好台股下週挑戰4萬點",
+            "link": "https://udn.com//news/story/7251/9464068?from=udn-catebreaknews_ch2",
+            "time": "2026-04-25 15:53"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/25/34889123.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "富邦證券輔導敍豐企業完成競拍 承銷價128元",
             "link": "https://udn.com//news/story/7254/9463872?from=udn-catebreaknews_ch2",
             "time": "2026-04-25 13:07"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
             "title": "科技巨擘財報＋FOMC 會議登場 美股走勢緊盯油價與美伊局勢",
             "link": "https://udn.com//news/story/7251/9463730?from=udn-catebreaknews_ch2",
             "time": "2026-04-25 11:28"
@@ -23,12 +29,6 @@
             "title": "用0050正二加速資產累積？不可不知的4大風險：跌40％需漲66％才回本！",
             "link": "https://udn.com//news/story/123006/9463598?from=udn-catebreaknews_ch2",
             "time": "2026-04-25 10:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/24/34887913.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "美股淘金 掌握三核心趨勢",
-            "link": "https://udn.com//news/story/10103/9463079?from=udn-catebreaknews_ch2",
-            "time": "2026-04-25 00:45"
         }
     ]
 }
