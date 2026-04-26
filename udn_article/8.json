@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/26/34891910.jpg&M=1&s=Y&x=26&y=0&sw=1216&sh=811&exp=3600&w=300",
+            "title": "台股熱 主動式ETF規模狂飆",
+            "link": "https://udn.com//news/story/123006/9465876?from=udn-catebreaknews_ch2",
+            "time": "2026-04-27 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
+            "title": "法人：主動式ETF須注意回檔隱憂",
+            "link": "https://udn.com//news/story/123006/9465807?from=udn-catebreaknews_ch2",
+            "time": "2026-04-27 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/26/34891860.jpg&M=1&s=Y&x=0&y=238&sw=1280&sh=854&exp=3600&w=300",
             "title": "味之素、山太士注意了！中美晶集團揮軍ABF增層膜與防晶圓翹曲領域",
             "link": "https://udn.com//news/story/7254/9465757?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台積電毛利率創新高！大會計師看好第2季再上攻：漲價紅利還沒反映",
             "link": "https://udn.com//news/story/12806/9465700?from=udn-catebreaknews_ch2",
             "time": "2026-04-26 21:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/26/34891494.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台積電2奈米、海外擴廠吃掉毛利 為何反而是「好事」？",
-            "link": "https://udn.com//news/story/7253/9465449?from=udn-catebreaknews_ch2",
-            "time": "2026-04-26 18:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/26/34891488.jpg&M=1&s=Y&x=0&y=0&sw=1197&sh=798&exp=3600&w=300",
-            "title": "台股持續創高 法人：後勢看美股企業財報及資本支出擴張而定",
-            "link": "https://udn.com//news/story/7251/9465477?from=udn-catebreaknews_ch2",
-            "time": "2026-04-26 18:11"
         }
     ]
 }
