@@ -1,6 +1,12 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/25/34889914.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "AI大廠急著要的矽光子 一場官司揭台企竟擁關鍵突破",
+            "link": "https://udn.com//news/story/7238/9466090?from=udn-catebreaknews_ch2",
+            "time": "2026-04-27 07:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/26/34891904.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "創業之星選秀 快來報名／開發資本助新創搶AI先機",
             "link": "https://udn.com//news/story/7241/9465854?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2026-04-27 02:22"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_7.jpg&w=300",
             "title": "台積電先進製程持續放量 耗材協力廠營運起飛",
             "link": "https://udn.com//news/story/7240/9465866?from=udn-catebreaknews_ch2",
             "time": "2026-04-27 02:09"
@@ -23,12 +29,6 @@
             "title": "鴻海奪輝達推論機櫃大單 獨家供應運算托盤 並承攬 Groq 3 LPX 整櫃組裝業務",
             "link": "https://udn.com//news/story/7240/9465867?from=udn-catebreaknews_ch2",
             "time": "2026-04-27 02:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_9.jpg&w=300",
-            "title": "鴻海 COMPUTEX 2026 秀人工智慧肌肉",
-            "link": "https://udn.com//news/story/7240/9465870?from=udn-catebreaknews_ch2",
-            "time": "2026-04-27 02:05"
         }
     ]
 }
