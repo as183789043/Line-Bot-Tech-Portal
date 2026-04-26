@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/26/34891494.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電2奈米、海外擴廠吃掉毛利 為何反而是「好事」？",
+            "link": "https://udn.com//news/story/7253/9465449?from=udn-catebreaknews_ch2",
+            "time": "2026-04-26 18:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/26/34891488.jpg&M=1&s=Y&x=0&y=0&sw=1197&sh=798&exp=3600&w=300",
+            "title": "台股持續創高 法人：後勢看美股企業財報及資本支出擴張而定",
+            "link": "https://udn.com//news/story/7251/9465477?from=udn-catebreaknews_ch2",
+            "time": "2026-04-26 18:11"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/26/34891274.jpg&M=1&s=Y&x=0&y=212&sw=1272&sh=848&exp=3600&w=300",
             "title": "摩根：台股結構性改變正在發生 企業獲利年增率上調至35%",
             "link": "https://udn.com//news/story/7251/9465312?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2026-04-26 15:17"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
             "title": "譜瑞新產品展望佳 市場估第2季EPS季增至7.9元",
             "link": "https://udn.com//news/story/7255/9465257?from=udn-catebreaknews_ch2",
             "time": "2026-04-26 14:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/26/34890862.jpg&M=1&s=Y&x=0&y=0&sw=1204&sh=803&exp=3600&w=300",
-            "title": "報酬率達319％！他單押47張台積電「身價破億」 網全跪：爸吃飽沒",
-            "link": "https://udn.com//news/story/12806/9465051?from=udn-catebreaknews_ch2",
-            "time": "2026-04-26 14:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/26/34890941.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "台股周線連三紅、台積電成關鍵引擎 進入四萬點決戰時刻",
-            "link": "https://udn.com//news/story/7251/9465097?from=udn-catebreaknews_ch2",
-            "time": "2026-04-26 12:44"
         }
     ]
 }
