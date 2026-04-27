@@ -1,6 +1,12 @@
 {
     "評論": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/18/34868624.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "經濟日報社論／台積成為台灣的經濟和地緣槓桿",
+            "link": "https://udn.com//news/story/7338/9467978?from=udn-catebreaknews_ch2",
+            "time": "2026-04-28 01:29"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/28/34895381.jpg&M=1&s=Y&x=68&y=18&sw=1210&sh=806&exp=3600&w=300",
             "title": "聯合報黑白集／被遺忘的吳怡農",
             "link": "https://udn.com//news/story/7338/9468019?from=udn-catebreaknews_ch2",
@@ -13,22 +19,16 @@
             "time": "2026-04-28 01:02"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_2.jpg&w=300",
             "title": "讀家觀點／不要讓孩子誤闖網路修羅場",
             "link": "https://udn.com//news/story/7339/9468034?from=udn-catebreaknews_ch2",
             "time": "2026-04-28 00:05"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_2.jpg&w=300",
             "title": "方元沂／風險時代台灣永續轉型新契機",
             "link": "https://udn.com//news/story/123296/9468024?from=udn-catebreaknews_ch2",
             "time": "2026-04-28 00:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_1.jpg&w=300",
-            "title": "誰能保障台灣安全幸福 就支持誰",
-            "link": "https://udn.com//news/story/7339/9468037?from=udn-catebreaknews_ch2",
-            "time": "2026-04-28 00:01"
         }
     ]
 }
