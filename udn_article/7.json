@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/27/34894924.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "00981A為何沒跟漲？他怒「收高管理費卻失靈」反被嗆：贏三個月輸一天就崩潰",
+            "link": "https://udn.com//news/story/123006/9467618?from=udn-catebreaknews_ch2",
+            "time": "2026-04-28 07:40"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/27/34894946.jpg&M=1&s=Y&x=0&y=0&sw=1197&sh=798&exp=3600&w=300",
             "title": "台股閃見 40K 寫五紀錄 台積電一度站上2,330天價",
             "link": "https://udn.com//news/story/7251/9467987?from=udn-catebreaknews_ch2",
@@ -8,12 +14,12 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/24/34887598.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "台積條款有望吸金2,000億 投信大部隊資金還沒上車 持股比率已攀新高",
+            "title": "台積條款 有望吸金2,000億…投信大部隊資金還沒上車",
             "link": "https://udn.com//news/story/7251/9467969?from=udn-catebreaknews_ch2",
             "time": "2026-04-28 01:27"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
             "title": "大盤虛胖…個股跌多於漲",
             "link": "https://udn.com//news/story/7251/9467972?from=udn-catebreaknews_ch2",
             "time": "2026-04-28 01:21"
@@ -23,12 +29,6 @@
             "title": "台股指數狂飆 成交量前十大 ETF 占七名 這檔勇奪人氣王",
             "link": "https://udn.com//news/story/123006/9467973?from=udn-catebreaknews_ch2",
             "time": "2026-04-28 01:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
-            "title": "穩懋、信驊爆違約交割1.2億",
-            "link": "https://udn.com//news/story/7251/9467974?from=udn-catebreaknews_ch2",
-            "time": "2026-04-28 01:18"
         }
     ]
 }
