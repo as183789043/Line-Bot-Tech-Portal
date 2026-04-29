@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/29/34900892.jpg&M=4&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "九合一風雲／誰選宜蘭縣長？藍白合延宕 柯文哲光環與整合力成關鍵",
+            "link": "https://udn.com//news/story/6656/9473120?from=udn-catebreaknews_ch2",
+            "time": "2026-04-30 05:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/17/34864387.jpg&M=1&s=Y&x=0&y=38&sw=1280&sh=854&exp=3600&w=300",
             "title": "為使財務永續 「台股救健保」新構想浮現",
             "link": "https://udn.com//news/story/124849/9472869?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "證交稅挹注健保 石崇良：舉雙手贊成",
             "link": "https://udn.com//news/story/124849/9473018?from=udn-catebreaknews_ch2",
             "time": "2026-04-30 00:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34902706.jpg&M=1&s=Y&x=0&y=50&sw=1122&sh=748&exp=3600&w=300",
-            "title": "證交稅挹注健保…學者：違財政紀律 可行性不高",
-            "link": "https://udn.com//news/story/124849/9473005?from=udn-catebreaknews_ch2",
-            "time": "2026-04-30 00:48"
         }
     ]
 }
