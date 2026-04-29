@@ -1,9 +1,27 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34902948.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "【專家之眼】新北定局 藍白合挑戰才剛開始",
+            "link": "https://udn.com//news/story/124652/9473175?from=udn-catebreaknews_ch2",
+            "time": "2026-04-30 06:47"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34902938.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "傳德國捷克拒賴總統過境請求 他指包機事件害慘 建議去問蔡英文怎突破",
+            "link": "https://udn.com//news/story/6656/9473165?from=udn-catebreaknews_ch2",
+            "time": "2026-04-30 06:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/29/34902566.png&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "【總編開箱】1個軍購案 國民黨升起了5個太陽？",
+            "link": "https://udn.com//news/story/124768/9473142?from=udn-catebreaknews_ch2",
+            "time": "2026-04-30 05:51"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/29/34900892.jpg&M=4&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "九合一風雲／誰選宜蘭縣長？藍白合延宕 柯文哲光環與整合力成關鍵",
-            "link": "https://udn.com//news/story/6656/9473120?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124652/9473120?from=udn-catebreaknews_ch2",
             "time": "2026-04-30 05:00"
         },
         {
@@ -11,24 +29,6 @@
             "title": "為使財務永續 「台股救健保」新構想浮現",
             "link": "https://udn.com//news/story/124849/9472869?from=udn-catebreaknews_ch2",
             "time": "2026-04-30 01:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34902727.jpg&M=1&s=Y&x=0&y=0&sw=1014&sh=676&exp=3600&w=300",
-            "title": "證交稅挹注健保…民團樂觀其成 但憂財源不穩",
-            "link": "https://udn.com//news/story/124849/9473022?from=udn-catebreaknews_ch2",
-            "time": "2026-04-30 01:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34902641.jpg&M=2&s=Y&x=9&y=80&sw=1239&sh=826&exp=3600&w=300",
-            "title": "證交稅可望超徵…立委：還稅於民 財長：先減舉債",
-            "link": "https://udn.com//news/story/124849/9473020?from=udn-catebreaknews_ch2",
-            "time": "2026-04-30 01:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34902708.jpg&M=1&s=Y&x=16&y=79&sw=824&sh=550&exp=3600&w=300",
-            "title": "證交稅挹注健保 石崇良：舉雙手贊成",
-            "link": "https://udn.com//news/story/124849/9473018?from=udn-catebreaknews_ch2",
-            "time": "2026-04-30 00:56"
         }
     ]
 }
