@@ -1,19 +1,25 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/29/34901592.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "台股衝破4萬卻仍虧損？他報酬率-36％ 釣一票苦點名「套牢股」",
+            "link": "https://udn.com//news/story/12806/9472204?from=udn-catebreaknews_ch2",
+            "time": "2026-04-30 07:43"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/29/34901962.jpg&M=1&s=Y&x=0&y=486&sw=960&sh=640&exp=3600&w=300",
             "title": "第一金股利全配現金 每股1.3元 盈餘分配率69.5%近七年新高",
             "link": "https://udn.com//news/story/7252/9472798?from=udn-catebreaknews_ch2",
             "time": "2026-04-30 02:27"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
             "title": "銀行股利配發率 多數逾六成",
             "link": "https://udn.com//news/story/7252/9472799?from=udn-catebreaknews_ch2",
             "time": "2026-04-30 02:24"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
             "title": "新光產每股配發7.27元 台產3.5元",
             "link": "https://udn.com//news/story/7252/9472846?from=udn-catebreaknews_ch2",
             "time": "2026-04-30 02:20"
@@ -23,12 +29,6 @@
             "title": "台股科技基金 漲勢猛",
             "link": "https://udn.com//news/story/10103/9472854?from=udn-catebreaknews_ch2",
             "time": "2026-04-30 01:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
-            "title": "指數型ETF 規模稱冠",
-            "link": "https://udn.com//news/story/123006/9472855?from=udn-catebreaknews_ch2",
-            "time": "2026-04-30 01:47"
         }
     ]
 }
