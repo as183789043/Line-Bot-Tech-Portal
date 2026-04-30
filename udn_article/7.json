@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34905873.jpg&M=1&s=Y&x=0&y=1&sw=1280&sh=854&exp=3600&w=300",
+            "title": "統一超財報／首季獲利30.9億元、EPS 2.97元 單季創歷史次高",
+            "link": "https://udn.com//news/story/7252/9475013?from=udn-catebreaknews_ch2",
+            "time": "2026-04-30 19:34"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34905841.jpg&M=1&s=Y&x=0&y=52&sw=1280&sh=854&exp=3600&w=300",
+            "title": "高盛今年來六度調高台光電目標價到6000元 認為漲價將成CCL新常態",
+            "link": "https://udn.com//news/story/7253/9475001?from=udn-catebreaknews_ch2",
+            "time": "2026-04-30 19:26"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34905844.png&M=1&s=Y&x=41&y=0&sw=1076&sh=717&exp=3600&w=300",
+            "title": "台股本周漲多休息 油電燃氣股墊檔撐盤上漲7.68%",
+            "link": "https://udn.com//news/story/7251/9474999?from=udn-catebreaknews_ch2",
+            "time": "2026-04-30 19:24"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34905669.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
             "title": "牧德財報／首季 EPS 4.61元 PCB、半導體檢測雙軌布局",
             "link": "https://udn.com//news/story/7253/9474927?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "富邦金股利揭曉！每股配發現金股利4.25元創高 殖利率達4.72%",
             "link": "https://udn.com//news/story/7252/9474901?from=udn-catebreaknews_ch2",
             "time": "2026-04-30 18:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34905556.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "多頭4月天 科技權值領軍台股強彈7200點",
-            "link": "https://udn.com//news/story/7251/9474847?from=udn-catebreaknews_ch2",
-            "time": "2026-04-30 17:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34905533.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "外資今賣超535億 但這周竟天天買超這檔金融股",
-            "link": "https://udn.com//news/story/7251/9474837?from=udn-catebreaknews_ch2",
-            "time": "2026-04-30 17:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34905528.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台股沒過熱 證期局：二方向研議券商借貸及融資淨值比倍數是否開放",
-            "link": "https://udn.com//news/story/7251/9474833?from=udn-catebreaknews_ch2",
-            "time": "2026-04-30 17:48"
         }
     ]
 }
