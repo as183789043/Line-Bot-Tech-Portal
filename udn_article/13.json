@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34903412.jpg&M=1&s=Y&x=0&y=0&sw=1277&sh=851&exp=3600&w=300",
+            "title": "藍領比白領工作更安全？專家：有些工作也在消失中",
+            "link": "https://udn.com//news/story/6897/9473508?from=udn-catebreaknews_ch2",
+            "time": "2026-04-30 14:34"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34904363.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
             "title": "天降紅包！中籤現賺40% 售電霸主天能綠電擁資金追出2.6倍",
             "link": "https://udn.com//news/story/6850/9474040?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "本益比5倍的輝達供應鏈：南亞科",
             "link": "https://udn.com//news/story/6850/9474024?from=udn-catebreaknews_ch2",
             "time": "2026-04-30 13:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/30/34904336.png&M=1&s=Y&x=264&y=0&sw=938&sh=625&exp=3600&w=300",
-            "title": "半導體製造帶來的剛性需求：昇陽半導體",
-            "link": "https://udn.com//news/story/6850/9474023?from=udn-catebreaknews_ch2",
-            "time": "2026-04-30 13:26"
         }
     ]
 }
