@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/01/34908695.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "代表國民黨出席IDU會議 陳以信：鄭麗文提並重北京、華府有助台海和平",
+            "link": "https://udn.com//news/story/6656/9476947?from=udn-catebreaknews_ch2",
+            "time": "2026-05-01 23:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/01/34908568.jpg&M=1&s=Y&x=0&y=79&sw=1280&sh=854&exp=3600&w=300",
             "title": "台灣政府曾允許、鼓勵「雙重國籍」至今仍存在執行上的彈性",
             "link": "https://udn.com//news/story/7314/9476434?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "鄭麗文訪美喊見川普 王定宇：若綁國防預算就是拿2300萬人安全當肉票",
             "link": "https://udn.com//news/story/6656/9476650?from=udn-catebreaknews_ch2",
             "time": "2026-05-01 19:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/01/34908250.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "賴總統稱一粒粒檢查進口馬鈴薯 陳菁徽：邊境人員拳頭都硬了",
-            "link": "https://udn.com//news/story/6656/9476598?from=udn-catebreaknews_ch2",
-            "time": "2026-05-01 18:12"
         }
     ]
 }
