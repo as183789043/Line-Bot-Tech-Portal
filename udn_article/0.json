@@ -1,6 +1,12 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/02/34908807.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "伊朗提美伊終戰新方案 川普不滿意",
+            "link": "https://udn.com//news/story/6809/9477049?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-05-02 01:40"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/02/34908764.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "懲罰歐盟不遵守貿易協議 川普：向汽車和卡車課25％關稅",
             "link": "https://udn.com//news/story/6811/9477033?from=udn-ch1_breaknews-1-0-news",
@@ -23,12 +29,6 @@
             "title": "一家三口高雄旅遊散步遭車衝撞 丈夫和母不治她重傷",
             "link": "https://udn.com//news/story/7320/9476969?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-05-01 23:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/01/34908711.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "美國防部：Anthropic仍構成風險 但該公司Mythos模型另當別論",
-            "link": "https://udn.com//news/story/6813/9476966?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-05-01 23:42"
         }
     ]
 }
