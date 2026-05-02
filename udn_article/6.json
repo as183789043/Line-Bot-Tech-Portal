@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/02/34910005.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "龔明鑫主持「鳳凰城台灣貿易投資中心」揭牌 下一站華府",
+            "link": "https://udn.com//news/story/7238/9477800?from=udn-catebreaknews_ch2",
+            "time": "2026-05-02 16:30"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/02/34909927.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "龔明鑫赴美出席SelectUSA 也為鳳凰城台灣貿易投資中心揭牌",
+            "link": "https://udn.com//news/story/7238/9477753?from=udn-catebreaknews_ch2",
+            "time": "2026-05-02 15:43"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/02/34909744.jpg&M=1&s=Y&x=0&y=0&sw=1204&sh=803&exp=3600&w=300",
             "title": "研調：台積電先進製程領先 3奈米產能估2026年底逾5奈米",
             "link": "https://udn.com//news/story/7240/9477617?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2026-05-02 13:30"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
             "title": "內政部：政黨應於5月底前財產申報 違者最高罰500萬元",
             "link": "https://udn.com//news/story/7238/9477540?from=udn-catebreaknews_ch2",
             "time": "2026-05-02 12:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/02/34909522.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "碳費造成建築成本增5%？環境部再次澄清：不影響房價",
-            "link": "https://udn.com//news/story/7238/9477527?from=udn-catebreaknews_ch2",
-            "time": "2026-05-02 12:38"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/02/34909463.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "孫明德時間／美伊戰燒不停 台灣經濟受影響微乎其微",
-            "link": "https://udn.com//news/story/7238/9477508?from=udn-catebreaknews_ch2",
-            "time": "2026-05-02 12:24"
         }
     ]
 }
