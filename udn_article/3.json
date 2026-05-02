@@ -1,9 +1,21 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/02/34910429.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "終戰卡關 伊朗遞新方案 川普不滿意",
-            "link": "https://udn.com//news/story/124061/9478123?from=udn-catebreaknews_ch2",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
+            "title": "加快美軍AI轉型 五角大廈與輝達等8公司達協議",
+            "link": "https://udn.com//news/story/6813/9478126?from=udn-catebreaknews_ch2",
+            "time": "2026-05-03 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/02/34910457.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "不敵油價漲勢 美廉航「精神航空」熄燈",
+            "link": "https://udn.com//news/story/6811/9478225?from=udn-catebreaknews_ch2",
+            "time": "2026-05-03 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
+            "title": "中東戰爭 加劇美歐裂痕",
+            "link": "https://udn.com//news/story/6809/9478125?from=udn-catebreaknews_ch2",
             "time": "2026-05-03 00:00"
         },
         {
@@ -13,21 +25,9 @@
             "time": "2026-05-03 00:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
-            "title": "中東戰爭 加劇美歐裂痕",
-            "link": "https://udn.com//news/story/6809/9478125?from=udn-catebreaknews_ch2",
-            "time": "2026-05-03 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
-            "title": "加快美軍AI轉型 五角大廈與輝達等8公司達協議",
-            "link": "https://udn.com//news/story/6813/9478126?from=udn-catebreaknews_ch2",
-            "time": "2026-05-03 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/02/34910424.jpg&M=2&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "中美角力 美制裁陸煉油廠 北京阻斷禁令反擊",
-            "link": "https://udn.com//news/story/6809/9478169?from=udn-catebreaknews_ch2",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/02/34910429.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "終戰卡關 伊朗遞新方案 川普不滿意",
+            "link": "https://udn.com//news/story/124061/9478123?from=udn-catebreaknews_ch2",
             "time": "2026-05-03 00:00"
         }
     ]
