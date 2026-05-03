@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/03/34912553.png&M=1&s=Y&x=0&y=0&sw=1085&sh=723&exp=3600&w=300",
+            "title": "賴總統搭史國專機出訪史瓦帝尼 美國務院：不該被政治化",
+            "link": "https://udn.com//news/story/124844/9479548?from=udn-catebreaknews_ch2",
+            "time": "2026-05-03 23:21"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/03/34912435.jpg&M=1&s=Y&x=0&y=0&sw=1179&sh=787&exp=3600&w=300",
             "title": "賴總統：台史最大合作 儲油槽與產創園區具戰略意義",
             "link": "https://udn.com//news/story/124844/9479402?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "農技團深耕友邦史瓦帝尼 賴總統：紅心芭樂見證台史友好",
             "link": "https://udn.com//news/story/124844/9479296?from=udn-catebreaknews_ch2",
             "time": "2026-05-03 21:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/03/34912243.jpg&M=1&s=Y&x=0&y=122&sw=1060&sh=707&exp=3600&w=300",
-            "title": "賴總統「突襲式」訪問史瓦帝尼 華爾街日報：台灣出奇制勝",
-            "link": "https://udn.com//news/story/124844/9479173?from=udn-catebreaknews_ch2",
-            "time": "2026-05-03 21:05"
         }
     ]
 }
