@@ -1,6 +1,12 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/04/34912776.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "變天了 吳德榮：首波梅雨季鋒面降雨往南擴大 全台降溫",
+            "link": "https://udn.com//news/story/7266/9479658?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-05-04 05:25"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/04/34912653.png&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
             "title": "凌晨0時18分東部海域規模5.3地震 最大震度1級",
             "link": "https://udn.com//news/story/7266/9479613?from=udn-ch1_breaknews-1-0-news",
@@ -23,12 +29,6 @@
             "title": "儘管中東戰事未決 美財長：川習會應該不會再延期",
             "link": "https://udn.com//news/story/6809/9479574?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-05-03 23:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/03/34912553.png&M=1&s=Y&x=0&y=0&sw=1085&sh=723&exp=3600&w=300",
-            "title": "賴總統搭史國專機出訪史瓦帝尼 美國務院：不該被政治化",
-            "link": "https://udn.com//news/story/124844/9479548?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-05-03 23:21"
         }
     ]
 }
