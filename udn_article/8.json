@@ -1,8 +1,26 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/05/34915944.jpg&M=1&s=Y&x=0&y=28&sw=904&sh=603&exp=3600&w=300",
+            "title": "第36屆醫療奉獻獎報名 歡迎舉薦",
+            "link": "https://udn.com//news/story/7266/9481783?from=udn-catebreaknews_ch2",
+            "time": "2026-05-05 02:30"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/05/34915942.jpg&M=1&s=Y&x=0&y=410&sw=960&sh=640&exp=3600&w=300",
+            "title": "健康你我他／點藥冰敷忍住揉眼 與結膜炎和平共處",
+            "link": "https://udn.com//news/story/7266/9481782?from=udn-catebreaknews_ch2",
+            "time": "2026-05-05 02:24"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/05/34915938.jpg&M=1&s=Y&x=254&y=27&sw=993&sh=753&exp=3600&w=300",
+            "title": "健康主題館／全台200萬人患氣喘 僅70萬人就醫追蹤",
+            "link": "https://udn.com//news/story/7266/9481781?from=udn-catebreaknews_ch2",
+            "time": "2026-05-05 02:14"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/05/34915993.jpg&M=1&s=Y&x=0&y=56&sw=1005&sh=669&exp=3600&w=300",
-            "title": "安寧療護 不是不救 是讓病人好走",
+            "title": "健康名人堂／安寧療護 不是不救 是讓病人好走",
             "link": "https://udn.com//news/story/7266/9481752?from=udn-catebreaknews_ch2",
             "time": "2026-05-05 02:09"
         },
@@ -11,24 +29,6 @@
             "title": "凌晨1時30分花蓮新城發生規模3.2地震 最大震度2級",
             "link": "https://udn.com//news/story/7266/9481800?from=udn-catebreaknews_ch2",
             "time": "2026-05-05 01:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/04/34915878.jpg&M=1&s=Y&x=0&y=0&sw=929&sh=620&exp=3600&w=300",
-            "title": "解釋性新聞／淡江大橋施工規格 比照核電廠、水壩",
-            "link": "https://udn.com//news/story/7266/9481729?from=udn-catebreaknews_ch2",
-            "time": "2026-05-05 00:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/05/34915918.jpg&M=1&s=Y&x=0&y=0&sw=1065&sh=710&exp=3600&w=300",
-            "title": "新竹奧客飆罵店員還摔菜單！老闆娘霸氣反擊 網友狂刷五星力挺",
-            "link": "https://udn.com//news/story/7266/9481769?from=udn-catebreaknews_ch2",
-            "time": "2026-05-05 00:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/05/34915898.jpg&M=1&s=Y&x=59&y=0&sw=1080&sh=720&exp=3600&w=300",
-            "title": "解釋性新聞／工法複雜 橋體曲線如舞者 燈也裝阻尼器",
-            "link": "https://udn.com//news/story/7266/9481727?from=udn-catebreaknews_ch2",
-            "time": "2026-05-05 00:06"
         }
     ]
 }
