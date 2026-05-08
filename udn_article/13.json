@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/08/34929033.jpg&M=1&s=Y&x=0&y=77&sw=1280&sh=853&exp=3600&w=300",
+            "title": "母親罹癌他創業賣健康蛋糕 用科學角度著手研發、失敗727顆後創出「起士公爵」",
+            "link": "https://udn.com//news/story/6839/9490336?from=udn-catebreaknews_ch2",
+            "time": "2026-05-08 14:03"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/08/34927678.jpg&M=1&s=Y&x=72&y=0&sw=1085&sh=723&exp=3600&w=300",
             "title": "AI創新百強》AI轉型三避坑指南 和碩帶工程師上產線減76%人力",
             "link": "https://udn.com//news/story/6837/9489548?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "AI ASIC商機夯 聯發科第二：意騰-KY",
             "link": "https://udn.com//news/story/6850/9487988?from=udn-catebreaknews_ch2",
             "time": "2026-05-07 15:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/07/34923821.jpg&M=1&s=Y&x=0&y=0&sw=960&sh=640&exp=3600&w=300",
-            "title": "小確幸變賭上人生 美研究：買不起房子會改變行為",
-            "link": "https://udn.com//news/story/6897/9487111?from=udn-catebreaknews_ch2",
-            "time": "2026-05-07 15:05"
         }
     ]
 }
