@@ -1,13 +1,19 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/09/34931006.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "美就業數據報喜 標普500和那斯達克指數再創高",
+            "link": "https://udn.com//news/story/6811/9491679?from=udn-catebreaknews_ch2",
+            "time": "2026-05-09 06:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/09/34930975.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "川普宣布俄烏停火3天 盼成終戰開端",
             "link": "https://udn.com//news/story/6809/9491671?from=udn-catebreaknews_ch2",
             "time": "2026-05-09 05:25"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
             "title": "聯合國蔬菜油、肉類上漲糧價指數攀三年新高",
             "link": "https://udn.com//news/story/6811/9491436?from=udn-catebreaknews_ch2",
             "time": "2026-05-09 03:40"
@@ -23,12 +29,6 @@
             "title": "川普嗆提高關稅 要歐盟7/4前批准貿易協議",
             "link": "https://udn.com//news/story/6811/9491594?from=udn-catebreaknews_ch2",
             "time": "2026-05-09 02:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/09/34930924.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "10%關稅違法 學者：川普可用232條款對半導體開刀",
-            "link": "https://udn.com//news/story/6811/9491593?from=udn-catebreaknews_ch2",
-            "time": "2026-05-09 02:05"
         }
     ]
 }
