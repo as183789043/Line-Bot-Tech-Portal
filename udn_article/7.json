@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
+            "title": "買台股有如買台積…股市結構性風險難躲",
+            "link": "https://udn.com//news/story/7251/9494082?from=udn-catebreaknews_ch2",
+            "time": "2026-05-11 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/10/34934217.jpg&M=1&s=Y&x=0&y=0&sw=1080&sh=720&exp=3600&w=300",
             "title": "逾80億新單陸續啟動 久舜營運可望逐季攀升",
             "link": "https://udn.com//news/story/7254/9494041?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股上周漲6.8%周線翻紅 假日前賣壓消化完畢 台股本周續攻機率高",
             "link": "https://udn.com//news/story/7251/9493434?from=udn-catebreaknews_ch2",
             "time": "2026-05-10 13:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/07/34924569.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "被動式ETF換血成分股聚焦 0050、00878、00919等將接力登場",
-            "link": "https://udn.com//news/story/123006/9492850?from=udn-catebreaknews_ch2",
-            "time": "2026-05-10 02:48"
         }
     ]
 }
