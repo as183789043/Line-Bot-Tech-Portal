@@ -1,6 +1,12 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/09/34932364.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=853&exp=3600&w=300",
+            "title": "輝達靠它崛起…打造AI軟實力 台灣要把握唯一機會",
+            "link": "https://udn.com//news/story/7238/9494264?from=udn-catebreaknews_ch2",
+            "time": "2026-05-11 07:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/10/34934216.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600&w=300",
             "title": "大師論壇12日登場／亞大校長蔡進發：培養 AI 不具備的能力",
             "link": "https://udn.com//news/story/7241/9494035?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2026-05-11 02:35"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_0.jpg&w=300",
             "title": "亞資專區熱 高雄辦公室不好租",
             "link": "https://udn.com//news/story/7239/9494043?from=udn-catebreaknews_ch2",
             "time": "2026-05-11 02:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/09/34932134.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台積電奪蘋果數據機晶片大單",
-            "link": "https://udn.com//news/story/7240/9494061?from=udn-catebreaknews_ch2",
-            "time": "2026-05-11 02:22"
         }
     ]
 }
