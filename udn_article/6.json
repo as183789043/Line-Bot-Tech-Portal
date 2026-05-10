@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/10/34933065.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "面臨父母長照問題…還被迫聽主管們抱怨工作和家庭 職業婦女精神崩潰",
+            "link": "https://udn.com//news/story/121591/9483013?from=udn-catebreaknews_ch2",
+            "time": "2026-05-10 10:40"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/09/34932063.jpg&M=1&s=Y&x=0&y=0&sw=1264&sh=843&exp=3600&w=300",
+            "title": "本周台股／AI點火台股短期漲幅驚人 專家提醒2反轉訊號",
+            "link": "https://udn.com//news/story/7238/9493092?from=udn-catebreaknews_ch2",
+            "time": "2026-05-10 10:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/08/34929794.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "匯市最前線／台幣31.3~31.8元波動",
             "link": "https://udn.com//news/story/7239/9492770?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2026-05-10 02:39"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_5.jpg&w=300",
             "title": "軍購預算過關 工具機產業受惠",
             "link": "https://udn.com//news/story/7241/9492837?from=udn-catebreaknews_ch2",
             "time": "2026-05-10 02:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/02/34722544.png&M=1&s=Y&x=0&y=0&sw=1076&sh=717&exp=3600&w=300",
-            "title": "代工廠攻AI 資本支出飆 鴻海、廣達等卡位伺服器、基建紅利",
-            "link": "https://udn.com//news/story/7240/9492838?from=udn-catebreaknews_ch2",
-            "time": "2026-05-10 02:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_0.jpg&w=300",
-            "title": "強勁AI需求 九大雲端廠投資將升溫",
-            "link": "https://udn.com//news/story/7240/9492842?from=udn-catebreaknews_ch2",
-            "time": "2026-05-10 02:33"
         }
     ]
 }
