@@ -1,6 +1,24 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/12/34937392.png&M=1&s=Y&x=0&y=0&sw=1278&sh=853&exp=3600&w=300",
+            "title": "又傳關廠大裁員…賴政府沉醉台股4萬點 不知傳產勞工苦",
+            "link": "https://udn.com//news/story/6656/9496464?from=udn-catebreaknews_ch2",
+            "time": "2026-05-12 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/11/34937215.png&M=1&s=Y&x=0&y=17&sw=1280&sh=853&exp=3600&w=300",
+            "title": "今年到哪考教甄？圖解各地開缺增幅 錄取率愈來愈驚人",
+            "link": "https://udn.com//news/story/7314/9496463?from=udn-catebreaknews_ch2",
+            "time": "2026-05-12 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/11/34936747.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "華府直擊／美方對軍購預算不滿 朝野觀望川習會再攤牌",
+            "link": "https://udn.com//news/story/6656/9496446?from=udn-catebreaknews_ch2",
+            "time": "2026-05-12 05:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/12/34937299.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "陽光行動／碳費開徵… 碳權配套牛步 企業競爭力隱憂",
             "link": "https://udn.com//news/story/124873/9496361?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "7800億元軍購過關…美資深官員失望 國民黨：別光看數字",
             "link": "https://udn.com//news/story/124768/9496328?from=udn-catebreaknews_ch2",
             "time": "2026-05-12 00:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
-            "title": "美跨黨議員籲川普 加快140億美元對台軍售",
-            "link": "https://udn.com//news/story/124768/9496329?from=udn-catebreaknews_ch2",
-            "time": "2026-05-12 00:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/12/34937328.jpg&M=1&s=Y&x=0&y=0&sw=996&sh=664&exp=3600&w=300",
-            "title": "首都之戰…民進黨明拍板 沈伯洋挑戰蔣萬安",
-            "link": "https://udn.com//news/story/124652/9496336?from=udn-catebreaknews_ch2",
-            "time": "2026-05-12 00:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
-            "title": "訪美2周 鄭麗文：向美傳達和平信心",
-            "link": "https://udn.com//news/story/6656/9496333?from=udn-catebreaknews_ch2",
-            "time": "2026-05-12 00:15"
         }
     ]
 }
