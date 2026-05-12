@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/12/34938619.jpg&M=1&s=Y&x=178&y=118&sw=1102&sh=736&exp=3600&w=300",
+            "title": "半導體瘋狂上漲 短線過熱了嗎？專家提5指標",
+            "link": "https://udn.com//news/story/6841/9497199?from=udn-catebreaknews_ch2",
+            "time": "2026-05-12 12:05"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/12/34937978.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台光電搭AI列車翻身 南亞錯失5兆市值機會…謝金河：競速時代經營者須站第一線",
             "link": "https://udn.com//news/story/6839/9496850?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "喃喃智語二：宋學文分析美中新局",
             "link": "https://udn.com//news/story/6848/9495329?from=udn-catebreaknews_ch2",
             "time": "2026-05-12 07:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/11/34936185.jpg&M=1&s=Y&x=1&y=171&sw=718&sh=478&exp=3600&w=300",
-            "title": "從LINE Pay推手到AI管理者的領航指南",
-            "link": "https://udn.com//news/story/6848/9495319?from=udn-catebreaknews_ch2",
-            "time": "2026-05-12 07:25"
         }
     ]
 }
