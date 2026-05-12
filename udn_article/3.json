@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/08/34928868.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "台灣成川習會菜單？回顧歷任美國總統訪中對台灣的影響",
+            "link": "https://udn.com//news/story/6809/9499060?from=udn-catebreaknews_ch2",
+            "time": "2026-05-13 06:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/13/34941314.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "川習會在即 川普：他會與習近平長談伊朗",
             "link": "https://udn.com//news/story/124870/9499002?from=udn-catebreaknews_ch2",
@@ -13,22 +19,16 @@
             "time": "2026-05-13 04:35"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
             "title": "日本干預匯市 美方默許",
             "link": "https://udn.com//news/story/6811/9498688?from=udn-catebreaknews_ch2",
             "time": "2026-05-13 02:54"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
             "title": "戰爭衝擊料源 卡樂比洋芋片 改黑白包裝",
             "link": "https://udn.com//news/story/6811/9498686?from=udn-catebreaknews_ch2",
             "time": "2026-05-13 02:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
-            "title": "戰爭衝擊料源 資生堂換原料 關閉台灣廠",
-            "link": "https://udn.com//news/story/6811/9498687?from=udn-catebreaknews_ch2",
-            "time": "2026-05-13 02:53"
         }
     ]
 }
