@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/13/34943461.jpg&M=2&s=Y&x=201&y=0&sw=1079&sh=719&exp=3600&w=300",
+            "title": "美伊衝突補充彈藥花費無底洞 美財政面臨龐大壓力",
+            "link": "https://udn.com//news/story/10930/9501599?from=udn-catebreaknews_ch2",
+            "time": "2026-05-14 07:31"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/14/34945299.png&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "【專家之眼】從川習會看台灣「知中者萎縮」問題",
             "link": "https://udn.com//news/story/124877/9501547?from=udn-catebreaknews_ch2",
@@ -15,20 +21,14 @@
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/13/34941940.jpg&M=3&s=Y&x=18&y=0&sw=1262&sh=841&exp=3600&w=300",
             "title": "台南主委之爭「賴系」大亂鬥 賴清德威信搖搖欲墜？",
-            "link": "https://udn.com//news/story/6656/9501532?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124652/9501532?from=udn-catebreaknews_ch2",
             "time": "2026-05-14 05:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_0.jpg&w=300",
             "title": "川習會「台灣議題」 三個面向攻守交鋒",
             "link": "https://udn.com//news/story/124877/9501348?from=udn-catebreaknews_ch2",
             "time": "2026-05-14 01:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
-            "title": "川習會對台軍售話題 亞洲緊盯",
-            "link": "https://udn.com//news/story/124877/9501351?from=udn-catebreaknews_ch2",
-            "time": "2026-05-14 01:20"
         }
     ]
 }
