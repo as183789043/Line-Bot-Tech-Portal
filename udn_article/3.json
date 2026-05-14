@@ -1,13 +1,19 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/15/34949188.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "俄開戰來最大規模空中攻擊 逾1500架無人機襲烏",
+            "link": "https://udn.com//news/story/6809/9504015?from=udn-catebreaknews_ch2",
+            "time": "2026-05-15 03:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/14/34948869.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "金磚國外長會 恐難達共識",
             "link": "https://udn.com//news/story/6811/9503769?from=udn-catebreaknews_ch2",
             "time": "2026-05-15 02:36"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
             "title": "美4月零售銷售增速放緩",
             "link": "https://udn.com//news/story/6811/9503765?from=udn-catebreaknews_ch2",
             "time": "2026-05-15 02:36"
@@ -19,16 +25,10 @@
             "time": "2026-05-15 02:35"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
             "title": "30年美債得標殖利率逾5%",
             "link": "https://udn.com//news/story/6811/9503763?from=udn-catebreaknews_ch2",
             "time": "2026-05-15 02:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/14/34948913.jpg&M=1&s=Y&x=0&y=0&sw=1002&sh=668&exp=3600&w=300",
-            "title": "Cerebras好狂…募資55億美元 今年最大 IPO 案",
-            "link": "https://udn.com//news/story/6811/9503813?from=udn-catebreaknews_ch2",
-            "time": "2026-05-15 02:34"
         }
     ]
 }
