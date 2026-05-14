@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/14/34945790.jpg&M=1&s=Y&x=38&y=111&sw=1119&sh=747&exp=3600&w=300",
+            "title": "只有16%存夠錢退休？美國X世代如何迷上「住車游牧」式生活",
+            "link": "https://udn.com//news/story/6841/9501865?from=udn-catebreaknews_ch2",
+            "time": "2026-05-14 10:07"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/14/34945469.jpg&M=1&s=Y&x=0&y=0&sw=1277&sh=851&exp=3600&w=300",
+            "title": "「滾動式通膨」讓體感變差 也是財富的隱形殺手",
+            "link": "https://udn.com//news/story/6897/9501677?from=udn-catebreaknews_ch2",
+            "time": "2026-05-14 09:12"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/13/34943722.jpg&M=1&s=Y&x=0&y=0&sw=960&sh=640&exp=3600&w=300",
             "title": "CPO封裝下的矽光測試革命與技術屏障",
             "link": "https://udn.com//news/story/6903/9500394?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "從資料中心到先進封裝的散熱變革",
             "link": "https://udn.com//news/story/6903/9500496?from=udn-catebreaknews_ch2",
             "time": "2026-05-14 07:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/13/34943968.jpg&M=1&s=Y&x=0&y=0&sw=1276&sh=850&exp=3600&w=300",
-            "title": "挑戰供應鏈韌性 高能效馬達爭商機",
-            "link": "https://udn.com//news/story/11726/9500533?from=udn-catebreaknews_ch2",
-            "time": "2026-05-14 07:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/13/34943985.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "迎接邊緣AI新變局",
-            "link": "https://udn.com//news/story/11726/9500552?from=udn-catebreaknews_ch2",
-            "time": "2026-05-14 07:32"
         }
     ]
 }
