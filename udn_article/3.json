@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/14/34947305.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "蘋果攜手英特爾代工晶片 沒有輸家的一場政治大戲",
+            "link": "https://udn.com//news/story/6811/9504073?from=udn-catebreaknews_ch2",
+            "time": "2026-05-15 06:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/14/34948966.png&M=1&s=Y&x=0&y=17&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台灣問題太敏感…圖解川習會座位安排 打破半世紀慣例",
+            "link": "https://udn.com//news/story/124870/9504067?from=udn-catebreaknews_ch2",
+            "time": "2026-05-15 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/15/34949197.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "美股三大指數齊創新高 道瓊首破5萬大關、台積電ADR狂飆4.4%",
+            "link": "https://udn.com//news/story/6811/9504050?from=udn-catebreaknews_ch2",
+            "time": "2026-05-15 04:48"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/15/34949188.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "俄開戰來最大規模空中攻擊 逾1500架無人機襲烏",
             "link": "https://udn.com//news/story/6809/9504015?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "金磚國外長會 恐難達共識",
             "link": "https://udn.com//news/story/6811/9503769?from=udn-catebreaknews_ch2",
             "time": "2026-05-15 02:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
-            "title": "美4月零售銷售增速放緩",
-            "link": "https://udn.com//news/story/6811/9503765?from=udn-catebreaknews_ch2",
-            "time": "2026-05-15 02:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/15/34949152.png&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "三星減產 為罷工打預防針",
-            "link": "https://udn.com//news/story/6811/9503787?from=udn-catebreaknews_ch2",
-            "time": "2026-05-15 02:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
-            "title": "30年美債得標殖利率逾5%",
-            "link": "https://udn.com//news/story/6811/9503763?from=udn-catebreaknews_ch2",
-            "time": "2026-05-15 02:35"
         }
     ]
 }
