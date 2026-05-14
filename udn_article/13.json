@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/14/34946600.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "房貸申辦全攻略！銀行4大潛規則 傳統型、回復型、理財型 何種利率最低？",
+            "link": "https://udn.com//news/story/6839/9502320?from=udn-catebreaknews_ch2",
+            "time": "2026-05-14 12:38"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/14/34946636.jpg&M=1&s=Y&x=126&y=0&sw=1126&sh=751&exp=3600&w=300",
+            "title": "台積電、台達電、雷虎…卡位520行情 13檔指標好股出爐！台股5月還有3利多",
+            "link": "https://udn.com//news/story/6839/9502346?from=udn-catebreaknews_ch2",
+            "time": "2026-05-14 12:36"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/14/34945790.jpg&M=1&s=Y&x=38&y=111&sw=1119&sh=747&exp=3600&w=300",
             "title": "只有16%存夠錢退休？美國X世代如何迷上「住車游牧」式生活",
             "link": "https://udn.com//news/story/6841/9501865?from=udn-catebreaknews_ch2",
@@ -16,18 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/13/34943722.jpg&M=1&s=Y&x=0&y=0&sw=960&sh=640&exp=3600&w=300",
             "title": "CPO封裝下的矽光測試革命與技術屏障",
             "link": "https://udn.com//news/story/6903/9500394?from=udn-catebreaknews_ch2",
-            "time": "2026-05-14 07:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/13/34943791.jpg&M=1&s=Y&x=0&y=0&sw=1135&sh=757&exp=3600&w=300",
-            "title": "跨越地平線的通訊革命：NTN非地面網路深度探析",
-            "link": "https://udn.com//news/story/6903/9500420?from=udn-catebreaknews_ch2",
-            "time": "2026-05-14 07:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/13/34943888.jpg&M=1&s=Y&x=0&y=0&sw=1050&sh=700&exp=3600&w=300",
-            "title": "從資料中心到先進封裝的散熱變革",
-            "link": "https://udn.com//news/story/6903/9500496?from=udn-catebreaknews_ch2",
             "time": "2026-05-14 07:33"
         }
     ]
