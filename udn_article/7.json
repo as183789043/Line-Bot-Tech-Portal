@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
+            "title": "台達化法說會／利差改善但原料供應受阻 第2季營運仍處高成本、低開工",
+            "link": "https://udn.com//news/story/7252/9505990?from=udn-catebreaknews_ch2",
+            "time": "2026-05-15 23:26"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/05/31/realtime/12390695.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600&w=300",
+            "title": "亞聚法說會／LDPE內銷穩定 EVA第2季供過於求壓力仍在",
+            "link": "https://udn.com//news/story/7252/9505829?from=udn-catebreaknews_ch2",
+            "time": "2026-05-15 22:27"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/09/34840902.jpg&M=1&s=Y&x=199&y=0&sw=1081&sh=721&exp=3600&w=300",
+            "title": "台聚法說會／預估5月HDPE、LDPE買氣持穩 EVA需求轉保守",
+            "link": "https://udn.com//news/story/7252/9505812?from=udn-catebreaknews_ch2",
+            "time": "2026-05-15 22:11"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/29/34902605.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "國際情勢風起雲湧 美股電子盤、台指期夜盤腿軟",
             "link": "https://udn.com//news/story/7255/9505714?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "大摩：奇鋐2027年EPS 上修至145.03元 目標價上調至3,333元",
             "link": "https://udn.com//news/story/7253/9505582?from=udn-catebreaknews_ch2",
             "time": "2026-05-15 19:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/15/34951434.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "技嘉法說會／今年AI業務維持三位數成長 2026年營收將持續攀高",
-            "link": "https://udn.com//news/story/7253/9505519?from=udn-catebreaknews_ch2",
-            "time": "2026-05-15 18:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/04/2/31024157.jpg&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
-            "title": "台聚法說會／4月本業轉盈、5月利差有撐 EVA 後市仍承壓",
-            "link": "https://udn.com//news/story/7252/9505515?from=udn-catebreaknews_ch2",
-            "time": "2026-05-15 18:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/06/34736786.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "技嘉法說會／營收、獲利齊創高 GB300布局完整、VR系列即將接棒",
-            "link": "https://udn.com//news/story/7253/9505486?from=udn-catebreaknews_ch2",
-            "time": "2026-05-15 18:29"
         }
     ]
 }
