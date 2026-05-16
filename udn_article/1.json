@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
+            "title": "前駐美官員示警 美對台政策轉變是進行式",
+            "link": "https://udn.com//news/story/124877/9507325?from=udn-catebreaknews_ch2",
+            "time": "2026-05-17 02:43"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/17/34954154.jpg&M=1&s=Y&x=0&y=0&sw=1243&sh=829&exp=3600&w=300",
             "title": "聯合報一周大事5/10~5/16",
             "link": "https://udn.com//news/story/7314/9507452?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2026-05-17 00:21"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
             "title": "北市議員 藍營中正萬華初選 3搶1揭曉 張延廷勝出",
             "link": "https://udn.com//news/story/124652/9507433?from=udn-catebreaknews_ch2",
             "time": "2026-05-17 00:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/16/34952440.jpg&M=2&s=Y&x=0&y=0&sw=1280&sh=891&exp=3600&w=300",
-            "title": "歷史上的今天／1962寮國總理離台前 發表聯合公報反共",
-            "link": "https://udn.com//news/story/7314/9507446?from=udn-catebreaknews_ch2",
-            "time": "2026-05-17 00:02"
         }
     ]
 }
