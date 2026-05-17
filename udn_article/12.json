@@ -1,7 +1,19 @@
 {
     "兩岸": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/18/34956550.png&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "廣西柳州發生5.2級地震 部分房屋倒塌已致3人失聯",
+            "link": "https://udn.com//news/story/7332/9508981?from=udn-catebreaknews_ch2",
+            "time": "2026-05-18 07:26"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/17/34955452.png&M=1&s=Y&x=0&y=0&sw=1276&sh=851&exp=3600&w=300",
+            "title": "解放軍「何劍」宣傳核艦？陸首艘核動力航母傳2027下水",
+            "link": "https://udn.com//news/story/7331/9508969?from=udn-catebreaknews_ch2",
+            "time": "2026-05-18 07:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_1.jpg&w=300",
             "title": "翻倍成長…陸4月晶片出口 史詩級爆發",
             "link": "https://udn.com//news/story/7333/9508738?from=udn-catebreaknews_ch2",
             "time": "2026-05-18 05:35"
@@ -17,18 +29,6 @@
             "title": "北京科博會 沉浸式體驗",
             "link": "https://udn.com//news/story/7332/9508744?from=udn-catebreaknews_ch2",
             "time": "2026-05-18 05:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/17/34956205.jpg&M=1&s=Y&x=0&y=0&sw=588&sh=392&exp=3600&w=300",
-            "title": "三星堆7號坑 發現最早隕鐵文物",
-            "link": "https://udn.com//news/story/7332/9508746?from=udn-catebreaknews_ch2",
-            "time": "2026-05-18 05:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/17/34956228.jpg&M=1&s=Y&x=0&y=0&sw=1131&sh=754&exp=3600&w=300",
-            "title": "長鑫存儲DDR5 規模化量產…與SK海力士、三星並列第一梯隊",
-            "link": "https://udn.com//news/story/7333/9508774?from=udn-catebreaknews_ch2",
-            "time": "2026-05-18 01:26"
         }
     ]
 }
