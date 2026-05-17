@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/17/34956195.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "美貿易代表：對台軍售決定 川普將考量美中關係各項因素",
+            "link": "https://udn.com//news/story/10930/9508723?from=udn-catebreaknews_ch2",
+            "time": "2026-05-17 23:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/17/34956172.jpg&M=1&s=Y&x=0&y=0&sw=1239&sh=826&exp=3600&w=300",
             "title": "賴總統喊捍衛中華民國現狀 海委會主委管碧玲發文「團結支持賴總統」",
             "link": "https://udn.com//news/story/124877/9508690?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "批賴總統故弄玄虛…國民黨：用中華民國偷渡台獨 以為能呼嚨天下人？",
             "link": "https://udn.com//news/story/124877/9508611?from=udn-catebreaknews_ch2",
             "time": "2026-05-17 21:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/17/34956080.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "賴總統稱「沒有台獨問題」 民眾黨批玩文字遊戲：民進黨國家定位進退失據",
-            "link": "https://udn.com//news/story/124877/9508582?from=udn-catebreaknews_ch2",
-            "time": "2026-05-17 21:21"
         }
     ]
 }
