@@ -1,6 +1,18 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/22/34971123.jpg&M=1&s=Y&x=0&y=0&sw=1072&sh=714&exp=3600&w=300",
+            "title": "台灣虎航TTE線上旅展全航線1199元起 上午10時手刀開搶",
+            "link": "https://udn.com//news/story/7270/9518412?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-05-22 05:25"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/22/34971121.jpg&M=1&s=Y&x=0&y=0&sw=839&sh=559&exp=3600&w=300",
+            "title": "今熱爆上看38度極端高溫 吳德榮：明起6天炙熱如盛夏 將屢創今年高溫",
+            "link": "https://udn.com//news/story/7266/9518410?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-05-22 05:11"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/22/34971081.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "王世堅控Grab收購foodpanda偷跑 要求公平會嚴審",
             "link": "https://udn.com//news/story/7241/9518380?from=udn-ch1_breaknews-1-0-news",
@@ -17,18 +29,6 @@
             "title": "AMD宣布於台灣產業體系投資逾100億美元 加速建置AI基礎設施",
             "link": "https://udn.com//news/story/7240/9518362?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-05-22 01:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/22/34971041.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "AMD宣布採用台積電2奈米製程技術的下一代AMD EPYC處理Venice進入量產",
-            "link": "https://udn.com//news/story/7240/9518359?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-05-22 01:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/22/34970960.jpg&M=1&s=Y&x=0&y=0&sw=1254&sh=836&exp=3600&w=300",
-            "title": "製程需符合毒管法！吳宗憲貼文問林國漳「無人機產業鏈」健康評估呢？",
-            "link": "https://udn.com//news/story/124652/9518322?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-05-22 00:21"
         }
     ]
 }
