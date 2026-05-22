@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/22/34974009.jpg&M=1&s=Y&x=0&y=0&sw=1264&sh=842&exp=3600&w=300",
+            "title": "聽證會答詢 美海軍部長：暫停140億美元對台軍售",
+            "link": "https://udn.com/news/story/10930/9520403?from=udn_mobile_indexrecommend",
+            "time": "2026-05-23 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/22/34973958.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "專家：美以補裝備為由暫緩對台軍售 保川普顏面",
             "link": "https://udn.com/news/story/10930/9520354?from=udn_mobile_indexrecommend",
@@ -23,12 +29,6 @@
             "title": "馬辦釋出7段影片 金溥聰跟馬英九一問一答",
             "link": "https://udn.com/news/story/124889/9520432?from=udn_mobile_indexrecommend",
             "time": "2026-05-23 00:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/23/34974126.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "觀察站／未審先判 前法務部長能認同？",
-            "link": "https://udn.com/news/story/124889/9520436?from=udn_mobile_indexrecommend",
-            "time": "2026-05-23 00:43"
         }
     ]
 }
