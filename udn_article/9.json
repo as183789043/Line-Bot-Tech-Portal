@@ -1,8 +1,20 @@
 {
     "文教": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/26/34981405.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台博館「時代的訊號」 重現神秘台灣之音",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/07/34925485.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
+            "title": "科學人／當電腦出現第二個游標…我的工作就變了",
+            "link": "https://udn.com//news/story/6904/9488067?from=udn-catebreaknews_ch2",
+            "time": "2026-05-26 08:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/25/34980088.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600&w=300",
+            "title": "高薪搶外師／教部高薪延攬外師 卻難解本地師低薪困境",
+            "link": "https://udn.com//news/story/6885/9525378?from=udn-catebreaknews_ch2",
+            "time": "2026-05-26 07:30"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/26/34981406.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台博館「時代的訊號」 重現神秘台灣之音「2127263023」",
             "link": "https://udn.com//news/story/6885/9525323?from=udn-catebreaknews_ch2",
             "time": "2026-05-26 05:01"
         },
@@ -17,18 +29,6 @@
             "title": "屏東今年13名國小校長退休 115學年度國中小校長首波遴選公布",
             "link": "https://udn.com//news/story/6898/9524810?from=udn-catebreaknews_ch2",
             "time": "2026-05-25 19:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/25/34980723.jpg&M=1&s=Y&x=0&y=0&sw=1071&sh=714&exp=3600&w=300",
-            "title": "班級落差32班！莊競程拋「完全中學」構想 留住新竹高中生",
-            "link": "https://udn.com//news/story/6898/9524692?from=udn-catebreaknews_ch2",
-            "time": "2026-05-25 18:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/25/34979615.jpg&M=1&s=Y&x=0&y=0&sw=1079&sh=719&exp=3600&w=300",
-            "title": "教育部攜手新光、台新 力挺青年海外圓夢",
-            "link": "https://udn.com//news/story/6885/9523939?from=udn-catebreaknews_ch2",
-            "time": "2026-05-25 12:44"
         }
     ]
 }
