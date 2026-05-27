@@ -1,7 +1,25 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/28/34988529.jpg&M=1&s=Y&x=126&y=50&sw=1121&sh=775&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/28/34988481.png&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
+            "title": "台股、人均GDP強強滾 大禮包能擋台灣滑向「富國窮民」？",
+            "link": "https://udn.com//news/story/6656/9530192?from=udn-catebreaknews_ch2",
+            "time": "2026-05-28 05:51"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/27/34988304.png&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
+            "title": "3800億從哪來 圖解少子化大禮包 挖出吞金怪獸",
+            "link": "https://udn.com//news/story/7314/9530191?from=udn-catebreaknews_ch2",
+            "time": "2026-05-28 05:51"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/27/34987227.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "賴總統彈劾案留汙點 在野狗吠火車難敵主場優勢？",
+            "link": "https://udn.com//news/story/6656/9530171?from=udn-catebreaknews_ch2",
+            "time": "2026-05-28 05:01"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/28/34988529.jpg&M=1&s=Y&x=137&y=0&sw=1143&sh=762&exp=3600&w=300",
             "title": "特別軍購預算 第一階段88億元初審過關",
             "link": "https://udn.com//news/story/10930/9530101?from=udn-catebreaknews_ch2",
             "time": "2026-05-28 02:18"
@@ -11,24 +29,6 @@
             "title": "鄭麗文再談訪美：守護憲法捍衛民主經濟",
             "link": "https://udn.com//news/story/6656/9530102?from=udn-catebreaknews_ch2",
             "time": "2026-05-28 02:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/28/34988450.jpg&M=1&s=Y&x=187&y=83&sw=920&sh=623&exp=3600&w=300",
-            "title": "谷立言提美建國故事：政壇死對頭也能修好",
-            "link": "https://udn.com//news/story/6656/9530100?from=udn-catebreaknews_ch2",
-            "time": "2026-05-28 02:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/28/34988456.jpg&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
-            "title": "出席AIT國慶酒會 鄭麗文向谷立言談將訪美",
-            "link": "https://udn.com//news/story/6656/9530105?from=udn-catebreaknews_ch2",
-            "time": "2026-05-28 00:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/27/34988372.jpg&M=1&s=Y&x=0&y=86&sw=1280&sh=853&exp=3600&w=300",
-            "title": "18項戰略 3800億元救少子化",
-            "link": "https://udn.com//news/story/124897/9530011?from=udn-catebreaknews_ch2",
-            "time": "2026-05-28 00:14"
         }
     ]
 }
