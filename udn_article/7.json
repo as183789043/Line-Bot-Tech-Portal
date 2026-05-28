@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
+            "title": "232關稅優惠／汽車零組件利多 股價上攻漲停",
+            "link": "https://udn.com//news/story/7251/9532320?from=udn-catebreaknews_ch2",
+            "time": "2026-05-29 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/28/34991829.jpg&M=1&s=Y&x=0&y=12&sw=1280&sh=853&exp=3600&w=300",
             "title": "在怕什麼？台股屢創新高但股民信心下滑 大型投顧法人這樣看",
             "link": "https://udn.com//news/story/7251/9532183?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台積電震盪收跌、鉅額交易卻點燈亮起「兩盞新高價」 台股有望衝上4萬5千點",
             "link": "https://udn.com//news/story/7251/9532076?from=udn-catebreaknews_ch2",
             "time": "2026-05-28 20:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/28/34991650.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "台積電病？新一波經濟奇蹟 台股躍升全球第五大股市背後的危險集中",
-            "link": "https://udn.com//news/story/12806/9532025?from=udn-catebreaknews_ch2",
-            "time": "2026-05-28 20:40"
         }
     ]
 }
