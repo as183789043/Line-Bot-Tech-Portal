@@ -1,16 +1,22 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/29/34992263.jpg&M=1&s=Y&x=0&y=0&sw=1143&sh=762&exp=3600&w=300",
+            "title": "國家級警報響！大雷雨狂轟基隆新北宜蘭 慎防強陣風伴隨閃電落雷",
+            "link": "https://udn.com/news/story/7266/9532582?from=udn_mobile_indexrecommend",
+            "time": "2026-05-29 06:19"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/29/34992275.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "美伊延長停火消息激勵美股三大指數創新高 標普500指數連六日上漲",
+            "link": "https://udn.com/news/story/6811/9532592?from=udn_mobile_indexrecommend",
+            "time": "2026-05-29 06:51"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/28/34991964.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=854&exp=3600&w=300",
             "title": "冷眼集／濫訴續命 黨產會才需要「轉型正義」",
             "link": "https://udn.com/news/story/6656/9532356?from=udn_mobile_indexrecommend",
             "time": "2026-05-29 00:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/28/34991994.jpg&M=1&s=Y&x=0&y=0&sw=1206&sh=804&exp=3600&w=300",
-            "title": "終極考驗 半導體關稅才是美國底牌",
-            "link": "https://udn.com/news/story/7238/9532364?from=udn_mobile_indexrecommend",
-            "time": "2026-05-29 00:00"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/28/34991962.png&M=1&s=Y&x=0&y=0&sw=876&sh=584&exp=3600&w=300",
@@ -19,16 +25,10 @@
             "time": "2026-05-29 00:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/28/34992008.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "政院不推專法改提失智綱領 專家：位階不夠",
-            "link": "https://udn.com/news/story/7314/9532395?from=udn_mobile_indexrecommend",
-            "time": "2026-05-29 00:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/29/34992058.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "新聞眼／卓揆錯誤認知 如何控管失智政策？",
-            "link": "https://udn.com/news/story/7314/9532399?from=udn_mobile_indexrecommend",
-            "time": "2026-05-29 00:25"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/28/34991994.jpg&M=1&s=Y&x=0&y=0&sw=1206&sh=804&exp=3600&w=300",
+            "title": "終極考驗 半導體關稅才是美國底牌",
+            "link": "https://udn.com/news/story/7238/9532364?from=udn_mobile_indexrecommend",
+            "time": "2026-05-29 00:00"
         }
     ]
 }
