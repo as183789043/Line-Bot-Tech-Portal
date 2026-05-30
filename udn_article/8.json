@@ -1,6 +1,24 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/30/34996815.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "雨神夜襲！午後對流旺盛「6縣市大雨特報」 一路持續到晚上",
+            "link": "https://udn.com//news/story/7266/9535667?from=udn-catebreaknews_ch2",
+            "time": "2026-05-30 19:38"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/30/34996806.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "旅客注意…台鐵自強號後連機車異常 晚點近半小時",
+            "link": "https://udn.com//news/story/7266/9535648?from=udn-catebreaknews_ch2",
+            "time": "2026-05-30 19:26"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/30/34996809.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "赴沖繩旅遊快看！受薔蜜颱風影響 國籍航空航班異動一次看",
+            "link": "https://udn.com//news/story/7266/9535646?from=udn-catebreaknews_ch2",
+            "time": "2026-05-30 19:26"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/30/34996727.png&M=1&s=Y&x=1&y=184&sw=678&sh=452&exp=3600&w=300",
             "title": "寵物不可放養 新北汐止貓咪疏縱致死遭罰4.5萬元",
             "link": "https://udn.com//news/story/7470/9535604?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "金門購物嘉年華開跑！消費登錄抽iPhone、家電大獎 一路抽到6月底",
             "link": "https://udn.com//news/story/7270/9535591?from=udn-catebreaknews_ch2",
             "time": "2026-05-30 18:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/30/34996659.jpg&M=1&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
-            "title": "日本爆紅兩周賣光！朝日未來檸檬沙瓦登台 開罐就看見整片檸檬漂浮",
-            "link": "https://udn.com//news/story/7270/9535563?from=udn-catebreaknews_ch2",
-            "time": "2026-05-30 17:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/30/34996656.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "受薔蜜颱風影響 台灣虎航往返沖繩6航班提前起飛",
-            "link": "https://udn.com//news/story/7266/9535555?from=udn-catebreaknews_ch2",
-            "time": "2026-05-30 17:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/30/34996632.jpg&M=1&s=Y&x=21&y=0&sw=1220&sh=813&exp=3600&w=300",
-            "title": "雨炸南台灣！午後對流雲系發展旺盛 8縣市大雨特報",
-            "link": "https://udn.com//news/story/7266/9535549?from=udn-catebreaknews_ch2",
-            "time": "2026-05-30 17:44"
         }
     ]
 }
