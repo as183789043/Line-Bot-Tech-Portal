@@ -1,8 +1,14 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/30/34996184.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "美股三大指數上周五創高 本周聚焦就業數據、博通財報",
+            "link": "https://udn.com//news/story/6811/9535858?from=udn-catebreaknews_ch2",
+            "time": "2026-05-31 02:31"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/31/34997271.jpg&M=1&s=Y&x=281&y=152&sw=726&sh=484&exp=3600&w=300",
-            "title": "防長會談…美日共同研發飛彈 與澳分享情資",
+            "title": "防長會談…美日共同研發飛彈 與澳洲分享情資",
             "link": "https://udn.com//news/story/6809/9535982?from=udn-catebreaknews_ch2",
             "time": "2026-05-31 01:38"
         },
@@ -23,12 +29,6 @@
             "title": "美墨談判…美國製造訂高標 北美製門檻由75%拉高至82%",
             "link": "https://udn.com//news/story/6811/9535905?from=udn-catebreaknews_ch2",
             "time": "2026-05-31 01:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
-            "title": "美軟體股強彈 AI威脅淡化",
-            "link": "https://udn.com//news/story/6811/9535896?from=udn-catebreaknews_ch2",
-            "time": "2026-05-31 01:24"
         }
     ]
 }
