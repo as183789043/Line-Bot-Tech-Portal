@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/01/35002610.jpg&M=1&s=Y&x=0&y=0&sw=1257&sh=837&exp=3600&w=300",
+            "title": "黃仁勳再喊話 台指期夜盤反彈逾百點",
+            "link": "https://udn.com//news/story/7255/9539227?from=udn-catebreaknews_ch2",
+            "time": "2026-06-01 21:06"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/01/35002524.png&M=1&s=Y&x=0&y=61&sw=1232&sh=821&exp=3600&w=300",
+            "title": "00900配息維持0.075元 單次配息率0.38%、年化配息率4.5%",
+            "link": "https://udn.com//news/story/123006/9539214?from=udn-catebreaknews_ch2",
+            "time": "2026-06-01 20:57"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/01/35002316.jpg&M=1&s=Y&x=0&y=73&sw=1280&sh=853&exp=3600&w=300",
             "title": "不只是手機晶片廠 高盛：聯發科靠「AI 賦能者」狂啃千億商機",
             "link": "https://udn.com//news/story/7253/9538981?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台股近三年半增值107兆元 專家示警過熱風險",
             "link": "https://udn.com//news/story/7251/9538890?from=udn-catebreaknews_ch2",
             "time": "2026-06-01 17:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/01/35002141.jpg&M=1&s=Y&x=0&y=65&sw=800&sh=533&exp=3600&w=300",
-            "title": "0050規模突破2兆元 295萬投資人共創市場新猷",
-            "link": "https://udn.com//news/story/123006/9538851?from=udn-catebreaknews_ch2",
-            "time": "2026-06-01 17:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/01/35002118.jpg&M=1&s=Y&x=0&y=25&sw=1179&sh=786&exp=3600&w=300",
-            "title": "外資買超368億元 最愛前十名中老AI 竟「僅此一家」",
-            "link": "https://udn.com//news/story/7251/9538848?from=udn-catebreaknews_ch2",
-            "time": "2026-06-01 17:34"
         }
     ]
 }
