@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/05/35017400.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
+            "title": "台積電除息大戲下周四登場 法人看好秒填息可期",
+            "link": "https://udn.com//news/story/7253/9548994?from=udn-catebreaknews_ch2",
+            "time": "2026-06-05 22:36"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/05/35017257.jpg&M=1&s=Y&x=138&y=0&sw=1125&sh=750&exp=3600&w=300",
+            "title": "COMPUTEX圓滿落幕 外資點名這九檔「資料中心硬體概念股」",
+            "link": "https://udn.com//news/story/7251/9548868?from=udn-catebreaknews_ch2",
+            "time": "2026-06-05 21:15"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/05/35017255.jpg&M=1&s=Y&x=0&y=0&sw=1260&sh=840&exp=3600&w=300",
+            "title": "非農數據攪局 台指期夜盤上半場一度大跌逾500點",
+            "link": "https://udn.com//news/story/7255/9548866?from=udn-catebreaknews_ch2",
+            "time": "2026-06-05 21:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/05/35017042.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "整理包／刪了哪些？0050、0056、00878、00919 四大ETF最新成分股調整一次看",
             "link": "https://udn.com//news/story/123006/9548670?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "三檔主動式ETF 6月9日同步掛牌上市 2家外資與1家本土投信車拚",
             "link": "https://udn.com//news/story/123006/9548647?from=udn-catebreaknews_ch2",
             "time": "2026-06-05 18:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/05/35017005.jpg&M=1&s=Y&x=0&y=0&sw=1264&sh=843&exp=3600&w=300",
-            "title": "本周台股數位雲端族群暴漲29％超狂 玻陶股下跌3.84％墊底",
-            "link": "https://udn.com//news/story/7251/9548628?from=udn-catebreaknews_ch2",
-            "time": "2026-06-05 18:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/05/35016927.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "散戶外資齊點火！台股5月熱鬧非凡 定期定額首破300億創新高",
-            "link": "https://udn.com//news/story/7251/9548565?from=udn-catebreaknews_ch2",
-            "time": "2026-06-05 17:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/05/35016882.jpg&M=1&s=Y&x=0&y=0&sw=1270&sh=846&exp=3600&w=300",
-            "title": "台股還會跌嗎？外資狂倒貨各種ETF但小買反1 法人這樣看",
-            "link": "https://udn.com//news/story/7251/9548544?from=udn-catebreaknews_ch2",
-            "time": "2026-06-05 17:37"
         }
     ]
 }
