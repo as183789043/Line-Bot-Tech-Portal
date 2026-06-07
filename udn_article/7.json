@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/08/35021869.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
+            "title": "烏雲罩頂 台股面臨黑色星期一",
+            "link": "https://udn.com//news/story/7251/9551820?from=udn-catebreaknews_ch2",
+            "time": "2026-06-08 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/07/35021492.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "終於等到台股修正 要進場撿便宜？投顧曝電子股五盞明燈",
             "link": "https://udn.com//news/story/7251/9551704?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "眼看台股就要崩 股民紛提復職信…這家投顧逆風喊：還會漲到49,683點",
             "link": "https://udn.com//news/story/7251/9551661?from=udn-catebreaknews_ch2",
             "time": "2026-06-07 22:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/07/35021438.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台股短期修正低點看季線 法人：逢低布局AI基建、傳產轉向金融民生營建",
-            "link": "https://udn.com//news/story/7251/9551655?from=udn-catebreaknews_ch2",
-            "time": "2026-06-07 21:59"
         }
     ]
 }
