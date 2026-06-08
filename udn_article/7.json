@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/08/35024739.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股寫收盤第3大跌點 融資減肥156億元",
+            "link": "https://udn.com//news/story/7251/9553878?from=udn-catebreaknews_ch2",
+            "time": "2026-06-08 22:47"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/08/35024678.jpg&M=1&s=Y&x=0&y=30&sw=1280&sh=853&exp=3600&w=300",
             "title": "台股大跌前…高股息ETF已累積豐厚資本利得 配息表現亮眼",
             "link": "https://udn.com//news/story/123006/9553798?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "元太營收／5月32.8億元 月增13.3%、年增1%",
             "link": "https://udn.com//news/story/7254/9553715?from=udn-catebreaknews_ch2",
             "time": "2026-06-08 20:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/08/35024563.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台股恐慌賣壓消化 凱基投顧：初步止跌訊號浮現、AI長多格局未變",
-            "link": "https://udn.com//news/story/7251/9553674?from=udn-catebreaknews_ch2",
-            "time": "2026-06-08 20:14"
         }
     ]
 }
