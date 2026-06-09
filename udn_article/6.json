@@ -1,7 +1,13 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/08/35023280.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "半導體風雲／專訪默克電子科技新CEO 解讀台灣戰略地位",
+            "link": "https://udn.com//news/story/7240/9554212?from=udn-catebreaknews_ch2",
+            "time": "2026-06-09 07:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_8.jpg&w=300",
             "title": "澳幣定存年息上看10%",
             "link": "https://udn.com//news/story/7239/9553792?from=udn-catebreaknews_ch2",
             "time": "2026-06-09 05:31"
@@ -19,16 +25,10 @@
             "time": "2026-06-09 02:26"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_2.jpg&w=300",
             "title": "記憶體價格將續漲 輝達 VR 機櫃可能衝上天價",
             "link": "https://udn.com//news/story/7240/9553993?from=udn-catebreaknews_ch2",
             "time": "2026-06-09 02:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/08/35024755.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "輝達：看不到記憶體短缺盡頭 要採購更多SK海力士產品",
-            "link": "https://udn.com//news/story/7240/9553919?from=udn-catebreaknews_ch2",
-            "time": "2026-06-09 02:14"
         }
     ]
 }

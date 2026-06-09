@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/08/35024209.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "台股大跌⋯0050、00631L交易金額飆升！散戶看好：跌就是買",
+            "link": "https://udn.com//news/story/123006/9553396?from=udn-catebreaknews_ch2",
+            "time": "2026-06-09 07:47"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/08/35023173.jpg&M=1&s=Y&x=0&y=0&sw=1215&sh=810&exp=3600&w=300",
             "title": "散戶對後市有信心 台股五大超人氣標的 ETF 包辦",
             "link": "https://udn.com//news/story/123006/9554001?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股恐慌式暴跌 國家隊護駕…力抗外資賣壓",
             "link": "https://udn.com//news/story/7251/9553998?from=udn-catebreaknews_ch2",
             "time": "2026-06-09 01:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
-            "title": "鈊象5月每股稅前賺4.55元",
-            "link": "https://udn.com//news/story/7254/9553950?from=udn-catebreaknews_ch2",
-            "time": "2026-06-09 01:23"
         }
     ]
 }

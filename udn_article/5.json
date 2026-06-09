@@ -1,6 +1,12 @@
 {
     "地方": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/09/35025123.jpg&M=1&s=Y&x=0&y=0&sw=504&sh=336&exp=3600&w=300",
+            "title": "雨量達標 苗栗縣泰安鄉今天停止上班停止上課",
+            "link": "https://udn.com//news/story/7324/9554242?from=udn-catebreaknews_ch2",
+            "time": "2026-06-09 07:54"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/08/35024797.jpg&M=1&s=Y&x=0&y=0&sw=1012&sh=674&exp=3600&w=300",
             "title": "拆圍牆造綠廊 三重公共服務園區熱島變涼爽",
             "link": "https://udn.com//news/story/7323/9554013?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "廣角鏡／大南瓜比賽 淡水周五登場",
             "link": "https://udn.com//news/story/7323/9554035?from=udn-catebreaknews_ch2",
             "time": "2026-06-09 00:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/08/35024740.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "「下雪了」 衛武營周五首演",
-            "link": "https://udn.com//news/story/7327/9553881?from=udn-catebreaknews_ch2",
-            "time": "2026-06-09 00:00"
         }
     ]
 }
