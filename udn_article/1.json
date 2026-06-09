@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/07/35021157.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "九合一風雲／台東選舉看板戰…3人貼身對壘 轟炸視覺",
+            "link": "https://udn.com//news/story/124652/9556629?from=udn-catebreaknews_ch2",
+            "time": "2026-06-10 05:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/10/35028703.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "鄭麗文前進華府 美學者提醒三挑戰：華府不信任北京",
             "link": "https://udn.com//news/story/6656/9556613?from=udn-catebreaknews_ch2",
@@ -9,7 +15,7 @@
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/10/35028663.png&M=1&s=Y&x=0&y=0&sw=1198&sh=798&exp=3600&w=300",
             "title": "陸在台東部海域執法 美國務院：鼓勵北京用和平方式解決紛爭",
-            "link": "https://udn.com//news/story/10930/9556582?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124909/9556582?from=udn-catebreaknews_ch2",
             "time": "2026-06-10 02:08"
         },
         {
@@ -23,12 +29,6 @@
             "title": "新聞眼／陸船盤查 政府不能只喊話",
             "link": "https://udn.com//news/story/124909/9556366?from=udn-catebreaknews_ch2",
             "time": "2026-06-10 00:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/10/35028565.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "中國海警船闖日海域 宣示管轄權",
-            "link": "https://udn.com//news/story/124909/9556367?from=udn-catebreaknews_ch2",
-            "time": "2026-06-10 00:08"
         }
     ]
 }
