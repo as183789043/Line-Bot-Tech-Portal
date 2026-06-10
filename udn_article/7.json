@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/10/35029052.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股震盪加劇 外資雙重偏多操作股領漲抗跌",
+            "link": "https://udn.com//news/story/7251/9558899?from=udn-catebreaknews_ch2",
+            "time": "2026-06-10 22:47"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/10/35031935.jpg&M=1&s=Y&x=46&y=0&sw=1162&sh=775&exp=3600&w=300",
+            "title": "CPI數據公布 台指期夜盤上半場震盪1,310點",
+            "link": "https://udn.com//news/story/7255/9558733?from=udn-catebreaknews_ch2",
+            "time": "2026-06-10 21:08"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/10/35031795.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "為哪樁？樺漢今日深夜重訊 市場研判與歐洲子公司康創有關",
             "link": "https://udn.com//news/story/7253/9558621?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "光洋科營收／5月60.09億元 月增7.38%、年增高達95.47%",
             "link": "https://udn.com//news/story/7254/9558550?from=udn-catebreaknews_ch2",
             "time": "2026-06-10 19:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/10/35031749.jpg&M=1&s=Y&x=0&y=0&sw=1251&sh=834&exp=3600&w=300",
-            "title": "千金股逼50檔！金管會擬鬆綁處置股制度 縮短「關禁閉」時間",
-            "link": "https://udn.com//news/story/7251/9558545?from=udn-catebreaknews_ch2",
-            "time": "2026-06-10 19:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/10/35031742.jpg&M=1&s=Y&x=0&y=59&sw=1280&sh=853&exp=3600&w=300",
-            "title": "散戶資金越跌越買 主動式ETF成交量竄升成焦點",
-            "link": "https://udn.com//news/story/123006/9558544?from=udn-catebreaknews_ch2",
-            "time": "2026-06-10 19:23"
         }
     ]
 }
