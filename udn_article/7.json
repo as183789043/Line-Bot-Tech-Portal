@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/11/35032452.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
+            "title": "「離風險還很遠」…股市「四貸同堂」 央行稱情勢可控",
+            "link": "https://udn.com//news/story/7251/9558983?from=udn-catebreaknews_ch2",
+            "time": "2026-06-11 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/10/35032254.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
+            "title": "大型權值股關禁閉 制度將鬆綁",
+            "link": "https://udn.com//news/story/7251/9558993?from=udn-catebreaknews_ch2",
+            "time": "2026-06-11 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/10/35029052.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台股震盪加劇 外資雙重偏多操作股領漲抗跌",
             "link": "https://udn.com//news/story/7251/9558899?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "為哪樁？樺漢今日深夜重訊 市場研判與歐洲子公司康創有關",
             "link": "https://udn.com//news/story/7253/9558621?from=udn-catebreaknews_ch2",
             "time": "2026-06-10 20:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/10/35031752.png&M=1&s=Y&x=0&y=107&sw=1232&sh=821&exp=3600&w=300",
-            "title": "美科技股震盪擴大 美國電力ETF具防禦特性、定期定額人數成長猛",
-            "link": "https://udn.com//news/story/123006/9558560?from=udn-catebreaknews_ch2",
-            "time": "2026-06-10 19:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/10/35031740.png&M=1&s=Y&x=0&y=0&sw=615&sh=410&exp=3600&w=300",
-            "title": "光洋科營收／5月60.09億元 月增7.38%、年增高達95.47%",
-            "link": "https://udn.com//news/story/7254/9558550?from=udn-catebreaknews_ch2",
-            "time": "2026-06-10 19:25"
         }
     ]
 }
