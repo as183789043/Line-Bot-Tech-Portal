@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/11/35033298.jpg&M=1&s=Y&x=46&y=106&sw=1111&sh=741&exp=3600&w=300",
+            "title": "AI已經有意識了？為何Google、Meta大舉招聘「哲學家」做研究",
+            "link": "https://udn.com//news/story/6841/9559674?from=udn-catebreaknews_ch2",
+            "time": "2026-06-11 11:07"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/10/35029892.jpg&M=1&s=Y&x=94&y=0&sw=706&sh=473&exp=3600&w=300",
             "title": "台股後市3劇本曝光！降息夢碎、通膨隱憂…聰明錢無差別獲利了結 「四貸同堂」怎麼做？",
             "link": "https://udn.com//news/story/6839/9557349?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "空汙檢測數據 讓龍山寺禁香！擲筊菩薩同意、香客回來：「心香」祈福更清新",
             "link": "https://udn.com//news/story/6839/9557301?from=udn-catebreaknews_ch2",
             "time": "2026-06-10 13:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/10/35029861.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
-            "title": "元澄半導體 台灣矽光子獨角獸",
-            "link": "https://udn.com//news/story/6851/9557320?from=udn-catebreaknews_ch2",
-            "time": "2026-06-10 13:43"
         }
     ]
 }
