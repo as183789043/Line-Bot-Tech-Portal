@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
+            "title": "資金點兵 聚焦ICT、被動元件族群",
+            "link": "https://udn.com//news/story/7251/9564955?from=udn-catebreaknews_ch2",
+            "time": "2026-06-14 00:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/13/35041159.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "資金湧入AI隱形冠軍股 大立光強攻光纖陣列、穩懋拚光通訊收發模組",
             "link": "https://udn.com//news/story/7251/9564577?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2026-06-13 12:18"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
             "title": "安聯投信：AI 需求帶動上游缺貨的電子原物料及新潛在技術進步類股",
             "link": "https://udn.com//news/story/7251/9564204?from=udn-catebreaknews_ch2",
             "time": "2026-06-13 12:09"
@@ -23,12 +29,6 @@
             "title": "7月漲價添增動能！法人調高「這檔IC設計」股目標價",
             "link": "https://udn.com//news/story/7253/9564196?from=udn-catebreaknews_ch2",
             "time": "2026-06-13 12:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/13/35041060.png&M=1&s=Y&x=0&y=122&sw=1024&sh=683&exp=3600&w=300",
-            "title": "上市櫃公司5月營收歷年同期最旺 法人建議優先布局這幾檔",
-            "link": "https://udn.com//news/story/7251/9564132?from=udn-catebreaknews_ch2",
-            "time": "2026-06-13 11:34"
         }
     ]
 }
