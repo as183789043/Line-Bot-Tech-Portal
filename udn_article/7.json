@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/14/35043424.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
+            "title": "麥格理：AI需求超出台積電CoWoS產能 英特爾EMIB替補…兩台廠受惠",
+            "link": "https://udn.com//news/story/7253/9566129?from=udn-catebreaknews_ch2",
+            "time": "2026-06-14 21:52"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/14/35043193.jpg&M=1&s=Y&x=0&y=0&sw=1269&sh=846&exp=3600&w=300",
             "title": "美股四大指數齊揚 法人：台股本周關注美國利率政策",
             "link": "https://udn.com//news/story/7251/9565866?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股震盪…惟法人認AI建設不變下 中長期基本面無虞",
             "link": "https://udn.com//news/story/7251/9565741?from=udn-catebreaknews_ch2",
             "time": "2026-06-14 15:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/14/35042556.png&M=1&s=Y&x=0&y=0&sw=1038&sh=692&exp=3600&w=300",
-            "title": "台股震盪劇烈 今年來仍有兩檔台股ETF績效破百 竟然不是它！",
-            "link": "https://udn.com//news/story/123006/9565532?from=udn-catebreaknews_ch2",
-            "time": "2026-06-14 12:55"
         }
     ]
 }
