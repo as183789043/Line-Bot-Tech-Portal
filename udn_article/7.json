@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/03/35007834.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
+            "title": "台股本周面臨三變數 抗震看國家隊動向",
+            "link": "https://udn.com//news/story/7251/9566307?from=udn-catebreaknews_ch2",
+            "time": "2026-06-15 02:56"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "title": "盤面浪大 台股當沖客變多",
+            "link": "https://udn.com//news/story/7251/9566308?from=udn-catebreaknews_ch2",
+            "time": "2026-06-15 02:53"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/09/35025331.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "金融業加碼台股 千億級手筆…迎獲利、淨值與配息三大利多",
+            "link": "https://udn.com//news/story/7251/9566163?from=udn-catebreaknews_ch2",
+            "time": "2026-06-15 01:56"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/04/35013295.jpg&M=1&s=Y&x=0&y=0&sw=1259&sh=839&exp=3600&w=300",
             "title": "台股 ETF 搶鏡 資金流入主動式、市值型與高股息商品 0050上周規模成長居冠",
             "link": "https://udn.com//news/story/123006/9566212?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "高息 ETF 聚光 本周21檔除息 00919等七檔年化配息率逾10%",
             "link": "https://udn.com//news/story/123006/9566101?from=udn-catebreaknews_ch2",
             "time": "2026-06-15 01:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/14/35043483.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "富蘭克林華美新基金 瞄準美收益多重資產",
-            "link": "https://udn.com//news/story/10103/9566103?from=udn-catebreaknews_ch2",
-            "time": "2026-06-15 01:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/14/35043481.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "國泰策略收益債 開募",
-            "link": "https://udn.com//news/story/10103/9566104?from=udn-catebreaknews_ch2",
-            "time": "2026-06-15 01:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
-            "title": "最牛一輪／FB 科技夯 凱基5C有戲",
-            "link": "https://udn.com//news/story/7255/9566373?from=udn-catebreaknews_ch2",
-            "time": "2026-06-15 00:55"
         }
     ]
 }
