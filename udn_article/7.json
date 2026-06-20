@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/20/35061131.png&M=1&s=Y&x=0&y=72&sw=1232&sh=821&exp=3600&w=300",
+            "title": "日月光ADR勁揚逾8% AI先進封裝需求爆發",
+            "link": "https://udn.com//news/story/7251/9578085?from=udn-catebreaknews_ch2",
+            "time": "2026-06-20 15:25"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/20/35061042.jpg&M=1&x=0&y=0&sw=0&sh=0&exp=3600&w=300",
+            "title": "Fed維持利率不變 未來一周美股要注意哪些觀察變數？",
+            "link": "https://udn.com//news/story/7251/9578027?from=udn-catebreaknews_ch2",
+            "time": "2026-06-20 14:28"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/20/35060776.jpg&M=1&s=Y&x=0&y=38&sw=1280&sh=853&exp=3600&w=300",
             "title": "高股息ETF不香了？她存3年果斷下車：改買這3檔",
             "link": "https://udn.com//news/story/12806/9577846?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2026-06-20 01:28"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
             "title": "股息、庫藏股、ETF挹注台股活水",
             "link": "https://udn.com//news/story/7251/9577259?from=udn-catebreaknews_ch2",
             "time": "2026-06-20 01:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/19/35059972.jpg&M=1&s=Y&x=0&y=0&sw=1260&sh=840&exp=3600&w=300",
-            "title": "主動式台股基金、ETF 超人氣",
-            "link": "https://udn.com//news/story/10103/9577205?from=udn-catebreaknews_ch2",
-            "time": "2026-06-20 00:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/20/35060118.png&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "三大投信 市場常勝軍",
-            "link": "https://udn.com//news/story/10103/9577207?from=udn-catebreaknews_ch2",
-            "time": "2026-06-20 00:05"
         }
     ]
 }
