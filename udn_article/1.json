@@ -1,7 +1,19 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/22/35063463.png&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
+            "title": "從賣芒果、鳳梨釋迦到農保財務黑洞 政府真心照顧農民嗎",
+            "link": "https://udn.com//news/story/6656/9579929?from=udn-catebreaknews_ch2",
+            "time": "2026-06-22 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/21/35063355.png&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "農保「開辦即虧損」 圖解10年收支缺口與虧損原因",
+            "link": "https://udn.com//news/story/7314/9579928?from=udn-catebreaknews_ch2",
+            "time": "2026-06-22 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_1.jpg&w=300",
             "title": "藍營展開全民調 彰市長人選本周敲定",
             "link": "https://udn.com//news/story/124652/9579831?from=udn-catebreaknews_ch2",
             "time": "2026-06-22 00:39"
@@ -17,18 +29,6 @@
             "title": "校園防毒 教團籲普及專職校安編制",
             "link": "https://udn.com//news/story/124918/9579850?from=udn-catebreaknews_ch2",
             "time": "2026-06-22 00:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
-            "title": "星期評論／受害者敘事 照映熱戰下的克制力",
-            "link": "https://udn.com//news/story/124652/9579852?from=udn-catebreaknews_ch2",
-            "time": "2026-06-22 00:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/21/35061942.jpg&M=1&s=Y&x=0&y=69&sw=1280&sh=853&exp=3600&w=300",
-            "title": "歷史上的今天／1956年敬軍花勞軍團預演「舞比歌優」",
-            "link": "https://udn.com//news/story/7314/9579858?from=udn-catebreaknews_ch2",
-            "time": "2026-06-22 00:02"
         }
     ]
 }
