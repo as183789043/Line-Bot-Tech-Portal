@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/20/35061453.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "AI進化的下一步 人工超智慧會不會主宰人類世界",
+            "link": "https://udn.com//news/story/7240/9579960?from=udn-catebreaknews_ch2",
+            "time": "2026-06-22 07:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/21/35063276.jpg&M=1&s=Y&x=0&y=0&sw=792&sh=528&exp=3600&w=300",
+            "title": "勞保財務「猶如風中殘燭」靠納稅錢撥補 竟還要借錢「救濟」農保",
+            "link": "https://udn.com//news/story/7238/9579666?from=udn-catebreaknews_ch2",
+            "time": "2026-06-22 06:33"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/21/35063327.jpg&M=1&s=Y&x=0&y=0&sw=1242&sh=828&exp=3600&w=300",
             "title": "金融競爭力論壇7月1日登場／永豐金證券總經理蘇威嘉：打造台港一站式服務",
             "link": "https://udn.com//news/story/7239/9579739?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2026-06-22 02:33"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_1.jpg&w=300",
             "title": "八年撥千億 助企業升級",
             "link": "https://udn.com//news/story/7238/9579714?from=udn-catebreaknews_ch2",
             "time": "2026-06-22 02:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/20/34964550.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "IC 設計業搶搭光通訊商機 聯發科率達發、元澄一起衝",
-            "link": "https://udn.com//news/story/7240/9579757?from=udn-catebreaknews_ch2",
-            "time": "2026-06-22 02:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_1.jpg&w=300",
-            "title": "大立光布局 義隆抬轎",
-            "link": "https://udn.com//news/story/7240/9579760?from=udn-catebreaknews_ch2",
-            "time": "2026-06-22 02:22"
         }
     ]
 }
