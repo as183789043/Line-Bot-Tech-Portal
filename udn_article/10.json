@@ -1,6 +1,12 @@
 {
     "評論": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/22/35063989.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=853&exp=3600&w=300",
+            "title": "經濟日報社論／21世紀最重要的競爭是人才",
+            "link": "https://udn.com//news/story/7338/9584333?from=udn-catebreaknews_ch2",
+            "time": "2026-06-24 01:21"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/24/35070398.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "聯合報社論／有這樣的陸委會，我們還需要警總嗎？",
             "link": "https://udn.com//news/story/7338/9584279?from=udn-catebreaknews_ch2",
@@ -19,15 +25,9 @@
             "time": "2026-06-24 00:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_3.jpg&w=300",
             "title": "讀家觀點／台日應用研發互補 打造產業聯盟",
             "link": "https://udn.com//news/story/7339/9584103?from=udn-catebreaknews_ch2",
-            "time": "2026-06-24 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_7.jpg&w=300",
-            "title": "美伊脆弱平衡 難通往和平",
-            "link": "https://udn.com//news/story/7339/9584104?from=udn-catebreaknews_ch2",
             "time": "2026-06-24 00:00"
         }
     ]
