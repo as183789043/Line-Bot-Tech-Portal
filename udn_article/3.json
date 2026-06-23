@@ -1,16 +1,22 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/24/35070701.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "法國致命熱浪來襲 創1947年以來最高溫",
+            "link": "https://udn.com//news/story/6812/9584497?from=udn-catebreaknews_ch2",
+            "time": "2026-06-24 03:47"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/24/35070637.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "美伊達成協議 國際海事組織將撤離滯留波灣船員",
+            "link": "https://udn.com//news/story/124061/9584481?from=udn-catebreaknews_ch2",
+            "time": "2026-06-24 02:23"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
             "title": "紐時新書「川普只關心晶片」",
             "link": "https://udn.com//news/story/6809/9584304?from=udn-catebreaknews_ch2",
             "time": "2026-06-24 00:15"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
-            "title": "美解禁伊朗石油60天 制裁根本轉變？",
-            "link": "https://udn.com//news/story/6809/9584305?from=udn-catebreaknews_ch2",
-            "time": "2026-06-24 00:00"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/23/35070209.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
@@ -22,12 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/23/35070223.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "沖繩戰役 高市追悼 遭反戰抗議",
             "link": "https://udn.com//news/story/6809/9584343?from=udn-catebreaknews_ch2",
-            "time": "2026-06-24 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
-            "title": "台海若有事 沖繩人憂再成前線",
-            "link": "https://udn.com//news/story/6809/9584351?from=udn-catebreaknews_ch2",
             "time": "2026-06-24 00:00"
         }
     ]
