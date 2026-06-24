@@ -1,6 +1,24 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/25/35073988.png&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
+            "title": "從鄧麗君到張凌赫 誰統戰了誰？",
+            "link": "https://udn.com//news/story/6656/9586905?from=udn-catebreaknews_ch2",
+            "time": "2026-06-25 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/24/35073833.png&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
+            "title": "陸超級電腦擊敗美 圖解全球排名、主要應用領域有哪些",
+            "link": "https://udn.com//news/story/7314/9586904?from=udn-catebreaknews_ch2",
+            "time": "2026-06-25 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/24/35071927.jpg&M=1&s=Y&x=9&y=6&sw=1248&sh=823&exp=3600&w=300",
+            "title": "女生也要教召了 女兵人數創新高為何仍留不住軍官？",
+            "link": "https://udn.com//news/story/6656/9586888?from=udn-catebreaknews_ch2",
+            "time": "2026-06-25 05:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/25/35074024.jpg&M=1&s=Y&x=0&y=54&sw=1280&sh=853&exp=3600&w=300",
             "title": "南華早報：台灣外交突破 恐因立陶宛添變數",
             "link": "https://udn.com//news/story/124932/9586795?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "學者：政府應經貿「補學分」 讓立陶宛感到獲益",
             "link": "https://udn.com//news/story/124932/9586793?from=udn-catebreaknews_ch2",
             "time": "2026-06-25 01:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/25/35074021.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台灣、立陶宛交流…從經貿到晶片 近期關係急轉直下",
-            "link": "https://udn.com//news/story/124932/9586785?from=udn-catebreaknews_ch2",
-            "time": "2026-06-25 01:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/25/35073922.jpg&M=1&s=Y&x=90&y=29&sw=1181&sh=787&exp=3600&w=300",
-            "title": "台灣、立陶宛關係恐出麻煩 因未兌現晶片投資？",
-            "link": "https://udn.com//news/story/124932/9586777?from=udn-catebreaknews_ch2",
-            "time": "2026-06-25 01:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
-            "title": "南市第一選區 新營議員減1席 選情白熱化",
-            "link": "https://udn.com//news/story/124652/9586695?from=udn-catebreaknews_ch2",
-            "time": "2026-06-25 00:30"
         }
     ]
 }
