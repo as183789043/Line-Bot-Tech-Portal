@@ -1,13 +1,19 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/25/35077330.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "美國5月 PCE符合市場預期 台指期夜盤由黑翻紅",
+            "link": "https://udn.com//news/story/7251/9588919?from=udn-catebreaknews_ch2",
+            "time": "2026-06-25 21:24"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/25/35077081.jpg&M=1&s=Y&x=41&y=0&sw=1201&sh=801&exp=3600&w=300",
             "title": "外資力挺AI狂潮！2028年美系CSP砸逾兆元 17台廠賺翻",
             "link": "https://udn.com//news/story/7251/9588646?from=udn-catebreaknews_ch2",
             "time": "2026-06-25 18:36"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
             "title": "光通訊股價承壓 法人仍看好後市",
             "link": "https://udn.com//news/story/7251/9588532?from=udn-catebreaknews_ch2",
             "time": "2026-06-25 17:45"
@@ -23,12 +29,6 @@
             "title": "台亞股東會／小金雞掛牌 董座李國光：虧損為第三代半導體轉型陣痛",
             "link": "https://udn.com//news/story/7253/9588496?from=udn-catebreaknews_ch2",
             "time": "2026-06-25 17:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
-            "title": "大綜未來成長動能看俏 收盤價創歷史次高",
-            "link": "https://udn.com//news/story/7254/9588485?from=udn-catebreaknews_ch2",
-            "time": "2026-06-25 17:27"
         }
     ]
 }
