@@ -1,7 +1,13 @@
 {
     "即時": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/26/35077787.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/26/35077829.jpg&M=1&s=Y&x=1&y=360&sw=849&sh=566&exp=3600&w=300",
+            "title": "高雄豪雨狂炸多區積淹水 左營積水30公分如騎水上摩托車",
+            "link": "https://udn.com//news/story/124534/9589339?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-06-26 02:41"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/26/35077831.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "豪雨狂炸南台灣！高雄市、台南市、屏東縣26日全縣市停班停課",
             "link": "https://udn.com//news/story/124534/9589308?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-06-26 01:43"
@@ -13,7 +19,7 @@
             "time": "2026-06-26 01:09"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_8.jpg&w=300",
             "title": "美光財報展望超亮眼 台表科、健鼎跟著旺",
             "link": "https://udn.com//news/story/7240/9589301?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-06-26 01:07"
@@ -23,12 +29,6 @@
             "title": "快訊／高雄市緊急宣布「26日全市停班停課」 超大豪雨恐致災",
             "link": "https://udn.com//news/story/124534/9589292?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-06-26 00:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_7.jpg&w=300",
-            "title": "聯電躍關鍵贏家！高通揭AI大轉型夥伴 晶圓代工僅列聯電 未見台積電",
-            "link": "https://udn.com//news/story/7240/9589281?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-06-26 00:22"
         }
     ]
 }
