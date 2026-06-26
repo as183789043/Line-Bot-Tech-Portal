@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/27/35081252.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "職場霸凌調查報告…楊珍妮屢否定顏慧欣、言論對人不對事",
+            "link": "https://udn.com//news/story/6656/9591494?from=udn-catebreaknews_ch2",
+            "time": "2026-06-27 02:45"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/27/35081217.jpg&M=1&s=Y&x=0&y=150&sw=877&sh=585&exp=3600&w=300",
             "title": "韓國瑜訪美獲高規格 學者：美對台建立「國會對國會」管道",
             "link": "https://udn.com//news/story/6656/9591466?from=udn-catebreaknews_ch2",
@@ -20,15 +26,9 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/26/35081110.jpg&M=2&s=Y&x=0&y=0&sw=1280&sh=830&exp=3600&w=300",
-            "title": "調查出爐 楊珍妮職場霸凌顏慧欣",
+            "title": "調查出爐…楊珍妮職場霸凌顏慧欣 卓揆最快下周做出處置",
             "link": "https://udn.com//news/story/6656/9591531?from=udn-catebreaknews_ch2",
             "time": "2026-06-27 00:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/27/35081172.jpg&M=1&s=Y&x=0&y=0&sw=1163&sh=775&exp=3600&w=300",
-            "title": "光核三不夠 鄭麗文：將推重啟核電公投",
-            "link": "https://udn.com//news/story/6656/9591520?from=udn-catebreaknews_ch2",
-            "time": "2026-06-27 00:16"
         }
     ]
 }
