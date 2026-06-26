@@ -2,6 +2,18 @@
     "股市": [
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/08/35022759.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "亞股黑色星期五 台股遭外資血洗",
+            "link": "https://udn.com//news/story/7251/9591505?from=udn-catebreaknews_ch2",
+            "time": "2026-06-27 01:30"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/25/34980988.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "六大投顧：台股無虞 支撐看42K",
+            "link": "https://udn.com//news/story/7251/9591409?from=udn-catebreaknews_ch2",
+            "time": "2026-06-27 01:05"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/08/35022759.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "AI 通膨隱憂 台指期夜盤上下震盪近900點",
             "link": "https://udn.com//news/story/7255/9591247?from=udn-catebreaknews_ch2",
             "time": "2026-06-26 21:05"
@@ -17,18 +29,6 @@
             "title": "無懼台股寫單周最大跌點紀錄 投資人勇敢進場加碼槓桿ETF",
             "link": "https://udn.com//news/story/123006/9591221?from=udn-catebreaknews_ch2",
             "time": "2026-06-26 20:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/26/35080828.jpg&M=1&s=Y&x=0&y=0&sw=1080&sh=720&exp=3600&w=300",
-            "title": "錼創法說會／下半年可望優於上半年 AI眼鏡明年出貨、光通訊引領動能",
-            "link": "https://udn.com//news/story/7253/9591200?from=udn-catebreaknews_ch2",
-            "time": "2026-06-26 20:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/06/20/0/22746717.jpg&s=Y&x=0&y=0&sw=1145&sh=763&exp=3600&w=300",
-            "title": "低軌衛星不香了？華通驚爆8,574萬元違約交割 今年上市櫃第14起",
-            "link": "https://udn.com//news/story/7251/9591097?from=udn-catebreaknews_ch2",
-            "time": "2026-06-26 19:33"
         }
     ]
 }
