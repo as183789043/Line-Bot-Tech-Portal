@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/27/35082429.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "AI記憶體太缺！美光明年毛利率竟上看90％ 目標價翻倍調升至1,570美元",
+            "link": "https://udn.com//news/story/7251/9592425?from=udn-catebreaknews_ch2",
+            "time": "2026-06-27 16:31"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/27/35082315.png&M=1&s=Y&x=150&y=0&sw=1076&sh=717&exp=3600&w=300",
+            "title": "聯茂5月獲利優於市場預期 法人估全年EPS上看10.7元",
+            "link": "https://udn.com//news/story/7253/9592363?from=udn-catebreaknews_ch2",
+            "time": "2026-06-27 15:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/27/35081676.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台股重挫1683點！作家嘆1句 股民全嗨翻：7月2日準備進場",
             "link": "https://udn.com//news/story/12806/9591877?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台股暴跌1683點！外資狂砍1431億…陳重銘示警蘋果漲價疑慮：恐砍台灣代工價",
             "link": "https://udn.com//news/story/12806/9591910?from=udn-catebreaknews_ch2",
             "time": "2026-06-27 10:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/27/35081559.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "台股大跌想加碼卻沒錢？黃大米痛悟巴菲特「財富是等出來的」 幽默喊：出國救台股",
-            "link": "https://udn.com//news/story/12806/9591859?from=udn-catebreaknews_ch2",
-            "time": "2026-06-27 10:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/08/35022759.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "亞股黑色星期五 台股遭外資血洗",
-            "link": "https://udn.com//news/story/7251/9591505?from=udn-catebreaknews_ch2",
-            "time": "2026-06-27 01:30"
         }
     ]
 }
