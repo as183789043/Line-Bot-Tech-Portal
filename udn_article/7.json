@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/27/35081675.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "利空初步反應完畢 台指期夜盤率先反彈 有助台股下周一回穩",
+            "link": "https://udn.com//news/story/7251/9591951?from=udn-catebreaknews_ch2",
+            "time": "2026-06-27 10:45"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/27/35081622.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "台股暴跌1683點！外資狂砍1431億…陳重銘示警蘋果漲價疑慮：恐砍台灣代工價",
+            "link": "https://udn.com//news/story/12806/9591910?from=udn-catebreaknews_ch2",
+            "time": "2026-06-27 10:31"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/27/35081559.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "台股大跌想加碼卻沒錢？黃大米痛悟巴菲特「財富是等出來的」 幽默喊：出國救台股",
+            "link": "https://udn.com//news/story/12806/9591859?from=udn-catebreaknews_ch2",
+            "time": "2026-06-27 10:02"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/08/35022759.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "亞股黑色星期五 台股遭外資血洗",
             "link": "https://udn.com//news/story/7251/9591505?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "下個長線投資題材 專家點將",
             "link": "https://udn.com//news/story/10103/9591311?from=udn-catebreaknews_ch2",
             "time": "2026-06-27 01:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/26/35080935.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "基金特蒐／亞太成長基金 分批進場",
-            "link": "https://udn.com//news/story/10103/9591316?from=udn-catebreaknews_ch2",
-            "time": "2026-06-27 01:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
-            "title": "嚴守紀律 宜分散投資",
-            "link": "https://udn.com//news/story/10103/9591318?from=udn-catebreaknews_ch2",
-            "time": "2026-06-27 01:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/25/34980988.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "六大投顧：台股無虞 支撐看42K",
-            "link": "https://udn.com//news/story/7251/9591409?from=udn-catebreaknews_ch2",
-            "time": "2026-06-27 01:05"
         }
     ]
 }
