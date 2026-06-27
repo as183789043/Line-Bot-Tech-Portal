@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/27/35081676.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股重挫1683點！作家嘆1句 股民全嗨翻：7月2日準備進場",
+            "link": "https://udn.com//news/story/12806/9591877?from=udn-catebreaknews_ch2",
+            "time": "2026-06-27 11:25"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/27/35081675.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "利空初步反應完畢 台指期夜盤率先反彈 有助台股下周一回穩",
             "link": "https://udn.com//news/story/7251/9591951?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "亞股黑色星期五 台股遭外資血洗",
             "link": "https://udn.com//news/story/7251/9591505?from=udn-catebreaknews_ch2",
             "time": "2026-06-27 01:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/26/35080933.jpg&M=1&s=Y&x=0&y=0&sw=1080&sh=720&exp=3600&w=300",
-            "title": "下個長線投資題材 專家點將",
-            "link": "https://udn.com//news/story/10103/9591311?from=udn-catebreaknews_ch2",
-            "time": "2026-06-27 01:20"
         }
     ]
 }
