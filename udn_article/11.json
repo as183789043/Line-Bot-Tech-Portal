@@ -1,6 +1,12 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/27/35083222.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
+            "title": "空防漏洞 小飛機撞北京最高樓 1死13傷",
+            "link": "https://udn.com//news/story/7332/9592807?from=udn-catebreaknews_ch2",
+            "time": "2026-06-28 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/27/35082872.jpg&M=1&s=Y&x=0&y=35&sw=1280&sh=854&exp=3600&w=300",
             "title": "北京最高樓「中國尊」遭撞擊 盤點過去20年小飛機直升機失事",
             "link": "https://udn.com//news/story/7331/9592657?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "DeepSeek發布DSpark 聚焦提升AI推理效率",
             "link": "https://udn.com//news/story/7333/9592607?from=udn-catebreaknews_ch2",
             "time": "2026-06-27 19:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/27/35082576.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "飛機電台被關閉？小飛機撞北京最高樓「中國尊」 官方通報：駕駛死亡、13人受傷",
-            "link": "https://udn.com//news/story/7331/9592525?from=udn-catebreaknews_ch2",
-            "time": "2026-06-27 18:01"
         }
     ]
 }
