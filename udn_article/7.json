@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
+            "title": "台積融資爆量 券商設限",
+            "link": "https://udn.com//news/story/7251/9594207?from=udn-catebreaknews_ch2",
+            "time": "2026-06-29 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/28/35085115.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "高價熱門股短線跌幅大 融資追繳壓力箭在弦上",
+            "link": "https://udn.com//news/story/7251/9594205?from=udn-catebreaknews_ch2",
+            "time": "2026-06-29 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/28/35084886.jpg&M=1&s=Y&x=0&y=12&sw=1280&sh=853&exp=3600&w=300",
             "title": "獨／韓股上周五重挫都是因為「它」？台灣官方表態：不開放",
             "link": "https://udn.com//news/story/123006/9593894?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "特選臺灣璞玉精選收益指數完勝大盤",
             "link": "https://udn.com//news/story/7251/9593270?from=udn-catebreaknews_ch2",
             "time": "2026-06-28 10:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/28/35083901.jpg&M=1&s=Y&x=0&y=0&sw=540&sh=360&exp=3600&w=300",
-            "title": "AI下一波：滙豐投信揭示兆元級新投資商機",
-            "link": "https://udn.com//news/story/10103/9593266?from=udn-catebreaknews_ch2",
-            "time": "2026-06-28 10:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/23/35067672.jpg&M=1&s=Y&x=0&y=0&sw=630&sh=420&exp=3600&w=300",
-            "title": "升息概念股 法人大點將…永豐金、遠東新等有望吸引買盤進駐",
-            "link": "https://udn.com//news/story/7251/9592867?from=udn-catebreaknews_ch2",
-            "time": "2026-06-28 02:47"
         }
     ]
 }

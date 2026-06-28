@@ -1,6 +1,24 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/29/35085276.jpg&M=1&s=Y&x=30&y=0&sw=254&sh=163&exp=3600&w=300",
+            "title": "本周財經焦點",
+            "link": "https://udn.com//news/story/7238/9594354?from=udn-catebreaknews_ch2",
+            "time": "2026-06-29 00:44"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
+            "title": "記憶體供不應求…小型電子產品製造商 陷入存亡危機",
+            "link": "https://udn.com//news/story/7240/9594212?from=udn-catebreaknews_ch2",
+            "time": "2026-06-29 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/28/35085200.jpg&M=1&s=Y&x=149&y=0&sw=1132&sh=754&exp=3600&w=300",
+            "title": "3C通膨效應擴大！家用遊戲機 3萬元起跳恐成新常態",
+            "link": "https://udn.com//news/story/7240/9594209?from=udn-catebreaknews_ch2",
+            "time": "2026-06-29 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/28/35085045.jpg&M=1&s=Y&x=0&y=0&sw=1252&sh=834&exp=3600&w=300",
             "title": "5月國銀富豪戶狂增逾千人 為何AUM沒跟著爆？財管商戰升級了",
             "link": "https://udn.com//news/story/7239/9594077?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "做了全世界AI硬體…規格卻是別人定？台灣AI供應鏈下一波卡位戰在這",
             "link": "https://udn.com//news/story/7240/9594038?from=udn-catebreaknews_ch2",
             "time": "2026-06-28 21:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/28/35084673.png&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "巴菲特vs.新加坡政府投資公司 童振源：一堂1.5兆的投資課",
-            "link": "https://udn.com//news/story/7239/9593764?from=udn-catebreaknews_ch2",
-            "time": "2026-06-28 16:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/28/35084586.jpg&M=1&s=Y&x=0&y=0&sw=1254&sh=836&exp=3600&w=300",
-            "title": "朋友手機訂閱App月花1萬多元 財商專家憶英語雜誌教訓：沒有使用都是浪費",
-            "link": "https://udn.com//news/story/121591/9593692?from=udn-catebreaknews_ch2",
-            "time": "2026-06-28 15:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/28/35084525.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "展碁攜手 Adobe 搶進AI Agent數位創作時代",
-            "link": "https://udn.com//news/story/7240/9593666?from=udn-catebreaknews_ch2",
-            "time": "2026-06-28 14:53"
         }
     ]
 }
