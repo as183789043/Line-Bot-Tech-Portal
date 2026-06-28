@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/28/35084886.jpg&M=1&s=Y&x=0&y=12&sw=1280&sh=853&exp=3600&w=300",
+            "title": "獨／韓股上周五重挫都是因為「它」？台灣官方表態：不開放",
+            "link": "https://udn.com//news/story/123006/9593894?from=udn-catebreaknews_ch2",
+            "time": "2026-06-28 18:49"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/28/35084275.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
             "title": "台股上周大跌反映短期去槓桿 法人：基本面趨勢不變",
             "link": "https://udn.com//news/story/7251/9593508?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "升息概念股 法人大點將…永豐金、遠東新等有望吸引買盤進駐",
             "link": "https://udn.com//news/story/7251/9592867?from=udn-catebreaknews_ch2",
             "time": "2026-06-28 02:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/25/35076174.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "五投顧董總：台股Q3攻5萬點 台積電下月法說成焦點",
-            "link": "https://udn.com//news/story/7251/9592833?from=udn-catebreaknews_ch2",
-            "time": "2026-06-28 02:36"
         }
     ]
 }
