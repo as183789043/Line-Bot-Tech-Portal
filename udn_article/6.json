@@ -1,13 +1,19 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_9.jpg&w=300",
+            "title": "癌症在家化療 衛福部下半年推出",
+            "link": "https://udn.com//news/story/7241/9594094?from=udn-catebreaknews_ch2",
+            "time": "2026-06-29 02:21"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/29/35085276.jpg&M=1&s=Y&x=30&y=0&sw=254&sh=163&exp=3600&w=300",
             "title": "本周財經焦點",
             "link": "https://udn.com//news/story/7238/9594354?from=udn-catebreaknews_ch2",
             "time": "2026-06-29 00:44"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_6.jpg&w=300",
             "title": "記憶體供不應求…小型電子產品製造商 陷入存亡危機",
             "link": "https://udn.com//news/story/7240/9594212?from=udn-catebreaknews_ch2",
             "time": "2026-06-29 00:00"
@@ -23,12 +29,6 @@
             "title": "5月國銀富豪戶狂增逾千人 為何AUM沒跟著爆？財管商戰升級了",
             "link": "https://udn.com//news/story/7239/9594077?from=udn-catebreaknews_ch2",
             "time": "2026-06-28 22:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/28/35085018.png&M=1&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
-            "title": "做了全世界AI硬體…規格卻是別人定？台灣AI供應鏈下一波卡位戰在這",
-            "link": "https://udn.com//news/story/7240/9594038?from=udn-catebreaknews_ch2",
-            "time": "2026-06-28 21:54"
         }
     ]
 }
