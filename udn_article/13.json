@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/30/35089946.jpg&M=1&s=Y&x=223&y=0&sw=1057&sh=705&exp=3600&w=300",
+            "title": "只有不到1%的散戶能獲利！Z世代為何將高風險投資當解藥？",
+            "link": "https://udn.com//news/story/6841/9597577?from=udn-catebreaknews_ch2",
+            "time": "2026-06-30 13:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/26/35080498.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "SpaceX、 OpenAI 迎掛牌潮 美夢還是泡沫？ 看懂「技術樂觀」與「股價獲利」黃金交叉",
             "link": "https://udn.com//news/story/6839/9597095?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "國巨大整併布什麼局？茂達、大中...從功率元件到MOSFET 謝金河讚陳泰銘3年布棋",
             "link": "https://udn.com//news/story/6839/9597109?from=udn-catebreaknews_ch2",
             "time": "2026-06-30 10:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/29/35087013.jpg&M=1&s=Y&x=0&y=0&sw=930&sh=620&exp=3600&w=300",
-            "title": "脫歐後 英國超過1/4音樂人無法再赴歐盟區演出",
-            "link": "https://udn.com//news/story/11184/9595393?from=udn-catebreaknews_ch2",
-            "time": "2026-06-29 15:29"
         }
     ]
 }
