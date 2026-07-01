@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/01/35092372.jpg&M=1&s=Y&x=0&y=76&sw=1280&sh=853&exp=3600&w=300",
+            "title": "韓國瑜「被擺上」2028起跑線 學者：是否開跑要看一跡象",
+            "link": "https://udn.com//news/story/6656/9601617?from=udn-catebreaknews_ch2",
+            "time": "2026-07-02 05:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/01/35095711.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "霸凌案 顏慶章4點聲明：重建公務員友善工作環境",
             "link": "https://udn.com//news/story/6656/9601498?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2026-07-02 00:09"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
             "title": "吳乃仁獲釋…王鴻薇：黨證無敵 黃國昌：台糖跪下",
             "link": "https://udn.com//news/story/6656/9601502?from=udn-catebreaknews_ch2",
             "time": "2026-07-02 00:08"
@@ -23,12 +29,6 @@
             "title": "新聞幕後／楊珍妮涉霸凌 府院曾暗示「知所進退」",
             "link": "https://udn.com//news/story/6656/9601503?from=udn-catebreaknews_ch2",
             "time": "2026-07-02 00:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
-            "title": "蘇巧慧妹公司獲政府投資 國發會指法未規範",
-            "link": "https://udn.com//news/story/6656/9601506?from=udn-catebreaknews_ch2",
-            "time": "2026-07-02 00:06"
         }
     ]
 }
