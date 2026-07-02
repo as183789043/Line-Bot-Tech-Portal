@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/02/35096793.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=858&exp=3600&w=300",
+            "title": "不要再用ChatGPT查新聞了！一文看懂4大主流 AI正確用法",
+            "link": "https://udn.com//news/story/6841/9602201?from=udn-catebreaknews_ch2",
+            "time": "2026-07-02 11:18"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/01/35093185.jpg&M=1&s=Y&x=69&y=65&sw=685&sh=421&exp=3600&w=300",
             "title": "「小學生都在比有沒有台積電」台股4個月漲萬點 巴菲特指標過熱該空手？杜金龍曝操作",
             "link": "https://udn.com//news/story/6839/9599741?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股第三季上看5萬點 多空分界點為4萬2！冠軍操盤手10檔口袋名單曝",
             "link": "https://udn.com//news/story/6839/9599771?from=udn-catebreaknews_ch2",
             "time": "2026-07-01 12:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/01/35093100.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
-            "title": "矽島下的設備股十年大運",
-            "link": "https://udn.com//news/story/6851/9599696?from=udn-catebreaknews_ch2",
-            "time": "2026-07-01 12:29"
         }
     ]
 }
