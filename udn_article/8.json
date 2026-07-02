@@ -1,12 +1,6 @@
 {
     "生活": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/02/35099716.jpg&M=1&s=Y&x=0&y=0&sw=1080&sh=720&exp=3600&w=300",
-            "title": "玉山金融處方箋 助長者防詐",
-            "link": "https://udn.com//news/story/7266/9603989?from=udn-catebreaknews_ch2",
-            "time": "2026-07-03 00:29"
-        },
-        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/03/35099766.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "法規無強制規定 油商未逐批檢驗成品",
             "link": "https://udn.com//news/story/124940/9604001?from=udn-catebreaknews_ch2",
@@ -29,6 +23,12 @@
             "title": "新聞眼／把關食安 公權力不能外包",
             "link": "https://udn.com//news/story/124940/9604003?from=udn-catebreaknews_ch2",
             "time": "2026-07-03 00:12"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/02/35099442.jpg&M=1&s=Y&x=0&y=753&sw=1275&sh=850&exp=3600&w=300",
+            "title": "AI衝擊新聞業／年輕世代 信任創作者而非媒體",
+            "link": "https://udn.com//news/story/7266/9603747?from=udn-catebreaknews_ch2",
+            "time": "2026-07-03 00:00"
         }
     ]
 }
