@@ -1,6 +1,12 @@
 {
     "評論": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/04/35104119.jpg&M=1&s=Y&x=44&y=110&sw=1057&sh=705&exp=3600&w=300",
+            "title": "經濟日報社論／美國建國250年 面臨價值考驗",
+            "link": "https://udn.com//news/story/7338/9607229?from=udn-catebreaknews_ch2",
+            "time": "2026-07-05 03:21"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/05/35105378.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "聯合報黑白集／食品下架的法規與良心",
             "link": "https://udn.com//news/story/7338/9607376?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "大撒幣難道只看意識形態 補貼的是政治還是文化？",
             "link": "https://udn.com//news/story/7339/9607343?from=udn-catebreaknews_ch2",
             "time": "2026-07-05 00:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_4.jpg&w=300",
-            "title": "詹文男／當AI Agent替你作決定",
-            "link": "https://udn.com//news/story/123296/9607224?from=udn-catebreaknews_ch2",
-            "time": "2026-07-05 00:00"
         }
     ]
 }
