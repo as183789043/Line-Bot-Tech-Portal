@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/05/35107083.png&M=1&s=Y&x=0&y=0&sw=1024&sh=683&exp=3600&w=300",
+            "title": "大摩：NAND供給缺口將持續至2027年 最看好旺宏並調高群聯目標價",
+            "link": "https://udn.com//news/story/7251/9608561?from=udn-catebreaknews_ch2",
+            "time": "2026-07-05 21:57"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/05/35106626.jpg&M=1&s=Y&x=0&y=0&sw=1263&sh=842&exp=3600&w=300",
             "title": "下半年投資怎麼布局？M&G示警 ：狂熱漲勢vs.嚴峻現實",
             "link": "https://udn.com//news/story/7251/9608193?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "上周ETF成交前十大 這檔大賺一成…日均量27.2萬張最高",
             "link": "https://udn.com//news/story/123006/9608111?from=udn-catebreaknews_ch2",
             "time": "2026-07-05 15:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/05/35106497.jpg&M=1&s=Y&x=0&y=0&sw=929&sh=619&exp=3600&w=300",
-            "title": "上周台股漲2,208點、周線翻紅 法人：費半若能止穩 台股更穩健",
-            "link": "https://udn.com//news/story/7251/9608081?from=udn-catebreaknews_ch2",
-            "time": "2026-07-05 14:36"
         }
     ]
 }

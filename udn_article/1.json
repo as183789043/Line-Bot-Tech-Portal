@@ -1,6 +1,24 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/05/35107063.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
+            "title": "高雄選戰 賴瑞隆會勘防洪、柯志恩成立鳳山後援會",
+            "link": "https://udn.com//news/story/124652/9608411?from=udn-catebreaknews_ch2",
+            "time": "2026-07-05 21:51"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/05/35106986.jpg&M=1&s=Y&x=0&y=0&sw=1081&sh=721&exp=3600&w=300",
+            "title": "遲遲未鬆口…吳品叡點頭參選嘉義縣長 地方揭藍白合作促成最後轉折",
+            "link": "https://udn.com//news/story/124652/9608476?from=udn-catebreaknews_ch2",
+            "time": "2026-07-05 20:23"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/05/35106951.jpg&M=1&s=Y&x=0&y=0&sw=1081&sh=721&exp=3600&w=300",
+            "title": "無黨籍吳品叡宣布參選嘉義縣長 在野大聯盟正式成軍",
+            "link": "https://udn.com//news/story/124652/9608450?from=udn-catebreaknews_ch2",
+            "time": "2026-07-05 20:05"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/05/35106913.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
             "title": "未替同派站台 正國會林銘仁挺英系廖宜琨：先救最危險的人",
             "link": "https://udn.com//news/story/124652/9608373?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "蘇巧慧、廖宜琨樹林座談會 民眾高喊：樹林出市長",
             "link": "https://udn.com//news/story/124652/9608368?from=udn-catebreaknews_ch2",
             "time": "2026-07-05 19:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/05/35106904.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "鳳山後援會人潮破3千人！柯志恩批新潮流復辟才是讓高雄走回頭路",
-            "link": "https://udn.com//news/story/124652/9608367?from=udn-catebreaknews_ch2",
-            "time": "2026-07-05 19:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/05/35106879.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "吳釗燮批「中國艦艇出海破紀錄」 張競譏「獨白囈語」：那是躲颱風",
-            "link": "https://udn.com//news/story/10930/9608350?from=udn-catebreaknews_ch2",
-            "time": "2026-07-05 18:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/05/35106875.jpg&M=1&s=Y&x=0&y=0&sw=939&sh=626&exp=3600&w=300",
-            "title": "陳以信促賴總統該來台南 為治水神話破功向市民道歉",
-            "link": "https://udn.com//news/story/124652/9608348?from=udn-catebreaknews_ch2",
-            "time": "2026-07-05 18:39"
         }
     ]
 }
