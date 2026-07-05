@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
+            "title": "藥華藥營收／6月23.3億元、年增94.8% 上半年營收119.8億元創歷史新高",
+            "link": "https://udn.com//news/story/7252/9607944?from=udn-catebreaknews_ch2",
+            "time": "2026-07-05 12:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
+            "title": "大立光營收／6月37.12億元、年月雙減 7月拉貨預期會更好",
+            "link": "https://udn.com//news/story/7253/9607734?from=udn-catebreaknews_ch2",
+            "time": "2026-07-05 10:46"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/03/35102835.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "雙重優勢股防禦性首選 緯穎、信驊等可望有表現空間",
             "link": "https://udn.com//news/story/7251/9607270?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2026-07-05 03:19"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
             "title": "專家：「AI效率贏家」 下波主打星",
             "link": "https://udn.com//news/story/7251/9607232?from=udn-catebreaknews_ch2",
             "time": "2026-07-05 03:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
-            "title": "中纖、南亞轉型 買盤青睞",
-            "link": "https://udn.com//news/story/7253/9607243?from=udn-catebreaknews_ch2",
-            "time": "2026-07-05 03:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/14/34852077.jpg&M=1&s=Y&x=543&y=18&sw=545&sh=364&exp=3600&w=300",
-            "title": "大摩唱旺NAND 首選旺宏 目標價上看220元",
-            "link": "https://udn.com//news/story/7253/9607246?from=udn-catebreaknews_ch2",
-            "time": "2026-07-05 03:06"
         }
     ]
 }
