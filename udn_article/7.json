@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/06/35110524.jpg&M=1&s=Y&x=0&y=0&sw=1238&sh=825&exp=3600&w=300",
+            "title": "AI巨頭頻傳利多 台指期夜盤上半場以盤待變",
+            "link": "https://udn.com//news/story/7255/9610845?from=udn-catebreaknews_ch2",
+            "time": "2026-07-06 21:04"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/06/35110398.jpg&M=1&s=Y&x=0&y=0&sw=1037&sh=691&exp=3600&w=300",
             "title": "廣達除息前夕爆跌停價鉅額交易 外資、投信土洋對作",
             "link": "https://udn.com//news/story/7253/9610659?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "大鵬科營收／上半年29.5億元、年增40.9%創同期新高 7月下旬掛牌上市",
             "link": "https://udn.com//news/story/7254/9610611?from=udn-catebreaknews_ch2",
             "time": "2026-07-06 19:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/06/35110289.jpg&M=1&s=Y&x=0&y=29&sw=1278&sh=852&exp=3600&w=300",
-            "title": "長科單月營收首破15億元 續寫單月新高",
-            "link": "https://udn.com//news/story/7254/9610557?from=udn-catebreaknews_ch2",
-            "time": "2026-07-06 18:39"
         }
     ]
 }
