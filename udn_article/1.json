@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/07/35112003.jpg&M=1&s=Y&x=0&y=97&sw=1280&sh=853&exp=3600&w=300",
+            "title": "基隆選戰掀泳裝美女vs. AI猛男 科技重塑選舉政治行銷",
+            "link": "https://udn.com//news/story/6656/9613809?from=udn-catebreaknews_ch2",
+            "time": "2026-07-08 05:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/07/35112683.jpg&M=1&s=Y&x=94&y=0&sw=1186&sh=791&exp=3600&w=300",
             "title": "歷史上的今天／1961年泰國官員率團訪台 觀摩農業建設",
             "link": "https://udn.com//news/story/7314/9613727?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2026-07-08 00:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
             "title": "七七事變89周年 鄭麗文：避戰止戰 國民黨使命",
             "link": "https://udn.com//news/story/6656/9613702?from=udn-catebreaknews_ch2",
             "time": "2026-07-08 00:00"
@@ -23,12 +29,6 @@
             "title": "洪秀柱：七七抗戰不可遺忘 軍國主義不可縱容",
             "link": "https://udn.com//news/story/6656/9613672?from=udn-catebreaknews_ch2",
             "time": "2026-07-07 23:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/07/35114129.jpg&M=1&s=Y&x=0&y=28&sw=1279&sh=852&exp=3600&w=300",
-            "title": "瓜地馬拉國會議長康特雷斯訪台 8日會晤賴總統",
-            "link": "https://udn.com//news/story/6656/9613232?from=udn-catebreaknews_ch2",
-            "time": "2026-07-07 20:10"
         }
     ]
 }
