@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/09/35118611.jpg&M=1&s=Y&x=0&y=0&sw=624&sh=416&exp=3600&w=300",
+            "title": "不擔心被AI取代 村上春樹：好作品來自靈光乍現",
+            "link": "https://udn.com//news/story/6897/9616600?from=udn-catebreaknews_ch2",
+            "time": "2026-07-09 09:34"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/08/35117836.jpg&M=1&s=Y&x=0&y=57&sw=780&sh=520&exp=3600&w=300",
             "title": "洞察淨室濾網商機 「鉅為」躍升半導體供應鏈隱形支援者",
             "link": "https://udn.com//news/story/6846/9615971?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "工信工程副總經理劉永慶：台灣美學土木工程最辛苦的一仗",
             "link": "https://udn.com//news/story/6846/9616004?from=udn-catebreaknews_ch2",
             "time": "2026-07-09 06:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/30/34812647.jpg&M=2&s=Y&x=0&y=0&sw=1201&sh=801&exp=3600&w=300",
-            "title": "保守投資人的普遍焦慮：沒趕上AI熱潮 怎麼辦？",
-            "link": "https://udn.com//news/story/6846/9616041?from=udn-catebreaknews_ch2",
-            "time": "2026-07-09 06:58"
         }
     ]
 }
