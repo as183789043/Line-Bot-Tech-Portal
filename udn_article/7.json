@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/11/35125058.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "台北放假台股被迫跟著關門？網轟：2026年金融系統還無法遠端運作太落後",
+            "link": "https://udn.com//news/story/12806/9620724?from=udn-catebreaknews_ch2",
+            "time": "2026-07-11 00:44"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/11/35125049.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "颱風假沒開盤少賺好可惜？長期持有者免驚：不會因此少賺或多賺",
+            "link": "https://udn.com//news/story/12806/9620712?from=udn-catebreaknews_ch2",
+            "time": "2026-07-11 00:32"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/10/35124743.png&M=1&s=Y&x=0&y=0&sw=771&sh=514&exp=3600&w=300",
             "title": "海外股票ETF投資熱度升溫 連12周創高",
             "link": "https://udn.com//news/story/123006/9620460?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "寶成營收／第2季629.98億元年增0.4%下半年進入傳統旺季有望逐季增溫",
             "link": "https://udn.com//news/story/7252/9620437?from=udn-catebreaknews_ch2",
             "time": "2026-07-10 21:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/03/realtime/31018618.jpg&s=Y&x=0&y=0&sw=1763&sh=1175&exp=3600&w=300",
-            "title": "GOGOLOOK營收／6月1.1億元創高 帶動第2季、上半年創同期新高",
-            "link": "https://udn.com//news/story/7253/9620258?from=udn-catebreaknews_ch2",
-            "time": "2026-07-10 18:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/10/35124493.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "聯發科Q2營收1521.83億元 超越財測高標",
-            "link": "https://udn.com//news/story/7253/9620247?from=udn-catebreaknews_ch2",
-            "time": "2026-07-10 18:43"
         }
     ]
 }
