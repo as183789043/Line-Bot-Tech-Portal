@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/10/35124743.png&M=1&s=Y&x=0&y=0&sw=771&sh=514&exp=3600&w=300",
+            "title": "海外股票ETF投資熱度升溫 連12周創高",
+            "link": "https://udn.com//news/story/123006/9620460?from=udn-catebreaknews_ch2",
+            "time": "2026-07-10 21:54"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/17/34956118.png&M=1&s=Y&x=0&y=107&sw=1232&sh=821&exp=3600&w=300",
+            "title": "亞股漲跌互見 日、韓、越股長線看俏",
+            "link": "https://udn.com//news/story/10103/9620453?from=udn-catebreaknews_ch2",
+            "time": "2026-07-10 21:52"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/03/11/2/29170447.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "寶成營收／第2季629.98億元年增0.4%下半年進入傳統旺季有望逐季增溫",
+            "link": "https://udn.com//news/story/7252/9620437?from=udn-catebreaknews_ch2",
+            "time": "2026-07-10 21:36"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/03/realtime/31018618.jpg&s=Y&x=0&y=0&sw=1763&sh=1175&exp=3600&w=300",
             "title": "GOGOLOOK營收／6月1.1億元創高 帶動第2季、上半年創同期新高",
             "link": "https://udn.com//news/story/7253/9620258?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "聯發科Q2營收1521.83億元 超越財測高標",
             "link": "https://udn.com//news/story/7253/9620247?from=udn-catebreaknews_ch2",
             "time": "2026-07-10 18:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/11/34753792.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台泥營收／6月133.8億元月增6.11%、年增32.4% 上半年年增1.5%",
-            "link": "https://udn.com//news/story/7252/9620186?from=udn-catebreaknews_ch2",
-            "time": "2026-07-10 18:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/10/35031508.jpg&M=1&s=Y&x=0&y=16&sw=1170&sh=780&exp=3600&w=300",
-            "title": "聯發科營收／6月580.12億元 月增22.3%、年增2.8% 改寫今年單月新高",
-            "link": "https://udn.com//news/story/7253/9620170?from=udn-catebreaknews_ch2",
-            "time": "2026-07-10 17:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/09/34746056.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "宏碁營收／6月278.18億元 月增6.3%",
-            "link": "https://udn.com//news/story/7253/9620163?from=udn-catebreaknews_ch2",
-            "time": "2026-07-10 17:50"
         }
     ]
 }

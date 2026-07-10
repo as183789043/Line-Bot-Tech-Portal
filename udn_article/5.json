@@ -1,6 +1,24 @@
 {
     "地方": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/10/35124681.jpg&M=1&s=Y&x=0&y=0&sw=939&sh=626&exp=3600&w=300",
+            "title": "北市停止上班上課 清潔隊連2天暫停收運",
+            "link": "https://udn.com//news/story/7323/9620417?from=udn-catebreaknews_ch2",
+            "time": "2026-07-10 21:15"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/10/35124634.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
+            "title": "巴威風雨增強 新北11日全天暫停垃圾收運",
+            "link": "https://udn.com//news/story/7323/9620332?from=udn-catebreaknews_ch2",
+            "time": "2026-07-10 20:09"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/10/35124604.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "影／颱風來襲…基隆廟口夜市部分攤商歇業 排隊人潮依舊",
+            "link": "https://udn.com//news/story/7328/9620308?from=udn-catebreaknews_ch2",
+            "time": "2026-07-10 19:46"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/10/35124598.jpg&M=1&s=Y&x=23&y=0&sw=714&sh=476&exp=3600&w=300",
             "title": "基隆24小時雨量將達200到340毫米 北寧路、湖海路今晚10時封閉",
             "link": "https://udn.com//news/story/7328/9620300?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "中颱巴威進逼 羅東夜市晚間僅有零星人潮",
             "link": "https://udn.com//news/story/7328/9620218?from=udn-catebreaknews_ch2",
             "time": "2026-07-10 18:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/10/35124374.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "影／因應巴威颱風 三峽警助鶯歌南靖部落及三峽山區民眾撤離守護安全",
-            "link": "https://udn.com//news/story/7323/9620174?from=udn-catebreaknews_ch2",
-            "time": "2026-07-10 17:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/10/35124324.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "影／巴威逼近！警方配合新店及烏來公所預防性撤離 守護居民安全",
-            "link": "https://udn.com//news/story/7323/9620151?from=udn-catebreaknews_ch2",
-            "time": "2026-07-10 17:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/10/35124270.png&M=1&s=Y&x=31&y=0&sw=1236&sh=824&exp=3600&w=300",
-            "title": "花蓮光復鄉撤離逾1500人…收容所遭批沒有風扇長輩熱到睡不著 公所急改善",
-            "link": "https://udn.com//news/story/7328/9620137?from=udn-catebreaknews_ch2",
-            "time": "2026-07-10 17:29"
         }
     ]
 }
