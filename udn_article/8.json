@@ -1,8 +1,14 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/11/35126934.jpg&M=1&s=Y&x=0&y=0&sw=1107&sh=738&exp=3600&w=300",
+            "title": "巴威襲新竹逾萬戶停電 台電全力搶修、晚間剩山區2629戶待復電",
+            "link": "https://udn.com//news/story/124945/9622045?from=udn-catebreaknews_ch2",
+            "time": "2026-07-11 23:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/11/35126842.jpg&M=1&s=Y&x=0&y=0&sw=1109&sh=739&exp=3600&w=300",
-            "title": "北市明正常上班課！校園停放車輛明8時前須駛離 北捷明恢復正常班距",
+            "title": "北市周日正常上班課…校園停放車輛8時前須駛離 北捷恢復正常班距",
             "link": "https://udn.com//news/story/124945/9621955?from=udn-catebreaknews_ch2",
             "time": "2026-07-11 22:04"
         },
@@ -23,12 +29,6 @@
             "title": "疏運巴威滯留外站旅客 華航明東京等航點放大機型載客",
             "link": "https://udn.com//news/story/124945/9621939?from=udn-catebreaknews_ch2",
             "time": "2026-07-11 21:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/11/35126808.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "桃機明恢復營運！今出入境「0人」破紀錄 疫情期間也未曾出現",
-            "link": "https://udn.com//news/story/124945/9621932?from=udn-catebreaknews_ch2",
-            "time": "2026-07-11 21:46"
         }
     ]
 }
