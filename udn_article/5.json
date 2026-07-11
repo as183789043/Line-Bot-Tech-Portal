@@ -1,6 +1,24 @@
 {
     "地方": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/11/35126843.jpg&M=1&s=Y&x=0&y=0&sw=1254&sh=836&exp=3600&w=300",
+            "title": "台中停電最高2.7萬戶情況緩解 793戶持續搶修",
+            "link": "https://udn.com//news/story/124946/9621956?from=udn-catebreaknews_ch2",
+            "time": "2026-07-11 22:04"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/11/35126836.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "苗栗多處道路落石、路樹傾倒中斷交通 南庄124線、西湖119線都已搶通",
+            "link": "https://udn.com//news/story/124946/9621954?from=udn-catebreaknews_ch2",
+            "time": "2026-07-11 22:02"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/11/35126778.jpg&M=1&s=Y&x=0&y=0&sw=1073&sh=715&exp=3600&w=300",
+            "title": "基隆北寧路、湖海路及堵南1-1地下道 明上午巡查後解封恢復通行",
+            "link": "https://udn.com//news/story/124946/9621901?from=udn-catebreaknews_ch2",
+            "time": "2026-07-11 21:21"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/11/35126749.jpg&M=1&s=Y&x=1&y=170&sw=825&sh=550&exp=3600&w=300",
             "title": "巴威颱風環流強風豪雨 基隆土泥滑落「大石砸民宅」牆破屋損啟動安置",
             "link": "https://udn.com//news/story/124946/9621877?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "巴威肆虐苗栗縣紅棗、甜柿受重創 第一波農損報告金額逾300萬元",
             "link": "https://udn.com//news/story/124946/9621874?from=udn-catebreaknews_ch2",
             "time": "2026-07-11 20:46"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/11/35126745.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "颱風巴威侵襲…新北市晚間逾1900戶仍停電 部分山區道路坍方難搶修",
-            "link": "https://udn.com//news/story/124946/9621865?from=udn-catebreaknews_ch2",
-            "time": "2026-07-11 20:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/11/35126733.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "巴威轟炸桃園復興部落 里長憂55戶身陷孤島：颱風尾掃過恐停電",
-            "link": "https://udn.com//news/story/124946/9621863?from=udn-catebreaknews_ch2",
-            "time": "2026-07-11 20:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/11/35126732.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "巴威颱風造成台中農損127萬 多為海線水稻芋頭農作物浸水倒伏",
-            "link": "https://udn.com//news/story/124946/9621861?from=udn-catebreaknews_ch2",
-            "time": "2026-07-11 20:23"
         }
     ]
 }
