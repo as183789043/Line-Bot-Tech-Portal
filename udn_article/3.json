@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/12/35128638.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "川普發文哀悼葛理漢：我認識最偉大的人之一 真正愛國者",
+            "link": "https://udn.com//news/story/6813/9623215?from=udn-catebreaknews_ch2",
+            "time": "2026-07-12 20:43"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/12/35128582.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
+            "title": "輝達最大敵人不是AMD而是記憶體？HBM之父：GPU真正運算時間只有10%",
+            "link": "https://udn.com//news/story/6811/9623128?from=udn-catebreaknews_ch2",
+            "time": "2026-07-12 20:08"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/12/35128477.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "伊朗誓守荷莫茲海峽 強調其重要性勝過數十枚原子彈",
             "link": "https://udn.com//news/story/124061/9623080?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "放話「獲釋就殺人」！紐約變態性虐前同事13小時 獄中手寫亂倫書喊：引以為傲",
             "link": "https://udn.com//news/story/6810/9622989?from=udn-catebreaknews_ch2",
             "time": "2026-07-12 18:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/12/35128315.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "AI晶片供應持續緊俏 三星、SK海力士、美光等記憶體大廠爭相擴產",
-            "link": "https://udn.com//news/story/6811/9623010?from=udn-catebreaknews_ch2",
-            "time": "2026-07-12 17:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/12/35128312.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "「末日博士」阿聯推代幣 諷加密幣是垃圾…卻看好區塊鏈潛力",
-            "link": "https://udn.com//news/story/6811/9622993?from=udn-catebreaknews_ch2",
-            "time": "2026-07-12 17:30"
         }
     ]
 }
