@@ -1,13 +1,19 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/12/35127454.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "民眾高點放大槓桿投資台股 違約交割風險更高",
+            "link": "https://udn.com//news/story/7251/9622430?from=udn-catebreaknews_ch2",
+            "time": "2026-07-12 10:31"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/10/35124004.jpg&M=1&s=Y&x=0&y=82&sw=1024&sh=683&exp=3600&w=300",
             "title": "赴烤箱公司法說會後賣股！AI加持股價15元衝破220元 投資達人嘆：血淚經驗",
             "link": "https://udn.com//news/story/12806/9620009?from=udn-catebreaknews_ch2",
             "time": "2026-07-12 05:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
             "title": "美晶片股重燃動能 緊盯台積、ASML法說",
             "link": "https://udn.com//news/story/7251/9622028?from=udn-catebreaknews_ch2",
             "time": "2026-07-12 03:34"
@@ -19,16 +25,10 @@
             "time": "2026-07-12 03:30"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
             "title": "高含「積」量 ETF 押寶優選",
             "link": "https://udn.com//news/story/123006/9621978?from=udn-catebreaknews_ch2",
             "time": "2026-07-12 03:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/07/35113117.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "高盛挺川湖…目標價12,000元 外資欽點六大萬金股前景看好",
-            "link": "https://udn.com//news/story/7253/9622034?from=udn-catebreaknews_ch2",
-            "time": "2026-07-12 03:20"
         }
     ]
 }
