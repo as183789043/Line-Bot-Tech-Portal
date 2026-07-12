@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/12/35128741.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電法說在即 外資關注五大焦點…目標價最高喊上3800元",
+            "link": "https://udn.com//news/story/7253/9623292?from=udn-catebreaknews_ch2",
+            "time": "2026-07-12 22:10"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/12/35128421.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "當沖失手連幾萬元都繳不出！年輕股民違約交割大增 一次失誤恐留下5年信用紀錄",
             "link": "https://udn.com//news/story/12806/9623060?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "日銀升息不是利空！鉅亨買基金：看懂三訊號 把握日本基金投資機會",
             "link": "https://udn.com//news/story/10103/9622911?from=udn-catebreaknews_ch2",
             "time": "2026-07-12 16:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/12/35128112.jpg&M=1&s=Y&x=0&y=39&sw=1280&sh=853&exp=3600&w=300",
-            "title": "上周三大法人買超第一名ETF是這檔！00919居次、高股息夯",
-            "link": "https://udn.com//news/story/123006/9622880?from=udn-catebreaknews_ch2",
-            "time": "2026-07-12 15:47"
         }
     ]
 }
