@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/15/35136025.png&M=1&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
+            "title": "股票禮品卡 券商新戰場…多家業者洽詢發行方式",
+            "link": "https://udn.com//news/story/7251/9627883?from=udn-catebreaknews_ch2",
+            "time": "2026-07-15 02:10"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/09/35120366.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台股震盪…法人喊快觸底了 短線反彈有望先看46K",
             "link": "https://udn.com//news/story/7251/9627992?from=udn-catebreaknews_ch2",
@@ -13,22 +19,16 @@
             "time": "2026-07-15 01:23"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
             "title": "卓揆：颱風假股市照常交易 可研議",
             "link": "https://udn.com//news/story/7251/9628001?from=udn-catebreaknews_ch2",
             "time": "2026-07-15 01:22"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/15/35135986.png&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "全民權證／南亞 選價內外15%",
-            "link": "https://udn.com//news/story/7255/9627680?from=udn-catebreaknews_ch2",
-            "time": "2026-07-15 01:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/15/35135985.png&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "全民權證／台積電 兩檔亮眼",
-            "link": "https://udn.com//news/story/7255/9627687?from=udn-catebreaknews_ch2",
-            "time": "2026-07-15 01:12"
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/13/35130429.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
+            "title": "國巨、南亞科 權證認購熱",
+            "link": "https://udn.com//news/story/7255/9627671?from=udn-catebreaknews_ch2",
+            "time": "2026-07-15 01:15"
         }
     ]
 }

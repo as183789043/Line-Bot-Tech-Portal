@@ -1,7 +1,13 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/14/35134323.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600&w=300",
+            "title": "賴子弟兵台南初選、黨部主委連吞敗 本命區是否大震盪",
+            "link": "https://udn.com//news/story/124652/9628177?from=udn-catebreaknews_ch2",
+            "time": "2026-07-15 05:01"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_1.jpg&w=300",
             "title": "廢除「非核家園」 年底公投",
             "link": "https://udn.com//news/story/6656/9627902?from=udn-catebreaknews_ch2",
             "time": "2026-07-15 01:13"
@@ -20,15 +26,9 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/14/35135899.png&M=2&s=Y&x=0&y=0&sw=799&sh=556&exp=3600&w=300",
-            "title": "從毒油到蘋果農藥放寬 這個民選政府怎麼處處與民作對",
+            "title": "【總編開箱】從毒油到蘋果農藥放寬 這個民選政府怎麼處處與民作對",
             "link": "https://udn.com//news/story/6656/9628101?from=udn-catebreaknews_ch2",
             "time": "2026-07-15 00:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/14/35132668.jpg&M=1&s=Y&x=0&y=69&sw=1280&sh=854&exp=3600&w=300",
-            "title": "歷史上的今天／1959年空軍贈勛 感謝美軍金門砲戰貢獻",
-            "link": "https://udn.com//news/story/7314/9628100?from=udn-catebreaknews_ch2",
-            "time": "2026-07-15 00:01"
         }
     ]
 }
