@@ -1,13 +1,19 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
+            "title": "廢除「非核家園」 年底公投",
+            "link": "https://udn.com//news/story/6656/9627902?from=udn-catebreaknews_ch2",
+            "time": "2026-07-15 01:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/14/35135882.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "冷眼集／政治責任 卓揆不道歉 全民情何以堪",
             "link": "https://udn.com//news/story/124948/9628077?from=udn-catebreaknews_ch2",
             "time": "2026-07-15 00:16"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_0.jpg&w=300",
             "title": "北市：中央卸責 急於增訂地方職責",
             "link": "https://udn.com//news/story/124948/9628078?from=udn-catebreaknews_ch2",
             "time": "2026-07-15 00:16"
@@ -23,12 +29,6 @@
             "title": "歷史上的今天／1959年空軍贈勛 感謝美軍金門砲戰貢獻",
             "link": "https://udn.com//news/story/7314/9628100?from=udn-catebreaknews_ch2",
             "time": "2026-07-15 00:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/14/35135838.jpg&M=1&s=Y&x=0&y=65&sw=1280&sh=854&exp=3600&w=300",
-            "title": "許舒博妻對槓黃尤美…斗六市長藍現裂痕 綠提尹令瑛成3女激戰",
-            "link": "https://udn.com//news/story/124652/9627957?from=udn-catebreaknews_ch2",
-            "time": "2026-07-15 00:00"
         }
     ]
 }
