@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/14/35135627.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "美6月CPI出爐！台指期夜盤大漲 一度衝上45,350點",
+            "link": "https://udn.com//news/story/7255/9627784?from=udn-catebreaknews_ch2",
+            "time": "2026-07-14 21:03"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/14/35135517.jpg&M=1&s=Y&x=0&y=60&sw=1280&sh=853&exp=3600&w=300",
             "title": "主動式ETF 00408A 15日掛牌！33檔持股出爐 含台積電、台達電、廣達",
             "link": "https://udn.com//news/story/123006/9627686?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "半個月連爆三起！國巨再傳2,651萬元鉅額違約交割 累計金額破億元",
             "link": "https://udn.com//news/story/7251/9627572?from=udn-catebreaknews_ch2",
             "time": "2026-07-14 18:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/14/35135264.jpg&M=1&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
-            "title": "中信金獲利／累計上半年395.37億元刷新紀錄 EPS 1.96元",
-            "link": "https://udn.com//news/story/7252/9627512?from=udn-catebreaknews_ch2",
-            "time": "2026-07-14 18:19"
         }
     ]
 }
