@@ -1,6 +1,12 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/17/35145208.jpg&M=1&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "香江風情／香港狀元搶讀醫科 私立醫院卻降價求生存",
+            "link": "https://udn.com//news/story/7331/9635438?from=udn-catebreaknews_ch2",
+            "time": "2026-07-18 07:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/17/35146468.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "世界人工智能大會／機器人、國產晶片 會場兩亮點",
             "link": "https://udn.com//news/story/7333/9635213?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2026-07-18 01:11"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_2.jpg&w=300",
             "title": "陸光通訊一哥中際旭創 拚8月在港 IPO",
             "link": "https://udn.com//news/story/7333/9635216?from=udn-catebreaknews_ch2",
             "time": "2026-07-18 01:10"
@@ -23,12 +29,6 @@
             "title": "世界人工智能大會／ 習近平喊 AI 賦能 暗批美國",
             "link": "https://udn.com//news/story/7333/9635210?from=udn-catebreaknews_ch2",
             "time": "2026-07-18 00:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/17/35146455.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "WAIC大會談AI治理 習近平：反對在AI領域泛化國安概念",
-            "link": "https://udn.com//news/story/7331/9635178?from=udn-catebreaknews_ch2",
-            "time": "2026-07-18 00:00"
         }
     ]
 }
