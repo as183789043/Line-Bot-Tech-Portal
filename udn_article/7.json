@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/17/35146494.jpg&M=1&s=Y&x=0&y=0&sw=666&sh=443&exp=3600&w=300",
+            "title": "空頭狙殺！台股暴跌2953點 史上最慘",
+            "link": "https://udn.com//news/story/7251/9635241?from=udn-catebreaknews_ch2",
+            "time": "2026-07-18 00:06"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/07/15/2/32592068.jpg&s=Y&x=0&y=0&sw=1279&sh=799&exp=3600&w=300",
             "title": "台股波動加劇 法人建議透過市值型ETF參與產業成長",
             "link": "https://udn.com//news/story/123006/9635055?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股重挫2953點寫多項紀錄 外資、自營商賣超登新高",
             "link": "https://udn.com//news/story/7251/9634932?from=udn-catebreaknews_ch2",
             "time": "2026-07-17 20:58"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/15/34858060.jpg&M=1&s=Y&x=0&y=18&sw=1280&sh=853&exp=3600&w=300",
-            "title": "子彈還沒用完！台股史上第一跌點 0050、00631雙雙吸金逾百億元",
-            "link": "https://udn.com//news/story/123006/9634945?from=udn-catebreaknews_ch2",
-            "time": "2026-07-17 20:45"
         }
     ]
 }
