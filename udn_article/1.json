@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/18/35147972.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "戰備操演邏輯沿自金門戰役 120迫砲連為何進駐北市高中",
+            "link": "https://udn.com//news/story/10930/9636729?from=udn-catebreaknews_ch2",
+            "time": "2026-07-19 07:31"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/19/35148786.jpg&M=1&s=Y&x=612&y=227&sw=651&sh=434&exp=3600&w=300",
             "title": "【專家之眼】無人機預算想過不想審 政府別拿國安玩政治",
             "link": "https://udn.com//news/story/10930/9636706?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "新聞眼／公投提案多 就怕失焦亂選情",
             "link": "https://udn.com//news/story/6656/9636612?from=udn-catebreaknews_ch2",
             "time": "2026-07-19 01:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/19/35148634.jpg&M=1&s=Y&x=121&y=0&sw=1089&sh=726&exp=3600&w=300",
-            "title": "公投票合一 廖達琪：誤蓋、誤投機率大增",
-            "link": "https://udn.com//news/story/6656/9636611?from=udn-catebreaknews_ch2",
-            "time": "2026-07-19 01:22"
         }
     ]
 }
