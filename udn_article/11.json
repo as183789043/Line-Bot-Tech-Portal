@@ -1,6 +1,18 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/18/35148069.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "騰訊高層：終端將是AI普及的最後一公里 但形式不一定",
+            "link": "https://udn.com//news/story/7333/9636211?from=udn-catebreaknews_ch2",
+            "time": "2026-07-18 16:54"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/18/35147949.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
+            "title": "非法提取模型結果？OpenAI、Anthropic控陸企「模型蒸餾」陸方駁斥",
+            "link": "https://udn.com//news/story/7333/9636161?from=udn-catebreaknews_ch2",
+            "time": "2026-07-18 16:13"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/18/35147882.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "香港獨立書店被捕5人獲准保釋候查 港府拒設禁書名單",
             "link": "https://udn.com//news/story/7331/9636118?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "宜家出售8處賣場…進入大陸以來最大規模資產處置 為優化成本、提升效率",
             "link": "https://udn.com//news/story/7333/9636099?from=udn-catebreaknews_ch2",
             "time": "2026-07-18 15:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/18/35147751.jpg&M=1&s=Y&x=0&y=34&sw=1280&sh=854&exp=3600&w=300",
-            "title": "BBC：習近平AI「開源共享」戰略 將北京塑造成領銜包容形象",
-            "link": "https://udn.com//news/story/7331/9635966?from=udn-catebreaknews_ch2",
-            "time": "2026-07-18 14:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/18/35147715.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "新聞分析／站在道德制高點…中國如何合理運用AI 全球都在看",
-            "link": "https://udn.com//news/story/7331/9635972?from=udn-catebreaknews_ch2",
-            "time": "2026-07-18 14:28"
         }
     ]
 }
