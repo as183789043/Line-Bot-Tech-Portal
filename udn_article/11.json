@@ -1,6 +1,12 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/18/35148332.jpg&M=1&s=Y&x=0&y=0&sw=927&sh=618&exp=3600&w=300",
+            "title": "柬埔寨向大陸採購20架C909飛機 C919將開通首條定期國際航線",
+            "link": "https://udn.com//news/story/7333/9636420?from=udn-catebreaknews_ch2",
+            "time": "2026-07-18 21:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/18/35148216.png&M=1&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
             "title": "「再碰我就告強姦」21歲女陳屍家中 冷血父砍殺完女兒秒叫殯儀車",
             "link": "https://udn.com//news/story/7335/9636324?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "騰訊高層：終端將是AI普及的最後一公里 但形式不一定",
             "link": "https://udn.com//news/story/7333/9636211?from=udn-catebreaknews_ch2",
             "time": "2026-07-18 16:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/18/35147949.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "非法提取模型結果？OpenAI、Anthropic控陸企「模型蒸餾」陸方駁斥",
-            "link": "https://udn.com//news/story/7333/9636161?from=udn-catebreaknews_ch2",
-            "time": "2026-07-18 16:13"
         }
     ]
 }
