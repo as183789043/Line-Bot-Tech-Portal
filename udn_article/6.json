@@ -1,7 +1,13 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_2.jpg&w=300",
+            "title": "星展:台本季GDP看增10%",
+            "link": "https://udn.com//news/story/7239/9637844?from=udn-catebreaknews_ch2",
+            "time": "2026-07-20 05:31"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_3.jpg&w=300",
             "title": "金融共好論壇22日登場／AI治理 建構創新金融圈",
             "link": "https://udn.com//news/story/7239/9637884?from=udn-catebreaknews_ch2",
             "time": "2026-07-20 01:44"
@@ -23,12 +29,6 @@
             "title": "鴻海奪SpaceX AI伺服器大單 相關業務動能將比預期強",
             "link": "https://udn.com//news/story/7240/9637857?from=udn-catebreaknews_ch2",
             "time": "2026-07-20 01:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_8.jpg&w=300",
-            "title": "鴻海下一步…瞄準太空資料中心",
-            "link": "https://udn.com//news/story/7240/9637859?from=udn-catebreaknews_ch2",
-            "time": "2026-07-20 01:27"
         }
     ]
 }
