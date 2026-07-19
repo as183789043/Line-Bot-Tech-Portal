@@ -1,7 +1,13 @@
 {
     "地方": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6641_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6641_1.jpg&w=300",
+            "title": "萬里溪堰塞湖 水位續升暫未溢流",
+            "link": "https://udn.com//news/story/7328/9637916?from=udn-catebreaknews_ch2",
+            "time": "2026-07-20 02:31"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6641_3.jpg&w=300",
             "title": "大巨蛋天花板漏水 遠雄致歉：廠商施工未依規斷水",
             "link": "https://udn.com//news/story/7323/9637905?from=udn-catebreaknews_ch2",
             "time": "2026-07-20 00:18"
@@ -13,7 +19,7 @@
             "time": "2026-07-20 00:17"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6641_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6641_6.jpg&w=300",
             "title": "新聞評論／別讓索資成壓垮公務員的稻草",
             "link": "https://udn.com//news/story/7323/9637892?from=udn-catebreaknews_ch2",
             "time": "2026-07-20 00:09"
@@ -23,12 +29,6 @@
             "title": "星期評論／旗津渡口翻新 商業模式也該改",
             "link": "https://udn.com//news/story/7327/9637931?from=udn-catebreaknews_ch2",
             "time": "2026-07-20 00:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/19/35150370.jpg&M=1&s=Y&x=0&y=0&sw=1080&sh=720&exp=3600&w=300",
-            "title": "車禍頻傳 屏科大移除減速丘、設測速照相",
-            "link": "https://udn.com//news/story/7327/9637924?from=udn-catebreaknews_ch2",
-            "time": "2026-07-20 00:01"
         }
     ]
 }
