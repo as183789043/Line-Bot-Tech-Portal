@@ -1,14 +1,20 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/20/35153310.png&M=1&s=Y&x=0&y=0&sw=930&sh=620&exp=3600&w=300",
+            "title": "美伊周末持續交火 推升油價突破90美元",
+            "link": "https://udn.com//news/story/6809/9640328?from=udn-catebreaknews_ch2",
+            "time": "2026-07-21 06:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/20/35153930.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "熱浪乾旱衝擊德國經濟 萊茵河水位降至低點 推升貨船載運成本",
             "link": "https://udn.com//news/story/6811/9640127?from=udn-catebreaknews_ch2",
             "time": "2026-07-21 03:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
-            "title": "Fed 年底前升息 幾成定局",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
+            "title": "Fed年底前升息 幾成定局",
             "link": "https://udn.com//news/story/6811/9640126?from=udn-catebreaknews_ch2",
             "time": "2026-07-21 02:58"
         },
@@ -23,12 +29,6 @@
             "title": "歐洲議會靠AI對付「AI 氾濫」",
             "link": "https://udn.com//news/story/6811/9640120?from=udn-catebreaknews_ch2",
             "time": "2026-07-21 02:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
-            "title": "英相柏能就任 承諾降低生活成本",
-            "link": "https://udn.com//news/story/6811/9640115?from=udn-catebreaknews_ch2",
-            "time": "2026-07-21 02:53"
         }
     ]
 }
