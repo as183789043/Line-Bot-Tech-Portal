@@ -1,7 +1,19 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/21/35154384.jpg&M=1&s=Y&x=82&y=0&sw=1080&sh=720&exp=3600&w=300",
+            "title": "Google傳開發新款AI晶片 提高Gemini運算效率",
+            "link": "https://udn.com//news/story/7240/9640390?from=udn-catebreaknews_ch2",
+            "time": "2026-07-21 07:59"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/20/35152741.png&M=1&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
+            "title": "40歲勇辭公職！他用「槓鈴策略」翻轉資產 保守配積極 不怕股災安心退",
+            "link": "https://udn.com//news/story/121591/9639240?from=udn-catebreaknews_ch2",
+            "time": "2026-07-21 07:07"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_8.jpg&w=300",
             "title": "微軟資料中心 採用超微機櫃",
             "link": "https://udn.com//news/story/7240/9640113?from=udn-catebreaknews_ch2",
             "time": "2026-07-21 02:53"
@@ -17,18 +29,6 @@
             "title": "臺銀、土銀 上半年大賺",
             "link": "https://udn.com//news/story/7239/9639977?from=udn-catebreaknews_ch2",
             "time": "2026-07-21 02:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/20/35153780.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
-            "title": "張兆順兼國票董座 總座甘美珠",
-            "link": "https://udn.com//news/story/7239/9640016?from=udn-catebreaknews_ch2",
-            "time": "2026-07-21 02:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/20/35153752.jpg&M=1&s=Y&x=0&y=0&sw=1194&sh=796&exp=3600&w=300",
-            "title": "南山推熱傷害微型保單",
-            "link": "https://udn.com//news/story/7239/9639980?from=udn-catebreaknews_ch2",
-            "time": "2026-07-21 02:27"
         }
     ]
 }
