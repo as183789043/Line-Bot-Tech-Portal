@@ -1,7 +1,19 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/21/35157564.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股今年兩度回檔不到13％「台人較會做股票？」 網搖頭：個股腰斬破底",
+            "link": "https://udn.com//news/story/12806/9642424?from=udn-catebreaknews_ch2",
+            "time": "2026-07-21 22:01"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/21/35157473.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台積電傳漲價、ADR大漲 台指期夜盤再反彈",
+            "link": "https://udn.com//news/story/7255/9642380?from=udn-catebreaknews_ch2",
+            "time": "2026-07-21 21:05"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
             "title": "福邦證法說會／上半年自結EPS 1.06元 明年現金股息有望再創歷史新高",
             "link": "https://udn.com//news/story/7252/9642237?from=udn-catebreaknews_ch2",
             "time": "2026-07-21 19:49"
@@ -17,18 +29,6 @@
             "title": "盤後鉅額交易驚見4家金控「三漲停一跌停」 亮綠燈暗藏法人節稅玄機",
             "link": "https://udn.com//news/story/7251/9642090?from=udn-catebreaknews_ch2",
             "time": "2026-07-21 18:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/21/35156990.jpg&M=1&s=Y&x=0&y=62&sw=1280&sh=853&exp=3600&w=300",
-            "title": "證交所董事會通過崇舜、稜研科技及特力屋股票上市案",
-            "link": "https://udn.com//news/story/7251/9641937?from=udn-catebreaknews_ch2",
-            "time": "2026-07-21 17:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/21/35156812.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
-            "title": "亞泰金屬獲利／6月自結EPS 1.27元超越去年同期 客戶積極預定產能",
-            "link": "https://udn.com//news/story/7252/9641901?from=udn-catebreaknews_ch2",
-            "time": "2026-07-21 17:10"
         }
     ]
 }
