@@ -1,6 +1,12 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/22/35161467.png&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
+            "title": "花蓮秀林鄉深夜規模3.4地震 最大震度2級",
+            "link": "https://udn.com//news/story/7266/9645055?from=udn-catebreaknews_ch2",
+            "time": "2026-07-23 01:37"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/23/35161611.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "達美樂「外帶大披薩」249元起、滿額送可樂！摩斯漢堡「2款新堡」開賣",
             "link": "https://udn.com//news/story/7270/9645204?from=udn-catebreaknews_ch2",
@@ -13,12 +19,6 @@
             "time": "2026-07-23 00:12"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/22/35161552.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "AI衝擊 搜尋流量崩 媒體不滿Google",
-            "link": "https://udn.com//news/story/7266/9645156?from=udn-catebreaknews_ch2",
-            "time": "2026-07-23 00:04"
-        },
-        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_2.jpg&w=300",
             "title": "新聞分析／疊床架屋 難解觀光困境",
             "link": "https://udn.com//news/story/7266/9645163?from=udn-catebreaknews_ch2",
@@ -26,7 +26,7 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/22/35161568.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "再添智庫 觀研院掛牌 卓揆喊千萬國際客",
+            "title": "再添智庫…觀研院掛牌 卓揆喊千萬國際客",
             "link": "https://udn.com//news/story/7266/9645168?from=udn-catebreaknews_ch2",
             "time": "2026-07-23 00:03"
         }
