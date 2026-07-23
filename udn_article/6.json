@@ -1,6 +1,24 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/23/35162716.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "房價漲800萬 離婚時如何計算資產？一次搞懂共同登記、借名登記、預告登記",
+            "link": "https://udn.com//news/story/121591/9645973?from=udn-catebreaknews_ch2",
+            "time": "2026-07-24 07:45"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/24/35165920.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "超微蘇姿丰：2030年伺服器 CPU 市場將達2,200億美元規模",
+            "link": "https://udn.com//news/story/7240/9647762?from=udn-catebreaknews_ch2",
+            "time": "2026-07-24 07:29"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/24/35165909.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "超微蘇姿丰：2030年資料中心 AI 加速器市場將達1.4兆美元",
+            "link": "https://udn.com//news/story/7240/9647754?from=udn-catebreaknews_ch2",
+            "time": "2026-07-24 07:16"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/24/35165891.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "美強迫勞動301關稅出爐 台灣同日、韓、歐盟關稅10%或12.5%",
             "link": "https://udn.com//news/story/7238/9647739?from=udn-catebreaknews_ch2",
@@ -8,27 +26,9 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/24/35165780.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "川普關稅再出招！台灣部分商品適用10%或12.5% 美東時間24日生效",
+            "title": "川普關稅再出招！台灣部分商品適用10% 美東時間24日生效",
             "link": "https://udn.com//news/story/7238/9647678?from=udn-catebreaknews_ch2",
             "time": "2026-07-24 05:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/23/35165433.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "超微AI晶片進擊！最新GPU與CPU產品採2奈米製程 台積助攻",
-            "link": "https://udn.com//news/story/7240/9647463?from=udn-catebreaknews_ch2",
-            "time": "2026-07-24 02:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/23/35163251.jpg&M=1&s=Y&x=0&y=0&sw=1257&sh=839&exp=3600&w=300",
-            "title": "網路降速演練 北部、中部8月實施！四類交易警戒",
-            "link": "https://udn.com//news/story/7239/9647414?from=udn-catebreaknews_ch2",
-            "time": "2026-07-24 02:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/24/35165728.png&M=1&s=Y&x=0&y=0&sw=891&sh=594&exp=3600&w=300",
-            "title": "20年債爆冷！投標倍數探低 僅1.04倍",
-            "link": "https://udn.com//news/story/7239/9647419?from=udn-catebreaknews_ch2",
-            "time": "2026-07-24 02:21"
         }
     ]
 }

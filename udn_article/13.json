@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/24/35165931.jpg&M=1&s=Y&x=44&y=0&sw=678&sh=452&exp=3600&w=300",
+            "title": "成本降至1/5！晶片大神也跳槽 中國OpenAI智譜股價飆5倍啟示",
+            "link": "https://udn.com//news/story/6837/9647776?from=udn-catebreaknews_ch2",
+            "time": "2026-07-24 07:54"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/24/35165928.jpg&M=1&s=Y&x=46&y=0&sw=678&sh=452&exp=3600&w=300",
+            "title": "他批聯準會「把每一天當危機」會升息嗎？從華許恩師看三大不同",
+            "link": "https://udn.com//news/story/6837/9647773?from=udn-catebreaknews_ch2",
+            "time": "2026-07-24 07:52"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/23/35163947.jpg&M=1&s=Y&x=0&y=106&sw=1122&sh=752&exp=3600&w=300",
             "title": "捨台積電模式 越南拚2030年百家IC設計公司、5萬晶片大軍 能順利轉型嗎？",
             "link": "https://udn.com//news/story/6841/9646530?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "矽晶圓跌過頭 AI需求續漲迎反攻契機",
             "link": "https://udn.com//news/story/6850/9646344?from=udn-catebreaknews_ch2",
             "time": "2026-07-23 15:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/23/35163863.jpg&M=1&s=Y&x=194&y=0&sw=939&sh=626&exp=3600&w=300",
-            "title": "ASIC AI伺服器受惠股：緯穎",
-            "link": "https://udn.com//news/story/6850/9646345?from=udn-catebreaknews_ch2",
-            "time": "2026-07-23 15:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/23/35163854.jpg&M=1&s=Y&x=235&y=0&sw=926&sh=617&exp=3600&w=300",
-            "title": "毛利率跳升、下半年獲利大躍進 納入MASI權重後、股價長線可期",
-            "link": "https://udn.com//news/story/6850/9646370?from=udn-catebreaknews_ch2",
-            "time": "2026-07-23 15:01"
         }
     ]
 }
