@@ -1,6 +1,12 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/22/35160742.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "中國漫記／AI促成全球搶才 諾獎學者為何集體赴陸？",
+            "link": "https://udn.com//news/story/7332/9645351?from=udn-catebreaknews_ch2",
+            "time": "2026-07-23 07:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/22/35161534.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "大陸AI開源模型被美盯上 川習9月磋商管制議題",
             "link": "https://udn.com//news/story/7333/9645131?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2026-07-23 01:41"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_2.jpg&w=300",
             "title": "大陸AI大模型市場競爭 轉向差異化布局",
             "link": "https://udn.com//news/story/7333/9645132?from=udn-catebreaknews_ch2",
             "time": "2026-07-23 01:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_8.jpg&w=300",
-            "title": "中芯晶片進化 等效5奈米",
-            "link": "https://udn.com//news/story/7333/9645133?from=udn-catebreaknews_ch2",
-            "time": "2026-07-23 01:38"
         }
     ]
 }
