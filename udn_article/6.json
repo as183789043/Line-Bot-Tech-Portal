@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/24/35165891.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "美強迫勞動301關稅出爐 台灣同日、韓、歐盟關稅10%或12.5%",
+            "link": "https://udn.com//news/story/7238/9647739?from=udn-catebreaknews_ch2",
+            "time": "2026-07-24 06:42"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/24/35165780.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "川普關稅再出招！台灣部分商品適用10%或12.5% 美東時間24日生效",
+            "link": "https://udn.com//news/story/7238/9647678?from=udn-catebreaknews_ch2",
+            "time": "2026-07-24 05:43"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/23/35165433.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "超微AI晶片進擊！最新GPU與CPU產品採2奈米製程 台積助攻",
             "link": "https://udn.com//news/story/7240/9647463?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "20年債爆冷！投標倍數探低 僅1.04倍",
             "link": "https://udn.com//news/story/7239/9647419?from=udn-catebreaknews_ch2",
             "time": "2026-07-24 02:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_7.jpg&w=300",
-            "title": "基金經理人手機禁令 投信投顧公會盼鬆綁",
-            "link": "https://udn.com//news/story/7239/9647416?from=udn-catebreaknews_ch2",
-            "time": "2026-07-24 02:19"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_8.jpg&w=300",
-            "title": "金融三業對陸曝險 回升",
-            "link": "https://udn.com//news/story/7239/9647425?from=udn-catebreaknews_ch2",
-            "time": "2026-07-24 02:19"
         }
     ]
 }
