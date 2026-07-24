@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/24/35167171.jpg&M=1&s=Y&x=0&y=69&sw=1280&sh=853&exp=3600&w=300",
+            "title": "記憶體斷魂時刻！南韓股市小白慘遭斷頭 謝金河：7家公司決定全球命運",
+            "link": "https://udn.com//news/story/6839/9648572?from=udn-catebreaknews_ch2",
+            "time": "2026-07-24 13:59"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/24/35167192.jpg&M=1&s=Y&x=0&y=124&sw=894&sh=596&exp=3600&w=300",
+            "title": "連淨苦茶油苯駢芘超標 939瓶流入棉花田、統一生機怎退費？一罐賣上千元的苦茶油 為何也會有致癌物",
+            "link": "https://udn.com//news/story/6839/9648582?from=udn-catebreaknews_ch2",
+            "time": "2026-07-24 13:57"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/24/35165931.jpg&M=1&s=Y&x=44&y=0&sw=678&sh=452&exp=3600&w=300",
             "title": "成本降至1/5！晶片大神也跳槽 中國OpenAI智譜股價飆5倍啟示",
             "link": "https://udn.com//news/story/6837/9647776?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "捨台積電模式 越南拚2030年百家IC設計公司、5萬晶片大軍 能順利轉型嗎？",
             "link": "https://udn.com//news/story/6841/9646530?from=udn-catebreaknews_ch2",
             "time": "2026-07-23 15:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/23/35163873.png&M=1&s=Y&x=240&y=0&sw=939&sh=626&exp=3600&w=300",
-            "title": "高階CCL缺貨漲價受惠股",
-            "link": "https://udn.com//news/story/6850/9646341?from=udn-catebreaknews_ch2",
-            "time": "2026-07-23 15:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/23/35163869.jpg&M=1&s=Y&x=209&y=0&sw=925&sh=617&exp=3600&w=300",
-            "title": "矽晶圓跌過頭 AI需求續漲迎反攻契機",
-            "link": "https://udn.com//news/story/6850/9646344?from=udn-catebreaknews_ch2",
-            "time": "2026-07-23 15:03"
         }
     ]
 }
