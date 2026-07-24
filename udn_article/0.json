@@ -1,7 +1,19 @@
 {
     "即時": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/25/35168895.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "川普：相信中俄沒賣武器給伊朗 否則對這2國沒好處",
+            "link": "https://udn.com//news/story/6809/9649857?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-07-25 03:11"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_3.jpg&w=300",
+            "title": "檢方第3波搜索 泰山前後任總經理遭聲押禁見",
+            "link": "https://udn.com//news/story/124948/9649849?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-07-25 02:25"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/24/35165910.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "超微推出最新 ROCm.ai",
             "link": "https://udn.com//news/story/7240/9649825?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-07-25 01:16"
@@ -17,18 +29,6 @@
             "title": "周五夜到周六晨最近台灣…氣象署維持周六上午解海警 影響下半天才會趨緩",
             "link": "https://udn.com//news/story/7266/9649808?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-07-25 00:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/25/35168832.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "NBA／76人3位MVP攜手出擊 布朗迎新隊友詹姆斯：開球吧！",
-            "link": "https://udn.com//news/story/7002/9649807?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-07-25 00:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/25/35168820.jpg&M=1&s=Y&x=0&y=33&sw=1280&sh=853&exp=3600&w=300",
-            "title": "NBA／詹姆斯「爆冷」轉戰費城 76人擁聯盟最強先發奪冠聲勢衝前3",
-            "link": "https://udn.com//news/story/7002/9649806?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-07-25 00:29"
         }
     ]
 }
