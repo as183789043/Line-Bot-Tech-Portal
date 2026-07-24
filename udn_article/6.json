@@ -1,6 +1,12 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/25/35168902.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
+            "title": "超微推出 Kria AI 解決方案 加速機器人開發",
+            "link": "https://udn.com//news/story/7240/9649863?from=udn-catebreaknews_ch2",
+            "time": "2026-07-25 03:55"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/24/35165910.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "超微推出最新 ROCm.ai",
             "link": "https://udn.com//news/story/7240/9649825?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2026-07-25 00:58"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
             "title": "臻鼎高階載板 客戶聲聲催",
             "link": "https://udn.com//news/story/7240/9649609?from=udn-catebreaknews_ch2",
             "time": "2026-07-25 00:56"
@@ -23,12 +29,6 @@
             "title": "大立光斥資13億 台中獵地",
             "link": "https://udn.com//news/story/7240/9649607?from=udn-catebreaknews_ch2",
             "time": "2026-07-25 00:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/24/35168164.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "美301調查 川普對台關稅10%不疊加",
-            "link": "https://udn.com//news/story/7238/9649734?from=udn-catebreaknews_ch2",
-            "time": "2026-07-25 00:41"
         }
     ]
 }

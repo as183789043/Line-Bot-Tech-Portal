@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/24/35168748.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "不滿歐盟重罰Google 川普揚言啟動301調查並課關稅",
+            "link": "https://udn.com//news/story/6811/9649861?from=udn-catebreaknews_ch2",
+            "time": "2026-07-25 04:05"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/25/35168895.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "川普：相信中俄沒賣武器給伊朗 否則對這2國沒好處",
             "link": "https://udn.com//news/story/6809/9649857?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2026-07-25 01:30"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
             "title": "歐7月PMI擴張 四個月首見",
             "link": "https://udn.com//news/story/6811/9649632?from=udn-catebreaknews_ch2",
             "time": "2026-07-25 01:28"
@@ -23,12 +29,6 @@
             "title": "油價飆漲、日圓疲軟 日本6月核心通膨加速",
             "link": "https://udn.com//news/story/6811/9649633?from=udn-catebreaknews_ch2",
             "time": "2026-07-25 01:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/25/35168854.png&M=1&s=Y&x=32&y=0&sw=924&sh=616&exp=3600&w=300",
-            "title": "網路經濟變天機器人當家 線上活動程度超越真人",
-            "link": "https://udn.com//news/story/6811/9649659?from=udn-catebreaknews_ch2",
-            "time": "2026-07-25 01:26"
         }
     ]
 }
