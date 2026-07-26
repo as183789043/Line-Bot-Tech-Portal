@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/24/35168263.jpg&M=1&s=Y&x=1&y=39&sw=603&sh=402&exp=3600&w=300",
+            "title": "食安對企業ESG與產業經濟的衝擊",
+            "link": "https://udn.com//news/story/6853/9649282?from=udn-catebreaknews_ch2",
+            "time": "2026-07-26 08:24"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/24/35166034.jpg&M=1&s=Y&x=0&y=0&sw=300&sh=200&exp=3600&w=300",
+            "title": "手機會致癌？流傳多年的老議題 最新大型研究再次得出否定結果",
+            "link": "https://udn.com//news/story/6897/9647872?from=udn-catebreaknews_ch2",
+            "time": "2026-07-26 08:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/23/35164235.jpg&M=1&s=Y&x=0&y=0&sw=1023&sh=682&exp=3600&w=300",
             "title": "法人壓寶金控股除權息",
             "link": "https://udn.com//news/story/6848/9646684?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "14歲離鄉走向世界 陳威華：AI與新能源 是台灣下一個十年的機會",
             "link": "https://udn.com//news/story/6848/9646705?from=udn-catebreaknews_ch2",
             "time": "2026-07-26 07:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/23/35164261.jpg&M=1&s=Y&x=205&y=0&sw=819&sh=546&exp=3600&w=300",
-            "title": "AI-RAN將全球基地台變身為分散式運算中心",
-            "link": "https://udn.com//news/story/6848/9646707?from=udn-catebreaknews_ch2",
-            "time": "2026-07-26 07:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/23/35164276.jpg&M=1&s=Y&x=0&y=31&sw=1254&sh=836&exp=3600&w=300",
-            "title": "當永續成了行銷語言 台灣開始反漂綠",
-            "link": "https://udn.com//news/story/6848/9646714?from=udn-catebreaknews_ch2",
-            "time": "2026-07-26 07:25"
         }
     ]
 }
