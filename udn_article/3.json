@@ -1,13 +1,25 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/28/35175730.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "晶片股賣壓抵銷油價大跌利多 美股漲跌互見靜待科技七雄財報",
+            "link": "https://udn.com//news/story/6811/9654742?from=udn-catebreaknews_ch2",
+            "time": "2026-07-28 06:52"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/27/35174590.png&M=1&s=Y&x=0&y=0&sw=930&sh=620&exp=3600&w=300",
+            "title": "川普終止「臨時保護身分」 全美35萬移民失去工作許可",
+            "link": "https://udn.com//news/story/6809/9654690?from=udn-catebreaknews_ch2",
+            "time": "2026-07-28 06:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/27/35175455.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "美伊停火兩天 油價跌逾5% 中東能源供應中斷疑慮緩解",
             "link": "https://udn.com//news/story/124061/9654528?from=udn-catebreaknews_ch2",
             "time": "2026-07-28 02:18"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
             "title": "紐約時報分析 川普三選項 代價都很高",
             "link": "https://udn.com//news/story/124061/9654530?from=udn-catebreaknews_ch2",
             "time": "2026-07-28 02:18"
@@ -17,18 +29,6 @@
             "title": "芝商所推單一股票期貨 涵蓋輝達、SpaceX、台積ADR",
             "link": "https://udn.com//news/story/6811/9654546?from=udn-catebreaknews_ch2",
             "time": "2026-07-28 02:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/01/35092305.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "微軟擴大租算力 將進一步推升基建需求",
-            "link": "https://udn.com//news/story/6811/9654527?from=udn-catebreaknews_ch2",
-            "time": "2026-07-28 02:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
-            "title": "微軟財報將出爐 兩指標聚焦",
-            "link": "https://udn.com//news/story/6811/9654535?from=udn-catebreaknews_ch2",
-            "time": "2026-07-28 01:56"
         }
     ]
 }
