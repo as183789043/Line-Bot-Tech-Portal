@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/28/35179034.jpg&M=2&s=Y&x=0&y=0&sw=1280&sh=878&exp=3600&w=300",
+            "title": "台股重挫、壓力緊繃 專家籲主動降槓桿",
+            "link": "https://udn.com//news/story/7251/9656977?from=udn-catebreaknews_ch2",
+            "time": "2026-07-29 00:01"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
+            "title": "新聞分析／下跌就上車 未必是永遠有效的策略",
+            "link": "https://udn.com//news/story/7251/9656976?from=udn-catebreaknews_ch2",
+            "time": "2026-07-29 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/28/35178882.jpg&M=1&s=Y&x=0&y=39&sw=1280&sh=853&exp=3600&w=300",
             "title": "台股回檔爆槓桿危機！929檔「融資告急名單」熱門族群個股曝光",
             "link": "https://udn.com//news/story/7251/9656781?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台股暴跌2030點…融資單日狂洗305億元 櫃買維持率逼近「警戒線」",
             "link": "https://udn.com//news/story/7251/9656712?from=udn-catebreaknews_ch2",
             "time": "2026-07-28 21:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/28/35178771.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台股遭錯殺？投資人逢低撿ETF、成交值改寫今年第四高",
-            "link": "https://udn.com//news/story/123006/9656700?from=udn-catebreaknews_ch2",
-            "time": "2026-07-28 21:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/28/35178739.jpg&M=1&s=Y&x=165&y=0&sw=1115&sh=743&exp=3600&w=300",
-            "title": "美晶片股跌勢煞不住！台指期夜盤走勢受牽制 台積電ADR盤前跌3.5%",
-            "link": "https://udn.com//news/story/7255/9656674?from=udn-catebreaknews_ch2",
-            "time": "2026-07-28 21:10"
         }
     ]
 }
