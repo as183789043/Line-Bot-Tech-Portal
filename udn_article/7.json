@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
+            "title": "台股重災區 主動式ETF慘摔",
+            "link": "https://udn.com//news/story/123006/9659390?from=udn-catebreaknews_ch2",
+            "time": "2026-07-30 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/29/35182577.jpg&M=1&s=Y&x=0&y=0&sw=1085&sh=723&exp=3600&w=300",
             "title": "融資維持率突然消失 CMoney緊急下架歷史數據",
             "link": "https://udn.com//news/story/7251/9659168?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股兩天崩3,595點斷頭潮來了？金管會揭關鍵水位",
             "link": "https://udn.com//news/story/7251/9658976?from=udn-catebreaknews_ch2",
             "time": "2026-07-29 19:57"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/29/35182366.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "國巨法說會／不考慮買庫藏股 AI客戶憂供貨吃緊上門談長約",
-            "link": "https://udn.com//news/story/7252/9658942?from=udn-catebreaknews_ch2",
-            "time": "2026-07-29 19:42"
         }
     ]
 }
