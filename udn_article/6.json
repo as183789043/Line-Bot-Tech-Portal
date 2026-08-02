@@ -1,7 +1,13 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/01/35191239.jpg&M=1&s=Y&x=0&y=0&sw=1023&sh=682&exp=3600&w=300",
+            "title": "白話財經／生產良率差一截 中國研發DUV量產仍是警鐘",
+            "link": "https://udn.com//news/story/7240/9666735?from=udn-catebreaknews_ch2",
+            "time": "2026-08-03 07:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_6.jpg&w=300",
             "title": "台積電先進製程持續衝鋒 英特爾、三星積極追趕",
             "link": "https://udn.com//news/story/7240/9666539?from=udn-catebreaknews_ch2",
             "time": "2026-08-03 02:15"
@@ -13,22 +19,16 @@
             "time": "2026-08-03 02:13"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_6.jpg&w=300",
             "title": "量子計算邁向商用 重塑科技鏈",
             "link": "https://udn.com//news/story/7240/9666543?from=udn-catebreaknews_ch2",
             "time": "2026-08-03 02:12"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_3.jpg&w=300",
             "title": "IBM成功進入「量子優勢」時代 金寶、仁寶瞄準新趨勢",
             "link": "https://udn.com//news/story/7240/9666548?from=udn-catebreaknews_ch2",
             "time": "2026-08-03 02:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/23/35165008.jpg&M=1&s=Y&x=159&y=106&sw=1121&sh=747&exp=3600&w=300",
-            "title": "Google TPU需求增 2028年上看1,500萬顆 聯發科、英業達等受惠",
-            "link": "https://udn.com//news/story/7240/9666533?from=udn-catebreaknews_ch2",
-            "time": "2026-08-03 02:09"
         }
     ]
 }
