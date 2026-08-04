@@ -1,7 +1,13 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/04/35197432.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "丁學文專欄／資產與經濟脫鉤 紙上富貴滿天飛",
+            "link": "https://udn.com//news/story/7238/9671254?from=udn-catebreaknews_ch2",
+            "time": "2026-08-05 06:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
             "title": "緯創搶進 CSP、Neocloud、AI 模型客戶 與緯穎不再徑渭分明",
             "link": "https://udn.com//news/story/7240/9671180?from=udn-catebreaknews_ch2",
             "time": "2026-08-05 01:38"
@@ -23,12 +29,6 @@
             "title": "擔心白海豚颱風影響 赴日旅遊不便險逾十家喊卡",
             "link": "https://udn.com//news/story/7239/9670903?from=udn-catebreaknews_ch2",
             "time": "2026-08-05 01:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_1.jpg&w=300",
-            "title": "明年勞保撥補 可望逾千億",
-            "link": "https://udn.com//news/story/7238/9671059?from=udn-catebreaknews_ch2",
-            "time": "2026-08-05 01:23"
         }
     ]
 }
