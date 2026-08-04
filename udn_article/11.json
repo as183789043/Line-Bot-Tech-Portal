@@ -1,6 +1,12 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/03/35193839.jpg&M=1&s=Y&x=0&y=0&sw=1080&sh=720&exp=3600&w=300",
+            "title": "廣州15顆水餃賣24元 中國消費升級隨李克強一同消逝？",
+            "link": "https://udn.com//news/story/7333/9668912?from=udn-catebreaknews_ch2",
+            "time": "2026-08-04 07:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/04/35196651.jpg&M=1&s=Y&x=86&y=0&sw=1073&sh=715&exp=3600&w=300",
             "title": "阿里最強模型震撼業界 代理能力與Anthropic Fable5相當",
             "link": "https://udn.com//news/story/7333/9668679?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2026-08-04 02:32"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_2.jpg&w=300",
             "title": "DeepSeek 劃出性價比「斬殺線」",
             "link": "https://udn.com//news/story/7333/9668680?from=udn-catebreaknews_ch2",
             "time": "2026-08-04 02:31"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/04/35196623.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "大陸顯卡價格飆漲「一日一價」催動華碩、微星等獲利",
-            "link": "https://udn.com//news/story/7333/9668643?from=udn-catebreaknews_ch2",
-            "time": "2026-08-04 01:31"
         }
     ]
 }
