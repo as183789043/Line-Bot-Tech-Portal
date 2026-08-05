@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/05/35202856.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "川普媒體推出付費API搶先看貼文！網酸「川投顧」：真正的K線之神",
+            "link": "https://udn.com//news/story/12806/9672802?from=udn-catebreaknews_ch2",
+            "time": "2026-08-06 07:47"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/05/35201252.jpg&M=1&s=Y&x=0&y=54&sw=692&sh=446&exp=3600&w=300",
+            "title": "台灣融資維持率真相？韓國做錯啥 讓槓桿ETF變風暴中心？去槓桿風暴完全拆解",
+            "link": "https://udn.com//news/story/7251/9672457?from=udn-catebreaknews_ch2",
+            "time": "2026-08-06 07:42"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/05/35200966.jpg&M=1&s=Y&x=0&y=0&sw=629&sh=419&exp=3600&w=300",
             "title": "鴻海7月營收衝上9,465億新高！年增54.19% 本月叩關兆元",
             "link": "https://udn.com//news/story/7252/9673476?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台股直逼45,000點整數大關 解套？追高？專家教八字訣",
             "link": "https://udn.com//news/story/7251/9673505?from=udn-catebreaknews_ch2",
             "time": "2026-08-06 01:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/29/35182460.jpg&M=1&s=Y&x=164&y=86&sw=1053&sh=702&exp=3600&w=300",
-            "title": "信驊犀利！Q2賺逾四股本 上半年EPS 78.28元...同期最佳",
-            "link": "https://udn.com//news/story/7252/9673475?from=udn-catebreaknews_ch2",
-            "time": "2026-08-06 01:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
-            "title": "信驊營運衝鋒之際 花1.8億參與M31私募",
-            "link": "https://udn.com//news/story/7252/9673477?from=udn-catebreaknews_ch2",
-            "time": "2026-08-06 01:02"
         }
     ]
 }
