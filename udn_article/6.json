@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/07/35210736.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "漢康攜手「臺灣癌症登月計畫」台大松良教授團隊 深化新藥開發新布局",
+            "link": "https://udn.com//news/story/7241/9678078?from=udn-catebreaknews_ch2",
+            "time": "2026-08-07 21:20"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/07/35210182.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "宏碁發現兆基內部管理缺失 辭任董事長撤出經營層",
+            "link": "https://udn.com//news/story/7238/9678051?from=udn-catebreaknews_ch2",
+            "time": "2026-08-07 21:06"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/24/35168557.png&M=1&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
             "title": "美多晶矽232關稅我15%不疊加 政院：可依MOU適用優惠",
             "link": "https://udn.com//news/story/7238/9678021?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "美宣布對多晶矽加徵關稅新政策 經濟部產業影響評估出爐",
             "link": "https://udn.com//news/story/7238/9677962?from=udn-catebreaknews_ch2",
             "time": "2026-08-07 19:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/06/35206641.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "美對多晶矽課15%關稅 經濟部：我國半導體可爭取豁免",
-            "link": "https://udn.com//news/story/7238/9677953?from=udn-catebreaknews_ch2",
-            "time": "2026-08-07 19:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/07/35210522.png&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "京鼎董事會通過泰國二期投資 持續強化全球製造布局",
-            "link": "https://udn.com//news/story/7240/9677906?from=udn-catebreaknews_ch2",
-            "time": "2026-08-07 19:02"
         }
     ]
 }
