@@ -1,8 +1,20 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/25/realtime/34526379.jpeg&s=Y&x=0&y=0&sw=3302&sh=2201&exp=3600&w=300",
+            "title": "成長津貼明年發！總統預告0到18歲補貼政策 月領5,000元",
+            "link": "https://udn.com//news/story/6656/9678272?from=udn-catebreaknews_ch2",
+            "time": "2026-08-08 01:30"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/07/35210831.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600&w=300",
+            "title": "催生社宅 邱臣遠喊話下任新竹縣長給承諾",
+            "link": "https://udn.com//news/story/124652/9678165?from=udn-catebreaknews_ch2",
+            "time": "2026-08-08 00:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
-            "title": "選情初探／苗栗縣議員第一選區16搶9 新人參選爆炸 老將連任有挑戰",
+            "title": "選情初探／苗栗縣議員第一選區16搶9…新人參選爆炸 老將連任有挑戰",
             "link": "https://udn.com//news/story/124652/9678172?from=udn-catebreaknews_ch2",
             "time": "2026-08-08 00:21"
         },
@@ -13,22 +25,10 @@
             "time": "2026-08-08 00:17"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/08/35211050.jpg&M=1&s=Y&x=0&y=85&sw=1280&sh=853&exp=3600&w=300",
-            "title": "嘉義縣長陸戰開打！蔡易餘競總進駐 吳品叡北上請益侯友宜",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/08/35211051.jpg&M=1&s=Y&x=0&y=61&sw=1280&sh=853&exp=3600&w=300",
+            "title": "嘉義縣長陸戰開打…蔡易餘競總進駐 吳品叡北上請益侯友宜",
             "link": "https://udn.com//news/story/124652/9678179?from=udn-catebreaknews_ch2",
             "time": "2026-08-08 00:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/07/35210993.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "漢光演習第3天…機場、河道演練阻絕 搶修跑道",
-            "link": "https://udn.com//news/story/10930/9678341?from=udn-catebreaknews_ch2",
-            "time": "2026-08-08 00:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
-            "title": "選情初探／屏東東港鎮長3人各擁票源 勝負難料",
-            "link": "https://udn.com//news/story/124652/9678185?from=udn-catebreaknews_ch2",
-            "time": "2026-08-08 00:10"
         }
     ]
 }
