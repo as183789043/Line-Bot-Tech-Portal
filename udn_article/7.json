@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/08/35211155.jpg&M=1&s=Y&x=0&y=0&sw=429&sh=286&exp=3600&w=300",
+            "title": "一周飆股解密：AI供應鏈全面噴發 誰才是下一波主升段主角？",
+            "link": "https://udn.com//news/story/7251/9678420?from=udn-catebreaknews_ch2",
+            "time": "2026-08-08 04:26"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/08/35211154.jpg&M=1&s=Y&x=0&y=0&sw=402&sh=268&exp=3600&w=300",
+            "title": "上周還是飆股、這周跌近3成！跌幅榜藏警訊：營建股為何倒下？",
+            "link": "https://udn.com//news/story/7251/9678419?from=udn-catebreaknews_ch2",
+            "time": "2026-08-08 04:24"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/02/25/2/34701983.jpg&s=Y&x=0&y=0&sw=1266&sh=844&exp=3600&w=300",
             "title": "股息4,257億！台股迎新資金潮 341檔月底前派發",
             "link": "https://udn.com//news/story/7251/9678264?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台股內資強碰 投信賣、公股買",
             "link": "https://udn.com//news/story/7251/9678265?from=udn-catebreaknews_ch2",
             "time": "2026-08-08 00:47"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/04/35199291.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "川湖訂單能見度看到2029 百億擴產計畫提前啟動",
-            "link": "https://udn.com//news/story/7252/9678244?from=udn-catebreaknews_ch2",
-            "time": "2026-08-08 00:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
-            "title": "長興第2季EPS 0.72元 成長動能強",
-            "link": "https://udn.com//news/story/7252/9677993?from=udn-catebreaknews_ch2",
-            "time": "2026-08-08 00:30"
         }
     ]
 }
