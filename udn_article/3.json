@@ -1,10 +1,22 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/07/35209360.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "美中台博弈／美中和解、兩岸降溫 第一島鏈成新政治籌碼",
+            "link": "https://udn.com//news/story/6809/9678484?from=udn-catebreaknews_ch2",
+            "time": "2026-08-08 07:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/08/35211143.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "美上訴法院裁定白宮宴會廳停工 川普誓言上訴最高院",
             "link": "https://udn.com//news/story/6813/9678396?from=udn-catebreaknews_ch2",
-            "time": "2026-08-08 03:38"
+            "time": "2026-08-08 06:38"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/07/35210926.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "被中國AI進步神速嚇到…美國要查陸企透過雲端租用輝達晶片 堵管制漏洞",
+            "link": "https://udn.com//news/story/6811/9678248?from=udn-catebreaknews_ch2",
+            "time": "2026-08-08 06:06"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/07/35210922.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
@@ -13,22 +25,10 @@
             "time": "2026-08-08 01:26"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
             "title": "美禁鎢廢料、電池廢棄物出口",
             "link": "https://udn.com//news/story/6813/9678232?from=udn-catebreaknews_ch2",
             "time": "2026-08-08 01:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
-            "title": "川普又想限制出生公民權",
-            "link": "https://udn.com//news/story/6813/9678240?from=udn-catebreaknews_ch2",
-            "time": "2026-08-08 01:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/07/35210864.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "馬斯克先進晶圓廠跨大步 將投入168億美元興建Terafab園區",
-            "link": "https://udn.com//news/story/6811/9678202?from=udn-catebreaknews_ch2",
-            "time": "2026-08-08 01:24"
         }
     ]
 }
