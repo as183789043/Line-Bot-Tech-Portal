@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/09/35213921.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "上周台股漲2.5% 周線翻紅 法人：目前為觀望氣氛極濃的量縮洗盤結構",
+            "link": "https://udn.com//news/story/7251/9680138?from=udn-catebreaknews_ch2",
+            "time": "2026-08-09 12:37"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/09/35213910.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "台股反彈惟市場波動提升 法人：審慎評估投資機會",
+            "link": "https://udn.com//news/story/7251/9680126?from=udn-catebreaknews_ch2",
+            "time": "2026-08-09 12:31"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/09/35213724.png&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "少年股神慘賠220萬教訓 20歲年輕交易者告白：看清貪婪與自負",
             "link": "https://udn.com//news/story/7251/9680009?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "下波財富密碼鎖定「ABC」族群 可望續居盤面亮點",
             "link": "https://udn.com//news/story/7251/9679550?from=udn-catebreaknews_ch2",
             "time": "2026-08-09 02:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/07/35208647.png&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "自動化展將登場！機器人概念股買盤先卡位 上銀、所羅門等法人青睞",
-            "link": "https://udn.com//news/story/7251/9679551?from=udn-catebreaknews_ch2",
-            "time": "2026-08-09 01:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/17/35050856.png&M=1&s=Y&x=0&y=0&sw=1269&sh=846&exp=3600&w=300",
-            "title": "大立光除息秀市場期待 每股配現金41.5元",
-            "link": "https://udn.com//news/story/7252/9679562?from=udn-catebreaknews_ch2",
-            "time": "2026-08-09 00:52"
         }
     ]
 }
