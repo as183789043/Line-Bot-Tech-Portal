@@ -1,13 +1,19 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/11/35218290.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "哥倫比亞7.4強震增至111死 美洲多國允諾伸援",
+            "link": "https://udn.com//news/story/6809/9683306?from=udn-catebreaknews_ch2",
+            "time": "2026-08-11 03:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/11/35218276.png&M=1&s=Y&x=165&y=0&sw=803&sh=535&exp=3600&w=300",
             "title": "日銀傳鷹聲 升息可能加快",
             "link": "https://udn.com//news/story/6811/9683142?from=udn-catebreaknews_ch2",
             "time": "2026-08-11 02:36"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
             "title": "英國研議代幣化黃金監管",
             "link": "https://udn.com//news/story/6811/9683144?from=udn-catebreaknews_ch2",
             "time": "2026-08-11 02:34"
@@ -23,12 +29,6 @@
             "title": "海上AI資料中心動起來 解決冷卻、缺地問題",
             "link": "https://udn.com//news/story/6811/9683152?from=udn-catebreaknews_ch2",
             "time": "2026-08-11 02:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
-            "title": "美私募信貸基金 違約率攀高",
-            "link": "https://udn.com//news/story/6811/9683153?from=udn-catebreaknews_ch2",
-            "time": "2026-08-11 02:29"
         }
     ]
 }
