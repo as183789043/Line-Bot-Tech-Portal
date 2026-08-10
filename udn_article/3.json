@@ -1,6 +1,24 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
+            "title": "台積電ADR小幅下跌 日月光聯電收紅",
+            "link": "https://udn.com//news/story/6811/9683402?from=udn-catebreaknews_ch2",
+            "time": "2026-08-11 07:23"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/11/35218368.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "輝達揪華爾街六巨擘 籌逾5,000億美元AI基建資金 黃仁勳：沒一家拒絕",
+            "link": "https://udn.com//news/story/6811/9683401?from=udn-catebreaknews_ch2",
+            "time": "2026-08-11 07:21"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/11/35218358.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "美股收盤／三大指數小跌 費半重挫近3% 英特爾等晶片股籌資消息掀賣壓",
+            "link": "https://udn.com//news/story/6811/9683392?from=udn-catebreaknews_ch2",
+            "time": "2026-08-11 07:11"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/10/35217047.png&M=1&s=Y&x=0&y=0&sw=930&sh=620&exp=3600&w=300",
             "title": "伊朗緊守荷莫茲海峽 牽制川普重回6月協議",
             "link": "https://udn.com//news/story/6809/9683347?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "川普向伊朗索取衝突賠償 和談前景再添變數",
             "link": "https://udn.com//news/story/124061/9683329?from=udn-catebreaknews_ch2",
             "time": "2026-08-11 05:08"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/11/35218290.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "哥倫比亞7.4強震增至111死 美洲多國允諾伸援",
-            "link": "https://udn.com//news/story/6809/9683306?from=udn-catebreaknews_ch2",
-            "time": "2026-08-11 03:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/11/35218276.png&M=1&s=Y&x=165&y=0&sw=803&sh=535&exp=3600&w=300",
-            "title": "日銀傳鷹聲 升息可能加快",
-            "link": "https://udn.com//news/story/6811/9683142?from=udn-catebreaknews_ch2",
-            "time": "2026-08-11 02:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
-            "title": "英國研議代幣化黃金監管",
-            "link": "https://udn.com//news/story/6811/9683144?from=udn-catebreaknews_ch2",
-            "time": "2026-08-11 02:34"
         }
     ]
 }

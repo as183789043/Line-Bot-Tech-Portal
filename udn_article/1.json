@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/08/35212831.jpg&M=1&s=Y&x=0&y=0&sw=649&sh=410&exp=3600&w=300",
+            "title": "1分鐘射5000發！陸海警船軍艦化 吳釗燮：施壓第一島鏈",
+            "link": "https://udn.com//news/story/10930/9683405?from=udn-catebreaknews_ch2",
+            "time": "2026-08-11 07:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/11/35218208.png&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
             "title": "防毒不能只靠第一線 從源頭斬斷毒品供應鏈",
             "link": "https://udn.com//news/story/6656/9683342?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "防無人機襲擊 M1A2T戰車裝鋼網",
             "link": "https://udn.com//news/story/10930/9683241?from=udn-catebreaknews_ch2",
             "time": "2026-08-11 01:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/11/35218246.jpg&M=1&s=Y&x=55&y=31&sw=1225&sh=817&exp=3600&w=300",
-            "title": "城鎮韌性演習 網路降速變斷網？",
-            "link": "https://udn.com//news/story/10930/9683239?from=udn-catebreaknews_ch2",
-            "time": "2026-08-11 01:34"
         }
     ]
 }
