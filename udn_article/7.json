@@ -1,7 +1,19 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/10/35216471.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "處置股新制上路、財報點火、三大法人同買 台股本周挑戰46,500點",
+            "link": "https://udn.com//news/story/7251/9683173?from=udn-catebreaknews_ch2",
+            "time": "2026-08-11 01:56"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
+            "title": "台股法說會行情開跑",
+            "link": "https://udn.com//news/story/7251/9683170?from=udn-catebreaknews_ch2",
+            "time": "2026-08-11 01:44"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
             "title": "鈊象7月每股稅前盈餘5.23元",
             "link": "https://udn.com//news/story/7252/9683101?from=udn-catebreaknews_ch2",
             "time": "2026-08-11 01:38"
@@ -17,18 +29,6 @@
             "title": "晶技、台嘉碩 挑逾三個月",
             "link": "https://udn.com//news/story/7255/9682875?from=udn-catebreaknews_ch2",
             "time": "2026-08-11 00:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/11/35218221.png&M=1&s=Y&x=182&y=0&sw=630&sh=420&exp=3600&w=300",
-            "title": "全民權證／超豐 瞄準逾90天",
-            "link": "https://udn.com//news/story/7255/9682884?from=udn-catebreaknews_ch2",
-            "time": "2026-08-11 00:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/11/35218220.png&M=1&s=Y&x=159&y=0&sw=623&sh=415&exp=3600&w=300",
-            "title": "全民權證／台達電 兩檔鍍金",
-            "link": "https://udn.com//news/story/7255/9682882?from=udn-catebreaknews_ch2",
-            "time": "2026-08-11 00:47"
         }
     ]
 }
