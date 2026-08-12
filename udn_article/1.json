@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/13/35225119.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "影／憲兵深夜光復橋阻絕演練 槍聲爆破聲大作、雲豹甲車出動殲敵",
+            "link": "https://udn.com//news/story/10930/9688212?from=udn-catebreaknews_ch2",
+            "time": "2026-08-13 04:10"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/13/35225052.jpg&M=1&s=Y&x=6&y=165&sw=606&sh=404&exp=3600&w=300",
             "title": "經濟學人：台灣民主被挾持…總統不協調、反對黨引爆憲政危機",
             "link": "https://udn.com//news/story/6656/9688135?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "韓國瑜動怒 傅崐萁：院長辛苦了！家和萬事興",
             "link": "https://udn.com//news/story/6656/9688130?from=udn-catebreaknews_ch2",
             "time": "2026-08-13 01:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/13/35224994.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "王威元涉賄交保 衝擊三蘆議員選區",
-            "link": "https://udn.com//news/story/124652/9687917?from=udn-catebreaknews_ch2",
-            "time": "2026-08-13 00:18"
         }
     ]
 }
