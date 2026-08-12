@@ -1,6 +1,12 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/12/35223769.jpg&M=1&s=Y&x=0&y=0&sw=1237&sh=825&exp=3600&w=300",
+            "title": "北大出了2位國際數學獎得主 為何被譏「逃離者的勝利」",
+            "link": "https://udn.com//news/story/7332/9688292?from=udn-catebreaknews_ch2",
+            "time": "2026-08-13 07:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/12/35224889.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "大陸「經濟沙皇」朱鎔基辭世 享耆壽98歲",
             "link": "https://udn.com//news/story/7331/9688060?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2026-08-13 02:43"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_1.jpg&w=300",
             "title": "長江存儲NAND市占 全球第三",
             "link": "https://udn.com//news/story/7333/9688067?from=udn-catebreaknews_ch2",
             "time": "2026-08-13 02:40"
@@ -23,12 +29,6 @@
             "title": "騰訊第2季獲利 不如預期",
             "link": "https://udn.com//news/story/7333/9688064?from=udn-catebreaknews_ch2",
             "time": "2026-08-13 02:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_9.jpg&w=300",
-            "title": "輝達擬投資光通訊紅鏈",
-            "link": "https://udn.com//news/story/7333/9688066?from=udn-catebreaknews_ch2",
-            "time": "2026-08-13 02:39"
         }
     ]
 }
