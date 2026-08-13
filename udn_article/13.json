@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/13/35225925.jpg&M=1&s=Y&x=93&y=107&sw=1126&sh=751&exp=3600&w=300",
+            "title": "預防阿茲海默症 營養師：下午5點後避免6件事",
+            "link": "https://udn.com//news/story/6841/9688764?from=udn-catebreaknews_ch2",
+            "time": "2026-08-13 11:26"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/12/35222607.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
             "title": "聯電攻矽光子、世界搶電源管理 AI基建推動成熟製程結構性翻身",
             "link": "https://udn.com//news/story/6851/9686452?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "謝金河：川湖帶來的新效應 真正牽動股價的是基本面",
             "link": "https://udn.com//news/story/6851/9686423?from=udn-catebreaknews_ch2",
             "time": "2026-08-12 14:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/12/35222511.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
-            "title": "美國斷光行動 光通封殺令下的絕對贏家",
-            "link": "https://udn.com//news/story/6851/9686405?from=udn-catebreaknews_ch2",
-            "time": "2026-08-12 14:24"
         }
     ]
 }
