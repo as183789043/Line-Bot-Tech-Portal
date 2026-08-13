@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/13/35228435.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "7月股市震盪、壽險業獲利承壓 五家壽險合計稅後純益120億元",
+            "link": "https://udn.com//news/story/7252/9690282?from=udn-catebreaknews_ch2",
+            "time": "2026-08-13 21:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/13/35228314.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "金控7月獲利出爐！國泰金暫居「三冠王」 9家金控累計獲利寫同期新高",
             "link": "https://udn.com//news/story/7252/9690229?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "騰雲財報／上半年營收年增49%、淨利年增108% 每股賺2.54元年增逾一倍",
             "link": "https://udn.com//news/story/7252/9690063?from=udn-catebreaknews_ch2",
             "time": "2026-08-13 19:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/13/35228070.jpg&M=1&s=Y&x=0&y=854&sw=1280&sh=854&exp=3600&w=300",
-            "title": "玉山金法說會／台美今年皆不至於升息 擔憂公債空頭時代來臨",
-            "link": "https://udn.com//news/story/7252/9690040?from=udn-catebreaknews_ch2",
-            "time": "2026-08-13 19:15"
         }
     ]
 }
