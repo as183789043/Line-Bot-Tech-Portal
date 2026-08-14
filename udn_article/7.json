@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/12/35223212.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "上市櫃Q2獲利飛越2兆元創新高 EPS創高家數達175家",
+            "link": "https://udn.com//news/story/7251/9692645?from=udn-catebreaknews_ch2",
+            "time": "2026-08-15 00:35"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/14/35229195.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "上市櫃財報五大天王 威風",
+            "link": "https://udn.com//news/story/7251/9692648?from=udn-catebreaknews_ch2",
+            "time": "2026-08-15 00:33"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/24/34885641.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "外資本周天天買台股 累計逾2,000億",
+            "link": "https://udn.com//news/story/7251/9692653?from=udn-catebreaknews_ch2",
+            "time": "2026-08-15 00:29"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/08/34927871.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "美7月零售銷售意外低於預期 台指期夜盤反攻",
             "link": "https://udn.com//news/story/7255/9692452?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "華碩取得越南公司股權、處分新竹房地延遲重訊 證交所開罰",
             "link": "https://udn.com//news/story/7252/9692381?from=udn-catebreaknews_ch2",
             "time": "2026-08-14 20:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/07/28/35178769.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=853&exp=3600&w=300",
-            "title": "上市第2季財報公布截止 唯一1家無法如期申報",
-            "link": "https://udn.com//news/story/7251/9692377?from=udn-catebreaknews_ch2",
-            "time": "2026-08-14 20:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/01/35001626.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "技嘉財報／第2季獲利再創新高、上半年EPS 17.73元 上修全年資本支出",
-            "link": "https://udn.com//news/story/7252/9692325?from=udn-catebreaknews_ch2",
-            "time": "2026-08-14 19:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/12/31/2/31190432.jpg&s=Y&x=0&y=0&sw=1025&sh=684&exp=3600&w=300",
-            "title": "川湖獲利／7月自結EPS衝50.24元 單月賺進去年全年獲利近半",
-            "link": "https://udn.com//news/story/7252/9692321?from=udn-catebreaknews_ch2",
-            "time": "2026-08-14 19:30"
         }
     ]
 }
