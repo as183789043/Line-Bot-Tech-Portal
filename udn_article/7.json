@@ -1,8 +1,14 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
-            "title": "網家上半年營業利益轉正 連14季虧損 累積虧損逾半個股本",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/12/35224700.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股週線上漲1585點連2升 上市總市值近150兆元",
+            "link": "https://udn.com//news/story/7251/9692216?from=udn-catebreaknews_ch2",
+            "time": "2026-08-14 18:38"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/02/21/2/20241286.jpg&s=Y&x=0&y=18&sw=850&sh=567&exp=3600&w=300",
+            "title": "網家上半年營業利益轉正 連14季虧損累積虧損逾半個股本",
             "link": "https://udn.com//news/story/7252/9692159?from=udn-catebreaknews_ch2",
             "time": "2026-08-14 17:55"
         },
@@ -23,12 +29,6 @@
             "title": "富邦金獲利／前七月955億元、EPS 6.54元 加計股票處分利益大賺1962億",
             "link": "https://udn.com//news/story/7252/9692092?from=udn-catebreaknews_ch2",
             "time": "2026-08-14 17:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/11/34753740.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "亞泥財報／轉投資事業加持 上半年獲利71億元、年增66% EPS 2.13元",
-            "link": "https://udn.com//news/story/7252/9692042?from=udn-catebreaknews_ch2",
-            "time": "2026-08-14 16:56"
         }
     ]
 }
