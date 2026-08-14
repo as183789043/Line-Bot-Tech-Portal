@@ -1,13 +1,19 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/14/35231426.jpg&M=1&s=Y&x=0&y=0&sw=1233&sh=822&exp=3600&w=300",
+            "title": "銀行搶客、高利喊到3% 想把台幣定存變大可以這麼做",
+            "link": "https://udn.com//news/story/121591/9692804?from=udn-catebreaknews_ch2",
+            "time": "2026-08-15 06:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/14/35231649.jpg&M=1&s=Y&x=0&y=0&sw=1139&sh=760&exp=3600&w=300",
             "title": "六張犁生活圈 換屋族愛",
             "link": "https://udn.com//news/story/7241/9675931?from=udn-catebreaknews_ch2",
             "time": "2026-08-15 01:48"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_7.jpg&w=300",
             "title": "美國訂定轉運層級 台灣列第一級…經部強調非違規",
             "link": "https://udn.com//news/story/7238/9692631?from=udn-catebreaknews_ch2",
             "time": "2026-08-15 01:07"
@@ -23,12 +29,6 @@
             "title": "川普揮關稅大棒 我無人機輸美將課稅15%",
             "link": "https://udn.com//news/story/7240/9692625?from=udn-catebreaknews_ch2",
             "time": "2026-08-15 01:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_3.jpg&w=300",
-            "title": "2年期定存單、公債利率 雙升",
-            "link": "https://udn.com//news/story/7239/9692620?from=udn-catebreaknews_ch2",
-            "time": "2026-08-15 00:59"
         }
     ]
 }
