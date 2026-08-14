@@ -1,6 +1,18 @@
 {
     "文教": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/14/35231722.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "紐時賞析／伊朗變招突破美軍防線",
+            "link": "https://udn.com//news/story/6904/9692585?from=udn-catebreaknews_ch2",
+            "time": "2026-08-15 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/14/35231611.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600&w=300",
+            "title": "紐時賞析／打不贏AI 穿搭總贏吧",
+            "link": "https://udn.com//news/story/6904/9692583?from=udn-catebreaknews_ch2",
+            "time": "2026-08-15 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/14/35231262.png&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "高雄親師生調處上路 教師工會憂同案反覆檢舉變「濫調」",
             "link": "https://udn.com//news/story/6885/9692287?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "閱讀數學／克卜勒的母親（中）",
             "link": "https://udn.com//news/story/6904/9690111?from=udn-catebreaknews_ch2",
             "time": "2026-08-14 16:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/14/35230759.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "東吳大學攜手故宮博物院 5校學生玩AI讓文物動起來",
-            "link": "https://udn.com//news/story/6928/9691891?from=udn-catebreaknews_ch2",
-            "time": "2026-08-14 15:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/14/35230072.jpg&M=1&s=Y&x=0&y=0&sw=642&sh=428&exp=3600&w=300",
-            "title": "AI Agent新紀元 前立委孫大千3年連出5本AI書籍",
-            "link": "https://udn.com//news/story/6885/9691431?from=udn-catebreaknews_ch2",
-            "time": "2026-08-14 12:47"
         }
     ]
 }
