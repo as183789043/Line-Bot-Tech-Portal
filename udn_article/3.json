@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
+            "title": "美AI巨擘隱藏帳單近百兆",
+            "link": "https://udn.com//news/story/6811/9697555?from=udn-catebreaknews_ch2",
+            "time": "2026-08-18 00:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/17/35238715.jpg&M=1&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
             "title": "邊談邊整軍…伊朗兩面手法 蓄力與美對決",
             "link": "https://udn.com//news/story/124061/9697522?from=udn-catebreaknews_ch2",
@@ -20,14 +26,8 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/17/35238737.jpg&M=1&s=Y&x=0&y=0&sw=1198&sh=799&exp=3600&w=300",
-            "title": "彭博：南韓投資未到位 川普借題發揮",
+            "title": "彭博：南韓投資未到位 川普用軍演借題發揮",
             "link": "https://udn.com//news/story/6809/9697506?from=udn-catebreaknews_ch2",
-            "time": "2026-08-18 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/17/35238686.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "喊話大砍美韓軍演 川普：不想向北韓釋錯誤訊號",
-            "link": "https://udn.com//news/story/6809/9697502?from=udn-catebreaknews_ch2",
             "time": "2026-08-18 00:00"
         }
     ]
