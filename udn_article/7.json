@@ -1,7 +1,13 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "title": "大摩：川湖7月獲利創高 已達外資預估第3季總獲利的46%",
+            "link": "https://udn.com//news/story/7252/9697391?from=udn-catebreaknews_ch2",
+            "time": "2026-08-17 22:10"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
             "title": "上櫃第2季財務報告形式審閱結果出爐 三家變更交易、二家恢復普通交割",
             "link": "https://udn.com//news/story/7251/9697323?from=udn-catebreaknews_ch2",
             "time": "2026-08-17 21:21"
@@ -19,16 +25,10 @@
             "time": "2026-08-17 19:20"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
             "title": "億光法說會／下半年營運優於上半年 車用與高階光耦合器出貨加溫",
             "link": "https://udn.com//news/story/7252/9697091?from=udn-catebreaknews_ch2",
             "time": "2026-08-17 18:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/17/35238353.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "上市公司上半年賺翻 稅前淨利達3.67兆年增逾9成、逾8成企業全獲利",
-            "link": "https://udn.com//news/story/7251/9697075?from=udn-catebreaknews_ch2",
-            "time": "2026-08-17 18:38"
         }
     ]
 }
