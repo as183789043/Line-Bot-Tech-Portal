@@ -1,7 +1,19 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/17/35236507.jpg&M=1&s=Y&x=0&y=0&sw=1216&sh=810&exp=3600&w=300",
+            "title": "台股將上演股王爭霸戰 川湖與信驊股價拉近成話題",
+            "link": "https://udn.com//news/story/7251/9697578?from=udn-catebreaknews_ch2",
+            "time": "2026-08-18 01:48"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
+            "title": "台股46K差一步 市場盯兩關鍵",
+            "link": "https://udn.com//news/story/7251/9697586?from=udn-catebreaknews_ch2",
+            "time": "2026-08-18 01:39"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
             "title": "市場資金進駐 貨櫃三雄股價強勢",
             "link": "https://udn.com//news/story/7251/9697459?from=udn-catebreaknews_ch2",
             "time": "2026-08-18 00:38"
@@ -13,22 +25,10 @@
             "time": "2026-08-18 00:30"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
             "title": "股票型ETF 連20周吸金",
             "link": "https://udn.com//news/story/123006/9697374?from=udn-catebreaknews_ch2",
             "time": "2026-08-18 00:29"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/05/35203082.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "韓股基金外資回來了 三檔商品單周漲逾6.8%",
-            "link": "https://udn.com//news/story/10103/9697368?from=udn-catebreaknews_ch2",
-            "time": "2026-08-18 00:28"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/05/realtime/31600670.jpg&s=Y&x=0&y=0&sw=1889&sh=1259&exp=3600&w=300",
-            "title": "亞股科技類商品 有戲",
-            "link": "https://udn.com//news/story/7251/9697369?from=udn-catebreaknews_ch2",
-            "time": "2026-08-18 00:26"
         }
     ]
 }
