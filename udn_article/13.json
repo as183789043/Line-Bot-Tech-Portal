@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/18/35239110.jpg&M=1&s=Y&x=0&y=0&sw=732&sh=488&exp=3600&w=300",
+            "title": "AI失業還沒發生 但加薪機會消失",
+            "link": "https://udn.com//news/story/6897/9697925?from=udn-catebreaknews_ch2",
+            "time": "2026-08-18 09:30"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/17/35237958.jpg&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
+            "title": "得新冠後免疫力變差？研究：新冠病毒會「喚醒」體內休眠病毒大亂鬥",
+            "link": "https://udn.com//news/story/6897/9696785?from=udn-catebreaknews_ch2",
+            "time": "2026-08-18 09:29"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/17/35237510.jpg&M=1&s=Y&x=0&y=0&sw=1110&sh=740&exp=3600&w=300",
             "title": "親子同「樂」父親節！MUZIKids兒童古典音樂節✕江老師快閃LaLaport南港",
             "link": "https://udn.com//news/story/11184/9696477?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "烏干達打壓台只准用陸護照！謝金河評經濟總量只能算「小國」：台排全球第22",
             "link": "https://udn.com//news/story/6839/9696121?from=udn-catebreaknews_ch2",
             "time": "2026-08-17 12:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/17/35236953.jpg&M=1&s=Y&x=14&y=32&sw=1239&sh=825&exp=3600&w=300",
-            "title": "台股創高瘋FIRE！小心4%法則藏破產地雷 專家：「分桶+緩衝策略」動態提領安心退",
-            "link": "https://udn.com//news/story/6839/9696086?from=udn-catebreaknews_ch2",
-            "time": "2026-08-17 12:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/10/35216746.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
-            "title": "再訪花蓮光復　見證泥濘下的馬太鞍以風土韌性織出新日常",
-            "link": "https://udn.com//news/story/7230/9682042?from=udn-catebreaknews_ch2",
-            "time": "2026-08-16 13:37"
         }
     ]
 }
