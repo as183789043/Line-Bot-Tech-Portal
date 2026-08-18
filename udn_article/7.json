@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/18/35240478.jpg&M=1&s=Y&x=0&y=0&sw=1216&sh=810&exp=3600&w=300",
+            "title": "金融股撐盤擋不住台股 收盤下跌548點跌破5日線、台積電下挫20元",
+            "link": "https://udn.com//news/story/7251/9698754?from=udn-catebreaknews_ch2",
+            "time": "2026-08-18 13:36"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/18/35240374.png&M=1&wm=5_ai_wm1.png&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股跌破五日線 個股、零股成交前五大ETF占三檔 這檔黑馬衝第一",
+            "link": "https://udn.com//news/story/123006/9698705?from=udn-catebreaknews_ch2",
+            "time": "2026-08-18 13:22"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/18/35240255.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "AI 需求暴衝難敵高檔賣壓？南亞科創553元天價 記憶體多頭卻急煞",
             "link": "https://udn.com//news/story/7252/9698593?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2026-08-18 12:28"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
             "title": "第3季運價優於預期！長榮、陽明、萬海獲利喊升",
             "link": "https://udn.com//news/story/7252/9698491?from=udn-catebreaknews_ch2",
             "time": "2026-08-18 12:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/18/35240048.jpg&M=1&s=Y&x=0&y=0&sw=1233&sh=822&exp=3600&w=300",
-            "title": "台電今明兩年砸50億元更新六都地下線路 「這些」重電類股有望受惠",
-            "link": "https://udn.com//news/story/7251/9698490?from=udn-catebreaknews_ch2",
-            "time": "2026-08-18 12:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/18/35239748.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "00935單月跌16%照樣買！葉芷娟曝逢低撿便宜策略：回檔一路撿到49元全獲利",
-            "link": "https://udn.com//news/story/123006/9698319?from=udn-catebreaknews_ch2",
-            "time": "2026-08-18 11:40"
         }
     ]
 }
