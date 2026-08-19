@@ -1,7 +1,13 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/19/35244232.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "台股2個月飆40%似曾相識？老經理人揭38年前「台灣錢淹腳目」瘋狂歷史",
+            "link": "https://udn.com//news/story/6645/9701275?from=udn-catebreaknews_ch2",
+            "time": "2026-08-20 06:29"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
             "title": "新產上半年EPS 8.51元 中再保7.91元",
             "link": "https://udn.com//news/story/7252/9702171?from=udn-catebreaknews_ch2",
             "time": "2026-08-20 01:39"
@@ -13,7 +19,7 @@
             "time": "2026-08-20 00:46"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
             "title": "美銀美林8月經理人調查 股票配置 升至五年高點",
             "link": "https://udn.com//news/story/10103/9702130?from=udn-catebreaknews_ch2",
             "time": "2026-08-20 00:44"
@@ -23,12 +29,6 @@
             "title": "美股生技族群ETF 績效硬挺",
             "link": "https://udn.com//news/story/123006/9702154?from=udn-catebreaknews_ch2",
             "time": "2026-08-20 00:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/20/35245820.png&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "台股ETF有底氣 交投熱",
-            "link": "https://udn.com//news/story/123006/9702161?from=udn-catebreaknews_ch2",
-            "time": "2026-08-20 00:41"
         }
     ]
 }
