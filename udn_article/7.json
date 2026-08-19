@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "title": "美銀：台積電2027年資本支出上看850億美元 目標價維持3,100元",
+            "link": "https://udn.com//news/story/7252/9702131?from=udn-catebreaknews_ch2",
+            "time": "2026-08-19 21:36"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/19/35245455.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "美科技巨頭帶頭反彈 台指期夜盤大漲、收復45K大關",
+            "link": "https://udn.com//news/story/7255/9702103?from=udn-catebreaknews_ch2",
+            "time": "2026-08-19 21:05"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/19/35245313.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
             "title": "臻鼎大股東鴻海集團申報轉讓5,544張持股 實現投資利益",
             "link": "https://udn.com//news/story/7252/9701937?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "台驊控股法說會／顏益財看旺海空散 「三好」事件＋結構雙行情撐運價",
             "link": "https://udn.com//news/story/7252/9701830?from=udn-catebreaknews_ch2",
             "time": "2026-08-19 18:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/19/35245302.jpg&M=1&s=Y&x=0&y=62&sw=1280&sh=853&exp=3600&w=300",
-            "title": "倍利科法說會／PLP檢測由二擴至四項 董座林坤禧：先進封裝是硬需求",
-            "link": "https://udn.com//news/story/7252/9701791?from=udn-catebreaknews_ch2",
-            "time": "2026-08-19 17:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/19/35245103.jpg&M=1&s=Y&x=0&y=45&sw=1280&sh=853&exp=3600&w=300",
-            "title": "倍利科法說會／第2季EPS 5.18元創高 上半年賺逾一個股本",
-            "link": "https://udn.com//news/story/7252/9701786?from=udn-catebreaknews_ch2",
-            "time": "2026-08-19 17:55"
         }
     ]
 }
