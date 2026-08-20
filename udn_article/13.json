@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/20/35247875.jpg&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
+            "title": "每天搭電梯改成走樓梯 可降低心血管疾病死亡風險 39%",
+            "link": "https://udn.com//news/story/6897/9703702?from=udn-catebreaknews_ch2",
+            "time": "2026-08-20 15:09"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/20/35247905.jpg&M=1&s=Y&x=226&y=0&sw=1054&sh=704&exp=3600&w=300",
+            "title": "美國年輕人瘋「極致理財」！每一塊錢都榨到最值 節儉重新變酷",
+            "link": "https://udn.com//news/story/6841/9703707?from=udn-catebreaknews_ch2",
+            "time": "2026-08-20 15:07"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/30/34812647.jpg&M=2&s=Y&x=0&y=0&sw=1201&sh=801&exp=3600&w=300",
             "title": "從雲端走進工廠 IPC迎新商機",
             "link": "https://udn.com//news/story/6850/9703373?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "被動元件訂單出貨增 華新科喊漲",
             "link": "https://udn.com//news/story/6850/9703387?from=udn-catebreaknews_ch2",
             "time": "2026-08-20 13:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/20/35247403.jpg&M=1&s=Y&x=214&y=0&sw=925&sh=617&exp=3600&w=300",
-            "title": "長興：載板、封裝材料價值重估",
-            "link": "https://udn.com//news/story/6850/9703388?from=udn-catebreaknews_ch2",
-            "time": "2026-08-20 13:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/20/35247394.jpg&M=1&s=Y&x=233&y=0&sw=926&sh=617&exp=3600&w=300",
-            "title": "訂單上看2030！崇越獲利再創新高",
-            "link": "https://udn.com//news/story/6850/9703389?from=udn-catebreaknews_ch2",
-            "time": "2026-08-20 13:25"
         }
     ]
 }
