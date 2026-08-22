@@ -1,6 +1,12 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/23/35255000.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
+            "title": "美加談判破局恐陷全面貿易戰 卡尼：兩國關係回不去了",
+            "link": "https://udn.com//news/story/6811/9708351?from=udn-catebreaknews_ch2",
+            "time": "2026-08-23 03:34"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/22/35254801.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "投資人本周將迎華許演說、輝達財報 牽動美股後市表現",
             "link": "https://udn.com//news/story/6811/9708225?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2026-08-23 01:53"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_0.jpg&w=300",
             "title": "美祭50%關稅 加國：對等反制",
             "link": "https://udn.com//news/story/6811/9708219?from=udn-catebreaknews_ch2",
             "time": "2026-08-23 01:50"
@@ -23,12 +29,6 @@
             "title": "輝達、SK 海力士、美光傳簽長約 取得所需高頻寬記憶體和DRAM",
             "link": "https://udn.com//news/story/6811/9708182?from=udn-catebreaknews_ch2",
             "time": "2026-08-23 01:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
-            "title": "輝達斥資60億美元取得Poolside模型授權 壯大AI生態系",
-            "link": "https://udn.com//news/story/6811/9708183?from=udn-catebreaknews_ch2",
-            "time": "2026-08-23 01:38"
         }
     ]
 }
