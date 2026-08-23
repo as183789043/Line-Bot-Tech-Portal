@@ -1,6 +1,24 @@
 {
     "兩岸": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/23/35256793.jpg&M=1&s=Y&x=0&y=0&sw=951&sh=634&exp=3600&w=300",
+            "title": "陸嫦娥七號月球探測任務 發射前夕突喊停",
+            "link": "https://udn.com//news/story/7332/9709646?from=udn-catebreaknews_ch2",
+            "time": "2026-08-24 00:14"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_8.jpg&w=300",
+            "title": "陸修「互聯網管理辦法」人工智慧將納入管理",
+            "link": "https://udn.com//news/story/7332/9709639?from=udn-catebreaknews_ch2",
+            "time": "2026-08-24 00:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_1.jpg&w=300",
+            "title": "陸今日起連5天 南海實彈射擊",
+            "link": "https://udn.com//news/story/7332/9709633?from=udn-catebreaknews_ch2",
+            "time": "2026-08-24 00:10"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/23/35256665.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "川習會前釋出善意？ 傳川普擬放行蘋果購買大陸製記憶體",
             "link": "https://udn.com//news/story/7333/9709462?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "大陸政府擴大補貼信用卡分期利息 鼓勵消費",
             "link": "https://udn.com//news/story/7333/9709344?from=udn-catebreaknews_ch2",
             "time": "2026-08-23 21:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/23/35256562.jpg&M=1&s=Y&x=0&y=0&sw=1062&sh=708&exp=3600&w=300",
-            "title": "上海布局第四代半導體 推政策、搭平台、促對接",
-            "link": "https://udn.com//news/story/7333/9709372?from=udn-catebreaknews_ch2",
-            "time": "2026-08-23 20:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/23/35256560.jpg&M=1&s=Y&x=0&y=0&sw=904&sh=602&exp=3600&w=300",
-            "title": "受颱風紫檀影響 大陸探月工程嫦娥七號發射任務今年落空",
-            "link": "https://udn.com//news/story/7332/9709369?from=udn-catebreaknews_ch2",
-            "time": "2026-08-23 20:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/23/35256507.png&M=1&s=Y&x=137&y=0&sw=1068&sh=712&exp=3600&w=300",
-            "title": "嫦娥七號發射突喊停 陸官方：不滿足發射條件",
-            "link": "https://udn.com//news/story/7332/9709318?from=udn-catebreaknews_ch2",
-            "time": "2026-08-23 20:20"
         }
     ]
 }
