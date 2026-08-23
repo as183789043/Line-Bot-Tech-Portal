@@ -1,7 +1,13 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/23/35256620.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
+            "title": "趨勢觀察／6G標準加速AI原生成型",
+            "link": "https://udn.com//news/story/7240/9709425?from=udn-catebreaknews_ch2",
+            "time": "2026-08-24 00:37"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_0.jpg&w=300",
             "title": "餐飲、零售互搶市場 產業邊界模糊化",
             "link": "https://udn.com//news/story/7241/9709604?from=udn-catebreaknews_ch2",
             "time": "2026-08-24 00:03"
@@ -13,21 +19,15 @@
             "time": "2026-08-24 00:01"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/23/35256744.jpg&M=1&s=Y&x=0&y=0&sw=1261&sh=841&exp=3600&w=300",
-            "title": "鷹聲再起！央行9月升息機率增 緊盯2指標",
-            "link": "https://udn.com//news/story/7238/9709582?from=udn-catebreaknews_ch2",
-            "time": "2026-08-24 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_5.jpg&w=300",
-            "title": "全球央行年會華許演說首秀 市場預期美債壓力難解",
-            "link": "https://udn.com//news/story/7238/9709581?from=udn-catebreaknews_ch2",
-            "time": "2026-08-24 00:00"
-        },
-        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/23/35256750.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "輝達7議題 市場焦點",
             "link": "https://udn.com//news/story/7238/9709578?from=udn-catebreaknews_ch2",
+            "time": "2026-08-24 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
+            "title": "全球央行年會華許演說首秀 市場預期美債壓力難解",
+            "link": "https://udn.com//news/story/7238/9709581?from=udn-catebreaknews_ch2",
             "time": "2026-08-24 00:00"
         }
     ]
