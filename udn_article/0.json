@@ -1,13 +1,25 @@
 {
     "即時": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
+            "title": "野火逼近內華達州雷諾市 當局呼籲9萬人撤離",
+            "link": "https://udn.com//news/story/6813/9709769?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-08-24 06:11"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
+            "title": "泰國南部3府遭協同攻擊 總理召集緊急安全會議",
+            "link": "https://udn.com//news/story/6809/9709743?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-08-24 05:23"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
             "title": "挪威王室：國王哈拉德五世健康惡化",
             "link": "https://udn.com//news/story/6809/9709736?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-08-24 04:50"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg&w=300",
             "title": "川普體重增約10公斤 醫師示警健康風險",
             "link": "https://udn.com//news/story/6813/9709725?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-08-24 04:18"
@@ -17,18 +29,6 @@
             "title": "新莊工廠大火移工失聯 下風處居民當心火場煙霧及異味",
             "link": "https://udn.com//news/story/7320/9709707?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-08-24 01:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/24/35256888.jpg&M=1&s=Y&x=0&y=0&sw=1220&sh=814&exp=3600&w=300",
-            "title": "「宜蘭潮流文化藝術祭」落幕破2萬人次參與 潮流能量席捲再創高峰",
-            "link": "https://udn.com//news/story/7328/9709700?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-08-24 00:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/24/35256885.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "新莊連棟式鐵皮工廠深夜大火 傳1移工失聯消防奮力灌救中",
-            "link": "https://udn.com//news/story/7320/9709699?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-08-24 00:40"
         }
     ]
 }
