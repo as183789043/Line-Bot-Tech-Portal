@@ -1,7 +1,13 @@
 {
     "即時": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
+            "title": "挪威王室：國王哈拉德五世健康惡化",
+            "link": "https://udn.com//news/story/6809/9709736?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-08-24 04:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
             "title": "川普體重增約10公斤 醫師示警健康風險",
             "link": "https://udn.com//news/story/6813/9709725?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-08-24 04:18"
@@ -23,12 +29,6 @@
             "title": "新莊連棟式鐵皮工廠深夜大火 傳1移工失聯消防奮力灌救中",
             "link": "https://udn.com//news/story/7320/9709699?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-08-24 00:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/24/35256860.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "嘉義縣政府深夜宣布 24日停班停課",
-            "link": "https://udn.com//news/story/7266/9709684?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-08-24 00:05"
         }
     ]
 }

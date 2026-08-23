@@ -1,7 +1,13 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
+            "title": "挪威王室：國王哈拉德五世健康惡化",
+            "link": "https://udn.com//news/story/6809/9709736?from=udn-catebreaknews_ch2",
+            "time": "2026-08-24 04:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
             "title": "川普體重增約10公斤 醫師示警健康風險",
             "link": "https://udn.com//news/story/6813/9709725?from=udn-catebreaknews_ch2",
             "time": "2026-08-24 04:18"
@@ -13,22 +19,16 @@
             "time": "2026-08-24 03:02"
         },
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_4.jpg&w=300",
+            "title": "南韓散戶轉抱「股權連結證券」",
+            "link": "https://udn.com//news/story/6811/9709613?from=udn-catebreaknews_ch2",
+            "time": "2026-08-24 01:54"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/20/35246078.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "川普帳戶頻繁交易惹爭議 6月證券交易次數超過1,000筆",
             "link": "https://udn.com//news/story/6813/9709617?from=udn-catebreaknews_ch2",
             "time": "2026-08-24 01:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/23/35256774.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "韓求職補習班搭上AI熱潮 瞄準三星、SK 海力士職缺",
-            "link": "https://udn.com//news/story/6811/9709618?from=udn-catebreaknews_ch2",
-            "time": "2026-08-24 01:51"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
-            "title": "日加薪留才 企業叫苦",
-            "link": "https://udn.com//news/story/6811/9709564?from=udn-catebreaknews_ch2",
-            "time": "2026-08-24 01:50"
         }
     ]
 }
