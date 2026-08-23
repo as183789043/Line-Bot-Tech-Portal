@@ -1,7 +1,13 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "title": "安聯投信：台股高檔震盪、輪動墊高",
+            "link": "https://udn.com//news/story/7251/9708828?from=udn-catebreaknews_ch2",
+            "time": "2026-08-23 12:48"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
             "title": "美股延長交易台灣複委託跟進？金管會：券商自行評估",
             "link": "https://udn.com//news/story/7251/9708553?from=udn-catebreaknews_ch2",
             "time": "2026-08-23 10:11"
@@ -23,12 +29,6 @@
             "title": "台股在「45K」震盪整理 被動式ETF換血受矚目",
             "link": "https://udn.com//news/story/123006/9708226?from=udn-catebreaknews_ch2",
             "time": "2026-08-23 01:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
-            "title": "凌巨8月24日股臨會改選董事",
-            "link": "https://udn.com//news/story/7252/9708150?from=udn-catebreaknews_ch2",
-            "time": "2026-08-23 00:44"
         }
     ]
 }
