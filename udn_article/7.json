@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
+            "title": "麗豐財報／上半年稅後淨利2.41億元 EPS 2.92元",
+            "link": "https://udn.com//news/story/7252/9708632?from=udn-catebreaknews_ch2",
+            "time": "2026-08-23 10:48"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "title": "美股延長交易台灣複委託跟進？金管會：券商自行評估",
+            "link": "https://udn.com//news/story/7251/9708553?from=udn-catebreaknews_ch2",
+            "time": "2026-08-23 10:11"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/22/35254132.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "本周台股／光輝10月要來了？3大利空先讓行情反覆",
+            "link": "https://udn.com//news/story/7251/9708555?from=udn-catebreaknews_ch2",
+            "time": "2026-08-23 10:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/22/35253233.jpg&M=1&s=Y&x=0&y=0&sw=1184&sh=789&exp=3600&w=300",
             "title": "主動式 ETF 加碼股快上車 聯亞最受歡迎獲六檔新增",
             "link": "https://udn.com//news/story/123006/9708223?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "台股在「45K」震盪整理 被動式ETF換血受矚目",
             "link": "https://udn.com//news/story/123006/9708226?from=udn-catebreaknews_ch2",
             "time": "2026-08-23 01:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
-            "title": "凌巨8月24日股臨會改選董事",
-            "link": "https://udn.com//news/story/7252/9708150?from=udn-catebreaknews_ch2",
-            "time": "2026-08-23 00:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/22/35254328.png&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "九檔高股息ETF逆勢紅 00919下周朝新高發動攻勢",
-            "link": "https://udn.com//news/story/123006/9707893?from=udn-catebreaknews_ch2",
-            "time": "2026-08-22 17:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/22/35254086.png&M=1&s=Y&x=0&y=80&sw=1232&sh=821&exp=3600&w=300",
-            "title": "竑騰近期股價表現強勁 股價創一個半月來新高",
-            "link": "https://udn.com//news/story/7252/9707801?from=udn-catebreaknews_ch2",
-            "time": "2026-08-22 16:07"
         }
     ]
 }
