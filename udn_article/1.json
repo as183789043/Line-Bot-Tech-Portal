@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/22/35253991.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "漢光片段式演習仍是罩門 專家揭國軍3大破口",
+            "link": "https://udn.com//news/story/6656/9708422?from=udn-catebreaknews_ch2",
+            "time": "2026-08-23 08:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/23/35254915.jpg&M=1&s=Y&x=0&y=9&sw=1280&sh=854&exp=3600&w=300",
             "title": "學者評漢光演習…多層次整合防空系統 國軍當務之急",
             "link": "https://udn.com//news/story/10930/9708292?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "歷史上的今天／1979年工兵雨中防洪 搶救青潭堰臨時壩",
             "link": "https://udn.com//news/story/7314/9708301?from=udn-catebreaknews_ch2",
             "time": "2026-08-23 00:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/22/35254823.jpg&M=1&s=Y&x=0&y=31&sw=1280&sh=853&exp=3600&w=300",
-            "title": "聯合報一周大事 8/16~8/22",
-            "link": "https://udn.com//news/story/7314/9708027?from=udn-catebreaknews_ch2",
-            "time": "2026-08-23 00:00"
         }
     ]
 }
