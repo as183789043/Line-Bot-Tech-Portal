@@ -1,7 +1,25 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "title": "士電、中石化、卜蜂等17家公司 9月於證交辦法說會",
+            "link": "https://udn.com//news/story/7252/9711252?from=udn-catebreaknews_ch2",
+            "time": "2026-08-24 18:28"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/24/35259624.jpg&M=1&s=Y&x=0&y=0&sw=1129&sh=752&exp=3600&w=300",
+            "title": "凌巨財報／上半年稅後純益2.6億元 EPS 0.59元",
+            "link": "https://udn.com//news/story/7252/9711168?from=udn-catebreaknews_ch2",
+            "time": "2026-08-24 17:51"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/24/35259597.jpg&M=1&s=Y&x=0&y=107&sw=1279&sh=853&exp=3600&w=300",
+            "title": "零壹法說會／客戶訂單需求強勁 備貨量增加",
+            "link": "https://udn.com//news/story/7252/9711166?from=udn-catebreaknews_ch2",
+            "time": "2026-08-24 17:49"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/24/35259584.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "外資賣超157億元 狂賣超台塑四寶、大賣南亞2.8萬張最多",
             "link": "https://udn.com//news/story/7251/9711148?from=udn-catebreaknews_ch2",
             "time": "2026-08-24 17:41"
@@ -11,24 +29,6 @@
             "title": "凌巨召開股東臨時會 完成董事改選作業、向富棋續任凌巨董事長",
             "link": "https://udn.com//news/story/7252/9711139?from=udn-catebreaknews_ch2",
             "time": "2026-08-24 17:33"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/24/35259538.jpg&M=1&s=Y&x=0&y=0&sw=369&sh=246&exp=3600&w=300",
-            "title": "美伊戰事以來台股基金表現出爐 統一龍馬近六月績效居冠",
-            "link": "https://udn.com//news/story/10103/9711126?from=udn-catebreaknews_ch2",
-            "time": "2026-08-24 17:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/24/35259527.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "自動化上升周期發威！外資看訂單已排至2027年 喊買四台廠",
-            "link": "https://udn.com//news/story/7251/9711094?from=udn-catebreaknews_ch2",
-            "time": "2026-08-24 17:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/24/35259523.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "聯電休息夠了嗎？重回成交、成值排行榜 投信終於回頭大買",
-            "link": "https://udn.com//news/story/7251/9711085?from=udn-catebreaknews_ch2",
-            "time": "2026-08-24 17:15"
         }
     ]
 }
