@@ -1,7 +1,19 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/25/35262951.jpg&M=1&s=Y&x=0&y=0&sw=1184&sh=789&exp=3600&w=300",
+            "title": "誰在買？台股由低點一路拉抬逾900點 三大法人卻賣超53億元",
+            "link": "https://udn.com//news/story/7251/9713138?from=udn-catebreaknews_ch2",
+            "time": "2026-08-25 15:12"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/25/35262880.jpg&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
+            "title": "9月升格新興市場 越南資本解封盼重演台股狂飆歷史",
+            "link": "https://udn.com//news/story/7251/9713114?from=udn-catebreaknews_ch2",
+            "time": "2026-08-25 15:08"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
             "title": "瀚荃第3季展望佳 股價強勢表態",
             "link": "https://udn.com//news/story/7252/9713062?from=udn-catebreaknews_ch2",
             "time": "2026-08-25 14:37"
@@ -17,18 +29,6 @@
             "title": "台積電最後一盤爆2,997張買單急拉、收2,400元 貢獻大盤指數200點",
             "link": "https://udn.com//news/story/7251/9712973?from=udn-catebreaknews_ch2",
             "time": "2026-08-25 14:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/25/35262475.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台積電與金控雙雄聯手反撲 台股開低走高收漲407點",
-            "link": "https://udn.com//news/story/7251/9712900?from=udn-catebreaknews_ch2",
-            "time": "2026-08-25 13:41"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
-            "title": "產業走向大者恆大 法人看好三檔 IP ASIC 供應鏈",
-            "link": "https://udn.com//news/story/7251/9712839?from=udn-catebreaknews_ch2",
-            "time": "2026-08-25 13:21"
         }
     ]
 }
