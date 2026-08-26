@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "title": "大略-KY 繼續停止櫃檯買賣",
+            "link": "https://udn.com//news/story/7252/9716513?from=udn-catebreaknews_ch2",
+            "time": "2026-08-26 23:32"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/26/35267345.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "PCE數據出爐 台指期夜盤上半場多空豬羊變色",
             "link": "https://udn.com//news/story/7255/9716249?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "華星光獲利／7月自結淨賺1.31億元 單月賺進第2季七成水準",
             "link": "https://udn.com//news/story/7252/9715982?from=udn-catebreaknews_ch2",
             "time": "2026-08-26 18:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/26/35267059.jpg&M=1&s=Y&x=0&y=0&sw=1205&sh=803&exp=3600&w=300",
-            "title": "7月大盤動能放緩兩成 擋不住券商今年來仍賺逾1,500億元、年增231％",
-            "link": "https://udn.com//news/story/7251/9715941?from=udn-catebreaknews_ch2",
-            "time": "2026-08-26 18:13"
         }
     ]
 }
