@@ -1,6 +1,12 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/29/35276497.jpg&M=1&s=Y&x=0&y=0&sw=999&sh=666&exp=3600&w=300",
+            "title": "「我是文組，怎麼可能進台積電？」數據揭開科技業一條被忽略的高薪路徑",
+            "link": "https://udn.com//news/story/121591/9722051?from=udn-catebreaknews_ch2",
+            "time": "2026-08-30 05:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/04/28/34897738.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "匯市最前線／台幣有望挑戰31.4元",
             "link": "https://udn.com//news/story/7239/9722148?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2026-08-30 01:04"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_9.jpg&w=300",
             "title": "下半年輝達伺服器大量出貨 鴻海、技嘉、緯創大啖商機",
             "link": "https://udn.com//news/story/7240/9722153?from=udn-catebreaknews_ch2",
             "time": "2026-08-30 01:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/21/35251911.jpg&M=1&s=Y&x=0&y=23&sw=1280&sh=853&exp=3600&w=300",
-            "title": "純晶圓代工 台積電連連稱霸！連續兩季拿下73%市占率",
-            "link": "https://udn.com//news/story/7240/9722158?from=udn-catebreaknews_ch2",
-            "time": "2026-08-30 01:02"
         }
     ]
 }
