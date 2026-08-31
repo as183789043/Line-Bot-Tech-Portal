@@ -1,14 +1,26 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/01/35283669.png&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
+            "title": "算力與電力都龍困淺灘，我們未來的國力在哪裡？",
+            "link": "https://udn.com//news/story/6656/9726074?from=udn-catebreaknews_ch2",
+            "time": "2026-09-01 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/01/35283598.png&M=2&s=Y&x=0&y=0&sw=1280&sh=889&exp=3600&w=300",
+            "title": "國防預算軍事投資大增 圖解國軍規畫買什麼新裝備",
+            "link": "https://udn.com//news/story/7314/9726073?from=udn-catebreaknews_ch2",
+            "time": "2026-09-01 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_3.jpg&w=300",
             "title": "2026地方選舉 民眾黨台中目標「六席全上」 桃園力求突破零席次",
             "link": "https://udn.com//news/story/124652/9725742?from=udn-catebreaknews_ch2",
             "time": "2026-09-01 00:59"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/31/35283584.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "鄭麗文：重塑黨魂 建立制度 2028不會內定人選",
+            "title": "鄭麗文：重塑黨魂、建立制度 2028不會內定人選",
             "link": "https://udn.com//news/story/6656/9725956?from=udn-catebreaknews_ch2",
             "time": "2026-09-01 00:14"
         },
@@ -17,18 +29,6 @@
             "title": "竹北困境 白營：只怕「豬隊友」大意失荊州",
             "link": "https://udn.com//news/story/124652/9725957?from=udn-catebreaknews_ch2",
             "time": "2026-09-01 00:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_0.jpg&w=300",
-            "title": "彰縣長選情添變數 泛藍陳重嘉搶頭香登記",
-            "link": "https://udn.com//news/story/124652/9725960?from=udn-catebreaknews_ch2",
-            "time": "2026-09-01 00:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_3.jpg&w=300",
-            "title": "烏龍！筆電男被綠委疑共諜 藍批大獵巫",
-            "link": "https://udn.com//news/story/6656/9725962?from=udn-catebreaknews_ch2",
-            "time": "2026-09-01 00:12"
         }
     ]
 }
