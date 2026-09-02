@@ -1,16 +1,22 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/18/35241361.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "因應中東戰事衝擊…政院將追加6,000億預算 軍公教加薪採二階段調整",
+            "link": "https://udn.com//news/story/124984/9730827?from=udn-catebreaknews_ch2",
+            "time": "2026-09-03 01:12"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
+            "title": "台電明年新編900萬核安經費",
+            "link": "https://udn.com//news/story/125010/9730826?from=udn-catebreaknews_ch2",
+            "time": "2026-09-03 01:09"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/03/35291155.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "選情初探／北市第七選區平地原住民 藍同額選舉 綠和無黨無人參選",
             "link": "https://udn.com//news/story/124652/9730908?from=udn-catebreaknews_ch2",
             "time": "2026-09-03 00:38"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
-            "title": "選戰話題 新北里長伯拚連任 老婆登記對決",
-            "link": "https://udn.com//news/story/124652/9730915?from=udn-catebreaknews_ch2",
-            "time": "2026-09-03 00:36"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/02/35291067.jpg&M=1&s=Y&x=0&y=0&sw=1080&sh=719&exp=3600&w=300",
@@ -19,15 +25,9 @@
             "time": "2026-09-03 00:21"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
             "title": "觀察站／竹北各自為戰 恐留信任裂痕",
             "link": "https://udn.com//news/story/124652/9730956?from=udn-catebreaknews_ch2",
-            "time": "2026-09-03 00:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/03/35291222.jpg&M=1&s=Y&x=0&y=0&sw=1237&sh=825&exp=3600&w=300",
-            "title": "綠營王牌…蔡英文助陣 展現跨派系團結",
-            "link": "https://udn.com//news/story/124652/9730958?from=udn-catebreaknews_ch2",
             "time": "2026-09-03 00:21"
         }
     ]
