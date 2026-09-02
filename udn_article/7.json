@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/02/35289102.jpg&M=1&s=Y&x=44&y=0&sw=1236&sh=824&exp=3600&w=300",
+            "title": "台股外資殺盤砍近千億 後市留意美國股債及大盤技術面等三風險",
+            "link": "https://udn.com//news/story/7251/9730901?from=udn-catebreaknews_ch2",
+            "time": "2026-09-03 02:16"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/02/35290744.jpg&M=1&s=Y&x=72&y=0&sw=1184&sh=789&exp=3600&w=300",
             "title": "美長債殖利率轉跌 台指期夜盤伺機突圍",
             "link": "https://udn.com//news/story/7255/9730670?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "台股基金稱霸報酬翻倍榜 鉅亨買基金：AI行情進入選股戰",
             "link": "https://udn.com//news/story/10103/9730359?from=udn-catebreaknews_ch2",
             "time": "2026-09-02 18:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/02/35290303.jpg&M=1&s=Y&x=0&y=4&sw=1280&sh=854&exp=3600&w=300",
-            "title": "安碁資訊：下半年有望優於上半年 拚全年營收雙位數成長",
-            "link": "https://udn.com//news/story/7252/9730252?from=udn-catebreaknews_ch2",
-            "time": "2026-09-02 18:03"
         }
     ]
 }
