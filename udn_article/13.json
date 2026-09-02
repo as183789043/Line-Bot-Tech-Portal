@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/02/34723981.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台灣生育率全球最低！新加坡、南韓推砸錢搶救少子化…謝金河示警：缺工已全面化",
+            "link": "https://udn.com//news/story/6839/9729122?from=udn-catebreaknews_ch2",
+            "time": "2026-09-02 12:14"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/01/34722320.jpg&M=1&s=Y&x=0&y=0&sw=1232&sh=821&exp=3600&w=300",
+            "title": "接案砍半、近8成企業跟著減人…房市寒氣「隱性減工」浮現 學者：房地產業會發生問題",
+            "link": "https://udn.com//news/story/6839/9729109?from=udn-catebreaknews_ch2",
+            "time": "2026-09-02 11:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/01/35285737.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "57歲影后凱特布蘭琪 不被定義的樣貌：女性沒掌管世界實在可惜！",
             "link": "https://udn.com//news/story/10802/9727299?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "為何 30~50 歲感覺時光飛逝 專家：因為只會窮忙",
             "link": "https://udn.com//news/story/6897/9726397?from=udn-catebreaknews_ch2",
             "time": "2026-09-01 13:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/01/35284759.png&M=1&s=Y&x=259&y=0&sw=768&sh=512&exp=3600&w=300",
-            "title": "AI若泡沫化 謝金河喊下一棒是量子！半導體賺40%算少？台灣量子電腦之父揭利潤多大",
-            "link": "https://udn.com//news/story/6839/9726699?from=udn-catebreaknews_ch2",
-            "time": "2026-09-01 11:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/31/35279505.jpg&M=1&s=Y&x=117&y=0&sw=930&sh=620&exp=3600&w=300",
-            "title": "數學能力與音樂能力 可能沒有太多關聯",
-            "link": "https://udn.com//news/story/11184/9724231?from=udn-catebreaknews_ch2",
-            "time": "2026-08-31 12:33"
         }
     ]
 }
