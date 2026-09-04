@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/04/35295500.jpg&M=1&s=Y&x=122&y=0&sw=678&sh=452&exp=3600&w=300",
+            "title": "AI創新百強》有些錢今天賺爆、卻賠上明天 勃肯鞋「 3 不做」跑贏Hoka、Adidas",
+            "link": "https://udn.com//news/story/6837/9733686?from=udn-catebreaknews_ch2",
+            "time": "2026-09-04 07:59"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/04/35295506.jpg&M=1&s=Y&x=79&y=0&sw=678&sh=452&exp=3600&w=300",
+            "title": "輝達財報透露一個新訊號 為何AI三巨頭都攻開源模型？",
+            "link": "https://udn.com//news/story/6837/9733690?from=udn-catebreaknews_ch2",
+            "time": "2026-09-04 07:58"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/03/35293727.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "習近平和川普的底牌",
             "link": "https://udn.com//news/story/6846/9732388?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "晶片版圖全面重組 台灣如何守住半導體核心地位？",
             "link": "https://udn.com//news/story/6853/9732360?from=udn-catebreaknews_ch2",
             "time": "2026-09-03 15:39"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/03/35293548.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "澎湖縣政府衛生局 越過海洋的距離 為健康平權 寫下有溫度的治理典範",
-            "link": "https://udn.com//news/story/6853/9732355?from=udn-catebreaknews_ch2",
-            "time": "2026-09-03 15:38"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/03/35293523.jpg&M=1&s=Y&x=0&y=258&sw=1279&sh=853&exp=3600&w=300",
-            "title": "讓學習跨越年齡與邊界 科見美語寫下教育永續新篇",
-            "link": "https://udn.com//news/story/6853/9732342?from=udn-catebreaknews_ch2",
-            "time": "2026-09-03 15:38"
         }
     ]
 }
