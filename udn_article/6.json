@@ -1,7 +1,13 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/05/35300314.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600&w=300",
+            "title": "從拉新客到養熟客 「二次消費」成餐飲零售業新戰場",
+            "link": "https://udn.com//news/story/7241/9738426?from=udn-catebreaknews_ch2",
+            "time": "2026-09-07 07:01"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_5.jpg&w=300",
             "title": "新壽幸福的功課 助偏鄉學童探索未來",
             "link": "https://udn.com//news/story/7239/9738027?from=udn-catebreaknews_ch2",
             "time": "2026-09-07 03:29"
@@ -23,12 +29,6 @@
             "title": "台積電3奈米衝鋒 產值躍升Q3突破4,000億元創新高",
             "link": "https://udn.com//news/story/7240/9738249?from=udn-catebreaknews_ch2",
             "time": "2026-09-07 02:48"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_3.jpg&w=300",
-            "title": "科技論壇 透視AI代理新賽局",
-            "link": "https://udn.com//news/story/7238/9738250?from=udn-catebreaknews_ch2",
-            "time": "2026-09-07 02:45"
         }
     ]
 }
