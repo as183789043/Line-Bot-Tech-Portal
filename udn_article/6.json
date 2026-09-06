@@ -1,6 +1,12 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/05/35299964.jpg&M=1&s=Y&x=0&y=0&sw=1230&sh=820&exp=3600&w=300",
+            "title": "本周台股／美債高殖利率考驗AI股 台股該減碼還布局？",
+            "link": "https://udn.com//news/story/7238/9737214?from=udn-catebreaknews_ch2",
+            "time": "2026-09-06 10:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/14/35042554.jpg&M=1&s=Y&x=0&y=0&sw=629&sh=419&exp=3600&w=300",
             "title": "鴻海營收創最強8月達9,217億 前八月同步攻頂！本季看旺",
             "link": "https://udn.com//news/story/7240/9736934?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2026-09-06 02:03"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_0.jpg&w=300",
             "title": "鎧俠新招NAND 替代DRAM",
             "link": "https://udn.com//news/story/7240/9736908?from=udn-catebreaknews_ch2",
             "time": "2026-09-06 01:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/05/35300777.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "聯發科家庭日 喊共創未來",
-            "link": "https://udn.com//news/story/7240/9736916?from=udn-catebreaknews_ch2",
-            "time": "2026-09-06 01:49"
         }
     ]
 }
