@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/07/35304894.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "最高調的中選會主委？ 游盈隆「向人民報告」惹怒在野",
+            "link": "https://udn.com//news/story/6656/9740581?from=udn-catebreaknews_ch2",
+            "time": "2026-09-08 08:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/07/35305913.png&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
             "title": "台鐵97％的準點率？是說給長官聽的嗎？",
             "link": "https://udn.com//news/story/6656/9740485?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2026-09-08 00:09"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
             "title": "捷運建設預算 新北力爭明年優先追加54億元",
             "link": "https://udn.com//news/story/125013/9740369?from=udn-catebreaknews_ch2",
             "time": "2026-09-08 00:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/07/35305937.jpg&M=1&s=Y&x=0&y=0&sw=1191&sh=794&exp=3600&w=300",
-            "title": "捷運補助…交部：北部規畫早 南部才開始",
-            "link": "https://udn.com//news/story/125013/9740380?from=udn-catebreaknews_ch2",
-            "time": "2026-09-08 00:07"
         }
     ]
 }
