@@ -1,13 +1,19 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/10/35312924.jpg&M=1&s=Y&x=0&y=256&sw=1057&sh=704&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/10/35312944.jpg&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
+            "title": "新聞眼／川普批左派智庫 台灣掃到颱風尾",
+            "link": "https://udn.com//news/story/6656/9745130?from=udn-catebreaknews_ch2",
+            "time": "2026-09-10 01:49"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/10/35312924.jpg&M=1&s=Y&x=50&y=290&sw=1007&sh=670&exp=3600&w=300",
             "title": "美學者：台灣重啟核能 重要防衛戰略",
             "link": "https://udn.com//news/story/10930/9745127?from=udn-catebreaknews_ch2",
             "time": "2026-09-10 01:30"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/09/35312831.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/09/35312831.jpg&M=1&s=Y&x=0&y=13&sw=1279&sh=853&exp=3600&w=300",
             "title": "谷立言肯定台灣增軍費「但不足夠」 還需投資國防工業",
             "link": "https://udn.com//news/story/10930/9745124?from=udn-catebreaknews_ch2",
             "time": "2026-09-10 01:25"
@@ -22,12 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/09/35310389.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "歷史上的今天／1973年中韓經濟合作會議 孫運璿致詞",
             "link": "https://udn.com//news/story/7314/9745135?from=udn-catebreaknews_ch2",
-            "time": "2026-09-10 00:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/09/35312833.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600&w=300",
-            "title": "學者看AI時代的新聞未來…「記者現場採訪 才有溫度」",
-            "link": "https://udn.com//news/story/122449/9745126?from=udn-catebreaknews_ch2",
             "time": "2026-09-10 00:01"
         }
     ]
