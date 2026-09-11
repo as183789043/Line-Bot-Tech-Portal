@@ -1,13 +1,25 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/12/35320105.png&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
+            "title": "憲政怪獸再怎麼鴨霸 遇到強權拆穿國王新衣",
+            "link": "https://udn.com//news/story/6656/9749748?from=udn-catebreaknews_ch2",
+            "time": "2026-09-12 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
+            "title": "副總統蕭美琴義大利演說：台灣有權和世界交朋友",
+            "link": "https://udn.com//news/story/6656/9749741?from=udn-catebreaknews_ch2",
+            "time": "2026-09-12 05:31"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/11/35319958.jpg&M=1&s=Y&x=0&y=0&sw=1248&sh=832&exp=3600&w=300",
             "title": "無人機條例行政院副署了 卓揆強調2,400億元預算可視需要增加",
             "link": "https://udn.com//news/story/6656/9749543?from=udn-catebreaknews_ch2",
             "time": "2026-09-12 00:29"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_0.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
             "title": "蕭美琴訪義…藍委：外交突破 不是拍照就好",
             "link": "https://udn.com//news/story/6656/9749579?from=udn-catebreaknews_ch2",
             "time": "2026-09-12 00:18"
@@ -17,18 +29,6 @@
             "title": "再赴歐洲…蕭美琴低調訪義 中共反彈",
             "link": "https://udn.com//news/story/6656/9749568?from=udn-catebreaknews_ch2",
             "time": "2026-09-12 00:18"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/11/35320012.jpg&M=1&s=Y&x=0&y=0&sw=1005&sh=670&exp=3600&w=300",
-            "title": "竹縣選舉 黃國昌「藍綠都不挺」",
-            "link": "https://udn.com//news/story/124652/9749607?from=udn-catebreaknews_ch2",
-            "time": "2026-09-12 00:17"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/12/35320175.jpg&M=1&s=Y&x=0&y=30&sw=1115&sh=743&exp=3600&w=300",
-            "title": "蔣萬安站台…北北基桃 藍白合遍地開花",
-            "link": "https://udn.com//news/story/124652/9749605?from=udn-catebreaknews_ch2",
-            "time": "2026-09-12 00:17"
         }
     ]
 }
