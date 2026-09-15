@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/15/35331190.jpg&M=1&s=Y&x=58&y=0&sw=1152&sh=768&exp=3600&w=300",
+            "title": "美財長將演說 台指期夜盤以靜制動",
+            "link": "https://udn.com//news/story/7255/9756711?from=udn-catebreaknews_ch2",
+            "time": "2026-09-15 21:08"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/15/35330990.jpg&M=1&s=Y&x=0&y=0&sw=1140&sh=760&exp=3600&w=300",
+            "title": "鈺祥先進製程擴建與CaaS訂閱制發酵 看旺下半年與未來五年",
+            "link": "https://udn.com//news/story/7252/9756594?from=udn-catebreaknews_ch2",
+            "time": "2026-09-15 20:01"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/15/35330873.jpg&M=1&s=Y&x=0&y=0&sw=1174&sh=782&exp=3600&w=300",
+            "title": "鈺祥法說會／先進製程擴建與CaaS訂閱制發酵！ 看旺未來五年營運成長",
+            "link": "https://udn.com//news/story/7252/9756470?from=udn-catebreaknews_ch2",
+            "time": "2026-09-15 18:38"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/15/35330866.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
             "title": "外資賣超626億元、賣超這檔記憶體7.2萬張最多 買超第一名則是金融股",
             "link": "https://udn.com//news/story/7251/9756464?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "台股殺聲隆隆「它」配息不縮水！00406A維持0.138元…年化衝17.8％",
             "link": "https://udn.com//news/story/123006/9756453?from=udn-catebreaknews_ch2",
             "time": "2026-09-15 18:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/15/35330515.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "泰合10月下旬上市16日業績發表會 抗血栓口溶膜搶攻年292億美元市場",
-            "link": "https://udn.com//news/story/7252/9756289?from=udn-catebreaknews_ch2",
-            "time": "2026-09-15 17:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/15/35330458.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "金寶法說會／量子電腦室溫控制系統10月測試 IBM、Google全列潛在客戶",
-            "link": "https://udn.com//news/story/7252/9756235?from=udn-catebreaknews_ch2",
-            "time": "2026-09-15 16:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/15/35330308.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "陳嘉偉喊台股「必定走崩盤」！鈍刀割肉像2007年 升息灰犀牛逼近",
-            "link": "https://udn.com//news/story/12806/9756097?from=udn-catebreaknews_ch2",
-            "time": "2026-09-15 16:06"
         }
     ]
 }
