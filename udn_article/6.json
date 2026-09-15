@@ -1,10 +1,22 @@
 {
     "產經": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/15/35330187.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "丁學文專欄／AI與反對浪潮對撞 這場金融派對如何收場",
+            "link": "https://udn.com//news/story/7238/9757157?from=udn-catebreaknews_ch2",
+            "time": "2026-09-16 06:01"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_0.jpg&w=300",
             "title": "iPhone 18美、中預購冷 台灣買氣也出現遞延",
             "link": "https://udn.com//news/story/7241/9756947?from=udn-catebreaknews_ch2",
             "time": "2026-09-16 02:04"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/11/35316896.jpg&M=1&s=Y&x=0&y=23&sw=1280&sh=853&exp=3600&w=300",
+            "title": "人氣不如往年…iPhone 18預購冷 我供應鏈同步面臨壓力測試",
+            "link": "https://udn.com//news/story/7240/9756930?from=udn-catebreaknews_ch2",
+            "time": "2026-09-16 01:57"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/18/35241841.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
@@ -17,18 +29,6 @@
             "title": "台幣重貶1.6角…收31.848元 交易員：32元成下個心理關卡",
             "link": "https://udn.com//news/story/7238/9756943?from=udn-catebreaknews_ch2",
             "time": "2026-09-16 01:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/07/35303334.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "美股融資追繳 產官熱議！元大金籲設分級制度 跌破維持率提前砍倉",
-            "link": "https://udn.com//news/story/7239/9756809?from=udn-catebreaknews_ch2",
-            "time": "2026-09-16 01:43"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/06/15/35045763.png&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "五大行8月刷卡額降溫 中信銀穩坐簽帳、發卡雙冠王",
-            "link": "https://udn.com//news/story/7239/9756813?from=udn-catebreaknews_ch2",
-            "time": "2026-09-16 01:40"
         }
     ]
 }
