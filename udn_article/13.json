@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/18/35339577.jpg&M=1&s=Y&x=0&y=0&sw=678&sh=452&exp=3600&w=300",
+            "title": "從喊「還用不到」到排進量產 台積啟用新曝光機，台廠誰受惠？",
+            "link": "https://udn.com//news/story/6837/9762213?from=udn-catebreaknews_ch2",
+            "time": "2026-09-18 08:43"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/18/35339580.jpg&M=1&s=Y&x=71&y=0&sw=678&sh=452&exp=3600&w=300",
+            "title": "小美冰淇淋為何砸10億做麵條？食品業新戰場：攻缺工餐廳",
+            "link": "https://udn.com//news/story/6837/9762229?from=udn-catebreaknews_ch2",
+            "time": "2026-09-18 08:41"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/17/35337376.jpg&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
             "title": "最幸福城市不是因為有錢 調查：日常壓力低促成幸福要件",
             "link": "https://udn.com//news/story/6897/9760794?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "狂運動肚子還是瘦不了？營養師：1個可能幫你減掉內臟脂肪的「壞習慣」",
             "link": "https://udn.com//news/story/6841/9759913?from=udn-catebreaknews_ch2",
             "time": "2026-09-17 09:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/16/35333006.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "台中州廳 典雅回歸 百年古蹟風華再現",
-            "link": "https://udn.com//news/story/9639/9757952?from=udn-catebreaknews_ch2",
-            "time": "2026-09-16 14:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/16/35333382.jpg&M=1&s=Y&x=0&y=0&sw=1087&sh=725&exp=3600&w=300",
-            "title": "台中國際動畫影展 匯聚台灣原創與國際動畫佳作",
-            "link": "https://udn.com//news/story/9639/9758224?from=udn-catebreaknews_ch2",
-            "time": "2026-09-16 14:35"
         }
     ]
 }
