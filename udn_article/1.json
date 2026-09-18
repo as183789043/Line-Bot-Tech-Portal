@@ -1,8 +1,14 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/19/35342847.png&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
+            "title": "質疑前鎮漁港就是欺負漁民 熟悉的選舉套路最對味",
+            "link": "https://udn.com//news/story/125018/9764161?from=udn-catebreaknews_ch2",
+            "time": "2026-09-19 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/18/35342591.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "新北市長選情 改善生活空間 李四川、蘇巧慧交通政見比拚",
+            "title": "新北市長選情 改善生活空間…李四川、蘇巧慧交通政見比拚",
             "link": "https://udn.com//news/story/124652/9763925?from=udn-catebreaknews_ch2",
             "time": "2026-09-19 00:25"
         },
@@ -19,16 +25,10 @@
             "time": "2026-09-19 00:22"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
             "title": "打造韌性花蓮 縣長參選人魏嘉賢、張峻、游淑貞提防災政見",
             "link": "https://udn.com//news/story/124652/9763920?from=udn-catebreaknews_ch2",
             "time": "2026-09-19 00:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/18/35342764.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "AI永續 童子賢：核綠共存才利台灣經濟",
-            "link": "https://udn.com//news/story/122449/9764056?from=udn-catebreaknews_ch2",
-            "time": "2026-09-19 00:15"
         }
     ]
 }
