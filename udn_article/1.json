@@ -1,9 +1,15 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/13/34759687.jpg&M=1&s=Y&x=87&y=101&sw=1129&sh=753&exp=3600&w=300",
+            "title": "對台軍售恐延至年底宣布 軍火商認為對實際交付時程影響有限",
+            "link": "https://udn.com//news/story/10930/9765418?from=udn-catebreaknews_ch2",
+            "time": "2026-09-20 02:06"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/19/35344900.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "北高串連！蔣沈大戰 高雄拚場",
-            "link": "https://udn.com//news/story/6656/9765485?from=udn-catebreaknews_ch2",
+            "title": "北高串連…蔣、沈大戰 高雄拚場",
+            "link": "https://udn.com//news/story/124652/9765485?from=udn-catebreaknews_ch2",
             "time": "2026-09-20 00:40"
         },
         {
@@ -23,12 +29,6 @@
             "title": "侯友宜挺李四川 喊「這戰要贏」蘇巧慧趕場 「有個厲害老爸壓力大」",
             "link": "https://udn.com//news/story/124652/9765363?from=udn-catebreaknews_ch2",
             "time": "2026-09-20 00:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/20/35344975.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "南投縣長站台 水上氣球造勢…基隆市長戰火熱",
-            "link": "https://udn.com//news/story/124652/9765362?from=udn-catebreaknews_ch2",
-            "time": "2026-09-20 00:17"
         }
     ]
 }
