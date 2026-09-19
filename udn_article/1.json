@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/20/35344979.png&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
+            "title": "愛河划SUP搶聲量 沈伯洋更該顧好基隆河",
+            "link": "https://udn.com//news/story/124652/9765611?from=udn-catebreaknews_ch2",
+            "time": "2026-09-20 05:51"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/03/13/34759687.jpg&M=1&s=Y&x=87&y=101&sw=1129&sh=753&exp=3600&w=300",
             "title": "對台軍售恐延至年底宣布 軍火商認為對實際交付時程影響有限",
             "link": "https://udn.com//news/story/10930/9765418?from=udn-catebreaknews_ch2",
@@ -19,16 +25,10 @@
             "time": "2026-09-20 00:27"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/19/35344813.jpg&M=1&s=Y&x=0&y=64&sw=1278&sh=852&exp=3600&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/19/35344813.jpg&M=2&s=Y&x=0&y=64&sw=1278&sh=852&exp=3600&w=300",
             "title": "小英嘉義趕場拉抬參選人 力挺蔡易餘讚他「靈活胖子」",
             "link": "https://udn.com//news/story/124652/9765370?from=udn-catebreaknews_ch2",
             "time": "2026-09-20 00:25"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/19/35344796.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "侯友宜挺李四川 喊「這戰要贏」蘇巧慧趕場 「有個厲害老爸壓力大」",
-            "link": "https://udn.com//news/story/124652/9765363?from=udn-catebreaknews_ch2",
-            "time": "2026-09-20 00:20"
         }
     ]
 }
