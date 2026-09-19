@@ -1,13 +1,25 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/19/35343779.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "散熱股又有大消息？花旗喊買奇鋐、雙鴻 目標價齊升逾14%",
+            "link": "https://udn.com//news/story/7252/9764569?from=udn-catebreaknews_ch2",
+            "time": "2026-09-19 11:33"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_9.jpg&w=300",
+            "title": "升息不確定性消退 台股焦點重回AI與基本面",
+            "link": "https://udn.com//news/story/7251/9764524?from=udn-catebreaknews_ch2",
+            "time": "2026-09-19 11:09"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/11/35218544.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "升息不確定引信拆除！雙王領漲 台股外資回補869億",
             "link": "https://udn.com//news/story/7251/9764015?from=udn-catebreaknews_ch2",
             "time": "2026-09-19 00:48"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
             "title": "台股買盤回歸 千金股紅光滿面",
             "link": "https://udn.com//news/story/7251/9764034?from=udn-catebreaknews_ch2",
             "time": "2026-09-19 00:33"
@@ -17,18 +29,6 @@
             "title": "花旗上修獲利預估與目標價 奇鋐、雙鴻看旺 外資喊買",
             "link": "https://udn.com//news/story/7252/9764013?from=udn-catebreaknews_ch2",
             "time": "2026-09-19 00:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/18/35342400.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "元大證：善用權證獲利",
-            "link": "https://udn.com//news/story/7255/9763749?from=udn-catebreaknews_ch2",
-            "time": "2026-09-19 00:22"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/19/35342837.png&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "緯穎、奇鋐 權證瞄準長天期",
-            "link": "https://udn.com//news/story/7255/9763787?from=udn-catebreaknews_ch2",
-            "time": "2026-09-19 00:21"
         }
     ]
 }
