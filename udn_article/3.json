@@ -1,7 +1,25 @@
 {
     "全球": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/21/35347558.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "本周開盤前 五件國際事不可不知",
+            "link": "https://udn.com//news/story/6811/9767096?from=udn-catebreaknews_ch2",
+            "time": "2026-09-21 06:45"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/20/35346135.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
+            "title": "川普關稅把消失的國界重新畫回 割裂美加雙城125年情感",
+            "link": "https://udn.com//news/story/6809/9767090?from=udn-catebreaknews_ch2",
+            "time": "2026-09-21 06:20"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/20/35346351.png&M=1&s=Y&x=0&y=0&sw=930&sh=620&exp=3600&w=300",
+            "title": "青年運動飛彈襲利雅德 沙國葉門戰事再升級",
+            "link": "https://udn.com//news/story/6809/9767051?from=udn-catebreaknews_ch2",
+            "time": "2026-09-21 06:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
             "title": "川習二會 川普對中態度變軟",
             "link": "https://udn.com//news/story/6809/9766935?from=udn-catebreaknews_ch2",
             "time": "2026-09-21 03:31"
@@ -11,24 +29,6 @@
             "title": "彭博：川習二會挑戰更大 專家預期最大成果可能只是雙方關係本身",
             "link": "https://udn.com//news/story/6809/9766851?from=udn-catebreaknews_ch2",
             "time": "2026-09-21 02:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/20/35347189.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "AI基建熱潮無法擋 全球半導體市場拚倍增 今年規模預估衝上1.6兆美元",
-            "link": "https://udn.com//news/story/6811/9766839?from=udn-catebreaknews_ch2",
-            "time": "2026-09-21 01:53"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_2.jpg&w=300",
-            "title": "美股熬過兩關卡 蓄勢上攻",
-            "link": "https://udn.com//news/story/6811/9766847?from=udn-catebreaknews_ch2",
-            "time": "2026-09-21 01:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg&w=300",
-            "title": "主權基金錢潮 滾滾來",
-            "link": "https://udn.com//news/story/6811/9766849?from=udn-catebreaknews_ch2",
-            "time": "2026-09-21 01:52"
         }
     ]
 }
