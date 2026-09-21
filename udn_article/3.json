@@ -1,6 +1,18 @@
 {
     "全球": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/22/35350829.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "那斯達克創歷史新高 超微擠進1兆美元俱樂部",
+            "link": "https://udn.com//news/story/6811/9769429?from=udn-catebreaknews_ch2",
+            "time": "2026-09-22 06:10"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/21/35349193.png&M=1&s=Y&x=0&y=0&sw=930&sh=620&exp=3600&w=300",
+            "title": "川習會前 美中討論建立AI國安風險通報機制",
+            "link": "https://udn.com//news/story/6809/9769434?from=udn-catebreaknews_ch2",
+            "time": "2026-09-22 06:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/15/35329002.jpg&M=1&s=Y&x=56&y=0&sw=1176&sh=784&exp=3600&w=300",
             "title": "川習二會24日登場 習近平時隔11年再訪美",
             "link": "https://udn.com//news/story/125026/9769234?from=udn-catebreaknews_ch2",
@@ -13,22 +25,10 @@
             "time": "2026-09-22 02:39"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_1.jpg&w=300",
             "title": "白宮國宴 微軟CEO將出席",
             "link": "https://udn.com//news/story/125026/9769245?from=udn-catebreaknews_ch2",
             "time": "2026-09-22 02:37"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7225_3.jpg&w=300",
-            "title": "美國財政部長貝森特：AI開發者須自行負責資安",
-            "link": "https://udn.com//news/story/125026/9769246?from=udn-catebreaknews_ch2",
-            "time": "2026-09-22 02:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/21/35350502.jpg&M=1&s=Y&x=0&y=0&sw=1185&sh=791&exp=3600&w=300",
-            "title": "元首峰會習占據有利位置 川普備受牽制",
-            "link": "https://udn.com//news/story/125026/9769242?from=udn-catebreaknews_ch2",
-            "time": "2026-09-22 02:36"
         }
     ]
 }
