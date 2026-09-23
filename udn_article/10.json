@@ -1,6 +1,12 @@
 {
     "評論": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/01/35286585.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "經濟日報社論／台灣AI升級 應補強數據與法制",
+            "link": "https://udn.com//news/story/7338/9774194?from=udn-catebreaknews_ch2",
+            "time": "2026-09-24 02:52"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/24/35358486.jpg&M=1&s=Y&x=98&y=214&sw=941&sh=627&exp=3600&w=300",
             "title": "聯合報黑白集／有一種民調叫「洗腦」",
             "link": "https://udn.com//news/story/7338/9774303?from=udn-catebreaknews_ch2",
@@ -13,21 +19,15 @@
             "time": "2026-09-24 01:21"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_2.jpg&w=300",
             "title": "川普式外交 不是棄台卻標價？",
             "link": "https://udn.com//news/story/7339/9774249?from=udn-catebreaknews_ch2",
             "time": "2026-09-24 00:01"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/23/35358133.jpg&M=1&s=Y&x=0&y=0&sw=1256&sh=837&exp=3600&w=300",
-            "title": "教育部怎失去教師信任",
-            "link": "https://udn.com//news/story/7339/9774157?from=udn-catebreaknews_ch2",
-            "time": "2026-09-24 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/23/35358145.jpg&M=1&s=Y&x=0&y=27&sw=1280&sh=853&exp=3600&w=300",
-            "title": "讀家觀點／在AI時代重讀馬克思",
-            "link": "https://udn.com//news/story/7339/9774164?from=udn-catebreaknews_ch2",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/23/35358241.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "支持教師 應制止濫訴",
+            "link": "https://udn.com//news/story/7339/9774253?from=udn-catebreaknews_ch2",
             "time": "2026-09-24 00:00"
         }
     ]
