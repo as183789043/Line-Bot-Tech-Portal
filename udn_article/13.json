@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/24/35361035.png&M=1&s=Y&x=0&y=9&sw=1047&sh=698&exp=3600&w=300",
+            "title": "Grab收購foodpanda審查倒數 執行長：先協助四餐飲品牌出海",
+            "link": "https://udn.com//news/story/6839/9775767?from=udn-catebreaknews_ch2",
+            "time": "2026-09-24 15:59"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/24/35360952.png&M=1&s=Y&x=0&y=0&sw=915&sh=610&exp=3600&w=300",
+            "title": "謝金河秀數字：鄭主席妳低估台灣了",
+            "link": "https://udn.com//news/story/6839/9775703?from=udn-catebreaknews_ch2",
+            "time": "2026-09-24 15:43"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/23/35355593.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
             "title": "量子電腦 將快速推進人類文明",
             "link": "https://udn.com//news/story/6851/9772635?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "美日升息 台股沙盤推演",
             "link": "https://udn.com//news/story/6851/9772620?from=udn-catebreaknews_ch2",
             "time": "2026-09-23 14:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/23/35356609.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "謝金河：強勢股先行 台股基本面逐漸使力",
-            "link": "https://udn.com//news/story/6851/9772607?from=udn-catebreaknews_ch2",
-            "time": "2026-09-23 14:49"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/23/35355526.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
-            "title": "第二座神山崛起 聯發科母雞帶小雞外溢效應",
-            "link": "https://udn.com//news/story/6851/9772606?from=udn-catebreaknews_ch2",
-            "time": "2026-09-23 14:47"
         }
     ]
 }
