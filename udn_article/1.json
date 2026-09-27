@@ -1,14 +1,20 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
+            "title": "川普與習近平在白宮舉行峰會 陸委會：習想談台灣…未如願",
+            "link": "https://udn.com//news/story/125030/9780532?from=udn-catebreaknews_ch2",
+            "time": "2026-09-28 01:53"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/27/35368468.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "蔣萬安 擁抱五分埔 沈伯洋 萬華訪民團",
+            "title": "蔣萬安擁抱五分埔 沈伯洋萬華訪民團",
             "link": "https://udn.com//news/story/124652/9780598?from=udn-catebreaknews_ch2",
             "time": "2026-09-28 00:26"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/27/35368473.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
-            "title": "連假搶票 吳宗憲設競總 藍白齊站台",
+            "title": "連假搶票…吳宗憲設競總 藍白齊站台",
             "link": "https://udn.com//news/story/124652/9780604?from=udn-catebreaknews_ch2",
             "time": "2026-09-28 00:24"
         },
@@ -19,15 +25,9 @@
             "time": "2026-09-28 00:02"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/27/35368441.jpg&M=1&s=Y&x=0&y=0&sw=1128&sh=752&exp=3600&w=300",
-            "title": "第6屆緊委查案量高？「委託調查」灌水",
-            "link": "https://udn.com//news/story/125037/9780561?from=udn-catebreaknews_ch2",
-            "time": "2026-09-28 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
-            "title": "沒有監委 監院協查研究費照發",
-            "link": "https://udn.com//news/story/125037/9780565?from=udn-catebreaknews_ch2",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/27/35368366.jpg&M=1&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
+            "title": "政見較勁…柯志恩推演唱會經濟 賴瑞隆主打教育",
+            "link": "https://udn.com//news/story/124652/9780478?from=udn-catebreaknews_ch2",
             "time": "2026-09-28 00:00"
         }
     ]
