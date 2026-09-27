@@ -1,7 +1,19 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/28/35368567.png&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
+            "title": "從川習會到監委人事 賴政府看不到的危機",
+            "link": "https://udn.com//news/story/6656/9780706?from=udn-catebreaknews_ch2",
+            "time": "2026-09-28 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/27/35368492.png&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
+            "title": "給教育施政2.37分 圖解教師之怒、校事會議改革5大期待",
+            "link": "https://udn.com//news/story/7314/9780705?from=udn-catebreaknews_ch2",
+            "time": "2026-09-28 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_3.jpg&w=300",
             "title": "川普與習近平在白宮舉行峰會 陸委會：習想談台灣…未如願",
             "link": "https://udn.com//news/story/125030/9780532?from=udn-catebreaknews_ch2",
             "time": "2026-09-28 01:53"
@@ -17,18 +29,6 @@
             "title": "連假搶票…吳宗憲設競總 藍白齊站台",
             "link": "https://udn.com//news/story/124652/9780604?from=udn-catebreaknews_ch2",
             "time": "2026-09-28 00:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/26/35365977.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "歷史上的今天／奉獻幼教逾53年 1959年教師張素梅獲獎",
-            "link": "https://udn.com//news/story/7314/9780638?from=udn-catebreaknews_ch2",
-            "time": "2026-09-28 00:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/27/35368366.jpg&M=1&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "政見較勁…柯志恩推演唱會經濟 賴瑞隆主打教育",
-            "link": "https://udn.com//news/story/124652/9780478?from=udn-catebreaknews_ch2",
-            "time": "2026-09-28 00:00"
         }
     ]
 }
