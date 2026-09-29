@@ -1,6 +1,24 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/30/35374418.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "今晴熱飆36度高溫周五恐變天 彩雲颱風將生成 吳德榮曝侵台機率",
+            "link": "https://udn.com//news/story/7266/9784665?from=udn-catebreaknews_ch2",
+            "time": "2026-09-30 05:15"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/30/35374411.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
+            "title": "秋老虎要掰了？ 周末起天氣南北兩樣情 北東將急轉深秋大降溫",
+            "link": "https://udn.com//news/story/7266/9784657?from=udn-catebreaknews_ch2",
+            "time": "2026-09-30 04:51"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/30/35374309.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "獨撐十餘年 她從照顧者變照服員",
+            "link": "https://udn.com//news/story/7266/9784561?from=udn-catebreaknews_ch2",
+            "time": "2026-09-30 02:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/30/35374261.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "吃漢堡排也能補蛋白質！肉的長谷川×戰神MARS「4款聯名套餐」新上桌",
             "link": "https://udn.com//news/story/7270/9784600?from=udn-catebreaknews_ch2",
@@ -8,27 +26,9 @@
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/29/35374187.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "防疫整備 疫苗韌性 自製採購不求人",
+            "title": "防疫整備…疫苗韌性 自製採購不求人",
             "link": "https://udn.com//news/story/7266/9784555?from=udn-catebreaknews_ch2",
             "time": "2026-09-30 00:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/29/35374191.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "長照喘息 家照據點伸援 照顧者不孤單",
-            "link": "https://udn.com//news/story/7266/9784559?from=udn-catebreaknews_ch2",
-            "time": "2026-09-30 00:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/30/35374248.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "楊瓊瓔：疫苗主權是守護經濟的保險單",
-            "link": "https://udn.com//news/story/7266/9784556?from=udn-catebreaknews_ch2",
-            "time": "2026-09-30 00:10"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/29/35374081.jpg&M=1&s=Y&x=0&y=0&sw=883&sh=589&exp=3600&w=300",
-            "title": "未減反增 毒駕奪命 「單月增至7人」",
-            "link": "https://udn.com//news/story/7266/9784392?from=udn-catebreaknews_ch2",
-            "time": "2026-09-30 00:04"
         }
     ]
 }
