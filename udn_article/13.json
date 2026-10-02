@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/02/35382196.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "少160萬工作人口，誰來顧？台灣長照得轉「自立照護」",
+            "link": "https://udn.com//news/story/6837/9789862?from=udn-catebreaknews_ch2",
+            "time": "2026-10-02 10:17"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/02/35382206.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "250萬人下載Muse暴紅背後 AI代理人暴增，真贏家是資安",
+            "link": "https://udn.com//news/story/6837/9789858?from=udn-catebreaknews_ch2",
+            "time": "2026-10-02 10:17"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/01/35380248.jpg&M=1&s=Y&x=189&y=0&sw=938&sh=625&exp=3600&w=300",
             "title": "低軌+800G交換器雙利多潛力股",
             "link": "https://udn.com//news/story/6850/9788204?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "石英晶體漲價受惠股：晶技",
             "link": "https://udn.com//news/story/6850/9788214?from=udn-catebreaknews_ch2",
             "time": "2026-10-01 15:01"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/01/35380232.jpg&M=1&s=Y&x=185&y=0&sw=938&sh=625&exp=3600&w=300",
-            "title": "昇陽半導體：再生晶圓新需求A16晶背供電",
-            "link": "https://udn.com//news/story/6850/9788215?from=udn-catebreaknews_ch2",
-            "time": "2026-10-01 15:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/01/35380225.jpg&M=1&s=Y&x=243&y=0&sw=939&sh=626&exp=3600&w=300",
-            "title": "艾瑪斯AMAX轉型AI工廠 股價長線坐四望六",
-            "link": "https://udn.com//news/story/6850/9788223?from=udn-catebreaknews_ch2",
-            "time": "2026-10-01 15:00"
         }
     ]
 }
