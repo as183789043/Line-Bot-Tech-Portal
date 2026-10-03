@@ -1,13 +1,19 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "title": "精測營收／受惠 AI 測試需求暢旺 9月6.52億元再次攻頂",
+            "link": "https://udn.com//news/story/7252/9792454?from=udn-catebreaknews_ch2",
+            "time": "2026-10-03 13:42"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/24/35359668.jpg&M=1&s=Y&x=154&y=0&sw=1126&sh=750&exp=3600&w=300",
             "title": "台股啟動光輝十月行情 台指期夜盤一度突破49,000關卡",
             "link": "https://udn.com//news/story/7251/9791709?from=udn-catebreaknews_ch2",
             "time": "2026-10-03 02:55"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
             "title": "散戶追價 融資餘額連11增",
             "link": "https://udn.com//news/story/7251/9791719?from=udn-catebreaknews_ch2",
             "time": "2026-10-03 02:53"
@@ -19,16 +25,10 @@
             "time": "2026-10-03 02:43"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_5.jpg&w=300",
             "title": "光寶砸88億 加碼高雄",
             "link": "https://udn.com//news/story/7252/9791727?from=udn-catebreaknews_ch2",
             "time": "2026-10-03 02:40"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/02/35385263.png&M=1&s=Y&x=46&y=0&sw=995&sh=663&exp=3600&w=300",
-            "title": "崇越、環球晶 四檔夯",
-            "link": "https://udn.com//news/story/7255/9791493?from=udn-catebreaknews_ch2",
-            "time": "2026-10-03 00:57"
         }
     ]
 }
