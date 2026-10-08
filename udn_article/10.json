@@ -1,6 +1,12 @@
 {
     "評論": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/18/34958616.jpg&M=1&s=Y&x=0&y=20&sw=1280&sh=854&exp=3600&w=300",
+            "title": "經濟日報社論／Agent改寫賽局 台灣不能只賣硬體",
+            "link": "https://udn.com//news/story/7338/9804048?from=udn-catebreaknews_ch2",
+            "time": "2026-10-09 02:35"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/09/35404407.jpg&M=1&s=Y&x=0&y=33&sw=1230&sh=819&exp=3600&w=300",
             "title": "聯合報黑白集／政治口號像香菜",
             "link": "https://udn.com//news/story/7338/9804149?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "政務官風骨 藍綠不一般",
             "link": "https://udn.com//news/story/7339/9804049?from=udn-catebreaknews_ch2",
             "time": "2026-10-09 00:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6643_2.jpg&w=300",
-            "title": "劉大年／高利率下 如何投資未來？",
-            "link": "https://udn.com//news/story/7340/9804053?from=udn-catebreaknews_ch2",
-            "time": "2026-10-09 00:02"
         }
     ]
 }
