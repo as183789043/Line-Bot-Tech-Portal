@@ -1,6 +1,12 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/10/35407949.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "從在地促銷到行銷全球 台中購物節邁向國際化城市品牌",
+            "link": "https://udn.com//news/story/7241/9806391?from=udn-catebreaknews_ch2",
+            "time": "2026-10-10 13:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/09/35406353.jpg&M=1&s=Y&x=0&y=0&sw=1222&sh=815&exp=3600&w=300",
             "title": "海外投資課稅 3情境、補稅算法一次看懂",
             "link": "https://udn.com//news/story/121591/9805825?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2026-10-10 02:34"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_6.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_9.jpg&w=300",
             "title": "迎接AI伺服器與資料中心客戶強勁需求 台達電、康舒加碼資本支出",
             "link": "https://udn.com//news/story/7240/9805564?from=udn-catebreaknews_ch2",
             "time": "2026-10-10 02:29"
@@ -23,12 +29,6 @@
             "title": "塑化產業進入「金九銀十」傳統旺季 台塑提防兩變數",
             "link": "https://udn.com//news/story/7241/9805635?from=udn-catebreaknews_ch2",
             "time": "2026-10-10 02:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_9.jpg&w=300",
-            "title": "塑化業Q4多重變數 業者調產能、攻利基產品",
-            "link": "https://udn.com//news/story/7241/9805636?from=udn-catebreaknews_ch2",
-            "time": "2026-10-10 02:14"
         }
     ]
 }
