@@ -1,7 +1,19 @@
 {
     "生活": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_6.jpg&w=300",
+            "title": "【生活的風景】水姑娘／走得動的時候，就出發",
+            "link": "https://udn.com//news/story/7272/9808419?from=udn-catebreaknews_ch2",
+            "time": "2026-10-12 02:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/08/35403242.png&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "【移動的書房：駐村作家筆記】凌明玉／你說，五島到底有什麼？（下）",
+            "link": "https://udn.com//news/story/7272/9803341?from=udn-catebreaknews_ch2",
+            "time": "2026-10-12 01:55"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_5.jpg&w=300",
             "title": "【日常辯證】小敏／別被退休開支打九折的樂觀神話給騙了",
             "link": "https://udn.com//news/story/7272/9800801?from=udn-catebreaknews_ch2",
             "time": "2026-10-12 00:00"
@@ -16,18 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/08/35403192.png&M=1&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600&w=300",
             "title": "【移動的書房：駐村作家筆記】張曼娟／一級一級往上爬",
             "link": "https://udn.com//news/story/7272/9803315?from=udn-catebreaknews_ch2",
-            "time": "2026-10-12 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/11/35410582.jpg&M=1&s=Y&x=0&y=0&sw=1107&sh=738&exp=3600&w=300",
-            "title": "健康你我他／健康數據異常 AI提供系統化資訊",
-            "link": "https://udn.com//news/story/7266/9808112?from=udn-catebreaknews_ch2",
-            "time": "2026-10-12 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_8.jpg&w=300",
-            "title": "春綻京都 住進櫻花林",
-            "link": "https://udn.com//news/story/7266/9808208?from=udn-catebreaknews_ch2",
             "time": "2026-10-12 00:00"
         }
     ]

@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/11/35409867.jpg&M=1&s=Y&x=66&y=0&sw=1081&sh=721&exp=3600&w=300",
+            "title": "金門縣長「一藍對六無黨」 選戰關鍵在第二名之爭？",
+            "link": "https://udn.com//news/story/6656/9808451?from=udn-catebreaknews_ch2",
+            "time": "2026-10-12 05:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/12/35410868.png&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
             "title": "脫稿演出？韓國瑜的國慶談話透露哪些訊息",
             "link": "https://udn.com//news/story/6656/9808410?from=udn-catebreaknews_ch2",
@@ -13,8 +19,8 @@
             "time": "2026-10-12 00:35"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/12/35410853.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "高屏同心看板爭議 賴瑞隆 柯志恩互槓",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/12/35410853.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "高屏同心看板爭議 賴瑞隆、 柯志恩互槓",
             "link": "https://udn.com//news/story/124652/9808379?from=udn-catebreaknews_ch2",
             "time": "2026-10-12 00:11"
         },
@@ -23,12 +29,6 @@
             "title": "劉建國拚雲林動起來 張嘉郡工商巨頭力挺",
             "link": "https://udn.com//news/story/124652/9808381?from=udn-catebreaknews_ch2",
             "time": "2026-10-12 00:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/11/35410818.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
-            "title": "南市陸戰 陳亭妃大咖聚競總 謝龍介母雞帶小雞",
-            "link": "https://udn.com//news/story/124652/9808377?from=udn-catebreaknews_ch2",
-            "time": "2026-10-12 00:06"
         }
     ]
 }
