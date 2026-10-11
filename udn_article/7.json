@@ -1,6 +1,24 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/11/35410744.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "大盤融資餘額創高 散戶、主力猛開槓桿",
+            "link": "https://udn.com//news/story/7251/9808279?from=udn-catebreaknews_ch2",
+            "time": "2026-10-12 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/11/35410815.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "台股火熱 ETF連發 申購先看投資標的",
+            "link": "https://udn.com//news/story/123006/9808271?from=udn-catebreaknews_ch2",
+            "time": "2026-10-12 00:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/11/35410652.jpg&M=1&s=Y&x=0&y=57&sw=1280&sh=853&exp=3600&w=300",
+            "title": "留意五風險！高盛：大立光FAU占比將提升 目標價震撼上看11,000 元",
+            "link": "https://udn.com//news/story/7252/9808162?from=udn-catebreaknews_ch2",
+            "time": "2026-10-11 21:46"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/11/35410365.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "雙十連假後買什麼？16檔營收三增股出列 法人先卡位",
             "link": "https://udn.com//news/story/7251/9807933?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "領錢了！台股本周21檔ETF發放股利共421億 00919配發207.8億最多",
             "link": "https://udn.com//news/story/123006/9807785?from=udn-catebreaknews_ch2",
             "time": "2026-10-11 16:23"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/11/35409975.jpg&M=1&s=Y&x=62&y=0&sw=1218&sh=812&exp=3600&w=300",
-            "title": "台股內外環境有利 法人：整數關卡不是終點",
-            "link": "https://udn.com//news/story/7251/9807772?from=udn-catebreaknews_ch2",
-            "time": "2026-10-11 16:11"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/11/35409816.jpg&M=1&s=Y&x=0&y=0&sw=378&sh=252&exp=3600&w=300",
-            "title": "主動式ETF上周TOP 10加碼傳產股高達八檔 電子僅加碼這兩檔",
-            "link": "https://udn.com//news/story/123006/9807675?from=udn-catebreaknews_ch2",
-            "time": "2026-10-11 14:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/11/35409815.jpg&M=1&s=Y&x=0&y=0&sw=576&sh=384&exp=3600&w=300",
-            "title": "上周三大法人買超ETF前十大七檔主動式 第一名有45.9萬張",
-            "link": "https://udn.com//news/story/123006/9807673?from=udn-catebreaknews_ch2",
-            "time": "2026-10-11 14:32"
         }
     ]
 }
