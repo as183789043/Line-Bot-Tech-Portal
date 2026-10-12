@@ -1,6 +1,12 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/10/35408526.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "量子國家隊升級國際隊 專家看好台廠技術再領先50年",
+            "link": "https://udn.com//news/story/7238/9808493?from=udn-catebreaknews_ch2",
+            "time": "2026-10-12 07:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/11/35410742.jpg&M=1&s=Y&x=0&y=0&sw=1227&sh=818&exp=3600&w=300",
             "title": "科技論壇後天登場 玉山金科技長張智星：AI 助金融業強化韌性",
             "link": "https://udn.com//news/story/7241/9808272?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2026-10-12 02:16"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_5.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_0.jpg&w=300",
             "title": "化學品供應鏈赴美布局 三大挑戰",
             "link": "https://udn.com//news/story/7240/9808222?from=udn-catebreaknews_ch2",
             "time": "2026-10-12 02:13"
@@ -23,12 +29,6 @@
             "title": "輝達衝刺機器人加碼投資新創Figure所羅門、廣運、台達電等沾光",
             "link": "https://udn.com//news/story/7240/9808220?from=udn-catebreaknews_ch2",
             "time": "2026-10-12 02:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_3.jpg&w=300",
-            "title": "馬斯克也衝刺機器人 盟立、亞光補",
-            "link": "https://udn.com//news/story/7240/9808224?from=udn-catebreaknews_ch2",
-            "time": "2026-10-12 02:04"
         }
     ]
 }
