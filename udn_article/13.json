@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/16/35425372.jpg&M=1&s=Y&x=106&y=0&sw=678&sh=452&exp=3600&w=300",
+            "title": "別再想100％防堵了！駭客只靠「聊天」就能哄騙你的AI",
+            "link": "https://udn.com//news/story/6837/9818181?from=udn-catebreaknews_ch2",
+            "time": "2026-10-16 08:42"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/16/35425370.jpg&M=1&s=Y&x=114&y=0&sw=678&sh=452&exp=3600&w=300",
+            "title": "僅成立4年的散熱新創 如何打入緯創、輝達資料中心？",
+            "link": "https://udn.com//news/story/6837/9818179?from=udn-catebreaknews_ch2",
+            "time": "2026-10-16 08:41"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/15/35423481.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=853&exp=3600&w=300",
             "title": "謝金河直擊Network X 2026 揭聯發科挑戰博通「秘密武器」",
             "link": "https://udn.com//news/story/6839/9816777?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "瑞典2萬名雙胞胎研究 螢幕時間不是青少年憂鬱主因",
             "link": "https://udn.com//news/story/6897/9816089?from=udn-catebreaknews_ch2",
             "time": "2026-10-15 14:44"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/15/35423370.png&M=1&s=Y&x=186&y=0&sw=938&sh=625&exp=3600&w=300",
-            "title": "MLCC漲價及擴產雙成長股",
-            "link": "https://udn.com//news/story/6850/9816539?from=udn-catebreaknews_ch2",
-            "time": "2026-10-15 14:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/15/35423367.jpg&M=1&s=Y&x=193&y=0&sw=938&sh=626&exp=3600&w=300",
-            "title": "臻鼎-KY挑戰750元",
-            "link": "https://udn.com//news/story/6850/9816550?from=udn-catebreaknews_ch2",
-            "time": "2026-10-15 14:23"
         }
     ]
 }
