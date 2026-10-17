@@ -1,18 +1,6 @@
 {
     "股市": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_4.jpg&w=300",
-            "title": "高殖利率提供下檔保護 法人喊買貨櫃三雄",
-            "link": "https://udn.com//news/story/7251/9820864?from=udn-catebreaknews_ch2",
-            "time": "2026-10-17 14:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
-            "title": "半導體股9月營收仍旺 法人優選台積電等11檔",
-            "link": "https://udn.com//news/story/7252/9820823?from=udn-catebreaknews_ch2",
-            "time": "2026-10-17 13:47"
-        },
-        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/15/35421950.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
             "title": "法說會後外資力挺 台積目標價5,000元創內外資最高價位",
             "link": "https://udn.com//news/story/7251/9820087?from=udn-catebreaknews_ch2",
@@ -25,10 +13,22 @@
             "time": "2026-10-17 02:43"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_0.jpg&w=300",
             "title": "內資護持 指數重返47K",
             "link": "https://udn.com//news/story/7251/9820028?from=udn-catebreaknews_ch2",
             "time": "2026-10-17 02:41"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/28/35370260.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "台股何時大反攻…盯五訊號",
+            "link": "https://udn.com//news/story/7251/9820030?from=udn-catebreaknews_ch2",
+            "time": "2026-10-17 02:39"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_6.jpg&w=300",
+            "title": "全球傳動催動五引擎",
+            "link": "https://udn.com//news/story/7252/9819847?from=udn-catebreaknews_ch2",
+            "time": "2026-10-17 00:59"
         }
     ]
 }
