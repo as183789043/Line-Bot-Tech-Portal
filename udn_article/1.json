@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/17/35428789.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "65歲免健費醫界批 柯文哲：身為醫生 醫療是普世價值 不應有地域之別",
+            "link": "https://udn.com//news/story/6656/9820389?from=udn-catebreaknews_ch2",
+            "time": "2026-10-17 09:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/17/35428522.png&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
             "title": "從松山機場到老人健保免費 選舉真是照妖鏡",
             "link": "https://udn.com//news/story/6656/9820292?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "65歲長者免健保費立院三讀 政院表遺憾：將採合法合憲因應作為",
             "link": "https://udn.com//news/story/6656/9820106?from=udn-catebreaknews_ch2",
             "time": "2026-10-17 02:09"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/17/35428595.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=853&exp=3600&w=300",
-            "title": "65歲長者免健保費 衛福部：每人一年多付3,000元",
-            "link": "https://udn.com//news/story/6656/9820108?from=udn-catebreaknews_ch2",
-            "time": "2026-10-17 01:59"
         }
     ]
 }
