@@ -1,6 +1,12 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
+            "title": "賴清德總統：推動「健康台灣」 三大目標",
+            "link": "https://udn.com//news/story/6656/9822775?from=udn-catebreaknews_ch2",
+            "time": "2026-10-19 01:48"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/18/35432726.jpg&M=1&s=Y&x=1&y=61&sw=1279&sh=853&exp=3600&w=300",
             "title": "彰化頭家心聲／要讓遊客一來再來",
             "link": "https://udn.com//news/story/124652/9822883?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "彰化頭家心聲／改善就業留住青年",
             "link": "https://udn.com//news/story/124652/9822879?from=udn-catebreaknews_ch2",
             "time": "2026-10-19 00:12"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_3.jpg&w=300",
-            "title": "傳產大縣 彰化最盼產業升級、加薪",
-            "link": "https://udn.com//news/story/124652/9822854?from=udn-catebreaknews_ch2",
-            "time": "2026-10-19 00:11"
         }
     ]
 }
