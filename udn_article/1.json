@@ -1,7 +1,19 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/19/35432838.png&M=1&s=Y&x=0&y=0&sw=799&sh=533&exp=3600&w=300",
+            "title": "請沈伯洋等10綠委回答：當選後會取消老人免健保費嗎？",
+            "link": "https://udn.com//news/story/124652/9822975?from=udn-catebreaknews_ch2",
+            "time": "2026-10-19 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/18/35431730.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "賴清德親征雲林！綠營大咖壓境 藍營張家軍以靜制動",
+            "link": "https://udn.com//news/story/124652/9822967?from=udn-catebreaknews_ch2",
+            "time": "2026-10-19 05:00"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_5.jpg&w=300",
             "title": "賴清德總統：推動「健康台灣」 三大目標",
             "link": "https://udn.com//news/story/6656/9822775?from=udn-catebreaknews_ch2",
             "time": "2026-10-19 01:48"
@@ -17,18 +29,6 @@
             "title": "彰化頭家心聲／設農產品銷售窗口",
             "link": "https://udn.com//news/story/124652/9822882?from=udn-catebreaknews_ch2",
             "time": "2026-10-19 00:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/18/35432723.jpg&M=2&s=Y&x=0&y=199&sw=1280&sh=854&exp=3600&w=300",
-            "title": "彰化頭家心聲／社安網須加強聯繫",
-            "link": "https://udn.com//news/story/124652/9822881?from=udn-catebreaknews_ch2",
-            "time": "2026-10-19 00:13"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/18/35432719.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "彰化頭家心聲／改善就業留住青年",
-            "link": "https://udn.com//news/story/124652/9822879?from=udn-catebreaknews_ch2",
-            "time": "2026-10-19 00:12"
         }
     ]
 }
