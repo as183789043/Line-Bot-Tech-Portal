@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/19/35433350.jpg&M=1&s=Y&x=141&y=0&sw=930&sh=620&exp=3600&w=300",
+            "title": "寫在2026兒童古典音樂節之後",
+            "link": "https://udn.com//news/story/11184/9823268?from=udn-catebreaknews_ch2",
+            "time": "2026-10-19 12:34"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/19/35433386.jpg&M=1&s=Y&x=114&y=0&sw=930&sh=620&exp=3600&w=300",
+            "title": "甘迺迪中心撤除大量鋼琴 疑似實質閉館",
+            "link": "https://udn.com//news/story/11184/9823303?from=udn-catebreaknews_ch2",
+            "time": "2026-10-19 12:34"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/15/35423791.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
             "title": "蘇姿丰vs.黃仁勳 AI機櫃戰 台鏈受惠股",
             "link": "https://udn.com//news/story/6848/9816987?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "AI CPU接棒GPU？高盛點名四大半導體新機會",
             "link": "https://udn.com//news/story/6848/9817006?from=udn-catebreaknews_ch2",
             "time": "2026-10-19 07:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/15/35423857.jpg&M=1&s=Y&x=0&y=150&sw=531&sh=354&exp=3600&w=300",
-            "title": "知識×時間複利 打造財富方程式",
-            "link": "https://udn.com//news/story/6848/9817025?from=udn-catebreaknews_ch2",
-            "time": "2026-10-19 07:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/16/35425988.jpg&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
-            "title": "豪宅、私校與生活升級吞噬高薪 高盛：高薪月光族比例高",
-            "link": "https://udn.com//news/story/6897/9818518?from=udn-catebreaknews_ch2",
-            "time": "2026-10-18 12:27"
         }
     ]
 }
