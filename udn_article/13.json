@@ -1,6 +1,24 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/20/35438275.jpg&M=1&s=Y&x=0&y=51&sw=1280&sh=853&exp=3600&w=300",
+            "title": "謝金河訪千年小鎮 登上廢墟古堡 多瑙河美景盡收眼底",
+            "link": "https://udn.com//news/story/6839/9826339?from=udn-catebreaknews_ch2",
+            "time": "2026-10-20 15:02"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/20/35438080.png&M=1&s=Y&x=0&y=0&sw=709&sh=473&exp=3600&w=300",
+            "title": "「安全特級鮮蛋」驗出禁藥 乃卡巴精高劑量恐傷腎",
+            "link": "https://udn.com//news/story/6839/9826259?from=udn-catebreaknews_ch2",
+            "time": "2026-10-20 14:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/20/35437972.jpg&M=1&s=Y&x=76&y=108&sw=1124&sh=750&exp=3600&w=300",
+            "title": "特斯拉新跑車Roadster展現飛行、空中翻滾炫技　分析師：無商業價值",
+            "link": "https://udn.com//news/story/6841/9826190?from=udn-catebreaknews_ch2",
+            "time": "2026-10-20 14:07"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/19/35435060.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "Global Mall板橋餐飲成績嚇嚇叫 左營成黑馬…周年慶最高回饋22%",
             "link": "https://udn.com//news/story/6839/9824200?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "雙方互信、共同成長 輝達與台積電合作30年不靠鐵約 連馬斯克都讚賞",
             "link": "https://udn.com//news/story/6839/9824178?from=udn-catebreaknews_ch2",
             "time": "2026-10-19 15:54"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/19/35434895.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "美軍新創採購要從1%衝到50% 國防創新DIU推手：台灣公司也有機會拿合約",
-            "link": "https://udn.com//news/story/6841/9824100?from=udn-catebreaknews_ch2",
-            "time": "2026-10-19 15:26"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/19/35434727.jpg&M=1&s=Y&x=0&y=0&sw=1260&sh=840&exp=3600&w=300",
-            "title": "僅45%台灣人滿意民主現況！國會直播成仇恨誘餌 如何扭轉極化政治？",
-            "link": "https://udn.com//news/story/6841/9824080?from=udn-catebreaknews_ch2",
-            "time": "2026-10-19 15:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/19/35433350.jpg&M=1&s=Y&x=141&y=0&sw=930&sh=620&exp=3600&w=300",
-            "title": "寫在2026兒童古典音樂節之後",
-            "link": "https://udn.com//news/story/11184/9823268?from=udn-catebreaknews_ch2",
-            "time": "2026-10-19 12:34"
         }
     ]
 }
