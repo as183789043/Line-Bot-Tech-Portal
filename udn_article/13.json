@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/20/35438132.jpg&M=1&s=Y&x=0&y=0&sw=624&sh=416&exp=3600&w=300",
+            "title": "跳槽加薪紅利縮水 美國企業更愛中年人",
+            "link": "https://udn.com//news/story/6897/9826304?from=udn-catebreaknews_ch2",
+            "time": "2026-10-20 15:30"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/20/35438275.jpg&M=1&s=Y&x=0&y=51&sw=1280&sh=853&exp=3600&w=300",
             "title": "謝金河訪千年小鎮 登上廢墟古堡 多瑙河美景盡收眼底",
             "link": "https://udn.com//news/story/6839/9826339?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "Global Mall板橋餐飲成績嚇嚇叫 左營成黑馬…周年慶最高回饋22%",
             "link": "https://udn.com//news/story/6839/9824200?from=udn-catebreaknews_ch2",
             "time": "2026-10-19 16:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/19/35435017.jpg&M=1&s=Y&x=0&y=40&sw=1140&sh=760&exp=3600&w=300",
-            "title": "雙方互信、共同成長 輝達與台積電合作30年不靠鐵約 連馬斯克都讚賞",
-            "link": "https://udn.com//news/story/6839/9824178?from=udn-catebreaknews_ch2",
-            "time": "2026-10-19 15:54"
         }
     ]
 }
