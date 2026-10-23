@@ -1,6 +1,18 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35449758.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "颱風假股市不休市？金管會曝研議進度 金融業出勤安全成爭議",
+            "link": "https://udn.com//news/story/12806/9834283?from=udn-catebreaknews_ch2",
+            "time": "2026-10-24 01:08"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/23/35449437.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
+            "title": "聯茂9月淨利12.86億元單月賺3.54元 獲利超越第2季",
+            "link": "https://udn.com//news/story/7252/9833967?from=udn-catebreaknews_ch2",
+            "time": "2026-10-23 21:04"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/12/35413219.png&M=1&s=Y&x=0&y=0&sw=627&sh=418&exp=3600&w=300",
             "title": "伯恩斯坦點將台灣AI股 台達電列首選、欣興目標價升28%",
             "link": "https://udn.com//news/story/7251/9833834?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "互動財報／前3季每股純益5.94元 賺贏2025年全年",
             "link": "https://udn.com//news/story/7252/9833747?from=udn-catebreaknews_ch2",
             "time": "2026-10-23 17:56"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/11/04/98/33570078.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "長廣獲利／9月自結稅後純益6,800萬元、EPS 0.86元 單月賺贏前一季",
-            "link": "https://udn.com//news/story/7252/9833745?from=udn-catebreaknews_ch2",
-            "time": "2026-10-23 17:55"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/16/35428290.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "資金持續自高成長股抽離 法人點名金融股有這兩大優勢",
-            "link": "https://udn.com//news/story/10103/9833565?from=udn-catebreaknews_ch2",
-            "time": "2026-10-23 16:02"
         }
     ]
 }
