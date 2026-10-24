@@ -1,6 +1,12 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/23/35447516.jpg&M=1&s=Y&x=0&y=0&sw=579&sh=386&exp=3600&w=300",
+            "title": "孩子數學不好不是不會算 研究揭兩大關鍵能力",
+            "link": "https://udn.com//news/story/6897/9832795?from=udn-catebreaknews_ch2",
+            "time": "2026-10-24 15:20"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/23/35447469.jpg&M=1&s=Y&x=84&y=0&sw=678&sh=452&exp=3600&w=300",
             "title": "公司曾連虧15年、慘到做垃圾桶，王永慶外孫的光通訊之戰",
             "link": "https://udn.com//news/story/6837/9832764?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "美吾華上半年獲利增近2成 用超聲波助提升製程 安克拚打入半導體供應鏈",
             "link": "https://udn.com//news/story/6839/9831171?from=udn-catebreaknews_ch2",
             "time": "2026-10-22 14:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/22/35445277.jpg&M=1&s=Y&x=189&y=0&sw=938&sh=625&exp=3600&w=300",
-            "title": "AM旺季+台幣貶大成長股：東陽",
-            "link": "https://udn.com//news/story/6850/9831093?from=udn-catebreaknews_ch2",
-            "time": "2026-10-22 14:27"
         }
     ]
 }
