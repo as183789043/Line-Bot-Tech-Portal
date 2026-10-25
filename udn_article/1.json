@@ -1,16 +1,22 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35451824.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "視察災後遭青鳥轟擺拍…陳冠安批：抹黑攻擊就是為打垮蔣萬安",
+            "link": "https://udn.com//news/story/124652/9835727?from=udn-catebreaknews_ch2",
+            "time": "2026-10-25 08:45"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/23/35448853.jpg&M=1&s=Y&x=0&y=0&sw=1275&sh=850&exp=3600&w=300",
+            "title": "蔣經國日記／抓壯丁、歧視打罵 胡璉金門反共神話破滅",
+            "link": "https://udn.com//news/story/10930/9835699?from=udn-catebreaknews_ch2",
+            "time": "2026-10-25 07:31"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35451753.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "【專家之眼】「洋流」是國家機器造神下的亂流？",
             "link": "https://udn.com//news/story/124652/9835677?from=udn-catebreaknews_ch2",
             "time": "2026-10-25 06:42"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35451438.png&M=1&s=Y&x=0&y=0&sw=800&sh=533&exp=3600&w=300",
-            "title": "圖解十大死因前3名 偷走國人多少壽命",
-            "link": "https://udn.com//news/story/7314/9835639?from=udn-catebreaknews_ch2",
-            "time": "2026-10-25 05:51"
         },
         {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35451617.png&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
@@ -19,16 +25,10 @@
             "time": "2026-10-25 05:50"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_2.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_8.jpg&w=300",
             "title": "選戰倒數策略…李四川強固陸戰 蘇巧慧勤跑基層",
             "link": "https://udn.com//news/story/124652/9835433?from=udn-catebreaknews_ch2",
             "time": "2026-10-25 00:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35451606.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
-            "title": "洋流衝擊…北市藍綠小雞不懼對決 謹慎應戰",
-            "link": "https://udn.com//news/story/124652/9835427?from=udn-catebreaknews_ch2",
-            "time": "2026-10-25 00:23"
         }
     ]
 }
