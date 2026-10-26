@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/05/13/34942764.jpg&M=1&s=Y&x=0&y=25&sw=1280&sh=853&exp=3600&w=300",
+            "title": "鴻海、NVIDIA 合作多點開花 五大成果秀硬實力",
+            "link": "https://udn.com//news/story/7240/9837257?from=udn-catebreaknews_ch2",
+            "time": "2026-10-26 10:39"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35450529.jpg&M=2&s=Y&x=0&y=0&sw=1280&sh=834&exp=3600&w=300",
+            "title": "簡立峰專欄／硬體供需失衡釀AI通膨 台灣須防泡沫風險",
+            "link": "https://udn.com//news/story/7238/9837117?from=udn-catebreaknews_ch2",
+            "time": "2026-10-26 09:02"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/24/35451260.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
             "title": "AI幫你比價下單 「代理人經濟」改寫零售遊戲規則",
             "link": "https://udn.com//news/story/7238/9837027?from=udn-catebreaknews_ch2",
@@ -13,21 +25,9 @@
             "time": "2026-10-26 01:53"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_4.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_2.jpg&w=300",
             "title": "富豪擁抱保單 占比連五月走揚",
             "link": "https://udn.com//news/story/7239/9836760?from=udn-catebreaknews_ch2",
-            "time": "2026-10-26 01:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/22/35446935.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "晶片業財報掀牌 關鍵48小時",
-            "link": "https://udn.com//news/story/7240/9836750?from=udn-catebreaknews_ch2",
-            "time": "2026-10-26 01:50"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_6.jpg&w=300",
-            "title": "富豪購屋版圖 擴向蛋白區",
-            "link": "https://udn.com//news/story/7241/9836769?from=udn-catebreaknews_ch2",
             "time": "2026-10-26 01:50"
         }
     ]
