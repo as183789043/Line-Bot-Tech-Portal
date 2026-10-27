@@ -1,9 +1,21 @@
 {
     "要聞": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35454145.jpg&M=1&s=Y&x=0&y=0&sw=762&sh=508&exp=3600&w=300",
+            "title": "陸軍偷漁船攜械叛逃大陸 1950年烏坵喋血槍戰檔案解密",
+            "link": "https://udn.com//news/story/10930/9838734?from=udn-catebreaknews_ch2",
+            "time": "2026-10-27 07:31"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35456080.png&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
+            "title": "反攻的蔣萬安 吊詭的北市選舉",
+            "link": "https://udn.com//news/story/124652/9838669?from=udn-catebreaknews_ch2",
+            "time": "2026-10-27 05:50"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35454248.jpg&M=1&s=Y&x=0&y=0&sw=960&sh=640&exp=3600&w=300",
             "title": "屏東8鄉鎮上演「前任回鍋戰」　派系內鬥藏政治盤算？",
-            "link": "https://udn.com//news/story/6656/9838662?from=udn-catebreaknews_ch2",
+            "link": "https://udn.com//news/story/124652/9838662?from=udn-catebreaknews_ch2",
             "time": "2026-10-27 05:01"
         },
         {
@@ -17,18 +29,6 @@
             "title": "民航轉向…繼華航後 長榮也飛俄羅斯航路",
             "link": "https://udn.com//news/story/7314/9838490?from=udn-catebreaknews_ch2",
             "time": "2026-10-27 00:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/27/35456377.jpg&M=1&s=Y&x=0&y=0&sw=1194&sh=796&exp=3600&w=300",
-            "title": "觀察站／華航打頭陣飛俄航路 為政策轉彎而飛？",
-            "link": "https://udn.com//news/story/7314/9838493?from=udn-catebreaknews_ch2",
-            "time": "2026-10-27 00:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/27/35456365.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "民航飛俄航路 專家：政府看到川普製裁俄國鬆動風向",
-            "link": "https://udn.com//news/story/7314/9838496?from=udn-catebreaknews_ch2",
-            "time": "2026-10-27 00:02"
         }
     ]
 }
