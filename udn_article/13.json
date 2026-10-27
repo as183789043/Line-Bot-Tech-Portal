@@ -1,6 +1,24 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/27/35458184.jpg&M=1&s=Y&x=224&y=46&sw=1056&sh=704&exp=3600&w=300",
+            "title": "沒時間研究個股？看看巴菲特的6個投資建議：別再忙著選飆股",
+            "link": "https://udn.com//news/story/6841/9839682?from=udn-catebreaknews_ch2",
+            "time": "2026-10-27 13:40"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/27/35457008.jpg&M=1&s=Y&x=0&y=0&sw=864&sh=576&exp=3600&w=300",
+            "title": "疾病陰影下 鮮花綻放－《蕭邦！蕭邦！》顛覆鋼琴詩人既定印象 10/23全台上映",
+            "link": "https://udn.com//news/story/11184/9839062?from=udn-catebreaknews_ch2",
+            "time": "2026-10-27 11:56"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/27/35456977.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "抱著好奇心 在莫札特的音樂裡發現自己－指揮林勤超談《女人皆如此》",
+            "link": "https://udn.com//news/story/11184/9839051?from=udn-catebreaknews_ch2",
+            "time": "2026-10-27 11:54"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/23/35447516.jpg&M=1&s=Y&x=0&y=0&sw=579&sh=386&exp=3600&w=300",
             "title": "孩子數學不好不是不會算 研究揭兩大關鍵能力",
             "link": "https://udn.com//news/story/6897/9832795?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "公司曾連虧15年、慘到做垃圾桶，王永慶外孫的光通訊之戰",
             "link": "https://udn.com//news/story/6837/9832764?from=udn-catebreaknews_ch2",
             "time": "2026-10-23 08:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/23/35447475.jpg&M=1&s=Y&x=50&y=0&sw=678&sh=452&exp=3600&w=300",
-            "title": "台積電明年營收能否破8兆 不只看輝達，更要看蘇姿丰",
-            "link": "https://udn.com//news/story/6837/9832762?from=udn-catebreaknews_ch2",
-            "time": "2026-10-23 08:15"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/22/35445374.jpg&M=1&s=Y&x=0&y=55&sw=1140&sh=760&exp=3600&w=300",
-            "title": "中環珍姐海鮮火鍋跨海進晶華 10/19起限時7天 4位即可開鍋",
-            "link": "https://udn.com//news/story/6839/9831216?from=udn-catebreaknews_ch2",
-            "time": "2026-10-22 14:52"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/22/35445272.jpg&M=1&s=Y&x=0&y=52&sw=1140&sh=760&exp=3600&w=300",
-            "title": "美吾華上半年獲利增近2成 用超聲波助提升製程 安克拚打入半導體供應鏈",
-            "link": "https://udn.com//news/story/6839/9831171?from=udn-catebreaknews_ch2",
-            "time": "2026-10-22 14:35"
         }
     ]
 }
