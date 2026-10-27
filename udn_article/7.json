@@ -1,13 +1,19 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/21/35440704.jpg&M=1&s=Y&x=26&y=0&sw=1219&sh=812&exp=3600&w=300",
+            "title": "台股虎頭蛇尾 拚反彈看四個訊號",
+            "link": "https://udn.com//news/story/7251/9840841?from=udn-catebreaknews_ch2",
+            "time": "2026-10-28 03:31"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/27/35458211.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "台股資金轉向中低價股 買盤擁抱金融、電信等防禦性族群",
             "link": "https://udn.com//news/story/7251/9840903?from=udn-catebreaknews_ch2",
             "time": "2026-10-28 02:52"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_7.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
             "title": "大立光打6000保衛戰",
             "link": "https://udn.com//news/story/7252/9840906?from=udn-catebreaknews_ch2",
             "time": "2026-10-28 02:50"
@@ -19,16 +25,10 @@
             "time": "2026-10-28 01:36"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_8.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_1.jpg&w=300",
             "title": "欣興前三季每股純益衝17.85元",
             "link": "https://udn.com//news/story/7252/9840826?from=udn-catebreaknews_ch2",
             "time": "2026-10-28 01:34"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/27/35459861.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "外資賣超亞股…台股失血 上周遭提款近76億美元",
-            "link": "https://udn.com//news/story/10103/9840683?from=udn-catebreaknews_ch2",
-            "time": "2026-10-28 00:45"
         }
     ]
 }
