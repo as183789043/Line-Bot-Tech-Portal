@@ -1,6 +1,24 @@
 {
     "地方": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/30/35467943.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "風災致嘉義樹木園步道封閉逾1年 修復完工期曝",
+            "link": "https://udn.com//news/story/7326/9846206?from=udn-catebreaknews_ch2",
+            "time": "2026-10-30 08:53"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/30/35467913.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "嘉義火車站地下道封閉施工 街友半夜搭蚊帳睡路上嚇壞騎士",
+            "link": "https://udn.com//news/story/7326/9846193?from=udn-catebreaknews_ch2",
+            "time": "2026-10-30 08:38"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/30/35467811.jpg&M=1&s=Y&x=0&y=463&sw=1107&sh=738&exp=3600&w=300",
+            "title": "疑有爆炸聲響！北捷淡水線車廂行動電源突冒煙 乘客驚逃",
+            "link": "https://udn.com//news/story/7323/9846111?from=udn-catebreaknews_ch2",
+            "time": "2026-10-30 06:34"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/29/35467354.jpg&M=1&s=Y&x=0&y=0&sw=1257&sh=838&exp=3600&w=300",
             "title": "前30分鐘免費 花蓮公共自行車上路",
             "link": "https://udn.com//news/story/7328/9845713?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "廣角鏡／屏東家扶3督導化身認養人 伴弱勢童逾20年",
             "link": "https://udn.com//news/story/7327/9845813?from=udn-catebreaknews_ch2",
             "time": "2026-10-30 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/29/35467480.jpg&M=1&s=Y&x=0&y=0&sw=1083&sh=722&exp=3600&w=300",
-            "title": "張善政率里長參訪 為IC載板專區釋疑",
-            "link": "https://udn.com//news/story/7324/9845863?from=udn-catebreaknews_ch2",
-            "time": "2026-10-30 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/29/35467340.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=853&exp=3600&w=300",
-            "title": "高雄AI燈塔計畫成果發表 道路異常2分鐘派案、工業區空汙陳情降3成",
-            "link": "https://udn.com//news/story/7327/9845704?from=udn-catebreaknews_ch2",
-            "time": "2026-10-29 22:20"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/29/35467223.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "宜蘭議長張勝德攜企業捐贈瓦斯自動關閉器 避免長者忘關火釀災",
-            "link": "https://udn.com//news/story/7328/9845598?from=udn-catebreaknews_ch2",
-            "time": "2026-10-29 21:08"
         }
     ]
 }
