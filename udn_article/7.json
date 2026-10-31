@@ -1,6 +1,12 @@
 {
     "股市": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35472794.png&M=1&s=Y&x=0&y=0&sw=771&sh=514&exp=3600&w=300",
+            "title": "台股主動式誰10月最強？僅這一檔百億元高息ETF贏大盤",
+            "link": "https://udn.com//news/story/123006/9849090?from=udn-catebreaknews_ch2",
+            "time": "2026-10-31 17:07"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35472011.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "美科技股重挫台積電ADR跌近6% 法人：台股下週開盤恐承壓",
             "link": "https://udn.com//news/story/7251/9848691?from=udn-catebreaknews_ch2",
@@ -23,12 +29,6 @@
             "title": "歷來最慘！外資本月大砍台股近兆元 公股低接2,409億創新高",
             "link": "https://udn.com//news/story/7251/9847954?from=udn-catebreaknews_ch2",
             "time": "2026-10-31 02:21"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6645_3.jpg&w=300",
-            "title": "台股狂瀉！散戶撿便宜 搶ETF零股",
-            "link": "https://udn.com//news/story/7251/9847949?from=udn-catebreaknews_ch2",
-            "time": "2026-10-31 02:19"
         }
     ]
 }
