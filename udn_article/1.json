@@ -1,7 +1,19 @@
 {
     "要聞": [
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_9.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35471102.png&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
+            "title": "女中尉墜樓1個月 當初因洪仲丘案上位、吶喊者在哪",
+            "link": "https://udn.com//news/story/6656/9848223?from=udn-catebreaknews_ch2",
+            "time": "2026-10-31 05:51"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/30/35471023.png&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "軍中又傳霸凌 圖解中尉墜樓時間軸 國防部為何「變臉」",
+            "link": "https://udn.com//news/story/7314/9848222?from=udn-catebreaknews_ch2",
+            "time": "2026-10-31 05:50"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6638_1.jpg&w=300",
             "title": "柯志恩批新潮流金孫 賴瑞隆轟重北輕南",
             "link": "https://udn.com//news/story/124652/9848081?from=udn-catebreaknews_ch2",
             "time": "2026-10-31 02:43"
@@ -17,18 +29,6 @@
             "title": "歷史上的今天／1967年蔣中正生日 僑胞訂日本煙火淡水施放",
             "link": "https://udn.com//news/story/7314/9848127?from=udn-catebreaknews_ch2",
             "time": "2026-10-31 00:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35471052.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "謝典霖案擴大偵辦 彰縣議長之爭添變數",
-            "link": "https://udn.com//news/story/6656/9848016?from=udn-catebreaknews_ch2",
-            "time": "2026-10-31 00:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/30/35470961.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600&w=300",
-            "title": "搶客家票 江啟臣、何欣純同場較勁",
-            "link": "https://udn.com//news/story/124652/9848007?from=udn-catebreaknews_ch2",
-            "time": "2026-10-31 00:00"
         }
     ]
 }
