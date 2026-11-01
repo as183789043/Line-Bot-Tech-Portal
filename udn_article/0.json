@@ -1,13 +1,19 @@
 {
     "即時": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/02/35475561.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "影／抱病親自拜託！宜蘭老議長張建榮被人攙扶為子授旗 感動全場",
+            "link": "https://udn.com//news/story/124652/9850919?from=udn-ch1_breaknews-1-0-news",
+            "time": "2026-11-02 02:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/01/35475431.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "川普前首席策士：共和黨選後恐爆內戰 保住眾院是「奇蹟」",
             "link": "https://udn.com//news/story/6813/9850862?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-11-01 23:38"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7227_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid7227_0.jpg&w=300",
             "title": "舉重／只差1公斤！郭婞淳世錦賽兩項排第4錯過頒獎台",
             "link": "https://udn.com//news/story/7005/9850793?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-11-01 23:18"
@@ -19,16 +25,10 @@
             "time": "2026-11-01 23:18"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_3.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6640_0.jpg&w=300",
             "title": "深圳APEC 廣東調全省警力「確保重兵上街嚴管嚴控」",
             "link": "https://udn.com//news/story/7331/9850739?from=udn-ch1_breaknews-1-0-news",
             "time": "2026-11-01 23:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/01/35475294.jpg&M=1&s=Y&x=0&y=0&sw=1209&sh=806&exp=3600&w=300",
-            "title": "中東衝突原油斷供 路透：OPEC+會議料將12月目標產油量維持不變",
-            "link": "https://udn.com//news/story/6811/9850696?from=udn-ch1_breaknews-1-0-news",
-            "time": "2026-11-01 22:50"
         }
     ]
 }
