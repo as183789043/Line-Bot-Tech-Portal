@@ -1,6 +1,12 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/31/35473073.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "大陸記憶體想靠新技術超車 美光看清眉角決定不跟了",
+            "link": "https://udn.com//news/story/7240/9850998?from=udn-catebreaknews_ch2",
+            "time": "2026-11-02 07:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/01/35475365.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "財富管理論壇周四登場／國泰世華銀首席經濟學家林啟超：供應鏈位移 翻轉經濟",
             "link": "https://udn.com//news/story/7239/9850773?from=udn-catebreaknews_ch2",
@@ -13,7 +19,7 @@
             "time": "2026-11-02 02:20"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_6.jpg&w=300",
             "title": "壽險金控賣金融股鎖利 挹注配息",
             "link": "https://udn.com//news/story/7239/9850837?from=udn-catebreaknews_ch2",
             "time": "2026-11-02 02:18"
@@ -23,12 +29,6 @@
             "title": "聯電奪光通訊重量級大單 價格為傳統製程七倍 挹注獲利大躍進",
             "link": "https://udn.com//news/story/7240/9850709?from=udn-catebreaknews_ch2",
             "time": "2026-11-02 02:16"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_9.jpg&w=300",
-            "title": "聯電多張王牌助攻 建立優勢",
-            "link": "https://udn.com//news/story/7240/9850732?from=udn-catebreaknews_ch2",
-            "time": "2026-11-02 02:14"
         }
     ]
 }
