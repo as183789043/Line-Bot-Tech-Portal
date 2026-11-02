@@ -1,6 +1,24 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/02/35477430.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "生技藥廠瘋澳洲臨床試驗 台灣上看半年，他們如何做到幾週就啟動？",
+            "link": "https://udn.com//news/story/6841/9852071?from=udn-catebreaknews_ch2",
+            "time": "2026-11-02 15:11"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/02/35477355.jpg&M=1&s=Y&x=0&y=0&sw=1260&sh=840&exp=3600&w=300",
+            "title": "高齡獨居也不怕？建商搶蓋「類養生村」、社宅變長輩第二個家",
+            "link": "https://udn.com//news/story/6841/9852023?from=udn-catebreaknews_ch2",
+            "time": "2026-11-02 15:10"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/02/35476232.jpg&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
+            "title": "章魚、烏賊為何那麼聰明？ 答案可能藏在DNA三維結構",
+            "link": "https://udn.com//news/story/6897/9851406?from=udn-catebreaknews_ch2",
+            "time": "2026-11-02 15:09"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/29/35466559.jpg&M=1&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
             "title": "Kaohsiung Nanzaikeng Sports Center",
             "link": "https://udn.com//news/story/6967/9845088?from=udn-catebreaknews_ch2",
@@ -10,24 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/29/35466537.jpg&M=1&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
             "title": "Revitalizing the Cishan Banana Kingdom",
             "link": "https://udn.com//news/story/6967/9845077?from=udn-catebreaknews_ch2",
-            "time": "2026-11-01 09:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/29/35466525.jpg&M=1&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
-            "title": "Exploring Houjin in Transformation",
-            "link": "https://udn.com//news/story/6967/9845070?from=udn-catebreaknews_ch2",
-            "time": "2026-11-01 09:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/29/35466497.jpg&M=1&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
-            "title": "A Beer Brewed with the Flavors of Kaohsiung's Autumn Harvest",
-            "link": "https://udn.com//news/story/6967/9845052?from=udn-catebreaknews_ch2",
-            "time": "2026-11-01 09:07"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/29/35466449.jpg&M=1&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
-            "title": "Lifting Her Dreams: Bunun Teenager Wu Yu-Syuan Journey from Taoyuan",
-            "link": "https://udn.com//news/story/6967/9845044?from=udn-catebreaknews_ch2",
             "time": "2026-11-01 09:07"
         }
     ]
