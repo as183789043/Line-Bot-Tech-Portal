@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35490744.jpg&M=1&s=Y&x=0&y=0&sw=665&sh=443&exp=3600&w=300",
+            "title": "22縣市長花錢大調查》城市CEO挑戰者沈伯洋、江啟臣、蘇巧慧出什麼菜？",
+            "link": "https://udn.com//news/story/6837/9860990?from=udn-catebreaknews_ch2",
+            "time": "2026-11-06 08:23"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35490746.jpg&M=1&s=Y&x=0&y=0&sw=678&sh=452&exp=3600&w=300",
+            "title": "一塊錢接下連虧14年的公司 亞昕豪賭翻身功率半導體金雞",
+            "link": "https://udn.com//news/story/6837/9860993?from=udn-catebreaknews_ch2",
+            "time": "2026-11-06 08:19"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/05/35488869.jpg&M=1&s=Y&x=217&y=0&sw=939&sh=626&exp=3600&w=300",
             "title": "Flip Chip放量＋封測漲價成長股：超豐",
             "link": "https://udn.com//news/story/6850/9859322?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "輝達搶封測產能受惠股：京元電",
             "link": "https://udn.com//news/story/6850/9859333?from=udn-catebreaknews_ch2",
             "time": "2026-11-05 15:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/05/35488854.jpg&M=1&s=Y&x=181&y=0&sw=932&sh=621&exp=3600&w=300",
-            "title": "富喬AI高階玻纖布供不應求",
-            "link": "https://udn.com//news/story/6850/9859334?from=udn-catebreaknews_ch2",
-            "time": "2026-11-05 15:06"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/05/35488846.jpg&M=1&s=Y&x=182&y=0&sw=937&sh=625&exp=3600&w=300",
-            "title": "低軌衛星＋光通訊 穩懋2027年營運大爆發！",
-            "link": "https://udn.com//news/story/6850/9859347?from=udn-catebreaknews_ch2",
-            "time": "2026-11-05 15:05"
         }
     ]
 }
