@@ -1,13 +1,19 @@
 {
     "生活": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/08/35496318.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
+            "title": "東北季風明增強周二晨北台低溫15度 吳德榮：查帕卡明增為中颱大迴轉",
+            "link": "https://udn.com//news/story/7266/9864520?from=udn-catebreaknews_ch2",
+            "time": "2026-11-08 07:19"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/07/35496051.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "公費放寬 乳癌2年篩檢率不到5成",
             "link": "https://udn.com//news/story/7266/9864345?from=udn-catebreaknews_ch2",
             "time": "2026-11-08 00:00"
         },
         {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_1.jpg&w=300",
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6649_3.jpg&w=300",
             "title": "護品質 醫改會：單次醫材禁重消不應再延",
             "link": "https://udn.com//news/story/7266/9864343?from=udn-catebreaknews_ch2",
             "time": "2026-11-08 00:00"
@@ -22,12 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/07/35496056.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
             "title": "台壽祖孫三代健走 15年累積44萬公里",
             "link": "https://udn.com//news/story/7266/9864350?from=udn-catebreaknews_ch2",
-            "time": "2026-11-08 00:00"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/08/35496249.jpg&M=1&s=Y&x=0&y=0&sw=918&sh=612&exp=3600&w=300",
-            "title": "明年上路…單次醫材禁重消 醫界盼緩衝",
-            "link": "https://udn.com//news/story/7266/9864341?from=udn-catebreaknews_ch2",
             "time": "2026-11-08 00:00"
         }
     ]
