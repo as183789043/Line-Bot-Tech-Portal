@@ -1,6 +1,24 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_2.jpg&w=300",
+            "title": "一台20萬搶破頭 輝達RTX Spark打破PC傳統界線",
+            "link": "https://udn.com//news/story/7240/9863237?from=udn-catebreaknews_ch2",
+            "time": "2026-11-07 09:19"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/07/35494344.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
+            "title": "輝達RTX Spark掀話題 分析師：普及仍需時間",
+            "link": "https://udn.com//news/story/7240/9863245?from=udn-catebreaknews_ch2",
+            "time": "2026-11-07 09:18"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35493883.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "打工度假保險怎麼挑？停留天數、醫療額度眉角一次看",
+            "link": "https://udn.com//news/story/121591/9863144?from=udn-catebreaknews_ch2",
+            "time": "2026-11-07 06:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/06/35493154.jpg&M=1&s=Y&x=0&y=0&sw=947&sh=631&exp=3600&w=300",
             "title": "傳台積電進軍3D DRAM 應輝達要求規劃製造、評估建廠",
             "link": "https://udn.com//news/story/7240/9863088?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "台股大逃殺免驚！府院信心喊話 總統、卓揆都說話了",
             "link": "https://udn.com//news/story/7238/9862925?from=udn-catebreaknews_ch2",
             "time": "2026-11-07 03:05"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_1.jpg&w=300",
-            "title": "台幣戲劇性翻紅 升逾1角",
-            "link": "https://udn.com//news/story/7239/9862922?from=udn-catebreaknews_ch2",
-            "time": "2026-11-07 02:59"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/09/28/35369184.jpg&M=1&s=Y&x=0&y=35&sw=1280&sh=853&exp=3600&w=300",
-            "title": "瑞銀：AI 投資循環調整期非泡沫破裂 台灣市場估值浮現吸引力",
-            "link": "https://udn.com//news/story/7239/9862909?from=udn-catebreaknews_ch2",
-            "time": "2026-11-07 02:32"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/12/15/2/33964399.jpg&s=Y&x=0&y=0&sw=1277&sh=852&exp=3600&w=300",
-            "title": "美期中選舉後變天 台廠赴美投資布局面臨三變數",
-            "link": "https://udn.com//news/story/7240/9862979?from=udn-catebreaknews_ch2",
-            "time": "2026-11-07 02:16"
         }
     ]
 }
