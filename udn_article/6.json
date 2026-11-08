@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/08/35496416.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "本周台股／國安基金、限空令到選舉 三大利多能否止跌",
+            "link": "https://udn.com//news/story/7238/9864744?from=udn-catebreaknews_ch2",
+            "time": "2026-11-08 11:01"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/08/35496528.jpg&M=1&s=Y&x=0&y=167&sw=1280&sh=854&exp=3600&w=300",
+            "title": "樹德企業結合發那科Fanuc 推出「協作機器人手臂工作站」",
+            "link": "https://udn.com//news/story/7240/9864680?from=udn-catebreaknews_ch2",
+            "time": "2026-11-08 10:35"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/07/35495889.png&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
             "title": "怕失智錢被領光？自己的養老錢自己顧！ 生活費定額、醫療實支實付契約要這樣寫",
             "link": "https://udn.com//news/story/121591/9859751?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "匯市最前線／台幣將32.5-33元整理",
             "link": "https://udn.com//news/story/7239/9864401?from=udn-catebreaknews_ch2",
             "time": "2026-11-08 02:45"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/07/35496041.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
-            "title": "華邦電：AI 建設二年內無虞 董座焦佑鈞指2029年是關鍵時間點",
-            "link": "https://udn.com//news/story/7240/9864331?from=udn-catebreaknews_ch2",
-            "time": "2026-11-08 02:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/08/35496269.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "評論台積開發3D DRAM傳聞 華邦電董座：晶片一哥不會做半吊子",
-            "link": "https://udn.com//news/story/7240/9864320?from=udn-catebreaknews_ch2",
-            "time": "2026-11-08 02:33"
         }
     ]
 }
