@@ -1,6 +1,24 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/09/35500175.jpg&M=1&x=&y=&sw=&sh=&exp=3600&w=300",
+            "title": "政大迎百年 以人文底蘊為本 擬規劃半導體課程 培養科技業的社科人才",
+            "link": "https://udn.com//news/story/6839/9866977?from=udn-catebreaknews_ch2",
+            "time": "2026-11-09 15:28"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/09/35500106.jpg&M=1&s=Y&x=0&y=7&sw=649&sh=433&exp=3600&w=300",
+            "title": "謝金河驚嘆員山子分洪工程 揭當年挨批要花5千億 實際316億杜絕水患",
+            "link": "https://udn.com//news/story/6839/9866932?from=udn-catebreaknews_ch2",
+            "time": "2026-11-09 15:13"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/09/35498624.jpg&M=1&s=Y&x=0&y=0&sw=798&sh=532&exp=3600&w=300",
+            "title": "運動過度適得其反 研究：禍首就是多巴胺",
+            "link": "https://udn.com//news/story/6897/9866044?from=udn-catebreaknews_ch2",
+            "time": "2026-11-09 15:05"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/05/35488534.jpg&M=1&s=Y&x=70&y=102&sw=847&sh=565&exp=3600&w=300",
             "title": "山海之間　高雄人的秋冬餐桌",
             "link": "https://udn.com//news/story/6966/9859463?from=udn-catebreaknews_ch2",
@@ -10,24 +28,6 @@
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/05/35488398.jpg&M=1&s=Y&x=75&y=99&sw=852&sh=568&exp=3600&w=300",
             "title": "一塊田的百年 永田農家的新日常",
             "link": "https://udn.com//news/story/6966/9859402?from=udn-catebreaknews_ch2",
-            "time": "2026-11-08 10:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/05/35487044.jpg&M=1&s=Y&x=77&y=104&sw=844&sh=563&exp=3600&w=300",
-            "title": "酵素土雞皮蛋 那瑪夏孕育的農業新意",
-            "link": "https://udn.com//news/story/6966/9858630?from=udn-catebreaknews_ch2",
-            "time": "2026-11-08 10:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/04/35485365.jpg&M=1&s=Y&x=81&y=101&sw=849&sh=566&exp=3600&w=300",
-            "title": "從鹽田到藍田 一所學校長在土地上",
-            "link": "https://udn.com//news/story/6966/9857372?from=udn-catebreaknews_ch2",
-            "time": "2026-11-08 10:14"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/04/35485127.jpg&M=1&s=Y&x=0&y=0&sw=999&sh=666&exp=3600&w=300",
-            "title": "期待草鴞住下的搖滾稻田 飄出旗山新米香",
-            "link": "https://udn.com//news/story/6966/9857177?from=udn-catebreaknews_ch2",
             "time": "2026-11-08 10:14"
         }
     ]
