@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/13/35515373.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "鴻海法說會／民主黨大勝影響多大？ 劉揚偉：今年展望上調、營運雙位數成長",
+            "link": "https://udn.com//news/story/6839/9876955?from=udn-catebreaknews_ch2",
+            "time": "2026-11-13 15:12"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/13/35514345.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "輝達市值蒸發2.2兆美元 謝金河嘆黃仁勳太執著中國市場 豪氣兆元宴成絕響",
+            "link": "https://udn.com//news/story/6839/9876416?from=udn-catebreaknews_ch2",
+            "time": "2026-11-13 15:01"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/12/35511418.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=853&exp=3600&w=300",
             "title": "宇樹機器人和發那科機器手的競賽 謝金河比股價：誰有底氣？",
             "link": "https://udn.com//news/story/6839/9874540?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "施振榮二度任APEC代表 亞太經合會在深圳 總統府強調無涉「一中原則」",
             "link": "https://udn.com//news/story/6839/9874474?from=udn-catebreaknews_ch2",
             "time": "2026-11-12 15:04"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/12/35511072.jpg&M=1&s=Y&x=197&y=0&sw=936&sh=624&exp=3600&w=300",
-            "title": "群聯Q3營收年增3.7倍 企業級AI儲存逐季躍升！",
-            "link": "https://udn.com//news/story/6850/9874283?from=udn-catebreaknews_ch2",
-            "time": "2026-11-12 14:35"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/12/35511063.jpg&M=1&s=Y&x=197&y=0&sw=934&sh=622&exp=3600&w=300",
-            "title": "聯發科：AI ASIC訂單加速放量",
-            "link": "https://udn.com//news/story/6850/9874282?from=udn-catebreaknews_ch2",
-            "time": "2026-11-12 14:34"
         }
     ]
 }
