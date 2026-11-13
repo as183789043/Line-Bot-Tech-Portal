@@ -1,5 +1,8 @@
 name: Update Lambda Layer
 
+permissions:
+  contents: read
+
 on:
   # 手動觸發
   workflow_dispatch:
