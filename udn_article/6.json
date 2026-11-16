@@ -1,6 +1,18 @@
 {
     "產經": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/16/35521093.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "黃仁勳外遇 北士科房市有事？李同榮：未來半年進入「三不」情況",
+            "link": "https://udn.com//news/story/7240/9880878?from=udn-catebreaknews_ch2",
+            "time": "2026-11-16 08:55"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/14/35518438.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
+            "title": "銀行密碼有失效風險？全球金融安全的「末日」正在倒數",
+            "link": "https://udn.com//news/story/7238/9880783?from=udn-catebreaknews_ch2",
+            "time": "2026-11-16 07:00"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/15/35520687.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "創新論壇11月25日登場／晶華國際酒店集團營運長吳偉正：善用 AI 更懂顧客的心",
             "link": "https://udn.com//news/story/7238/9880560?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "後黃仁勳時代 GPU平台推進出現雜音 輝達VR傳延後放量牽動台鏈",
             "link": "https://udn.com//news/story/7240/9880542?from=udn-catebreaknews_ch2",
             "time": "2026-11-16 02:30"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://p.udn.com.tw/upf/2017_news/noimg_cid6644_0.jpg&w=300",
-            "title": "輝達進入「後黃仁勳時代」半導體業密切觀察三重點",
-            "link": "https://udn.com//news/story/7240/9880577?from=udn-catebreaknews_ch2",
-            "time": "2026-11-16 02:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/08/25/35263927.jpg&M=1&s=Y&x=78&y=92&sw=1060&sh=707&exp=3600&w=300",
-            "title": "台積電、友達合攻先進封裝 在玻璃基板 CoPoS 領域合作開發新製程",
-            "link": "https://udn.com//news/story/7240/9880563?from=udn-catebreaknews_ch2",
-            "time": "2026-11-16 02:17"
         }
     ]
 }
