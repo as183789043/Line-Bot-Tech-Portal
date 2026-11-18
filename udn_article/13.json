@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/18/35527769.jpg&M=1&s=Y&x=142&y=0&sw=930&sh=620&exp=3600&w=300",
+            "title": "艾索普出掌魏本室內愛樂",
+            "link": "https://udn.com//news/story/11184/9885323?from=udn-catebreaknews_ch2",
+            "time": "2026-11-18 07:23"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/18/35527780.jpg&M=1&s=Y&x=0&y=0&sw=1278&sh=852&exp=3600&w=300",
+            "title": "從垃圾山登場的《卡門》　「東京二期會」前衛製作札幌現場",
+            "link": "https://udn.com//news/story/11184/9885324?from=udn-catebreaknews_ch2",
+            "time": "2026-11-18 07:23"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/17/35526569.png&M=1&s=Y&x=0&y=0&sw=1200&sh=800&exp=3600&w=300",
             "title": "調查／年終獎金平均上看1.61個月 AI工程師平均年薪中位數可達123.8萬元",
             "link": "https://udn.com//news/story/6839/9884407?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "你吃的早餐可能是甜點！長壽專家揭常見地雷：很多人天天吃",
             "link": "https://udn.com//news/story/6841/9881988?from=udn-catebreaknews_ch2",
             "time": "2026-11-17 15:03"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/16/35522854.jpg&M=1&s=Y&x=0&y=0&sw=1257&sh=838&exp=3600&w=300",
-            "title": "AI武器化 美中衝突機率更高？專訪美國DIU共同創辦人",
-            "link": "https://udn.com//news/story/6841/9881972?from=udn-catebreaknews_ch2",
-            "time": "2026-11-17 15:02"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/17/35525519.jpg&M=1&s=Y&x=224&y=90&sw=1056&sh=704&exp=3600&w=300",
-            "title": "黃仁勳走了輝達怎麼辦？ 管理專家：組織架構「難以長久」",
-            "link": "https://udn.com//news/story/6841/9883873?from=udn-catebreaknews_ch2",
-            "time": "2026-11-17 13:34"
         }
     ]
 }
