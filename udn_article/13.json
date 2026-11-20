@@ -1,6 +1,18 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/20/35537304.jpg&M=1&s=Y&x=29&y=0&sw=1252&sh=834&exp=3600&w=300",
+            "title": "網銀盜轉事件擴大 4家通報5案損失逾56萬 金管會：非資安漏洞",
+            "link": "https://udn.com//news/story/6839/9891454?from=udn-catebreaknews_ch2",
+            "time": "2026-11-20 15:15"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/20/35537234.jpg&M=1&s=Y&x=0&y=68&sw=1140&sh=760&exp=3600&w=300",
+            "title": "「台積電力積電美光都它客戶」 銳澤攜手德國梅塞爾拼CPO擴廠商機",
+            "link": "https://udn.com//news/story/6839/9891409?from=udn-catebreaknews_ch2",
+            "time": "2026-11-20 15:08"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/20/35535463.jpg&M=1&s=Y&x=80&y=0&sw=678&sh=452&exp=3600&w=300",
             "title": "允許「神」存在的時代結束了 AI產業迎遲來的成人禮",
             "link": "https://udn.com//news/story/6837/9890454?from=udn-catebreaknews_ch2",
@@ -17,18 +29,6 @@
             "title": "白宮反中鷹派出手 謝金河：黃仁勳誤判政治，從神壇跌下！",
             "link": "https://udn.com//news/story/6839/9889185?from=udn-catebreaknews_ch2",
             "time": "2026-11-19 15:36"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/19/35533771.jpg&M=1&s=Y&x=0&y=92&sw=1140&sh=760&exp=3600&w=300",
-            "title": "好市多黑五前再祭優惠！500元購物券怎麼領？線上購物最高5%回饋",
-            "link": "https://udn.com//news/story/6839/9889139?from=udn-catebreaknews_ch2",
-            "time": "2026-11-19 15:27"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/19/35533511.png&M=1&s=Y&x=342&y=0&sw=938&sh=625&exp=3600&w=300",
-            "title": "AI封裝＋漲價雙利多低估股",
-            "link": "https://udn.com//news/story/6850/9888902?from=udn-catebreaknews_ch2",
-            "time": "2026-11-19 14:26"
         }
     ]
 }
