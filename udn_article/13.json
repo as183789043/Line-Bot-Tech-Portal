@@ -1,6 +1,24 @@
 {
     "雜誌": [
         {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/24/35548606.jpg&M=1&s=Y&x=0&y=84&sw=1140&sh=760&exp=3600&w=300",
+            "title": "以房養股、四貸同堂崩潰中…房市抵押設定逾46萬棟 考驗現金流底線 3對策曝光",
+            "link": "https://udn.com//news/story/6839/9898758?from=udn-catebreaknews_ch2",
+            "time": "2026-11-24 14:55"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/24/35548530.jpg&M=1&s=Y&x=18&y=0&sw=1262&sh=841&exp=3600&w=300",
+            "title": "台股震盪融資續減64.6億元！ 上櫃市場減幅逾50億 中小型股籌碼壓力沉重",
+            "link": "https://udn.com//news/story/6839/9898735?from=udn-catebreaknews_ch2",
+            "time": "2026-11-24 14:40"
+        },
+        {
+            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/24/35548292.jpg&M=1&s=Y&x=223&y=0&sw=1057&sh=705&exp=3600&w=300",
+            "title": "股價跌25%、本金卻蒸發50%！巴菲特為何反對借錢買股？",
+            "link": "https://udn.com//news/story/6841/9898513?from=udn-catebreaknews_ch2",
+            "time": "2026-11-24 13:47"
+        },
+        {
             "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/23/35545847.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600&w=300",
             "title": "新光人壽打造安心退休有保障平台 以數位金融提升財務韌性",
             "link": "https://udn.com//news/story/6853/9896736?from=udn-catebreaknews_ch2",
@@ -11,24 +29,6 @@
             "title": "BBC愛樂聘得新任首席指揮",
             "link": "https://udn.com//news/story/11184/9897530?from=udn-catebreaknews_ch2",
             "time": "2026-11-24 07:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/24/35546638.jpg&M=1&s=Y&x=126&y=1&sw=1062&sh=708&exp=3600&w=300",
-            "title": "美國國家交響樂團自力求生",
-            "link": "https://udn.com//news/story/11184/9897527?from=udn-catebreaknews_ch2",
-            "time": "2026-11-24 07:24"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/23/35545159.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "川習二會關稅休戰難掩戰略對抗 美中俄歐進入新一輪權力競逐",
-            "link": "https://udn.com//news/story/6853/9896372?from=udn-catebreaknews_ch2",
-            "time": "2026-11-23 15:15"
-        },
-        {
-            "img_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/23/35545307.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300",
-            "title": "黃仁勳卸任！兒女「靠爸」穩坐輝達要職年薪4千萬 兩人被爆處境超尷尬",
-            "link": "https://udn.com//news/story/6839/9896398?from=udn-catebreaknews_ch2",
-            "time": "2026-11-23 14:57"
         }
     ]
 }
